@@ -23,6 +23,8 @@ the game fetches its data file. The photos themselves stream from the internet.)
   up in red with a **Next →** button beside it.
 - **Right** → a bold green `CORRECT!` for one second, then the same reveal in
   green.
+- **Give up** sits at the right of the row. It shows the name straight away —
+  no hints, no flash — and scores nothing for that animal.
 - Click **Next →** for a new animal. Plays as long as you like.
 
 ### Guessing the noun

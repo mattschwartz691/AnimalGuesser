@@ -5,7 +5,7 @@
 }
 *{box-sizing:border-box}
 body{
-  margin:0; min-height:100vh; background:var(--bg); color:var(--ink);
+  margin:0; min-height:100vh; max-width:100%; overflow-x:hidden; background:var(--bg); color:var(--ink);
   font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   display:flex; flex-direction:column; align-items:center;
 }
@@ -30,7 +30,7 @@ h1{margin:0; font-size:22px; letter-spacing:.5px; font-weight:650}
 #tierbadge{color:var(--accent); font-weight:600}
 
 main{
-  width:100%; max-width:660px; padding:10px 16px 40px;
+  width:100%; max-width:660px; min-width:0; padding:10px 16px 40px;
   display:flex; flex-direction:column; align-items:center;
 }
 
@@ -82,10 +82,13 @@ main{
 #flash.part{color:#ffb020; font-size:21px}
 
 /* ---- guess bar ---- */
-#guessbar{margin-top:14px; display:flex; gap:8px; width:100%; max-width:460px}
+#guessbar{
+  margin-top:14px; display:flex; gap:8px; width:100%; max-width:580px;
+  flex-wrap:wrap; justify-content:center;
+}
 #guessbar.hidden{display:none}
 #guess{
-  flex:1; padding:13px 15px; font-size:16px;
+  flex:1 1 190px; min-width:0; padding:13px 15px; font-size:16px;
   background:var(--panel); color:var(--ink);
   border:1px solid var(--line); border-radius:10px; outline:none;
 }
@@ -114,6 +117,15 @@ main{
   border:2px solid var(--bg); pointer-events:none;
 }
 #hintcount.spent{background:#4a5666; color:#aab6c6}
+
+/* ---- give up ---- */
+#giveup{
+  flex:none; padding:13px 16px; font-size:14px; font-weight:600; cursor:pointer;
+  background:transparent; color:var(--dim);
+  border:1px solid var(--line); border-radius:10px;
+}
+#giveup:hover:not(:disabled){color:var(--red); border-color:var(--red)}
+#giveup:disabled{opacity:.4; cursor:not-allowed}
 
 /* ---- reveal + next ---- */
 #reveal{
@@ -196,7 +208,12 @@ main{
 }
 #close:hover{color:var(--ink)}
 
-@media (max-width:520px){
+@media (max-width:560px){
   h1{font-size:19px} #flash{font-size:24px} #answer{font-size:20px}
   header{padding-top:16px}
+  /* the input takes its own row so the three buttons wrap under it */
+  #guess{flex:1 1 100%}
+  #guessbar{max-width:100%}
+  #submit,#giveup,#hint{padding-left:14px; padding-right:14px}
+  #scoreline{font-size:12px}
 }

@@ -9,7 +9,7 @@ const el = {
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
-  hintsci:$("hintsci"), hintscirow:$("hintscirow"),
+  hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"),
@@ -240,6 +240,7 @@ function updateHintButton() {
   el.hintcount.textContent = left;
   el.hintcount.classList.toggle("spent", left === 0);
   el.hint.disabled = locked || left === 0;
+  el.giveup.disabled = locked;
 }
 
 function useHint() {
@@ -315,6 +316,7 @@ function newRound(triesLeft = 6) {
   el.guess.value = "";
   el.guess.disabled = false;
   el.submit.disabled = false;
+  el.giveup.disabled = false;
   el.photo.classList.remove("ready");
   el.spinner.classList.remove("hidden");
   el.credit.textContent = "";
@@ -426,24 +428,41 @@ function submitGuess(ev) {
   el.flash.className = right ? "right" : "wrong";
 
   setTimeout(() => {
-    // 2. flash goes away, 3. guess bar goes away
+    // 2. flash goes away, 3. guess bar goes away, 4. the answer is revealed
     el.flash.className = "hidden";
-    el.guessbar.classList.add("hidden");
-
-    // 4. the answer is revealed, with Next beside it
-    const a = current.animal;
-    el.answer.textContent = a.name;
-    el.answer.className = right ? "right" : "wrong";
-    el.credit.innerHTML =
-      "Photo: " + escapeHtml(current.photo.credit || "iNaturalist") +
-      (current.photo.obs
-        ? ' · <a href="' + escapeAttr(current.photo.obs) +
-          '" target="_blank" rel="noopener">source</a>' : "") +
-      (a.sci ? " · <i>" + escapeHtml(a.sci) + "</i>" : "");
-    el.reveal.classList.remove("hidden");
-    el.next.focus();
-    locked = false;
+    revealAnswer(right);
   }, FLASH_MS);
+}
+
+// Show the animal's name with Next beside it, and end the round.
+function revealAnswer(right) {
+  if (!current) return;
+  el.guessbar.classList.add("hidden");
+  const a = current.animal;
+  el.answer.textContent = a.name;
+  el.answer.className = right ? "right" : "wrong";
+  el.credit.innerHTML =
+    "Photo: " + escapeHtml(current.photo.credit || "iNaturalist") +
+    (current.photo.obs
+      ? ' · <a href="' + escapeAttr(current.photo.obs) +
+        '" target="_blank" rel="noopener">source</a>' : "") +
+    (a.sci ? " · <i>" + escapeHtml(a.sci) + "</i>" : "");
+  el.reveal.classList.remove("hidden");
+  el.next.focus();
+  locked = false;
+}
+
+// Straight to the answer: no flash, no hints, no points.
+function giveUp() {
+  if (locked || !current) return;
+  locked = true;
+  el.guess.disabled = true;
+  el.submit.disabled = true;
+  el.hint.disabled = true;
+  el.flash.className = "hidden";
+  asked++;
+  updateScore();
+  revealAnswer(false);
 }
 
 function escapeHtml(s) {
@@ -528,6 +547,7 @@ function closeSettings() {
 el.guessbar.addEventListener("submit", submitGuess);
 el.next.addEventListener("click", () => newRound());
 el.hint.addEventListener("click", useHint);
+el.giveup.addEventListener("click", giveUp);
 for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
 el.allcats.addEventListener("click", () => setAllCats(true));
