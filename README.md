@@ -27,19 +27,22 @@ the game fetches its data file. The photos themselves stream from the internet.)
 
 ### Hints
 
-The **Hint** button sits to the right of the guess bar with a badge showing how
-many hints are left. Each press reveals one more letter above the photo:
+The **Hint** button sits to the right of the guess bar, with a badge showing how
+many hints are left. The hint spells out the animal's **full name**: each word
+before the last costs one hint and is revealed whole, and the last word costs
+one hint per letter for its first three.
+
+`Scarlet Macaw` is therefore 4 hints — one for SCARLET, then M, A, C:
 
 ```
-KIND OF ANIMAL   S _ _ _ _      ->   S N _ _ _   ->   S N A _ _
+NAME   _ _ _ _ _ _ _   _ _ _ _ _
+NAME   S C A R L E T   _ _ _ _ _     (1)
+NAME   S C A R L E T   M _ _ _ _     (2)
+NAME   S C A R L E T   M A C _ _     (4)
 ```
 
-You get **three hints per photo**, and the counter resets with each new animal.
-
-The hint spells the *kind* of animal rather than its full name — a Western
-Diamond-backed Rattlesnake spells `snake`, not the whole species name. Every
-type word is also an accepted answer, so a hint can never spell something the
-guess checker would then reject.
+A one-word animal is 3 hints; `Western Diamond-backed Rattlesnake` is 5. The
+budget resets with every new photo.
 
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
@@ -83,6 +86,27 @@ rather than leaving you on a blank screen.
 | Medium | Most people know this animal |
 | Hard | Few people know this animal |
 | Death Mode | Almost nobody knows this animal |
+
+## How many animals
+
+**24,616.** That is not every animal in the world and no such game could be:
+about 2.1 million animal species have been described, roughly a million of them
+insects, and only ~297,000 have a verified photograph anywhere. This is the
+most-photographed slice of the animal kingdom that has a common name at all.
+
+It is still mostly small things — around 11,000 of the 24,616 are insects, which
+is what the animal kingdom actually looks like. **Turn Bugs/Insects off in the
+settings** if you would rather not spend Death Mode naming moths.
+
+Two tiers of data quality live in the file:
+
+- **421 hand-curated animals** — 8 photos each, hand-written accepted answers,
+  hand-assigned difficulty, hand-checked categories.
+- **24,195 expanded animals** — one photo each, answers derived from the common
+  name, difficulty derived from how often the species is photographed, and
+  categories derived from taxonomy. Sea-versus-land is inferred from
+  wholly-marine clades, so a freshwater fish is simply not marked as a sea
+  animal rather than being guessed at.
 
 ## The photos are real
 

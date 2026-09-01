@@ -14,7 +14,6 @@ const el = {
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
-const HINTS_PER_ANIMAL = 3;
 const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs"];
 
 let ALL = [];            // every animal record
@@ -28,8 +27,7 @@ let locked = false;      // true while a flash is on screen
 let score = 0, asked = 0;
 let gen = 0;                       // bumped whenever what's on screen changes,
                                    // so a slow image load can't resurrect itself
-let hintsLeft = HINTS_PER_ANIMAL;  // resets with every new photo
-let revealed = 0;                  // letters of the type word shown so far
+let hintsUsed = 0;                 // resets with every new photo
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -144,43 +142,68 @@ function isCorrect(input, animal) {
 }
 
 /* ---------- hints ----------------------------------------------------------
-   The hint spells out the KIND of animal, not its full name: a Western
-   Diamond-backed Rattlesnake spells "snake". Every type word is also an
-   accepted answer, so a hint can never spell something the checker rejects. */
-function hintWord() {
-  return (current && current.animal && current.animal.type) || "";
+   The hint spells out the animal's full name. Each leading word costs one hint
+   and is revealed whole; the final word costs one hint per letter for its
+   first three. "Scarlet Macaw" is therefore 4 hints: one for SCARLET, then
+   M, A, C. */
+function hintName() {
+  return (current && current.animal && current.animal.name) || "";
 }
 
-// "snake" with 2 revealed -> "S N _ _ _"
-function renderHint() {
-  const w = hintWord();
-  if (!w || revealed === 0) { el.hintbox.classList.remove("show"); return; }
+function hintWords() {
+  return hintName().split(/\s+/).filter(Boolean);
+}
+
+// Unicode-aware so accented letters (Pere David's Deer) count as letters
+// rather than being revealed for free as punctuation.
+const IS_LETTER = /[\p{L}\p{N}]/u;
+const letters = (w) => [...w].filter(c => IS_LETTER.test(c)).length;
+
+// (words - 1) whole-word hints, then up to 3 letters of the last word
+function maxHints() {
+  const w = hintWords();
+  if (!w.length) return 0;
+  return (w.length - 1) + Math.min(3, letters(w[w.length - 1]));
+}
+
+function hintsLeft() {
+  return Math.max(0, maxHints() - hintsUsed);
+}
+
+// blank out a word, keeping hyphens and apostrophes visible for shape
+function maskWord(word, showLetters) {
   let seen = 0, out = [];
-  for (const ch of w) {
-    if (ch === " ") { out.push("  "); continue; }
-    if (!/[a-z0-9]/i.test(ch)) { out.push(ch); continue; }  // keep hyphens
-    out.push(seen < revealed ? ch.toUpperCase() : "_");
+  for (const ch of word) {
+    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
+    out.push(seen < showLetters ? ch.toUpperCase() : "_");
     seen++;
   }
-  el.hintword.textContent = out.join(" ");
+  return out.join(" ");
+}
+
+function renderHint() {
+  const w = hintWords();
+  if (!w.length || hintsUsed === 0) { el.hintbox.classList.remove("show"); return; }
+  const lead = w.length - 1;                       // words before the last
+  const wordsShown = Math.min(hintsUsed, lead);    // leading words revealed
+  const lettersShown = Math.max(0, hintsUsed - lead);
+  const parts = w.map((word, i) =>
+    i < lead ? maskWord(word, i < wordsShown ? letters(word) : 0)
+             : maskWord(word, lettersShown));
+  el.hintword.textContent = parts.join("   ");
   el.hintbox.classList.add("show");
 }
 
 function updateHintButton() {
-  el.hintcount.textContent = hintsLeft;
-  el.hintcount.classList.toggle("spent", hintsLeft === 0);
-  const w = hintWord();
-  // nothing left to give once every letter is showing
-  const lettersLeft = w.replace(/[^a-z0-9]/gi, "").length > revealed;
-  el.hint.disabled = locked || hintsLeft === 0 || !lettersLeft;
+  const left = hintsLeft();
+  el.hintcount.textContent = left;
+  el.hintcount.classList.toggle("spent", left === 0);
+  el.hint.disabled = locked || left === 0;
 }
 
 function useHint() {
-  if (locked || hintsLeft === 0) return;
-  const total = hintWord().replace(/[^a-z0-9]/gi, "").length;
-  if (revealed >= total) return;
-  hintsLeft--;
-  revealed++;
+  if (locked || hintsLeft() === 0) return;
+  hintsUsed++;
   renderHint();
   updateHintButton();
   if (!isTouch()) el.guess.focus();
@@ -250,8 +273,7 @@ function newRound(triesLeft = 6) {
   el.photo.classList.remove("ready");
   el.spinner.classList.remove("hidden");
   el.credit.textContent = "";
-  hintsLeft = HINTS_PER_ANIMAL;
-  revealed = 0;
+  hintsUsed = 0;
   el.hintbox.classList.remove("show");
 
   if (!pool.length) {
