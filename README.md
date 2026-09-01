@@ -53,6 +53,28 @@ must be exact (at two edits `bubo bubo`, the eagle-owl, becomes `bufo bufo`, the
 toad). The rules are checked by sweeping every accepted answer against all 421
 animals: **zero** answers win against an animal they don't belong to.
 
+### Categories
+
+The settings panel also has a toggle per category, each showing how many animals
+it holds in the current difficulty. Only the categories you leave on appear —
+switch everything off but **Mammals** and you will only be shown mammals.
+
+| | |
+|---|---|
+| Mammals | Reptiles |
+| Birds | Sea Animals |
+| Fish | Amphibians |
+| Land Animals | Bugs/Insects |
+
+The categories overlap on purpose, and an animal appears if *any* of its
+categories is on. A dolphin is a mammal **and** a sea animal; a sea turtle is a
+reptile **and** a sea animal; a penguin is a bird, a sea animal and a land
+animal. Fully aquatic animals are not land animals, and freshwater species
+(the electric eel, the axolotl) are not sea animals.
+
+Some combinations are empty — there are no Hard bugs — and the panel says so
+rather than leaving you on a blank screen.
+
 ## Difficulty tiers
 
 | Tier | Meaning |
@@ -90,8 +112,13 @@ Pass one or more scientific names to rebuild just those and merge them in.
 - `scripts/build_lookup.py` — resolves each name, drops anything extinct or
   without a usable photo, writes `data/animals.json`
 - `scripts/add_types.py` — assigns each animal the category word the Hint button
-  spells out, and adds it to that animal's accepted answers. `build_lookup.py`
-  runs this automatically; run it alone after editing the type rules.
+  spells out, and adds it to that animal's accepted answers.
+- `scripts/add_categories.py` — assigns the settings categories. Taxonomy comes
+  from iNaturalist; sea-versus-land is a habitat question the taxonomy doesn't
+  answer, so it is listed explicitly in that file.
+
+`build_lookup.py` runs both automatically; run either alone after editing its
+rules.
 
 Some names in `species.py` differ from iNaturalist's accepted taxonomy (it files
 the American bison under `Bos bison`). Those are mapped in `SCI_SYNONYMS`, and

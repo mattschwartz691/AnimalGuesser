@@ -9,20 +9,25 @@ const el = {
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
+  catwarn:$("catwarn"), allcats:$("allcats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
 const HINTS_PER_ANIMAL = 3;
+const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs"];
 
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
 let bag = [];            // shuffled queue, so nothing repeats until exhausted
 let tier = "easy";
+let onCats = new Set(ALL_CATS);   // categories currently toggled on
 let current = null;      // {animal, photo} on screen now
 let upcoming = null;     // {animal, photo} chosen + preloaded ahead of time
 let locked = false;      // true while a flash is on screen
 let score = 0, asked = 0;
+let gen = 0;                       // bumped whenever what's on screen changes,
+                                   // so a slow image load can't resurrect itself
 let hintsLeft = HINTS_PER_ANIMAL;  // resets with every new photo
 let revealed = 0;                  // letters of the type word shown so far
 
@@ -201,18 +206,30 @@ function draw() {
   return {animal, photo};
 }
 
+// An animal shows if ANY of its categories is on -- they overlap by design
+// (a dolphin is a mammal and a sea animal).
+function inCats(a) {
+  return (a.cats || []).some(c => onCats.has(c));
+}
+
+function rebuildPool() {
+  pool = ALL.filter(a => a.tier === tier && inCats(a));
+  bag = [];
+  upcoming = null;
+}
+
 function setTier(t) {
   tier = t;
   store.set("tier", t);
-  pool = ALL.filter(a => a.tier === t);
-  bag = [];
-  upcoming = null;
+  rebuildPool();
   score = 0; asked = 0;
   el.tierbadge.textContent = TIER_LABEL[t];
   document.querySelectorAll(".diff").forEach(b =>
     b.classList.toggle("active", b.dataset.tier === t));
   updateScore();
-  newRound();
+  updateCatCounts();
+  if (pool.length) { el.catwarn.classList.add("hidden"); newRound(); }
+  else applyCats(false);
 }
 
 function updateScore() {
@@ -221,6 +238,7 @@ function updateScore() {
 }
 
 function newRound(triesLeft = 6) {
+  const mine = ++gen;
   locked = false;
   el.flash.classList.add("hidden");
   el.flash.className = "hidden";
@@ -250,6 +268,7 @@ function newRound(triesLeft = 6) {
 
   el.spinner.textContent = "Loading photo…";
   el.photo.onload = () => {
+    if (mine !== gen) return;              // superseded while loading
     el.photo.classList.add("ready");
     el.spinner.classList.add("hidden");
     el.credit.textContent = "Photo: " + (photo.credit || "iNaturalist");
@@ -257,6 +276,7 @@ function newRound(triesLeft = 6) {
     preloadNext();
   };
   el.photo.onerror = () => {
+    if (mine !== gen) return;              // superseded while loading
     // dead link -- quietly move on to a different animal
     if (triesLeft > 0) newRound(triesLeft - 1);
     else el.spinner.textContent = "Could not load a photo. Check your connection.";
@@ -321,6 +341,56 @@ function escapeHtml(s) {
 }
 const escapeAttr = escapeHtml;
 
+/* ---------- categories -----------------------------------------------------*/
+function catBoxes() {
+  return [...document.querySelectorAll(".cattoggle")];
+}
+
+function updateCatCounts() {
+  const n = {};
+  for (const a of ALL) if (a.tier === tier)
+    for (const c of (a.cats || [])) n[c] = (n[c] || 0) + 1;
+  for (const el2 of document.querySelectorAll(".catnum")) {
+    const c = el2.dataset.count;
+    el2.textContent = n[c] ? n[c] : "0";
+    el2.style.opacity = n[c] ? "" : ".4";
+  }
+}
+
+function applyCats(save) {
+  onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
+  if (save !== false) store.set("cats", [...onCats].join(","));
+  rebuildPool();
+  updateCatCounts();
+  const empty = pool.length === 0;
+  el.catwarn.classList.toggle("hidden", !empty);
+  el.catwarn.textContent = onCats.size === 0
+    ? "Nothing is selected — turn a category on."
+    : "No " + TIER_LABEL[tier] + " animals match these categories.";
+  if (!empty) newRound();
+  else {
+    gen++;                                 // cancel any pending photo load
+    current = null;
+    el.spinner.textContent = el.catwarn.textContent;
+    el.spinner.classList.remove("hidden");
+    el.photo.classList.remove("ready");
+    el.photo.removeAttribute("src");
+    el.credit.textContent = "";
+    el.guessbar.classList.add("hidden");
+    el.reveal.classList.add("hidden");
+    el.hintbox.classList.remove("show");
+  }
+}
+
+function restoreCats() {
+  const saved = store.get("cats", null);
+  if (saved !== null) {
+    const want = new Set(saved.split(",").filter(Boolean));
+    for (const b of catBoxes()) b.checked = want.has(b.dataset.cat);
+  }
+  onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
+}
+
 /* ---------- settings ------------------------------------------------------- */
 function openSettings() {
   el.settings.classList.remove("hidden");
@@ -335,6 +405,12 @@ function closeSettings() {
 el.guessbar.addEventListener("submit", submitGuess);
 el.next.addEventListener("click", () => newRound());
 el.hint.addEventListener("click", useHint);
+for (const b of document.querySelectorAll(".cattoggle"))
+  b.addEventListener("change", () => applyCats());
+el.allcats.addEventListener("click", () => {
+  for (const b of catBoxes()) b.checked = true;
+  applyCats();
+});
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);
@@ -348,6 +424,7 @@ fetch("../data/animals.json")
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(d => {
     ALL = d.animals || [];
+    restoreCats();
     const saved = store.get("tier", "easy");
     setTier(TIER_LABEL[saved] ? saved : "easy");
   })

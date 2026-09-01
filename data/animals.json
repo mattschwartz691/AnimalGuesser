@@ -65,7 +65,12 @@
     "african penguin",
     "penguin"
    ],
-   "type": "penguin"
+   "type": "penguin",
+   "cats": [
+    "birds",
+    "land",
+    "sea"
+   ]
   },
   {
    "id": 43694,
@@ -124,7 +129,11 @@
     "african elephant",
     "elephant"
    ],
-   "type": "elephant"
+   "type": "elephant",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 5305,
@@ -183,7 +192,11 @@
     "bald eagle",
     "eagle"
    ],
-   "type": "eagle"
+   "type": "eagle",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 32158,
@@ -244,7 +257,11 @@
     "python",
     "snake"
    ],
-   "type": "snake"
+   "type": "snake",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 41976,
@@ -301,7 +318,11 @@
    "_base_aliases": [
     "bobcat"
    ],
-   "type": "bobcat"
+   "type": "bobcat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41641,
@@ -364,7 +385,11 @@
     "grizzly",
     "grizzly bear"
    ],
-   "type": "bear"
+   "type": "bear",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 44576,
@@ -421,7 +446,11 @@
    "_base_aliases": [
     "rat"
    ],
-   "type": "rat"
+   "type": "rat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41740,
@@ -480,7 +509,12 @@
     "sea lion",
     "seal"
    ],
-   "type": "sea lion"
+   "type": "sea lion",
+   "cats": [
+    "land",
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 7089,
@@ -539,7 +573,11 @@
     "canada goose",
     "goose"
    ],
-   "type": "goose"
+   "type": "goose",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43577,
@@ -598,7 +636,11 @@
     "chimp",
     "chimpanzee"
    ],
-   "type": "chimpanzee"
+   "type": "chimpanzee",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41482,
@@ -657,7 +699,11 @@
     "bottlenose dolphin",
     "dolphin"
    ],
-   "type": "dolphin"
+   "type": "dolphin",
+   "cats": [
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 43042,
@@ -714,7 +760,11 @@
    "_base_aliases": [
     "hedgehog"
    ],
-   "type": "hedgehog"
+   "type": "hedgehog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42149,
@@ -773,7 +823,11 @@
     "hippo",
     "hippopotamus"
    ],
-   "type": "hippopotamus"
+   "type": "hippopotamus",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 49315,
@@ -830,7 +884,10 @@
    "_base_aliases": [
     "octopus"
    ],
-   "type": "octopus"
+   "type": "octopus",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 20526,
@@ -887,7 +944,11 @@
    "_base_aliases": [
     "ostrich"
    ],
-   "type": "ostrich"
+   "type": "ostrich",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41663,
@@ -946,7 +1007,11 @@
     "raccoon",
     "racoon"
    ],
-   "type": "raccoon"
+   "type": "raccoon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 8010,
@@ -1005,7 +1070,11 @@
     "crow",
     "raven"
    ],
-   "type": "crow"
+   "type": "crow",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 118552,
@@ -1066,7 +1135,11 @@
     "house cat",
     "kitten"
    ],
-   "type": "cat"
+   "type": "cat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74113,
@@ -1129,7 +1202,11 @@
     "cow",
     "ox"
    ],
-   "type": "cattle"
+   "type": "cattle",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 47144,
@@ -1188,7 +1265,11 @@
     "dog",
     "puppy"
    ],
-   "type": "dog"
+   "type": "dog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 123070,
@@ -1245,7 +1326,11 @@
    "_base_aliases": [
     "goat"
    ],
-   "type": "goat"
+   "type": "goat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 209233,
@@ -1304,7 +1389,11 @@
     "horse",
     "pony"
    ],
-   "type": "horse"
+   "type": "horse",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 121578,
@@ -1365,7 +1454,11 @@
     "ram",
     "sheep"
    ],
-   "type": "sheep"
+   "type": "sheep",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 81542,
@@ -1424,7 +1517,11 @@
     "camel",
     "dromedary"
    ],
-   "type": "camel"
+   "type": "camel",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 68790,
@@ -1481,7 +1578,11 @@
    "_base_aliases": [
     "gorilla"
    ],
-   "type": "gorilla"
+   "type": "gorilla",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 46017,
@@ -1542,7 +1643,11 @@
     "grey squirrel",
     "squirrel"
    ],
-   "type": "squirrel"
+   "type": "squirrel",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42888,
@@ -1599,7 +1704,11 @@
    "_base_aliases": [
     "kangaroo"
    ],
-   "type": "kangaroo"
+   "type": "kangaroo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 20059,
@@ -1658,7 +1767,11 @@
     "eagle owl",
     "owl"
    ],
-   "type": "owl"
+   "type": "owl",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 25591,
@@ -1717,7 +1830,11 @@
     "common frog",
     "frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 43151,
@@ -1776,7 +1893,11 @@
     "bunny",
     "rabbit"
    ],
-   "type": "rabbit"
+   "type": "rabbit",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 480298,
@@ -1833,7 +1954,11 @@
    "_base_aliases": [
     "snail"
    ],
-   "type": "snail"
+   "type": "snail",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 41659,
@@ -1892,7 +2017,11 @@
     "giant panda",
     "panda"
    ],
-   "type": "panda"
+   "type": "panda",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42048,
@@ -1953,7 +2082,11 @@
     "grey wolf",
     "wolf"
    ],
-   "type": "wolf"
+   "type": "wolf",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 50873,
@@ -2014,7 +2147,11 @@
     "great white shark",
     "shark"
    ],
-   "type": "shark"
+   "type": "shark",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 73222,
@@ -2071,7 +2208,11 @@
    "_base_aliases": [
     "flamingo"
    ],
-   "type": "flamingo"
+   "type": "flamingo",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 35342,
@@ -2128,7 +2269,11 @@
    "_base_aliases": [
     "iguana"
    ],
-   "type": "iguana"
+   "type": "iguana",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 39659,
@@ -2189,7 +2334,11 @@
     "sea turtle",
     "turtle"
    ],
-   "type": "turtle"
+   "type": "turtle",
+   "cats": [
+    "reptiles",
+    "sea"
+   ]
   },
   {
    "id": 44705,
@@ -2248,7 +2397,11 @@
     "house mouse",
     "mouse"
    ],
-   "type": "mouse"
+   "type": "mouse",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41566,
@@ -2309,7 +2462,11 @@
     "humpback whale",
     "whale"
    ],
-   "type": "whale"
+   "type": "whale",
+   "cats": [
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 53492,
@@ -2368,7 +2525,11 @@
     "cobra",
     "snake"
    ],
-   "type": "snake"
+   "type": "snake",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 1204,
@@ -2427,7 +2588,11 @@
     "peacock",
     "peafowl"
    ],
-   "type": "peafowl"
+   "type": "peafowl",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42983,
@@ -2486,7 +2651,11 @@
     "koala",
     "koala bear"
    ],
-   "type": "koala"
+   "type": "koala",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41964,
@@ -2543,7 +2712,11 @@
    "_base_aliases": [
     "lion"
    ],
-   "type": "lion"
+   "type": "lion",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 6930,
@@ -2602,7 +2775,11 @@
     "duck",
     "mallard"
    ],
-   "type": "duck"
+   "type": "duck",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 48662,
@@ -2663,7 +2840,11 @@
     "monarch",
     "monarch butterfly"
    ],
-   "type": "butterfly"
+   "type": "butterfly",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 522193,
@@ -2722,7 +2903,11 @@
     "elk",
     "moose"
    ],
-   "type": "moose"
+   "type": "moose",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 6921,
@@ -2779,7 +2964,11 @@
    "_base_aliases": [
     "swan"
    ],
-   "type": "swan"
+   "type": "swan",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 341972,
@@ -2840,7 +3029,11 @@
     "crocodile",
     "nile crocodile"
    ],
-   "type": "crocodile"
+   "type": "crocodile",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 41777,
@@ -2899,7 +3092,11 @@
     "otter",
     "river otter"
    ],
-   "type": "otter"
+   "type": "otter",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42157,
@@ -2956,7 +3153,11 @@
    "_base_aliases": [
     "giraffe"
    ],
-   "type": "giraffe"
+   "type": "giraffe",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43335,
@@ -3013,7 +3214,11 @@
    "_base_aliases": [
     "zebra"
    ],
-   "type": "zebra"
+   "type": "zebra",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41644,
@@ -3071,7 +3276,12 @@
    "_base_aliases": [
     "polar bear"
    ],
-   "type": "bear"
+   "type": "bear",
+   "cats": [
+    "land",
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 42069,
@@ -3130,7 +3340,11 @@
     "fox",
     "red fox"
    ],
-   "type": "fox"
+   "type": "fox",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 882,
@@ -3192,7 +3406,11 @@
     "hen",
     "rooster"
    ],
-   "type": "junglefowl"
+   "type": "junglefowl",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 3017,
@@ -3253,7 +3471,11 @@
     "pigeon",
     "rock dove"
    ],
-   "type": "dove"
+   "type": "dove",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 19022,
@@ -3314,7 +3536,11 @@
     "parrot",
     "scarlet macaw"
    ],
-   "type": "macaw"
+   "type": "macaw",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 51702,
@@ -3374,7 +3600,11 @@
     "ladybird",
     "ladybug"
    ],
-   "type": "beetle"
+   "type": "beetle",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 41880,
@@ -3431,7 +3661,11 @@
    "_base_aliases": [
     "skunk"
    ],
-   "type": "skunk"
+   "type": "skunk",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41967,
@@ -3488,7 +3722,11 @@
    "_base_aliases": [
     "tiger"
    ],
-   "type": "tiger"
+   "type": "tiger",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 47219,
@@ -3549,7 +3787,11 @@
     "honey bee",
     "honeybee"
    ],
-   "type": "bee"
+   "type": "bee",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 43348,
@@ -3610,7 +3852,11 @@
     "rhinoceros",
     "white rhino"
    ],
-   "type": "rhinoceros"
+   "type": "rhinoceros",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42223,
@@ -3671,7 +3917,11 @@
     "white tailed deer",
     "whitetail deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42134,
@@ -3734,7 +3984,11 @@
     "pig",
     "wild boar"
    ],
-   "type": "hog"
+   "type": "hog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 906,
@@ -3791,7 +4045,11 @@
    "_base_aliases": [
     "turkey"
    ],
-   "type": "turkey"
+   "type": "turkey",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42093,
@@ -3851,7 +4109,11 @@
     "african wild dog",
     "painted dog"
    ],
-   "type": "dog"
+   "type": "dog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 319688,
@@ -3908,7 +4170,11 @@
    "_base_aliases": [
     "alpaca"
    ],
-   "type": "alpaca"
+   "type": "alpaca",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42357,
@@ -3965,7 +4231,11 @@
    "_base_aliases": [
     "ibex"
    ],
-   "type": "ibex"
+   "type": "ibex",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 26159,
@@ -4024,7 +4294,11 @@
     "alligator",
     "gator"
    ],
-   "type": "alligator"
+   "type": "alligator",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 43794,
@@ -4081,7 +4355,11 @@
    "_base_aliases": [
     "beaver"
    ],
-   "type": "beaver"
+   "type": "beaver",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 208700,
@@ -4140,7 +4418,11 @@
     "bison",
     "buffalo"
    ],
-   "type": "bison"
+   "type": "bison",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41638,
@@ -4198,7 +4480,11 @@
    "_base_aliases": [
     "black bear"
    ],
-   "type": "bear"
+   "type": "bear",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 61383,
@@ -4255,7 +4541,10 @@
    "_base_aliases": [
     "lobster"
    ],
-   "type": "lobster"
+   "type": "lobster",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43188,
@@ -4312,7 +4601,11 @@
    "_base_aliases": [
     "pika"
    ],
-   "type": "pika"
+   "type": "pika",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 233598,
@@ -4370,7 +4663,11 @@
    "_base_aliases": [
     "arctic fox"
    ],
-   "type": "fox"
+   "type": "fox",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 48302,
@@ -4428,7 +4725,10 @@
    "_base_aliases": [
     "horseshoe crab"
    ],
-   "type": "crab"
+   "type": "crab",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 4504,
@@ -4485,7 +4785,12 @@
    "_base_aliases": [
     "puffin"
    ],
-   "type": "puffin"
+   "type": "puffin",
+   "cats": [
+    "birds",
+    "land",
+    "sea"
+   ]
   },
   {
    "id": 26777,
@@ -4533,7 +4838,10 @@
    "_base_aliases": [
     "axolotl"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 43009,
@@ -4590,7 +4898,11 @@
    "_base_aliases": [
     "wombat"
    ],
-   "type": "wombat"
+   "type": "wombat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42416,
@@ -4647,7 +4959,11 @@
    "_base_aliases": [
     "blackbuck"
    ],
-   "type": "blackbuck"
+   "type": "blackbuck",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 32093,
@@ -4706,7 +5022,11 @@
     "boa",
     "boa constrictor"
    ],
-   "type": "boa"
+   "type": "boa",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 43582,
@@ -4765,7 +5085,11 @@
     "orang utan",
     "orangutan"
    ],
-   "type": "orangutan"
+   "type": "orangutan",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 115167,
@@ -4822,7 +5146,11 @@
    "_base_aliases": [
     "swordfish"
    ],
-   "type": "swordfish"
+   "type": "swordfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 47067,
@@ -4881,7 +5209,11 @@
     "sloth",
     "three toed sloth"
    ],
-   "type": "sloth"
+   "type": "sloth",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4778,
@@ -4940,7 +5272,11 @@
     "california condor",
     "condor"
    ],
-   "type": "condor"
+   "type": "condor",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 74442,
@@ -4997,7 +5333,11 @@
    "_base_aliases": [
     "capybara"
    ],
-   "type": "capybara"
+   "type": "capybara",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42199,
@@ -5057,7 +5397,11 @@
     "caribou",
     "reindeer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41955,
@@ -5114,7 +5458,11 @@
    "_base_aliases": [
     "cheetah"
    ],
-   "type": "cheetah"
+   "type": "cheetah",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41,
@@ -5171,7 +5519,11 @@
    "_base_aliases": [
     "crane"
    ],
-   "type": "crane"
+   "type": "crane",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 127713,
@@ -5230,7 +5582,11 @@
     "emperor scorpion",
     "scorpion"
    ],
-   "type": "scorpion"
+   "type": "scorpion",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 67731,
@@ -5287,7 +5643,11 @@
    "_base_aliases": [
     "dragonfly"
    ],
-   "type": "dragonfly"
+   "type": "dragonfly",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 48328,
@@ -5346,7 +5706,10 @@
     "jellyfish",
     "moon jelly"
    ],
-   "type": "moon jelly"
+   "type": "moon jelly",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 120138,
@@ -5405,7 +5768,10 @@
     "sea star",
     "starfish"
    ],
-   "type": "sea star"
+   "type": "sea star",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 84970,
@@ -5464,7 +5830,11 @@
     "sea horse",
     "seahorse"
    ],
-   "type": "seahorse"
+   "type": "seahorse",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 42122,
@@ -5521,7 +5891,11 @@
    "_base_aliases": [
     "warthog"
    ],
-   "type": "warthog"
+   "type": "warthog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42280,
@@ -5580,7 +5954,11 @@
     "gnu",
     "wildebeest"
    ],
-   "type": "wildebeest"
+   "type": "wildebeest",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42051,
@@ -5637,7 +6015,11 @@
    "_base_aliases": [
     "coyote"
    ],
-   "type": "coyote"
+   "type": "coyote",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 46217,
@@ -5694,7 +6076,11 @@
    "_base_aliases": [
     "chipmunk"
    ],
-   "type": "chipmunk"
+   "type": "chipmunk",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 99786,
@@ -5752,7 +6138,10 @@
    "_base_aliases": [
     "electric eel"
    ],
-   "type": "eel"
+   "type": "eel",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 20504,
@@ -5809,7 +6198,11 @@
    "_base_aliases": [
     "emu"
    ],
-   "type": "emu"
+   "type": "emu",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41979,
@@ -5866,7 +6259,11 @@
    "_base_aliases": [
     "lynx"
    ],
-   "type": "lynx"
+   "type": "lynx",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 855297,
@@ -5923,7 +6320,11 @@
    "_base_aliases": [
     "badger"
    ],
-   "type": "badger"
+   "type": "badger",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 151429,
@@ -5980,7 +6381,10 @@
    "_base_aliases": [
     "cuttlefish"
    ],
-   "type": "cuttlefish"
+   "type": "cuttlefish",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 53905,
@@ -6039,7 +6443,11 @@
     "mantis",
     "praying mantis"
    ],
-   "type": "mantis"
+   "type": "mantis",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 326296,
@@ -6096,7 +6504,11 @@
    "_base_aliases": [
     "toad"
    ],
-   "type": "toad"
+   "type": "toad",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 42308,
@@ -6155,7 +6567,11 @@
     "gemsbok",
     "oryx"
    ],
-   "type": "gemsbok"
+   "type": "gemsbok",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 47107,
@@ -6214,7 +6630,11 @@
     "anteater",
     "giant anteater"
    ],
-   "type": "anteater"
+   "type": "anteater",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 94494,
@@ -6271,7 +6691,10 @@
    "_base_aliases": [
     "arapaima"
    ],
-   "type": "arapaima"
+   "type": "arapaima",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 205163,
@@ -6330,7 +6753,11 @@
     "goliath birdeater",
     "tarantula"
    ],
-   "type": "goliath birdeater"
+   "type": "goliath birdeater",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 56766,
@@ -6390,7 +6817,11 @@
     "hammerhead",
     "hammerhead shark"
    ],
-   "type": "shark"
+   "type": "shark",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 4327,
@@ -6447,7 +6878,11 @@
    "_base_aliases": [
     "pelican"
    ],
-   "type": "pelican"
+   "type": "pelican",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 1986,
@@ -6504,7 +6939,11 @@
    "_base_aliases": [
     "roadrunner"
    ],
-   "type": "roadrunner"
+   "type": "roadrunner",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 4954,
@@ -6561,7 +7000,11 @@
    "_base_aliases": [
     "heron"
    ],
-   "type": "heron"
+   "type": "heron",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42278,
@@ -6618,7 +7061,11 @@
    "_base_aliases": [
     "impala"
    ],
-   "type": "impala"
+   "type": "impala",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 925977,
@@ -6675,7 +7122,11 @@
    "_base_aliases": [
     "mongoose"
    ],
-   "type": "mongoose"
+   "type": "mongoose",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41970,
@@ -6732,7 +7183,11 @@
    "_base_aliases": [
     "jaguar"
    ],
-   "type": "jaguar"
+   "type": "jaguar",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 39449,
@@ -6792,7 +7247,11 @@
     "komodo",
     "komodo dragon"
    ],
-   "type": "lizard"
+   "type": "lizard",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 43593,
@@ -6849,7 +7308,11 @@
    "_base_aliases": [
     "gibbon"
    ],
-   "type": "gibbon"
+   "type": "gibbon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 40902,
@@ -6910,7 +7373,11 @@
     "flying fox",
     "fruit bat"
    ],
-   "type": "bat"
+   "type": "bat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 2413,
@@ -6967,7 +7434,11 @@
    "_base_aliases": [
     "kookaburra"
    ],
-   "type": "kookaburra"
+   "type": "kookaburra",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41963,
@@ -7024,7 +7495,11 @@
    "_base_aliases": [
     "leopard"
    ],
-   "type": "leopard"
+   "type": "leopard",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 121026,
@@ -7081,7 +7556,11 @@
    "_base_aliases": [
     "llama"
    ],
-   "type": "llama"
+   "type": "llama",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 855311,
@@ -7141,7 +7620,11 @@
     "raccoon dog",
     "tanuki"
    ],
-   "type": "dog"
+   "type": "dog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43533,
@@ -7198,7 +7681,11 @@
    "_base_aliases": [
     "mandrill"
    ],
-   "type": "mandrill"
+   "type": "mandrill",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41943,
@@ -7255,7 +7742,11 @@
    "_base_aliases": [
     "meerkat"
    ],
-   "type": "meerkat"
+   "type": "meerkat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74352,
@@ -7312,7 +7803,11 @@
    "_base_aliases": [
     "gazelle"
    ],
-   "type": "gazelle"
+   "type": "gazelle",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42007,
@@ -7373,7 +7868,11 @@
     "mountain lion",
     "puma"
    ],
-   "type": "mountain lion"
+   "type": "mountain lion",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41459,
@@ -7430,7 +7929,11 @@
    "_base_aliases": [
     "narwhal"
    ],
-   "type": "narwhal"
+   "type": "narwhal",
+   "cats": [
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 44026,
@@ -7487,7 +7990,11 @@
    "_base_aliases": [
     "porcupine"
    ],
-   "type": "porcupine"
+   "type": "porcupine",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 20496,
@@ -7546,7 +8053,11 @@
     "kiwi",
     "kiwi bird"
    ],
-   "type": "kiwi"
+   "type": "kiwi",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 623966,
@@ -7607,7 +8118,11 @@
     "ray",
     "stingray"
    ],
-   "type": "ray"
+   "type": "ray",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 74832,
@@ -7664,7 +8179,11 @@
    "_base_aliases": [
     "baboon"
    ],
-   "type": "baboon"
+   "type": "baboon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41521,
@@ -7724,7 +8243,11 @@
     "killer whale",
     "orca"
    ],
-   "type": "whale"
+   "type": "whale",
+   "cats": [
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 48479,
@@ -7783,7 +8306,10 @@
     "jellyfish",
     "sea nettle"
    ],
-   "type": "sea nettle"
+   "type": "sea nettle",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 4647,
@@ -7842,7 +8368,11 @@
     "falcon",
     "peregrine falcon"
    ],
-   "type": "falcon"
+   "type": "falcon",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 17855,
@@ -7899,7 +8429,11 @@
    "_base_aliases": [
     "woodpecker"
    ],
-   "type": "woodpecker"
+   "type": "woodpecker",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43236,
@@ -7958,7 +8492,11 @@
     "duck billed platypus",
     "platypus"
    ],
-   "type": "platypus"
+   "type": "platypus",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42429,
@@ -8017,7 +8555,11 @@
     "antelope",
     "pronghorn"
    ],
-   "type": "antelope"
+   "type": "antelope",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41653,
@@ -8074,7 +8616,11 @@
    "_base_aliases": [
     "red panda"
    ],
-   "type": "red panda"
+   "type": "red panda",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1510573,
@@ -8133,7 +8679,11 @@
     "giraffe",
     "reticulated giraffe"
    ],
-   "type": "giraffe"
+   "type": "giraffe",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 981,
@@ -8190,7 +8740,11 @@
    "_base_aliases": [
     "pheasant"
    ],
-   "type": "pheasant"
+   "type": "pheasant",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43617,
@@ -8249,7 +8803,11 @@
     "lemur",
     "ring tailed lemur"
    ],
-   "type": "lemur"
+   "type": "lemur",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 6432,
@@ -8306,7 +8864,11 @@
    "_base_aliases": [
     "hummingbird"
    ],
-   "type": "hummingbird"
+   "type": "hummingbird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41860,
@@ -8364,7 +8926,12 @@
    "_base_aliases": [
     "sea otter"
    ],
-   "type": "otter"
+   "type": "otter",
+   "cats": [
+    "land",
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 43239,
@@ -8423,7 +8990,11 @@
     "echidna",
     "spiny anteater"
    ],
-   "type": "echidna"
+   "type": "echidna",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74831,
@@ -8480,7 +9051,11 @@
    "_base_aliases": [
     "snow leopard"
    ],
-   "type": "snow leopard"
+   "type": "snow leopard",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43132,
@@ -8539,7 +9114,11 @@
     "hare",
     "snowshoe hare"
    ],
-   "type": "hare"
+   "type": "hare",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43353,
@@ -8596,7 +9175,11 @@
    "_base_aliases": [
     "tapir"
    ],
-   "type": "tapir"
+   "type": "tapir",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 20500,
@@ -8653,7 +9236,11 @@
    "_base_aliases": [
     "cassowary"
    ],
-   "type": "cassowary"
+   "type": "cassowary",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 47075,
@@ -8710,7 +9297,11 @@
    "_base_aliases": [
     "armadillo"
    ],
-   "type": "armadillo"
+   "type": "armadillo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41886,
@@ -8769,7 +9360,11 @@
     "hyena",
     "spotted hyena"
    ],
-   "type": "hyena"
+   "type": "hyena",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 116834,
@@ -8826,7 +9421,11 @@
    "_base_aliases": [
     "cockatoo"
    ],
-   "type": "cockatoo"
+   "type": "cockatoo",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41655,
@@ -8884,7 +9483,11 @@
    "_base_aliases": [
     "sun bear"
    ],
-   "type": "bear"
+   "type": "bear",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 40232,
@@ -8941,7 +9544,11 @@
    "_base_aliases": [
     "tasmanian devil"
    ],
-   "type": "tasmanian devil"
+   "type": "tasmanian devil",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 18793,
@@ -8998,7 +9605,11 @@
    "_base_aliases": [
     "toucan"
    ],
-   "type": "toucan"
+   "type": "toucan",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 34615,
@@ -9055,7 +9666,11 @@
    "_base_aliases": [
     "gecko"
    ],
-   "type": "gecko"
+   "type": "gecko",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 32873,
@@ -9112,7 +9727,11 @@
    "_base_aliases": [
     "chameleon"
    ],
-   "type": "chameleon"
+   "type": "chameleon",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 42652,
@@ -9171,7 +9790,11 @@
     "opossum",
     "possum"
    ],
-   "type": "possum"
+   "type": "possum",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41766,
@@ -9228,7 +9851,12 @@
    "_base_aliases": [
     "walrus"
    ],
-   "type": "walrus"
+   "type": "walrus",
+   "cats": [
+    "land",
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 46316,
@@ -9287,7 +9915,11 @@
     "manatee",
     "sea cow"
    ],
-   "type": "manatee"
+   "type": "manatee",
+   "cats": [
+    "mammals",
+    "sea"
+   ]
   },
   {
    "id": 30764,
@@ -9345,7 +9977,11 @@
    "_base_aliases": [
     "rattlesnake"
    ],
-   "type": "snake"
+   "type": "snake",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 41812,
@@ -9404,7 +10040,11 @@
     "ferret",
     "polecat"
    ],
-   "type": "polecat"
+   "type": "polecat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4733,
@@ -9461,7 +10101,11 @@
    "_base_aliases": [
     "stork"
    ],
-   "type": "stork"
+   "type": "stork",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41673,
@@ -9520,7 +10164,11 @@
     "coati",
     "coatimundi"
    ],
-   "type": "coati"
+   "type": "coati",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 890122,
@@ -9577,7 +10225,11 @@
    "_base_aliases": [
     "yak"
    ],
-   "type": "yak"
+   "type": "yak",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41852,
@@ -9634,7 +10286,11 @@
    "_base_aliases": [
     "wolverine"
    ],
-   "type": "wolverine"
+   "type": "wolverine",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 46086,
@@ -9693,7 +10349,11 @@
     "groundhog",
     "marmot"
    ],
-   "type": "marmot"
+   "type": "marmot",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 47062,
@@ -9750,7 +10410,11 @@
    "_base_aliases": [
     "aardvark"
    ],
-   "type": "aardvark"
+   "type": "aardvark",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42395,
@@ -9807,7 +10471,11 @@
    "_base_aliases": [
     "addax"
    ],
-   "type": "addax"
+   "type": "addax",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 54542,
@@ -9866,7 +10534,10 @@
     "alligator gar",
     "gar"
    ],
-   "type": "gar"
+   "type": "gar",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 539453,
@@ -9925,7 +10596,10 @@
     "mata mata",
     "matamata"
    ],
-   "type": "mata mata"
+   "type": "mata mata",
+   "cats": [
+    "reptiles"
+   ]
   },
   {
    "id": 204447,
@@ -9982,7 +10656,11 @@
    "_base_aliases": [
     "motmot"
    ],
-   "type": "motmot"
+   "type": "motmot",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 54721,
@@ -10039,7 +10717,10 @@
    "_base_aliases": [
     "paddlefish"
    ],
-   "type": "paddlefish"
+   "type": "paddlefish",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 8877,
@@ -10098,7 +10779,11 @@
     "cock of the rock",
     "cock-of-the-rock"
    ],
-   "type": "cock of the rock"
+   "type": "cock of the rock",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 5063,
@@ -10157,7 +10842,11 @@
     "anhinga",
     "snakebird"
    ],
-   "type": "anhinga"
+   "type": "anhinga",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 318758,
@@ -10214,7 +10903,11 @@
    "_base_aliases": [
     "tegu"
    ],
-   "type": "tegu"
+   "type": "tegu",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 67836,
@@ -10271,7 +10964,11 @@
    "_base_aliases": [
     "mudskipper"
    ],
-   "type": "mudskipper"
+   "type": "mudskipper",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 43558,
@@ -10331,7 +11028,11 @@
     "aye aye",
     "ayeaye"
    ],
-   "type": "aye-aye"
+   "type": "aye-aye",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43654,
@@ -10390,7 +11091,11 @@
     "bald uakari",
     "uakari"
    ],
-   "type": "uakari"
+   "type": "uakari",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 188577,
@@ -10449,7 +11154,10 @@
     "archer fish",
     "archerfish"
    ],
-   "type": "archerfish"
+   "type": "archerfish",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 41631,
@@ -10508,7 +11216,11 @@
     "bearcat",
     "binturong"
    ],
-   "type": "binturong"
+   "type": "binturong",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4496,
@@ -10567,7 +11279,12 @@
     "black skimmer",
     "skimmer"
    ],
-   "type": "skimmer"
+   "type": "skimmer",
+   "cats": [
+    "birds",
+    "land",
+    "sea"
+   ]
   },
   {
    "id": 42344,
@@ -10624,7 +11341,11 @@
    "_base_aliases": [
     "bongo"
    ],
-   "type": "bongo"
+   "type": "bongo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43567,
@@ -10685,7 +11406,11 @@
     "bushbaby",
     "galago"
    ],
-   "type": "galago"
+   "type": "galago",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42089,
@@ -10743,7 +11468,11 @@
    "_base_aliases": [
     "bush dog"
    ],
-   "type": "dog"
+   "type": "dog",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42042,
@@ -10800,7 +11529,11 @@
    "_base_aliases": [
     "caracal"
    ],
-   "type": "caracal"
+   "type": "caracal",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 49517,
@@ -10857,7 +11590,10 @@
    "_base_aliases": [
     "christmas tree worm"
    ],
-   "type": "christmas tree worm"
+   "type": "christmas tree worm",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43712,
@@ -10914,7 +11650,11 @@
    "_base_aliases": [
     "agouti"
    ],
-   "type": "agouti"
+   "type": "agouti",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 8520,
@@ -10973,7 +11713,11 @@
     "clarks nutcracker",
     "nutcracker"
    ],
-   "type": "nutcracker"
+   "type": "nutcracker",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42113,
@@ -11032,7 +11776,11 @@
     "javelina",
     "peccary"
    ],
-   "type": "peccary"
+   "type": "peccary",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 20969,
@@ -11089,7 +11837,11 @@
    "_base_aliases": [
     "hoopoe"
    ],
-   "type": "hoopoe"
+   "type": "hoopoe",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 49601,
@@ -11150,7 +11902,11 @@
     "ocean sunfish",
     "sunfish"
    ],
-   "type": "sunfish"
+   "type": "sunfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 27685,
@@ -11208,7 +11964,10 @@
    "_base_aliases": [
     "mudpuppy"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 19667,
@@ -11267,7 +12026,11 @@
     "common potoo",
     "potoo"
    ],
-   "type": "potoo"
+   "type": "potoo",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 110381,
@@ -11324,7 +12087,11 @@
    "_base_aliases": [
     "sawfish"
    ],
-   "type": "sawfish"
+   "type": "sawfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 42101,
@@ -11381,7 +12148,11 @@
    "_base_aliases": [
     "dhole"
    ],
-   "type": "dhole"
+   "type": "dhole",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 21141,
@@ -11441,7 +12212,11 @@
     "dart frog",
     "poison dart frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 40167,
@@ -11500,7 +12275,11 @@
     "eastern quoll",
     "quoll"
    ],
-   "type": "quoll"
+   "type": "quoll",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 101561,
@@ -11559,7 +12338,10 @@
     "elephant nose fish",
     "elephantnose fish"
    ],
-   "type": "elephantnose fish"
+   "type": "elephantnose fish",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 123467,
@@ -11618,7 +12400,10 @@
     "chambered nautilus",
     "nautilus"
    ],
-   "type": "nautilus"
+   "type": "nautilus",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 41796,
@@ -11677,7 +12462,11 @@
     "marten",
     "pine marten"
    ],
-   "type": "marten"
+   "type": "marten",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 3731,
@@ -11734,7 +12523,11 @@
    "_base_aliases": [
     "spoonbill"
    ],
-   "type": "spoonbill"
+   "type": "spoonbill",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 453109,
@@ -11793,7 +12586,11 @@
     "fisher",
     "fisher cat"
    ],
-   "type": "fisher"
+   "type": "fisher",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41946,
@@ -11851,7 +12648,11 @@
    "_base_aliases": [
     "fishing cat"
    ],
-   "type": "cat"
+   "type": "cat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41578,
@@ -11908,7 +12709,11 @@
    "_base_aliases": [
     "fossa"
    ],
-   "type": "fossa"
+   "type": "fossa",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 31215,
@@ -11968,7 +12773,11 @@
     "frilled dragon",
     "frilled lizard"
    ],
-   "type": "lizard"
+   "type": "lizard",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 74111,
@@ -12025,7 +12834,11 @@
    "_base_aliases": [
     "gaur"
    ],
-   "type": "gaur"
+   "type": "gaur",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43530,
@@ -12085,7 +12898,11 @@
     "gelada",
     "gelada baboon"
    ],
-   "type": "baboon"
+   "type": "baboon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42364,
@@ -12142,7 +12959,11 @@
    "_base_aliases": [
     "gerenuk"
    ],
-   "type": "gerenuk"
+   "type": "gerenuk",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 116523,
@@ -12202,7 +13023,11 @@
     "gavial",
     "gharial"
    ],
-   "type": "crocodile"
+   "type": "crocodile",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 75082,
@@ -12261,7 +13086,11 @@
     "giant pangolin",
     "pangolin"
    ],
-   "type": "pangolin"
+   "type": "pangolin",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 571229,
@@ -12313,7 +13142,10 @@
    "_base_aliases": [
     "giant isopod"
    ],
-   "type": "giant isopod"
+   "type": "giant isopod",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 253698,
@@ -12372,7 +13204,10 @@
     "giant squid",
     "squid"
    ],
-   "type": "squid"
+   "type": "squid",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 35003,
@@ -12429,7 +13264,11 @@
    "_base_aliases": [
     "gila monster"
    ],
-   "type": "gila monster"
+   "type": "gila monster",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 43325,
@@ -12486,7 +13325,11 @@
    "_base_aliases": [
     "bilby"
    ],
-   "type": "bilby"
+   "type": "bilby",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42339,
@@ -12545,7 +13388,11 @@
     "greater kudu",
     "kudu"
    ],
-   "type": "kudu"
+   "type": "kudu",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 33119,
@@ -12607,7 +13454,11 @@
     "basilisk lizard",
     "jesus lizard"
    ],
-   "type": "lizard"
+   "type": "lizard",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 42240,
@@ -12664,7 +13515,11 @@
    "_base_aliases": [
     "guanaco"
    ],
-   "type": "guanaco"
+   "type": "guanaco",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 26804,
@@ -12722,7 +13577,10 @@
    "_base_aliases": [
     "hellbender"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 42420,
@@ -12779,7 +13637,11 @@
    "_base_aliases": [
     "takin"
    ],
-   "type": "takin"
+   "type": "takin",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1626,
@@ -12836,7 +13698,11 @@
    "_base_aliases": [
     "hoatzin"
    ],
-   "type": "hoatzin"
+   "type": "hoatzin",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43600,
@@ -12893,7 +13759,11 @@
    "_base_aliases": [
     "indri"
    ],
-   "type": "indri"
+   "type": "indri",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4773,
@@ -12950,7 +13820,11 @@
    "_base_aliases": [
     "jabiru"
    ],
-   "type": "jabiru"
+   "type": "jabiru",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 197781,
@@ -13007,7 +13881,11 @@
    "_base_aliases": [
     "jaguarundi"
    ],
-   "type": "jaguarundi"
+   "type": "jaguarundi",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41678,
@@ -13064,7 +13942,11 @@
    "_base_aliases": [
     "kinkajou"
    ],
-   "type": "kinkajou"
+   "type": "kinkajou",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42360,
@@ -13123,7 +14005,11 @@
     "dik dik",
     "dikdik"
    ],
-   "type": "dik dik"
+   "type": "dik dik",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42384,
@@ -13180,7 +14066,11 @@
    "_base_aliases": [
     "klipspringer"
    ],
-   "type": "klipspringer"
+   "type": "klipspringer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 49105,
@@ -13240,7 +14130,11 @@
     "leafy sea dragon",
     "sea dragon"
    ],
-   "type": "leafy seadragon"
+   "type": "leafy seadragon",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 43906,
@@ -13297,7 +14191,11 @@
    "_base_aliases": [
     "jerboa"
    ],
-   "type": "jerboa"
+   "type": "jerboa",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 542875,
@@ -13354,7 +14252,10 @@
    "_base_aliases": [
     "sea spider"
    ],
-   "type": "sea spider"
+   "type": "sea spider",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43818,
@@ -13381,7 +14282,11 @@
    "_base_aliases": [
     "chinchilla"
    ],
-   "type": "chinchilla"
+   "type": "chinchilla",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42091,
@@ -13439,7 +14344,11 @@
    "_base_aliases": [
     "maned wolf"
    ],
-   "type": "wolf"
+   "type": "wolf",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43436,
@@ -13499,7 +14408,11 @@
     "howler",
     "howler monkey"
    ],
-   "type": "monkey"
+   "type": "monkey",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42356,
@@ -13556,7 +14469,11 @@
    "_base_aliases": [
     "markhor"
    ],
-   "type": "markhor"
+   "type": "markhor",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43746,
@@ -13616,7 +14533,11 @@
     "naked mole rat",
     "naked mole-rat"
    ],
-   "type": "mole-rat"
+   "type": "mole-rat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42347,
@@ -13673,7 +14594,11 @@
    "_base_aliases": [
     "chamois"
    ],
-   "type": "chamois"
+   "type": "chamois",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 40262,
@@ -13730,7 +14655,11 @@
    "_base_aliases": [
     "numbat"
    ],
-   "type": "numbat"
+   "type": "numbat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42155,
@@ -13767,7 +14696,11 @@
    "_base_aliases": [
     "okapi"
    ],
-   "type": "okapi"
+   "type": "okapi",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 27677,
@@ -13825,7 +14758,10 @@
    "_base_aliases": [
     "olm"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 42029,
@@ -13887,7 +14823,11 @@
     "pallas cat",
     "pallas's cat"
    ],
-   "type": "cat"
+   "type": "cat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43802,
@@ -13946,7 +14886,11 @@
     "mara",
     "patagonian mara"
    ],
-   "type": "mara"
+   "type": "mara",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 119395,
@@ -14006,7 +14950,10 @@
     "mantis shrimp",
     "peacock mantis shrimp"
    ],
-   "type": "shrimp"
+   "type": "shrimp",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43538,
@@ -14064,7 +15011,11 @@
    "_base_aliases": [
     "proboscis monkey"
    ],
-   "type": "monkey"
+   "type": "monkey",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42955,
@@ -14121,7 +15072,11 @@
    "_base_aliases": [
     "quokka"
    ],
-   "type": "quokka"
+   "type": "quokka",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 14,
@@ -14178,7 +15133,11 @@
    "_base_aliases": [
     "seriema"
    ],
-   "type": "seriema"
+   "type": "seriema",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42187,
@@ -14238,7 +15197,11 @@
     "barking deer",
     "muntjac"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 20856,
@@ -14297,7 +15260,11 @@
     "quetzal",
     "resplendent quetzal"
    ],
-   "type": "quetzal"
+   "type": "quetzal",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43086,
@@ -14358,7 +15325,11 @@
     "hyrax",
     "rock hyrax"
    ],
-   "type": "hyrax"
+   "type": "hyrax",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42378,
@@ -14418,7 +15389,11 @@
     "saiga",
     "saiga antelope"
    ],
-   "type": "antelope"
+   "type": "antelope",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 14539,
@@ -14477,7 +15452,11 @@
     "bowerbird",
     "satin bowerbird"
    ],
-   "type": "bowerbird"
+   "type": "bowerbird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 3750,
@@ -14536,7 +15515,11 @@
     "ibis",
     "scarlet ibis"
    ],
-   "type": "ibis"
+   "type": "ibis",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 50498,
@@ -14596,7 +15579,10 @@
     "blue dragon",
     "blue sea slug"
    ],
-   "type": "sea slug"
+   "type": "sea slug",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 117214,
@@ -14655,7 +15641,11 @@
     "secretary bird",
     "secretarybird"
    ],
-   "type": "secretarybird"
+   "type": "secretarybird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42025,
@@ -14712,7 +15702,11 @@
    "_base_aliases": [
     "serval"
    ],
-   "type": "serval"
+   "type": "serval",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4338,
@@ -14772,7 +15766,11 @@
     "shoebill",
     "shoebill stork"
    ],
-   "type": "stork"
+   "type": "stork",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 75115,
@@ -14829,7 +15827,11 @@
    "_base_aliases": [
     "siamang"
    ],
-   "type": "siamang"
+   "type": "siamang",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1306005,
@@ -14886,7 +15888,11 @@
    "_base_aliases": [
     "aardwolf"
    ],
-   "type": "aardwolf"
+   "type": "aardwolf",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42169,
@@ -14944,7 +15950,11 @@
    "_base_aliases": [
     "pudu"
    ],
-   "type": "southern pud\u00fa"
+   "type": "southern pud\u00fa",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 45929,
@@ -15004,7 +16014,11 @@
     "spring hare",
     "springhare"
    ],
-   "type": "hare"
+   "type": "hare",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1064525,
@@ -15051,7 +16065,11 @@
    "_base_aliases": [
     "tarsier"
    ],
-   "type": "tarsier"
+   "type": "tarsier",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74257,
@@ -15108,7 +16126,11 @@
    "_base_aliases": [
     "paca"
    ],
-   "type": "paca"
+   "type": "paca",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42283,
@@ -15165,7 +16187,11 @@
    "_base_aliases": [
     "springbok"
    ],
-   "type": "springbok"
+   "type": "springbok",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 47056,
@@ -15225,7 +16251,11 @@
     "star nosed mole",
     "star-nosed mole"
    ],
-   "type": "mole"
+   "type": "mole",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1654557,
@@ -15282,7 +16312,11 @@
    "_base_aliases": [
     "sugar glider"
    ],
-   "type": "sugar glider"
+   "type": "sugar glider",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74099,
@@ -15339,7 +16373,11 @@
    "_base_aliases": [
     "babirusa"
    ],
-   "type": "babirusa"
+   "type": "babirusa",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 19,
@@ -15396,7 +16434,11 @@
    "_base_aliases": [
     "sunbittern"
    ],
-   "type": "sunbittern"
+   "type": "sunbittern",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 74351,
@@ -15455,7 +16497,11 @@
     "colugo",
     "flying lemur"
    ],
-   "type": "colugo"
+   "type": "colugo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43627,
@@ -15514,7 +16560,11 @@
     "loris",
     "slow loris"
    ],
-   "type": "loris"
+   "type": "loris",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 12700,
@@ -15573,7 +16623,11 @@
     "lyrebird",
     "superb lyrebird"
    ],
-   "type": "lyrebird"
+   "type": "lyrebird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 25462,
@@ -15631,7 +16685,11 @@
    "_base_aliases": [
     "surinam toad"
    ],
-   "type": "toad"
+   "type": "toad",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 19721,
@@ -15690,7 +16748,11 @@
     "frogmouth",
     "tawny frogmouth"
    ],
-   "type": "frogmouth"
+   "type": "frogmouth",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 41774,
@@ -15747,7 +16809,11 @@
    "_base_aliases": [
     "tayra"
    ],
-   "type": "tayra"
+   "type": "tayra",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 31519,
@@ -15806,7 +16872,11 @@
     "thorny devil",
     "thorny dragon"
    ],
-   "type": "thorny devil"
+   "type": "thorny devil",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 25154,
@@ -15864,7 +16934,11 @@
    "_base_aliases": [
     "tomato frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 200834,
@@ -15921,7 +16995,11 @@
    "_base_aliases": [
     "tuatara"
    ],
-   "type": "tuatara"
+   "type": "tuatara",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 752768,
@@ -15950,7 +17028,10 @@
     "deep sea squid",
     "squid"
    ],
-   "type": "squid"
+   "type": "squid",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43603,
@@ -16007,7 +17088,11 @@
    "_base_aliases": [
     "sifaka"
    ],
-   "type": "sifaka"
+   "type": "sifaka",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1624576,
@@ -16066,7 +17151,11 @@
     "vicuna",
     "vicu\u00f1a"
    ],
-   "type": "vicu\u00f1a"
+   "type": "vicu\u00f1a",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42105,
@@ -16128,7 +17217,11 @@
     "mouse deer",
     "water chevrotain"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4580,
@@ -16185,7 +17278,11 @@
    "_base_aliases": [
     "jacana"
    ],
-   "type": "jacana"
+   "type": "jacana",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 104109,
@@ -16222,7 +17319,11 @@
    "_base_aliases": [
     "coelacanth"
    ],
-   "type": "coelacanth"
+   "type": "coelacanth",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 519427,
@@ -16282,7 +17383,11 @@
     "saki",
     "saki monkey"
    ],
-   "type": "monkey"
+   "type": "monkey",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41822,
@@ -16341,7 +17446,11 @@
     "striped polecat",
     "zorilla"
    ],
-   "type": "zorilla"
+   "type": "zorilla",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 62,
@@ -16400,7 +17509,11 @@
     "african finfoot",
     "finfoot"
    ],
-   "type": "finfoot"
+   "type": "finfoot",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 8809,
@@ -16459,7 +17572,11 @@
     "amazonian umbrellabird",
     "umbrellabird"
    ],
-   "type": "umbrellabird"
+   "type": "umbrellabird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42422,
@@ -16519,7 +17636,11 @@
     "aoudad",
     "barbary sheep"
    ],
-   "type": "sheep"
+   "type": "sheep",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42392,
@@ -16576,7 +17697,11 @@
    "_base_aliases": [
     "argali"
    ],
-   "type": "argali"
+   "type": "argali",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 317144,
@@ -16605,7 +17730,11 @@
     "anglerfish",
     "footballfish"
    ],
-   "type": "footballfish"
+   "type": "footballfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 118641,
@@ -16662,7 +17791,11 @@
    "_base_aliases": [
     "stargazer"
    ],
-   "type": "stargazer"
+   "type": "stargazer",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 43828,
@@ -16719,7 +17852,11 @@
    "_base_aliases": [
     "gundi"
    ],
-   "type": "gundi"
+   "type": "gundi",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1431322,
@@ -16768,7 +17905,11 @@
     "duiker",
     "zebra duiker"
    ],
-   "type": "duiker"
+   "type": "duiker",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41620,
@@ -16827,7 +17968,11 @@
     "banded linsang",
     "linsang"
    ],
-   "type": "linsang"
+   "type": "linsang",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42270,
@@ -16874,7 +18019,11 @@
    "_base_aliases": [
     "beira"
    ],
-   "type": "beira"
+   "type": "beira",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43224,
@@ -16935,7 +18084,11 @@
     "giant elephant shrew",
     "sengi"
    ],
-   "type": "elephant shrew"
+   "type": "elephant shrew",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 16,
@@ -16993,7 +18146,11 @@
    "_base_aliases": [
     "black legged seriema"
    ],
-   "type": "black-legged seriema"
+   "type": "black-legged seriema",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 8535,
@@ -17052,7 +18209,11 @@
     "blue capped ifrit",
     "ifrit"
    ],
-   "type": "blue capped ifrit"
+   "type": "blue capped ifrit",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 36062,
@@ -17112,7 +18273,11 @@
     "earless monitor",
     "earless monitor lizard"
    ],
-   "type": "monitor"
+   "type": "monitor",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 566491,
@@ -17171,7 +18336,10 @@
     "penis worm",
     "priapulid"
    ],
-   "type": "penis worm"
+   "type": "penis worm",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43256,
@@ -17199,7 +18367,11 @@
    "_base_aliases": [
     "marsupial mole"
    ],
-   "type": "mole"
+   "type": "mole",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42117,
@@ -17257,7 +18429,11 @@
    "_base_aliases": [
     "chacoan peccary"
    ],
-   "type": "peccary"
+   "type": "peccary",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42382,
@@ -17317,7 +18493,11 @@
     "chiru",
     "tibetan antelope"
    ],
-   "type": "antelope"
+   "type": "antelope",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 45920,
@@ -17374,7 +18554,11 @@
    "_base_aliases": [
     "degu"
    ],
-   "type": "degu"
+   "type": "degu",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 117577,
@@ -17433,7 +18617,10 @@
     "peanut worm",
     "sipunculid"
    ],
-   "type": "peanut worm"
+   "type": "peanut worm",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 324775,
@@ -17490,7 +18677,10 @@
    "_base_aliases": [
     "salp"
    ],
-   "type": "salp"
+   "type": "salp",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 465153,
@@ -17547,7 +18737,10 @@
    "_base_aliases": [
     "basket star"
    ],
-   "type": "basket star"
+   "type": "basket star",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 43997,
@@ -17606,7 +18799,11 @@
     "coypu",
     "nutria"
    ],
-   "type": "coypu"
+   "type": "coypu",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4616,
@@ -17664,7 +18861,12 @@
    "_base_aliases": [
     "crab plover"
    ],
-   "type": "plover"
+   "type": "plover",
+   "cats": [
+    "birds",
+    "land",
+    "sea"
+   ]
   },
   {
    "id": 2258,
@@ -17722,7 +18924,11 @@
    "_base_aliases": [
     "cuckoo roller"
    ],
-   "type": "cuckoo-roller"
+   "type": "cuckoo-roller",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 26681,
@@ -17782,7 +18988,11 @@
     "darwin's frog",
     "darwins frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 43726,
@@ -17840,7 +19050,11 @@
    "_base_aliases": [
     "scaly tailed flying squirrel"
    ],
-   "type": "squirrel"
+   "type": "squirrel",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42272,
@@ -17877,7 +19091,11 @@
    "_base_aliases": [
     "dibatag"
    ],
-   "type": "dibatag"
+   "type": "dibatag",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 432439,
@@ -17900,7 +19118,10 @@
    "_base_aliases": [
     "dumbo octopus"
    ],
-   "type": "octopus"
+   "type": "octopus",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 41580,
@@ -17947,7 +19168,11 @@
    "_base_aliases": [
     "falanouc"
    ],
-   "type": "falanouc"
+   "type": "falanouc",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41576,
@@ -18007,7 +19232,11 @@
     "fanaloka",
     "malagasy civet"
    ],
-   "type": "civet"
+   "type": "civet",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 213729,
@@ -18064,7 +19293,11 @@
    "_base_aliases": [
     "fangtooth"
    ],
-   "type": "fangtooth"
+   "type": "fangtooth",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 116513,
@@ -18124,7 +19357,11 @@
     "ajolote",
     "mole lizard"
    ],
-   "type": "lizard"
+   "type": "lizard",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 43733,
@@ -18167,7 +19404,11 @@
    "_base_aliases": [
     "scaly tailed squirrel"
    ],
-   "type": "squirrel"
+   "type": "squirrel",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 36981,
@@ -18227,7 +19468,11 @@
     "amphisbaenian",
     "worm lizard"
    ],
-   "type": "lizard"
+   "type": "lizard",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 47302,
@@ -18285,7 +19530,11 @@
    "_base_aliases": [
     "frilled shark"
    ],
-   "type": "shark"
+   "type": "shark",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 118647,
@@ -18343,7 +19592,11 @@
    "_base_aliases": [
     "scabbardfish"
    ],
-   "type": "frostfish"
+   "type": "frostfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 196745,
@@ -18400,7 +19653,11 @@
    "_base_aliases": [
     "oarfish"
    ],
-   "type": "oarfish"
+   "type": "oarfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 42468,
@@ -18459,7 +19716,11 @@
     "giant otter shrew",
     "otter shrew"
    ],
-   "type": "otter shrew"
+   "type": "otter shrew",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 105913,
@@ -18517,7 +19778,11 @@
    "_base_aliases": [
     "goblin shark"
    ],
-   "type": "shark"
+   "type": "shark",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 253674,
@@ -18576,7 +19841,10 @@
     "argonaut",
     "paper nautilus"
    ],
-   "type": "argonaut"
+   "type": "argonaut",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 569409,
@@ -18634,7 +19902,11 @@
    "_base_aliases": [
     "hog badger"
    ],
-   "type": "badger"
+   "type": "badger",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 17570,
@@ -18693,7 +19965,11 @@
     "greater honeyguide",
     "honeyguide"
    ],
-   "type": "honeyguide"
+   "type": "honeyguide",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 27864,
@@ -18753,7 +20029,10 @@
     "greater siren",
     "siren"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 20934,
@@ -18813,7 +20092,11 @@
     "green wood hoopoe",
     "wood hoopoe"
    ],
-   "type": "green woodhoopoe"
+   "type": "green woodhoopoe",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42317,
@@ -18870,7 +20153,11 @@
    "_base_aliases": [
     "goral"
    ],
-   "type": "goral"
+   "type": "goral",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 3834,
@@ -18927,7 +20214,11 @@
    "_base_aliases": [
     "hamerkop"
    ],
-   "type": "hamerkop"
+   "type": "hamerkop",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 901109,
@@ -18981,7 +20272,10 @@
     "headless chicken monster",
     "sea cucumber"
    ],
-   "type": "headless chicken monster"
+   "type": "headless chicken monster",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42324,
@@ -19040,7 +20334,11 @@
     "himalayan tahr",
     "tahr"
    ],
-   "type": "tahr"
+   "type": "tahr",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74108,
@@ -19097,7 +20395,11 @@
    "_base_aliases": [
     "hirola"
    ],
-   "type": "hirola"
+   "type": "hirola",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 46337,
@@ -19156,7 +20458,11 @@
     "hispaniolan solenodon",
     "solenodon"
    ],
-   "type": "solenodon"
+   "type": "solenodon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42788,
@@ -19214,7 +20520,11 @@
    "_base_aliases": [
     "honey possum"
    ],
-   "type": "possum"
+   "type": "possum",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 6908,
@@ -19273,7 +20583,11 @@
     "horned screamer",
     "screamer"
    ],
-   "type": "screamer"
+   "type": "screamer",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42901,
@@ -19303,7 +20617,11 @@
     "matschies tree kangaroo",
     "tree kangaroo"
    ],
-   "type": "kangaroo"
+   "type": "kangaroo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4908,
@@ -19360,7 +20678,11 @@
    "_base_aliases": [
     "ibisbill"
    ],
-   "type": "ibisbill"
+   "type": "ibisbill",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 26811,
@@ -19420,7 +20742,10 @@
     "giant salamander",
     "japanese giant salamander"
    ],
-   "type": "salamander"
+   "type": "salamander",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 26179,
@@ -19480,7 +20805,11 @@
     "elephant trunk snake",
     "file snake"
    ],
-   "type": "snake"
+   "type": "snake",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 572,
@@ -19537,7 +20866,11 @@
    "_base_aliases": [
     "kagu"
    ],
-   "type": "kagu"
+   "type": "kagu",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43228,
@@ -19596,7 +20929,11 @@
     "elephant shrew",
     "round eared sengi"
    ],
-   "type": "elephant shrew"
+   "type": "elephant shrew",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43338,
@@ -19653,7 +20990,11 @@
    "_base_aliases": [
     "kiang"
    ],
-   "type": "kiang"
+   "type": "kiang",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1584019,
@@ -19711,7 +21052,11 @@
    "_base_aliases": [
     "kakapo"
    ],
-   "type": "k\u0101k\u0101p\u014d"
+   "type": "k\u0101k\u0101p\u014d",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 75193,
@@ -19773,7 +21118,11 @@
     "lesser mouse deer",
     "mouse deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42988,
@@ -19832,7 +21181,11 @@
     "long nosed potoroo",
     "potoroo"
    ],
-   "type": "potoroo"
+   "type": "potoroo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42247,
@@ -19891,7 +21244,11 @@
     "anoa",
     "lowland anoa"
    ],
-   "type": "anoa"
+   "type": "anoa",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42439,
@@ -19950,7 +21307,11 @@
     "lowland streaked tenrec",
     "streaked tenrec"
    ],
-   "type": "streaked tenrec"
+   "type": "streaked tenrec",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 74143,
@@ -20009,7 +21370,11 @@
     "serow",
     "sumatran serow"
    ],
-   "type": "serow"
+   "type": "serow",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 8491,
@@ -20068,7 +21433,11 @@
     "malaysian rail babbler",
     "rail babbler"
    ],
-   "type": "rail babbler"
+   "type": "rail babbler",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 47066,
@@ -20126,7 +21495,11 @@
    "_base_aliases": [
     "maned sloth"
    ],
-   "type": "sloth"
+   "type": "sloth",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 1370747,
@@ -20185,7 +21558,11 @@
     "moon rat",
     "moonrat"
    ],
-   "type": "moonrat"
+   "type": "moonrat",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43736,
@@ -20243,7 +21620,11 @@
    "_base_aliases": [
     "mountain beaver"
    ],
-   "type": "beaver"
+   "type": "beaver",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43354,
@@ -20303,7 +21684,11 @@
     "mountain tapir",
     "woolly tapir"
    ],
-   "type": "tapir"
+   "type": "tapir",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 852334,
@@ -20362,7 +21747,11 @@
     "mountain viscacha",
     "viscacha"
    ],
-   "type": "viscacha"
+   "type": "viscacha",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 55297,
@@ -20421,7 +21810,10 @@
     "sea angel",
     "sea butterfly"
    ],
-   "type": "sea butterfly"
+   "type": "sea butterfly",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42715,
@@ -20478,7 +21870,11 @@
    "_base_aliases": [
     "feathertail glider"
    ],
-   "type": "feathertail glider"
+   "type": "feathertail glider",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 930132,
@@ -20537,7 +21933,11 @@
     "pygmy anteater",
     "silky anteater"
    ],
-   "type": "pygmy anteater"
+   "type": "pygmy anteater",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 191560,
@@ -20596,7 +21996,10 @@
     "comb jelly",
     "ctenophore"
    ],
-   "type": "comb jelly"
+   "type": "comb jelly",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42825,
@@ -20655,7 +22058,11 @@
     "cuscus",
     "northern common cuscus"
    ],
-   "type": "cuscus"
+   "type": "cuscus",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42176,
@@ -20715,7 +22122,11 @@
     "brocket deer",
     "red brocket"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 145979,
@@ -20775,7 +22186,11 @@
     "leaf chameleon",
     "micro chameleon"
    ],
-   "type": "chameleon"
+   "type": "chameleon",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 42342,
@@ -20832,7 +22247,11 @@
    "_base_aliases": [
     "nyala"
    ],
-   "type": "nyala"
+   "type": "nyala",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 19727,
@@ -20889,7 +22308,11 @@
    "_base_aliases": [
     "oilbird"
    ],
-   "type": "oilbird"
+   "type": "oilbird",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 43333,
@@ -20948,7 +22371,11 @@
     "asiatic wild ass",
     "onager"
    ],
-   "type": "onager"
+   "type": "onager",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42380,
@@ -21005,7 +22432,11 @@
    "_base_aliases": [
     "oribi"
    ],
-   "type": "oribi"
+   "type": "oribi",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41590,
@@ -21063,7 +22494,11 @@
    "_base_aliases": [
     "otter civet"
    ],
-   "type": "civet"
+   "type": "civet",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43837,
@@ -21120,7 +22555,11 @@
    "_base_aliases": [
     "pacarana"
    ],
-   "type": "pacarana"
+   "type": "pacarana",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 49886,
@@ -21154,7 +22593,11 @@
     "barreleye",
     "barreleye fish"
    ],
-   "type": "barreleye"
+   "type": "barreleye",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 100268,
@@ -21213,7 +22656,11 @@
     "hagfish",
     "pacific hagfish"
    ],
-   "type": "hagfish"
+   "type": "hagfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 28097,
@@ -21235,7 +22682,11 @@
    "_base_aliases": [
     "caecilian"
    ],
-   "type": "caecilian"
+   "type": "caecilian",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 47097,
@@ -21290,7 +22741,11 @@
     "fairy armadillo",
     "pink fairy armadillo"
    ],
-   "type": "armadillo"
+   "type": "armadillo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 4341,
@@ -21348,7 +22803,11 @@
    "_base_aliases": [
     "plains wanderer"
    ],
-   "type": "plains-wanderer"
+   "type": "plains-wanderer",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 117302,
@@ -21407,7 +22866,10 @@
     "man o war",
     "portuguese man o war"
    ],
-   "type": "man o war"
+   "type": "man o war",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 2121,
@@ -21466,7 +22928,11 @@
     "puerto rican tody",
     "tody"
    ],
-   "type": "tody"
+   "type": "tody",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 25307,
@@ -21526,7 +22992,11 @@
     "pig nosed frog",
     "purple frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians",
+    "land"
+   ]
   },
   {
    "id": 47041,
@@ -21585,7 +23055,11 @@
     "desman",
     "pyrenean desman"
    ],
-   "type": "desman"
+   "type": "desman",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 51108,
@@ -21642,7 +23116,10 @@
    "_base_aliases": [
     "pyrosome"
    ],
-   "type": "pyrosome"
+   "type": "pyrosome",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42230,
@@ -21704,7 +23181,11 @@
     "pere david's deer",
     "pere davids deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 127702,
@@ -21764,7 +23245,10 @@
     "pistol shrimp",
     "snapping shrimp"
    ],
-   "type": "shrimp"
+   "type": "shrimp",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42968,
@@ -21823,7 +23307,11 @@
     "pademelon",
     "red necked pademelon"
    ],
-   "type": "pademelon"
+   "type": "pademelon",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 64490,
@@ -21880,7 +23368,11 @@
    "_base_aliases": [
     "stonefish"
    ],
-   "type": "stonefish"
+   "type": "stonefish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 342278,
@@ -21939,7 +23431,10 @@
     "crinoid",
     "feather star"
    ],
-   "type": "feather star"
+   "type": "feather star",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 42366,
@@ -21972,7 +23467,11 @@
    "_base_aliases": [
     "royal antelope"
    ],
-   "type": "antelope"
+   "type": "antelope",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 28010,
@@ -22031,7 +23530,10 @@
     "caecilian",
     "rubber eel"
    ],
-   "type": "caecilian"
+   "type": "caecilian",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 200950,
@@ -22089,7 +23591,10 @@
    "_base_aliases": [
     "bobbit worm"
    ],
-   "type": "sand striker"
+   "type": "sand striker",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 33520,
@@ -22149,7 +23654,11 @@
     "leaf tailed gecko",
     "satanic leaf tailed gecko"
    ],
-   "type": "gecko"
+   "type": "gecko",
+   "cats": [
+    "land",
+    "reptiles"
+   ]
   },
   {
    "id": 846960,
@@ -22207,7 +23716,11 @@
    "_base_aliases": [
     "screaming hairy armadillo"
    ],
-   "type": "armadillo"
+   "type": "armadillo",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 49223,
@@ -22266,7 +23779,11 @@
     "lamprey",
     "sea lamprey"
    ],
-   "type": "lamprey"
+   "type": "lamprey",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 1160397,
@@ -22290,7 +23807,10 @@
     "crinoid",
     "sea lily"
    ],
-   "type": "sea lily"
+   "type": "sea lily",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 493799,
@@ -22349,7 +23869,10 @@
     "bichir",
     "senegal bichir"
    ],
-   "type": "bichir"
+   "type": "bichir",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 2308,
@@ -22408,7 +23931,11 @@
     "ground roller",
     "short legged ground roller"
    ],
-   "type": "ground roller"
+   "type": "ground roller",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42144,
@@ -22468,7 +23995,11 @@
     "musk deer",
     "siberian musk deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 43266,
@@ -22526,7 +24057,11 @@
    "_base_aliases": [
     "shrew opossum"
    ],
-   "type": "opossum"
+   "type": "opossum",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42338,
@@ -22583,7 +24118,11 @@
    "_base_aliases": [
     "sitatunga"
    ],
-   "type": "sitatunga"
+   "type": "sitatunga",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 120645,
@@ -22640,7 +24179,11 @@
    "_base_aliases": [
     "viperfish"
    ],
-   "type": "viperfish"
+   "type": "viperfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 41837,
@@ -22700,7 +24243,11 @@
     "chinese ferret badger",
     "ferret badger"
    ],
-   "type": "badger"
+   "type": "badger",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 41602,
@@ -22758,7 +24305,11 @@
    "_base_aliases": [
     "small toothed palm civet"
    ],
-   "type": "civet"
+   "type": "civet",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 349823,
@@ -22790,7 +24341,11 @@
    "_base_aliases": [
     "blobfish"
    ],
-   "type": "blobfish"
+   "type": "blobfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 424597,
@@ -22848,7 +24403,11 @@
    "_base_aliases": [
     "takahe"
    ],
-   "type": "south island takah\u0113"
+   "type": "south island takah\u0113",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 95962,
@@ -22907,7 +24466,11 @@
     "handfish",
     "spotted handfish"
    ],
-   "type": "handfish"
+   "type": "handfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 68,
@@ -22964,7 +24527,11 @@
    "_base_aliases": [
     "sungrebe"
    ],
-   "type": "sungrebe"
+   "type": "sungrebe",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 42475,
@@ -23023,7 +24590,11 @@
     "tailless tenrec",
     "tenrec"
    ],
-   "type": "tenrec"
+   "type": "tenrec",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42243,
@@ -23080,7 +24651,11 @@
    "_base_aliases": [
     "tamaraw"
    ],
-   "type": "tamaraw"
+   "type": "tamaraw",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 256112,
@@ -23104,7 +24679,11 @@
     "tardigrade",
     "water bear"
    ],
-   "type": "tardigrade"
+   "type": "tardigrade",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 22822,
@@ -23164,7 +24743,10 @@
     "scrotum frog",
     "titicaca water frog"
    ],
-   "type": "frog"
+   "type": "frog",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 42195,
@@ -23222,7 +24804,11 @@
    "_base_aliases": [
     "tufted deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 26796,
@@ -23281,7 +24867,10 @@
     "amphiuma",
     "conger eel"
    ],
-   "type": "amphiuma"
+   "type": "amphiuma",
+   "cats": [
+    "amphibians"
+   ]
   },
   {
    "id": 253737,
@@ -23324,7 +24913,10 @@
    "_base_aliases": [
     "vampire squid"
    ],
-   "type": "squid"
+   "type": "squid",
+   "cats": [
+    "sea"
+   ]
   },
   {
    "id": 14209,
@@ -23383,7 +24975,11 @@
     "asity",
     "velvet asity"
    ],
-   "type": "asity"
+   "type": "asity",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 1247188,
@@ -23405,7 +25001,11 @@
    "_base_aliases": [
     "velvet worm"
    ],
-   "type": "velvet worm"
+   "type": "velvet worm",
+   "cats": [
+    "bugs",
+    "land"
+   ]
   },
   {
    "id": 42129,
@@ -23465,7 +25065,11 @@
     "visayan warty pig",
     "warty pig"
    ],
-   "type": "pig"
+   "type": "pig",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 14840,
@@ -23522,7 +25126,11 @@
    "_base_aliases": [
     "wallcreeper"
    ],
-   "type": "wallcreeper"
+   "type": "wallcreeper",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 119392,
@@ -23581,7 +25189,11 @@
     "frogfish",
     "warty frogfish"
    ],
-   "type": "warty frogfish"
+   "type": "warty frogfish",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 42193,
@@ -23641,7 +25253,11 @@
     "chinese water deer",
     "water deer"
    ],
-   "type": "deer"
+   "type": "deer",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 42700,
@@ -23701,7 +25317,11 @@
     "water opossum",
     "yapok"
    ],
-   "type": "opossum"
+   "type": "opossum",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 110712,
@@ -23760,7 +25380,10 @@
     "african lungfish",
     "lungfish"
    ],
-   "type": "lungfish"
+   "type": "lungfish",
+   "cats": [
+    "fish"
+   ]
   },
   {
    "id": 52188,
@@ -23818,7 +25441,11 @@
    "_base_aliases": [
     "whale shark"
    ],
-   "type": "shark"
+   "type": "shark",
+   "cats": [
+    "fish",
+    "sea"
+   ]
   },
   {
    "id": 72,
@@ -23877,7 +25504,11 @@
     "mesite",
     "white breasted mesite"
    ],
-   "type": "mesite"
+   "type": "mesite",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 14220,
@@ -23936,7 +25567,11 @@
     "picathartes",
     "rockfowl"
    ],
-   "type": "rockfowl"
+   "type": "rockfowl",
+   "cats": [
+    "birds",
+    "land"
+   ]
   },
   {
    "id": 1670729,
@@ -23995,7 +25630,11 @@
     "bettong",
     "woylie"
    ],
-   "type": "woylie"
+   "type": "woylie",
+   "cats": [
+    "land",
+    "mammals"
+   ]
   },
   {
    "id": 368889,
@@ -24054,7 +25693,10 @@
     "acorn worm",
     "yellow acorn worm"
    ],
-   "type": "acorn worm"
+   "type": "acorn worm",
+   "cats": [
+    "sea"
+   ]
   }
  ]
 }

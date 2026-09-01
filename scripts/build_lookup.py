@@ -242,6 +242,11 @@ def main():
         add_types.main()
     except Exception as e:
         print(f"  WARNING: could not add type words ({e}); run scripts/add_types.py")
+    try:
+        import add_categories
+        add_categories.main()
+    except Exception as e:
+        print(f"  WARNING: no categories ({e}); run scripts/add_categories.py")
 
     print(f"\n{'='*60}\nWrote {OUT}")
     print(f"  kept    {len(ordered)}   ({time.time()-t0:.0f}s)")

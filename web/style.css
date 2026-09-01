@@ -148,6 +148,37 @@ main{
 .diff.active{border-color:var(--accent); background:#1d2a3d}
 .diff.death b{color:#ff6b6b}
 .diff.death.active{border-color:#ff6b6b; background:#2e1a1e}
+.cathead{margin-top:18px !important}
+.cat{
+  display:flex; align-items:center; gap:11px; cursor:pointer;
+  padding:8px 11px; border-radius:9px; user-select:none;
+}
+.cat:hover{background:#151a22}
+.cat input{position:absolute; opacity:0; pointer-events:none}
+.switch{
+  flex:none; width:38px; height:21px; border-radius:11px;
+  background:#39434f; position:relative; transition:background .18s;
+}
+.switch::after{
+  content:""; position:absolute; top:2px; left:2px;
+  width:17px; height:17px; border-radius:50%; background:#aab6c6;
+  transition:transform .18s, background .18s;
+}
+.cat input:checked + .switch{background:var(--accent)}
+.cat input:checked + .switch::after{transform:translateX(17px); background:#06101f}
+.cat input:focus-visible + .switch{outline:2px solid var(--accent); outline-offset:2px}
+.catname{flex:1; font-size:14.5px}
+.catnum{font-size:11.5px; color:var(--dim); font-variant-numeric:tabular-nums}
+#catwarn{
+  margin:6px 2px 0; font-size:12.5px; color:#ff6b6b; line-height:1.5;
+}
+#catwarn.hidden{display:none}
+#allcats{
+  margin-top:8px; padding:9px; cursor:pointer; font-size:13px;
+  background:transparent; color:var(--dim);
+  border:1px solid var(--line); border-radius:9px;
+}
+#allcats:hover{color:var(--ink); border-color:var(--accent)}
 .note{font-size:12px; color:var(--dim); line-height:1.55; margin:14px 0 0}
 #close{
   margin-top:auto; padding:11px; cursor:pointer; font-size:14px;
