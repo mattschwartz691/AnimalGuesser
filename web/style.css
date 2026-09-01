@@ -1,0 +1,128 @@
+:root{
+  --bg:#11151c; --panel:#1b212b; --line:#2c3542;
+  --ink:#eef2f7; --dim:#93a0b3;
+  --green:#2ecc71; --red:#ff3b30; --accent:#4a9eff;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; min-height:100vh; background:var(--bg); color:var(--ink);
+  font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  display:flex; flex-direction:column; align-items:center;
+}
+
+/* ---- gear, top left ---- */
+#gear{
+  position:fixed; top:14px; left:14px; z-index:30;
+  width:44px; height:44px; border-radius:50%;
+  background:var(--panel); color:var(--dim);
+  border:1px solid var(--line); cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+  transition:color .2s, transform .35s;
+}
+#gear:hover{color:var(--ink); transform:rotate(60deg)}
+
+header{text-align:center; padding:18px 60px 4px}
+h1{margin:0; font-size:22px; letter-spacing:.5px; font-weight:650}
+#scoreline{color:var(--dim); font-size:13px; margin-top:4px}
+#scoreline .dot{margin:0 7px}
+#tierbadge{color:var(--accent); font-weight:600}
+
+main{
+  width:100%; max-width:660px; padding:10px 16px 40px;
+  display:flex; flex-direction:column; align-items:center;
+}
+
+/* ---- photo ---- */
+#stage{
+  width:100%; aspect-ratio:4/3; background:#0b0e13;
+  border:1px solid var(--line); border-radius:14px;
+  overflow:hidden; position:relative;
+  display:flex; align-items:center; justify-content:center;
+}
+#photo{width:100%; height:100%; object-fit:contain; display:none}
+#photo.ready{display:block}
+#spinner{color:var(--dim); font-size:14px}
+#spinner.hidden{display:none}
+#credit{
+  color:#6b7889; font-size:11px; margin-top:7px; text-align:center;
+  max-width:100%; min-height:16px; padding:0 4px;
+}
+#credit a{color:#6b7889}
+
+/* ---- 1-second flash ---- */
+#flash{
+  margin-top:16px; font-size:30px; font-weight:800; letter-spacing:.5px;
+  text-align:center; min-height:38px;
+}
+#flash.hidden{visibility:hidden}
+#flash.wrong{color:var(--red)}
+#flash.right{color:var(--green)}
+
+/* ---- guess bar ---- */
+#guessbar{margin-top:14px; display:flex; gap:8px; width:100%; max-width:460px}
+#guessbar.hidden{display:none}
+#guess{
+  flex:1; padding:13px 15px; font-size:16px;
+  background:var(--panel); color:var(--ink);
+  border:1px solid var(--line); border-radius:10px; outline:none;
+}
+#guess:focus{border-color:var(--accent)}
+#submit{
+  padding:13px 22px; font-size:15px; font-weight:600; cursor:pointer;
+  background:var(--accent); color:#06101f;
+  border:none; border-radius:10px;
+}
+#submit:hover{filter:brightness(1.1)}
+
+/* ---- reveal + next ---- */
+#reveal{
+  margin-top:14px; display:flex; align-items:center; gap:14px;
+  flex-wrap:wrap; justify-content:center; min-height:48px;
+}
+#reveal.hidden{display:none}
+#answer{font-size:23px; font-weight:800}
+#answer.wrong{color:var(--red)}
+#answer.right{color:var(--green)}
+#next{
+  padding:11px 20px; font-size:15px; font-weight:600; cursor:pointer;
+  background:var(--panel); color:var(--ink);
+  border:1px solid var(--line); border-radius:10px;
+}
+#next:hover{border-color:var(--accent); color:var(--accent)}
+
+/* ---- settings ---- */
+#overlay{position:fixed; inset:0; background:rgba(0,0,0,.55); z-index:40}
+#overlay.hidden{display:none}
+#settings{
+  position:fixed; top:0; left:0; bottom:0; width:330px; max-width:88vw; z-index:50;
+  background:var(--panel); border-right:1px solid var(--line);
+  padding:22px; overflow-y:auto;
+  display:flex; flex-direction:column; gap:9px;
+}
+#settings.hidden{display:none}
+#settings h2{margin:4px 0 8px; font-size:15px; text-transform:uppercase;
+  letter-spacing:1.5px; color:var(--dim); font-weight:600}
+.diff{
+  text-align:left; padding:13px 15px; cursor:pointer;
+  background:#151a22; color:var(--ink);
+  border:1px solid var(--line); border-radius:11px;
+  display:flex; flex-direction:column; gap:3px;
+}
+.diff b{font-size:16px}
+.diff span{font-size:12.5px; color:var(--dim)}
+.diff:hover{border-color:var(--accent)}
+.diff.active{border-color:var(--accent); background:#1d2a3d}
+.diff.death b{color:#ff6b6b}
+.diff.death.active{border-color:#ff6b6b; background:#2e1a1e}
+.note{font-size:12px; color:var(--dim); line-height:1.55; margin:14px 0 0}
+#close{
+  margin-top:auto; padding:11px; cursor:pointer; font-size:14px;
+  background:transparent; color:var(--dim);
+  border:1px solid var(--line); border-radius:10px;
+}
+#close:hover{color:var(--ink)}
+
+@media (max-width:520px){
+  h1{font-size:19px} #flash{font-size:24px} #answer{font-size:20px}
+  header{padding-top:16px}
+}

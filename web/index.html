@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Animal Guesser</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- gear, top left -->
+<button id="gear" title="Settings" aria-label="Settings">
+  <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true">
+    <path fill="currentColor" d="M19.4 13a7.8 7.8 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.3 7.3 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.3 7.3 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.8 7.8 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.3 7.3 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.3 7.3 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6zM12 15.5A3.5 3.5 0 1 1 15.5 12 3.5 3.5 0 0 1 12 15.5z"/>
+  </svg>
+</button>
+
+<header>
+  <h1>Animal Guesser</h1>
+  <div id="scoreline"><span id="score">0</span> / <span id="asked">0</span>
+    <span class="dot">·</span><span id="tierbadge">Easy</span></div>
+</header>
+
+<main>
+  <div id="stage">
+    <div id="spinner">Loading photo…</div>
+    <img id="photo" alt="Photo of an animal to identify">
+  </div>
+  <div id="credit"></div>
+
+  <!-- 1-second flash message -->
+  <div id="flash" class="hidden"></div>
+
+  <!-- the guess bar -->
+  <form id="guessbar" autocomplete="off">
+    <input id="guess" type="text" placeholder="What animal is this?"
+           autocomplete="off" autocorrect="off" spellcheck="false">
+    <button type="submit" id="submit">Guess</button>
+  </form>
+
+  <!-- the reveal + next button -->
+  <div id="reveal" class="hidden">
+    <span id="answer"></span>
+    <button id="next" type="button">Next →</button>
+  </div>
+</main>
+
+<!-- settings panel -->
+<div id="overlay" class="hidden"></div>
+<aside id="settings" class="hidden" role="dialog" aria-label="Settings">
+  <h2>Difficulty</h2>
+  <button class="diff" data-tier="easy">
+    <b>Easy</b><span>Everyone knows this animal</span></button>
+  <button class="diff" data-tier="medium">
+    <b>Medium</b><span>Most people know this animal</span></button>
+  <button class="diff" data-tier="hard">
+    <b>Hard</b><span>Few people know this animal</span></button>
+  <button class="diff death" data-tier="death">
+    <b>Death Mode</b><span>Almost nobody knows this animal</span></button>
+  <p class="note">Every photo is a real photograph taken by a real
+     person — nothing here is AI-generated. No extinct or mythological animals.</p>
+  <button id="close">Close</button>
+</aside>
+
+<script src="game.js"></script>
+</body>
+</html>
