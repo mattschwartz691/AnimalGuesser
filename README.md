@@ -18,9 +18,9 @@ the game fetches its data file. The photos themselves stream from the internet.)
 
 - **Gear icon, top left** — pick the difficulty.
 - Type your guess in the bar and hit Enter.
-- **Wrong** → a bold red `WRONG ANSWER!` for one second; then the guess bar
-  disappears, the animal's name is revealed in red, and a **Next →** button
-  appears beside it.
+- **Wrong** → a bold red `WRONG ANSWER!` for one second, and the guess spends a
+  hint. The round keeps going. Only when the hints run out does the answer come
+  up in red with a **Next →** button beside it.
 - **Right** → a bold green `CORRECT!` for one second, then the same reveal in
   green.
 - Click **Next →** for a new animal. Plays as long as you like.
@@ -37,6 +37,13 @@ NAME   _ _ _ _   C R A B
 
 `boat crab` gets you nothing, so the shortcut only pays when you are actually
 right about the animal. Only the full name (or the Latin name) scores.
+
+### Scoring
+
+Every animal starts out worth **5 points**. Each hint you take costs one, down
+to a floor of 1 — and since a wrong guess spends a hint, wrong guesses cost you
+too. Naming the noun is free. The header shows your points, how many you have
+got right, and what the animal in front of you is currently worth.
 
 ### Hints
 

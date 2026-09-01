@@ -25,6 +25,8 @@ header{text-align:center; padding:18px 60px 4px}
 h1{margin:0; font-size:22px; letter-spacing:.5px; font-weight:650}
 #scoreline{color:var(--dim); font-size:13px; margin-top:4px}
 #scoreline .dot{margin:0 7px}
+#scoreline b{color:var(--ink); font-weight:700}
+#worth{color:var(--accent)}
 #tierbadge{color:var(--accent); font-weight:600}
 
 main{

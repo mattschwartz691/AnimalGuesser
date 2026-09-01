@@ -12,6 +12,7 @@ const el = {
   hintsci:$("hintsci"), hintscirow:$("hintscirow"),
   catwarn:$("catwarn"), allcats:$("allcats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
+  correct:$("correct"), worth:$("worth"),
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
@@ -25,7 +26,14 @@ let onCats = new Set(ALL_CATS);   // categories currently toggled on
 let current = null;      // {animal, photo} on screen now
 let upcoming = null;     // {animal, photo} chosen + preloaded ahead of time
 let locked = false;      // true while a flash is on screen
-let score = 0, asked = 0;
+let score = 0, asked = 0, correct = 0;
+
+// Every animal starts at BASE_POINTS. Each hint you take -- or each wrong
+// guess, which spends one -- knocks a point off, down to a floor of 1.
+const BASE_POINTS = 5;
+function worthNow() {
+  return Math.max(1, BASE_POINTS - hintsUsed);
+}
 let gen = 0;                       // bumped whenever what's on screen changes,
                                    // so a slow image load can't resurrect itself
 let hintsUsed = 0;                 // resets with every new photo
@@ -239,6 +247,7 @@ function useHint() {
   hintsUsed++;
   renderHint();
   updateHintButton();
+  updateScore();
   if (!isTouch()) el.guess.focus();
 }
 
@@ -278,7 +287,7 @@ function setTier(t) {
   tier = t;
   store.set("tier", t);
   rebuildPool();
-  score = 0; asked = 0;
+  score = 0; asked = 0; correct = 0;
   el.tierbadge.textContent = TIER_LABEL[t];
   document.querySelectorAll(".diff").forEach(b =>
     b.classList.toggle("active", b.dataset.tier === t));
@@ -290,7 +299,9 @@ function setTier(t) {
 
 function updateScore() {
   el.score.textContent = score;
+  el.correct.textContent = correct;
   el.asked.textContent = asked;
+  el.worth.textContent = worthNow();
 }
 
 function newRound(triesLeft = 6) {
@@ -308,6 +319,7 @@ function newRound(triesLeft = 6) {
   el.credit.textContent = "";
   hintsUsed = 0;
   nounSolved = false;
+  if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
 
@@ -383,9 +395,29 @@ function submitGuess(ev) {
     return;
   }
 
+  // A wrong guess spends a hint rather than ending the round. Only when the
+  // hints run out does the answer come up.
+  if (verdict === "no" && hintsLeft() > 0) {
+    hintsUsed++;
+    renderHint();
+    updateScore();
+    el.flash.textContent = "WRONG ANSWER!";
+    el.flash.className = "wrong";
+    setTimeout(() => {
+      el.flash.className = "hidden";
+      el.guess.value = "";
+      el.guess.disabled = false;
+      el.submit.disabled = false;
+      locked = false;
+      updateHintButton();
+      if (!isTouch()) el.guess.focus();
+    }, FLASH_MS);
+    return;
+  }
+
   const right = verdict === "full";
   asked++;
-  if (right) score++;
+  if (right) { correct++; score += worthNow(); }
   updateScore();
 
   // 1. bold flash message for exactly one second
