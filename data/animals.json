@@ -598,7 +598,7 @@
     "chimp",
     "chimpanzee"
    ],
-   "type": "chimp"
+   "type": "chimpanzee"
   },
   {
    "id": 41482,
@@ -5346,7 +5346,7 @@
     "jellyfish",
     "moon jelly"
    ],
-   "type": "jellyfish"
+   "type": "moon jelly"
   },
   {
    "id": 120138,
@@ -5580,7 +5580,7 @@
     "gnu",
     "wildebeest"
    ],
-   "type": "gnu"
+   "type": "wildebeest"
   },
   {
    "id": 42051,
@@ -6155,7 +6155,7 @@
     "gemsbok",
     "oryx"
    ],
-   "type": "oryx"
+   "type": "gemsbok"
   },
   {
    "id": 47107,
@@ -6330,7 +6330,7 @@
     "goliath birdeater",
     "tarantula"
    ],
-   "type": "tarantula"
+   "type": "goliath birdeater"
   },
   {
    "id": 56766,
@@ -7373,7 +7373,7 @@
     "mountain lion",
     "puma"
    ],
-   "type": "puma"
+   "type": "mountain lion"
   },
   {
    "id": 41459,
@@ -7783,7 +7783,7 @@
     "jellyfish",
     "sea nettle"
    ],
-   "type": "jellyfish"
+   "type": "sea nettle"
   },
   {
    "id": 4647,
@@ -9925,7 +9925,7 @@
     "mata mata",
     "matamata"
    ],
-   "type": "matamata"
+   "type": "mata mata"
   },
   {
    "id": 204447,
@@ -10280,6 +10280,7 @@
    "sci": "Daubentonia madagascariensis",
    "aliases": [
     "aye aye",
+    "aye-aye",
     "ayeaye"
    ],
    "group": "Mammalia",
@@ -10330,7 +10331,7 @@
     "aye aye",
     "ayeaye"
    ],
-   "type": "ayeaye"
+   "type": "aye-aye"
   },
   {
    "id": 43654,
@@ -10507,7 +10508,7 @@
     "bearcat",
     "binturong"
    ],
-   "type": "bearcat"
+   "type": "binturong"
   },
   {
    "id": 4496,
@@ -13122,7 +13123,7 @@
     "dik dik",
     "dikdik"
    ],
-   "type": "dikdik"
+   "type": "dik dik"
   },
   {
    "id": 42384,
@@ -13188,6 +13189,7 @@
    "sci": "Phycodurus eques",
    "aliases": [
     "leafy sea dragon",
+    "leafy seadragon",
     "sea dragon"
    ],
    "group": "Actinopterygii",
@@ -13238,7 +13240,7 @@
     "leafy sea dragon",
     "sea dragon"
    ],
-   "type": "sea dragon"
+   "type": "leafy seadragon"
   },
   {
    "id": 43906,
@@ -14892,7 +14894,8 @@
    "name": "Southern Pud\u00fa",
    "sci": "Pudu puda",
    "aliases": [
-    "pudu"
+    "pudu",
+    "southern pud\u00fa"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Pud\u00fa",
@@ -14941,7 +14944,7 @@
    "_base_aliases": [
     "pudu"
    ],
-   "type": "pudu"
+   "type": "southern pud\u00fa"
   },
   {
    "id": 45929,
@@ -16602,7 +16605,7 @@
     "anglerfish",
     "footballfish"
    ],
-   "type": "anglerfish"
+   "type": "footballfish"
   },
   {
    "id": 118641,
@@ -16881,8 +16884,7 @@
    "aliases": [
     "elephant shrew",
     "giant elephant shrew",
-    "sengi",
-    "shrew"
+    "sengi"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Black_and_rufous_elephant_shrew",
@@ -16933,7 +16935,7 @@
     "giant elephant shrew",
     "sengi"
    ],
-   "type": "shrew"
+   "type": "elephant shrew"
   },
   {
    "id": 16,
@@ -17050,7 +17052,7 @@
     "blue capped ifrit",
     "ifrit"
    ],
-   "type": "ifrit"
+   "type": "blue capped ifrit"
   },
   {
    "id": 36062,
@@ -17169,7 +17171,7 @@
     "penis worm",
     "priapulid"
    ],
-   "type": "priapulid"
+   "type": "penis worm"
   },
   {
    "id": 43256,
@@ -17431,7 +17433,7 @@
     "peanut worm",
     "sipunculid"
    ],
-   "type": "sipunculid"
+   "type": "peanut worm"
   },
   {
    "id": 324775,
@@ -18760,6 +18762,7 @@
    "sci": "Phoeniculus purpureus",
    "aliases": [
     "green wood hoopoe",
+    "green woodhoopoe",
     "wood hoopoe"
    ],
    "group": "Aves",
@@ -18810,7 +18813,7 @@
     "green wood hoopoe",
     "wood hoopoe"
    ],
-   "type": "wood hoopoe"
+   "type": "green woodhoopoe"
   },
   {
    "id": 42317,
@@ -18978,7 +18981,7 @@
     "headless chicken monster",
     "sea cucumber"
    ],
-   "type": "sea cucumber"
+   "type": "headless chicken monster"
   },
   {
    "id": 42324,
@@ -19543,8 +19546,7 @@
    "sci": "Macroscelides proboscideus",
    "aliases": [
     "elephant shrew",
-    "round eared sengi",
-    "shrew"
+    "round eared sengi"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Macroscelides_proboscideus",
@@ -19594,7 +19596,7 @@
     "elephant shrew",
     "round eared sengi"
    ],
-   "type": "shrew"
+   "type": "elephant shrew"
   },
   {
    "id": 43338,
@@ -21937,7 +21939,7 @@
     "crinoid",
     "feather star"
    ],
-   "type": "crinoid"
+   "type": "feather star"
   },
   {
    "id": 42366,
@@ -22037,7 +22039,8 @@
    "name": "Sand Striker",
    "sci": "Eunice aphroditois",
    "aliases": [
-    "bobbit worm"
+    "bobbit worm",
+    "sand striker"
    ],
    "group": "Animalia",
    "wiki": "http://en.wikipedia.org/wiki/Eunice_aphroditois",
@@ -22086,7 +22089,7 @@
    "_base_aliases": [
     "bobbit worm"
    ],
-   "type": "bobbit worm"
+   "type": "sand striker"
   },
   {
    "id": 33520,
@@ -22287,7 +22290,7 @@
     "crinoid",
     "sea lily"
    ],
-   "type": "crinoid"
+   "type": "sea lily"
   },
   {
    "id": 493799,
@@ -22795,6 +22798,7 @@
    "name": "South Island Takah\u0113",
    "sci": "Porphyrio hochstetteri",
    "aliases": [
+    "south island takah\u0113",
     "takahe"
    ],
    "group": "Aves",
@@ -22844,7 +22848,7 @@
    "_base_aliases": [
     "takahe"
    ],
-   "type": "takahe"
+   "type": "south island takah\u0113"
   },
   {
    "id": 95962,
@@ -23084,7 +23088,6 @@
    "name": "Tardigrade",
    "sci": "Milnesium tardigradum",
    "aliases": [
-    "bear",
     "tardigrade",
     "water bear"
    ],
@@ -23101,7 +23104,7 @@
     "tardigrade",
     "water bear"
    ],
-   "type": "bear"
+   "type": "tardigrade"
   },
   {
    "id": 22822,
@@ -23578,7 +23581,7 @@
     "frogfish",
     "warty frogfish"
    ],
-   "type": "frogfish"
+   "type": "warty frogfish"
   },
   {
    "id": 42193,

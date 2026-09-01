@@ -37,6 +37,7 @@ function normalize(s) {
   return (s || "")
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // strip accents
     .toLowerCase()
+    .replace(/ph/g, "f")                                // elephant / elefant
     .replace(/[^a-z0-9]+/g, " ")                        // punctuation -> space
     .trim()
     .replace(/^(a|an|the) /, "")
@@ -47,13 +48,15 @@ function normalize(s) {
 function variants(s) {
   const n = normalize(s);
   if (!n) return [];
-  const out = new Set([n, n.replace(/ /g, "")]);
+  const out = [n];
+  const add = (v) => { if (v && !out.includes(v)) out.push(v); };
+  add(n.replace(/ /g, ""));
   const sing = n.endsWith("ies") ? n.slice(0, -3) + "y"
              : /(ses|xes|zes|ches|shes)$/.test(n) ? n.slice(0, -2)
              : n.endsWith("s") && !n.endsWith("ss") ? n.slice(0, -1)
              : null;
-  if (sing) { out.add(sing); out.add(sing.replace(/ /g, "")); }
-  return [...out];
+  if (sing) { add(sing); add(sing.replace(/ /g, "")); }
+  return out;
 }
 
 function levenshtein(a, b) {
@@ -78,20 +81,60 @@ function accepted(animal) {
   return [...set].filter(Boolean);
 }
 
+// How many typos to forgive in one word. Deliberately strict on short words:
+// at distance 1, "mouse"/"moose" and "boar"/"bear" are different animals.
+function tolerance(word) {
+  // Two edits only on genuinely long words: at two edits "frogfish" and
+  // "frostfish" are different fish.
+  return word.length >= 11 ? 2 : word.length >= 7 ? 1 : 0;
+}
+
+// Compare word by word rather than across the whole phrase. Whole-string
+// distance would call "domestic goat" a typo of "domestic cat", and
+// "sea lily" a typo of "sea lion" -- different animals, not misspellings.
+function closeEnough(guess, answer) {
+  if (guess === answer) return true;
+  const g = guess.split(" "), a = answer.split(" ");
+  if (g.length !== a.length) return false;
+  let spent = 0;
+  for (let i = 0; i < a.length; i++) {
+    if (g[i] === a[i]) continue;
+    // In a multi-word name the other words pin down which animal is meant, so
+    // one slip in a short word is safe there ("sea lilly") even though the
+    // same slip alone would not be ("mouse" is not a typo of "moose").
+    const tol = Math.max(tolerance(a[i]), a.length > 1 ? 1 : 0);
+    // A typo rarely changes the first letter -- but "gorilla"/"zorilla" and
+    // "boar"/"bear" are different animals that differ by one.
+    if (g[i][0] !== a[i][0]) return false;
+    const d = levenshtein(g[i], a[i]);
+    if (d > tol) return false;
+    spent += d;
+  }
+  return spent > 0 && spent <= 2;   // don't let small slips compound
+}
+
+// canonical spaced form of each accepted answer -- the only forms we fuzz
+function acceptedSpaced(animal) {
+  const set = new Set();
+  // Scientific names are excluded: they are precise Latin, and at two edits
+  // "bubo bubo" (eagle-owl) becomes "bufo bufo" (toad). They still match exactly.
+  for (const s of [animal.name, ...(animal.aliases || [])]) {
+    const n = normalize(s);
+    if (n) set.add(n);
+  }
+  return [...set];
+}
+
 function isCorrect(input, animal) {
   const guesses = variants(input);
   if (!guesses.length) return false;
   const ok = accepted(animal);
-  for (const g of guesses) {
-    if (ok.includes(g)) return true;
-    // forgive a typo or two on longer words
-    for (const a of ok) {
-      // Deliberately strict on short words: at distance 1, "mouse"/"moose"
-      // and "boar"/"bear" are different animals, not typos.
-      const tol = a.length >= 9 ? 2 : a.length >= 7 ? 1 : 0;
-      if (tol && levenshtein(g, a) <= tol) return true;
-    }
-  }
+  // exact match against every spelling variant, including space-stripped
+  for (const g of guesses) if (ok.includes(g)) return true;
+  // Fuzzy match only the canonical spaced forms. Comparing space-stripped
+  // phrases would make "domesticcat" a typo of "domesticgoat".
+  const g0 = guesses[0];
+  for (const a of acceptedSpaced(animal)) if (closeEnough(g0, a)) return true;
   return false;
 }
 

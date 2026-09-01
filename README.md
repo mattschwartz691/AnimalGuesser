@@ -41,10 +41,17 @@ Diamond-backed Rattlesnake spells `snake`, not the whole species name. Every
 type word is also an accepted answer, so a hint can never spell something the
 guess checker would then reject.
 
-Spelling is forgiven on longer words, and common alternative names are accepted
-(`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`). Short words
-are matched strictly on purpose — at one edit apart, *mouse* and *moose* are
-different animals, not a typo.
+Answers are checked leniently but not carelessly. Common alternative names work
+(`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
+is forgiven — `hipopotamus`, `elefant`, `orangutang`, `crocodil`, `sea lilly`.
+
+Typos are matched word by word rather than across the whole phrase, because
+whole-phrase matching quietly accepts the wrong animal: *domestic goat* is two
+edits from *domestic cat*, and *sea lily* two from *sea lion*. Short words need
+to be exact, a typo may not change a word's first letter, and scientific names
+must be exact (at two edits `bubo bubo`, the eagle-owl, becomes `bufo bufo`, the
+toad). The rules are checked by sweeping every accepted answer against all 421
+animals: **zero** answers win against an animal they don't belong to.
 
 ## Difficulty tiers
 

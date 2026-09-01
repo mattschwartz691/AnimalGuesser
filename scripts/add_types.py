@@ -47,7 +47,17 @@ SUFFIX_BLOCK = {"seahorse","sea horse","jellyfish","crayfish","cuttlefish",
                 "catbird","ladybird","bearcat","polecat","muskrat","woodrat",
                 "sea cucumber","sea urchin","sea spider","sea slug","sea star"}
 
+# Technical group names. Accurate, but useless as a hint -- "crinoid" is more
+# obscure than "sea lily", which is the word the player is trying to reach.
+TECHNICAL = {"crinoid","sipunculid","priapulid","siphonophore","pycnogonid",
+             "anomalure","onychophoran","ctenophore","echinoderm","cnidarian",
+             "tunicate","monotreme","marsupial","cephalopod","gastropod"}
+
 OVERRIDES = {
+  "Tardigrade":"tardigrade",              # a water bear is not a bear
+  "Black-and-rufous Sengi":"elephant shrew",
+  "Karoo Round-eared Sengi":"elephant shrew",
+  "Giant Ottershrew":"otter shrew",
   # Hand-corrected after reviewing the generated table. Each key was checked
   # against the actual iNaturalist display name in data/animals.json.
   "Koala":"koala", "Numbat":"numbat", "Platypus":"platypus",
@@ -103,9 +113,14 @@ def pick_type(animal):
                         best = g
     if best:
         return best
-    # 3. no broader everyday word exists (Fossa, Pika, Okapi) -- use the
-    #    shortest accepted answer, which is the animal's own plain name.
-    return min(lowers, key=len)
+    # 3. No broader everyday word exists (Fossa, Pika, Okapi). Fall back to an
+    #    accepted answer -- but never to a technical group name, and prefer one
+    #    that shares a word with what the player sees, so "Sea Lily" hints
+    #    "sea lily" rather than "crinoid".
+    usable = [c for c in lowers if c not in TECHNICAL] or lowers
+    name_words = set(words(animal["name"]))
+    overlap = [c for c in usable if set(words(c)) & name_words]
+    return min(overlap or usable, key=len)
 
 def main():
     d = json.load(open(DATA))
