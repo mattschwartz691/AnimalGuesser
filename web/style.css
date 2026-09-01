@@ -34,14 +34,18 @@ main{
 
 /* ---- hint, above the photo ---- */
 #hintbox{
-  min-height:34px; margin-bottom:8px; display:flex; align-items:center;
-  justify-content:center; gap:10px; visibility:hidden;
+  min-height:34px; margin-bottom:8px; display:flex; flex-direction:column;
+  align-items:center; gap:3px; visibility:hidden;
 }
 #hintbox.show{visibility:visible}
-#hintlabel{
+.hintrow{display:flex; align-items:center; justify-content:center; gap:10px}
+#hintscirow{display:none}
+#hintscirow.show{display:flex}
+.hintlab{
   font-size:10.5px; letter-spacing:1.4px; text-transform:uppercase;
   color:var(--dim);
 }
+#hintsci{font-size:16px; font-style:italic; color:var(--green); font-weight:600}
 #hintword{
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
   font-size:23px; font-weight:700; letter-spacing:3px; color:var(--accent);

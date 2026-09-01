@@ -9,6 +9,7 @@ const el = {
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
+  hintsci:$("hintsci"), hintscirow:$("hintscirow"),
   catwarn:$("catwarn"), allcats:$("allcats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
 };
@@ -142,48 +143,26 @@ function isCorrect(input, animal) {
 }
 
 /* ---------- hints ----------------------------------------------------------
-   Four hints. The first reveals the first letter of every word at once; each
-   one after that fills in the next letter, left to right, through the whole
-   name. "Scarlet Macaw" goes S...M, then C, then A, then R. */
-const MAX_HINTS = 4;
+   One hint per word, revealing that word's first letter in turn, and then a
+   final hint that gives the Latin name. "Scarlet Macaw" is 3 hints: S, then
+   M, then Ara macao. A one-word animal is 2; a three-word animal is 4. */
 const IS_LETTER = /[\p{L}\p{N}]/u;
 
 function hintName() {
   return (current && current.animal && current.animal.name) || "";
 }
-
-// Every letter position in the name, flagged as word-initial or not.
-function letterSlots(name) {
-  const slots = [];
-  let atStart = true;
-  for (let i = 0; i < name.length; i++) {
-    const ch = name[i];
-    if (/\s/.test(ch)) { atStart = true; continue; }
-    if (IS_LETTER.test(ch)) { slots.push({i, initial: atStart}); atStart = false; }
-    // hyphens and apostrophes are shown as-is and don't start a new word
-  }
-  return slots;
+function hintSci() {
+  return (current && current.animal && current.animal.sci) || "";
 }
 
-// hint 1 = all word-initials; each later hint = one more letter in order
-function revealedSet(name, used) {
-  const shown = new Set();
-  if (used <= 0) return shown;
-  const slots = letterSlots(name);
-  for (const s of slots) if (s.initial) shown.add(s.i);
-  let budget = used - 1;
-  for (const s of slots) {
-    if (budget <= 0) break;
-    if (!s.initial) { shown.add(s.i); budget--; }
-  }
-  return shown;
+function hintWords() {
+  return hintName().split(/\s+/).filter(Boolean);
 }
 
 function maxHints() {
-  const slots = letterSlots(hintName());
-  if (!slots.length) return 0;
-  const fillable = slots.filter(s => !s.initial).length;
-  return Math.min(MAX_HINTS, 1 + fillable);
+  const w = hintWords();
+  if (!w.length) return 0;
+  return w.length + (hintSci() ? 1 : 0);   // one per word, then the Latin name
 }
 
 function hintsLeft() {
@@ -192,17 +171,29 @@ function hintsLeft() {
 
 function renderHint() {
   const name = hintName();
-  if (!name || hintsUsed === 0) { el.hintbox.classList.remove("show"); return; }
-  const shown = revealedSet(name, hintsUsed);
-  const out = [];
-  for (let i = 0; i < name.length; i++) {
-    const ch = name[i];
-    if (/\s/.test(ch)) { out.push("  "); continue; }
+  if (!name || hintsUsed === 0) {
+    el.hintbox.classList.remove("show");
+    el.hintscirow.classList.remove("show");
+    return;
+  }
+  const wordsShown = Math.min(hintsUsed, hintWords().length);
+  let wordIndex = 0, atStart = true, shownFirst = false, out = [];
+  for (const ch of name) {
+    if (/\s/.test(ch)) { out.push("  "); atStart = true; wordIndex++; shownFirst = false; continue; }
     if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
-    out.push(shown.has(i) ? ch.toUpperCase() : "_");
+    // only the first letter of each revealed word
+    const reveal = atStart && !shownFirst && wordIndex < wordsShown;
+    out.push(reveal ? ch.toUpperCase() : "_");
+    if (reveal) shownFirst = true;
+    atStart = false;
   }
   el.hintword.textContent = out.join(" ");
   el.hintbox.classList.add("show");
+
+  const sci = hintSci();
+  const showSci = sci && hintsUsed > hintWords().length;
+  el.hintsci.textContent = showSci ? sci : "";
+  el.hintscirow.classList.toggle("show", !!showSci);
 }
 
 function updateHintButton() {
@@ -286,6 +277,7 @@ function newRound(triesLeft = 6) {
   el.credit.textContent = "";
   hintsUsed = 0;
   el.hintbox.classList.remove("show");
+  el.hintscirow.classList.remove("show");
 
   if (!pool.length) {
     el.spinner.textContent = "No animals available for this difficulty.";

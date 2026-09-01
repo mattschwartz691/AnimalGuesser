@@ -28,19 +28,21 @@ the game fetches its data file. The photos themselves stream from the internet.)
 ### Hints
 
 The **Hint** button sits to the right of the guess bar, with a badge showing how
-many are left. You get **4 per photo**. The first reveals the first letter of
-every word at once; each one after that fills in the next letter, left to right,
-through the whole name.
+many are left. Each word of the name costs one hint and gives up its first
+letter, and one final hint reveals the Latin name.
 
 ```
 NAME   _ _ _ _ _ _ _   _ _ _ _ _
-NAME   S _ _ _ _ _ _   M _ _ _ _     (1)
-NAME   S C _ _ _ _ _   M _ _ _ _     (2)
-NAME   S C A _ _ _ _   M _ _ _ _     (3)
-NAME   S C A R _ _ _   M _ _ _ _     (4)
+NAME   S _ _ _ _ _ _   _ _ _ _ _     (1)
+NAME   S _ _ _ _ _ _   M _ _ _ _     (2)
+NAME   S _ _ _ _ _ _   M _ _ _ _     (3)
+LATIN  Ara macao
 ```
 
-The budget resets with every new photo.
+So a two-word animal has 3 hints, a one-word animal 2, and
+`Western Diamond-backed Rattlesnake` 4. The budget resets with every new photo.
+The Latin name is itself an accepted answer, so the last hint is always enough
+to score.
 
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
