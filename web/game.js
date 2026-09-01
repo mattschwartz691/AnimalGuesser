@@ -10,7 +10,7 @@ const el = {
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"),
-  catwarn:$("catwarn"), allcats:$("allcats"),
+  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"),
 };
@@ -293,6 +293,7 @@ function setTier(t) {
     b.classList.toggle("active", b.dataset.tier === t));
   updateScore();
   updateCatCounts();
+  syncCatButtons();
   if (pool.length) { el.catwarn.classList.add("hidden"); newRound(); }
   else applyCats(false);
 }
@@ -467,11 +468,23 @@ function updateCatCounts() {
   }
 }
 
+// grey out whichever of the two would do nothing
+function syncCatButtons() {
+  el.allcats.disabled = onCats.size === ALL_CATS.length;
+  el.nocats.disabled = onCats.size === 0;
+}
+
+function setAllCats(on) {
+  for (const b of catBoxes()) b.checked = on;
+  applyCats();
+}
+
 function applyCats(save) {
   onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
   if (save !== false) store.set("cats", [...onCats].join(","));
   rebuildPool();
   updateCatCounts();
+  syncCatButtons();
   const empty = pool.length === 0;
   el.catwarn.classList.toggle("hidden", !empty);
   el.catwarn.textContent = onCats.size === 0
@@ -517,10 +530,8 @@ el.next.addEventListener("click", () => newRound());
 el.hint.addEventListener("click", useHint);
 for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
-el.allcats.addEventListener("click", () => {
-  for (const b of catBoxes()) b.checked = true;
-  applyCats();
-});
+el.allcats.addEventListener("click", () => setAllCats(true));
+el.nocats.addEventListener("click", () => setAllCats(false));
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);

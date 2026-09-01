@@ -91,6 +91,9 @@ reptile **and** a sea animal; a penguin is a bird, a sea animal and a land
 animal. Fully aquatic animals are not land animals, and freshwater species
 (the electric eel, the axolotl) are not sea animals.
 
+**Select all** and **Unselect all** sit below the toggles; whichever would do
+nothing is greyed out.
+
 Some combinations are empty — there are no Hard bugs — and the panel says so
 rather than leaving you on a blank screen.
 
