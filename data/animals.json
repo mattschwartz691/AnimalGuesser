@@ -60,7 +60,12 @@
      "credit": "(c) campc, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/203505710"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "african penguin",
+    "penguin"
+   ],
+   "type": "penguin"
   },
   {
    "id": 43694,
@@ -114,7 +119,12 @@
      "credit": "(c) Bart Wursten, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/51787666"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "african elephant",
+    "elephant"
+   ],
+   "type": "elephant"
   },
   {
    "id": 5305,
@@ -168,7 +178,12 @@
      "credit": "(c) zozosdecogolin, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/130920905"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bald eagle",
+    "eagle"
+   ],
+   "type": "eagle"
   },
   {
    "id": 32158,
@@ -223,7 +238,13 @@
      "credit": "(c) caiawatha, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/60686491"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ball python",
+    "python",
+    "snake"
+   ],
+   "type": "snake"
   },
   {
    "id": 41976,
@@ -276,7 +297,11 @@
      "credit": "(c) Marita S., some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/331330644"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bobcat"
+   ],
+   "type": "bobcat"
   },
   {
    "id": 41641,
@@ -332,7 +357,14 @@
      "credit": "(c) Jasmine, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/341408063"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bear",
+    "brown bear",
+    "grizzly",
+    "grizzly bear"
+   ],
+   "type": "bear"
   },
   {
    "id": 44576,
@@ -385,7 +417,11 @@
      "credit": "(c) Tony Wills, some rights reserved (CC BY-SA)",
      "obs": "https://www.inaturalist.org/observations/975991"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "rat"
+   ],
+   "type": "rat"
   },
   {
    "id": 41740,
@@ -439,7 +475,12 @@
      "credit": "(c) James Maughn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/180870511"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea lion",
+    "seal"
+   ],
+   "type": "sea lion"
   },
   {
    "id": 7089,
@@ -493,7 +534,12 @@
      "credit": "(c) Christopher Laszlo Bonis, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/256668714"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "canada goose",
+    "goose"
+   ],
+   "type": "goose"
   },
   {
    "id": 43577,
@@ -547,7 +593,12 @@
      "credit": "(c) mlanguy, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/119932723"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chimp",
+    "chimpanzee"
+   ],
+   "type": "chimp"
   },
   {
    "id": 41482,
@@ -601,7 +652,12 @@
      "credit": "(c) Punkus, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/194381645"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bottlenose dolphin",
+    "dolphin"
+   ],
+   "type": "dolphin"
   },
   {
    "id": 43042,
@@ -654,7 +710,11 @@
      "credit": "(c) Caiden, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/333099707"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hedgehog"
+   ],
+   "type": "hedgehog"
   },
   {
    "id": 42149,
@@ -708,7 +768,12 @@
      "credit": "(c) Fr\u00e9d\u00e9ric Bacuez, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/211598193"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hippo",
+    "hippopotamus"
+   ],
+   "type": "hippopotamus"
   },
   {
    "id": 49315,
@@ -761,7 +826,11 @@
      "credit": "(c) Golfopolikayak, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/299781028"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "octopus"
+   ],
+   "type": "octopus"
   },
   {
    "id": 20526,
@@ -814,7 +883,11 @@
      "credit": "(c) copper, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/9918414"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ostrich"
+   ],
+   "type": "ostrich"
   },
   {
    "id": 41663,
@@ -868,7 +941,12 @@
      "credit": "(c) killamfarm, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/39243828"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "raccoon",
+    "racoon"
+   ],
+   "type": "raccoon"
   },
   {
    "id": 8010,
@@ -922,7 +1000,12 @@
      "credit": "(c) Mila C., some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/215780666"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "crow",
+    "raven"
+   ],
+   "type": "crow"
   },
   {
    "id": 118552,
@@ -977,7 +1060,13 @@
      "credit": "(c) David Hernandez, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/149177387"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cat",
+    "house cat",
+    "kitten"
+   ],
+   "type": "cat"
   },
   {
    "id": 74113,
@@ -1033,7 +1122,14 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/194750457"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bull",
+    "cattle",
+    "cow",
+    "ox"
+   ],
+   "type": "cattle"
   },
   {
    "id": 47144,
@@ -1087,7 +1183,12 @@
      "credit": "(c) Youssef ElNahas, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/44786904"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dog",
+    "puppy"
+   ],
+   "type": "dog"
   },
   {
    "id": 123070,
@@ -1140,7 +1241,11 @@
      "credit": "(c) boogan_boy, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/222349395"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "goat"
+   ],
+   "type": "goat"
   },
   {
    "id": 209233,
@@ -1194,7 +1299,12 @@
      "credit": "(c) Paul Stiles, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/113190511"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "horse",
+    "pony"
+   ],
+   "type": "horse"
   },
   {
    "id": 121578,
@@ -1249,7 +1359,13 @@
      "credit": "(c) Carlos N. G. Bocos, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/29365756"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lamb",
+    "ram",
+    "sheep"
+   ],
+   "type": "sheep"
   },
   {
    "id": 81542,
@@ -1303,7 +1419,12 @@
      "credit": "(c) Yingyod Lapwong, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/84263819"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "camel",
+    "dromedary"
+   ],
+   "type": "camel"
   },
   {
    "id": 68790,
@@ -1356,7 +1477,11 @@
      "credit": "(c) Patrick Palines, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/44830320"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gorilla"
+   ],
+   "type": "gorilla"
   },
   {
    "id": 46017,
@@ -1411,7 +1536,13 @@
      "credit": "(c) cavann, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/105087731"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gray squirrel",
+    "grey squirrel",
+    "squirrel"
+   ],
+   "type": "squirrel"
   },
   {
    "id": 42888,
@@ -1464,7 +1595,11 @@
      "credit": "(c) Michael Gallo, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/262469633"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kangaroo"
+   ],
+   "type": "kangaroo"
   },
   {
    "id": 20059,
@@ -1518,7 +1653,12 @@
      "credit": "(c) \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0413\u0443\u0440\u044c\u0435\u0432\u0441\u043a\u0438\u0445, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/69573165"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "eagle owl",
+    "owl"
+   ],
+   "type": "owl"
   },
   {
    "id": 25591,
@@ -1572,7 +1712,12 @@
      "credit": "(c) Gergely Nigg, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/220733617"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "common frog",
+    "frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 43151,
@@ -1626,7 +1771,12 @@
      "credit": "(c) abcdefgewing, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/204857095"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bunny",
+    "rabbit"
+   ],
+   "type": "rabbit"
   },
   {
    "id": 480298,
@@ -1679,7 +1829,11 @@
      "credit": "(c) Andrea Kreuzhage, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/43784379"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "snail"
+   ],
+   "type": "snail"
   },
   {
    "id": 41659,
@@ -1733,7 +1887,12 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/194566948"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant panda",
+    "panda"
+   ],
+   "type": "panda"
   },
   {
    "id": 42048,
@@ -1788,7 +1947,13 @@
      "credit": "(c) pfaucher, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/17637051"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gray wolf",
+    "grey wolf",
+    "wolf"
+   ],
+   "type": "wolf"
   },
   {
    "id": 50873,
@@ -1843,7 +2008,13 @@
      "credit": "(c) David Remsen, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/817236"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "great white",
+    "great white shark",
+    "shark"
+   ],
+   "type": "shark"
   },
   {
    "id": 73222,
@@ -1896,7 +2067,11 @@
      "credit": "(c) slivbirds_nn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/74147298"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "flamingo"
+   ],
+   "type": "flamingo"
   },
   {
    "id": 35342,
@@ -1949,7 +2124,11 @@
      "credit": "(c) benbarca, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/32938207"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "iguana"
+   ],
+   "type": "iguana"
   },
   {
    "id": 39659,
@@ -2004,7 +2183,13 @@
      "credit": "(c) Charlie Shuetrim, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/4299596"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "green turtle",
+    "sea turtle",
+    "turtle"
+   ],
+   "type": "turtle"
   },
   {
    "id": 44705,
@@ -2058,7 +2243,12 @@
      "credit": "(c) Robby Holmes, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/340908414"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "house mouse",
+    "mouse"
+   ],
+   "type": "mouse"
   },
   {
    "id": 41566,
@@ -2113,7 +2303,13 @@
      "credit": "(c) Wayne and Pam Osborn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/147856468"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "humpback",
+    "humpback whale",
+    "whale"
+   ],
+   "type": "whale"
   },
   {
    "id": 53492,
@@ -2167,7 +2363,12 @@
      "credit": "(c) Omkar S Damle, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/302598501"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cobra",
+    "snake"
+   ],
+   "type": "snake"
   },
   {
    "id": 1204,
@@ -2221,7 +2422,12 @@
      "credit": "(c) cassiia, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/184144636"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "peacock",
+    "peafowl"
+   ],
+   "type": "peafowl"
   },
   {
    "id": 42983,
@@ -2275,7 +2481,12 @@
      "credit": "(c) toohey-forest-wildlife, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/36235401"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "koala",
+    "koala bear"
+   ],
+   "type": "koala"
   },
   {
    "id": 41964,
@@ -2328,7 +2539,11 @@
      "credit": "(c) Ashutosh Shinde, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/1576004"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lion"
+   ],
+   "type": "lion"
   },
   {
    "id": 6930,
@@ -2382,7 +2597,12 @@
      "credit": "(c) KF, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/141506980"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "duck",
+    "mallard"
+   ],
+   "type": "duck"
   },
   {
    "id": 48662,
@@ -2437,7 +2657,13 @@
      "credit": "(c) Jose S. Garza Herrera, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/197691684"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "butterfly",
+    "monarch",
+    "monarch butterfly"
+   ],
+   "type": "butterfly"
   },
   {
    "id": 522193,
@@ -2491,7 +2717,12 @@
      "credit": "(c) Lee Cornish, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/221247317"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "elk",
+    "moose"
+   ],
+   "type": "moose"
   },
   {
    "id": 6921,
@@ -2544,7 +2775,11 @@
      "credit": "(c) Philipp Pavelka, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/13231757"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "swan"
+   ],
+   "type": "swan"
   },
   {
    "id": 341972,
@@ -2599,7 +2834,13 @@
      "credit": "(c) copper, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/19412294"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "croc",
+    "crocodile",
+    "nile crocodile"
+   ],
+   "type": "crocodile"
   },
   {
    "id": 41777,
@@ -2653,7 +2894,12 @@
      "credit": "(c) Philip Kline, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/302734469"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "otter",
+    "river otter"
+   ],
+   "type": "otter"
   },
   {
    "id": 42157,
@@ -2706,7 +2952,11 @@
      "credit": "(c) Oumarou HAMADOU, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/59975784"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giraffe"
+   ],
+   "type": "giraffe"
   },
   {
    "id": 43335,
@@ -2759,7 +3009,11 @@
      "credit": "(c) Bart Wursten, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/53129510"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "zebra"
+   ],
+   "type": "zebra"
   },
   {
    "id": 41644,
@@ -2767,6 +3021,7 @@
    "name": "Polar Bear",
    "sci": "Ursus maritimus",
    "aliases": [
+    "bear",
     "polar bear"
    ],
    "group": "Mammalia",
@@ -2812,7 +3067,11 @@
      "credit": "(c) mickeydylan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/184480822"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "polar bear"
+   ],
+   "type": "bear"
   },
   {
    "id": 42069,
@@ -2866,7 +3125,12 @@
      "credit": "(c) Mark Olivier, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/8095014"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fox",
+    "red fox"
+   ],
+   "type": "fox"
   },
   {
    "id": 882,
@@ -2876,6 +3140,7 @@
    "aliases": [
     "chicken",
     "hen",
+    "junglefowl",
     "rooster"
    ],
    "group": "Aves",
@@ -2921,7 +3186,13 @@
      "credit": "(c) Hong Wenyang, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/68864423"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chicken",
+    "hen",
+    "rooster"
+   ],
+   "type": "junglefowl"
   },
   {
    "id": 3017,
@@ -2976,7 +3247,13 @@
      "credit": "(c) luoyara, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/106383933"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dove",
+    "pigeon",
+    "rock dove"
+   ],
+   "type": "dove"
   },
   {
    "id": 19022,
@@ -3031,7 +3308,13 @@
      "credit": "(c) UNIRSE Tania,Sierra Conde, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/331164751"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "macaw",
+    "parrot",
+    "scarlet macaw"
+   ],
+   "type": "macaw"
   },
   {
    "id": 51702,
@@ -3039,6 +3322,7 @@
    "name": "Seven-spotted Lady Beetle",
    "sci": "Coccinella septempunctata",
    "aliases": [
+    "beetle",
     "ladybird",
     "ladybug"
    ],
@@ -3085,7 +3369,12 @@
      "credit": "(c) \u1265\u120d\u132b (Bilcha), all rights reserved",
      "obs": "https://www.inaturalist.org/observations/281383031"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ladybird",
+    "ladybug"
+   ],
+   "type": "beetle"
   },
   {
    "id": 41880,
@@ -3138,7 +3427,11 @@
      "credit": "(c) Jenn Megyesi, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/6985950"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "skunk"
+   ],
+   "type": "skunk"
   },
   {
    "id": 41967,
@@ -3191,7 +3484,11 @@
      "credit": "(c) Morten Ross, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/68706928"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tiger"
+   ],
+   "type": "tiger"
   },
   {
    "id": 47219,
@@ -3246,7 +3543,13 @@
      "credit": "(c) sea-kangaroo, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/413186"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bee",
+    "honey bee",
+    "honeybee"
+   ],
+   "type": "bee"
   },
   {
    "id": 43348,
@@ -3301,7 +3604,13 @@
      "credit": "(c) Jes Lefcourt, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/42294615"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "rhino",
+    "rhinoceros",
+    "white rhino"
+   ],
+   "type": "rhinoceros"
   },
   {
    "id": 42223,
@@ -3356,7 +3665,13 @@
      "credit": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/17990136"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "deer",
+    "white tailed deer",
+    "whitetail deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 42134,
@@ -3412,7 +3727,14 @@
      "credit": "(c) gary1776, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/61824592"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "boar",
+    "hog",
+    "pig",
+    "wild boar"
+   ],
+   "type": "hog"
   },
   {
    "id": 906,
@@ -3465,7 +3787,11 @@
      "credit": "(c) Mason Maron, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/36577184"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "turkey"
+   ],
+   "type": "turkey"
   },
   {
    "id": 42093,
@@ -3474,6 +3800,7 @@
    "sci": "Lycaon pictus",
    "aliases": [
     "african wild dog",
+    "dog",
     "painted dog"
    ],
    "group": "Mammalia",
@@ -3519,7 +3846,12 @@
      "credit": "(c) hakan_pohlstrand, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/2717822"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "african wild dog",
+    "painted dog"
+   ],
+   "type": "dog"
   },
   {
    "id": 319688,
@@ -3572,7 +3904,11 @@
      "credit": "(c) Jacques Ranger, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/141909993"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "alpaca"
+   ],
+   "type": "alpaca"
   },
   {
    "id": 42357,
@@ -3625,7 +3961,11 @@
      "credit": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/189755134"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ibex"
+   ],
+   "type": "ibex"
   },
   {
    "id": 26159,
@@ -3679,7 +4019,12 @@
      "credit": "(c) ktatum, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/49985174"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "alligator",
+    "gator"
+   ],
+   "type": "alligator"
   },
   {
    "id": 43794,
@@ -3732,7 +4077,11 @@
      "credit": "(c) dennisharveyjackson, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/314153664"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "beaver"
+   ],
+   "type": "beaver"
   },
   {
    "id": 208700,
@@ -3786,7 +4135,12 @@
      "credit": "(c) Daughter Dad, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/333396899"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bison",
+    "buffalo"
+   ],
+   "type": "bison"
   },
   {
    "id": 41638,
@@ -3794,6 +4148,7 @@
    "name": "American Black Bear",
    "sci": "Ursus americanus",
    "aliases": [
+    "bear",
     "black bear"
    ],
    "group": "Mammalia",
@@ -3839,7 +4194,11 @@
      "credit": "(c) Guy L. Monty, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/136307771"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "black bear"
+   ],
+   "type": "bear"
   },
   {
    "id": 61383,
@@ -3892,7 +4251,11 @@
      "credit": "(c) laszlocserhazi, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/242388129"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lobster"
+   ],
+   "type": "lobster"
   },
   {
    "id": 43188,
@@ -3945,7 +4308,11 @@
      "credit": "(c) Ken Schneider, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/1730446"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pika"
+   ],
+   "type": "pika"
   },
   {
    "id": 233598,
@@ -3953,7 +4320,8 @@
    "name": "Arctic Fox",
    "sci": "Vulpes lagopus",
    "aliases": [
-    "arctic fox"
+    "arctic fox",
+    "fox"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Arctic_fox",
@@ -3998,7 +4366,11 @@
      "credit": "(c) Alexander Araujo, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/98763827"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "arctic fox"
+   ],
+   "type": "fox"
   },
   {
    "id": 48302,
@@ -4006,6 +4378,7 @@
    "name": "Atlantic Horseshoe Crab",
    "sci": "Limulus polyphemus",
    "aliases": [
+    "crab",
     "horseshoe crab"
    ],
    "group": "Animalia",
@@ -4051,7 +4424,11 @@
      "credit": "(c) allysonv, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/3822441"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "horseshoe crab"
+   ],
+   "type": "crab"
   },
   {
    "id": 4504,
@@ -4104,7 +4481,11 @@
      "credit": "(c) Mark Dennis, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/10682376"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "puffin"
+   ],
+   "type": "puffin"
   },
   {
    "id": 26777,
@@ -4112,7 +4493,8 @@
    "name": "Axolotl",
    "sci": "Ambystoma mexicanum",
    "aliases": [
-    "axolotl"
+    "axolotl",
+    "salamander"
    ],
    "group": "Amphibia",
    "wiki": "https://en.wikipedia.org/wiki/Axolotl",
@@ -4147,7 +4529,11 @@
      "credit": "(c) Juan Cruzado Cort\u00e9s, some rights reserved (CC BY-SA)",
      "obs": "https://www.inaturalist.org/observations/147835301"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "axolotl"
+   ],
+   "type": "salamander"
   },
   {
    "id": 43009,
@@ -4200,7 +4586,11 @@
      "credit": "(c) Jemma Mead, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/194842043"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "wombat"
+   ],
+   "type": "wombat"
   },
   {
    "id": 42416,
@@ -4253,7 +4643,11 @@
      "credit": "(c) Manahil Faisal, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/57016110"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "blackbuck"
+   ],
+   "type": "blackbuck"
   },
   {
    "id": 32093,
@@ -4307,7 +4701,12 @@
      "credit": "(c) Caio Bastos, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/216167999"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "boa",
+    "boa constrictor"
+   ],
+   "type": "boa"
   },
   {
    "id": 43582,
@@ -4361,7 +4760,12 @@
      "credit": "(c) budak, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/92643771"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "orang utan",
+    "orangutan"
+   ],
+   "type": "orangutan"
   },
   {
    "id": 115167,
@@ -4414,7 +4818,11 @@
      "credit": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/18779326"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "swordfish"
+   ],
+   "type": "swordfish"
   },
   {
    "id": 47067,
@@ -4468,7 +4876,12 @@
      "credit": "(c) David Weiller, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/37571884"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sloth",
+    "three toed sloth"
+   ],
+   "type": "sloth"
   },
   {
    "id": 4778,
@@ -4522,7 +4935,12 @@
      "credit": "(c) Edgar Cadena, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/38481216"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "california condor",
+    "condor"
+   ],
+   "type": "condor"
   },
   {
    "id": 74442,
@@ -4575,7 +4993,11 @@
      "credit": "(c) mirella cosimato, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/111907864"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "capybara"
+   ],
+   "type": "capybara"
   },
   {
    "id": 42199,
@@ -4584,6 +5006,7 @@
    "sci": "Rangifer tarandus",
    "aliases": [
     "caribou",
+    "deer",
     "reindeer"
    ],
    "group": "Mammalia",
@@ -4629,7 +5052,12 @@
      "credit": "(c) Oskar Liset Pryds Hansen, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/30016542"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "caribou",
+    "reindeer"
+   ],
+   "type": "deer"
   },
   {
    "id": 41955,
@@ -4682,7 +5110,11 @@
      "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/18040709"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cheetah"
+   ],
+   "type": "cheetah"
   },
   {
    "id": 41,
@@ -4735,7 +5167,11 @@
      "credit": "(c) Rich Wolfert, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/36510306"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "crane"
+   ],
+   "type": "crane"
   },
   {
    "id": 127713,
@@ -4789,7 +5225,12 @@
      "credit": "(c) Cyril (Suleiman) Romier - Roumir - Ar Dialt, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/134218"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "emperor scorpion",
+    "scorpion"
+   ],
+   "type": "scorpion"
   },
   {
    "id": 67731,
@@ -4842,7 +5283,11 @@
      "credit": "(c) Jaro Schacht, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/188817242"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dragonfly"
+   ],
+   "type": "dragonfly"
   },
   {
    "id": 48328,
@@ -4896,7 +5341,12 @@
      "credit": "(c) Will Sweet, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/35816063"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jellyfish",
+    "moon jelly"
+   ],
+   "type": "jellyfish"
   },
   {
    "id": 120138,
@@ -4950,7 +5400,12 @@
      "credit": "(c) Ates Evirgen, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/17314447"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea star",
+    "starfish"
+   ],
+   "type": "sea star"
   },
   {
    "id": 84970,
@@ -5004,7 +5459,12 @@
      "credit": "(c) Tom Marchant, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/430790"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea horse",
+    "seahorse"
+   ],
+   "type": "seahorse"
   },
   {
    "id": 42122,
@@ -5057,7 +5517,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/236535409"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "warthog"
+   ],
+   "type": "warthog"
   },
   {
    "id": 42280,
@@ -5111,7 +5575,12 @@
      "credit": "(c) Alex R, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/104570614"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gnu",
+    "wildebeest"
+   ],
+   "type": "gnu"
   },
   {
    "id": 42051,
@@ -5164,7 +5633,11 @@
      "credit": "(c) Matt and Kaysea Bruce, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/147264291"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "coyote"
+   ],
+   "type": "coyote"
   },
   {
    "id": 46217,
@@ -5217,7 +5690,11 @@
      "credit": "(c) William Wise, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/31064067"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chipmunk"
+   ],
+   "type": "chipmunk"
   },
   {
    "id": 99786,
@@ -5225,6 +5702,7 @@
    "name": "Electric Eel",
    "sci": "Electrophorus electricus",
    "aliases": [
+    "eel",
     "electric eel"
    ],
    "group": "Actinopterygii",
@@ -5270,7 +5748,11 @@
      "credit": "(c) Moses J. Michelsohn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/271724382"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "electric eel"
+   ],
+   "type": "eel"
   },
   {
    "id": 20504,
@@ -5323,7 +5805,11 @@
      "credit": "(c) David Boulton, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/255114849"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "emu"
+   ],
+   "type": "emu"
   },
   {
    "id": 41979,
@@ -5376,7 +5862,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/109176674"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lynx"
+   ],
+   "type": "lynx"
   },
   {
    "id": 855297,
@@ -5429,7 +5919,11 @@
      "credit": "(c) Maj Kastelic, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/195471735"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "badger"
+   ],
+   "type": "badger"
   },
   {
    "id": 151429,
@@ -5482,7 +5976,11 @@
      "credit": "(c) Mart\u00ed Aguer, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/50898904"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cuttlefish"
+   ],
+   "type": "cuttlefish"
   },
   {
    "id": 53905,
@@ -5536,7 +6034,12 @@
      "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/231706392"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mantis",
+    "praying mantis"
+   ],
+   "type": "mantis"
   },
   {
    "id": 326296,
@@ -5589,7 +6092,11 @@
      "credit": "(c) Emma Sandhu, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/139330325"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "toad"
+   ],
+   "type": "toad"
   },
   {
    "id": 42308,
@@ -5643,7 +6150,12 @@
      "credit": "(c) markus lilje, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/80773623"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gemsbok",
+    "oryx"
+   ],
+   "type": "oryx"
   },
   {
    "id": 47107,
@@ -5697,7 +6209,12 @@
      "credit": "(c) Andy Jones, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/67359473"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "anteater",
+    "giant anteater"
+   ],
+   "type": "anteater"
   },
   {
    "id": 94494,
@@ -5750,7 +6267,11 @@
      "credit": "(c) bgiddins, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/72896513"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "arapaima"
+   ],
+   "type": "arapaima"
   },
   {
    "id": 205163,
@@ -5804,7 +6325,12 @@
      "credit": "(c) andriusp, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/9551049"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "goliath birdeater",
+    "tarantula"
+   ],
+   "type": "tarantula"
   },
   {
    "id": 56766,
@@ -5813,7 +6339,8 @@
    "sci": "Sphyrna mokarran",
    "aliases": [
     "hammerhead",
-    "hammerhead shark"
+    "hammerhead shark",
+    "shark"
    ],
    "group": "Animalia",
    "wiki": "http://en.wikipedia.org/wiki/Great_hammerhead",
@@ -5858,7 +6385,12 @@
      "credit": "(c) sarahm97, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/55828215"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hammerhead",
+    "hammerhead shark"
+   ],
+   "type": "shark"
   },
   {
    "id": 4327,
@@ -5911,7 +6443,11 @@
      "credit": "(c) Jeremy Bergman, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/230015481"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pelican"
+   ],
+   "type": "pelican"
   },
   {
    "id": 1986,
@@ -5964,7 +6500,11 @@
      "credit": "(c) James Bailey, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/6675568"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "roadrunner"
+   ],
+   "type": "roadrunner"
   },
   {
    "id": 4954,
@@ -6017,7 +6557,11 @@
      "credit": "(c) Miroslav Bobek, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/23612165"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "heron"
+   ],
+   "type": "heron"
   },
   {
    "id": 42278,
@@ -6070,7 +6614,11 @@
      "credit": "(c) Jon McIntyre, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/159759996"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "impala"
+   ],
+   "type": "impala"
   },
   {
    "id": 925977,
@@ -6123,7 +6671,11 @@
      "credit": "(c) abhijit_photography, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/55357340"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mongoose"
+   ],
+   "type": "mongoose"
   },
   {
    "id": 41970,
@@ -6176,7 +6728,11 @@
      "credit": "(c) Enrique Guadarrama, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/5433755"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jaguar"
+   ],
+   "type": "jaguar"
   },
   {
    "id": 39449,
@@ -6185,7 +6741,8 @@
    "sci": "Varanus komodoensis",
    "aliases": [
     "komodo",
-    "komodo dragon"
+    "komodo dragon",
+    "lizard"
    ],
    "group": "Reptilia",
    "wiki": "https://en.wikipedia.org/wiki/Komodo_dragon",
@@ -6230,7 +6787,12 @@
      "credit": "(c) Julia Lewis DVM, MPH, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/139304546"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "komodo",
+    "komodo dragon"
+   ],
+   "type": "lizard"
   },
   {
    "id": 43593,
@@ -6283,7 +6845,11 @@
      "credit": "(c) \u0e01\u0e27\u0e34\u0e19\u0e20\u0e1e \u0e44\u0e0a\u0e22\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e19\u0e34\u0e0a, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/261244166"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gibbon"
+   ],
+   "type": "gibbon"
   },
   {
    "id": 40902,
@@ -6338,7 +6904,13 @@
      "credit": "(c) belyykit, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/19205341"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bat",
+    "flying fox",
+    "fruit bat"
+   ],
+   "type": "bat"
   },
   {
    "id": 2413,
@@ -6391,7 +6963,11 @@
      "credit": "(c) lakersroad, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/15122450"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kookaburra"
+   ],
+   "type": "kookaburra"
   },
   {
    "id": 41963,
@@ -6444,7 +7020,11 @@
      "credit": "(c) Hassan Pishvaei, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/5250747"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "leopard"
+   ],
+   "type": "leopard"
   },
   {
    "id": 121026,
@@ -6497,7 +7077,11 @@
      "credit": "(c) abcdefgewing, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/54233890"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "llama"
+   ],
+   "type": "llama"
   },
   {
    "id": 855311,
@@ -6505,6 +7089,7 @@
    "name": "Mainland Raccoon Dog",
    "sci": "Nyctereutes procyonoides",
    "aliases": [
+    "dog",
     "raccoon dog",
     "tanuki"
    ],
@@ -6551,7 +7136,12 @@
      "credit": "(c) Ama\u00ebl Borz\u00e9e, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/63087800"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "raccoon dog",
+    "tanuki"
+   ],
+   "type": "dog"
   },
   {
    "id": 43533,
@@ -6604,7 +7194,11 @@
      "credit": "(c) Perrine Th\u00e9roude, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/290512459"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mandrill"
+   ],
+   "type": "mandrill"
   },
   {
    "id": 41943,
@@ -6657,7 +7251,11 @@
      "credit": "(c) Kyle Finn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/18937291"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "meerkat"
+   ],
+   "type": "meerkat"
   },
   {
    "id": 74352,
@@ -6710,7 +7308,11 @@
      "credit": "(c) elimelech, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/198728434"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gazelle"
+   ],
+   "type": "gazelle"
   },
   {
    "id": 42007,
@@ -6765,7 +7367,13 @@
      "credit": "(c) Colin Croft, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/188625514"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cougar",
+    "mountain lion",
+    "puma"
+   ],
+   "type": "puma"
   },
   {
    "id": 41459,
@@ -6818,7 +7426,11 @@
      "credit": "(c) pfaucher, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/8373973"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "narwhal"
+   ],
+   "type": "narwhal"
   },
   {
    "id": 44026,
@@ -6871,7 +7483,11 @@
      "credit": "(c) Rebecca Williams, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/8841751"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "porcupine"
+   ],
+   "type": "porcupine"
   },
   {
    "id": 20496,
@@ -6925,7 +7541,12 @@
      "credit": "(c) corokid, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/153506495"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kiwi",
+    "kiwi bird"
+   ],
+   "type": "kiwi"
   },
   {
    "id": 623966,
@@ -6980,7 +7601,13 @@
      "credit": "(c) mantawatch_newzealand, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/22312268"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "manta ray",
+    "ray",
+    "stingray"
+   ],
+   "type": "ray"
   },
   {
    "id": 74832,
@@ -7033,7 +7660,11 @@
      "credit": "(c) S Hutton, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/19268905"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "baboon"
+   ],
+   "type": "baboon"
   },
   {
    "id": 41521,
@@ -7042,7 +7673,8 @@
    "sci": "Orcinus orca",
    "aliases": [
     "killer whale",
-    "orca"
+    "orca",
+    "whale"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Killer_whale",
@@ -7087,7 +7719,12 @@
      "credit": "(c) Sabine Templeton, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/116220392"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "killer whale",
+    "orca"
+   ],
+   "type": "whale"
   },
   {
    "id": 48479,
@@ -7141,7 +7778,12 @@
      "credit": "(c) Kent R. Van Vuren, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/345426106"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jellyfish",
+    "sea nettle"
+   ],
+   "type": "jellyfish"
   },
   {
    "id": 4647,
@@ -7195,7 +7837,12 @@
      "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/138633158"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "falcon",
+    "peregrine falcon"
+   ],
+   "type": "falcon"
   },
   {
    "id": 17855,
@@ -7248,7 +7895,11 @@
      "credit": "(c) froggymum, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/330098558"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "woodpecker"
+   ],
+   "type": "woodpecker"
   },
   {
    "id": 43236,
@@ -7302,7 +7953,12 @@
      "credit": "(c) Nigel Marsh, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/191891230"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "duck billed platypus",
+    "platypus"
+   ],
+   "type": "platypus"
   },
   {
    "id": 42429,
@@ -7356,7 +8012,12 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/155389936"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "antelope",
+    "pronghorn"
+   ],
+   "type": "antelope"
   },
   {
    "id": 41653,
@@ -7409,7 +8070,11 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/173754263"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "red panda"
+   ],
+   "type": "red panda"
   },
   {
    "id": 1510573,
@@ -7463,7 +8128,12 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/194365091"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giraffe",
+    "reticulated giraffe"
+   ],
+   "type": "giraffe"
   },
   {
    "id": 981,
@@ -7516,7 +8186,11 @@
      "credit": "(c) Adam Olsen, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/143596823"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pheasant"
+   ],
+   "type": "pheasant"
   },
   {
    "id": 43617,
@@ -7570,7 +8244,12 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/173922897"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lemur",
+    "ring tailed lemur"
+   ],
+   "type": "lemur"
   },
   {
    "id": 6432,
@@ -7623,7 +8302,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/30367760"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hummingbird"
+   ],
+   "type": "hummingbird"
   },
   {
    "id": 41860,
@@ -7631,6 +8314,7 @@
    "name": "Sea Otter",
    "sci": "Enhydra lutris",
    "aliases": [
+    "otter",
     "sea otter"
    ],
    "group": "Mammalia",
@@ -7676,7 +8360,11 @@
      "credit": "(c) johannabork, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/22883927"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea otter"
+   ],
+   "type": "otter"
   },
   {
    "id": 43239,
@@ -7730,7 +8418,12 @@
      "credit": "(c) Blue Derby Wild, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/53928813"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "echidna",
+    "spiny anteater"
+   ],
+   "type": "echidna"
   },
   {
    "id": 74831,
@@ -7783,7 +8476,11 @@
      "credit": "(c) kesangchunit, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/196354314"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "snow leopard"
+   ],
+   "type": "snow leopard"
   },
   {
    "id": 43132,
@@ -7837,7 +8534,12 @@
      "credit": "(c) kmelville, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/48764719"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hare",
+    "snowshoe hare"
+   ],
+   "type": "hare"
   },
   {
    "id": 43353,
@@ -7890,7 +8592,11 @@
      "credit": "(c) Herbert Duarte, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/12582733"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tapir"
+   ],
+   "type": "tapir"
   },
   {
    "id": 20500,
@@ -7943,7 +8649,11 @@
      "credit": "(c) Tom Hunt, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/128554304"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cassowary"
+   ],
+   "type": "cassowary"
   },
   {
    "id": 47075,
@@ -7996,7 +8706,11 @@
      "credit": "(c) Pedro Silva, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/154799116"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "armadillo"
+   ],
+   "type": "armadillo"
   },
   {
    "id": 41886,
@@ -8050,7 +8764,12 @@
      "credit": "(c) Amelia Tauber, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/75631668"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hyena",
+    "spotted hyena"
+   ],
+   "type": "hyena"
   },
   {
    "id": 116834,
@@ -8103,7 +8822,11 @@
      "credit": "(c) Peter and Shelly, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/143971278"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cockatoo"
+   ],
+   "type": "cockatoo"
   },
   {
    "id": 41655,
@@ -8111,6 +8834,7 @@
    "name": "Sun Bear",
    "sci": "Helarctos malayanus",
    "aliases": [
+    "bear",
     "sun bear"
    ],
    "group": "Mammalia",
@@ -8156,7 +8880,11 @@
      "credit": "(c) Peter Ericsson, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/330179158"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sun bear"
+   ],
+   "type": "bear"
   },
   {
    "id": 40232,
@@ -8209,7 +8937,11 @@
      "credit": "(c) Matt Campbell, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/27715436"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tasmanian devil"
+   ],
+   "type": "tasmanian devil"
   },
   {
    "id": 18793,
@@ -8262,7 +8994,11 @@
      "credit": "(c) Rafael Albo, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/68106730"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "toucan"
+   ],
+   "type": "toucan"
   },
   {
    "id": 34615,
@@ -8315,7 +9051,11 @@
      "credit": "(c) Kat Alberona, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/27482494"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gecko"
+   ],
+   "type": "gecko"
   },
   {
    "id": 32873,
@@ -8368,7 +9108,11 @@
      "credit": "(c) flip-it-grab-it-bag-it-lol, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/72242916"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chameleon"
+   ],
+   "type": "chameleon"
   },
   {
    "id": 42652,
@@ -8422,7 +9166,12 @@
      "credit": "(c) Sonorabee, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/256956135"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "opossum",
+    "possum"
+   ],
+   "type": "possum"
   },
   {
    "id": 41766,
@@ -8475,7 +9224,11 @@
      "credit": "(c) cleveh01, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/127007740"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "walrus"
+   ],
+   "type": "walrus"
   },
   {
    "id": 46316,
@@ -8529,7 +9282,12 @@
      "credit": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/84108620"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "manatee",
+    "sea cow"
+   ],
+   "type": "manatee"
   },
   {
    "id": 30764,
@@ -8537,7 +9295,8 @@
    "name": "Western Diamond-backed Rattlesnake",
    "sci": "Crotalus atrox",
    "aliases": [
-    "rattlesnake"
+    "rattlesnake",
+    "snake"
    ],
    "group": "Reptilia",
    "wiki": "http://en.wikipedia.org/wiki/Western_diamondback_rattlesnake",
@@ -8582,7 +9341,11 @@
      "credit": "(c) Nate Barnes, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/248512202"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "rattlesnake"
+   ],
+   "type": "snake"
   },
   {
    "id": 41812,
@@ -8636,7 +9399,12 @@
      "credit": "(c) mac60, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/93365620"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ferret",
+    "polecat"
+   ],
+   "type": "polecat"
   },
   {
    "id": 4733,
@@ -8689,7 +9457,11 @@
      "credit": "(c) leinij, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/177823240"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "stork"
+   ],
+   "type": "stork"
   },
   {
    "id": 41673,
@@ -8743,7 +9515,12 @@
      "credit": "(c) rainaf, some rights reserved (CC BY-NC-SA)",
      "obs": "https://www.inaturalist.org/observations/20799010"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "coati",
+    "coatimundi"
+   ],
+   "type": "coati"
   },
   {
    "id": 890122,
@@ -8796,7 +9573,11 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/267203862"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "yak"
+   ],
+   "type": "yak"
   },
   {
    "id": 41852,
@@ -8849,7 +9630,11 @@
      "credit": "(c) faerthen, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/98286"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "wolverine"
+   ],
+   "type": "wolverine"
   },
   {
    "id": 46086,
@@ -8903,7 +9688,12 @@
      "credit": "(c) nawaters, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/3615530"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "groundhog",
+    "marmot"
+   ],
+   "type": "marmot"
   },
   {
    "id": 47062,
@@ -8956,7 +9746,11 @@
      "credit": "(c) lynetterudman, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/11164033"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "aardvark"
+   ],
+   "type": "aardvark"
   },
   {
    "id": 42395,
@@ -9009,7 +9803,11 @@
      "credit": "(c) Gilian Sautter, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/339072343"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "addax"
+   ],
+   "type": "addax"
   },
   {
    "id": 54542,
@@ -9063,7 +9861,12 @@
      "credit": "(c) David Vander Pluym, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/199591692"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "alligator gar",
+    "gar"
+   ],
+   "type": "gar"
   },
   {
    "id": 539453,
@@ -9117,7 +9920,12 @@
      "credit": "(c) Rafael Bernhard, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/36913288"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mata mata",
+    "matamata"
+   ],
+   "type": "matamata"
   },
   {
    "id": 204447,
@@ -9170,7 +9978,11 @@
      "credit": "(c) claudio sarli, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/72013567"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "motmot"
+   ],
+   "type": "motmot"
   },
   {
    "id": 54721,
@@ -9223,7 +10035,11 @@
      "credit": "(c) Below Blue Water Diver, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/249682596"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "paddlefish"
+   ],
+   "type": "paddlefish"
   },
   {
    "id": 8877,
@@ -9277,7 +10093,12 @@
      "credit": "(c) Luis Felipe Teixeira, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/229048627"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cock of the rock",
+    "cock-of-the-rock"
+   ],
+   "type": "cock of the rock"
   },
   {
    "id": 5063,
@@ -9331,7 +10152,12 @@
      "credit": "(c) Todd Dixon, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/93366974"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "anhinga",
+    "snakebird"
+   ],
+   "type": "anhinga"
   },
   {
    "id": 318758,
@@ -9384,7 +10210,11 @@
      "credit": "(c) RAP, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/103107602"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tegu"
+   ],
+   "type": "tegu"
   },
   {
    "id": 67836,
@@ -9437,7 +10267,11 @@
      "credit": "(c) Lionel CASSET, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/256485760"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mudskipper"
+   ],
+   "type": "mudskipper"
   },
   {
    "id": 43558,
@@ -9491,7 +10325,12 @@
      "credit": "(c) Chien Lee, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/44532987"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "aye aye",
+    "ayeaye"
+   ],
+   "type": "ayeaye"
   },
   {
    "id": 43654,
@@ -9545,7 +10384,12 @@
      "credit": "(c) Jessica dos Anjos, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/30010700"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bald uakari",
+    "uakari"
+   ],
+   "type": "uakari"
   },
   {
    "id": 188577,
@@ -9599,7 +10443,12 @@
      "credit": "(c) Mark Rosenstein, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/256092575"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "archer fish",
+    "archerfish"
+   ],
+   "type": "archerfish"
   },
   {
    "id": 41631,
@@ -9653,7 +10502,12 @@
      "credit": "(c) Saniya Chaplod, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/33791086"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bearcat",
+    "binturong"
+   ],
+   "type": "bearcat"
   },
   {
    "id": 4496,
@@ -9707,7 +10561,12 @@
      "credit": "(c) Bill Levine, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/105326545"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "black skimmer",
+    "skimmer"
+   ],
+   "type": "skimmer"
   },
   {
    "id": 42344,
@@ -9760,7 +10619,11 @@
      "credit": "(c) Mathias D'haen, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/80096846"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bongo"
+   ],
+   "type": "bongo"
   },
   {
    "id": 43567,
@@ -9815,7 +10678,13 @@
      "credit": "(c) Sun\u010dana Bradley, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/114794137"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bush baby",
+    "bushbaby",
+    "galago"
+   ],
+   "type": "galago"
   },
   {
    "id": 42089,
@@ -9823,7 +10692,8 @@
    "name": "Bush Dog",
    "sci": "Speothos venaticus",
    "aliases": [
-    "bush dog"
+    "bush dog",
+    "dog"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Bush_dog",
@@ -9868,7 +10738,11 @@
      "credit": "(c) Pedro Alonso, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/159924565"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bush dog"
+   ],
+   "type": "dog"
   },
   {
    "id": 42042,
@@ -9921,7 +10795,11 @@
      "credit": "(c) petermcintyre, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/170706830"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "caracal"
+   ],
+   "type": "caracal"
   },
   {
    "id": 49517,
@@ -9974,7 +10852,11 @@
      "credit": "(c) Karl Questel, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/107626575"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "christmas tree worm"
+   ],
+   "type": "christmas tree worm"
   },
   {
    "id": 43712,
@@ -10027,7 +10909,11 @@
      "credit": "(c) Jason Hill, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/306633148"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "agouti"
+   ],
+   "type": "agouti"
   },
   {
    "id": 8520,
@@ -10081,7 +10967,12 @@
      "credit": "(c) David A. Wittrock, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/188581370"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "clarks nutcracker",
+    "nutcracker"
+   ],
+   "type": "nutcracker"
   },
   {
    "id": 42113,
@@ -10135,7 +11026,12 @@
      "credit": "(c) Michael Orgill, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/103287778"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "javelina",
+    "peccary"
+   ],
+   "type": "peccary"
   },
   {
    "id": 20969,
@@ -10188,7 +11084,11 @@
      "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/77586046"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hoopoe"
+   ],
+   "type": "hoopoe"
   },
   {
    "id": 49601,
@@ -10243,7 +11143,13 @@
      "credit": "(c) swoppet, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/113345532"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mola",
+    "ocean sunfish",
+    "sunfish"
+   ],
+   "type": "sunfish"
   },
   {
    "id": 27685,
@@ -10251,7 +11157,8 @@
    "name": "Common Mudpuppy",
    "sci": "Necturus maculosus",
    "aliases": [
-    "mudpuppy"
+    "mudpuppy",
+    "salamander"
    ],
    "group": "Amphibia",
    "wiki": "http://en.wikipedia.org/wiki/Common_mudpuppy",
@@ -10296,7 +11203,11 @@
      "credit": "(c) hadleyherps, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/235987498"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mudpuppy"
+   ],
+   "type": "salamander"
   },
   {
    "id": 19667,
@@ -10350,7 +11261,12 @@
      "credit": "(c) Edison Oca\u00f1a, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/55341811"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "common potoo",
+    "potoo"
+   ],
+   "type": "potoo"
   },
   {
    "id": 110381,
@@ -10403,7 +11319,11 @@
      "credit": "(c) KJ, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/92275256"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sawfish"
+   ],
+   "type": "sawfish"
   },
   {
    "id": 42101,
@@ -10456,7 +11376,11 @@
      "credit": "(c) gonature Lam, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/65381295"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dhole"
+   ],
+   "type": "dhole"
   },
   {
    "id": 21141,
@@ -10465,6 +11389,7 @@
    "sci": "Dendrobates tinctorius",
    "aliases": [
     "dart frog",
+    "frog",
     "poison dart frog"
    ],
    "group": "Amphibia",
@@ -10510,7 +11435,12 @@
      "credit": "(c) S\u00e9bastien SANT, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/195764017"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dart frog",
+    "poison dart frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 40167,
@@ -10564,7 +11494,12 @@
      "credit": "(c) Brett Vercoe, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/38736605"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "eastern quoll",
+    "quoll"
+   ],
+   "type": "quoll"
   },
   {
    "id": 101561,
@@ -10618,7 +11553,12 @@
      "credit": "(c) Dale Kindler, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/348423539"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "elephant nose fish",
+    "elephantnose fish"
+   ],
+   "type": "elephantnose fish"
   },
   {
    "id": 123467,
@@ -10672,7 +11612,12 @@
      "credit": "(c) Allison Xiong, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/376978807"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chambered nautilus",
+    "nautilus"
+   ],
+   "type": "nautilus"
   },
   {
    "id": 41796,
@@ -10726,7 +11671,12 @@
      "credit": "(c) Warren Henry Lewis, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/148755390"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "marten",
+    "pine marten"
+   ],
+   "type": "marten"
   },
   {
    "id": 3731,
@@ -10779,7 +11729,11 @@
      "credit": "(c) Julian, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/90534761"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "spoonbill"
+   ],
+   "type": "spoonbill"
   },
   {
    "id": 453109,
@@ -10833,7 +11787,12 @@
      "credit": "(c) brodiesmom, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/129898911"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fisher",
+    "fisher cat"
+   ],
+   "type": "fisher"
   },
   {
    "id": 41946,
@@ -10841,6 +11800,7 @@
    "name": "Fishing Cat",
    "sci": "Prionailurus viverrinus",
    "aliases": [
+    "cat",
     "fishing cat"
    ],
    "group": "Mammalia",
@@ -10886,7 +11846,11 @@
      "credit": "(c) Tim Bawden, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/185720887"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fishing cat"
+   ],
+   "type": "cat"
   },
   {
    "id": 41578,
@@ -10939,7 +11903,11 @@
      "credit": "(c) Barbara Schneider, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/44381944"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fossa"
+   ],
+   "type": "fossa"
   },
   {
    "id": 31215,
@@ -10948,7 +11916,8 @@
    "sci": "Chlamydosaurus kingii",
    "aliases": [
     "frilled dragon",
-    "frilled lizard"
+    "frilled lizard",
+    "lizard"
    ],
    "group": "Reptilia",
    "wiki": "http://en.wikipedia.org/wiki/Chlamydosaurus",
@@ -10993,7 +11962,12 @@
      "credit": "(c) Phil Benstead, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/116267273"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "frilled dragon",
+    "frilled lizard"
+   ],
+   "type": "lizard"
   },
   {
    "id": 74111,
@@ -11046,7 +12020,11 @@
      "credit": "(c) Amol Pendharkar, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/179642314"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gaur"
+   ],
+   "type": "gaur"
   },
   {
    "id": 43530,
@@ -11054,6 +12032,7 @@
    "name": "Gelada",
    "sci": "Theropithecus gelada",
    "aliases": [
+    "baboon",
     "gelada",
     "gelada baboon"
    ],
@@ -11100,7 +12079,12 @@
      "credit": "(c) janconl, some rights reserved (CC BY-NC-SA)",
      "obs": "https://www.inaturalist.org/observations/41287706"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gelada",
+    "gelada baboon"
+   ],
+   "type": "baboon"
   },
   {
    "id": 42364,
@@ -11153,7 +12137,11 @@
      "credit": "(c) kratzra, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/306799593"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gerenuk"
+   ],
+   "type": "gerenuk"
   },
   {
    "id": 116523,
@@ -11161,6 +12149,7 @@
    "name": "Gharial",
    "sci": "Gavialis gangeticus",
    "aliases": [
+    "crocodile",
     "gavial",
     "gharial"
    ],
@@ -11207,7 +12196,12 @@
      "credit": "(c) Siddhanta Kumar Mohanta, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/290871189"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gavial",
+    "gharial"
+   ],
+   "type": "crocodile"
   },
   {
    "id": 75082,
@@ -11261,7 +12255,12 @@
      "credit": "(c) flint_jack, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/108858210"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant pangolin",
+    "pangolin"
+   ],
+   "type": "pangolin"
   },
   {
    "id": 571229,
@@ -11309,7 +12308,11 @@
      "credit": "(c) leo41412, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/367286694"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant isopod"
+   ],
+   "type": "giant isopod"
   },
   {
    "id": 253698,
@@ -11363,7 +12366,12 @@
      "credit": "(c) Toby Dickson, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/175675040"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant squid",
+    "squid"
+   ],
+   "type": "squid"
   },
   {
    "id": 35003,
@@ -11416,7 +12424,11 @@
      "credit": "(c) pseudomyrmex, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/45492656"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gila monster"
+   ],
+   "type": "gila monster"
   },
   {
    "id": 43325,
@@ -11469,7 +12481,11 @@
      "credit": "(c) Brendan Casey, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/181836809"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bilby"
+   ],
+   "type": "bilby"
   },
   {
    "id": 42339,
@@ -11523,7 +12539,12 @@
      "credit": "(c) pfaucher, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/39034106"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "greater kudu",
+    "kudu"
+   ],
+   "type": "kudu"
   },
   {
    "id": 33119,
@@ -11533,7 +12554,8 @@
    "aliases": [
     "basilisk",
     "basilisk lizard",
-    "jesus lizard"
+    "jesus lizard",
+    "lizard"
    ],
    "group": "Reptilia",
    "wiki": "http://en.wikipedia.org/wiki/Plumed_basilisk",
@@ -11578,7 +12600,13 @@
      "credit": "(c) Randy Gomez Alvarado, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/132963197"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "basilisk",
+    "basilisk lizard",
+    "jesus lizard"
+   ],
+   "type": "lizard"
   },
   {
    "id": 42240,
@@ -11631,7 +12659,11 @@
      "credit": "(c) Adrian Braidotti, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/37654362"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "guanaco"
+   ],
+   "type": "guanaco"
   },
   {
    "id": 26804,
@@ -11639,7 +12671,8 @@
    "name": "Hellbender",
    "sci": "Cryptobranchus alleganiensis",
    "aliases": [
-    "hellbender"
+    "hellbender",
+    "salamander"
    ],
    "group": "Amphibia",
    "wiki": "http://en.wikipedia.org/wiki/Hellbender",
@@ -11684,7 +12717,11 @@
      "credit": "(c) dbond, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/93942338"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hellbender"
+   ],
+   "type": "salamander"
   },
   {
    "id": 42420,
@@ -11737,7 +12774,11 @@
      "credit": "(c) tcwild, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/284766040"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "takin"
+   ],
+   "type": "takin"
   },
   {
    "id": 1626,
@@ -11790,7 +12831,11 @@
      "credit": "(c) markham, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/36300"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hoatzin"
+   ],
+   "type": "hoatzin"
   },
   {
    "id": 43600,
@@ -11843,7 +12888,11 @@
      "credit": "(c) markus lilje, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/103188564"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "indri"
+   ],
+   "type": "indri"
   },
   {
    "id": 4773,
@@ -11896,7 +12945,11 @@
      "credit": "(c) Dan Riley, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/70230876"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jabiru"
+   ],
+   "type": "jabiru"
   },
   {
    "id": 197781,
@@ -11949,7 +13002,11 @@
      "credit": "(c) Cristopher Barreto, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/115941920"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jaguarundi"
+   ],
+   "type": "jaguarundi"
   },
   {
    "id": 41678,
@@ -12002,7 +13059,11 @@
      "credit": "(c) B. Phalan, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/6007265"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kinkajou"
+   ],
+   "type": "kinkajou"
   },
   {
    "id": 42360,
@@ -12056,7 +13117,12 @@
      "credit": "(c) Nicola Marchioli, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/369704135"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dik dik",
+    "dikdik"
+   ],
+   "type": "dikdik"
   },
   {
    "id": 42384,
@@ -12109,7 +13175,11 @@
      "credit": "(c) Frank Gaude, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/23710257"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "klipspringer"
+   ],
+   "type": "klipspringer"
   },
   {
    "id": 49105,
@@ -12163,7 +13233,12 @@
      "credit": "(c) tammygibbs, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/124881483"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "leafy sea dragon",
+    "sea dragon"
+   ],
+   "type": "sea dragon"
   },
   {
    "id": 43906,
@@ -12216,7 +13291,11 @@
      "credit": "(c) Jorge Juan Rueda, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/297290248"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jerboa"
+   ],
+   "type": "jerboa"
   },
   {
    "id": 542875,
@@ -12269,7 +13348,11 @@
      "credit": "(c) Ben Eddy, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/141726251"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea spider"
+   ],
+   "type": "sea spider"
   },
   {
    "id": 43818,
@@ -12292,7 +13375,11 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Long-tailed_chinchilla"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chinchilla"
+   ],
+   "type": "chinchilla"
   },
   {
    "id": 42091,
@@ -12300,7 +13387,8 @@
    "name": "Maned Wolf",
    "sci": "Chrysocyon brachyurus",
    "aliases": [
-    "maned wolf"
+    "maned wolf",
+    "wolf"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Maned_wolf",
@@ -12345,7 +13433,11 @@
      "credit": "(c) Kevin Schafer, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/8911748"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "maned wolf"
+   ],
+   "type": "wolf"
   },
   {
    "id": 43436,
@@ -12354,7 +13446,8 @@
    "sci": "Alouatta palliata",
    "aliases": [
     "howler",
-    "howler monkey"
+    "howler monkey",
+    "monkey"
    ],
    "group": "Mammalia",
    "wiki": "https://en.wikipedia.org/wiki/Mantled_howler",
@@ -12399,7 +13492,12 @@
      "credit": "(c) adamcorreia, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/198833046"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "howler",
+    "howler monkey"
+   ],
+   "type": "monkey"
   },
   {
    "id": 42356,
@@ -12452,7 +13550,11 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/173412144"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "markhor"
+   ],
+   "type": "markhor"
   },
   {
    "id": 43746,
@@ -12460,6 +13562,7 @@
    "name": "Naked Molerat",
    "sci": "Heterocephalus glaber",
    "aliases": [
+    "mole-rat",
     "naked mole rat",
     "naked mole-rat"
    ],
@@ -12506,7 +13609,12 @@
      "credit": "(c) solmol, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/105983370"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "naked mole rat",
+    "naked mole-rat"
+   ],
+   "type": "mole-rat"
   },
   {
    "id": 42347,
@@ -12559,7 +13667,11 @@
      "credit": "(c) Davide Diana, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/149381227"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chamois"
+   ],
+   "type": "chamois"
   },
   {
    "id": 40262,
@@ -12612,7 +13724,11 @@
      "credit": "(c) Calum Burgess Wylie, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/37826349"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "numbat"
+   ],
+   "type": "numbat"
   },
   {
    "id": 42155,
@@ -12645,7 +13761,11 @@
      "credit": "(c) Fran\u00e7ois Sandrin, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/193300313"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "okapi"
+   ],
+   "type": "okapi"
   },
   {
    "id": 27677,
@@ -12653,7 +13773,8 @@
    "name": "Olm",
    "sci": "Proteus anguinus",
    "aliases": [
-    "olm"
+    "olm",
+    "salamander"
    ],
    "group": "Amphibia",
    "wiki": "http://en.wikipedia.org/wiki/Olm",
@@ -12698,7 +13819,11 @@
      "credit": "(c) Antonio Gandini, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/276589945"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "olm"
+   ],
+   "type": "salamander"
   },
   {
    "id": 42029,
@@ -12706,6 +13831,7 @@
    "name": "Pallas' Cat",
    "sci": "Otocolobus manul",
    "aliases": [
+    "cat",
     "manul",
     "pallas cat",
     "pallas's cat"
@@ -12753,7 +13879,13 @@
      "credit": "(c) pfaucher, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/18075099"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "manul",
+    "pallas cat",
+    "pallas's cat"
+   ],
+   "type": "cat"
   },
   {
    "id": 43802,
@@ -12807,7 +13939,12 @@
      "credit": "(c) Ryan Zucker, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/147712311"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mara",
+    "patagonian mara"
+   ],
+   "type": "mara"
   },
   {
    "id": 119395,
@@ -12816,7 +13953,8 @@
    "sci": "Odontodactylus scyllarus",
    "aliases": [
     "mantis shrimp",
-    "peacock mantis shrimp"
+    "peacock mantis shrimp",
+    "shrimp"
    ],
    "group": "Animalia",
    "wiki": "http://en.wikipedia.org/wiki/Odontodactylus_scyllarus",
@@ -12861,7 +13999,12 @@
      "credit": "(c) terence zahner, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/42098802"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mantis shrimp",
+    "peacock mantis shrimp"
+   ],
+   "type": "shrimp"
   },
   {
    "id": 43538,
@@ -12869,6 +14012,7 @@
    "name": "Proboscis Monkey",
    "sci": "Nasalis larvatus",
    "aliases": [
+    "monkey",
     "proboscis monkey"
    ],
    "group": "Mammalia",
@@ -12914,7 +14058,11 @@
      "credit": "(c) Damon Tighe, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/466452"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "proboscis monkey"
+   ],
+   "type": "monkey"
   },
   {
    "id": 42955,
@@ -12967,7 +14115,11 @@
      "credit": "(c) Kevin Schafer, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/9704576"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "quokka"
+   ],
+   "type": "quokka"
   },
   {
    "id": 14,
@@ -13020,7 +14172,11 @@
      "credit": "(c) Rodolph Delfino Sartin, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/66429359"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "seriema"
+   ],
+   "type": "seriema"
   },
   {
    "id": 42187,
@@ -13029,6 +14185,7 @@
    "sci": "Muntiacus reevesi",
    "aliases": [
     "barking deer",
+    "deer",
     "muntjac"
    ],
    "group": "Mammalia",
@@ -13074,7 +14231,12 @@
      "credit": "(c) Christopher Shepherd, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/197081372"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "barking deer",
+    "muntjac"
+   ],
+   "type": "deer"
   },
   {
    "id": 20856,
@@ -13128,7 +14290,12 @@
      "credit": "(c) Steve Collins, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/121867234"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "quetzal",
+    "resplendent quetzal"
+   ],
+   "type": "quetzal"
   },
   {
    "id": 43086,
@@ -13183,7 +14350,13 @@
      "credit": "(c) cirolana, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/162605115"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dassie",
+    "hyrax",
+    "rock hyrax"
+   ],
+   "type": "hyrax"
   },
   {
    "id": 42378,
@@ -13191,6 +14364,7 @@
    "name": "Saiga",
    "sci": "Saiga tatarica",
    "aliases": [
+    "antelope",
     "saiga",
     "saiga antelope"
    ],
@@ -13237,7 +14411,12 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/124067374"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "saiga",
+    "saiga antelope"
+   ],
+   "type": "antelope"
   },
   {
    "id": 14539,
@@ -13291,7 +14470,12 @@
      "credit": "(c) philip Green, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/262789885"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bowerbird",
+    "satin bowerbird"
+   ],
+   "type": "bowerbird"
   },
   {
    "id": 3750,
@@ -13345,7 +14529,12 @@
      "credit": "(c) Josh van der Meulen, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/15198751"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ibis",
+    "scarlet ibis"
+   ],
+   "type": "ibis"
   },
   {
    "id": 50498,
@@ -13354,7 +14543,8 @@
    "sci": "Glaucus atlanticus",
    "aliases": [
     "blue dragon",
-    "blue sea slug"
+    "blue sea slug",
+    "sea slug"
    ],
    "group": "Mollusca",
    "wiki": "http://en.wikipedia.org/wiki/Glaucus_atlanticus",
@@ -13399,7 +14589,12 @@
      "credit": "(c) John Eichler, some rights reserved (CC BY-NC-SA)",
      "obs": "https://www.inaturalist.org/observations/26193236"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "blue dragon",
+    "blue sea slug"
+   ],
+   "type": "sea slug"
   },
   {
    "id": 117214,
@@ -13453,7 +14648,12 @@
      "credit": "(c) Kim Axmann, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/105830985"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "secretary bird",
+    "secretarybird"
+   ],
+   "type": "secretarybird"
   },
   {
    "id": 42025,
@@ -13506,7 +14706,11 @@
      "credit": "(c) D\u00e9rozier Violette, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/42091661"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "serval"
+   ],
+   "type": "serval"
   },
   {
    "id": 4338,
@@ -13515,7 +14719,8 @@
    "sci": "Balaeniceps rex",
    "aliases": [
     "shoebill",
-    "shoebill stork"
+    "shoebill stork",
+    "stork"
    ],
    "group": "Aves",
    "wiki": "http://en.wikipedia.org/wiki/Shoebill",
@@ -13560,7 +14765,12 @@
      "credit": "(c) cnshort, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/13684402"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "shoebill",
+    "shoebill stork"
+   ],
+   "type": "stork"
   },
   {
    "id": 75115,
@@ -13613,7 +14823,11 @@
      "credit": "(c) Jeanne Benioff, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/201148892"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "siamang"
+   ],
+   "type": "siamang"
   },
   {
    "id": 1306005,
@@ -13666,7 +14880,11 @@
      "credit": "(c) Royle Safaris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/167185190"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "aardwolf"
+   ],
+   "type": "aardwolf"
   },
   {
    "id": 42169,
@@ -13719,7 +14937,11 @@
      "credit": "(c) Agustin Gomez, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/173700288"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pudu"
+   ],
+   "type": "pudu"
   },
   {
    "id": 45929,
@@ -13727,6 +14949,7 @@
    "name": "Southern Springhare",
    "sci": "Pedetes capensis",
    "aliases": [
+    "hare",
     "spring hare",
     "springhare"
    ],
@@ -13773,7 +14996,12 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/49720780"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "spring hare",
+    "springhare"
+   ],
+   "type": "hare"
   },
   {
    "id": 1064525,
@@ -13816,7 +15044,11 @@
      "credit": "(c) \ua9a5\ua9a4\ua9c0\ua997\ua9b6\ua992\ua9b8\ua9b1\ua9c0\ua9a0\ua9b6\ua984\ua98f\ua9c0\ua9a7\ua982, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/78850505"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tarsier"
+   ],
+   "type": "tarsier"
   },
   {
    "id": 74257,
@@ -13869,7 +15101,11 @@
      "credit": "(c) Sebas Calle Fotograf\u00eda, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/103734356"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "paca"
+   ],
+   "type": "paca"
   },
   {
    "id": 42283,
@@ -13922,7 +15158,11 @@
      "credit": "(c) leuli, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/234376061"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "springbok"
+   ],
+   "type": "springbok"
   },
   {
    "id": 47056,
@@ -13930,6 +15170,7 @@
    "name": "Star-nosed Mole",
    "sci": "Condylura cristata",
    "aliases": [
+    "mole",
     "star nosed mole",
     "star-nosed mole"
    ],
@@ -13976,7 +15217,12 @@
      "credit": "(c) Luke Berg, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/344446551"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "star nosed mole",
+    "star-nosed mole"
+   ],
+   "type": "mole"
   },
   {
    "id": 1654557,
@@ -14029,7 +15275,11 @@
      "credit": "(c) Deborah Metters, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/237083169"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sugar glider"
+   ],
+   "type": "sugar glider"
   },
   {
    "id": 74099,
@@ -14082,7 +15332,11 @@
      "credit": "(c) Carsten Meyer, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/93905479"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "babirusa"
+   ],
+   "type": "babirusa"
   },
   {
    "id": 19,
@@ -14135,7 +15389,11 @@
      "credit": "(c) Dan Vickers, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/260961654"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sunbittern"
+   ],
+   "type": "sunbittern"
   },
   {
    "id": 74351,
@@ -14189,7 +15447,12 @@
      "credit": "(c) Chien Lee, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/27061625"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "colugo",
+    "flying lemur"
+   ],
+   "type": "colugo"
   },
   {
    "id": 43627,
@@ -14243,7 +15506,12 @@
      "credit": "(c) Muhamad Azriel, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/195972685"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "loris",
+    "slow loris"
+   ],
+   "type": "loris"
   },
   {
    "id": 12700,
@@ -14297,7 +15565,12 @@
      "credit": "(c) John Eichler, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/38291216"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lyrebird",
+    "superb lyrebird"
+   ],
+   "type": "lyrebird"
   },
   {
    "id": 25462,
@@ -14305,7 +15578,8 @@
    "name": "Suriname Toad",
    "sci": "Pipa pipa",
    "aliases": [
-    "surinam toad"
+    "surinam toad",
+    "toad"
    ],
    "group": "Amphibia",
    "wiki": "http://en.wikipedia.org/wiki/Common_Suriname_toad",
@@ -14350,7 +15624,11 @@
      "credit": "(c) quinn_the_charron, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/10441473"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "surinam toad"
+   ],
+   "type": "toad"
   },
   {
    "id": 19721,
@@ -14404,7 +15682,12 @@
      "credit": "(c) James Bennett, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/154376143"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "frogmouth",
+    "tawny frogmouth"
+   ],
+   "type": "frogmouth"
   },
   {
    "id": 41774,
@@ -14457,7 +15740,11 @@
      "credit": "(c) Maria Dolores Heredia, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/150981018"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tayra"
+   ],
+   "type": "tayra"
   },
   {
    "id": 31519,
@@ -14511,7 +15798,12 @@
      "credit": "(c) Nico, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/115117048"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "thorny devil",
+    "thorny dragon"
+   ],
+   "type": "thorny devil"
   },
   {
    "id": 25154,
@@ -14519,6 +15811,7 @@
    "name": "Tomato Frog",
    "sci": "Dyscophus antongilii",
    "aliases": [
+    "frog",
     "tomato frog"
    ],
    "group": "Amphibia",
@@ -14564,7 +15857,11 @@
      "credit": "(c) Franco Andreone, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/33993"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tomato frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 200834,
@@ -14617,7 +15914,11 @@
      "credit": "(c) Sarah Milicich, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/19485009"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tuatara"
+   ],
+   "type": "tuatara"
   },
   {
    "id": 752768,
@@ -14641,7 +15942,12 @@
      "credit": "(c) Claude Noz\u00e8res, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/247396408"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "deep sea squid",
+    "squid"
+   ],
+   "type": "squid"
   },
   {
    "id": 43603,
@@ -14694,7 +16000,11 @@
      "credit": "(c) globalherping, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/226332962"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sifaka"
+   ],
+   "type": "sifaka"
   },
   {
    "id": 1624576,
@@ -14748,7 +16058,12 @@
      "credit": "(c) Andres Puiggros V., all rights reserved",
      "obs": "https://www.inaturalist.org/observations/68894248"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "vicuna",
+    "vicu\u00f1a"
+   ],
+   "type": "vicu\u00f1a"
   },
   {
    "id": 42105,
@@ -14757,6 +16072,7 @@
    "sci": "Hyemoschus aquaticus",
    "aliases": [
     "chevrotain",
+    "deer",
     "mouse deer",
     "water chevrotain"
    ],
@@ -14803,7 +16119,13 @@
      "credit": "(c) Xavier Rufray, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/223186688"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chevrotain",
+    "mouse deer",
+    "water chevrotain"
+   ],
+   "type": "deer"
   },
   {
    "id": 4580,
@@ -14856,7 +16178,11 @@
      "credit": "(c) Esteban Poveda, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/102896469"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "jacana"
+   ],
+   "type": "jacana"
   },
   {
    "id": 104109,
@@ -14889,7 +16215,11 @@
      "credit": "(c) CORDENOS Thierry, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/45797980"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "coelacanth"
+   ],
+   "type": "coelacanth"
   },
   {
    "id": 519427,
@@ -14897,6 +16227,7 @@
    "name": "White-faced Saki",
    "sci": "Pithecia pithecia",
    "aliases": [
+    "monkey",
     "saki",
     "saki monkey"
    ],
@@ -14943,7 +16274,12 @@
      "credit": "(c) Dan Brown - Wild Discovery tours, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/327622290"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "saki",
+    "saki monkey"
+   ],
+   "type": "monkey"
   },
   {
    "id": 41822,
@@ -14997,7 +16333,12 @@
      "credit": "(c) Zamsato - Zambia Safaris &amp; Adventure Tours, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/206419727"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "striped polecat",
+    "zorilla"
+   ],
+   "type": "zorilla"
   },
   {
    "id": 62,
@@ -15051,7 +16392,12 @@
      "credit": "(c) Iggino, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/328509176"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "african finfoot",
+    "finfoot"
+   ],
+   "type": "finfoot"
   },
   {
    "id": 8809,
@@ -15105,7 +16451,12 @@
      "credit": "(c) John Sullivan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/604799"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "amazonian umbrellabird",
+    "umbrellabird"
+   ],
+   "type": "umbrellabird"
   },
   {
    "id": 42422,
@@ -15114,7 +16465,8 @@
    "sci": "Ammotragus lervia",
    "aliases": [
     "aoudad",
-    "barbary sheep"
+    "barbary sheep",
+    "sheep"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Barbary_sheep",
@@ -15159,7 +16511,12 @@
      "credit": "(c) Clayton Burne, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/68999606"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "aoudad",
+    "barbary sheep"
+   ],
+   "type": "sheep"
   },
   {
    "id": 42392,
@@ -15212,7 +16569,11 @@
      "credit": "(c) Paul B Jones, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/293154757"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "argali"
+   ],
+   "type": "argali"
   },
   {
    "id": 317144,
@@ -15236,7 +16597,12 @@
      "credit": "(c) Mindaugas Maurukas, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/21739035"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "anglerfish",
+    "footballfish"
+   ],
+   "type": "anglerfish"
   },
   {
    "id": 118641,
@@ -15289,7 +16655,11 @@
      "credit": "(c) Sylvain Le Bris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/192391260"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "stargazer"
+   ],
+   "type": "stargazer"
   },
   {
    "id": 43828,
@@ -15342,7 +16712,11 @@
      "credit": "(c) Mourad Harzallah, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/146771369"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "gundi"
+   ],
+   "type": "gundi"
   },
   {
    "id": 1431322,
@@ -15386,7 +16760,12 @@
      "credit": "(c) ChimpAndSee, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/384153757"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "duiker",
+    "zebra duiker"
+   ],
+   "type": "duiker"
   },
   {
    "id": 41620,
@@ -15440,7 +16819,12 @@
      "credit": "(c) Ryan E. Gray, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/262963783"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "banded linsang",
+    "linsang"
+   ],
+   "type": "linsang"
   },
   {
    "id": 42270,
@@ -15483,7 +16867,11 @@
      "credit": "(c) Hailu Tilahun Argaw, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/313535303"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "beira"
+   ],
+   "type": "beira"
   },
   {
    "id": 43224,
@@ -15493,7 +16881,8 @@
    "aliases": [
     "elephant shrew",
     "giant elephant shrew",
-    "sengi"
+    "sengi",
+    "shrew"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Black_and_rufous_elephant_shrew",
@@ -15538,7 +16927,13 @@
      "credit": "(c) Rainer Peter Yusuf Vierkoetter, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/144717348"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "elephant shrew",
+    "giant elephant shrew",
+    "sengi"
+   ],
+   "type": "shrew"
   },
   {
    "id": 16,
@@ -15546,7 +16941,8 @@
    "name": "Black-legged Seriema",
    "sci": "Chunga burmeisteri",
    "aliases": [
-    "black legged seriema"
+    "black legged seriema",
+    "black-legged seriema"
    ],
    "group": "Aves",
    "wiki": "https://en.wikipedia.org/wiki/Black-legged_seriema",
@@ -15591,7 +16987,11 @@
      "credit": "(c) Guillermo Men\u00e9ndez, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/184459217"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "black legged seriema"
+   ],
+   "type": "black-legged seriema"
   },
   {
    "id": 8535,
@@ -15645,7 +17045,12 @@
      "credit": "(c) Thomas A. Driscoll, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/32666672"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "blue capped ifrit",
+    "ifrit"
+   ],
+   "type": "ifrit"
   },
   {
    "id": 36062,
@@ -15654,7 +17059,8 @@
    "sci": "Lanthanotus borneensis",
    "aliases": [
     "earless monitor",
-    "earless monitor lizard"
+    "earless monitor lizard",
+    "monitor"
    ],
    "group": "Reptilia",
    "wiki": "http://en.wikipedia.org/wiki/Earless_monitor_lizard",
@@ -15699,7 +17105,12 @@
      "credit": "(c) Artur Tomaszek, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/393495663"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "earless monitor",
+    "earless monitor lizard"
+   ],
+   "type": "monitor"
   },
   {
    "id": 566491,
@@ -15753,7 +17164,12 @@
      "credit": "(c) \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432 \u041f\u0430\u0432\u0435\u043b, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/359597464"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "penis worm",
+    "priapulid"
+   ],
+   "type": "priapulid"
   },
   {
    "id": 43256,
@@ -15761,7 +17177,8 @@
    "name": "Central Desert Marsupial Mole",
    "sci": "Notoryctes typhlops",
    "aliases": [
-    "marsupial mole"
+    "marsupial mole",
+    "mole"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Southern_marsupial_mole",
@@ -15776,7 +17193,11 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Southern_marsupial_mole"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "marsupial mole"
+   ],
+   "type": "mole"
   },
   {
    "id": 42117,
@@ -15784,7 +17205,8 @@
    "name": "Chacoan Peccary",
    "sci": "Catagonus wagneri",
    "aliases": [
-    "chacoan peccary"
+    "chacoan peccary",
+    "peccary"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Chacoan_peccary",
@@ -15829,7 +17251,11 @@
      "credit": "(c) Francisco Gonz\u00e1lez T\u00e1boas, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/99936729"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chacoan peccary"
+   ],
+   "type": "peccary"
   },
   {
    "id": 42382,
@@ -15837,6 +17263,7 @@
    "name": "Chiru",
    "sci": "Pantholops hodgsonii",
    "aliases": [
+    "antelope",
     "chiru",
     "tibetan antelope"
    ],
@@ -15883,7 +17310,12 @@
      "credit": "(c) amuba, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/281728665"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chiru",
+    "tibetan antelope"
+   ],
+   "type": "antelope"
   },
   {
    "id": 45920,
@@ -15936,7 +17368,11 @@
      "credit": "(c) Pablo A. Gonz\u00e1lez-Guti\u00e9rrez, some rights reserved (CC BY-NC-SA)",
      "obs": "https://www.inaturalist.org/observations/250859825"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "degu"
+   ],
+   "type": "degu"
   },
   {
    "id": 117577,
@@ -15990,7 +17426,12 @@
      "credit": "(c) richard_fish_nc, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/137175596"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "peanut worm",
+    "sipunculid"
+   ],
+   "type": "sipunculid"
   },
   {
    "id": 324775,
@@ -16043,7 +17484,11 @@
      "credit": "(c) CallieSanDiego, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/232074887"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "salp"
+   ],
+   "type": "salp"
   },
   {
    "id": 465153,
@@ -16096,7 +17541,11 @@
      "credit": "(c) toastysn, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/222438595"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "basket star"
+   ],
+   "type": "basket star"
   },
   {
    "id": 43997,
@@ -16150,7 +17599,12 @@
      "credit": "(c) Robbie Lowe, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/48617935"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "coypu",
+    "nutria"
+   ],
+   "type": "coypu"
   },
   {
    "id": 4616,
@@ -16158,7 +17612,8 @@
    "name": "Crab-Plover",
    "sci": "Dromas ardeola",
    "aliases": [
-    "crab plover"
+    "crab plover",
+    "plover"
    ],
    "group": "Aves",
    "wiki": "http://en.wikipedia.org/wiki/Crab-plover",
@@ -16203,7 +17658,11 @@
      "credit": "(c) ibabi, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/35813204"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "crab plover"
+   ],
+   "type": "plover"
   },
   {
    "id": 2258,
@@ -16211,7 +17670,8 @@
    "name": "Cuckoo-roller",
    "sci": "Leptosomus discolor",
    "aliases": [
-    "cuckoo roller"
+    "cuckoo roller",
+    "cuckoo-roller"
    ],
    "group": "Aves",
    "wiki": "http://en.wikipedia.org/wiki/Cuckoo_roller",
@@ -16256,7 +17716,11 @@
      "credit": "(c) Daniel Austin, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/175647070"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cuckoo roller"
+   ],
+   "type": "cuckoo-roller"
   },
   {
    "id": 26681,
@@ -16265,7 +17729,8 @@
    "sci": "Rhinoderma darwinii",
    "aliases": [
     "darwin's frog",
-    "darwins frog"
+    "darwins frog",
+    "frog"
    ],
    "group": "Amphibia",
    "wiki": "http://en.wikipedia.org/wiki/Darwin's_frog",
@@ -16310,7 +17775,12 @@
      "credit": "(c) matias saa, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/105684205"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "darwin's frog",
+    "darwins frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 43726,
@@ -16318,7 +17788,8 @@
    "name": "Derby's Anomalure",
    "sci": "Anomalurus derbianus",
    "aliases": [
-    "scaly tailed flying squirrel"
+    "scaly tailed flying squirrel",
+    "squirrel"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Lord_Derby's_scaly-tailed_squirrel",
@@ -16363,7 +17834,11 @@
      "credit": "(c) bnchapple, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/192429573"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "scaly tailed flying squirrel"
+   ],
+   "type": "squirrel"
   },
   {
    "id": 42272,
@@ -16396,7 +17871,11 @@
      "credit": "(c) giant_eland, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/260456969"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dibatag"
+   ],
+   "type": "dibatag"
   },
   {
    "id": 432439,
@@ -16404,7 +17883,8 @@
    "name": "Dumbo Octopus",
    "sci": "Grimpoteuthis discoveryi",
    "aliases": [
-    "dumbo octopus"
+    "dumbo octopus",
+    "octopus"
    ],
    "group": "Mollusca",
    "wiki": "https://en.wikipedia.org/wiki/Grimpoteuthis_discoveryi",
@@ -16414,7 +17894,11 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Grimpoteuthis_discoveryi"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "dumbo octopus"
+   ],
+   "type": "octopus"
   },
   {
    "id": 41580,
@@ -16457,7 +17941,11 @@
      "credit": "(c) Wookie, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/326596060"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "falanouc"
+   ],
+   "type": "falanouc"
   },
   {
    "id": 41576,
@@ -16465,6 +17953,7 @@
    "name": "Fanaloka",
    "sci": "Fossa fossana",
    "aliases": [
+    "civet",
     "fanaloka",
     "malagasy civet"
    ],
@@ -16511,7 +18000,12 @@
      "credit": "(c) John Sullivan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/323589"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fanaloka",
+    "malagasy civet"
+   ],
+   "type": "civet"
   },
   {
    "id": 213729,
@@ -16564,7 +18058,11 @@
      "credit": "(c) Mindaugas Maurukas, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/21739160"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fangtooth"
+   ],
+   "type": "fangtooth"
   },
   {
    "id": 116513,
@@ -16573,6 +18071,7 @@
    "sci": "Bipes biporus",
    "aliases": [
     "ajolote",
+    "lizard",
     "mole lizard"
    ],
    "group": "Reptilia",
@@ -16618,7 +18117,12 @@
      "credit": "(c) Ana Gatica Colima, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/302787993"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ajolote",
+    "mole lizard"
+   ],
+   "type": "lizard"
   },
   {
    "id": 43733,
@@ -16626,7 +18130,8 @@
    "name": "Flightless Anomalure",
    "sci": "Zenkerella insignis",
    "aliases": [
-    "scaly tailed squirrel"
+    "scaly tailed squirrel",
+    "squirrel"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Cameroon_scaly-tail",
@@ -16656,7 +18161,11 @@
      "credit": "(c) ChimpAndSee, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/301368909"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "scaly tailed squirrel"
+   ],
+   "type": "squirrel"
   },
   {
    "id": 36981,
@@ -16665,6 +18174,7 @@
    "sci": "Rhineura floridana",
    "aliases": [
     "amphisbaenian",
+    "lizard",
     "worm lizard"
    ],
    "group": "Reptilia",
@@ -16710,7 +18220,12 @@
      "credit": "(c) Dmitry Podobreev, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/188093542"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "amphisbaenian",
+    "worm lizard"
+   ],
+   "type": "lizard"
   },
   {
    "id": 47302,
@@ -16718,7 +18233,8 @@
    "name": "Frilled Shark",
    "sci": "Chlamydoselachus anguineus",
    "aliases": [
-    "frilled shark"
+    "frilled shark",
+    "shark"
    ],
    "group": "Animalia",
    "wiki": "http://en.wikipedia.org/wiki/Frilled_shark",
@@ -16763,7 +18279,11 @@
      "credit": "(c) Mateus Costa Soares, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/107630860"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "frilled shark"
+   ],
+   "type": "shark"
   },
   {
    "id": 118647,
@@ -16771,6 +18291,7 @@
    "name": "Frostfish",
    "sci": "Lepidopus caudatus",
    "aliases": [
+    "frostfish",
     "scabbardfish"
    ],
    "group": "Actinopterygii",
@@ -16816,7 +18337,11 @@
      "credit": "(c) Josh Sutton, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/112012692"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "scabbardfish"
+   ],
+   "type": "frostfish"
   },
   {
    "id": 196745,
@@ -16869,7 +18394,11 @@
      "credit": "(c) dshakey96, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/103579475"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "oarfish"
+   ],
+   "type": "oarfish"
   },
   {
    "id": 42468,
@@ -16923,7 +18452,12 @@
      "credit": "(c) joe_cutler, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/320186253"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant otter shrew",
+    "otter shrew"
+   ],
+   "type": "otter shrew"
   },
   {
    "id": 105913,
@@ -16931,7 +18465,8 @@
    "name": "Goblin Shark",
    "sci": "Mitsukurina owstoni",
    "aliases": [
-    "goblin shark"
+    "goblin shark",
+    "shark"
    ],
    "group": "Animalia",
    "wiki": "http://en.wikipedia.org/wiki/Goblin_shark",
@@ -16976,7 +18511,11 @@
      "credit": "(c) alcw_bdrs, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/73268128"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "goblin shark"
+   ],
+   "type": "shark"
   },
   {
    "id": 253674,
@@ -17030,7 +18569,12 @@
      "credit": "(c) hollyholm, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/60920007"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "argonaut",
+    "paper nautilus"
+   ],
+   "type": "argonaut"
   },
   {
    "id": 569409,
@@ -17038,6 +18582,7 @@
    "name": "Greater Hog Badger",
    "sci": "Arctonyx collaris",
    "aliases": [
+    "badger",
     "hog badger"
    ],
    "group": "Mammalia",
@@ -17083,7 +18628,11 @@
      "credit": "(c) Joya Dutta, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/35633713"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hog badger"
+   ],
+   "type": "badger"
   },
   {
    "id": 17570,
@@ -17137,7 +18686,12 @@
      "credit": "(c) timmcclurg, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/147251030"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "greater honeyguide",
+    "honeyguide"
+   ],
+   "type": "honeyguide"
   },
   {
    "id": 27864,
@@ -17146,6 +18700,7 @@
    "sci": "Siren lacertina",
    "aliases": [
     "greater siren",
+    "salamander",
     "siren"
    ],
    "group": "Amphibia",
@@ -17191,7 +18746,12 @@
      "credit": "(c) Nick Tobler (Cowturtle), some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/281882723"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "greater siren",
+    "siren"
+   ],
+   "type": "salamander"
   },
   {
    "id": 20934,
@@ -17245,7 +18805,12 @@
      "credit": "(c) sedge, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/280511493"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "green wood hoopoe",
+    "wood hoopoe"
+   ],
+   "type": "wood hoopoe"
   },
   {
    "id": 42317,
@@ -17298,7 +18863,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/246614654"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "goral"
+   ],
+   "type": "goral"
   },
   {
    "id": 3834,
@@ -17351,7 +18920,11 @@
      "credit": "(c) Asrat Ayalew Gella, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/146264939"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hamerkop"
+   ],
+   "type": "hamerkop"
   },
   {
    "id": 901109,
@@ -17400,7 +18973,12 @@
      "credit": "(c) jgrimshaw, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/264904201"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "headless chicken monster",
+    "sea cucumber"
+   ],
+   "type": "sea cucumber"
   },
   {
    "id": 42324,
@@ -17454,7 +19032,12 @@
      "credit": "(c) scientik, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/31061194"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "himalayan tahr",
+    "tahr"
+   ],
+   "type": "tahr"
   },
   {
    "id": 74108,
@@ -17507,7 +19090,11 @@
      "credit": "(c) Joshua Rains, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/58934434"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hirola"
+   ],
+   "type": "hirola"
   },
   {
    "id": 46337,
@@ -17561,7 +19148,12 @@
      "credit": "(c) Luke Berg, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/260526139"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hispaniolan solenodon",
+    "solenodon"
+   ],
+   "type": "solenodon"
   },
   {
    "id": 42788,
@@ -17569,7 +19161,8 @@
    "name": "Honey Possum",
    "sci": "Tarsipes rostratus",
    "aliases": [
-    "honey possum"
+    "honey possum",
+    "possum"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Honey_possum",
@@ -17614,7 +19207,11 @@
      "credit": "(c) Friends of The Porongurup Range, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/29047826"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "honey possum"
+   ],
+   "type": "possum"
   },
   {
    "id": 6908,
@@ -17668,7 +19265,12 @@
      "credit": "(c) JUAN ROMERO, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/254335304"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "horned screamer",
+    "screamer"
+   ],
+   "type": "screamer"
   },
   {
    "id": 42901,
@@ -17676,6 +19278,7 @@
    "name": "Huon Tree Kangaroo",
    "sci": "Dendrolagus matschiei",
    "aliases": [
+    "kangaroo",
     "matschies tree kangaroo",
     "tree kangaroo"
    ],
@@ -17692,7 +19295,12 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Matschie's_tree-kangaroo"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "matschies tree kangaroo",
+    "tree kangaroo"
+   ],
+   "type": "kangaroo"
   },
   {
    "id": 4908,
@@ -17745,7 +19353,11 @@
      "credit": "(c) connk, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/24835549"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ibisbill"
+   ],
+   "type": "ibisbill"
   },
   {
    "id": 26811,
@@ -17754,7 +19366,8 @@
    "sci": "Andrias japonicus",
    "aliases": [
     "giant salamander",
-    "japanese giant salamander"
+    "japanese giant salamander",
+    "salamander"
    ],
    "group": "Amphibia",
    "wiki": "https://en.wikipedia.org/wiki/Japanese_giant_salamander",
@@ -17799,7 +19412,12 @@
      "credit": "(c) Richard Pearce, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/211159666"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "giant salamander",
+    "japanese giant salamander"
+   ],
+   "type": "salamander"
   },
   {
    "id": 26179,
@@ -17808,7 +19426,8 @@
    "sci": "Acrochordus javanicus",
    "aliases": [
     "elephant trunk snake",
-    "file snake"
+    "file snake",
+    "snake"
    ],
    "group": "Reptilia",
    "wiki": "http://en.wikipedia.org/wiki/Elephant_trunk_snake",
@@ -17853,7 +19472,12 @@
      "credit": "(c) muangpaisuetrong, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/348297346"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "elephant trunk snake",
+    "file snake"
+   ],
+   "type": "snake"
   },
   {
    "id": 572,
@@ -17906,7 +19530,11 @@
      "credit": "(c) Roger Le Guen, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/132342368"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kagu"
+   ],
+   "type": "kagu"
   },
   {
    "id": 43228,
@@ -17915,7 +19543,8 @@
    "sci": "Macroscelides proboscideus",
    "aliases": [
     "elephant shrew",
-    "round eared sengi"
+    "round eared sengi",
+    "shrew"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Macroscelides_proboscideus",
@@ -17960,7 +19589,12 @@
      "credit": "(c) Charles Hopkins, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/257903675"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "elephant shrew",
+    "round eared sengi"
+   ],
+   "type": "shrew"
   },
   {
    "id": 43338,
@@ -18013,7 +19647,11 @@
      "credit": "(c) wsyxbcl, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/251774622"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kiang"
+   ],
+   "type": "kiang"
   },
   {
    "id": 1584019,
@@ -18021,7 +19659,8 @@
    "name": "K\u0101k\u0101p\u014d",
    "sci": "Strigops habroptilus",
    "aliases": [
-    "kakapo"
+    "kakapo",
+    "k\u0101k\u0101p\u014d"
    ],
    "group": "Aves",
    "wiki": "https://en.wikipedia.org/wiki/K\u0101k\u0101p\u014d",
@@ -18066,7 +19705,11 @@
      "credit": "(c) Cherie Hemsley, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/1932390"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "kakapo"
+   ],
+   "type": "k\u0101k\u0101p\u014d"
   },
   {
    "id": 75193,
@@ -18075,6 +19718,7 @@
    "sci": "Tragulus kanchil",
    "aliases": [
     "chevrotain",
+    "deer",
     "lesser mouse deer",
     "mouse deer"
    ],
@@ -18121,7 +19765,13 @@
      "credit": "(c) Yuzefovich Alexander, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/184510145"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chevrotain",
+    "lesser mouse deer",
+    "mouse deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 42988,
@@ -18175,7 +19825,12 @@
      "credit": "(c) Leannika Simmons, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/104853624"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "long nosed potoroo",
+    "potoroo"
+   ],
+   "type": "potoroo"
   },
   {
    "id": 42247,
@@ -18229,7 +19884,12 @@
      "credit": "(c) Premala Arulampalam, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/328597152"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "anoa",
+    "lowland anoa"
+   ],
+   "type": "anoa"
   },
   {
    "id": 42439,
@@ -18283,7 +19943,12 @@
      "credit": "(c) Nick Helme, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/17376681"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lowland streaked tenrec",
+    "streaked tenrec"
+   ],
+   "type": "streaked tenrec"
   },
   {
    "id": 74143,
@@ -18337,7 +20002,12 @@
      "credit": "(c) Sikkim Birds, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/200899946"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "serow",
+    "sumatran serow"
+   ],
+   "type": "serow"
   },
   {
    "id": 8491,
@@ -18391,7 +20061,12 @@
      "credit": "(c) Tanakorn Chantasuban, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/330442065"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "malaysian rail babbler",
+    "rail babbler"
+   ],
+   "type": "rail babbler"
   },
   {
    "id": 47066,
@@ -18399,7 +20074,8 @@
    "name": "Maned Three-toed Sloth",
    "sci": "Bradypus torquatus",
    "aliases": [
-    "maned sloth"
+    "maned sloth",
+    "sloth"
    ],
    "group": "Mammalia",
    "wiki": "http://en.wikipedia.org/wiki/Maned_sloth",
@@ -18444,7 +20120,11 @@
      "credit": "(c) Shirley Oliveira, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/160384773"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "maned sloth"
+   ],
+   "type": "sloth"
   },
   {
    "id": 1370747,
@@ -18498,7 +20178,12 @@
      "credit": "(c) NabilahZA, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/14942027"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "moon rat",
+    "moonrat"
+   ],
+   "type": "moonrat"
   },
   {
    "id": 43736,
@@ -18506,6 +20191,7 @@
    "name": "Mountain Beaver",
    "sci": "Aplodontia rufa",
    "aliases": [
+    "beaver",
     "mountain beaver"
    ],
    "group": "Mammalia",
@@ -18551,7 +20237,11 @@
      "credit": "(c) wandering_jamie, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/171153637"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mountain beaver"
+   ],
+   "type": "beaver"
   },
   {
    "id": 43354,
@@ -18560,6 +20250,7 @@
    "sci": "Tapirus pinchaque",
    "aliases": [
     "mountain tapir",
+    "tapir",
     "woolly tapir"
    ],
    "group": "Mammalia",
@@ -18605,7 +20296,12 @@
      "credit": "(c) svenja_ecuador, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/3815679"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mountain tapir",
+    "woolly tapir"
+   ],
+   "type": "tapir"
   },
   {
    "id": 852334,
@@ -18659,7 +20355,12 @@
      "credit": "(c) Luis Stevens, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/107148086"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mountain viscacha",
+    "viscacha"
+   ],
+   "type": "viscacha"
   },
   {
    "id": 55297,
@@ -18713,7 +20414,12 @@
      "credit": "(c) Noah Strycker, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/137060585"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sea angel",
+    "sea butterfly"
+   ],
+   "type": "sea butterfly"
   },
   {
    "id": 42715,
@@ -18766,7 +20472,11 @@
      "credit": "(c) Whylie Walton, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/341357344"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "feathertail glider"
+   ],
+   "type": "feathertail glider"
   },
   {
    "id": 930132,
@@ -18820,7 +20530,12 @@
      "credit": "(c) Bryan Ramdeen, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/104616861"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pygmy anteater",
+    "silky anteater"
+   ],
+   "type": "pygmy anteater"
   },
   {
    "id": 191560,
@@ -18874,7 +20589,12 @@
      "credit": "(c) Heidi Hurskainen, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/129872627"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "comb jelly",
+    "ctenophore"
+   ],
+   "type": "comb jelly"
   },
   {
    "id": 42825,
@@ -18928,7 +20648,12 @@
      "credit": "(c) pfaucher, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/219493974"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "cuscus",
+    "northern common cuscus"
+   ],
+   "type": "cuscus"
   },
   {
    "id": 42176,
@@ -18937,6 +20662,7 @@
    "sci": "Mazama americana",
    "aliases": [
     "brocket deer",
+    "deer",
     "red brocket"
    ],
    "group": "Mammalia",
@@ -18982,7 +20708,12 @@
      "credit": "(c) Fauna of Manabi, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/1299005"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "brocket deer",
+    "red brocket"
+   ],
+   "type": "deer"
   },
   {
    "id": 145979,
@@ -18990,6 +20721,7 @@
    "name": "Nosy Hara Leaf Chameleon",
    "sci": "Brookesia micra",
    "aliases": [
+    "chameleon",
     "leaf chameleon",
     "micro chameleon"
    ],
@@ -19036,7 +20768,12 @@
      "credit": "(c) Pierre Malan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/327221181"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "leaf chameleon",
+    "micro chameleon"
+   ],
+   "type": "chameleon"
   },
   {
    "id": 42342,
@@ -19089,7 +20826,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/183758023"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "nyala"
+   ],
+   "type": "nyala"
   },
   {
    "id": 19727,
@@ -19142,7 +20883,11 @@
      "credit": "(c) Nagi Aboulenein, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/252765912"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "oilbird"
+   ],
+   "type": "oilbird"
   },
   {
    "id": 43333,
@@ -19196,7 +20941,12 @@
      "credit": "(c) mylabris, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/149734249"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "asiatic wild ass",
+    "onager"
+   ],
+   "type": "onager"
   },
   {
    "id": 42380,
@@ -19249,7 +20999,11 @@
      "credit": "(c) WildNothos, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/7982309"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "oribi"
+   ],
+   "type": "oribi"
   },
   {
    "id": 41590,
@@ -19257,6 +21011,7 @@
    "name": "Otter Civet",
    "sci": "Cynogale bennettii",
    "aliases": [
+    "civet",
     "otter civet"
    ],
    "group": "Mammalia",
@@ -19302,7 +21057,11 @@
      "credit": "no rights reserved",
      "obs": "https://www.inaturalist.org/observations/258093660"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "otter civet"
+   ],
+   "type": "civet"
   },
   {
    "id": 43837,
@@ -19355,7 +21114,11 @@
      "credit": "(c) Diego Gallotti, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/280913310"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pacarana"
+   ],
+   "type": "pacarana"
   },
   {
    "id": 49886,
@@ -19384,7 +21147,12 @@
      "credit": "(c) linddealy, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/203374319"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "barreleye",
+    "barreleye fish"
+   ],
+   "type": "barreleye"
   },
   {
    "id": 100268,
@@ -19438,7 +21206,12 @@
      "credit": "(c) John D Reynolds, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/128333128"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "hagfish",
+    "pacific hagfish"
+   ],
+   "type": "hagfish"
   },
   {
    "id": 28097,
@@ -19456,7 +21229,11 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Atretochoana"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "caecilian"
+   ],
+   "type": "caecilian"
   },
   {
    "id": 47097,
@@ -19464,6 +21241,7 @@
    "name": "Pink Fairy Armadillo",
    "sci": "Chlamyphorus truncatus",
    "aliases": [
+    "armadillo",
     "fairy armadillo",
     "pink fairy armadillo"
    ],
@@ -19505,7 +21283,12 @@
      "credit": "(c) Hugo, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/292476126"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "fairy armadillo",
+    "pink fairy armadillo"
+   ],
+   "type": "armadillo"
   },
   {
    "id": 4341,
@@ -19513,7 +21296,8 @@
    "name": "Plains-wanderer",
    "sci": "Pedionomus torquatus",
    "aliases": [
-    "plains wanderer"
+    "plains wanderer",
+    "plains-wanderer"
    ],
    "group": "Aves",
    "wiki": "http://en.wikipedia.org/wiki/Plains-wanderer",
@@ -19558,7 +21342,11 @@
      "credit": "(c) Zara, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/329154887"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "plains wanderer"
+   ],
+   "type": "plains-wanderer"
   },
   {
    "id": 117302,
@@ -19612,7 +21400,12 @@
      "credit": "(c) madaketmatt, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/267057876"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "man o war",
+    "portuguese man o war"
+   ],
+   "type": "man o war"
   },
   {
    "id": 2121,
@@ -19666,7 +21459,12 @@
      "credit": "(c) Eric C. Maxwell, some rights reserved (CC BY-NC-ND)",
      "obs": "https://www.inaturalist.org/observations/103545886"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "puerto rican tody",
+    "tody"
+   ],
+   "type": "tody"
   },
   {
    "id": 25307,
@@ -19674,6 +21472,7 @@
    "name": "Purple Frog",
    "sci": "Nasikabatrachus sahyadrensis",
    "aliases": [
+    "frog",
     "pig nosed frog",
     "purple frog"
    ],
@@ -19720,7 +21519,12 @@
      "credit": "(c) Al Badush, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/104755516"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pig nosed frog",
+    "purple frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 47041,
@@ -19774,7 +21578,12 @@
      "credit": "(c) Vincent Vignon, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/190490679"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "desman",
+    "pyrenean desman"
+   ],
+   "type": "desman"
   },
   {
    "id": 51108,
@@ -19827,7 +21636,11 @@
      "credit": "(c) Tim McDade, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/35599980"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pyrosome"
+   ],
+   "type": "pyrosome"
   },
   {
    "id": 42230,
@@ -19835,6 +21648,7 @@
    "name": "P\u00e8re David's Deer",
    "sci": "Elaphurus davidianus",
    "aliases": [
+    "deer",
     "milu",
     "pere david's deer",
     "pere davids deer"
@@ -19882,7 +21696,13 @@
      "credit": "(c) Terry Townshend, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/153021814"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "milu",
+    "pere david's deer",
+    "pere davids deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 127702,
@@ -19891,6 +21711,7 @@
    "sci": "Alpheus randalli",
    "aliases": [
     "pistol shrimp",
+    "shrimp",
     "snapping shrimp"
    ],
    "group": "Animalia",
@@ -19936,7 +21757,12 @@
      "credit": "(c) uwkwaj, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/159200311"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pistol shrimp",
+    "snapping shrimp"
+   ],
+   "type": "shrimp"
   },
   {
    "id": 42968,
@@ -19990,7 +21816,12 @@
      "credit": "(c) Jordan Cochran, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/142120680"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "pademelon",
+    "red necked pademelon"
+   ],
+   "type": "pademelon"
   },
   {
    "id": 64490,
@@ -20043,7 +21874,11 @@
      "credit": "(c) Ian Shaw, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/4837939"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "stonefish"
+   ],
+   "type": "stonefish"
   },
   {
    "id": 342278,
@@ -20097,7 +21932,12 @@
      "credit": "(c) Nathan Jackson, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/325250880"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "crinoid",
+    "feather star"
+   ],
+   "type": "crinoid"
   },
   {
    "id": 42366,
@@ -20105,6 +21945,7 @@
    "name": "Royal Antelope",
    "sci": "Neotragus pygmaeus",
    "aliases": [
+    "antelope",
     "royal antelope"
    ],
    "group": "Mammalia",
@@ -20125,7 +21966,11 @@
      "credit": "(c) ChimpAndSee, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/386083809"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "royal antelope"
+   ],
+   "type": "antelope"
   },
   {
    "id": 28010,
@@ -20179,7 +22024,12 @@
      "credit": "(c) lucasadriazola, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/260225372"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "caecilian",
+    "rubber eel"
+   ],
+   "type": "caecilian"
   },
   {
    "id": 200950,
@@ -20232,7 +22082,11 @@
      "credit": "(c) pidduxp, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/33131528"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bobbit worm"
+   ],
+   "type": "bobbit worm"
   },
   {
    "id": 33520,
@@ -20240,6 +22094,7 @@
    "name": "Satanic Leaf-tailed Gecko",
    "sci": "Uroplatus phantasticus",
    "aliases": [
+    "gecko",
     "leaf tailed gecko",
     "satanic leaf tailed gecko"
    ],
@@ -20286,7 +22141,12 @@
      "credit": "(c) antoine_baglan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/290568088"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "leaf tailed gecko",
+    "satanic leaf tailed gecko"
+   ],
+   "type": "gecko"
   },
   {
    "id": 846960,
@@ -20294,6 +22154,7 @@
    "name": "Screaming Hairy Armadillo",
    "sci": "Chaetophractus vellerosus",
    "aliases": [
+    "armadillo",
     "screaming hairy armadillo"
    ],
    "group": "Mammalia",
@@ -20339,7 +22200,11 @@
      "credit": "(c) Ben Costamagna, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/137693450"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "screaming hairy armadillo"
+   ],
+   "type": "armadillo"
   },
   {
    "id": 49223,
@@ -20393,7 +22258,12 @@
      "credit": "(c) Thomas Menut, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/156019756"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "lamprey",
+    "sea lamprey"
+   ],
+   "type": "lamprey"
   },
   {
    "id": 1160397,
@@ -20412,7 +22282,12 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Metacrinus_rotundus"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "crinoid",
+    "sea lily"
+   ],
+   "type": "crinoid"
   },
   {
    "id": 493799,
@@ -20466,7 +22341,12 @@
      "credit": "(c) AMADOU BAHLEMAN FARID, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/184390997"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bichir",
+    "senegal bichir"
+   ],
+   "type": "bichir"
   },
   {
    "id": 2308,
@@ -20520,7 +22400,12 @@
      "credit": "(c) Giuseppe Citino, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/318171200"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "ground roller",
+    "short legged ground roller"
+   ],
+   "type": "ground roller"
   },
   {
    "id": 42144,
@@ -20528,6 +22413,7 @@
    "name": "Siberian Musk Deer",
    "sci": "Moschus moschiferus",
    "aliases": [
+    "deer",
     "musk deer",
     "siberian musk deer"
    ],
@@ -20574,7 +22460,12 @@
      "credit": "(c) \u0420\u0443\u0431\u0430\u043d \u0415\u043b\u0435\u043d\u0430 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043d\u0430 (\u0410\u043b\u0451\u043d\u0430 \u0420\u0443\u0431\u0430\u043d), some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/200294354"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "musk deer",
+    "siberian musk deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 43266,
@@ -20582,6 +22473,7 @@
    "name": "Silky Shrew Opossum",
    "sci": "Caenolestes fuliginosus",
    "aliases": [
+    "opossum",
     "shrew opossum"
    ],
    "group": "Mammalia",
@@ -20627,7 +22519,11 @@
      "credit": "(c) \u00a9Yuleidy E. Castro L., some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/119431905"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "shrew opossum"
+   ],
+   "type": "opossum"
   },
   {
    "id": 42338,
@@ -20680,7 +22576,11 @@
      "credit": "(c) D\u00e9rozier Violette, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/127356640"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sitatunga"
+   ],
+   "type": "sitatunga"
   },
   {
    "id": 120645,
@@ -20733,7 +22633,11 @@
      "credit": "(c) Joao Tiago Tavares, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/142066518"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "viperfish"
+   ],
+   "type": "viperfish"
   },
   {
    "id": 41837,
@@ -20741,6 +22645,7 @@
    "name": "Small-toothed Ferret Badger",
    "sci": "Melogale moschata",
    "aliases": [
+    "badger",
     "chinese ferret badger",
     "ferret badger"
    ],
@@ -20787,7 +22692,12 @@
      "credit": "(c) Kennedy_naturalist, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/108294821"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chinese ferret badger",
+    "ferret badger"
+   ],
+   "type": "badger"
   },
   {
    "id": 41602,
@@ -20795,6 +22705,7 @@
    "name": "Small-toothed Palm Civet",
    "sci": "Arctogalidia trivirgata",
    "aliases": [
+    "civet",
     "small toothed palm civet"
    ],
    "group": "Mammalia",
@@ -20840,7 +22751,11 @@
      "credit": "(c) Fern Zhang, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/65885386"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "small toothed palm civet"
+   ],
+   "type": "civet"
   },
   {
    "id": 349823,
@@ -20868,7 +22783,11 @@
      "credit": "(c) Ken Graham, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/107170028"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "blobfish"
+   ],
+   "type": "blobfish"
   },
   {
    "id": 424597,
@@ -20921,7 +22840,11 @@
      "credit": "(c) Stephanie Kerrisk, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/254065538"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "takahe"
+   ],
+   "type": "takahe"
   },
   {
    "id": 95962,
@@ -20975,7 +22898,12 @@
      "credit": "(c) tarnh, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/308589354"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "handfish",
+    "spotted handfish"
+   ],
+   "type": "handfish"
   },
   {
    "id": 68,
@@ -21028,7 +22956,11 @@
      "credit": "(c) Steve Collins, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/234879419"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "sungrebe"
+   ],
+   "type": "sungrebe"
   },
   {
    "id": 42475,
@@ -21082,7 +23014,12 @@
      "credit": "(c) CORDENOS Thierry, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/25403348"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tailless tenrec",
+    "tenrec"
+   ],
+   "type": "tenrec"
   },
   {
    "id": 42243,
@@ -21135,7 +23072,11 @@
      "credit": "(c) bureaubenjamin, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/367910118"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tamaraw"
+   ],
+   "type": "tamaraw"
   },
   {
    "id": 256112,
@@ -21143,6 +23084,7 @@
    "name": "Tardigrade",
    "sci": "Milnesium tardigradum",
    "aliases": [
+    "bear",
     "tardigrade",
     "water bear"
    ],
@@ -21154,7 +23096,12 @@
      "credit": "(c) Reuven Baker-Shechtman, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/130500312"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tardigrade",
+    "water bear"
+   ],
+   "type": "bear"
   },
   {
    "id": 22822,
@@ -21162,6 +23109,7 @@
    "name": "Titicaca Water Frog",
    "sci": "Telmatobius culeus",
    "aliases": [
+    "frog",
     "scrotum frog",
     "titicaca water frog"
    ],
@@ -21208,7 +23156,12 @@
      "credit": "(c) John Sullivan, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/200037360"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "scrotum frog",
+    "titicaca water frog"
+   ],
+   "type": "frog"
   },
   {
    "id": 42195,
@@ -21216,6 +23169,7 @@
    "name": "Tufted Deer",
    "sci": "Elaphodus cephalophus",
    "aliases": [
+    "deer",
     "tufted deer"
    ],
    "group": "Mammalia",
@@ -21261,7 +23215,11 @@
      "credit": "(c) Haitong and Nicola, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/258790847"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "tufted deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 26796,
@@ -21315,7 +23273,12 @@
      "credit": "(c) species_spotlight, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/57378315"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "amphiuma",
+    "conger eel"
+   ],
+   "type": "amphiuma"
   },
   {
    "id": 253737,
@@ -21323,6 +23286,7 @@
    "name": "Vampire Squid",
    "sci": "Vampyroteuthis infernalis",
    "aliases": [
+    "squid",
     "vampire squid"
    ],
    "group": "Mollusca",
@@ -21353,7 +23317,11 @@
      "credit": "(c) leosmith, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/370801075"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "vampire squid"
+   ],
+   "type": "squid"
   },
   {
    "id": 14209,
@@ -21407,7 +23375,12 @@
      "credit": "(c) Andrianiaina Angelo, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/374234425"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "asity",
+    "velvet asity"
+   ],
+   "type": "asity"
   },
   {
    "id": 1247188,
@@ -21425,7 +23398,11 @@
      "credit": "Wikimedia Commons",
      "obs": "https://en.wikipedia.org/wiki/Peripatus_juliformis"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "velvet worm"
+   ],
+   "type": "velvet worm"
   },
   {
    "id": 42129,
@@ -21433,6 +23410,7 @@
    "name": "Visayan Warty Pig",
    "sci": "Sus cebifrons",
    "aliases": [
+    "pig",
     "visayan warty pig",
     "warty pig"
    ],
@@ -21479,7 +23457,12 @@
      "credit": "(c) Paola Rosano, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/310713291"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "visayan warty pig",
+    "warty pig"
+   ],
+   "type": "pig"
   },
   {
    "id": 14840,
@@ -21532,7 +23515,11 @@
      "credit": "(c) Paolo Zucca, some rights reserved (CC BY)",
      "obs": "https://www.inaturalist.org/observations/36219990"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "wallcreeper"
+   ],
+   "type": "wallcreeper"
   },
   {
    "id": 119392,
@@ -21586,7 +23573,12 @@
      "credit": "(c) sabrinamedinaa, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/335205941"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "frogfish",
+    "warty frogfish"
+   ],
+   "type": "frogfish"
   },
   {
    "id": 42193,
@@ -21595,6 +23587,7 @@
    "sci": "Hydropotes inermis",
    "aliases": [
     "chinese water deer",
+    "deer",
     "water deer"
    ],
    "group": "Mammalia",
@@ -21640,7 +23633,12 @@
      "credit": "(c) \u041c\u0430\u0440\u0438\u043d\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430-\u00cb\u043b\u043a\u0438\u043d\u0430, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/117296936"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "chinese water deer",
+    "water deer"
+   ],
+   "type": "deer"
   },
   {
    "id": 42700,
@@ -21648,6 +23646,7 @@
    "name": "Water Opossum",
    "sci": "Chironectes minimus",
    "aliases": [
+    "opossum",
     "water opossum",
     "yapok"
    ],
@@ -21694,7 +23693,12 @@
      "credit": "(c) Samuel B\u00fcttler, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/205068202"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "water opossum",
+    "yapok"
+   ],
+   "type": "opossum"
   },
   {
    "id": 110712,
@@ -21748,7 +23752,12 @@
      "credit": "(c) Ron Frumkin, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/69132326"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "african lungfish",
+    "lungfish"
+   ],
+   "type": "lungfish"
   },
   {
    "id": 52188,
@@ -21756,6 +23765,7 @@
    "name": "Whale Shark",
    "sci": "Rhincodon typus",
    "aliases": [
+    "shark",
     "whale shark"
    ],
    "group": "Animalia",
@@ -21801,7 +23811,11 @@
      "credit": "(c) Carmelo L\u00f3pez Abad, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/461025"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "whale shark"
+   ],
+   "type": "shark"
   },
   {
    "id": 72,
@@ -21855,7 +23869,12 @@
      "credit": "(c) Marc Faucher, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/182639100"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "mesite",
+    "white breasted mesite"
+   ],
+   "type": "mesite"
   },
   {
    "id": 14220,
@@ -21909,7 +23928,12 @@
      "credit": "(c) Heinrich Human, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/177035211"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "picathartes",
+    "rockfowl"
+   ],
+   "type": "rockfowl"
   },
   {
    "id": 1670729,
@@ -21963,7 +23987,12 @@
      "credit": "(c) Steve Dew, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/98363455"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "bettong",
+    "woylie"
+   ],
+   "type": "woylie"
   },
   {
    "id": 368889,
@@ -22017,7 +24046,12 @@
      "credit": "(c) Rafi Amar, some rights reserved (CC BY-NC)",
      "obs": "https://www.inaturalist.org/observations/137288834"
     }
-   ]
+   ],
+   "_base_aliases": [
+    "acorn worm",
+    "yellow acorn worm"
+   ],
+   "type": "acorn worm"
   }
  ]
 }

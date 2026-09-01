@@ -22,6 +22,11 @@
 </header>
 
 <main>
+  <div id="hintbox" aria-live="polite">
+    <span id="hintlabel">kind of animal</span>
+    <span id="hintword"></span>
+  </div>
+
   <div id="stage">
     <div id="spinner">Loading photo…</div>
     <img id="photo" alt="Photo of an animal to identify">
@@ -36,6 +41,10 @@
     <input id="guess" type="text" placeholder="What animal is this?"
            autocomplete="off" autocorrect="off" spellcheck="false">
     <button type="submit" id="submit">Guess</button>
+    <div id="hintwrap">
+      <span id="hintcount">3</span>
+      <button type="button" id="hint" title="Reveal a letter">Hint</button>
+    </div>
   </form>
 
   <!-- the reveal + next button -->

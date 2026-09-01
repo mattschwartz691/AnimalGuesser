@@ -236,6 +236,13 @@ def main():
             "animals": ordered,
         }, f, indent=1)
 
+    # Types drive the Hint button and must never go stale relative to the data.
+    try:
+        import add_types
+        add_types.main()
+    except Exception as e:
+        print(f"  WARNING: could not add type words ({e}); run scripts/add_types.py")
+
     print(f"\n{'='*60}\nWrote {OUT}")
     print(f"  kept    {len(ordered)}   ({time.time()-t0:.0f}s)")
     for t in ("easy", "medium", "hard", "death"):

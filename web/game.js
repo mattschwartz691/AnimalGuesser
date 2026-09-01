@@ -8,10 +8,12 @@ const el = {
   flash:$("flash"), guessbar:$("guessbar"), guess:$("guess"), submit:$("submit"),
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
+  hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
+const HINTS_PER_ANIMAL = 3;
 
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
@@ -21,6 +23,8 @@ let current = null;      // {animal, photo} on screen now
 let upcoming = null;     // {animal, photo} chosen + preloaded ahead of time
 let locked = false;      // true while a flash is on screen
 let score = 0, asked = 0;
+let hintsLeft = HINTS_PER_ANIMAL;  // resets with every new photo
+let revealed = 0;                  // letters of the type word shown so far
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -91,6 +95,49 @@ function isCorrect(input, animal) {
   return false;
 }
 
+/* ---------- hints ----------------------------------------------------------
+   The hint spells out the KIND of animal, not its full name: a Western
+   Diamond-backed Rattlesnake spells "snake". Every type word is also an
+   accepted answer, so a hint can never spell something the checker rejects. */
+function hintWord() {
+  return (current && current.animal && current.animal.type) || "";
+}
+
+// "snake" with 2 revealed -> "S N _ _ _"
+function renderHint() {
+  const w = hintWord();
+  if (!w || revealed === 0) { el.hintbox.classList.remove("show"); return; }
+  let seen = 0, out = [];
+  for (const ch of w) {
+    if (ch === " ") { out.push("  "); continue; }
+    if (!/[a-z0-9]/i.test(ch)) { out.push(ch); continue; }  // keep hyphens
+    out.push(seen < revealed ? ch.toUpperCase() : "_");
+    seen++;
+  }
+  el.hintword.textContent = out.join(" ");
+  el.hintbox.classList.add("show");
+}
+
+function updateHintButton() {
+  el.hintcount.textContent = hintsLeft;
+  el.hintcount.classList.toggle("spent", hintsLeft === 0);
+  const w = hintWord();
+  // nothing left to give once every letter is showing
+  const lettersLeft = w.replace(/[^a-z0-9]/gi, "").length > revealed;
+  el.hint.disabled = locked || hintsLeft === 0 || !lettersLeft;
+}
+
+function useHint() {
+  if (locked || hintsLeft === 0) return;
+  const total = hintWord().replace(/[^a-z0-9]/gi, "").length;
+  if (revealed >= total) return;
+  hintsLeft--;
+  revealed++;
+  renderHint();
+  updateHintButton();
+  if (!isTouch()) el.guess.focus();
+}
+
 /* ---------- round flow ----------------------------------------------------- */
 function shuffle(arr) {
   const a = arr.slice();
@@ -142,6 +189,9 @@ function newRound(triesLeft = 6) {
   el.photo.classList.remove("ready");
   el.spinner.classList.remove("hidden");
   el.credit.textContent = "";
+  hintsLeft = HINTS_PER_ANIMAL;
+  revealed = 0;
+  el.hintbox.classList.remove("show");
 
   if (!pool.length) {
     el.spinner.textContent = "No animals available for this difficulty.";
@@ -153,6 +203,7 @@ function newRound(triesLeft = 6) {
   upcoming = null;
   if (!current) { el.spinner.textContent = "No animals available."; return; }
   const photo = current.photo;
+  updateHintButton();
 
   el.spinner.textContent = "Loading photo…";
   el.photo.onload = () => {
@@ -189,6 +240,7 @@ function submitGuess(ev) {
   locked = true;
   el.guess.disabled = true;
   el.submit.disabled = true;
+  el.hint.disabled = true;
 
   const right = isCorrect(text, current.animal);
   asked++;
@@ -239,6 +291,7 @@ function closeSettings() {
 /* ---------- wire up -------------------------------------------------------- */
 el.guessbar.addEventListener("submit", submitGuess);
 el.next.addEventListener("click", () => newRound());
+el.hint.addEventListener("click", useHint);
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);

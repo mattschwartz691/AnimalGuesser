@@ -25,6 +25,22 @@ the game fetches its data file. The photos themselves stream from the internet.)
   green.
 - Click **Next →** for a new animal. Plays as long as you like.
 
+### Hints
+
+The **Hint** button sits to the right of the guess bar with a badge showing how
+many hints are left. Each press reveals one more letter above the photo:
+
+```
+KIND OF ANIMAL   S _ _ _ _      ->   S N _ _ _   ->   S N A _ _
+```
+
+You get **three hints per photo**, and the counter resets with each new animal.
+
+The hint spells the *kind* of animal rather than its full name — a Western
+Diamond-backed Rattlesnake spells `snake`, not the whole species name. Every
+type word is also an accepted answer, so a hint can never spell something the
+guess checker would then reject.
+
 Spelling is forgiven on longer words, and common alternative names are accepted
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`). Short words
 are matched strictly on purpose — at one edit apart, *mouse* and *moose* are
@@ -61,9 +77,18 @@ so it never calls an API while you play.
 python3 scripts/build_lookup.py   # ~10 min, rate-limited to be polite to iNaturalist
 ```
 
+Pass one or more scientific names to rebuild just those and merge them in.
+
 - `scripts/species.py` — the curated species list and accepted answers per tier
 - `scripts/build_lookup.py` — resolves each name, drops anything extinct or
   without a usable photo, writes `data/animals.json`
+- `scripts/add_types.py` — assigns each animal the category word the Hint button
+  spells out, and adds it to that animal's accepted answers. `build_lookup.py`
+  runs this automatically; run it alone after editing the type rules.
+
+Some names in `species.py` differ from iNaturalist's accepted taxonomy (it files
+the American bison under `Bos bison`). Those are mapped in `SCI_SYNONYMS`, and
+each mapping was checked by hand to be the same animal.
 
 ## Layout
 
