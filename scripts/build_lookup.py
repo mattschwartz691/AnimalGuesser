@@ -16,7 +16,7 @@ from species import TIERS
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "animals.json")
 PHOTOS_PER_ANIMAL = 8
-UA = "AnimalGuesser/1.0 (personal hobby game; mattschwartz691@gmail.com)"
+UA = "AnimalGuesser/1.0 (hobby game; +https://github.com/mattschwartz691/AnimalGuesser)"
 
 # Names where iNaturalist's accepted taxonomy differs from the one in species.py.
 # Each target was checked by hand to be the same animal (see README).
