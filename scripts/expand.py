@@ -13,7 +13,7 @@ tiers, aliases and multiple photos are better than anything derived here.
 
     python3 scripts/expand.py [target_count]
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import json, sys, os, re, sys, time, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
@@ -127,6 +127,8 @@ def tier_for(count):
 def main():
     target = int(sys.argv[1]) if len(sys.argv) > 1 else 30000
     d = json.load(open(DATA))
+    if d.get("v") == 2:
+        sys.exit("data/animals.json is packed; run: python3 scripts/pack.py --unpack")
     existing = {a["id"] for a in d["animals"]}
     curated = len(d["animals"])
     added, skipped, page = [], 0, 1

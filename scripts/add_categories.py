@@ -8,7 +8,7 @@ of its categories is toggled on.
 Taxonomic categories come from iNaturalist's group. Sea vs land is a habitat
 question that the taxonomy doesn't answer, so it is stated explicitly below.
 """
-import json, os, collections
+import json, sys, os, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
@@ -92,6 +92,8 @@ def categorise(a):
 
 def main():
     d = json.load(open(DATA))
+    if d.get("v") == 2:
+        sys.exit("data/animals.json is packed; run: python3 scripts/pack.py --unpack")
     for a in d["animals"]:
         a["cats"] = categorise(a)
     json.dump(d, open(DATA, "w"), indent=1)

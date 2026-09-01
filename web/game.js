@@ -142,55 +142,66 @@ function isCorrect(input, animal) {
 }
 
 /* ---------- hints ----------------------------------------------------------
-   The hint spells out the animal's full name. Each leading word costs one hint
-   and is revealed whole; the final word costs one hint per letter for its
-   first three. "Scarlet Macaw" is therefore 4 hints: one for SCARLET, then
-   M, A, C. */
+   Four hints. The first reveals the first letter of every word at once; each
+   one after that fills in the next letter, left to right, through the whole
+   name. "Scarlet Macaw" goes S...M, then C, then A, then R. */
+const MAX_HINTS = 4;
+const IS_LETTER = /[\p{L}\p{N}]/u;
+
 function hintName() {
   return (current && current.animal && current.animal.name) || "";
 }
 
-function hintWords() {
-  return hintName().split(/\s+/).filter(Boolean);
+// Every letter position in the name, flagged as word-initial or not.
+function letterSlots(name) {
+  const slots = [];
+  let atStart = true;
+  for (let i = 0; i < name.length; i++) {
+    const ch = name[i];
+    if (/\s/.test(ch)) { atStart = true; continue; }
+    if (IS_LETTER.test(ch)) { slots.push({i, initial: atStart}); atStart = false; }
+    // hyphens and apostrophes are shown as-is and don't start a new word
+  }
+  return slots;
 }
 
-// Unicode-aware so accented letters (Pere David's Deer) count as letters
-// rather than being revealed for free as punctuation.
-const IS_LETTER = /[\p{L}\p{N}]/u;
-const letters = (w) => [...w].filter(c => IS_LETTER.test(c)).length;
+// hint 1 = all word-initials; each later hint = one more letter in order
+function revealedSet(name, used) {
+  const shown = new Set();
+  if (used <= 0) return shown;
+  const slots = letterSlots(name);
+  for (const s of slots) if (s.initial) shown.add(s.i);
+  let budget = used - 1;
+  for (const s of slots) {
+    if (budget <= 0) break;
+    if (!s.initial) { shown.add(s.i); budget--; }
+  }
+  return shown;
+}
 
-// (words - 1) whole-word hints, then up to 3 letters of the last word
 function maxHints() {
-  const w = hintWords();
-  if (!w.length) return 0;
-  return (w.length - 1) + Math.min(3, letters(w[w.length - 1]));
+  const slots = letterSlots(hintName());
+  if (!slots.length) return 0;
+  const fillable = slots.filter(s => !s.initial).length;
+  return Math.min(MAX_HINTS, 1 + fillable);
 }
 
 function hintsLeft() {
   return Math.max(0, maxHints() - hintsUsed);
 }
 
-// blank out a word, keeping hyphens and apostrophes visible for shape
-function maskWord(word, showLetters) {
-  let seen = 0, out = [];
-  for (const ch of word) {
-    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
-    out.push(seen < showLetters ? ch.toUpperCase() : "_");
-    seen++;
-  }
-  return out.join(" ");
-}
-
 function renderHint() {
-  const w = hintWords();
-  if (!w.length || hintsUsed === 0) { el.hintbox.classList.remove("show"); return; }
-  const lead = w.length - 1;                       // words before the last
-  const wordsShown = Math.min(hintsUsed, lead);    // leading words revealed
-  const lettersShown = Math.max(0, hintsUsed - lead);
-  const parts = w.map((word, i) =>
-    i < lead ? maskWord(word, i < wordsShown ? letters(word) : 0)
-             : maskWord(word, lettersShown));
-  el.hintword.textContent = parts.join("   ");
+  const name = hintName();
+  if (!name || hintsUsed === 0) { el.hintbox.classList.remove("show"); return; }
+  const shown = revealedSet(name, hintsUsed);
+  const out = [];
+  for (let i = 0; i < name.length; i++) {
+    const ch = name[i];
+    if (/\s/.test(ch)) { out.push("  "); continue; }
+    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
+    out.push(shown.has(i) ? ch.toUpperCase() : "_");
+  }
+  el.hintword.textContent = out.join(" ");
   el.hintbox.classList.add("show");
 }
 
@@ -442,10 +453,33 @@ document.addEventListener("keydown", e => {
   if (e.key === "Escape") closeSettings();
 });
 
+// data/animals.json stores links to photographs, never the photographs
+// themselves, packed against a legend to keep the file small. Rebuild the
+// records the game works with.
+function unpack(d) {
+  if (d.v !== 2) return d.animals || [];
+  const L = d.L;
+  return d.a.map(([id, t, g, name, sci, extra, mask, photos]) => ({
+    id, tier: L.t[t], group: L.g[g], name, sci,
+    aliases: [name.toLowerCase(), ...extra],
+    cats: L.c.filter((_, i) => mask & (1 << i)).sort(),
+    photos: photos.map(([h, pid, e, cred, li, obs]) => {
+      const lic = L.l[li];
+      return {
+        url: h < 0 ? pid : L.h[h] + pid + "/large" + L.e[e],
+        credit: cred ? (lic ? "(c) " + cred + ", " + lic : cred) : "",
+        obs: typeof obs === "number"
+          ? (obs ? "https://www.inaturalist.org/observations/" + obs : "")
+          : (obs || ""),
+      };
+    }),
+  }));
+}
+
 fetch("../data/animals.json")
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(d => {
-    ALL = d.animals || [];
+    ALL = unpack(d);
     restoreCats();
     const saved = store.get("tier", "easy");
     setTier(TIER_LABEL[saved] ? saved : "easy");

@@ -28,21 +28,19 @@ the game fetches its data file. The photos themselves stream from the internet.)
 ### Hints
 
 The **Hint** button sits to the right of the guess bar, with a badge showing how
-many hints are left. The hint spells out the animal's **full name**: each word
-before the last costs one hint and is revealed whole, and the last word costs
-one hint per letter for its first three.
-
-`Scarlet Macaw` is therefore 4 hints — one for SCARLET, then M, A, C:
+many are left. You get **4 per photo**. The first reveals the first letter of
+every word at once; each one after that fills in the next letter, left to right,
+through the whole name.
 
 ```
 NAME   _ _ _ _ _ _ _   _ _ _ _ _
-NAME   S C A R L E T   _ _ _ _ _     (1)
-NAME   S C A R L E T   M _ _ _ _     (2)
-NAME   S C A R L E T   M A C _ _     (4)
+NAME   S _ _ _ _ _ _   M _ _ _ _     (1)
+NAME   S C _ _ _ _ _   M _ _ _ _     (2)
+NAME   S C A _ _ _ _   M _ _ _ _     (3)
+NAME   S C A R _ _ _   M _ _ _ _     (4)
 ```
 
-A one-word animal is 3 hints; `Western Diamond-backed Rattlesnake` is 5. The
-budget resets with every new photo.
+The budget resets with every new photo.
 
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
@@ -120,6 +118,26 @@ under each image. A handful of rarely-photographed deep-sea species fall back to
 a Wikimedia Commons photograph. No extinct species and no mythological
 creatures are included.
 
+## No photographs are stored here
+
+The repository contains **no image files** — only links. Every photo is fetched
+from iNaturalist's servers by your browser when it is shown.
+
+`data/animals.json` is a lookup table of those links, packed against a legend:
+the same host prefix appeared 27,000 times, the same licence sentence 13,000
+times, and every record repeated its JSON key names. Packing it took the file
+from 9.3 MB to 2.8 MB (1.2 MB gzipped) with no loss — unpack and repack is
+byte-for-byte identical, and photographer attribution is preserved in full.
+
+The game unpacks it on load in about 18 ms.
+
+```bash
+python3 scripts/pack.py            # verbose -> packed (what gets committed)
+python3 scripts/pack.py --unpack   # packed -> verbose, for the build scripts
+```
+
+The build scripts refuse to run against a packed file and tell you to unpack.
+
 ## Rebuilding the photo lookup table
 
 `data/animals.json` is a static lookup table: species, accepted names, and
@@ -137,6 +155,9 @@ Pass one or more scientific names to rebuild just those and merge them in.
   without a usable photo, writes `data/animals.json`
 - `scripts/add_types.py` — assigns each animal the category word the Hint button
   spells out, and adds it to that animal's accepted answers.
+- `scripts/expand.py` — pulls the most-photographed animals that have a common
+  name; pass a target count.
+- `scripts/pack.py` — packs/unpacks the data file.
 - `scripts/add_categories.py` — assigns the settings categories. Taxonomy comes
   from iNaturalist; sea-versus-land is a habitat question the taxonomy doesn't
   answer, so it is listed explicitly in that file.

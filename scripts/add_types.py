@@ -5,7 +5,7 @@
 a Western Diamondback Rattlesnake. It is always added to the animal's accepted
 answers, so a hint can never spell a word the guess checker would reject.
 """
-import json, os, re, sys, collections
+import json, sys, os, re, sys, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
@@ -124,6 +124,8 @@ def pick_type(animal):
 
 def main():
     d = json.load(open(DATA))
+    if d.get("v") == 2:
+        sys.exit("data/animals.json is packed; run: python3 scripts/pack.py --unpack")
     for a in d["animals"]:
         # keep a pristine copy so re-running never compounds earlier additions
         a.setdefault("_base_aliases", list(a["aliases"]))
