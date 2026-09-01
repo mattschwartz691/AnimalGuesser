@@ -16,7 +16,8 @@ const el = {
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
-const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs"];
+const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land",
+                  "bugs","nabirds"];
 
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
@@ -37,7 +38,7 @@ function worthNow() {
 let gen = 0;                       // bumped whenever what's on screen changes,
                                    // so a slow image load can't resurrect itself
 let hintsUsed = 0;                 // resets with every new photo
-let nounSolved = false;            // the noun is right, the full name isn't yet
+let solvedWords = new Set();       // indices of name words already guessed
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -166,13 +167,35 @@ function nounForms(animal) {
   return out;
 }
 
-// "full" | "noun" | "no"
+// The name split into normalised words: "Green Tree Frog" -> green, tree, frog
+function nameWords(animal) {
+  return (animal.name || "").split(/\s+/).map(normalize).filter(Boolean);
+}
+
+function wordMatches(guessWord, nameWord) {
+  if (guessWord === nameWord) return true;
+  for (const v of variants(nameWord)) if (v === guessWord) return true;
+  return closeEnough(guessWord, nameWord);
+}
+
+// -> {kind:"full"} | {kind:"words", words:Set<index>} | {kind:"no"}
 function judge(input, animal) {
   const guesses = variants(input);
-  if (!guesses.length) return "no";
-  if (matchesAny(guesses, fullForms(animal))) return "full";
-  if (matchesAny(guesses, nounForms(animal))) return "noun";
-  return "no";
+  if (!guesses.length) return {kind: "no"};
+  if (matchesAny(guesses, fullForms(animal))) return {kind: "full"};
+
+  // any word of the name that the guess names
+  const words = nameWords(animal);
+  const said = normalize(input).split(" ").filter(Boolean);
+  const hit = new Set();
+  words.forEach((w, i) => { if (said.some(g => wordMatches(g, w))) hit.add(i); });
+  if (hit.size) return {kind: "words", words: hit};
+
+  // a nickname that is not literally in the name ("hippo") stands for the noun
+  if (matchesAny(guesses, nounForms(animal)))
+    return {kind: "words", words: new Set([words.length - 1])};
+
+  return {kind: "no"};
 }
 
 /* ---------- hints ----------------------------------------------------------
@@ -205,13 +228,12 @@ function hintsLeft() {
 
 function renderHint() {
   const name = hintName();
-  if (!name || (hintsUsed === 0 && !nounSolved)) {
+  if (!name || (hintsUsed === 0 && solvedWords.size === 0)) {
     el.hintbox.classList.remove("show");
     el.hintscirow.classList.remove("show");
     return;
   }
   const words = hintWords();
-  const lastIndex = words.length - 1;
   // hint 1 only shows the blanks, so first letters start with hint 2
   const wordsShown = Math.min(Math.max(0, hintsUsed - 1), words.length);
   let wordIndex = 0, atStart = true, shownFirst = false, out = [];
@@ -220,7 +242,7 @@ function renderHint() {
     if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
     // the whole last word once its noun is guessed; otherwise only the first
     // letter of each word a hint has paid for
-    const wholeWord = nounSolved && wordIndex === lastIndex;
+    const wholeWord = solvedWords.has(wordIndex);
     const reveal = wholeWord || (atStart && !shownFirst && wordIndex < wordsShown);
     out.push(reveal ? ch.toUpperCase() : "_");
     if (atStart) shownFirst = true;
@@ -321,7 +343,7 @@ function newRound(triesLeft = 6) {
   el.spinner.classList.remove("hidden");
   el.credit.textContent = "";
   hintsUsed = 0;
-  nounSolved = false;
+  solvedWords = new Set();
   if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
@@ -377,30 +399,38 @@ function submitGuess(ev) {
   el.submit.disabled = true;
   el.hint.disabled = true;
 
-  const verdict = judge(text, current.animal);
+  const v = judge(text, current.animal);
+  let right = v.kind === "full";
 
-  // Naming only the noun is not the answer yet: reveal it, keep the round
-  // going, and let them work out the rest of the name.
-  if (verdict === "noun") {
-    nounSolved = true;
-    el.flash.textContent = "RIGHT ANIMAL — NOW THE FULL NAME";
-    el.flash.className = "part";
-    renderHint();
-    setTimeout(() => {
-      el.flash.className = "hidden";
-      el.guess.value = "";
-      el.guess.disabled = false;
-      el.submit.disabled = false;
-      locked = false;
-      updateHintButton();
-      if (!isTouch()) el.guess.focus();
-    }, FLASH_MS);
-    return;
+  // Naming any word of the name fills that word in and the round continues.
+  // Name every word and you have given the answer.
+  if (v.kind === "words") {
+    for (const i of v.words) solvedWords.add(i);
+    const total = hintWords().length;
+    if (solvedWords.size >= total) {
+      right = true;
+    } else {
+      renderHint();
+      const togo = total - solvedWords.size;
+      el.flash.textContent = togo === 1 ? "1 WORD TO GO" : togo + " WORDS TO GO";
+      el.flash.className = "part";
+      setTimeout(() => {
+        el.flash.className = "hidden";
+        el.guess.value = "";
+        el.guess.disabled = false;
+        el.submit.disabled = false;
+        el.giveup.disabled = false;
+        locked = false;
+        updateHintButton();
+        if (!isTouch()) el.guess.focus();
+      }, FLASH_MS);
+      return;
+    }
   }
 
   // A wrong guess spends a hint rather than ending the round. Only when the
   // hints run out does the answer come up.
-  if (verdict === "no" && hintsLeft() > 0) {
+  if (!right && hintsLeft() > 0) {
     hintsUsed++;
     renderHint();
     updateScore();
@@ -411,6 +441,7 @@ function submitGuess(ev) {
       el.guess.value = "";
       el.guess.disabled = false;
       el.submit.disabled = false;
+      el.giveup.disabled = false;
       locked = false;
       updateHintButton();
       if (!isTouch()) el.guess.focus();
@@ -418,7 +449,6 @@ function submitGuess(ev) {
     return;
   }
 
-  const right = verdict === "full";
   asked++;
   if (right) { correct++; score += worthNow(); }
   updateScore();

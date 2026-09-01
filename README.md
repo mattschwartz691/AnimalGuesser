@@ -27,18 +27,20 @@ the game fetches its data file. The photos themselves stream from the internet.)
   no hints, no flash — and scores nothing for that animal.
 - Click **Next →** for a new animal. Plays as long as you like.
 
-### Guessing the noun
+### Guessing a word at a time
 
-Naming the kind of animal is not the whole answer. Guess `crab` for a Land Crab
-and the noun is filled in for you, the rest of the name stays blank, and you
-keep guessing:
+Any word of the name that you say gets filled in, and the round continues.
+For a Green Tree Frog:
 
 ```
-NAME   _ _ _ _   C R A B
+guess "tree"    ->   _ _ _ _ _   T R E E   _ _ _ _
+guess "frog"    ->   _ _ _ _ _   T R E E   F R O G
+guess "green"   ->   correct
 ```
 
-`boat crab` gets you nothing, so the shortcut only pays when you are actually
-right about the animal. Only the full name (or the Latin name) scores.
+Name every word and you have given the answer, so `green tree frog` in one go
+works too, as does the Latin name. Part-guesses are free — they cost no hint,
+no point and no attempt.
 
 ### Scoring
 
@@ -86,6 +88,13 @@ switch everything off but **Mammals** and you will only be shown mammals.
 | Birds | Sea Animals |
 | Fish | Amphibians |
 | Land Animals | Bugs/Insects |
+| North American Birds | |
+
+**North American Birds** is not a taxonomic group, so it does not come from
+taxonomy: it is every bird with a research-grade *native* observation in
+iNaturalist's North America. The native filter is what keeps it honest — an
+emu, an ostrich and a kookaburra all have North American records from escapees
+and farms, and none of them belong in the category.
 
 The categories overlap on purpose, and an animal appears if *any* of its
 categories is on. A dolphin is a mammal **and** a sea animal; a sea turtle is a

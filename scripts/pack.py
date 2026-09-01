@@ -14,7 +14,8 @@ import json, os, re, sys, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
-CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs"]
+CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs",
+        "nabirds"]
 TIERS = ["easy","medium","hard","death"]
 
 URL_RE = re.compile(r"^(https://\S+?/photos/)(\d+)/large(\.?[A-Za-z]*)$")
