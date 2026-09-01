@@ -29,6 +29,7 @@ let score = 0, asked = 0;
 let gen = 0;                       // bumped whenever what's on screen changes,
                                    // so a slow image load can't resurrect itself
 let hintsUsed = 0;                 // resets with every new photo
+let nounSolved = false;            // the noun is right, the full name isn't yet
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -129,23 +130,47 @@ function acceptedSpaced(animal) {
   return [...set];
 }
 
-function isCorrect(input, animal) {
-  const guesses = variants(input);
-  if (!guesses.length) return false;
-  const ok = accepted(animal);
-  // exact match against every spelling variant, including space-stripped
-  for (const g of guesses) if (ok.includes(g)) return true;
-  // Fuzzy match only the canonical spaced forms. Comparing space-stripped
-  // phrases would make "domesticcat" a typo of "domesticgoat".
+function matchesAny(guesses, forms) {
+  const flat = new Set();
+  for (const f of forms) for (const v of variants(f)) flat.add(v);
+  for (const g of guesses) if (flat.has(g)) return true;
   const g0 = guesses[0];
-  for (const a of acceptedSpaced(animal)) if (closeEnough(g0, a)) return true;
+  for (const f of forms) {
+    const n = normalize(f);
+    if (n && closeEnough(g0, n)) return true;
+  }
   return false;
 }
 
+// The whole animal: its full name, or its scientific name.
+function fullForms(animal) {
+  return [animal.name, animal.sci].filter(Boolean);
+}
+
+// Just the noun: the last word of the name, plus any shorter nickname.
+// "crab" for a Land Crab -- right kind of animal, not yet the answer.
+function nounForms(animal) {
+  const words = (animal.name || "").split(/\s+/).filter(Boolean);
+  const out = [];
+  if (words.length > 1) out.push(words[words.length - 1]);
+  const full = normalize(animal.name);
+  for (const a of (animal.aliases || [])) if (normalize(a) !== full) out.push(a);
+  return out;
+}
+
+// "full" | "noun" | "no"
+function judge(input, animal) {
+  const guesses = variants(input);
+  if (!guesses.length) return "no";
+  if (matchesAny(guesses, fullForms(animal))) return "full";
+  if (matchesAny(guesses, nounForms(animal))) return "noun";
+  return "no";
+}
+
 /* ---------- hints ----------------------------------------------------------
-   One hint per word, revealing that word's first letter in turn, and then a
-   final hint that gives the Latin name. "Scarlet Macaw" is 3 hints: S, then
-   M, then Ara macao. A one-word animal is 2; a three-word animal is 4. */
+   Hint 1 shows how many letters are in each word. Then one hint per word,
+   revealing that word's first letter in turn. The last hint gives the Latin
+   name. "Scarlet Macaw" is 4 hints: the blanks, S, M, then Ara macao. */
 const IS_LETTER = /[\p{L}\p{N}]/u;
 
 function hintName() {
@@ -162,7 +187,8 @@ function hintWords() {
 function maxHints() {
   const w = hintWords();
   if (!w.length) return 0;
-  return w.length + (hintSci() ? 1 : 0);   // one per word, then the Latin name
+  // 1 for the letter counts, one per word, then the Latin name
+  return 1 + w.length + (hintSci() ? 1 : 0);
 }
 
 function hintsLeft() {
@@ -171,27 +197,32 @@ function hintsLeft() {
 
 function renderHint() {
   const name = hintName();
-  if (!name || hintsUsed === 0) {
+  if (!name || (hintsUsed === 0 && !nounSolved)) {
     el.hintbox.classList.remove("show");
     el.hintscirow.classList.remove("show");
     return;
   }
-  const wordsShown = Math.min(hintsUsed, hintWords().length);
+  const words = hintWords();
+  const lastIndex = words.length - 1;
+  // hint 1 only shows the blanks, so first letters start with hint 2
+  const wordsShown = Math.min(Math.max(0, hintsUsed - 1), words.length);
   let wordIndex = 0, atStart = true, shownFirst = false, out = [];
   for (const ch of name) {
     if (/\s/.test(ch)) { out.push("  "); atStart = true; wordIndex++; shownFirst = false; continue; }
     if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
-    // only the first letter of each revealed word
-    const reveal = atStart && !shownFirst && wordIndex < wordsShown;
+    // the whole last word once its noun is guessed; otherwise only the first
+    // letter of each word a hint has paid for
+    const wholeWord = nounSolved && wordIndex === lastIndex;
+    const reveal = wholeWord || (atStart && !shownFirst && wordIndex < wordsShown);
     out.push(reveal ? ch.toUpperCase() : "_");
-    if (reveal) shownFirst = true;
+    if (atStart) shownFirst = true;
     atStart = false;
   }
   el.hintword.textContent = out.join(" ");
   el.hintbox.classList.add("show");
 
   const sci = hintSci();
-  const showSci = sci && hintsUsed > hintWords().length;
+  const showSci = sci && hintsUsed > words.length + 1;
   el.hintsci.textContent = showSci ? sci : "";
   el.hintscirow.classList.toggle("show", !!showSci);
 }
@@ -276,6 +307,7 @@ function newRound(triesLeft = 6) {
   el.spinner.classList.remove("hidden");
   el.credit.textContent = "";
   hintsUsed = 0;
+  nounSolved = false;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
 
@@ -330,7 +362,28 @@ function submitGuess(ev) {
   el.submit.disabled = true;
   el.hint.disabled = true;
 
-  const right = isCorrect(text, current.animal);
+  const verdict = judge(text, current.animal);
+
+  // Naming only the noun is not the answer yet: reveal it, keep the round
+  // going, and let them work out the rest of the name.
+  if (verdict === "noun") {
+    nounSolved = true;
+    el.flash.textContent = "RIGHT ANIMAL — NOW THE FULL NAME";
+    el.flash.className = "part";
+    renderHint();
+    setTimeout(() => {
+      el.flash.className = "hidden";
+      el.guess.value = "";
+      el.guess.disabled = false;
+      el.submit.disabled = false;
+      locked = false;
+      updateHintButton();
+      if (!isTouch()) el.guess.focus();
+    }, FLASH_MS);
+    return;
+  }
+
+  const right = verdict === "full";
   asked++;
   if (right) score++;
   updateScore();

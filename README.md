@@ -25,24 +25,33 @@ the game fetches its data file. The photos themselves stream from the internet.)
   green.
 - Click **Next →** for a new animal. Plays as long as you like.
 
+### Guessing the noun
+
+Naming the kind of animal is not the whole answer. Guess `crab` for a Land Crab
+and the noun is filled in for you, the rest of the name stays blank, and you
+keep guessing:
+
+```
+NAME   _ _ _ _   C R A B
+```
+
+`boat crab` gets you nothing, so the shortcut only pays when you are actually
+right about the animal. Only the full name (or the Latin name) scores.
+
 ### Hints
 
 The **Hint** button sits to the right of the guess bar, with a badge showing how
-many are left. Each word of the name costs one hint and gives up its first
-letter, and one final hint reveals the Latin name.
+many are left. Hints still work while you are part-way there.
 
-```
-NAME   _ _ _ _ _ _ _   _ _ _ _ _
-NAME   S _ _ _ _ _ _   _ _ _ _ _     (1)
-NAME   S _ _ _ _ _ _   M _ _ _ _     (2)
-NAME   S _ _ _ _ _ _   M _ _ _ _     (3)
-LATIN  Ara macao
-```
+1. how many letters are in each word
+2. the first letter of the first word
+3. the first letter of the next word — and so on, one hint per word
+4. the Latin name
 
-So a two-word animal has 3 hints, a one-word animal 2, and
-`Western Diamond-backed Rattlesnake` 4. The budget resets with every new photo.
-The Latin name is itself an accepted answer, so the last hint is always enough
-to score.
+`Scarlet Macaw` therefore has 4 hints, `Lion` has 3, and
+`Western Diamond-backed Rattlesnake` has 5. The budget resets with every new
+photo, and the Latin name is an accepted answer, so the last hint always
+scores.
 
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
