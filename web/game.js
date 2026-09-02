@@ -17,6 +17,8 @@ const el = {
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
+// Unicode-aware so accented letters count as letters, not punctuation.
+const IS_LETTER = /[\p{L}\p{N}]/u;
 const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land",
                   "bugs","nabirds"];
 
@@ -202,6 +204,17 @@ function judge(input, animal) {
   const said = normalize(input).split(" ").filter(Boolean);
   const hit = new Set();
   words.forEach((w, i) => { if (said.some(g => wordMatches(g, w))) hit.add(i); });
+
+  // "longtoed" -- a hyphenated word typed with nothing between its halves.
+  // Match a guess against consecutive words run together and credit them all.
+  for (let i = 0; i < words.length; i++) {
+    let joined = "";
+    for (let j = i; j < words.length; j++) {
+      joined += words[j];
+      if (j > i && said.some(g => wordMatches(g, joined)))
+        for (let k = i; k <= j; k++) hit.add(k);
+    }
+  }
   if (hit.size) return {kind: "words", words: hit};
 
   // a nickname that is not literally in the name ("hippo") stands for the noun
@@ -215,8 +228,6 @@ function judge(input, animal) {
    Hint 1 shows how many letters are in each word. Then one hint per word,
    revealing that word's first letter in turn. The last hint gives the Latin
    name. "Scarlet Macaw" is 4 hints: the blanks, S, M, then Ara macao. */
-const IS_LETTER = /[\p{L}\p{N}]/u;
-
 function hintName() {
   return (current && current.animal && current.animal.name) || "";
 }

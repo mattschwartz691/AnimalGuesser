@@ -49,7 +49,13 @@ works too, as does the Latin name. Part-guesses are free — they cost no hint,
 no point and no attempt.
 
 A hyphen counts as a space, so `Western Diamond-backed Rattlesnake` is four
-words and `diamond` or `backed` each land on their own.
+words. You can take a hyphenated word in halves or whole, spelled any way:
+`diamond`, `backed`, `diamond-backed`, `diamond backed` and `diamondbacked`
+all land.
+
+Because words accumulate, you only ever have to supply what is missing — with
+`salamander` already up, `long-toed` finishes a Long-toed Salamander for full
+credit.
 
 ### Scoring
 
