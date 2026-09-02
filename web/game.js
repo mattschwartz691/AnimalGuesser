@@ -43,6 +43,7 @@ let solvedWords = new Set();       // indices of name words already guessed
 let countsShown = false;           // hint 1: how many letters per word
 let lettersShown = new Set();      // word indices whose first letter a hint paid for
 let latinShown = false;            // the final hint
+let revealAll = false;             // round over: show the whole name and Latin
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -261,7 +262,7 @@ function spendHint() {
 
 function renderHint() {
   const name = hintName();
-  if (!name || (!countsShown && solvedWords.size === 0)) {
+  if (!name || (!countsShown && solvedWords.size === 0 && !revealAll)) {
     el.hintbox.classList.remove("show");
     el.hintscirow.classList.remove("show");
     el.hintword.textContent = "";      // no stale shape from the last animal
@@ -281,7 +282,8 @@ function renderHint() {
     if (!IS_LETTER.test(ch)) { out.push(ch); continue; }   // apostrophes etc.
     if (!inWord) { inWord = true; wordIndex++; firstDone = false; }
     const whole = solvedWords.has(wordIndex);
-    const reveal = whole || (!firstDone && lettersShown.has(wordIndex));
+    const reveal = revealAll || whole ||
+                   (!firstDone && lettersShown.has(wordIndex));
     out.push(reveal ? ch.toUpperCase() : "_");
     firstDone = true;
   }
@@ -289,7 +291,7 @@ function renderHint() {
   el.hintbox.classList.add("show");
 
   const sci = hintSci();
-  const showSci = sci && latinShown;
+  const showSci = sci && (latinShown || revealAll);
   el.hintsci.textContent = showSci ? sci : "";
   el.hintscirow.classList.toggle("show", !!showSci);
 }
@@ -382,6 +384,7 @@ function newRound(triesLeft = 6) {
   countsShown = false;
   lettersShown = new Set();
   latinShown = false;
+  revealAll = false;
   if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
@@ -529,6 +532,9 @@ function submitGuess(ev) {
 // Show the animal's name with Next beside it, and end the round.
 function revealAnswer(right) {
   if (!current) return;
+  // fill the name in completely at the top, Latin name included
+  revealAll = true;
+  renderHint();
   el.guessbar.classList.add("hidden");
   const a = current.animal;
   el.answer.textContent = a.name;

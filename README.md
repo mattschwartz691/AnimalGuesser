@@ -29,6 +29,8 @@ the game fetches its data file. The photos themselves stream from the internet.)
   point, no attempt.
 - **Give up** sits at the right of the row. It shows the name straight away —
   no hints, no flash — and scores nothing for that animal.
+- When the round ends the name is filled in completely at the top, in blue,
+  with the Latin name under it, and the answer appears below the photo.
 - Click **Next →** for a new animal. Plays as long as you like.
 
 ### Guessing a word at a time
