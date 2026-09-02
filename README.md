@@ -23,6 +23,10 @@ the game fetches its data file. The photos themselves stream from the internet.)
   up in red with a **Next →** button beside it.
 - **Right** → a bold green `CORRECT!` for one second, then the same reveal in
   green.
+- **Bad photo** swaps in a different picture of the same animal, keeping
+  whatever you have already worked out. If that animal only has one photo it
+  moves on to another animal instead. Either way it costs nothing — no hint, no
+  point, no attempt.
 - **Give up** sits at the right of the row. It shows the name straight away —
   no hints, no flash — and scores nothing for that animal.
 - Click **Next →** for a new animal. Plays as long as you like.
@@ -143,6 +147,14 @@ Two tiers of data quality live in the file:
   categories derived from taxonomy. Sea-versus-land is inferred from
   wholly-marine clades, so a freshwater fish is simply not marked as a sea
   animal rather than being guessed at.
+
+### A note on the photos
+
+Some photos have more than one animal in them, or the animal half-hidden.
+There is no way to filter those automatically: iNaturalist records nothing
+about how many animals are in a frame — no observation field, no annotation —
+so telling would need image recognition over 27,000 photos. **Bad photo** is
+the answer instead: one click and you get another.
 
 ## The photos are real
 

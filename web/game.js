@@ -10,6 +10,7 @@ const el = {
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
+  badphoto:$("badphoto"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"),
@@ -263,6 +264,8 @@ function renderHint() {
   if (!name || (!countsShown && solvedWords.size === 0)) {
     el.hintbox.classList.remove("show");
     el.hintscirow.classList.remove("show");
+    el.hintword.textContent = "";      // no stale shape from the last animal
+    el.hintsci.textContent = "";
     return;
   }
   const words = hintWords();
@@ -297,6 +300,7 @@ function updateHintButton() {
   el.hintcount.classList.toggle("spent", left === 0);
   el.hint.disabled = locked || left === 0;
   el.giveup.disabled = locked;
+  el.badphoto.disabled = locked;
 }
 
 function useHint() {
@@ -363,7 +367,6 @@ function updateScore() {
 }
 
 function newRound(triesLeft = 6) {
-  const mine = ++gen;
   locked = false;
   el.flash.classList.add("hidden");
   el.flash.className = "hidden";
@@ -373,9 +376,7 @@ function newRound(triesLeft = 6) {
   el.guess.disabled = false;
   el.submit.disabled = false;
   el.giveup.disabled = false;
-  el.photo.classList.remove("ready");
-  el.spinner.classList.remove("hidden");
-  el.credit.textContent = "";
+  el.badphoto.disabled = false;
   hintsUsed = 0;
   solvedWords = new Set();
   countsShown = false;
@@ -388,16 +389,27 @@ function newRound(triesLeft = 6) {
   if (!pool.length) {
     el.spinner.textContent = "No animals available for this difficulty.";
     el.guessbar.classList.add("hidden");
+    el.photo.classList.remove("ready");
     return;
   }
 
   current = upcoming || draw();
   upcoming = null;
   if (!current) { el.spinner.textContent = "No animals available."; return; }
-  const photo = current.photo;
   updateHintButton();
+  loadPhoto(triesLeft);
+}
 
-  el.spinner.textContent = "Loading photo…";
+// Load whatever photo `current` points at. Kept separate from newRound so the
+// bad-photo button can swap the image without resetting the round.
+function loadPhoto(triesLeft = 6) {
+  const mine = ++gen;
+  const photo = current.photo;
+  el.photo.classList.remove("ready");
+  el.spinner.classList.remove("hidden");
+  el.spinner.textContent = "Loading photo\u2026";
+  el.credit.textContent = "";
+
   el.photo.onload = () => {
     if (mine !== gen) return;              // superseded while loading
     el.photo.classList.add("ready");
@@ -413,6 +425,19 @@ function newRound(triesLeft = 6) {
     else el.spinner.textContent = "Could not load a photo. Check your connection.";
   };
   el.photo.src = photo.url;
+}
+
+// "Bad photo": show a different picture of the same animal if there is one,
+// keeping whatever you have already worked out. If this animal only has the
+// one photo, move on to another animal. Either way it costs nothing.
+function badPhoto() {
+  if (locked || !current) return;
+  const others = (current.animal.photos || [])
+    .filter(p => p.url !== current.photo.url);
+  if (!others.length) { newRound(); return; }
+  current = {animal: current.animal,
+             photo: others[Math.floor(Math.random() * others.length)]};
+  loadPhoto();
 }
 
 function preloadNext() {
@@ -615,6 +640,7 @@ el.guessbar.addEventListener("submit", submitGuess);
 el.next.addEventListener("click", () => newRound());
 el.hint.addEventListener("click", useHint);
 el.giveup.addEventListener("click", giveUp);
+el.badphoto.addEventListener("click", badPhoto);
 for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
 el.allcats.addEventListener("click", () => setAllCats(true));
