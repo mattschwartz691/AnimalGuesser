@@ -13,7 +13,7 @@ const el = {
   badphoto:$("badphoto"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
-  correct:$("correct"), worth:$("worth"),
+  correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
 const FLASH_MS = 1000;
@@ -25,7 +25,7 @@ const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land",
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
 let bag = [];            // shuffled queue, so nothing repeats until exhausted
-let tier = "easy";
+let onTiers = new Set(["easy"]);   // difficulties currently ticked
 let onCats = new Set(ALL_CATS);   // categories currently toggled on
 let current = null;      // {animal, photo} on screen now
 let upcoming = null;     // {animal, photo} chosen + preloaded ahead of time
@@ -352,24 +352,31 @@ function inCats(a) {
 }
 
 function rebuildPool() {
-  pool = ALL.filter(a => a.tier === tier && inCats(a));
+  pool = ALL.filter(a => onTiers.has(a.tier) && inCats(a));
   bag = [];
   upcoming = null;
 }
 
-function setTier(t) {
-  tier = t;
-  store.set("tier", t);
+function tierLabel() {
+  const on = ["easy","medium","hard","death"].filter(t => onTiers.has(t));
+  if (!on.length) return "none";
+  if (on.length === 4) return "All levels";
+  return on.map(t => TIER_LABEL[t]).join(" + ");
+}
+
+function setTiers(save) {
+  onTiers = new Set([...document.querySelectorAll(".difftoggle")]
+    .filter(b => b.checked).map(b => b.dataset.tier));
+  if (save !== false) store.set("tiers", [...onTiers].join(","));
   rebuildPool();
   score = 0; asked = 0; correct = 0;
-  el.tierbadge.textContent = TIER_LABEL[t];
-  document.querySelectorAll(".diff").forEach(b =>
-    b.classList.toggle("active", b.dataset.tier === t));
+  el.tierbadge.textContent = tierLabel();
+  el.tierwarn.classList.toggle("hidden", onTiers.size > 0);
   updateScore();
-  updateCatCounts();
+  updateCounts();
   syncCatButtons();
   if (pool.length) { el.catwarn.classList.add("hidden"); newRound(); }
-  else applyCats(false);
+  else showEmpty();
 }
 
 function updateScore() {
@@ -585,15 +592,40 @@ function catBoxes() {
   return [...document.querySelectorAll(".cattoggle")];
 }
 
-function updateCatCounts() {
-  const n = {};
-  for (const a of ALL) if (a.tier === tier)
-    for (const c of (a.cats || [])) n[c] = (n[c] || 0) + 1;
-  for (const el2 of document.querySelectorAll(".catnum")) {
-    const c = el2.dataset.count;
-    el2.textContent = n[c] ? n[c] : "0";
-    el2.style.opacity = n[c] ? "" : ".4";
+// Category counts respect the ticked difficulties, and difficulty counts
+// respect the ticked categories, so each number says what you would get.
+function updateCounts() {
+  const byCat = {}, byTier = {};
+  for (const a of ALL) {
+    if (onTiers.has(a.tier))
+      for (const c of (a.cats || [])) byCat[c] = (byCat[c] || 0) + 1;
+    if (inCats(a)) byTier[a.tier] = (byTier[a.tier] || 0) + 1;
   }
+  const put = (nodes, key, src) => {
+    for (const node of nodes) {
+      const v = src[node.dataset[key]] || 0;
+      node.textContent = v;
+      node.style.opacity = v ? "" : ".4";
+    }
+  };
+  put(document.querySelectorAll(".catnum[data-count]"), "count", byCat);
+  put(document.querySelectorAll(".catnum[data-tiercount]"), "tiercount", byTier);
+}
+
+function showEmpty() {
+  gen++;
+  current = null;
+  el.spinner.textContent = onTiers.size === 0
+    ? "Pick at least one difficulty."
+    : (onCats.size === 0 ? "Nothing is selected — turn a category on."
+                         : "Nothing matches these difficulties and categories.");
+  el.spinner.classList.remove("hidden");
+  el.photo.classList.remove("ready");
+  el.photo.removeAttribute("src");
+  el.credit.textContent = "";
+  el.guessbar.classList.add("hidden");
+  el.reveal.classList.add("hidden");
+  el.hintbox.classList.remove("show");
 }
 
 // grey out whichever of the two would do nothing
@@ -611,26 +643,15 @@ function applyCats(save) {
   onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
   if (save !== false) store.set("cats", [...onCats].join(","));
   rebuildPool();
-  updateCatCounts();
+  updateCounts();
   syncCatButtons();
   const empty = pool.length === 0;
-  el.catwarn.classList.toggle("hidden", !empty);
+  el.catwarn.classList.toggle("hidden", !empty || onTiers.size === 0);
   el.catwarn.textContent = onCats.size === 0
     ? "Nothing is selected — turn a category on."
-    : "No " + TIER_LABEL[tier] + " animals match these categories.";
+    : "No animals match these categories.";
   if (!empty) newRound();
-  else {
-    gen++;                                 // cancel any pending photo load
-    current = null;
-    el.spinner.textContent = el.catwarn.textContent;
-    el.spinner.classList.remove("hidden");
-    el.photo.classList.remove("ready");
-    el.photo.removeAttribute("src");
-    el.credit.textContent = "";
-    el.guessbar.classList.add("hidden");
-    el.reveal.classList.add("hidden");
-    el.hintbox.classList.remove("show");
-  }
+  else showEmpty();
 }
 
 function restoreCats() {
@@ -665,8 +686,8 @@ el.nocats.addEventListener("click", () => setAllCats(false));
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);
-document.querySelectorAll(".diff").forEach(b =>
-  b.addEventListener("click", () => { setTier(b.dataset.tier); closeSettings(); }));
+for (const b of document.querySelectorAll(".difftoggle"))
+  b.addEventListener("change", () => setTiers());
 document.addEventListener("keydown", e => {
   if (e.key === "Escape") closeSettings();
 });
@@ -699,8 +720,11 @@ fetch("../data/animals.json")
   .then(d => {
     ALL = unpack(d);
     restoreCats();
-    const saved = store.get("tier", "easy");
-    setTier(TIER_LABEL[saved] ? saved : "easy");
+    const saved = (store.get("tiers", "easy") || "").split(",").filter(Boolean);
+    const want = new Set(saved.length ? saved : ["easy"]);
+    for (const b of document.querySelectorAll(".difftoggle"))
+      b.checked = want.has(b.dataset.tier);
+    setTiers(false);
   })
   .catch(err => {
     el.spinner.textContent =

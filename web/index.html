@@ -63,14 +63,11 @@
 <div id="overlay" class="hidden"></div>
 <aside id="settings" class="hidden" role="dialog" aria-label="Settings">
   <h2>Difficulty</h2>
-  <button class="diff" data-tier="easy">
-    <b>Easy</b><span>Everyone knows this animal</span></button>
-  <button class="diff" data-tier="medium">
-    <b>Medium</b><span>Most people know this animal</span></button>
-  <button class="diff" data-tier="hard">
-    <b>Hard</b><span>Few people know this animal</span></button>
-  <button class="diff death" data-tier="death">
-    <b>Death Mode</b><span>Almost nobody knows this animal</span></button>
+  <label class="diff"><input type="checkbox" class="difftoggle" data-tier="easy"><span class="box"></span><span class="difftext"><b>Easy</b><span>Everyone knows this animal</span></span><span class="catnum" data-tiercount="easy"></span></label>
+  <label class="diff"><input type="checkbox" class="difftoggle" data-tier="medium"><span class="box"></span><span class="difftext"><b>Medium</b><span>Most people know this animal</span></span><span class="catnum" data-tiercount="medium"></span></label>
+  <label class="diff"><input type="checkbox" class="difftoggle" data-tier="hard"><span class="box"></span><span class="difftext"><b>Hard</b><span>Few people know this animal</span></span><span class="catnum" data-tiercount="hard"></span></label>
+  <label class="diff death"><input type="checkbox" class="difftoggle" data-tier="death"><span class="box"></span><span class="difftext"><b>Death Mode</b><span>Almost nobody knows this animal</span></span><span class="catnum" data-tiercount="death"></span></label>
+  <div id="tierwarn" class="hidden">Pick at least one difficulty.</div>
   <h2 class="cathead">Categories</h2>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="mammals" checked><span class="switch"></span><span class="catname">Mammals</span><span class="catnum" data-count="mammals"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="reptiles" checked><span class="switch"></span><span class="catname">Reptiles</span><span class="catnum" data-count="reptiles"></span></label>

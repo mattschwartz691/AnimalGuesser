@@ -131,7 +131,12 @@ nothing is greyed out.
 Some combinations are empty — there are no Hard bugs — and the panel says so
 rather than leaving you on a blank screen.
 
-## Difficulty tiers
+## Difficulty
+
+The four levels are checkboxes, not a single choice — tick as many as you like
+and the game draws from all of them together. The header shows which are on
+("Easy + Medium"), and each row shows how many animals it holds under your
+current categories.
 
 | Tier | Meaning |
 |---|---|
@@ -139,6 +144,7 @@ rather than leaving you on a blank screen.
 | Medium | Most people know this animal |
 | Hard | Few people know this animal |
 | Death Mode | Almost nobody knows this animal |
+
 
 ## How many animals
 

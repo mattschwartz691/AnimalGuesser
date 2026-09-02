@@ -164,17 +164,34 @@ main{
 #settings h2{margin:4px 0 8px; font-size:15px; text-transform:uppercase;
   letter-spacing:1.5px; color:var(--dim); font-weight:600}
 .diff{
-  text-align:left; padding:13px 15px; cursor:pointer;
+  text-align:left; padding:11px 13px; cursor:pointer; user-select:none;
   background:#151a22; color:var(--ink);
   border:1px solid var(--line); border-radius:11px;
-  display:flex; flex-direction:column; gap:3px;
+  display:flex; align-items:center; gap:11px;
 }
-.diff b{font-size:16px}
-.diff span{font-size:12.5px; color:var(--dim)}
+.diff input{position:absolute; opacity:0; pointer-events:none}
+.difftext{display:flex; flex-direction:column; gap:2px; flex:1}
+.diff b{font-size:15.5px}
+.difftext span{font-size:12.5px; color:var(--dim)}
+.box{
+  flex:none; width:19px; height:19px; border-radius:5px;
+  border:2px solid #4a5666; position:relative; transition:.15s;
+}
+.box::after{
+  content:""; position:absolute; left:5px; top:1px;
+  width:5px; height:10px; border:solid #06101f; border-width:0 2px 2px 0;
+  transform:rotate(45deg) scale(0); transition:transform .15s;
+}
+.diff input:checked + .box{background:var(--accent); border-color:var(--accent)}
+.diff input:checked + .box::after{transform:rotate(45deg) scale(1)}
+.diff input:focus-visible + .box{outline:2px solid var(--accent); outline-offset:2px}
 .diff:hover{border-color:var(--accent)}
-.diff.active{border-color:var(--accent); background:#1d2a3d}
+.diff:has(input:checked){border-color:var(--accent); background:#1d2a3d}
 .diff.death b{color:#ff6b6b}
-.diff.death.active{border-color:#ff6b6b; background:#2e1a1e}
+.diff.death input:checked + .box{background:#ff6b6b; border-color:#ff6b6b}
+.diff.death:has(input:checked){border-color:#ff6b6b; background:#2e1a1e}
+#tierwarn{margin:6px 2px 0; font-size:12.5px; color:#ff6b6b; line-height:1.5}
+#tierwarn.hidden{display:none}
 .cathead{margin-top:18px !important}
 .cat{
   display:flex; align-items:center; gap:11px; cursor:pointer;
