@@ -106,13 +106,18 @@ switch everything off but **Mammals** and you will only be shown mammals.
 | Birds | Sea Animals |
 | Fish | Amphibians |
 | Land Animals | Bugs/Insects |
-| North American Birds | Felines |
-| Cat Breeds | |
+| United States Birds | Felines |
+| Cat Breeds | Dog Breeds |
 
 **Felines** is every cat in the game — 26 of them, from the lion to Geoffroy's
 Cat. Membership comes from the taxonomy (family Felidae), not from names, which
 is what keeps tiger *moths*, leopard *frogs*, lynx *spiders* and sea *lions*
 out of it.
+
+**Dog Breeds** is 390 breeds, built the same way as the cats from the FCI
+(international kennel federation) list plus the German, British and American
+origin categories, which is where a few household breeds like the dachshund
+sit. Extinct breeds are excluded, as everywhere else in the game.
 
 **Cat Breeds** is 84 domestic breeds, from the Maine Coon to the Ukrainian
 Levkoy. These cannot come from iNaturalist at all — a breed is not a rank of
@@ -123,9 +128,9 @@ photographer) and its readership for difficulty, ranked against the other
 breeds so every level is playable. Breeds carry no Latin name, since every one
 of them is *Felis catus* — that also means they have one hint fewer.
 
-**North American Birds** is not a taxonomic group, so it does not come from
+**United States Birds** is not a taxonomic group, so it does not come from
 taxonomy: it is every bird with a research-grade *native* observation in
-iNaturalist's North America. The native filter is what keeps it honest — an
+iNaturalist's United States — 808 of them. The native filter is what keeps it honest — an
 emu, an ostrich and a kookaburra all have North American records from escapees
 and farms, and none of them belong in the category.
 

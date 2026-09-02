@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
-"""Add domestic cat breeds as a `catbreeds` category.
+"""Add domestic breeds as their own category.
 
-iNaturalist cannot supply these: breeds are not taxonomic ranks, so
-`Felis catus` has no children and searching it for "Maine Coon" returns
-nothing. The source here is Wikipedia's Category:Cat breeds -- each article's
-lead photograph, which is a real photograph of a real cat.
+iNaturalist cannot supply these: a breed is not a taxonomic rank, so
+`Felis catus` has no children there and searching it for "Maine Coon"
+returns nothing. The source is Wikipedia -- each breed article's lead
+photograph, which is a real photograph of a real animal.
 
-Difficulty comes from how often people read the article, the same idea as
-using observation counts for the wild animals.
+Difficulty comes from how widely the article is read, ranked against the
+other breeds so every level stays playable.
 
-    python3 scripts/add_cat_breeds.py
+    python3 scripts/add_breeds.py cats
+    python3 scripts/add_breeds.py dogs
 """
 import json, os, re, sys, time, urllib.parse, urllib.request
 from datetime import date, timedelta
@@ -17,7 +18,29 @@ from datetime import date, timedelta
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
 UA = "AnimalGuesser/1.0 (hobby game; +https://github.com/mattschwartz691/AnimalGuesser)"
-ID_BASE = 900000000          # far above any iNaturalist taxon id
+# Each breed set gets its own id range, far above any iNaturalist taxon id,
+# so re-running one never disturbs the other.
+BREEDS = {
+    "cats": {
+        "key": "catbreeds", "id_base": 900000000,
+        "include": ["Category:Cat breeds"], "exclude": [],
+        "cats": ["catbreeds", "felines", "land", "mammals"],
+    },
+    "dogs": {
+        "key": "dogbreeds", "id_base": 910000000,
+        # FCI is the international kennel federation's recognised list; the
+        # plain "Category:Dog breeds" holds only meta articles.
+        # FCI is the international federation's recognised list; a few
+        # household breeds (the dachshund) sit outside it, so the German and
+        # British origin categories fill those gaps.
+        "include": ["Category:FCI breeds",
+                    "Category:Dog breeds originating in Germany",
+                    "Category:Dog breeds originating in the United Kingdom",
+                    "Category:Dog breeds originating in the United States"],
+        "exclude": ["Category:Extinct dog breeds"],
+        "cats": ["dogbreeds", "land", "mammals"],
+    },
+}
 
 
 def get(url):
@@ -26,11 +49,11 @@ def get(url):
         return json.load(r)
 
 
-def breed_titles():
+def members(category):
     out, cont = [], None
     while True:
         q = {"action": "query", "list": "categorymembers",
-             "cmtitle": "Category:Cat breeds", "cmlimit": "500",
+             "cmtitle": category, "cmlimit": "500",
              "cmtype": "page", "format": "json"}
         if cont:
             q["cmcontinue"] = cont
@@ -40,8 +63,29 @@ def breed_titles():
         if not cont:
             break
         time.sleep(0.4)
-    # drop the list/meta articles, keep actual breeds
-    return [t for t in out if not t.lower().startswith(("list of", "category:"))]
+    return out
+
+
+def breed_titles(cfg):
+    keep = []
+    for c in cfg["include"]:
+        keep += members(c)
+    drop = set()
+    for c in cfg["exclude"]:
+        drop |= set(members(c))          # no extinct breeds, as everywhere else
+    seen, out = set(), []
+    for t in keep:
+        if t in drop or t in seen:
+            continue
+        # Drop index articles, but keep breeds whose title merely carries a
+        # "(dog breed)" disambiguator -- that filter had been throwing away
+        # Boxer, Chihuahua, Akita, Pointer and ten others.
+        low = t.lower()
+        if low.startswith(("list of", "category:")) or low.endswith(" dog breeds"):
+            continue
+        seen.add(t)
+        out.append(t)
+    return out
 
 
 def views(title):
@@ -97,13 +141,18 @@ def tiers_by_rank(views_list):
 
 
 def main():
+    which = sys.argv[1] if len(sys.argv) > 1 else ""
+    if which not in BREEDS:
+        sys.exit(__doc__)
+    cfg = BREEDS[which]
+    lo, hi = cfg["id_base"], cfg["id_base"] + 9999999
     d = json.load(open(DATA))
     if d.get("v") == 2:
         sys.exit("data/animals.json is packed; run: python3 scripts/pack.py --unpack")
-    d["animals"] = [a for a in d["animals"] if a["id"] < ID_BASE]   # idempotent
+    d["animals"] = [a for a in d["animals"] if not (lo <= a["id"] <= hi)]  # idempotent
 
-    titles = breed_titles()
-    print(f"Category:Cat breeds -> {len(titles)} breed articles\n")
+    titles = breed_titles(cfg)
+    print(f"{which}: {len(titles)} breed articles\n")
     added, skipped, seen = [], [], set()
     for n, t in enumerate(titles, 1):
         try:
@@ -120,16 +169,17 @@ def main():
         img = ((s.get("originalimage") or {}).get("source") or "").split("?")[0]
         if not img.lower().endswith((".jpg", ".jpeg")):
             skipped.append((t, "no photograph")); continue
-        # "Abyssinian cat" -> "Abyssinian"; keep names like "Turkish Van" whole
-        name = re.sub(r"\s+\(cat\)$", "", s.get("title") or t)
-        name = re.sub(r"\s+cat$", "", name).strip()
+        # "Abyssinian cat" -> "Abyssinian", but "Bernese Mountain Dog" keeps its
+        # Dog: only a lower-case trailing word is a disambiguator, not a name.
+        name = re.sub(r"\s*\((?:cat|dog)(?: breed)?\)$", "", s.get("title") or t)
+        name = re.sub(r"\s+(?:cat|dog)$", "", name).strip()
         v = views(canon)          # views must be read off the real article
         added.append({
-            "id": ID_BASE + n, "tier": "death", "name": name, "sci": "",
+            "id": cfg["id_base"] + n, "tier": "death", "name": name, "sci": "",
             "obs": v,
             "aliases": sorted({name.lower(), name.lower() + " cat"}),
             "group": "Mammalia",
-            "cats": ["catbreeds", "felines", "land", "mammals"],
+            "cats": list(cfg["cats"]),
             "photos": [{"url": img, "credit": credit_for(img),
                         "obs": s.get("content_urls", {}).get("desktop", {}).get("page", "")}],
         })
