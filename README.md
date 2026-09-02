@@ -107,11 +107,21 @@ switch everything off but **Mammals** and you will only be shown mammals.
 | Fish | Amphibians |
 | Land Animals | Bugs/Insects |
 | North American Birds | Felines |
+| Cat Breeds | |
 
 **Felines** is every cat in the game — 26 of them, from the lion to Geoffroy's
 Cat. Membership comes from the taxonomy (family Felidae), not from names, which
 is what keeps tiger *moths*, leopard *frogs*, lynx *spiders* and sea *lions*
 out of it.
+
+**Cat Breeds** is 84 domestic breeds, from the Maine Coon to the Ukrainian
+Levkoy. These cannot come from iNaturalist at all — a breed is not a rank of
+taxonomy, so `Felis catus` has no children there and searching it for "Maine
+Coon" returns nothing. They come from Wikipedia's Category:Cat breeds instead,
+using each article's lead photograph (a real photograph, credited to the
+photographer) and its readership for difficulty, ranked against the other
+breeds so every level is playable. Breeds carry no Latin name, since every one
+of them is *Felis catus* — that also means they have one hint fewer.
 
 **North American Birds** is not a taxonomic group, so it does not come from
 taxonomy: it is every bird with a research-grade *native* observation in
