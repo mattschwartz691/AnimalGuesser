@@ -20,7 +20,7 @@ const FLASH_MS = 1000;
 // Unicode-aware so accented letters count as letters, not punctuation.
 const IS_LETTER = /[\p{L}\p{N}]/u;
 const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land",
-                  "bugs","nabirds"];
+                  "bugs","nabirds","felines"];
 
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier

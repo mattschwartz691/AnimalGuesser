@@ -106,7 +106,12 @@ switch everything off but **Mammals** and you will only be shown mammals.
 | Birds | Sea Animals |
 | Fish | Amphibians |
 | Land Animals | Bugs/Insects |
-| North American Birds | |
+| North American Birds | Felines |
+
+**Felines** is every cat in the game — 26 of them, from the lion to Geoffroy's
+Cat. Membership comes from the taxonomy (family Felidae), not from names, which
+is what keeps tiger *moths*, leopard *frogs*, lynx *spiders* and sea *lions*
+out of it.
 
 **North American Birds** is not a taxonomic group, so it does not come from
 taxonomy: it is every bird with a research-grade *native* observation in

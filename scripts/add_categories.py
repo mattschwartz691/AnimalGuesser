@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "animals.json")
 
 CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land","bugs",
-        "nabirds"]
+        "nabirds","felines"]
 
 # --- fish that iNaturalist files under the generic "Animalia" -----------------
 FISH_SCI = {
@@ -96,9 +96,10 @@ def main():
     if d.get("v") == 2:
         sys.exit("data/animals.json is packed; run: python3 scripts/pack.py --unpack")
     for a in d["animals"]:
-        # `nabirds` comes from iNaturalist's place index, not from taxonomy,
-        # so it is preserved rather than recomputed here.
-        keep = [c for c in (a.get("cats") or []) if c == "nabirds"]
+        # These come from iNaturalist's place index and taxonomy rather than
+        # from the rules below, so they are preserved, not recomputed.
+        EXTERNAL = {"nabirds", "felines"}
+        keep = [c for c in (a.get("cats") or []) if c in EXTERNAL]
         a["cats"] = sorted(set(categorise(a) + keep))
     json.dump(d, open(DATA, "w"), indent=1)
     n = collections.Counter(c for a in d["animals"] for c in a["cats"])
