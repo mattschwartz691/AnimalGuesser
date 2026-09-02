@@ -42,6 +42,9 @@ Name every word and you have given the answer, so `green tree frog` in one go
 works too, as does the Latin name. Part-guesses are free — they cost no hint,
 no point and no attempt.
 
+A hyphen counts as a space, so `Western Diamond-backed Rattlesnake` is four
+words and `diamond` or `backed` each land on their own.
+
 ### Scoring
 
 Every animal starts out worth **5 points**. Each hint you take costs one, down
@@ -58,6 +61,9 @@ many are left. Hints still work while you are part-way there.
 2. the first letter of the first word
 3. the first letter of the next word — and so on, one hint per word
 4. the Latin name
+
+Hints skip anything you have already worked out: guess `tree` on a Green Tree
+Frog and no hint will be spent revealing a letter of TREE.
 
 `Scarlet Macaw` therefore has 4 hints, `Lion` has 3, and
 `Western Diamond-backed Rattlesnake` has 5. The budget resets with every new

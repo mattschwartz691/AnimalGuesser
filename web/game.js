@@ -39,6 +39,9 @@ let gen = 0;                       // bumped whenever what's on screen changes,
                                    // so a slow image load can't resurrect itself
 let hintsUsed = 0;                 // resets with every new photo
 let solvedWords = new Set();       // indices of name words already guessed
+let countsShown = false;           // hint 1: how many letters per word
+let lettersShown = new Set();      // word indices whose first letter a hint paid for
+let latinShown = false;            // the final hint
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -168,8 +171,16 @@ function nounForms(animal) {
 }
 
 // The name split into normalised words: "Green Tree Frog" -> green, tree, frog
+// A hyphen is a word break like a space, so "Diamond-backed" is two words and
+// guessing either half counts. Tokens without a letter (a stray "&") are
+// dropped so word numbering matches what the display walks over.
+const WORD_BREAK = /[\s\u2010-\u2015-]+/;
+function splitName(name) {
+  return (name || "").split(WORD_BREAK).filter(w => IS_LETTER.test(w));
+}
+
 function nameWords(animal) {
-  return (animal.name || "").split(/\s+/).map(normalize).filter(Boolean);
+  return splitName(animal.name).map(normalize);
 }
 
 function wordMatches(guessWord, nameWord) {
@@ -212,23 +223,44 @@ function hintSci() {
 }
 
 function hintWords() {
-  return hintName().split(/\s+/).filter(Boolean);
+  return splitName(hintName());
 }
 
-function maxHints() {
-  const w = hintWords();
-  if (!w.length) return 0;
-  // 1 for the letter counts, one per word, then the Latin name
-  return 1 + w.length + (hintSci() ? 1 : 0);
+// What the next hint would buy. A word you have already guessed is skipped --
+// paying to reveal a letter you can see would be wasted.
+function nextHint() {
+  if (!countsShown) return {type: "counts"};
+  const words = hintWords();
+  for (let i = 0; i < words.length; i++)
+    if (!solvedWords.has(i) && !lettersShown.has(i)) return {type: "letter", i};
+  if (hintSci() && !latinShown) return {type: "latin"};
+  return null;
 }
 
 function hintsLeft() {
-  return Math.max(0, maxHints() - hintsUsed);
+  if (!hintName()) return 0;
+  let n = countsShown ? 0 : 1;
+  const words = hintWords();
+  for (let i = 0; i < words.length; i++)
+    if (!solvedWords.has(i) && !lettersShown.has(i)) n++;
+  if (hintSci() && !latinShown) n++;
+  return n;
+}
+
+// Spend one hint. Returns false if there was nothing left to buy.
+function spendHint() {
+  const t = nextHint();
+  if (!t) return false;
+  hintsUsed++;                       // scoring counts every hint spent
+  if (t.type === "counts") countsShown = true;
+  else if (t.type === "letter") lettersShown.add(t.i);
+  else latinShown = true;
+  return true;
 }
 
 function renderHint() {
   const name = hintName();
-  if (!name || (hintsUsed === 0 && solvedWords.size === 0)) {
+  if (!name || (!countsShown && solvedWords.size === 0)) {
     el.hintbox.classList.remove("show");
     el.hintscirow.classList.remove("show");
     return;
@@ -236,23 +268,25 @@ function renderHint() {
   const words = hintWords();
   // hint 1 only shows the blanks, so first letters start with hint 2
   const wordsShown = Math.min(Math.max(0, hintsUsed - 1), words.length);
-  let wordIndex = 0, atStart = true, shownFirst = false, out = [];
+  let wordIndex = -1, inWord = false, firstDone = false, out = [];
   for (const ch of name) {
-    if (/\s/.test(ch)) { out.push("  "); atStart = true; wordIndex++; shownFirst = false; continue; }
-    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }
-    // the whole last word once its noun is guessed; otherwise only the first
-    // letter of each word a hint has paid for
-    const wholeWord = solvedWords.has(wordIndex);
-    const reveal = wholeWord || (atStart && !shownFirst && wordIndex < wordsShown);
+    if (WORD_BREAK.test(ch)) {                 // space or hyphen ends a word
+      out.push(/\s/.test(ch) ? "  " : ch);
+      inWord = false;
+      continue;
+    }
+    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }   // apostrophes etc.
+    if (!inWord) { inWord = true; wordIndex++; firstDone = false; }
+    const whole = solvedWords.has(wordIndex);
+    const reveal = whole || (!firstDone && lettersShown.has(wordIndex));
     out.push(reveal ? ch.toUpperCase() : "_");
-    if (atStart) shownFirst = true;
-    atStart = false;
+    firstDone = true;
   }
   el.hintword.textContent = out.join(" ");
   el.hintbox.classList.add("show");
 
   const sci = hintSci();
-  const showSci = sci && hintsUsed > words.length + 1;
+  const showSci = sci && latinShown;
   el.hintsci.textContent = showSci ? sci : "";
   el.hintscirow.classList.toggle("show", !!showSci);
 }
@@ -266,8 +300,8 @@ function updateHintButton() {
 }
 
 function useHint() {
-  if (locked || hintsLeft() === 0) return;
-  hintsUsed++;
+  if (locked) return;
+  if (!spendHint()) return;
   renderHint();
   updateHintButton();
   updateScore();
@@ -344,6 +378,9 @@ function newRound(triesLeft = 6) {
   el.credit.textContent = "";
   hintsUsed = 0;
   solvedWords = new Set();
+  countsShown = false;
+  lettersShown = new Set();
+  latinShown = false;
   if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
@@ -431,7 +468,7 @@ function submitGuess(ev) {
   // A wrong guess spends a hint rather than ending the round. Only when the
   // hints run out does the answer come up.
   if (!right && hintsLeft() > 0) {
-    hintsUsed++;
+    spendHint();
     renderHint();
     updateScore();
     el.flash.textContent = "WRONG ANSWER!";
