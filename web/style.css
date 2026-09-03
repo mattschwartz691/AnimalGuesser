@@ -64,6 +64,33 @@ main{
 #photo{width:100%; height:100%; object-fit:contain; display:none}
 #photo.ready{display:block}
 #spinner{color:var(--dim); font-size:14px}
+
+/* full-screen button, bottom-right of the photo */
+#fullscreen{
+  position:absolute; right:10px; bottom:10px; z-index:2;
+  width:34px; height:34px; padding:0;
+  display:none; align-items:center; justify-content:center;
+  font-size:16px; line-height:1; color:#e6edf6;
+  background:rgba(11,14,19,.6); border:1px solid rgba(255,255,255,.25);
+  border-radius:8px; cursor:pointer;
+  transition:background .15s, border-color .15s;
+}
+#fullscreen.show{display:flex}
+#fullscreen:hover{background:rgba(11,14,19,.88); border-color:rgba(255,255,255,.5)}
+#fullscreen:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+/* in full screen the stage is the whole window, so drop the 4:3 frame */
+#stage:fullscreen{
+  aspect-ratio:auto; width:100vw; height:100vh;
+  border:0; border-radius:0; background:#000;
+}
+#stage:-webkit-full-screen{
+  aspect-ratio:auto; width:100vw; height:100vh;
+  border:0; border-radius:0; background:#000;
+}
+#stage:fullscreen #fullscreen, #stage:-webkit-full-screen #fullscreen{
+  right:18px; bottom:18px;
+}
 #spinner.hidden{display:none}
 #credit{
   color:#6b7889; font-size:11px; margin-top:7px; text-align:center;

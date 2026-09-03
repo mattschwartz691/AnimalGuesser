@@ -10,7 +10,7 @@ const el = {
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
-  badphoto:$("badphoto"),
+  badphoto:$("badphoto"), fullscreen:$("fullscreen"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
@@ -427,6 +427,7 @@ function loadPhoto(triesLeft = 6) {
   const mine = ++gen;
   const photo = current.photo;
   el.photo.classList.remove("ready");
+  el.fullscreen.classList.remove("show");
   el.spinner.classList.remove("hidden");
   el.spinner.textContent = "Loading photo\u2026";
   el.credit.textContent = "";
@@ -435,6 +436,7 @@ function loadPhoto(triesLeft = 6) {
     if (mine !== gen) return;              // superseded while loading
     el.photo.classList.add("ready");
     el.spinner.classList.add("hidden");
+    el.fullscreen.classList.add("show");
     el.credit.textContent = "Photo: " + (photo.credit || "iNaturalist");
     if (!isTouch()) el.guess.focus();
     preloadNext();
@@ -459,6 +461,26 @@ function badPhoto() {
   current = {animal: current.animal,
              photo: others[Math.floor(Math.random() * others.length)]};
   loadPhoto();
+}
+
+// Blow the photo up to the whole screen. Guessing pauses while you are in
+// there -- Escape or the button brings you back to the game.
+function toggleFullscreen() {
+  const on = document.fullscreenElement || document.webkitFullscreenElement;
+  if (on) {
+    (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+  } else {
+    const req = el.stage.requestFullscreen || el.stage.webkitRequestFullscreen;
+    if (req) req.call(el.stage);
+  }
+}
+
+function syncFullscreen() {
+  const on = !!(document.fullscreenElement || document.webkitFullscreenElement);
+  el.fullscreen.textContent = on ? "\u2715" : "\u26F6";
+  el.fullscreen.title = on ? "Exit full screen" : "Full screen";
+  el.fullscreen.setAttribute("aria-label", el.fullscreen.title);
+  if (!on && !isTouch() && !locked) el.guess.focus();
 }
 
 function preloadNext() {
@@ -679,6 +701,9 @@ el.next.addEventListener("click", () => newRound());
 el.hint.addEventListener("click", useHint);
 el.giveup.addEventListener("click", giveUp);
 el.badphoto.addEventListener("click", badPhoto);
+el.fullscreen.addEventListener("click", toggleFullscreen);
+for (const ev of ["fullscreenchange", "webkitfullscreenchange"])
+  document.addEventListener(ev, syncFullscreen);
 for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
 el.allcats.addEventListener("click", () => setAllCats(true));
