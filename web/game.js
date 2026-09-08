@@ -44,7 +44,8 @@ let hintsUsed = 0;                 // resets with every new photo
 let solvedWords = new Set();       // indices of name words already guessed
 let countsShown = false;           // hint 1: how many letters per word
 let lettersShown = new Set();      // word indices whose first letter a hint paid for
-let latinShown = false;            // the final hint
+let latinShown = false;            // the last of the ordered hints
+let randomShown = new Set();       // letter positions filled in at random
 let revealAll = false;             // round over: show the whole name and Latin
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
@@ -226,8 +227,11 @@ function judge(input, animal) {
 
 /* ---------- hints ----------------------------------------------------------
    Hint 1 shows how many letters are in each word. Then one hint per word,
-   revealing that word's first letter in turn. The last hint gives the Latin
-   name. "Scarlet Macaw" is 4 hints: the blanks, S, M, then Ara macao. */
+   revealing that word's first letter in turn, then the Latin name. After
+   those, every further hint fills in one more letter picked at random from
+   whatever is still hidden, until the whole name is on the board.
+   "Scarlet Macaw" is 4 ordered hints -- the blanks, S, M, Ara macao -- and
+   then 10 random ones, one per remaining letter. */
 function hintName() {
   return (current && current.animal && current.animal.name) || "";
 }
@@ -239,6 +243,28 @@ function hintWords() {
   return splitName(hintName());
 }
 
+// Every letter of the name as {pos, word, first}, where pos counts letters
+// only -- punctuation and the gaps between words do not take a slot.
+function letterSlots() {
+  const out = [];
+  let word = -1, inWord = false, pos = -1;
+  for (const ch of hintName()) {
+    if (WORD_BREAK.test(ch)) { inWord = false; continue; }
+    if (!IS_LETTER.test(ch)) continue;              // apostrophes, dots
+    if (!inWord) { inWord = true; word++; }
+    out.push({pos: ++pos, word, first: out.length === 0 || out[out.length - 1].word !== word});
+  }
+  return out;
+}
+
+// Letters a random hint is still allowed to fill in. First letters are left
+// out: an ordered hint either has revealed one already or is about to, so
+// counting it here would charge for the same letter twice.
+function randomPool() {
+  return letterSlots().filter(sl =>
+    !sl.first && !solvedWords.has(sl.word) && !randomShown.has(sl.pos));
+}
+
 // What the next hint would buy. A word you have already guessed is skipped --
 // paying to reveal a letter you can see would be wasted.
 function nextHint() {
@@ -247,6 +273,8 @@ function nextHint() {
   for (let i = 0; i < words.length; i++)
     if (!solvedWords.has(i) && !lettersShown.has(i)) return {type: "letter", i};
   if (hintSci() && !latinShown) return {type: "latin"};
+  const pool = randomPool();
+  if (pool.length) return {type: "random", pool};
   return null;
 }
 
@@ -257,7 +285,7 @@ function hintsLeft() {
   for (let i = 0; i < words.length; i++)
     if (!solvedWords.has(i) && !lettersShown.has(i)) n++;
   if (hintSci() && !latinShown) n++;
-  return n;
+  return n + randomPool().length;
 }
 
 // Spend one hint. Returns false if there was nothing left to buy.
@@ -267,7 +295,8 @@ function spendHint() {
   hintsUsed++;                       // scoring counts every hint spent
   if (t.type === "counts") countsShown = true;
   else if (t.type === "letter") lettersShown.add(t.i);
-  else latinShown = true;
+  else if (t.type === "latin") latinShown = true;
+  else randomShown.add(t.pool[Math.floor(Math.random() * t.pool.length)].pos);
   return true;
 }
 
@@ -280,25 +309,26 @@ function renderHint() {
     el.hintsci.textContent = "";
     return;
   }
-  const words = hintWords();
-  // hint 1 only shows the blanks, so first letters start with hint 2
-  const wordsShown = Math.min(Math.max(0, hintsUsed - 1), words.length);
-  let wordIndex = -1, inWord = false, firstDone = false, out = [];
+  let wordIndex = -1, inWord = false, firstDone = false, pos = -1, out = "";
+  const SEP = "\u00A0";     // letters of one word must not wrap apart from each other
   for (const ch of name) {
-    if (WORD_BREAK.test(ch)) {                 // space or hyphen ends a word
-      out.push(/\s/.test(ch) ? "  " : ch);
-      inWord = false;
-      continue;
+    if (/\s/.test(ch)) { out += "  "; inWord = false; continue; } // words may wrap here
+    let piece;
+    if (WORD_BREAK.test(ch)) { piece = ch; inWord = false; }       // hyphen
+    else if (!IS_LETTER.test(ch)) piece = ch;                      // apostrophes etc.
+    else {
+      if (!inWord) { inWord = true; wordIndex++; firstDone = false; }
+      pos++;
+      const whole = solvedWords.has(wordIndex);
+      const reveal = revealAll || whole ||
+                     (!firstDone && lettersShown.has(wordIndex)) ||
+                     randomShown.has(pos);
+      piece = reveal ? ch.toUpperCase() : "_";
+      firstDone = true;
     }
-    if (!IS_LETTER.test(ch)) { out.push(ch); continue; }   // apostrophes etc.
-    if (!inWord) { inWord = true; wordIndex++; firstDone = false; }
-    const whole = solvedWords.has(wordIndex);
-    const reveal = revealAll || whole ||
-                   (!firstDone && lettersShown.has(wordIndex));
-    out.push(reveal ? ch.toUpperCase() : "_");
-    firstDone = true;
+    out += (out === "" || out.endsWith("  ")) ? piece : SEP + piece;
   }
-  el.hintword.textContent = out.join(" ");
+  el.hintword.textContent = out;
   el.hintbox.classList.add("show");
 
   const sci = hintSci();
@@ -402,6 +432,7 @@ function newRound(triesLeft = 6) {
   countsShown = false;
   lettersShown = new Set();
   latinShown = false;
+  randomShown = new Set();
   revealAll = false;
   if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");

@@ -40,7 +40,8 @@ main{
   align-items:center; gap:3px; visibility:hidden;
 }
 #hintbox.show{visibility:visible}
-.hintrow{display:flex; align-items:center; justify-content:center; gap:10px}
+.hintrow{display:flex; align-items:center; justify-content:center; gap:10px;
+         max-width:100%; min-width:0}
 #hintscirow{display:none}
 #hintscirow.show{display:flex}
 .hintlab{
@@ -51,7 +52,13 @@ main{
 #hintword{
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
   font-size:23px; font-weight:700; letter-spacing:3px; color:var(--accent);
-  white-space:pre;
+  /* pre-wrap keeps the double space between words but lets a long name that
+     hints have filled in wrap instead of pushing the page sideways */
+  white-space:pre-wrap; overflow-wrap:anywhere;
+  max-width:100%; min-width:0; text-align:center; line-height:1.35;
+}
+@media (max-width:560px){
+  #hintword{font-size:19px; letter-spacing:2px}
 }
 
 /* ---- photo ---- */
