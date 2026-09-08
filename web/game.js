@@ -11,7 +11,7 @@ const el = {
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
-  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"),
+  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), rawr:$("rawr"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
@@ -48,12 +48,28 @@ let lettersShown = new Set();      // word indices whose first letter a hint pai
 let latinShown = false;            // the last of the ordered hints
 let randomShown = new Set();       // letter positions filled in at random
 let revealAll = false;             // round over: show the whole name and Latin
+let rawrMode = false;              // animal noises instead of plain verdicts
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
   get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, v); } catch {} },
 };
+
+/* ---------- what the flash says -------------------------------------------- */
+// Animal noises are a settings toggle; off, the game says what it always said.
+function sayRight() { return rawrMode ? "RAWR!" : "CORRECT!"; }
+function sayWrong() { return rawrMode ? "A Hee Hoo" : "WRONG ANSWER!"; }
+
+function applyRawr(save) {
+  rawrMode = el.rawr.checked;
+  if (save !== false) store.set("rawr", rawrMode ? "1" : "0");
+}
+
+function restoreRawr() {
+  el.rawr.checked = store.get("rawr", "0") === "1";
+  applyRawr(false);
+}
 
 /* ---------- answer matching ------------------------------------------------ */
 function normalize(s) {
@@ -572,7 +588,7 @@ function submitGuess(ev) {
     spendHint();
     renderHint();
     updateScore();
-    el.flash.textContent = "WRONG ANSWER!";
+    el.flash.textContent = sayWrong();
     el.flash.className = "wrong";
     setTimeout(() => {
       el.flash.className = "hidden";
@@ -592,7 +608,7 @@ function submitGuess(ev) {
   updateScore();
 
   // 1. bold flash message for exactly one second
-  el.flash.textContent = right ? "CORRECT!" : "WRONG ANSWER!";
+  el.flash.textContent = right ? sayRight() : sayWrong();
   el.flash.className = right ? "right" : "wrong";
 
   setTimeout(() => {
@@ -741,6 +757,7 @@ for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
 el.allcats.addEventListener("click", () => setAllCats(true));
 el.nocats.addEventListener("click", () => setAllCats(false));
+el.rawr.addEventListener("change", () => applyRawr());
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);
@@ -777,6 +794,7 @@ fetch("../data/animals.json")
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(d => {
     ALL = unpack(d);
+    restoreRawr();
     restoreCats();
     const saved = (store.get("tiers", "easy") || "").split(",").filter(Boolean);
     const want = new Set(saved.length ? saved : ["easy"]);

@@ -155,6 +155,13 @@ nothing is greyed out.
 Some combinations are empty — there are no Hard bugs — and the panel says so
 rather than leaving you on a blank screen.
 
+### Extras
+
+**Animal noises**, at the bottom of the settings panel, swaps the verdicts: the
+game says **RAWR!** when you get one and **A Hee Hoo** when you don't, instead
+of CORRECT! and WRONG ANSWER!. It applies to the wrong guesses that spend a
+hint too, and the setting is remembered between visits.
+
 ## Difficulty
 
 The four levels are checkboxes, not a single choice — tick as many as you like
