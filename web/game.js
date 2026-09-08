@@ -11,7 +11,7 @@ const el = {
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
-  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"),
+  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"), restart:$("restart"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
@@ -735,6 +735,17 @@ function restoreCats() {
   onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
 }
 
+// Start the game over: score, tally and shuffle back to nothing, new animal.
+// Difficulty, categories and Buddy Mode are settings, so they stay as they are.
+function restartGame() {
+  score = 0; asked = 0; correct = 0;
+  bag = [];                          // reshuffle rather than resume the queue
+  upcoming = null;
+  closeSettings();
+  updateScore();
+  if (pool.length) newRound(); else showEmpty();
+}
+
 /* ---------- settings ------------------------------------------------------- */
 function openSettings() {
   el.settings.classList.remove("hidden");
@@ -759,6 +770,7 @@ for (const b of document.querySelectorAll(".cattoggle"))
 el.allcats.addEventListener("click", () => setAllCats(true));
 el.nocats.addEventListener("click", () => setAllCats(false));
 el.buddy.addEventListener("change", () => applyBuddy());
+el.restart.addEventListener("click", restartGame);
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);

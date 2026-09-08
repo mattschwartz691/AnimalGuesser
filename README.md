@@ -157,6 +157,10 @@ rather than leaving you on a blank screen.
 
 ### Extras
 
+**Restart** starts the game over: points, the got-it tally and the shuffle all
+go back to zero and a new animal comes up. Difficulty, categories and Buddy
+Mode are settings rather than game state, so they survive a restart.
+
 **Buddy Mode**, at the bottom of the settings panel, swaps the verdicts: the
 game says **RAWR!** when you get one and **A Hee Hoo** when you don't, instead
 of CORRECT! and WRONG ANSWER!. It applies to the wrong guesses that spend a
