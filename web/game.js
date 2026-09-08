@@ -35,6 +35,7 @@ let score = 0, asked = 0, correct = 0;
 // Every animal starts at BASE_POINTS. Each hint you take -- or each wrong
 // guess, which spends one -- knocks a point off, down to a floor of 1.
 const BASE_POINTS = 5;
+const MAX_HINTS = 8;               // most hints any one animal will ever give
 function worthNow() {
   return Math.max(1, BASE_POINTS - hintsUsed);
 }
@@ -268,6 +269,7 @@ function randomPool() {
 // What the next hint would buy. A word you have already guessed is skipped --
 // paying to reveal a letter you can see would be wasted.
 function nextHint() {
+  if (hintsUsed >= MAX_HINTS) return null;      // eight to an animal, no more
   if (!countsShown) return {type: "counts"};
   const words = hintWords();
   for (let i = 0; i < words.length; i++)
@@ -285,7 +287,7 @@ function hintsLeft() {
   for (let i = 0; i < words.length; i++)
     if (!solvedWords.has(i) && !lettersShown.has(i)) n++;
   if (hintSci() && !latinShown) n++;
-  return n + randomPool().length;
+  return Math.min(n + randomPool().length, Math.max(0, MAX_HINTS - hintsUsed));
 }
 
 // Spend one hint. Returns false if there was nothing left to buy.

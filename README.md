@@ -73,22 +73,23 @@ many are left. Hints still work while you are part-way there.
 2. the first letter of the first word
 3. the first letter of the next word — and so on, one hint per word
 4. the Latin name
-5. from here on, one more letter at random out of whatever is still hidden,
-   until the whole name is on the board
+5. from here on, one more letter at random out of whatever is still hidden
+
+**Eight hints an animal, whatever its name.** Long names run out of hints long
+before the blanks run out; short ones can offer fewer than eight, because there
+is nothing left to give — `Manx` has five, one of them missing since breeds
+carry no Latin name.
 
 Hints skip anything you have already worked out: guess `tree` on a Green Tree
 Frog and no hint will be spent revealing a letter of TREE — not the T, and not
-a random letter of it either.
+a random letter of it either. Random hints never land on a first letter, since
+an ordered hint already covers those.
 
-`Scarlet Macaw` therefore has 4 ordered hints and then 10 random ones, one per
-letter it has left. Random hints never land on a first letter, since an ordered
-hint already covers those. The budget resets with every new photo, and the
-Latin name is an accepted answer, so hint 4 always scores.
-
-Because a wrong guess spends a hint, the round now runs until the name is
-fully filled in rather than ending after a handful of wrong answers. You can
-still hint your way to the complete name — it just leaves the animal worth the
-minimum 1 point.
+`Scarlet Macaw` therefore opens with 4 ordered hints and then 4 random letters.
+The budget resets with every new photo, and the Latin name is an accepted
+answer, so that hint always scores — the only names that never reach it are the
+four seven-word monsters in the data, whose first letters alone eat the budget.
+Since a wrong guess spends a hint, the answer comes up on the ninth wrong one.
 
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
