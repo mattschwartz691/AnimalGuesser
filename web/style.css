@@ -21,6 +21,86 @@ body{
 }
 #gear:hover{color:var(--ink); transform:rotate(60deg)}
 
+/* ---- title screen and team setup ---- */
+#game{width:100%; display:flex; flex-direction:column; align-items:center}
+#game.hidden{display:none}
+.screen{
+  width:100%; max-width:660px; padding:70px 20px 40px; min-height:100vh;
+  display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:14px; text-align:center;
+}
+.screen.hidden{display:none}
+.bigtitle{margin:0; font-size:40px; font-weight:800; letter-spacing:.5px}
+.tagline{margin:0 0 18px; color:var(--dim); font-size:15px}
+.modes{display:flex; gap:14px; flex-wrap:wrap; justify-content:center; width:100%}
+.modebtn{
+  flex:1 1 220px; max-width:280px; cursor:pointer; text-align:left;
+  padding:20px 22px; border-radius:14px;
+  background:var(--panel); color:var(--ink); border:1px solid var(--line);
+  display:flex; flex-direction:column; gap:5px;
+  transition:border-color .15s, transform .15s;
+}
+.modebtn b{font-size:20px}
+.modebtn span{font-size:13px; color:var(--dim)}
+.modebtn:hover:not(:disabled){border-color:var(--accent); transform:translateY(-2px)}
+.modebtn:disabled{opacity:.45; cursor:progress}
+#soloscore.hidden{display:none}
+
+#teampick{
+  display:flex; flex-wrap:wrap; gap:10px; justify-content:center;
+  max-width:420px; margin-top:6px;
+}
+.numbtn{
+  width:58px; height:52px; cursor:pointer; font-size:18px; font-weight:700;
+  background:var(--panel); color:var(--ink);
+  border:1px solid var(--line); border-radius:11px;
+}
+.numbtn:hover{border-color:var(--accent)}
+.numbtn.on{background:var(--accent); color:#06101f; border-color:var(--accent)}
+.setupbtns{display:flex; gap:12px; margin-top:22px}
+.setupbtns button{
+  padding:12px 30px; font-size:15px; font-weight:600; cursor:pointer;
+  background:transparent; color:var(--dim);
+  border:1px solid var(--line); border-radius:11px;
+}
+.setupbtns button:hover{color:var(--ink); border-color:var(--accent)}
+#teamplay{background:var(--accent) !important; color:#06101f !important;
+  border-color:var(--accent) !important}
+#teamplay:hover{filter:brightness(1.1)}
+
+/* ---- team scoreboard, along the bottom ---- */
+#teambar{
+  width:100%; padding:14px 16px 20px; display:flex; gap:12px;
+  flex-wrap:wrap; justify-content:center;
+  background:var(--panel); border-top:1px solid var(--line);
+}
+#teambar.hidden{display:none}
+.team{
+  flex:0 1 190px; min-width:150px; padding:10px 12px 12px;
+  background:#151a22; border:1px solid var(--line); border-radius:12px;
+  display:flex; flex-direction:column; gap:8px; align-items:center;
+}
+.teamname{
+  width:100%; padding:7px 9px; font-size:14.5px; font-weight:600; text-align:center;
+  background:transparent; color:var(--ink);
+  border:1px solid transparent; border-radius:8px; outline:none;
+}
+.teamname:hover{border-color:var(--line)}
+.teamname:focus{border-color:var(--accent); background:var(--bg)}
+.teamscore{display:flex; align-items:center; gap:10px; width:100%; justify-content:center}
+.teamscore button{
+  width:34px; height:34px; flex:none; cursor:pointer;
+  font-size:19px; font-weight:700; line-height:1;
+  background:transparent; color:var(--dim);
+  border:1px solid var(--line); border-radius:9px;
+}
+.teamscore button:hover{color:var(--ink); border-color:var(--accent)}
+.scorenum{
+  flex:1; font-size:24px; font-weight:800; text-align:center;
+  font-variant-numeric:tabular-nums; color:var(--accent);
+}
+.scorenum.neg{color:var(--red)}
+
 header{text-align:center; padding:18px 60px 4px}
 h1{margin:0; font-size:22px; letter-spacing:.5px; font-weight:650}
 #scoreline{color:var(--dim); font-size:13px; margin-top:4px}
@@ -278,6 +358,9 @@ main{
 
 @media (max-width:560px){
   h1{font-size:19px} #flash{font-size:24px} #answer{font-size:20px}
+  .bigtitle{font-size:31px}
+  .screen{padding-top:60px}
+  .team{flex:1 1 140px; min-width:132px; max-width:200px}
   header{padding-top:16px}
   /* the input takes its own row so the three buttons wrap under it */
   #guess{flex:1 1 100%}

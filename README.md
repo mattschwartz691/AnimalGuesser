@@ -14,6 +14,25 @@ Opens <http://localhost:8765/web/>. Ctrl-C to stop.
 (It needs to be served over HTTP rather than opened as a `file://` path, because
 the game fetches its data file. The photos themselves stream from the internet.)
 
+## Solo and Teams
+
+The game opens on a title screen with two ways to play. Reloading the page, or
+**Restart** in the settings panel, brings you back to it.
+
+**Solo** is the game as it always was: the header keeps your points, your
+got-it tally, and what the animal in front of you is worth.
+
+**Teams** asks how many teams first — anything from 1 to 10 — and then puts a
+scoreboard along the bottom, one card per team. Each card has a name that reads
+*Unnamed* until you click it and type your own, and a score with a **−** and a
+**+**: one point off, one point on, and scores are free to go negative (they
+turn red when they do). Nobody's points are awarded automatically in this mode,
+so the header drops the solo tally and keeps *this one's worth 5*, which is
+what the hints have cost so far.
+
+Names and scores stay put from round to round, and typing a team name will not
+be interrupted by the guess box stealing focus mid-word.
+
 ## How it works
 
 - **Gear icon, top left** — pick the difficulty.
@@ -157,9 +176,10 @@ rather than leaving you on a blank screen.
 
 ### Extras
 
-**Restart** starts the game over: points, the got-it tally and the shuffle all
-go back to zero and a new animal comes up. Difficulty, categories and Buddy
-Mode are settings rather than game state, so they survive a restart.
+**Restart** takes you back to the title screen, so you can switch between Solo
+and Teams. Points, the got-it tally, the team scoreboard and the shuffle all go
+back to nothing. Difficulty, categories and Buddy Mode are settings rather than
+game state, so they survive a restart.
 
 **Buddy Mode**, at the bottom of the settings panel, swaps the verdicts: the
 game says **RAWR!** when you get one and **A Hee Hoo** when you don't, instead

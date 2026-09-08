@@ -12,6 +12,10 @@ const el = {
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"), restart:$("restart"),
+  title:$("title"), teamsetup:$("teamsetup"), game:$("game"), teambar:$("teambar"),
+  playsolo:$("playsolo"), playteams:$("playteams"), teamback:$("teamback"),
+  teamplay:$("teamplay"), teampick:$("teampick"), soloscore:$("soloscore"),
+  tagline:$("tagline"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
@@ -49,6 +53,10 @@ let latinShown = false;            // the last of the ordered hints
 let randomShown = new Set();       // letter positions filled in at random
 let revealAll = false;             // round over: show the whole name and Latin
 let buddyMode = false;             // Buddy Mode: animal noises, not verdicts
+let started = false;               // false while a title screen is up
+let mode = "solo";                 // "solo" or "teams"
+let teamCount = 2;                 // how many teams the setup screen has picked
+let teams = [];                    // [{name, score}] in teams mode
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -371,7 +379,7 @@ function useHint() {
   renderHint();
   updateHintButton();
   updateScore();
-  if (!isTouch()) el.guess.focus();
+  refocusGuess();
 }
 
 /* ---------- round flow ----------------------------------------------------- */
@@ -436,6 +444,7 @@ function updateScore() {
 }
 
 function newRound(triesLeft = 6) {
+  if (!started) return;            // nothing plays behind the title screen
   locked = false;
   el.flash.classList.add("hidden");
   el.flash.className = "hidden";
@@ -488,7 +497,7 @@ function loadPhoto(triesLeft = 6) {
     el.spinner.classList.add("hidden");
     el.fullscreen.classList.add("show");
     el.credit.textContent = "Photo: " + (photo.credit || "iNaturalist");
-    if (!isTouch()) el.guess.focus();
+    refocusGuess();
     preloadNext();
   };
   el.photo.onerror = () => {
@@ -539,6 +548,14 @@ function preloadNext() {
   if (upcoming) { const im = new Image(); im.src = upcoming.photo.url; }
 }
 
+// Put the cursor back in the guess box -- unless someone is in the middle of
+// typing a team name, in which case leave them alone.
+function refocusGuess() {
+  const a = document.activeElement;
+  if (a && a.classList && a.classList.contains("teamname")) return;
+  if (!isTouch()) el.guess.focus();
+}
+
 function isTouch() {
   return window.matchMedia && window.matchMedia("(hover: none)").matches;
 }
@@ -577,7 +594,7 @@ function submitGuess(ev) {
         el.giveup.disabled = false;
         locked = false;
         updateHintButton();
-        if (!isTouch()) el.guess.focus();
+        refocusGuess();
       }, FLASH_MS);
       return;
     }
@@ -599,7 +616,7 @@ function submitGuess(ev) {
       el.giveup.disabled = false;
       locked = false;
       updateHintButton();
-      if (!isTouch()) el.guess.focus();
+      refocusGuess();
     }, FLASH_MS);
     return;
   }
@@ -735,15 +752,103 @@ function restoreCats() {
   onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
 }
 
-// Start the game over: score, tally and shuffle back to nothing, new animal.
-// Difficulty, categories and Buddy Mode are settings, so they stay as they are.
-function restartGame() {
+/* ---------- title screen, solo and teams ----------------------------------- */
+// Restart, and every fresh load, comes back here.
+function showTitle() {
+  started = false;
   score = 0; asked = 0; correct = 0;
   bag = [];                          // reshuffle rather than resume the queue
   upcoming = null;
-  closeSettings();
+  current = null;
+  teams = [];
+  updateScore();
+  el.photo.classList.remove("ready");
+  el.fullscreen.classList.remove("show");
+  el.teambar.classList.add("hidden");
+  el.teambar.textContent = "";
+  el.game.classList.add("hidden");
+  el.teamsetup.classList.add("hidden");
+  el.title.classList.remove("hidden");
+}
+
+function showTeamSetup() {
+  el.title.classList.add("hidden");
+  el.teamsetup.classList.remove("hidden");
+  markTeamCount();
+}
+
+function markTeamCount() {
+  for (const b of el.teampick.querySelectorAll(".numbtn"))
+    b.classList.toggle("on", Number(b.dataset.n) === teamCount);
+}
+
+// Leave the title screens and actually play.
+function startGame(which) {
+  mode = which;
+  started = true;
+  score = 0; asked = 0; correct = 0;
+  bag = [];
+  upcoming = null;
+  el.title.classList.add("hidden");
+  el.teamsetup.classList.add("hidden");
+  el.game.classList.remove("hidden");
+  // in teams mode the points are yours to award, so the solo tally goes away
+  el.soloscore.classList.toggle("hidden", mode === "teams");
+  if (mode === "teams") buildTeams(teamCount); else el.teambar.classList.add("hidden");
   updateScore();
   if (pool.length) newRound(); else showEmpty();
+}
+
+// One card per team: a name you can type over, and a score with -- and +.
+function buildTeams(n) {
+  teams = Array.from({length: n}, () => ({name: "Unnamed", score: 0}));
+  el.teambar.textContent = "";
+  teams.forEach((t, i) => {
+    const card = document.createElement("div");
+    card.className = "team";
+
+    const name = document.createElement("input");
+    name.className = "teamname";
+    name.value = t.name;
+    name.maxLength = 20;
+    name.setAttribute("aria-label", "Team " + (i + 1) + " name");
+    // click the default and type: no need to clear it first
+    name.addEventListener("focus", () => { if (name.value === "Unnamed") name.select(); });
+    name.addEventListener("input", () => { t.name = name.value; });
+    name.addEventListener("blur", () => {
+      if (!name.value.trim()) { name.value = "Unnamed"; t.name = "Unnamed"; }
+    });
+
+    const row = document.createElement("div");
+    row.className = "teamscore";
+    const minus = document.createElement("button");
+    minus.type = "button"; minus.textContent = "\u2212";
+    minus.setAttribute("aria-label", "Take a point off " + (t.name || "this team"));
+    const num = document.createElement("span");
+    num.className = "scorenum";
+    const plus = document.createElement("button");
+    plus.type = "button"; plus.textContent = "+";
+    plus.setAttribute("aria-label", "Give a point to " + (t.name || "this team"));
+
+    const paint = () => {
+      num.textContent = t.score;
+      num.classList.toggle("neg", t.score < 0);   // scores may go negative
+    };
+    minus.addEventListener("click", () => { t.score--; paint(); });
+    plus.addEventListener("click", () => { t.score++; paint(); });
+    paint();
+
+    row.append(minus, num, plus);
+    card.append(name, row);
+    el.teambar.appendChild(card);
+  });
+  el.teambar.classList.remove("hidden");
+}
+
+// The settings button: back to the title screen, everything reset.
+function restartGame() {
+  closeSettings();
+  showTitle();
 }
 
 /* ---------- settings ------------------------------------------------------- */
@@ -771,6 +876,12 @@ el.allcats.addEventListener("click", () => setAllCats(true));
 el.nocats.addEventListener("click", () => setAllCats(false));
 el.buddy.addEventListener("change", () => applyBuddy());
 el.restart.addEventListener("click", restartGame);
+el.playsolo.addEventListener("click", () => startGame("solo"));
+el.playteams.addEventListener("click", showTeamSetup);
+el.teamback.addEventListener("click", showTitle);
+el.teamplay.addEventListener("click", () => startGame("teams"));
+for (const b of el.teampick.querySelectorAll(".numbtn"))
+  b.addEventListener("click", () => { teamCount = Number(b.dataset.n); markTeamCount(); });
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);
@@ -814,11 +925,18 @@ fetch("../data/animals.json")
     for (const b of document.querySelectorAll(".difftoggle"))
       b.checked = want.has(b.dataset.tier);
     setTiers(false);
+    markTeamCount();
+    showTitle();
+    el.tagline.textContent = "A real photograph of a real animal. Name it.";
+    el.playsolo.disabled = false;
+    el.playteams.disabled = false;
   })
   .catch(err => {
-    el.spinner.textContent =
-      "Could not load data/animals.json (" + err.message + "). " +
+    // the title screen is what is on screen at this point, so say it there
+    const msg = "Could not load data/animals.json (" + err.message + "). " +
       "Run the game through ./serve.sh rather than opening the file directly.";
+    el.tagline.textContent = msg;
+    el.spinner.textContent = msg;
     el.guessbar.classList.add("hidden");
   });
 })();

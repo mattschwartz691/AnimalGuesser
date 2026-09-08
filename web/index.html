@@ -15,11 +15,45 @@
   </svg>
 </button>
 
+<!-- title screen: first thing you see, and where Restart brings you back to -->
+<div id="title" class="screen">
+  <h1 class="bigtitle">Animal Guesser</h1>
+  <p class="tagline" id="tagline">Loading the animals\u2026</p>
+  <div class="modes">
+    <button type="button" id="playsolo" class="modebtn" disabled>
+      <b>Solo</b><span>Just you. The game keeps score.</span></button>
+    <button type="button" id="playteams" class="modebtn" disabled>
+      <b>Teams</b><span>Up to 10 teams. You award the points.</span></button>
+  </div>
+</div>
+
+<!-- how many teams -->
+<div id="teamsetup" class="screen hidden">
+  <h1 class="bigtitle">How many teams?</h1>
+  <div id="teampick">
+    <button type="button" class="numbtn" data-n="1">1</button>
+    <button type="button" class="numbtn" data-n="2">2</button>
+    <button type="button" class="numbtn" data-n="3">3</button>
+    <button type="button" class="numbtn" data-n="4">4</button>
+    <button type="button" class="numbtn" data-n="5">5</button>
+    <button type="button" class="numbtn" data-n="6">6</button>
+    <button type="button" class="numbtn" data-n="7">7</button>
+    <button type="button" class="numbtn" data-n="8">8</button>
+    <button type="button" class="numbtn" data-n="9">9</button>
+    <button type="button" class="numbtn" data-n="10">10</button>
+  </div>
+  <div class="setupbtns">
+    <button type="button" id="teamback">Back</button>
+    <button type="button" id="teamplay">Play</button>
+  </div>
+</div>
+
+<div id="game" class="hidden">
 <header>
   <h1>Animal Guesser</h1>
-  <div id="scoreline"><b id="score">0</b> pts
+  <div id="scoreline"><span id="soloscore"><b id="score">0</b> pts
     <span class="dot">·</span><span id="correct">0</span>/<span id="asked">0</span>
-    <span class="dot">·</span>this one's worth <b id="worth">5</b>
+    <span class="dot">·</span></span>this one's worth <b id="worth">5</b>
     <span class="dot">·</span><span id="tierbadge">Easy</span></div>
 </header>
 
@@ -60,6 +94,10 @@
     <button id="next" type="button">Next →</button>
   </div>
 </main>
+
+<!-- one card per team: name, then the score with its minus and plus -->
+<div id="teambar" class="hidden"></div>
+</div><!-- #game -->
 
 <!-- settings panel -->
 <div id="overlay" class="hidden"></div>
