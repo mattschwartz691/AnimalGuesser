@@ -157,7 +157,7 @@ rather than leaving you on a blank screen.
 
 ### Extras
 
-**Animal noises**, at the bottom of the settings panel, swaps the verdicts: the
+**Buddy Mode**, at the bottom of the settings panel, swaps the verdicts: the
 game says **RAWR!** when you get one and **A Hee Hoo** when you don't, instead
 of CORRECT! and WRONG ANSWER!. It applies to the wrong guesses that spend a
 hint too, and the setting is remembered between visits.

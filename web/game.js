@@ -11,7 +11,7 @@ const el = {
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
-  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), rawr:$("rawr"),
+  catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
@@ -48,7 +48,7 @@ let lettersShown = new Set();      // word indices whose first letter a hint pai
 let latinShown = false;            // the last of the ordered hints
 let randomShown = new Set();       // letter positions filled in at random
 let revealAll = false;             // round over: show the whole name and Latin
-let rawrMode = false;              // animal noises instead of plain verdicts
+let buddyMode = false;             // Buddy Mode: animal noises, not verdicts
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
@@ -57,18 +57,19 @@ const store = {
 };
 
 /* ---------- what the flash says -------------------------------------------- */
-// Animal noises are a settings toggle; off, the game says what it always said.
-function sayRight() { return rawrMode ? "RAWR!" : "CORRECT!"; }
-function sayWrong() { return rawrMode ? "A Hee Hoo" : "WRONG ANSWER!"; }
+// Buddy Mode is a settings toggle; off, the game says what it always said.
+function sayRight() { return buddyMode ? "RAWR!" : "CORRECT!"; }
+function sayWrong() { return buddyMode ? "A Hee Hoo" : "WRONG ANSWER!"; }
 
-function applyRawr(save) {
-  rawrMode = el.rawr.checked;
-  if (save !== false) store.set("rawr", rawrMode ? "1" : "0");
+function applyBuddy(save) {
+  buddyMode = el.buddy.checked;
+  if (save !== false) store.set("buddy", buddyMode ? "1" : "0");
 }
 
-function restoreRawr() {
-  el.rawr.checked = store.get("rawr", "0") === "1";
-  applyRawr(false);
+function restoreBuddy() {
+  // "rawr" was this setting's name before it was called Buddy Mode
+  el.buddy.checked = (store.get("buddy", null) ?? store.get("rawr", "0")) === "1";
+  applyBuddy(false);
 }
 
 /* ---------- answer matching ------------------------------------------------ */
@@ -757,7 +758,7 @@ for (const b of document.querySelectorAll(".cattoggle"))
   b.addEventListener("change", () => applyCats());
 el.allcats.addEventListener("click", () => setAllCats(true));
 el.nocats.addEventListener("click", () => setAllCats(false));
-el.rawr.addEventListener("change", () => applyRawr());
+el.buddy.addEventListener("change", () => applyBuddy());
 el.gear.addEventListener("click", openSettings);
 el.close.addEventListener("click", closeSettings);
 el.overlay.addEventListener("click", closeSettings);
@@ -794,7 +795,7 @@ fetch("../data/animals.json")
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(d => {
     ALL = unpack(d);
-    restoreRawr();
+    restoreBuddy();
     restoreCats();
     const saved = (store.get("tiers", "easy") || "").split(",").filter(Boolean);
     const want = new Set(saved.length ? saved : ["easy"]);
