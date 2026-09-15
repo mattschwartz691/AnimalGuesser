@@ -222,10 +222,16 @@ Hangman puts the letters in your hands instead of the **Hint** button. Switch it
 on and the round opens with the blanks already on the board — that is hint one
 of the eight — the A–Z grid down the left of the photo, and an animal on the
 right waiting to be drawn. Under the photo there is no text box and no **Guess**
-button: you play by clicking letters, nothing to type and no Enter to press.
-**Bad photo** and **Give up** stay where they were. On a screen too narrow to
-flank the photo, the photo takes the full width and the letters and the animal
-tuck in underneath it, still one on each side.
+button. **Bad photo** and **Give up** stay where they were. On a screen too
+narrow to flank the photo, the photo takes the full width and the letters and
+the animal tuck in underneath it, still one on each side.
+
+**Click a letter or just type it.** With the text box gone there is nothing for
+a keystroke to collide with, so the keyboard plays the grid directly: press `k`
+and you have played K, no Enter needed. Accented keys play their plain letter,
+and the keyboard stands down where it should — while you are typing a team's
+name, while the settings panel is open, and for anything held with ctrl, cmd or
+alt.
 
 - a **hit** fills that letter in everywhere it appears in the name, turns the
   key green, and **costs you nothing**

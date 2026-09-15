@@ -1154,8 +1154,24 @@ el.overlay.addEventListener("click", closeSettings);
 for (const b of document.querySelectorAll(".difftoggle"))
   b.addEventListener("change", () => setTiers());
 document.addEventListener("keydown", e => {
-  if (e.key === "Escape") closeSettings();
+  if (e.key === "Escape") { closeSettings(); return; }
+  playTypedLetter(e);
 });
+
+// In hangman the keyboard plays the grid. There is no text box to type into,
+// so a letter key does exactly what clicking that key does.
+function playTypedLetter(e) {
+  if (!hangmanMode || !started) return;
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  // a team is being named, or the settings panel is open -- not our keystroke
+  const a = document.activeElement;
+  if (a && (a.tagName === "INPUT" || a.tagName === "TEXTAREA")) return;
+  if (!el.settings.classList.contains("hidden")) return;
+  const ch = baseLetter(e.key || "");
+  if (ch.length !== 1 || !KEYS.includes(ch)) return;
+  e.preventDefault();
+  guessLetter(ch);
+}
 
 // data/animals.json stores links to photographs, never the photographs
 // themselves, packed against a legend to keep the file small. Rebuild the
