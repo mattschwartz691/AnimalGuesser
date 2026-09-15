@@ -206,15 +206,20 @@ main{
 #stagecol{flex:1 1 660px; max-width:660px; min-width:0}
 
 /* both flanks are hangman-only; without it the photo sits alone as before */
-#keys, #bearwrap{display:none}
-#playrow.hangmanon #keys{
+#keys, #critterwrap{display:none}
+#game.hangmanon #keys{
   display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:6px;
   flex:0 0 190px; align-self:center;
 }
-#playrow.hangmanon #bearwrap{
+#game.hangmanon #critterwrap{
   display:flex; flex:0 0 190px; flex-direction:column;
   align-items:center; gap:6px; align-self:center;
 }
+/* In hangman the letters are the only way in: no text box, no Guess, no Hint.
+   Bad photo and Give up stay, so the row below the photo keeps working. */
+#game.hangmanon #guess,
+#game.hangmanon #submit,
+#game.hangmanon #hintwrap{display:none}
 
 .key{
   aspect-ratio:1/1; min-width:0; padding:0; cursor:pointer;
@@ -233,23 +238,37 @@ main{
   opacity:1; text-decoration:line-through;
 }
 
-#bear{width:100%; height:auto; overflow:visible}
-.bearpart{opacity:0; transition:opacity .35s ease}
-.bearpart.on{opacity:1}
-.bearpart>*{
-  fill:var(--ink); stroke:#243044; stroke-width:2.5;
+#critter{width:100%; height:auto; overflow:visible}
+
+/* Which animal you are drawing is picked fresh each round, so you never know
+   who you are going to get; only one group is ever on. Each carries its own
+   three colours: the body, the shaded far side, and a second colour for
+   markings -- a white belly, a saw's teeth, a blobfish's frown. */
+.critter{display:none}
+.critter.on{display:inline}
+.critter[data-critter="polarbear"]{--hide:#eef2f7; --shade:#c3cedd; --trim:#ffffff}
+.critter[data-critter="browncat"] {--hide:#b07a4a; --shade:#8d5f38; --trim:#e8d3b8}
+.critter[data-critter="blackcat"] {--hide:#434c5c; --shade:#333b48; --trim:#f2f6fa}
+.critter[data-critter="sawfish"]  {--hide:#8fa8bf; --shade:#6f8aa3; --trim:#dbe6f0}
+.critter[data-critter="blobfish"] {--hide:#e8a7a7; --shade:#cf8c8c; --trim:#f7d6d6}
+.critter[data-critter="dino"]     {--hide:#f2a0c4; --shade:#d4809f; --trim:#ffd3e6}
+.critter[data-critter="slug"]     {--hide:#e8d44f; --shade:#c9b53c; --trim:#fff3a8}
+
+.critterpart{opacity:0; transition:opacity .35s ease}
+.critterpart.on{opacity:1}
+.critterpart>*{
+  fill:var(--hide); stroke:#243044; stroke-width:2.5;
   stroke-linejoin:round; stroke-linecap:round;
 }
-/* the far-side legs and ear sit in shade, which is what gives him depth */
-.bearpart .far{fill:#c3cedd}
-/* the eye and the nose are the dark bits and want no outline of their own */
-.bearpart.face>*{fill:#11151c; stroke:none}
-.bearpart.face .mouth{fill:none; stroke:#11151c; stroke-width:2.5}
-#bearcount{font-size:11.5px; color:var(--dim); text-align:center; min-height:16px}
-#bearcount.done{color:var(--red); font-weight:700}
-
-/* the Hint button steps aside in hangman mode -- the grid is the hint now */
-#hintwrap.hidden{display:none}
+/* the far side sits in shade, which is what gives each of them depth */
+.critterpart .far{fill:var(--shade)}
+.critterpart .trim{fill:var(--trim)}
+/* eyes and noses are the dark details and want no outline of their own */
+.critterpart.face>*{fill:#11151c; stroke:none}
+/* except a dark animal's eye, which would vanish against it -- that one is lit */
+.critterpart.face .lit{fill:var(--trim)}
+#crittercount{font-size:11.5px; color:var(--dim); text-align:center; min-height:16px}
+#crittercount.done{color:var(--red); font-weight:700}
 
 /* ---- guess bar ---- */
 #guessbar{
@@ -431,10 +450,10 @@ main{
 @media (max-width:1000px){
   #playrow{flex-wrap:wrap; gap:12px}
   #stagecol{order:-1; flex:1 1 100%; max-width:660px}
-  #playrow.hangmanon #keys{flex:1 1 60%; max-width:340px}
-  #playrow.hangmanon #bearwrap{flex:0 1 160px}
+  #game.hangmanon #keys{flex:1 1 60%; max-width:340px}
+  #game.hangmanon #critterwrap{flex:0 1 160px}
 }
 @media (max-width:560px){
-  #playrow.hangmanon #keys{flex:1 1 55%; gap:5px}
-  #playrow.hangmanon #bearwrap{flex:0 1 120px}
+  #game.hangmanon #keys{flex:1 1 55%; gap:5px}
+  #game.hangmanon #critterwrap{flex:0 1 120px}
 }

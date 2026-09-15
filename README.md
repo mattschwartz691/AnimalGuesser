@@ -213,45 +213,53 @@ hint too, and the setting is remembered between visits.
 
 **Hangman** is the toggle under it, and is described below. Like the others it
 is a setting rather than game state, so it survives a restart and is remembered
-between visits. It works in Solo and in Teams.
+between visits. It works in Solo and in Teams, and it hides the text box — in
+hangman you click letters rather than type.
 
 ### Hangman
 
-Hangman spends the same eight hints, but you choose them a letter at a time
-instead of clicking **Hint**. Switch it on and the round opens with the blanks
-already on the board — that is hint one of the eight — the A–Z grid down the
-left of the photo, and a polar bear on the right of it. Under the photo is just
-the guess bar, the way it has always been. On a screen too narrow to flank the
-photo, the photo takes the full width and the letters and the bear tuck in
-underneath it, still one on each side.
+Hangman puts the letters in your hands instead of the **Hint** button. Switch it
+on and the round opens with the blanks already on the board — that is hint one
+of the eight — the A–Z grid down the left of the photo, and an animal on the
+right waiting to be drawn. Under the photo there is no text box and no **Guess**
+button: you play by clicking letters, nothing to type and no Enter to press.
+**Bad photo** and **Give up** stay where they were. On a screen too narrow to
+flank the photo, the photo takes the full width and the letters and the animal
+tuck in underneath it, still one on each side.
 
-The seven hints that are left are yours to spend on letters:
+- a **hit** fills that letter in everywhere it appears in the name, turns the
+  key green, and **costs you nothing**
+- a **miss** costs a point, draws another body part, and strikes the key through
 
-- a **hit** fills that letter in everywhere it appears in the name, and the key
-  turns green
-- a **miss** hands the polar bear another body part, and the key is struck
-  through
+**Only wrong letters cost anything, so every animal is winnable.** That is not
+a soft touch, it is the only workable rule once the text box is gone: the median
+name in the game has 11 distinct letters, and a third of them have 12 or more.
+Charging for right letters as well would cap you at seven guesses and make
+93.5% of the animals impossible. Right letters being free means the only thing
+that can beat you is seven wrong ones, which is hangman as everyone plays it.
 
-Either way it costs one of the seven, so a letter is worth the same point a
-hint is. The bear is drawn in seven pieces — body, head, ears, front legs, hind
-legs, tail, and finally his face — and finishing him ends the round. He is not
-hanging from anything; he is simply being drawn. The far-side legs and ear are
-shaded rather than outlined, and the legs and neck are painted behind the body,
-so he has some depth without a seam drawn anywhere inside his outline.
+Reveal every letter and you win the round there and then. A letter with no key
+on the grid — the okina in *ʻApapane*, the Greek upsilon in *Silver Υ* — is
+shown from the start rather than left as a blank nothing could ever fill.
 
-The guess bar stays where it is, so you can still type the whole name at any
-point and take the round outright. A wrong name costs what a wrong letter
-costs: one guess and one more piece of the bear.
+#### Who you get
 
-Because a correct letter also spends one of the seven, the bear only ever gets
-finished by a player who wastes all seven. Guess even one letter right and he
-stops at six — you run out of letters with the bear unfinished, and the round
-stays open for you to type the name or give up. That is the intended shape: the
-bear filling up means the guessing went badly, not that time ran out.
+The animal being drawn is picked fresh every round, and you never know which it
+will be:
 
-Revealing every letter wins the round there and then. A letter with no key on
-the grid — the okina in *ʻApapane*, the Greek upsilon in *Silver Υ* — is shown
-from the start rather than left as a blank nothing could ever fill.
+| | |
+|---|---|
+| Polar bear | Brown cat |
+| Black cat, white belly and face | Sawfish |
+| Blobfish | Pink dinosaur |
+| Banana slug | |
+
+Each is drawn in seven pieces and finishing one ends the round. Nothing is
+hanging from anything — they are simply being drawn. Each carries three
+colours: its body, a shaded far side, and a second colour for its markings —
+the cat's white belly, the sawfish's teeth, the blobfish's frown. The far-side
+legs are shaded rather than outlined, and legs and necks are painted behind the
+body, so each one has depth without a seam drawn anywhere inside its outline.
 
 ## Difficulty
 

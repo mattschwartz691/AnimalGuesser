@@ -10,7 +10,7 @@ const el = {
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
   hintwrap:$("hintwrap"), playrow:$("playrow"), hangmanToggle:$("hangman-toggle"),
-  keys:$("keys"), bear:$("bear"), bearcount:$("bearcount"),
+  keys:$("keys"), critter:$("critter"), crittercount:$("crittercount"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"), restart:$("restart"),
@@ -44,9 +44,13 @@ let score = 0, asked = 0, correct = 0;
 // guess, which spends one -- knocks a point off, down to a floor of 1.
 const BASE_POINTS = 5;
 const MAX_HINTS = 8;               // most hints any one animal will ever give
-// Hangman spends those same eight: the blanks, then seven letters. The bear
-// gains a part per wrong one, so seven wrong finishes him just as they run out.
-const BEAR_PARTS = 7;
+// Hangman opens with the blanks -- hint one of the eight. After that the
+// letters are free: a right one costs nothing, and only a wrong one costs a
+// point and a body part. Seven wrong finishes the animal and the round.
+const CRITTER_PARTS = 7;
+// Who you are drawing is a surprise each round.
+const CRITTERS = ["polarbear", "browncat", "blackcat", "sawfish",
+                  "blobfish", "dino", "slug"];
 function worthNow() {
   return Math.max(1, BASE_POINTS - hintsUsed);
 }
@@ -62,7 +66,8 @@ let revealAll = false;             // round over: show the whole name and Latin
 let buddyMode = false;             // Buddy Mode: animal noises, not verdicts
 let hangmanMode = false;           // Hangman: the hints are spent on letters
 let guessedLetters = new Set();    // keys played this round, hit or miss
-let bearParts = 0;                 // wrong guesses, one polar bear part each
+let partsShown = 0;                // wrong guesses, one body part each
+let critter = "polarbear";         // which animal this round is drawing
 let started = false;               // false while a title screen is up
 let mode = "solo";                 // "solo" or "teams"
 let teamCount = 2;                 // how many teams the setup screen has picked
@@ -356,9 +361,9 @@ function nextHint() {
 
 function hintsLeft() {
   if (!hintName()) return 0;
-  // In hangman the hints are the letters, so what is left is just how many
-  // more keys you may play -- there is no ordered queue to walk.
-  if (hangmanMode) return Math.max(0, MAX_HINTS - hintsUsed);
+  // Hangman has no hint queue to walk. Right letters are free and unlimited,
+  // so what is left to lose is the wrong ones: the pieces of bear still to go.
+  if (hangmanMode) return Math.max(0, CRITTER_PARTS - partsShown);
   let n = countsShown ? 0 : 1;
   const words = hintWords();
   for (let i = 0; i < words.length; i++)
@@ -490,37 +495,52 @@ function renderKeys() {
   }
 }
 
-function renderBear() {
-  for (const g of el.bear.querySelectorAll(".bearpart"))
-    g.classList.toggle("on", Number(g.dataset.part) <= bearParts);
-  const left = BEAR_PARTS - bearParts;
-  el.bearcount.textContent = left === 0 ? "That's the whole bear."
-    : left === 1 ? "1 wrong letter left" : left + " wrong letters left";
-  el.bearcount.classList.toggle("done", left === 0);
+// Deal a new animal to draw. Only the chosen one is ever on screen.
+function pickCritter() {
+  critter = CRITTERS[Math.floor(Math.random() * CRITTERS.length)];
+  for (const g of el.critter.querySelectorAll(".critter"))
+    g.classList.toggle("on", g.dataset.critter === critter);
 }
 
-// Play a key. It costs one of the seven either way -- a hit fills its letters
-// in everywhere they appear, a miss hands the bear another body part.
+function renderCritter() {
+  for (const g of el.critter.querySelectorAll(".critterpart"))
+    g.classList.remove("on");
+  for (const g of el.critter.querySelectorAll(".critter")) {
+    if (g.dataset.critter !== critter) continue;
+    for (const part of g.querySelectorAll(".critterpart"))
+      part.classList.toggle("on", Number(part.dataset.part) <= partsShown);
+  }
+  const left = CRITTER_PARTS - partsShown;
+  el.crittercount.textContent = left === 0 ? "That's the whole animal."
+    : left === 1 ? "1 wrong letter left" : left + " wrong letters left";
+  el.crittercount.classList.toggle("done", left === 0);
+}
+
+// Play a key. A hit fills that letter in everywhere it appears and costs
+// nothing -- you earned it, and with no text box there is no other way in.
+// A miss costs a point and hands the bear another body part.
+//
+// Charging for hits would make the mode unplayable: the median name has 11
+// distinct letters, so seven paid guesses would lose 93% of animals outright.
 function guessLetter(ch) {
   if (!hangmanMode || locked || revealAll || !current) return;
-  if (guessedLetters.has(ch) || hintsLeft() <= 0) return;
+  if (guessedLetters.has(ch) || partsShown >= CRITTER_PARTS) return;
   guessedLetters.add(ch);
-  hintsUsed++;
   const hit = nameLetters().has(ch);
-  if (!hit) bearParts++;
+  if (!hit) { hintsUsed++; partsShown++; }
   renderHint();
-  renderBear();
+  renderCritter();
   updateScore();
   if (hit && allLettersOut()) { finishRound(true); return; }
-  if (bearParts >= BEAR_PARTS) { finishRound(false); return; }
+  if (partsShown >= CRITTER_PARTS) { finishRound(false); return; }
   updateHintButton();
   refocusGuess();
 }
 
 function syncHangmanUI() {
-  // the letter grid and the bear flank the photo only while hangman is on
-  el.playrow.classList.toggle("hangmanon", hangmanMode);
-  el.hintwrap.classList.toggle("hidden", hangmanMode);
+  // one class carries the whole difference: the grid and the bear appear, and
+  // the Hint button, the text box and Guess go away. You play by clicking.
+  el.game.classList.toggle("hangmanon", hangmanMode);
 }
 
 function applyHangman(save) {
@@ -673,8 +693,9 @@ function newRound(triesLeft = 6) {
   randomShown = new Set();
   revealAll = false;
   guessedLetters = new Set();
-  bearParts = 0;
-  renderBear();
+  partsShown = 0;
+  pickCritter();
+  renderCritter();
   if (el.worth) el.worth.textContent = BASE_POINTS;
   el.hintbox.classList.remove("show");
   el.hintscirow.classList.remove("show");
@@ -772,6 +793,7 @@ function preloadNext() {
 // Put the cursor back in the guess box -- unless someone is in the middle of
 // typing a team name, in which case leave them alone.
 function refocusGuess() {
+  if (hangmanMode) return;            // no text box to put a cursor back into
   const a = document.activeElement;
   if (a && a.classList && a.classList.contains("teamname")) return;
   if (!isTouch()) el.guess.focus();
@@ -829,11 +851,11 @@ function submitGuess(ev) {
   if (!right && hintsLeft() > 0) {
     // In hangman a wrong name costs exactly what a wrong letter costs: one of
     // your guesses, and one more piece of the bear.
-    if (hangmanMode) { hintsUsed++; bearParts++; renderBear(); }
+    if (hangmanMode) { hintsUsed++; partsShown++; renderCritter(); }
     else spendHint();
     renderHint();
     updateScore();
-    if (bearParts >= BEAR_PARTS) { finishRound(false); return; }
+    if (partsShown >= CRITTER_PARTS) { finishRound(false); return; }
     el.flash.textContent = sayWrong();
     el.flash.className = "wrong";
     setTimeout(() => {
