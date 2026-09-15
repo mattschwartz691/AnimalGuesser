@@ -9,7 +9,7 @@ const el = {
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
   hint:$("hint"), hintcount:$("hintcount"), hintbox:$("hintbox"), hintword:$("hintword"),
-  hintwrap:$("hintwrap"), hangman:$("hangman"), hangmanToggle:$("hangman-toggle"),
+  hintwrap:$("hintwrap"), playrow:$("playrow"), hangmanToggle:$("hangman-toggle"),
   keys:$("keys"), bear:$("bear"), bearcount:$("bearcount"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
@@ -518,7 +518,8 @@ function guessLetter(ch) {
 }
 
 function syncHangmanUI() {
-  el.hangman.classList.toggle("show", hangmanMode);
+  // the letter grid and the bear flank the photo only while hangman is on
+  el.playrow.classList.toggle("hangmanon", hangmanMode);
   el.hintwrap.classList.toggle("hidden", hangmanMode);
 }
 

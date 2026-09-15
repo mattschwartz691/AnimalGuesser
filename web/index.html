@@ -63,37 +63,51 @@
     <div class="hintrow" id="hintscirow"><span class="hintlab">latin</span><span id="hintsci"></span></div>
   </div>
 
-  <div id="stage">
-    <div id="spinner">Loading photo…</div>
-    <img id="photo" alt="Photo of an animal to identify">
-    <button type="button" id="fullscreen" title="Full screen"
-            aria-label="Full screen">⛶</button>
-  </div>
-  <div id="credit"></div>
-
-  <!-- 1-second flash message -->
-  <div id="flash" class="hidden"></div>
-
-  <!-- hangman mode: the letter grid on one side, the polar bear on the other.
-       He gains a body part for every wrong letter; seven and he is finished. -->
-  <div id="hangman">
+  <!-- letters down the left, the photo in the middle, the bear on the right.
+       With hangman off the two sides are hidden and the photo sits alone,
+       exactly as it did before. -->
+  <div id="playrow">
     <div id="keys" role="group" aria-label="Guess a letter"></div>
+
+    <div id="stagecol">
+      <div id="stage">
+        <div id="spinner">Loading photo…</div>
+        <img id="photo" alt="Photo of an animal to identify">
+        <button type="button" id="fullscreen" title="Full screen"
+                aria-label="Full screen">⛶</button>
+      </div>
+      <div id="credit"></div>
+    </div>
+
     <div id="bearwrap">
-      <svg id="bear" viewBox="0 0 220 190" aria-hidden="true">
-        <!-- drawn back to front, so legs and tail sit behind the body and the
-             ears behind the head. data-part is the order they are revealed in,
-             which is deliberately not the order they are drawn in. -->
-        <g class="bearpart" data-part="5"><rect x="146" y="120" width="28" height="54" rx="14"/></g>
-        <g class="bearpart" data-part="4"><rect x="64" y="120" width="26" height="54" rx="13"/></g>
-        <g class="bearpart" data-part="6"><circle cx="181" cy="104" r="11"/></g>
-        <g class="bearpart" data-part="3"><circle cx="33" cy="45" r="11"/><circle cx="63" cy="43" r="11"/></g>
-        <g class="bearpart" data-part="1"><ellipse cx="120" cy="95" rx="58" ry="40"/></g>
-        <g class="bearpart" data-part="2"><circle cx="48" cy="72" r="30"/><ellipse cx="22" cy="81" rx="19" ry="13"/></g>
-        <g class="bearpart face" data-part="7"><circle cx="45" cy="66" r="4.5"/><ellipse cx="14" cy="77" rx="7" ry="5.5"/></g>
+      <svg id="bear" viewBox="0 0 250 185" aria-hidden="true">
+        <!-- Painted back to front, which is not the order the pieces are
+             revealed in: data-part is the reveal order, and the near and far
+             legs of a pair share a number. The legs and the neck go in BEHIND
+             the body, so the legs come out from under the belly and the neck
+             out of the shoulder with no seam drawn across either join. The
+             far-side legs are offset into a stride and shaded, which is what
+             gives him depth without any line work inside the silhouette. -->
+        <g class="bearpart" data-part="4"><path class="far" d="M124 114 C120 132 119 146 120 156 C121 165 128 169 136 168 C144 167 148 161 147 152 C145 138 146 126 148 114 Z"/></g>
+        <g class="bearpart" data-part="5"><path class="far" d="M194 112 C187 128 186 144 188 154 C190 163 197 167 205 166 C213 165 217 159 216 150 C214 136 218 124 222 110 Z"/></g>
+        <g class="bearpart" data-part="4"><path d="M100 112 C95 132 94 150 95 160 C96 170 105 174 115 173 C125 172 129 165 128 156 C126 141 126 124 126 112 Z"/></g>
+        <g class="bearpart" data-part="5"><path d="M172 110 C164 128 162 148 164 158 C166 168 175 172 185 171 C195 170 200 163 199 154 C197 139 201 122 205 108 Z"/></g>
+        <g class="bearpart" data-part="6"><path d="M222 100 C230 96 236 102 235 109 C234 115 227 117 221 114 Z"/></g>
+        <g class="bearpart" data-part="3"><ellipse class="far" cx="74" cy="47" rx="7.5" ry="6.5"/><ellipse cx="54" cy="43" rx="9.5" ry="8.5"/></g>
+        <g class="bearpart" data-part="2"><path d="M98 84 C94 68 82 54 62 50 C42 46 20 58 12 74 C5 86 8 97 20 103 C34 110 54 112 70 107 C84 102 94 108 100 122 C106 110 104 94 98 84 Z"/></g>
+        <g class="bearpart" data-part="1"><path d="M90 98 C94 80 116 68 152 66 C190 64 216 76 222 98 C227 116 215 130 192 131 C160 134 122 132 102 124 C92 118 88 108 90 98 Z"/></g>
+        <g class="bearpart face" data-part="7">
+          <circle cx="46" cy="74" r="4.3"/>
+          <ellipse cx="14" cy="80" rx="8.5" ry="7"/>
+        </g>
       </svg>
       <div id="bearcount" aria-live="polite"></div>
     </div>
   </div>
+
+  <!-- 1-second flash message -->
+  <div id="flash" class="hidden"></div>
+
 
   <!-- the guess bar -->
   <form id="guessbar" autocomplete="off">

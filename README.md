@@ -219,8 +219,11 @@ between visits. It works in Solo and in Teams.
 
 Hangman spends the same eight hints, but you choose them a letter at a time
 instead of clicking **Hint**. Switch it on and the round opens with the blanks
-already on the board — that is hint one of the eight — and a grid of A–Z under
-the photo, with a polar bear beside it.
+already on the board — that is hint one of the eight — the A–Z grid down the
+left of the photo, and a polar bear on the right of it. Under the photo is just
+the guess bar, the way it has always been. On a screen too narrow to flank the
+photo, the photo takes the full width and the letters and the bear tuck in
+underneath it, still one on each side.
 
 The seven hints that are left are yours to spend on letters:
 
@@ -230,9 +233,11 @@ The seven hints that are left are yours to spend on letters:
   through
 
 Either way it costs one of the seven, so a letter is worth the same point a
-hint is. The bear is drawn in seven pieces — body, head, ears, front leg, back
-leg, tail, and finally his face — and finishing him ends the round. He is not
-hanging from anything; he is simply being drawn.
+hint is. The bear is drawn in seven pieces — body, head, ears, front legs, hind
+legs, tail, and finally his face — and finishing him ends the round. He is not
+hanging from anything; he is simply being drawn. The far-side legs and ear are
+shaded rather than outlined, and the legs and neck are painted behind the body,
+so he has some depth without a seam drawn anywhere inside his outline.
 
 The guess bar stays where it is, so you can still type the whole name at any
 point and take the round outright. A wrong name costs what a wrong letter
