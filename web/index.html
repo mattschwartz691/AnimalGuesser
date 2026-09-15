@@ -74,6 +74,27 @@
   <!-- 1-second flash message -->
   <div id="flash" class="hidden"></div>
 
+  <!-- hangman mode: the letter grid on one side, the polar bear on the other.
+       He gains a body part for every wrong letter; seven and he is finished. -->
+  <div id="hangman">
+    <div id="keys" role="group" aria-label="Guess a letter"></div>
+    <div id="bearwrap">
+      <svg id="bear" viewBox="0 0 220 190" aria-hidden="true">
+        <!-- drawn back to front, so legs and tail sit behind the body and the
+             ears behind the head. data-part is the order they are revealed in,
+             which is deliberately not the order they are drawn in. -->
+        <g class="bearpart" data-part="5"><rect x="146" y="120" width="28" height="54" rx="14"/></g>
+        <g class="bearpart" data-part="4"><rect x="64" y="120" width="26" height="54" rx="13"/></g>
+        <g class="bearpart" data-part="6"><circle cx="181" cy="104" r="11"/></g>
+        <g class="bearpart" data-part="3"><circle cx="33" cy="45" r="11"/><circle cx="63" cy="43" r="11"/></g>
+        <g class="bearpart" data-part="1"><ellipse cx="120" cy="95" rx="58" ry="40"/></g>
+        <g class="bearpart" data-part="2"><circle cx="48" cy="72" r="30"/><ellipse cx="22" cy="81" rx="19" ry="13"/></g>
+        <g class="bearpart face" data-part="7"><circle cx="45" cy="66" r="4.5"/><ellipse cx="14" cy="77" rx="7" ry="5.5"/></g>
+      </svg>
+      <div id="bearcount" aria-live="polite"></div>
+    </div>
+  </div>
+
   <!-- the guess bar -->
   <form id="guessbar" autocomplete="off">
     <input id="guess" type="text" placeholder="What animal is this?"
@@ -111,7 +132,7 @@
   <h2 class="cathead">Categories</h2>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="mammals" checked><span class="switch"></span><span class="catname">Mammals</span><span class="catnum" data-count="mammals"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="reptiles" checked><span class="switch"></span><span class="catname">Reptiles</span><span class="catnum" data-count="reptiles"></span></label>
-    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="birds" checked><span class="switch"></span><span class="catname">Birds</span><span class="catnum" data-count="birds"></span></label>
+    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="birds" checked><span class="switch"></span><span class="catname">World Birds<span class="catsub">Everywhere but the United States</span></span><span class="catnum" data-count="birds"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="sea" checked><span class="switch"></span><span class="catname">Sea Animals</span><span class="catnum" data-count="sea"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="fish" checked><span class="switch"></span><span class="catname">Fish</span><span class="catnum" data-count="fish"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="amphibians" checked><span class="switch"></span><span class="catname">Amphibians</span><span class="catnum" data-count="amphibians"></span></label>
@@ -129,6 +150,7 @@
 
   <h2 class="cathead">Extras</h2>
     <label class="cat"><input type="checkbox" id="buddy"><span class="switch"></span><span class="catname">Buddy Mode<span class="catsub">RAWR! when you get it, A Hee Hoo when you don't</span></span></label>
+    <label class="cat"><input type="checkbox" id="hangman-toggle"><span class="switch"></span><span class="catname">Hangman<span class="catsub">Spend your hints on letters, and don't finish the polar bear</span></span></label>
 
     <div id="restartrow">
       <button type="button" id="restart">Restart</button>

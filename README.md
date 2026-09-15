@@ -52,6 +52,16 @@ be interrupted by the guess box stealing focus mid-word.
   with the Latin name under it, and the answer appears below the photo.
 - Click **Next →** for a new animal. Plays as long as you like.
 
+**Which animal comes next** is decided category first, animal second: the game
+picks one of your switched-on categories at random and then an animal from
+inside it. Drawing straight from the pool would let the big categories crowd
+everything else out — 12,902 bugs against 84 cat breeds means a bag-of-all-animals
+shuffle shows you a cat breed roughly once in three hundred turns. Picking the
+category first gives each of them the same share of the turns. An animal filed
+under several categories still comes up more often than a single-category one,
+which is the intended price of the trade. Inside a category the order is
+shuffled and worked through before anything repeats.
+
 ### Guessing a word at a time
 
 Any word of the name that you say gets filled in, and the round continues.
@@ -110,6 +120,13 @@ answer, so that hint always scores — the only names that never reach it are th
 four seven-word monsters in the data, whose first letters alone eat the budget.
 Since a wrong guess spends a hint, the answer comes up on the ninth wrong one.
 
+**A hint you are charged for always puts something new on the board.** Naming a
+word of the name is what makes this tricky: it brings the whole board up, blanks
+and all, which is exactly what hint 1 sells. Guessing a word therefore hands you
+that first hint for free, and a hint that would reveal only what is already
+showing is skipped rather than billed. The same goes for the hints that wrong
+guesses spend.
+
 Answers are checked leniently but not carelessly. Common alternative names work
 (`hippo` or `hippopotamus`, `puma` or `cougar` or `mountain lion`), and spelling
 is forgiven — `hipopotamus`, `elefant`, `orangutang`, `crocodil`, `sea lilly`.
@@ -131,7 +148,7 @@ switch everything off but **Mammals** and you will only be shown mammals.
 | | |
 |---|---|
 | Mammals | Reptiles |
-| Birds | Sea Animals |
+| World Birds | Sea Animals |
 | Fish | Amphibians |
 | Land Animals | Bugs/Insects |
 | United States Birds | Felines |
@@ -162,7 +179,15 @@ iNaturalist's United States — 808 of them. The native filter is what keeps it 
 emu, an ostrich and a kookaburra all have North American records from escapees
 and farms, and none of them belong in the category.
 
-The categories overlap on purpose, and an animal appears if *any* of its
+**World Birds and United States Birds do not overlap.** World Birds is the
+3,741 birds from everywhere *else*; United States Birds is the other 808. Tick
+both and you get all 4,549 birds in the game, tick either and you get exactly
+that half. Keeping them apart is what stops the US birds being counted twice
+when the game picks a category to draw from, which would have given birds a
+double share of the turns. This is the one pair of categories that is
+deliberately disjoint.
+
+The other categories overlap on purpose, and an animal appears if *any* of its
 categories is on. A dolphin is a mammal **and** a sea animal; a sea turtle is a
 reptile **and** a sea animal; a penguin is a bird, a sea animal and a land
 animal. Fully aquatic animals are not land animals, and freshwater species
@@ -185,6 +210,43 @@ game state, so they survive a restart.
 game says **RAWR!** when you get one and **A Hee Hoo** when you don't, instead
 of CORRECT! and WRONG ANSWER!. It applies to the wrong guesses that spend a
 hint too, and the setting is remembered between visits.
+
+**Hangman** is the toggle under it, and is described below. Like the others it
+is a setting rather than game state, so it survives a restart and is remembered
+between visits. It works in Solo and in Teams.
+
+### Hangman
+
+Hangman spends the same eight hints, but you choose them a letter at a time
+instead of clicking **Hint**. Switch it on and the round opens with the blanks
+already on the board — that is hint one of the eight — and a grid of A–Z under
+the photo, with a polar bear beside it.
+
+The seven hints that are left are yours to spend on letters:
+
+- a **hit** fills that letter in everywhere it appears in the name, and the key
+  turns green
+- a **miss** hands the polar bear another body part, and the key is struck
+  through
+
+Either way it costs one of the seven, so a letter is worth the same point a
+hint is. The bear is drawn in seven pieces — body, head, ears, front leg, back
+leg, tail, and finally his face — and finishing him ends the round. He is not
+hanging from anything; he is simply being drawn.
+
+The guess bar stays where it is, so you can still type the whole name at any
+point and take the round outright. A wrong name costs what a wrong letter
+costs: one guess and one more piece of the bear.
+
+Because a correct letter also spends one of the seven, the bear only ever gets
+finished by a player who wastes all seven. Guess even one letter right and he
+stops at six — you run out of letters with the bear unfinished, and the round
+stays open for you to type the name or give up. That is the intended shape: the
+bear filling up means the guessing went badly, not that time ran out.
+
+Revealing every letter wins the round there and then. A letter with no key on
+the grid — the okina in *ʻApapane*, the Greek upsilon in *Silver Υ* — is shown
+from the start rather than left as a blank nothing could ever fill.
 
 ## Difficulty
 

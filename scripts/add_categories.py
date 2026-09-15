@@ -100,7 +100,13 @@ def main():
         # from the rules below, so they are preserved, not recomputed.
         EXTERNAL = {"usbirds", "felines", "catbreeds", "dogbreeds"}
         keep = [c for c in (a.get("cats") or []) if c in EXTERNAL]
-        a["cats"] = sorted(set(categorise(a) + keep))
+        cats = set(categorise(a) + keep)
+        # "Birds" means the birds of the world that are NOT United States
+        # birds. The two are disjoint, so ticking both gives you every bird
+        # and neither category's size is inflated by the other's.
+        if "usbirds" in cats:
+            cats.discard("birds")
+        a["cats"] = sorted(cats)
     json.dump(d, open(DATA, "w"), indent=1)
     n = collections.Counter(c for a in d["animals"] for c in a["cats"])
     print(f"categorised {len(d['animals'])} animals\n")

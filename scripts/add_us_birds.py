@@ -55,12 +55,18 @@ def main():
     tagged = birds = 0
     for a in d["animals"]:
         cats = set(a.get("cats", []))
-        cats.discard("usbirds")
-        if "birds" in cats:
+        # The two bird categories are disjoint, so a bird already sorted into
+        # one of them has to be recognised before either is cleared -- otherwise
+        # a second run would strip a US bird of both and leave it uncategorised.
+        is_bird = bool(cats & {"birds", "usbirds"})
+        cats -= {"birds", "usbirds"}
+        if is_bird:
             birds += 1
             if a["id"] in na:
                 cats.add("usbirds")
                 tagged += 1
+            else:
+                cats.add("birds")
         a["cats"] = sorted(cats)
     json.dump(d, open(DATA, "w"), indent=1)
     print(f"tagged {tagged:,} of the {birds:,} birds in the game as United States birds")

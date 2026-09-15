@@ -195,6 +195,52 @@ main{
 #flash.right{color:var(--green)}
 #flash.part{color:#ffb020; font-size:21px}
 
+/* ---- hangman: letter grid one side, polar bear the other ---- */
+#hangman{
+  display:none; width:100%; max-width:580px; margin-top:16px;
+  gap:18px; align-items:flex-start; justify-content:center;
+}
+#hangman.show{display:flex}
+#keys{
+  flex:1 1 280px; min-width:0;
+  display:grid; grid-template-columns:repeat(7,minmax(0,1fr)); gap:6px;
+}
+.key{
+  aspect-ratio:1/1; min-width:0; padding:0; cursor:pointer;
+  font-size:15px; font-weight:700; line-height:1;
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  background:var(--panel); color:var(--ink);
+  border:1px solid var(--line); border-radius:8px;
+  transition:background .15s, color .15s, border-color .15s, opacity .15s;
+}
+.key:hover:not(:disabled){border-color:var(--accent); color:var(--accent)}
+.key:disabled{cursor:not-allowed; opacity:.35}
+/* a letter already spent outranks the plain disabled look, so these come after */
+.key.hit{
+  background:var(--green); border-color:var(--green); color:#06101f; opacity:1;
+}
+.key.miss{
+  background:transparent; border-color:var(--line); color:#4a5666;
+  opacity:1; text-decoration:line-through;
+}
+
+#bearwrap{
+  flex:0 0 150px; display:flex; flex-direction:column; align-items:center; gap:4px;
+}
+#bear{width:150px; height:130px; overflow:visible}
+.bearpart{opacity:0; transition:opacity .35s ease}
+.bearpart.on{opacity:1}
+.bearpart>*{fill:var(--ink); stroke:var(--line); stroke-width:3}
+/* the eye and the nose are the dark bits, and want no outline of their own */
+.bearpart.face>*{fill:#11151c; stroke:none}
+#bearcount{
+  font-size:11.5px; color:var(--dim); text-align:center; min-height:16px;
+}
+#bearcount.done{color:var(--red); font-weight:700}
+
+/* the Hint button steps aside in hangman mode -- the grid is the hint now */
+#hintwrap.hidden{display:none}
+
 /* ---- guess bar ---- */
 #guessbar{
   margin-top:14px; display:flex; gap:8px; width:100%; max-width:580px;
@@ -367,4 +413,10 @@ main{
   #guessbar{max-width:100%}
   #submit,#giveup,#hint,#badphoto{padding-left:11px; padding-right:11px; font-size:13px}
   #scoreline{font-size:12px}
+  /* the bear goes above the letters so neither gets squeezed thin */
+  #hangman{flex-direction:column-reverse; align-items:center; gap:10px}
+  #keys{width:100%; flex:none; gap:5px}
+  #bearwrap{flex:none}
+  #bear{width:124px; height:108px}
+  .key{font-size:14px}
 }
