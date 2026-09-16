@@ -51,6 +51,19 @@ FRESHWATER_ONLY = {
   "Titicaca Water Frog","Rubber Eel",
 }
 
+# Most specific first. Ties never happen: the first match wins outright.
+EXCLUSIVE_ORDER = ["catbreeds", "dogbreeds", "felines", "usbirds", "birds",
+                   "mammals", "reptiles", "amphibians", "fish", "bugs",
+                   "sea", "land"]
+
+def exclusive(cats):
+    """The single category an animal belongs in, out of everything claiming it."""
+    for c in EXCLUSIVE_ORDER:
+        if c in cats:
+            return c
+    return None
+
+
 def categorise(a):
     g, sci, name = a.get("group",""), a.get("sci",""), a["name"]
     cats = set()
@@ -101,12 +114,13 @@ def main():
         EXTERNAL = {"usbirds", "felines", "catbreeds", "dogbreeds"}
         keep = [c for c in (a.get("cats") or []) if c in EXTERNAL]
         cats = set(categorise(a) + keep)
-        # "Birds" means the birds of the world that are NOT United States
-        # birds. The two are disjoint, so ticking both gives you every bird
-        # and neither category's size is inflated by the other's.
-        if "usbirds" in cats:
-            cats.discard("birds")
-        a["cats"] = sorted(cats)
+        # Every category is exclusive: an animal lands in exactly one, the
+        # most specific that claims it. So "Birds" is the birds of the world
+        # that are not United States birds, "Mammals" excludes the cats and
+        # dogs that have their own categories, "Sea Animals" is the marine
+        # life no taxonomic group claims (the octopus, the jellyfish), and
+        # "Land Animals" is whatever nothing else claimed.
+        a["cats"] = [exclusive(cats)] if cats else []
     json.dump(d, open(DATA, "w"), indent=1)
     n = collections.Counter(c for a in d["animals"] for c in a["cats"])
     print(f"categorised {len(d['animals'])} animals\n")

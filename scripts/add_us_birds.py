@@ -59,7 +59,7 @@ def main():
         # one of them has to be recognised before either is cleared -- otherwise
         # a second run would strip a US bird of both and leave it uncategorised.
         is_bird = bool(cats & {"birds", "usbirds"})
-        cats -= {"birds", "usbirds"}
+        cats -= {"birds", "usbirds"}   # categories are exclusive: one or the other
         if is_bird:
             birds += 1
             if a["id"] in na:

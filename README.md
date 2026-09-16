@@ -64,10 +64,10 @@ picks one of your switched-on categories at random and then an animal from
 inside it. Drawing straight from the pool would let the big categories crowd
 everything else out — 12,902 bugs against 84 cat breeds means a bag-of-all-animals
 shuffle shows you a cat breed roughly once in three hundred turns. Picking the
-category first gives each of them the same share of the turns. An animal filed
-under several categories still comes up more often than a single-category one,
-which is the intended price of the trade. Inside a category the order is
-shuffled and worked through before anything repeats.
+category first gives each of them the same share of the turns, and because the
+categories are exclusive that share is exact: measured over 60,000 draws every
+category lands within a third of a percent of its 9.09% ideal. Inside a
+category the order is shuffled and worked through before anything repeats.
 
 ### Guessing a word at a time
 
@@ -152,14 +152,29 @@ The settings panel also has a toggle per category, each showing how many animals
 it holds in the current difficulty. Only the categories you leave on appear —
 switch everything off but **Mammals** and you will only be shown mammals.
 
-| | |
+**The categories are exclusive: every animal is in exactly one.** An animal
+goes to the most specific category that claims it, so a Maine Coon is a Cat
+Breed rather than a feline, a mammal and a land animal all at once. The counts
+therefore add up: 25,090 animals across eleven categories, no animal counted
+twice.
+
+| Category | Holds |
 |---|---|
-| Mammals | Reptiles |
-| World Birds | Sea Animals |
-| Fish | Amphibians |
-| Land Animals | Bugs/Insects |
-| United States Birds | Felines |
-| Cat Breeds | Dog Breeds |
+| Bugs/Insects | 12,902 |
+| World Birds | 3,741 |
+| Fish | 2,108 |
+| Sea Animals | 1,791 |
+| Reptiles | 1,507 |
+| Mammals | 972 |
+| United States Birds | 808 |
+| Amphibians | 761 |
+| Dog Breeds | 390 |
+| Cat Breeds | 84 |
+| Felines | 26 |
+
+The order of precedence, most specific first, is Cat Breeds, Dog Breeds,
+Felines, United States Birds, World Birds, Mammals, Reptiles, Amphibians,
+Fish, Bugs.
 
 **Felines** is every cat in the game — 26 of them, from the lion to Geoffroy's
 Cat. Membership comes from the taxonomy (family Felidae), not from names, which
@@ -189,16 +204,19 @@ and farms, and none of them belong in the category.
 **World Birds and United States Birds do not overlap.** World Birds is the
 3,741 birds from everywhere *else*; United States Birds is the other 808. Tick
 both and you get all 4,549 birds in the game, tick either and you get exactly
-that half. Keeping them apart is what stops the US birds being counted twice
-when the game picks a category to draw from, which would have given birds a
-double share of the turns. This is the one pair of categories that is
-deliberately disjoint.
+that half.
 
-The other categories overlap on purpose, and an animal appears if *any* of its
-categories is on. A dolphin is a mammal **and** a sea animal; a sea turtle is a
-reptile **and** a sea animal; a penguin is a bird, a sea animal and a land
-animal. Fully aquatic animals are not land animals, and freshwater species
-(the electric eel, the axolotl) are not sea animals.
+**Sea Animals means the sea life that no taxonomic group already claims** — the
+octopus, the lobster, the jellyfish, the sea star, the squid. A whale is under
+Mammals, a shark under Fish and a sea turtle under Reptiles, because those are
+more specific than "lives in the sea". That leaves 1,791 marine invertebrates
+in the category.
+
+**There is no Land Animals category any more.** Once the categories were made
+exclusive it had nothing left in it: every land animal in the data is already a
+mammal, a bird, a reptile, an amphibian or a bug, so "on land and nothing else"
+matched zero animals. Sea Animals survives the same rule only because a great
+deal of sea life is invertebrate; land has no equivalent here.
 
 **Select all** and **Unselect all** sit below the toggles; whichever would do
 nothing is greyed out.

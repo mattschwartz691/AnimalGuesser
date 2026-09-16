@@ -26,7 +26,10 @@ const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode
 const FLASH_MS = 1000;
 // Unicode-aware so accented letters count as letters, not punctuation.
 const IS_LETTER = /[\p{L}\p{N}]/u;
-const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians","land",
+// Every animal is in exactly one of these. There is no "land" any more: with
+// the categories exclusive it had nothing left in it, since every land animal
+// is already a mammal, bird, reptile, amphibian or bug.
+const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians",
                   "bugs","usbirds","felines","catbreeds","dogbreeds"];
 
 let ALL = [];            // every animal record
@@ -1013,6 +1016,11 @@ function restoreCats() {
   if (saved !== null) {
     const want = new Set(saved.split(",").filter(Boolean));
     for (const b of catBoxes()) b.checked = want.has(b.dataset.cat);
+    // A preference saved before the categories were made exclusive can name
+    // only categories that no longer exist ("land"), which would leave someone
+    // staring at an empty game. Fall back to all of them.
+    if (!catBoxes().some(b => b.checked))
+      for (const b of catBoxes()) b.checked = true;
   }
   onCats = new Set(catBoxes().filter(b => b.checked).map(b => b.dataset.cat));
 }
