@@ -226,10 +226,14 @@ The order of precedence, most specific first, is Cat Breeds, Dog Breeds,
 Felines, United States Birds, World Birds, Mammals, Reptiles, Amphibians,
 Fish, Bugs.
 
-**Felines** is every cat in the game — 26 of them, from the lion to Geoffroy's
-Cat. Membership comes from the taxonomy (family Felidae), not from names, which
-is what keeps tiger *moths*, leopard *frogs*, lynx *spiders* and sea *lions*
-out of it.
+**Felines** is every extant wild cat, once each — all 45 of them, from the lion
+to the bay cat. Membership comes from the taxonomy (family Felidae), not from
+names, which is what keeps tiger *moths*, leopard *frogs*, lynx *spiders* and
+sea *lions* out of it. The list is taken from iNaturalist's Felidae, extinct
+species excluded.
+
+The **domestic cat is not in it** — a house cat is not a wild cat, so *Felis
+catus* is filed under Mammals. The 84 Cat Breeds keep their own category.
 
 **Dog Breeds** is 390 breeds, built the same way as the cats from the FCI
 (international kennel federation) list plus the German, British and American
@@ -380,6 +384,22 @@ Two tiers of data quality live in the file:
   categories derived from taxonomy. Sea-versus-land is inferred from
   wholly-marine clades, so a freshwater fish is simply not marked as a sea
   animal rather than being guessed at.
+
+### No photographs of dead animals
+
+Every photo whose iNaturalist observation is annotated **Dead** is removed:
+roadkill, specimens and the like. 165 photographs came out that way.
+
+The limit is worth stating plainly. iNaturalist records alive-or-dead as an
+annotation on the *observation*, so a photo can only be checked when the game
+stored which observation it came from — and only about 13% of them did. The
+sweep removes every one it can see; it cannot certify the rest. Closing that
+gap means re-fetching a photo for all 25,110 animals with an alive-only filter,
+which is a few hours of crawling rather than a few minutes.
+
+If an animal's only photo turns out to be of a dead one, the photo is kept
+rather than leaving that animal with a blank frame. Three animals are in that
+position.
 
 ### A note on the photos
 
