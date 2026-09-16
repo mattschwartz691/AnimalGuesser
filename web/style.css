@@ -21,6 +21,19 @@ body{
 }
 #gear:hover{color:var(--ink); transform:rotate(60deg)}
 
+/* ---- the link across to the other guesser, mirroring the gear ---- */
+#swap{
+  position:fixed; top:14px; right:14px; z-index:30;
+  height:44px; padding:0 16px; border-radius:22px;
+  display:flex; align-items:center; gap:6px;
+  background:var(--panel); color:var(--dim); text-decoration:none;
+  font-size:13.5px; font-weight:600; letter-spacing:.3px;
+  border:1px solid var(--line);
+  transition:color .15s, border-color .15s;
+}
+#swap:hover{color:var(--ink); border-color:var(--accent)}
+@media (max-width:560px){ #swap{padding:0 12px; font-size:12.5px; height:38px} }
+
 /* ---- title screen and team setup ---- */
 #game{width:100%; display:flex; flex-direction:column; align-items:center}
 #game.hidden{display:none}

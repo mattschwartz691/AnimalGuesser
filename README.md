@@ -14,6 +14,56 @@ Opens <http://localhost:8765/web/>. Ctrl-C to stop.
 (It needs to be served over HTTP rather than opened as a `file://` path, because
 the game fetches its data file. The photos themselves stream from the internet.)
 
+## Things Guesser
+
+A second game at `web/things.html`, linked from the top right of the animal
+page and back again. Same engine, same settings, same hangman board — only the
+data differs, so both pages load the same `game.js` and the page says which
+game it is.
+
+| Category | Holds | Where it comes from |
+|---|---|---|
+| Trees | 297 | iNaturalist photographs |
+| Flowers | 293 | iNaturalist photographs |
+| Flags | 252 | flagcdn |
+| Country Outlines | 177 | drawn here from Natural Earth |
+| Constellations | 88 | drawn here from the d3-celestial star catalogue |
+
+Flowers and trees are real photographs by real people, credited, exactly as
+the animals are. "Flower" and "tree" are not ranks of taxonomy, so membership
+comes from a curated list of genera — the same approach the animal game takes
+for cat breeds and United States birds.
+
+The other three are not photographs, and the game says *Source* rather than
+*Photo* for them. Outlines and constellations are **drawn by the build
+scripts** into small SVG files under `data/things/`, from public data. Nothing
+is AI-generated, here or in the animal game.
+
+Two things the drawing had to get right. Countries with distant overseas
+territories — France with French Guiana, the United States with Guam — would
+otherwise have a bounding box spanning the planet and the country itself
+reduced to a speck, so far-flung parts are dropped by a rule relative to the
+homeland's own size, which leaves genuinely spread-out countries like Indonesia
+and Japan intact. And seven constellations straddle 0h right ascension,
+Ursa Major and Draco among them; those are shifted whole so the figure stays
+in one piece instead of being torn across the seam.
+
+The two games keep their settings apart — Things Guesser stores its own
+difficulty, categories and toggles — so changing one does not disturb the
+other.
+
+### Rebuilding it
+
+```bash
+python3 scripts/things/build_plants.py 8     # flowers and trees, from iNaturalist
+python3 scripts/things/build_world_sky.py <source-dir>   # flags, outlines, constellations
+python3 scripts/things/assemble.py           # -> data/things.json
+python3 scripts/things/make_page.py          # regenerate web/things.html from index.html
+```
+
+`make_page.py` derives the page from `web/index.html`, so a layout change to
+the animal game carries across rather than needing to be made twice.
+
 ## Solo and Teams
 
 The game opens on a title screen with two ways to play. Reloading the page, or

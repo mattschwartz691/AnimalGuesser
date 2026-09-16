@@ -1,0 +1,10362 @@
+[
+ {
+  "id": 900001,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Andorra",
+  "sci": "",
+  "aliases": [
+   "andorra"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ad.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900002,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "United Arab Emirates",
+  "sci": "",
+  "aliases": [
+   "united arab emirates"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ae.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900003,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Afghanistan",
+  "sci": "",
+  "aliases": [
+   "afghanistan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/af.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900004,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Antigua and Barbuda",
+  "sci": "",
+  "aliases": [
+   "antigua and barbuda"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ag.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900005,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Anguilla",
+  "sci": "",
+  "aliases": [
+   "anguilla"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ai.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900006,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Albania",
+  "sci": "",
+  "aliases": [
+   "albania"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/al.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900007,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Armenia",
+  "sci": "",
+  "aliases": [
+   "armenia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/am.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900008,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Angola",
+  "sci": "",
+  "aliases": [
+   "angola"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ao.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900009,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Antarctica",
+  "sci": "",
+  "aliases": [
+   "antarctica"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/aq.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900010,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Argentina",
+  "sci": "",
+  "aliases": [
+   "argentina"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ar.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900011,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "American Samoa",
+  "sci": "",
+  "aliases": [
+   "american samoa"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/as.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900012,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Austria",
+  "sci": "",
+  "aliases": [
+   "austria"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/at.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900013,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Australia",
+  "sci": "",
+  "aliases": [
+   "australia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/au.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900014,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Aruba",
+  "sci": "",
+  "aliases": [
+   "aruba"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/aw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900015,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "\u00c5land Islands",
+  "sci": "",
+  "aliases": [
+   "\u00e5land islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ax.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900016,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Azerbaijan",
+  "sci": "",
+  "aliases": [
+   "azerbaijan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/az.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900017,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bosnia and Herzegovina",
+  "sci": "",
+  "aliases": [
+   "bosnia and herzegovina"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ba.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900018,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Barbados",
+  "sci": "",
+  "aliases": [
+   "barbados"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bb.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900019,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bangladesh",
+  "sci": "",
+  "aliases": [
+   "bangladesh"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bd.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900020,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Belgium",
+  "sci": "",
+  "aliases": [
+   "belgium"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/be.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900021,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Burkina Faso",
+  "sci": "",
+  "aliases": [
+   "burkina faso"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900022,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bulgaria",
+  "sci": "",
+  "aliases": [
+   "bulgaria"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900023,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bahrain",
+  "sci": "",
+  "aliases": [
+   "bahrain"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900024,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Burundi",
+  "sci": "",
+  "aliases": [
+   "burundi"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bi.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900025,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Benin",
+  "sci": "",
+  "aliases": [
+   "benin"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bj.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900026,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Barth\u00e9lemy",
+  "sci": "",
+  "aliases": [
+   "saint barth\u00e9lemy"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900027,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bermuda",
+  "sci": "",
+  "aliases": [
+   "bermuda"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900028,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Brunei",
+  "sci": "",
+  "aliases": [
+   "brunei"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900029,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bolivia",
+  "sci": "",
+  "aliases": [
+   "bolivia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bo.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900030,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Caribbean Netherlands",
+  "sci": "",
+  "aliases": [
+   "caribbean netherlands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bq.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900031,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Brazil",
+  "sci": "",
+  "aliases": [
+   "brazil"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/br.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900032,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bahamas",
+  "sci": "",
+  "aliases": [
+   "bahamas"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bs.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900033,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bhutan",
+  "sci": "",
+  "aliases": [
+   "bhutan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900034,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Bouvet Island",
+  "sci": "",
+  "aliases": [
+   "bouvet island"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900035,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Botswana",
+  "sci": "",
+  "aliases": [
+   "botswana"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900036,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Belarus",
+  "sci": "",
+  "aliases": [
+   "belarus"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/by.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900037,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Belize",
+  "sci": "",
+  "aliases": [
+   "belize"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/bz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900038,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Canada",
+  "sci": "",
+  "aliases": [
+   "canada"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ca.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900039,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cocos (Keeling) Islands",
+  "sci": "",
+  "aliases": [
+   "cocos (keeling) islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900040,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "DR Congo",
+  "sci": "",
+  "aliases": [
+   "dr congo"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cd.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900041,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Central African Republic",
+  "sci": "",
+  "aliases": [
+   "central african republic"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900042,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Republic of the Congo",
+  "sci": "",
+  "aliases": [
+   "republic of the congo"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900043,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Switzerland",
+  "sci": "",
+  "aliases": [
+   "switzerland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ch.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900044,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "C\u00f4te d'Ivoire (Ivory Coast)",
+  "sci": "",
+  "aliases": [
+   "c\u00f4te d'ivoire (ivory coast)"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ci.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900045,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cook Islands",
+  "sci": "",
+  "aliases": [
+   "cook islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ck.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900046,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Chile",
+  "sci": "",
+  "aliases": [
+   "chile"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900047,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cameroon",
+  "sci": "",
+  "aliases": [
+   "cameroon"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900048,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "China",
+  "sci": "",
+  "aliases": [
+   "china"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900049,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Colombia",
+  "sci": "",
+  "aliases": [
+   "colombia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/co.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900050,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Costa Rica",
+  "sci": "",
+  "aliases": [
+   "costa rica"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900051,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Cuba",
+  "sci": "",
+  "aliases": [
+   "cuba"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900052,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cape Verde",
+  "sci": "",
+  "aliases": [
+   "cape verde"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900053,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cura\u00e7ao",
+  "sci": "",
+  "aliases": [
+   "cura\u00e7ao"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900054,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Christmas Island",
+  "sci": "",
+  "aliases": [
+   "christmas island"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cx.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900055,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cyprus",
+  "sci": "",
+  "aliases": [
+   "cyprus"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cy.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900056,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Czechia",
+  "sci": "",
+  "aliases": [
+   "czechia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/cz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900057,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Germany",
+  "sci": "",
+  "aliases": [
+   "germany"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/de.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900058,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Djibouti",
+  "sci": "",
+  "aliases": [
+   "djibouti"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/dj.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900059,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Denmark",
+  "sci": "",
+  "aliases": [
+   "denmark"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/dk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900060,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Dominica",
+  "sci": "",
+  "aliases": [
+   "dominica"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/dm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900061,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Dominican Republic",
+  "sci": "",
+  "aliases": [
+   "dominican republic"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/do.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900062,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Algeria",
+  "sci": "",
+  "aliases": [
+   "algeria"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/dz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900063,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Ecuador",
+  "sci": "",
+  "aliases": [
+   "ecuador"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ec.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900064,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Estonia",
+  "sci": "",
+  "aliases": [
+   "estonia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ee.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900065,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Egypt",
+  "sci": "",
+  "aliases": [
+   "egypt"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/eg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900066,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Western Sahara",
+  "sci": "",
+  "aliases": [
+   "western sahara"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/eh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900067,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Eritrea",
+  "sci": "",
+  "aliases": [
+   "eritrea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/er.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900068,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Spain",
+  "sci": "",
+  "aliases": [
+   "spain"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/es.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900069,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Ethiopia",
+  "sci": "",
+  "aliases": [
+   "ethiopia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/et.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900070,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "European Union",
+  "sci": "",
+  "aliases": [
+   "european union"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/eu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900071,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Finland",
+  "sci": "",
+  "aliases": [
+   "finland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fi.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900072,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Fiji",
+  "sci": "",
+  "aliases": [
+   "fiji"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fj.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900073,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Falkland Islands",
+  "sci": "",
+  "aliases": [
+   "falkland islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900074,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Micronesia",
+  "sci": "",
+  "aliases": [
+   "micronesia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900075,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Faroe Islands",
+  "sci": "",
+  "aliases": [
+   "faroe islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fo.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900076,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "France",
+  "sci": "",
+  "aliases": [
+   "france"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/fr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900077,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Gabon",
+  "sci": "",
+  "aliases": [
+   "gabon"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ga.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900078,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "United Kingdom",
+  "sci": "",
+  "aliases": [
+   "united kingdom"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gb.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900079,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Grenada",
+  "sci": "",
+  "aliases": [
+   "grenada"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gd.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900080,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Georgia",
+  "sci": "",
+  "aliases": [
+   "georgia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ge.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900081,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "French Guiana",
+  "sci": "",
+  "aliases": [
+   "french guiana"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900082,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guernsey",
+  "sci": "",
+  "aliases": [
+   "guernsey"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900083,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Ghana",
+  "sci": "",
+  "aliases": [
+   "ghana"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900084,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Gibraltar",
+  "sci": "",
+  "aliases": [
+   "gibraltar"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gi.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900085,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Greenland",
+  "sci": "",
+  "aliases": [
+   "greenland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900086,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Gambia",
+  "sci": "",
+  "aliases": [
+   "gambia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900087,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guinea",
+  "sci": "",
+  "aliases": [
+   "guinea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900088,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guadeloupe",
+  "sci": "",
+  "aliases": [
+   "guadeloupe"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gp.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900089,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Equatorial Guinea",
+  "sci": "",
+  "aliases": [
+   "equatorial guinea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gq.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900090,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Greece",
+  "sci": "",
+  "aliases": [
+   "greece"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900091,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "South Georgia",
+  "sci": "",
+  "aliases": [
+   "south georgia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gs.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900092,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guatemala",
+  "sci": "",
+  "aliases": [
+   "guatemala"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900093,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guam",
+  "sci": "",
+  "aliases": [
+   "guam"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900094,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guinea-Bissau",
+  "sci": "",
+  "aliases": [
+   "guinea-bissau"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900095,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Guyana",
+  "sci": "",
+  "aliases": [
+   "guyana"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/gy.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900096,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Hong Kong",
+  "sci": "",
+  "aliases": [
+   "hong kong"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/hk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900097,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Heard Island and McDonald Islands",
+  "sci": "",
+  "aliases": [
+   "heard island and mcdonald islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/hm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900098,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Honduras",
+  "sci": "",
+  "aliases": [
+   "honduras"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/hn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900099,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Croatia",
+  "sci": "",
+  "aliases": [
+   "croatia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/hr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900100,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Haiti",
+  "sci": "",
+  "aliases": [
+   "haiti"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ht.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900101,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Hungary",
+  "sci": "",
+  "aliases": [
+   "hungary"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/hu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900102,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Indonesia",
+  "sci": "",
+  "aliases": [
+   "indonesia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/id.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900103,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Ireland",
+  "sci": "",
+  "aliases": [
+   "ireland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ie.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900104,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Israel",
+  "sci": "",
+  "aliases": [
+   "israel"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/il.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900105,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Isle of Man",
+  "sci": "",
+  "aliases": [
+   "isle of man"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/im.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900106,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "India",
+  "sci": "",
+  "aliases": [
+   "india"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/in.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900107,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "British Indian Ocean Territory",
+  "sci": "",
+  "aliases": [
+   "british indian ocean territory"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/io.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900108,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Iraq",
+  "sci": "",
+  "aliases": [
+   "iraq"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/iq.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900109,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Iran",
+  "sci": "",
+  "aliases": [
+   "iran"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ir.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900110,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Iceland",
+  "sci": "",
+  "aliases": [
+   "iceland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/is.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900111,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Italy",
+  "sci": "",
+  "aliases": [
+   "italy"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/it.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900112,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Jersey",
+  "sci": "",
+  "aliases": [
+   "jersey"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/je.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900113,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Jamaica",
+  "sci": "",
+  "aliases": [
+   "jamaica"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/jm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900114,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Jordan",
+  "sci": "",
+  "aliases": [
+   "jordan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/jo.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900115,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Japan",
+  "sci": "",
+  "aliases": [
+   "japan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/jp.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900116,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Kenya",
+  "sci": "",
+  "aliases": [
+   "kenya"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ke.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900117,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Kyrgyzstan",
+  "sci": "",
+  "aliases": [
+   "kyrgyzstan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900118,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Cambodia",
+  "sci": "",
+  "aliases": [
+   "cambodia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900119,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Kiribati",
+  "sci": "",
+  "aliases": [
+   "kiribati"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ki.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900120,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Comoros",
+  "sci": "",
+  "aliases": [
+   "comoros"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/km.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900121,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Kitts and Nevis",
+  "sci": "",
+  "aliases": [
+   "saint kitts and nevis"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900122,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "North Korea",
+  "sci": "",
+  "aliases": [
+   "north korea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kp.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900123,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "South Korea",
+  "sci": "",
+  "aliases": [
+   "south korea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900124,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Kuwait",
+  "sci": "",
+  "aliases": [
+   "kuwait"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900125,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Cayman Islands",
+  "sci": "",
+  "aliases": [
+   "cayman islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ky.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900126,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Kazakhstan",
+  "sci": "",
+  "aliases": [
+   "kazakhstan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/kz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900127,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Laos",
+  "sci": "",
+  "aliases": [
+   "laos"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/la.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900128,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Lebanon",
+  "sci": "",
+  "aliases": [
+   "lebanon"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lb.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900129,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Lucia",
+  "sci": "",
+  "aliases": [
+   "saint lucia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900130,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Liechtenstein",
+  "sci": "",
+  "aliases": [
+   "liechtenstein"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/li.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900131,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Sri Lanka",
+  "sci": "",
+  "aliases": [
+   "sri lanka"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900132,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Liberia",
+  "sci": "",
+  "aliases": [
+   "liberia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900133,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Lesotho",
+  "sci": "",
+  "aliases": [
+   "lesotho"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ls.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900134,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Lithuania",
+  "sci": "",
+  "aliases": [
+   "lithuania"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900135,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Luxembourg",
+  "sci": "",
+  "aliases": [
+   "luxembourg"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900136,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Latvia",
+  "sci": "",
+  "aliases": [
+   "latvia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/lv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900137,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Libya",
+  "sci": "",
+  "aliases": [
+   "libya"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ly.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900138,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Morocco",
+  "sci": "",
+  "aliases": [
+   "morocco"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ma.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900139,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Monaco",
+  "sci": "",
+  "aliases": [
+   "monaco"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900140,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Moldova",
+  "sci": "",
+  "aliases": [
+   "moldova"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/md.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900141,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Montenegro",
+  "sci": "",
+  "aliases": [
+   "montenegro"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/me.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900142,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Martin",
+  "sci": "",
+  "aliases": [
+   "saint martin"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900143,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Madagascar",
+  "sci": "",
+  "aliases": [
+   "madagascar"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900144,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Marshall Islands",
+  "sci": "",
+  "aliases": [
+   "marshall islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900145,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "North Macedonia",
+  "sci": "",
+  "aliases": [
+   "north macedonia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900146,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mali",
+  "sci": "",
+  "aliases": [
+   "mali"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ml.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900147,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Myanmar",
+  "sci": "",
+  "aliases": [
+   "myanmar"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900148,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mongolia",
+  "sci": "",
+  "aliases": [
+   "mongolia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900149,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Macau",
+  "sci": "",
+  "aliases": [
+   "macau"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mo.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900150,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Northern Mariana Islands",
+  "sci": "",
+  "aliases": [
+   "northern mariana islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mp.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900151,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Martinique",
+  "sci": "",
+  "aliases": [
+   "martinique"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mq.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900152,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mauritania",
+  "sci": "",
+  "aliases": [
+   "mauritania"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900153,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Montserrat",
+  "sci": "",
+  "aliases": [
+   "montserrat"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ms.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900154,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Malta",
+  "sci": "",
+  "aliases": [
+   "malta"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900155,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mauritius",
+  "sci": "",
+  "aliases": [
+   "mauritius"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900156,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Maldives",
+  "sci": "",
+  "aliases": [
+   "maldives"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900157,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Malawi",
+  "sci": "",
+  "aliases": [
+   "malawi"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900158,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Mexico",
+  "sci": "",
+  "aliases": [
+   "mexico"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mx.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900159,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Malaysia",
+  "sci": "",
+  "aliases": [
+   "malaysia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/my.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900160,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mozambique",
+  "sci": "",
+  "aliases": [
+   "mozambique"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/mz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900161,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Namibia",
+  "sci": "",
+  "aliases": [
+   "namibia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/na.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900162,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "New Caledonia",
+  "sci": "",
+  "aliases": [
+   "new caledonia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900163,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Niger",
+  "sci": "",
+  "aliases": [
+   "niger"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ne.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900164,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Norfolk Island",
+  "sci": "",
+  "aliases": [
+   "norfolk island"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900165,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Nigeria",
+  "sci": "",
+  "aliases": [
+   "nigeria"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ng.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900166,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Nicaragua",
+  "sci": "",
+  "aliases": [
+   "nicaragua"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ni.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900167,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Netherlands",
+  "sci": "",
+  "aliases": [
+   "netherlands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900168,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Norway",
+  "sci": "",
+  "aliases": [
+   "norway"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/no.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900169,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Nepal",
+  "sci": "",
+  "aliases": [
+   "nepal"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/np.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900170,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Nauru",
+  "sci": "",
+  "aliases": [
+   "nauru"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900171,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Niue",
+  "sci": "",
+  "aliases": [
+   "niue"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900172,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "New Zealand",
+  "sci": "",
+  "aliases": [
+   "new zealand"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/nz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900173,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Oman",
+  "sci": "",
+  "aliases": [
+   "oman"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/om.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900174,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Panama",
+  "sci": "",
+  "aliases": [
+   "panama"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pa.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900175,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Peru",
+  "sci": "",
+  "aliases": [
+   "peru"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pe.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900176,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "French Polynesia",
+  "sci": "",
+  "aliases": [
+   "french polynesia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900177,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Papua New Guinea",
+  "sci": "",
+  "aliases": [
+   "papua new guinea"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900178,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Philippines",
+  "sci": "",
+  "aliases": [
+   "philippines"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ph.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900179,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Pakistan",
+  "sci": "",
+  "aliases": [
+   "pakistan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900180,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Poland",
+  "sci": "",
+  "aliases": [
+   "poland"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900181,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Pierre and Miquelon",
+  "sci": "",
+  "aliases": [
+   "saint pierre and miquelon"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900182,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Pitcairn Islands",
+  "sci": "",
+  "aliases": [
+   "pitcairn islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900183,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Puerto Rico",
+  "sci": "",
+  "aliases": [
+   "puerto rico"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900184,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Palestine",
+  "sci": "",
+  "aliases": [
+   "palestine"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ps.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900185,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Portugal",
+  "sci": "",
+  "aliases": [
+   "portugal"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900186,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Palau",
+  "sci": "",
+  "aliases": [
+   "palau"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/pw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900187,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Paraguay",
+  "sci": "",
+  "aliases": [
+   "paraguay"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/py.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900188,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Qatar",
+  "sci": "",
+  "aliases": [
+   "qatar"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/qa.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900189,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "R\u00e9union",
+  "sci": "",
+  "aliases": [
+   "r\u00e9union"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/re.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900190,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Romania",
+  "sci": "",
+  "aliases": [
+   "romania"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ro.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900191,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Serbia",
+  "sci": "",
+  "aliases": [
+   "serbia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/rs.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900192,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Russia",
+  "sci": "",
+  "aliases": [
+   "russia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ru.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900193,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Rwanda",
+  "sci": "",
+  "aliases": [
+   "rwanda"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/rw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900194,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Saudi Arabia",
+  "sci": "",
+  "aliases": [
+   "saudi arabia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sa.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900195,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Solomon Islands",
+  "sci": "",
+  "aliases": [
+   "solomon islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sb.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900196,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Seychelles",
+  "sci": "",
+  "aliases": [
+   "seychelles"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900197,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Sudan",
+  "sci": "",
+  "aliases": [
+   "sudan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sd.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900198,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Sweden",
+  "sci": "",
+  "aliases": [
+   "sweden"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/se.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900199,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Singapore",
+  "sci": "",
+  "aliases": [
+   "singapore"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900200,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "sci": "",
+  "aliases": [
+   "saint helena, ascension and tristan da cunha"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sh.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900201,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Slovenia",
+  "sci": "",
+  "aliases": [
+   "slovenia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/si.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900202,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Svalbard and Jan Mayen",
+  "sci": "",
+  "aliases": [
+   "svalbard and jan mayen"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sj.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900203,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Slovakia",
+  "sci": "",
+  "aliases": [
+   "slovakia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900204,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Sierra Leone",
+  "sci": "",
+  "aliases": [
+   "sierra leone"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900205,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "San Marino",
+  "sci": "",
+  "aliases": [
+   "san marino"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900206,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Senegal",
+  "sci": "",
+  "aliases": [
+   "senegal"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900207,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Somalia",
+  "sci": "",
+  "aliases": [
+   "somalia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/so.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900208,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Suriname",
+  "sci": "",
+  "aliases": [
+   "suriname"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900209,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "South Sudan",
+  "sci": "",
+  "aliases": [
+   "south sudan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ss.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900210,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+  "sci": "",
+  "aliases": [
+   "s\u00e3o tom\u00e9 and pr\u00edncipe"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/st.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900211,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "El Salvador",
+  "sci": "",
+  "aliases": [
+   "el salvador"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900212,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Sint Maarten",
+  "sci": "",
+  "aliases": [
+   "sint maarten"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sx.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900213,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Syria",
+  "sci": "",
+  "aliases": [
+   "syria"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sy.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900214,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Eswatini (Swaziland)",
+  "sci": "",
+  "aliases": [
+   "eswatini (swaziland)"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/sz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900215,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Turks and Caicos Islands",
+  "sci": "",
+  "aliases": [
+   "turks and caicos islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900216,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Chad",
+  "sci": "",
+  "aliases": [
+   "chad"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/td.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900217,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "French Southern and Antarctic Lands",
+  "sci": "",
+  "aliases": [
+   "french southern and antarctic lands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900218,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Togo",
+  "sci": "",
+  "aliases": [
+   "togo"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900219,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Thailand",
+  "sci": "",
+  "aliases": [
+   "thailand"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/th.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900220,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tajikistan",
+  "sci": "",
+  "aliases": [
+   "tajikistan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tj.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900221,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tokelau",
+  "sci": "",
+  "aliases": [
+   "tokelau"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900222,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Timor-Leste",
+  "sci": "",
+  "aliases": [
+   "timor-leste"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tl.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900223,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Turkmenistan",
+  "sci": "",
+  "aliases": [
+   "turkmenistan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900224,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tunisia",
+  "sci": "",
+  "aliases": [
+   "tunisia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900225,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tonga",
+  "sci": "",
+  "aliases": [
+   "tonga"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/to.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900226,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Turkey",
+  "sci": "",
+  "aliases": [
+   "turkey"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tr.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900227,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Trinidad and Tobago",
+  "sci": "",
+  "aliases": [
+   "trinidad and tobago"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900228,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tuvalu",
+  "sci": "",
+  "aliases": [
+   "tuvalu"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tv.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900229,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Taiwan",
+  "sci": "",
+  "aliases": [
+   "taiwan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900230,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Tanzania",
+  "sci": "",
+  "aliases": [
+   "tanzania"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/tz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900231,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Ukraine",
+  "sci": "",
+  "aliases": [
+   "ukraine"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ua.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900232,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Uganda",
+  "sci": "",
+  "aliases": [
+   "uganda"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ug.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900233,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "United States Minor Outlying Islands",
+  "sci": "",
+  "aliases": [
+   "united states minor outlying islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/um.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900234,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "United Nations",
+  "sci": "",
+  "aliases": [
+   "united nations"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/un.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900235,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "United States",
+  "sci": "",
+  "aliases": [
+   "united states"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/us.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900236,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Uruguay",
+  "sci": "",
+  "aliases": [
+   "uruguay"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/uy.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900237,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Uzbekistan",
+  "sci": "",
+  "aliases": [
+   "uzbekistan"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/uz.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900238,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Vatican City (Holy See)",
+  "sci": "",
+  "aliases": [
+   "vatican city (holy see)"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/va.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900239,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Saint Vincent and the Grenadines",
+  "sci": "",
+  "aliases": [
+   "saint vincent and the grenadines"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/vc.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900240,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Venezuela",
+  "sci": "",
+  "aliases": [
+   "venezuela"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ve.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900241,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "British Virgin Islands",
+  "sci": "",
+  "aliases": [
+   "british virgin islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/vg.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900242,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "United States Virgin Islands",
+  "sci": "",
+  "aliases": [
+   "united states virgin islands"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/vi.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900243,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "Vietnam",
+  "sci": "",
+  "aliases": [
+   "vietnam"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/vn.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900244,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Vanuatu",
+  "sci": "",
+  "aliases": [
+   "vanuatu"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/vu.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900245,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Wallis and Futuna",
+  "sci": "",
+  "aliases": [
+   "wallis and futuna"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/wf.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900246,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Samoa",
+  "sci": "",
+  "aliases": [
+   "samoa"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ws.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900247,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Kosovo",
+  "sci": "",
+  "aliases": [
+   "kosovo"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/xk.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900248,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Yemen",
+  "sci": "",
+  "aliases": [
+   "yemen"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/ye.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900249,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Mayotte",
+  "sci": "",
+  "aliases": [
+   "mayotte"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/yt.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900250,
+  "tier": "easy",
+  "group": "Flag",
+  "name": "South Africa",
+  "sci": "",
+  "aliases": [
+   "south africa"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/za.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900251,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Zambia",
+  "sci": "",
+  "aliases": [
+   "zambia"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/zm.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900252,
+  "tier": "hard",
+  "group": "Flag",
+  "name": "Zimbabwe",
+  "sci": "",
+  "aliases": [
+   "zimbabwe"
+  ],
+  "cats": [
+   "flags"
+  ],
+  "photos": [
+   {
+    "url": "https://flagcdn.com/w320/zw.png",
+    "credit": "flagcdn.com",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900253,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Russia",
+  "sci": "",
+  "aliases": [
+   "russia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/russia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900254,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Canada",
+  "sci": "",
+  "aliases": [
+   "canada"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/canada.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900255,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "United States of America",
+  "sci": "",
+  "aliases": [
+   "united states of america"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/united-states-of-america.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900256,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "China",
+  "sci": "",
+  "aliases": [
+   "china"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/china.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900257,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Antarctica",
+  "sci": "",
+  "aliases": [
+   "antarctica"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/antarctica.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900258,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Brazil",
+  "sci": "",
+  "aliases": [
+   "brazil"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/brazil.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900259,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Australia",
+  "sci": "",
+  "aliases": [
+   "australia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/australia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900260,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Greenland",
+  "sci": "",
+  "aliases": [
+   "greenland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/greenland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900261,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Kazakhstan",
+  "sci": "",
+  "aliases": [
+   "kazakhstan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kazakhstan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900262,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Argentina",
+  "sci": "",
+  "aliases": [
+   "argentina"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/argentina.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900263,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "India",
+  "sci": "",
+  "aliases": [
+   "india"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/india.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900264,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Algeria",
+  "sci": "",
+  "aliases": [
+   "algeria"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/algeria.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900265,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Dem. Rep. Congo",
+  "sci": "",
+  "aliases": [
+   "dem. rep. congo"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/dem-rep-congo.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900266,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Mongolia",
+  "sci": "",
+  "aliases": [
+   "mongolia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/mongolia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900267,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Mexico",
+  "sci": "",
+  "aliases": [
+   "mexico"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/mexico.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900268,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Saudi Arabia",
+  "sci": "",
+  "aliases": [
+   "saudi arabia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/saudi-arabia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900269,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Sudan",
+  "sci": "",
+  "aliases": [
+   "sudan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/sudan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900270,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Iran",
+  "sci": "",
+  "aliases": [
+   "iran"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/iran.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900271,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Libya",
+  "sci": "",
+  "aliases": [
+   "libya"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/libya.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900272,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Indonesia",
+  "sci": "",
+  "aliases": [
+   "indonesia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/indonesia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900273,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "South Africa",
+  "sci": "",
+  "aliases": [
+   "south africa"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/south-africa.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900274,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Peru",
+  "sci": "",
+  "aliases": [
+   "peru"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/peru.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900275,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Chad",
+  "sci": "",
+  "aliases": [
+   "chad"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/chad.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900276,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Mali",
+  "sci": "",
+  "aliases": [
+   "mali"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/mali.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900277,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Angola",
+  "sci": "",
+  "aliases": [
+   "angola"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/angola.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900278,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Niger",
+  "sci": "",
+  "aliases": [
+   "niger"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/niger.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900279,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Colombia",
+  "sci": "",
+  "aliases": [
+   "colombia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/colombia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900280,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Ethiopia",
+  "sci": "",
+  "aliases": [
+   "ethiopia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/ethiopia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900281,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Bolivia",
+  "sci": "",
+  "aliases": [
+   "bolivia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bolivia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900282,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Mauritania",
+  "sci": "",
+  "aliases": [
+   "mauritania"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/mauritania.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900283,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Norway",
+  "sci": "",
+  "aliases": [
+   "norway"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/norway.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900284,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Egypt",
+  "sci": "",
+  "aliases": [
+   "egypt"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/egypt.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900285,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Chile",
+  "sci": "",
+  "aliases": [
+   "chile"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/chile.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900286,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Turkey",
+  "sci": "",
+  "aliases": [
+   "turkey"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/turkey.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900287,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Pakistan",
+  "sci": "",
+  "aliases": [
+   "pakistan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/pakistan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900288,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Sweden",
+  "sci": "",
+  "aliases": [
+   "sweden"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/sweden.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900289,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Tanzania",
+  "sci": "",
+  "aliases": [
+   "tanzania"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/tanzania.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900290,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Nigeria",
+  "sci": "",
+  "aliases": [
+   "nigeria"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/nigeria.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900291,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Venezuela",
+  "sci": "",
+  "aliases": [
+   "venezuela"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/venezuela.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900292,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Namibia",
+  "sci": "",
+  "aliases": [
+   "namibia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/namibia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900293,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Ukraine",
+  "sci": "",
+  "aliases": [
+   "ukraine"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/ukraine.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900294,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Mozambique",
+  "sci": "",
+  "aliases": [
+   "mozambique"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/mozambique.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900295,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "France",
+  "sci": "",
+  "aliases": [
+   "france"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/france.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900296,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Finland",
+  "sci": "",
+  "aliases": [
+   "finland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/finland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900297,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Afghanistan",
+  "sci": "",
+  "aliases": [
+   "afghanistan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/afghanistan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900298,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Zambia",
+  "sci": "",
+  "aliases": [
+   "zambia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/zambia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900299,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Myanmar",
+  "sci": "",
+  "aliases": [
+   "myanmar"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/myanmar.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900300,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Morocco",
+  "sci": "",
+  "aliases": [
+   "morocco"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/morocco.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900301,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Spain",
+  "sci": "",
+  "aliases": [
+   "spain"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/spain.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900302,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Botswana",
+  "sci": "",
+  "aliases": [
+   "botswana"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/botswana.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900303,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "S. Sudan",
+  "sci": "",
+  "aliases": [
+   "s. sudan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/s-sudan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900304,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Central African Rep.",
+  "sci": "",
+  "aliases": [
+   "central african rep."
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/central-african-rep.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900305,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Madagascar",
+  "sci": "",
+  "aliases": [
+   "madagascar"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/madagascar.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900306,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Turkmenistan",
+  "sci": "",
+  "aliases": [
+   "turkmenistan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/turkmenistan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900307,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Uzbekistan",
+  "sci": "",
+  "aliases": [
+   "uzbekistan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/uzbekistan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900308,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Kenya",
+  "sci": "",
+  "aliases": [
+   "kenya"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kenya.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900309,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Germany",
+  "sci": "",
+  "aliases": [
+   "germany"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/germany.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900310,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Thailand",
+  "sci": "",
+  "aliases": [
+   "thailand"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/thailand.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900311,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Iraq",
+  "sci": "",
+  "aliases": [
+   "iraq"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/iraq.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900312,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Japan",
+  "sci": "",
+  "aliases": [
+   "japan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/japan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900313,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Poland",
+  "sci": "",
+  "aliases": [
+   "poland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/poland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900314,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Somalia",
+  "sci": "",
+  "aliases": [
+   "somalia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/somalia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900315,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Yemen",
+  "sci": "",
+  "aliases": [
+   "yemen"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/yemen.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900316,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Papua New Guinea",
+  "sci": "",
+  "aliases": [
+   "papua new guinea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/papua-new-guinea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900317,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Cameroon",
+  "sci": "",
+  "aliases": [
+   "cameroon"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cameroon.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900318,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Paraguay",
+  "sci": "",
+  "aliases": [
+   "paraguay"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/paraguay.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900319,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Italy",
+  "sci": "",
+  "aliases": [
+   "italy"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/italy.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900320,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "United Kingdom",
+  "sci": "",
+  "aliases": [
+   "united kingdom"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/united-kingdom.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900321,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Zimbabwe",
+  "sci": "",
+  "aliases": [
+   "zimbabwe"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/zimbabwe.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900322,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "New Zealand",
+  "sci": "",
+  "aliases": [
+   "new zealand"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/new-zealand.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900323,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Vietnam",
+  "sci": "",
+  "aliases": [
+   "vietnam"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/vietnam.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900324,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Belarus",
+  "sci": "",
+  "aliases": [
+   "belarus"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/belarus.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900325,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Congo",
+  "sci": "",
+  "aliases": [
+   "congo"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/congo.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900326,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Romania",
+  "sci": "",
+  "aliases": [
+   "romania"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/romania.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900327,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Malaysia",
+  "sci": "",
+  "aliases": [
+   "malaysia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/malaysia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900328,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "C\u00f4te d'Ivoire",
+  "sci": "",
+  "aliases": [
+   "c\u00f4te d'ivoire"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/c-te-d-ivoire.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900329,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Oman",
+  "sci": "",
+  "aliases": [
+   "oman"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/oman.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900330,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Philippines",
+  "sci": "",
+  "aliases": [
+   "philippines"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/philippines.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900331,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Burkina Faso",
+  "sci": "",
+  "aliases": [
+   "burkina faso"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/burkina-faso.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900332,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Gabon",
+  "sci": "",
+  "aliases": [
+   "gabon"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/gabon.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900333,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Kyrgyzstan",
+  "sci": "",
+  "aliases": [
+   "kyrgyzstan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kyrgyzstan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900334,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Iceland",
+  "sci": "",
+  "aliases": [
+   "iceland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/iceland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900335,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Ecuador",
+  "sci": "",
+  "aliases": [
+   "ecuador"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/ecuador.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900336,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Uganda",
+  "sci": "",
+  "aliases": [
+   "uganda"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/uganda.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900337,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Ghana",
+  "sci": "",
+  "aliases": [
+   "ghana"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/ghana.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900338,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Guinea",
+  "sci": "",
+  "aliases": [
+   "guinea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/guinea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900339,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Laos",
+  "sci": "",
+  "aliases": [
+   "laos"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/laos.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900340,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Syria",
+  "sci": "",
+  "aliases": [
+   "syria"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/syria.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900341,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Guyana",
+  "sci": "",
+  "aliases": [
+   "guyana"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/guyana.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900342,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Uruguay",
+  "sci": "",
+  "aliases": [
+   "uruguay"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/uruguay.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900343,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Senegal",
+  "sci": "",
+  "aliases": [
+   "senegal"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/senegal.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900344,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Tunisia",
+  "sci": "",
+  "aliases": [
+   "tunisia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/tunisia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900345,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Cambodia",
+  "sci": "",
+  "aliases": [
+   "cambodia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cambodia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900346,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Tajikistan",
+  "sci": "",
+  "aliases": [
+   "tajikistan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/tajikistan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900347,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Nepal",
+  "sci": "",
+  "aliases": [
+   "nepal"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/nepal.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900348,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Somaliland",
+  "sci": "",
+  "aliases": [
+   "somaliland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/somaliland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900349,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Greece",
+  "sci": "",
+  "aliases": [
+   "greece"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/greece.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900350,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "North Korea",
+  "sci": "",
+  "aliases": [
+   "north korea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/north-korea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900351,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Bulgaria",
+  "sci": "",
+  "aliases": [
+   "bulgaria"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bulgaria.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900352,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Bangladesh",
+  "sci": "",
+  "aliases": [
+   "bangladesh"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bangladesh.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900353,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Suriname",
+  "sci": "",
+  "aliases": [
+   "suriname"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/suriname.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900354,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Hungary",
+  "sci": "",
+  "aliases": [
+   "hungary"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/hungary.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900355,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Nicaragua",
+  "sci": "",
+  "aliases": [
+   "nicaragua"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/nicaragua.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900356,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Austria",
+  "sci": "",
+  "aliases": [
+   "austria"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/austria.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900357,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Czechia",
+  "sci": "",
+  "aliases": [
+   "czechia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/czechia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900358,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Eritrea",
+  "sci": "",
+  "aliases": [
+   "eritrea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/eritrea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900359,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Cuba",
+  "sci": "",
+  "aliases": [
+   "cuba"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cuba.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900360,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "South Korea",
+  "sci": "",
+  "aliases": [
+   "south korea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/south-korea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900361,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Portugal",
+  "sci": "",
+  "aliases": [
+   "portugal"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/portugal.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900362,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Azerbaijan",
+  "sci": "",
+  "aliases": [
+   "azerbaijan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/azerbaijan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900363,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Benin",
+  "sci": "",
+  "aliases": [
+   "benin"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/benin.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900364,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Honduras",
+  "sci": "",
+  "aliases": [
+   "honduras"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/honduras.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900365,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Latvia",
+  "sci": "",
+  "aliases": [
+   "latvia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/latvia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900366,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Malawi",
+  "sci": "",
+  "aliases": [
+   "malawi"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/malawi.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900367,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Guatemala",
+  "sci": "",
+  "aliases": [
+   "guatemala"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/guatemala.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900368,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Lithuania",
+  "sci": "",
+  "aliases": [
+   "lithuania"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/lithuania.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900369,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Serbia",
+  "sci": "",
+  "aliases": [
+   "serbia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/serbia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900370,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "W. Sahara",
+  "sci": "",
+  "aliases": [
+   "w. sahara"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/w-sahara.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900371,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Jordan",
+  "sci": "",
+  "aliases": [
+   "jordan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/jordan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900372,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Liberia",
+  "sci": "",
+  "aliases": [
+   "liberia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/liberia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900373,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Ireland",
+  "sci": "",
+  "aliases": [
+   "ireland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/ireland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900374,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Georgia",
+  "sci": "",
+  "aliases": [
+   "georgia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/georgia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900375,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "United Arab Emirates",
+  "sci": "",
+  "aliases": [
+   "united arab emirates"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/united-arab-emirates.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900376,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Estonia",
+  "sci": "",
+  "aliases": [
+   "estonia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/estonia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900377,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Croatia",
+  "sci": "",
+  "aliases": [
+   "croatia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/croatia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900378,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Sierra Leone",
+  "sci": "",
+  "aliases": [
+   "sierra leone"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/sierra-leone.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900379,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Panama",
+  "sci": "",
+  "aliases": [
+   "panama"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/panama.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900380,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Denmark",
+  "sci": "",
+  "aliases": [
+   "denmark"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/denmark.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900381,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Slovakia",
+  "sci": "",
+  "aliases": [
+   "slovakia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/slovakia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900382,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Bosnia and Herz.",
+  "sci": "",
+  "aliases": [
+   "bosnia and herz."
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bosnia-and-herz.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900383,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Switzerland",
+  "sci": "",
+  "aliases": [
+   "switzerland"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/switzerland.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900384,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Sri Lanka",
+  "sci": "",
+  "aliases": [
+   "sri lanka"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/sri-lanka.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900385,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Netherlands",
+  "sci": "",
+  "aliases": [
+   "netherlands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/netherlands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900386,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Togo",
+  "sci": "",
+  "aliases": [
+   "togo"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/togo.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900387,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Costa Rica",
+  "sci": "",
+  "aliases": [
+   "costa rica"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/costa-rica.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900388,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Dominican Rep.",
+  "sci": "",
+  "aliases": [
+   "dominican rep."
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/dominican-rep.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900389,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Moldova",
+  "sci": "",
+  "aliases": [
+   "moldova"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/moldova.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900390,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Belgium",
+  "sci": "",
+  "aliases": [
+   "belgium"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/belgium.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900391,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Bhutan",
+  "sci": "",
+  "aliases": [
+   "bhutan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bhutan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900392,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Albania",
+  "sci": "",
+  "aliases": [
+   "albania"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/albania.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900393,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Taiwan",
+  "sci": "",
+  "aliases": [
+   "taiwan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/taiwan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900394,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Armenia",
+  "sci": "",
+  "aliases": [
+   "armenia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/armenia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900395,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Guinea-Bissau",
+  "sci": "",
+  "aliases": [
+   "guinea-bissau"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/guinea-bissau.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900396,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Macedonia",
+  "sci": "",
+  "aliases": [
+   "macedonia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/macedonia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900397,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Lesotho",
+  "sci": "",
+  "aliases": [
+   "lesotho"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/lesotho.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900398,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Haiti",
+  "sci": "",
+  "aliases": [
+   "haiti"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/haiti.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900399,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Slovenia",
+  "sci": "",
+  "aliases": [
+   "slovenia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/slovenia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900400,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Eq. Guinea",
+  "sci": "",
+  "aliases": [
+   "eq. guinea"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/eq-guinea.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900401,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Israel",
+  "sci": "",
+  "aliases": [
+   "israel"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/israel.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900402,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Burundi",
+  "sci": "",
+  "aliases": [
+   "burundi"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/burundi.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900403,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Falkland Is.",
+  "sci": "",
+  "aliases": [
+   "falkland is."
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/falkland-is.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900404,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Solomon Is.",
+  "sci": "",
+  "aliases": [
+   "solomon is."
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/solomon-is.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900405,
+  "tier": "death",
+  "group": "Outline",
+  "name": "New Caledonia",
+  "sci": "",
+  "aliases": [
+   "new caledonia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/new-caledonia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900406,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Rwanda",
+  "sci": "",
+  "aliases": [
+   "rwanda"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/rwanda.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900407,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Belize",
+  "sci": "",
+  "aliases": [
+   "belize"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/belize.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900408,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Djibouti",
+  "sci": "",
+  "aliases": [
+   "djibouti"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/djibouti.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900409,
+  "tier": "death",
+  "group": "Outline",
+  "name": "El Salvador",
+  "sci": "",
+  "aliases": [
+   "el salvador"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/el-salvador.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900410,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Fiji",
+  "sci": "",
+  "aliases": [
+   "fiji"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/fiji.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900411,
+  "tier": "death",
+  "group": "Outline",
+  "name": "eSwatini",
+  "sci": "",
+  "aliases": [
+   "eswatini"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/eswatini.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900412,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Kuwait",
+  "sci": "",
+  "aliases": [
+   "kuwait"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kuwait.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900413,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Montenegro",
+  "sci": "",
+  "aliases": [
+   "montenegro"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/montenegro.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900414,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Fr. S. Antarctic Lands",
+  "sci": "",
+  "aliases": [
+   "fr. s. antarctic lands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/fr-s-antarctic-lands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900415,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Bahamas",
+  "sci": "",
+  "aliases": [
+   "bahamas"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bahamas.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900416,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Kosovo",
+  "sci": "",
+  "aliases": [
+   "kosovo"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kosovo.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900417,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Timor-Leste",
+  "sci": "",
+  "aliases": [
+   "timor-leste"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/timor-leste.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900418,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Gambia",
+  "sci": "",
+  "aliases": [
+   "gambia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/gambia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900419,
+  "tier": "easy",
+  "group": "Outline",
+  "name": "Jamaica",
+  "sci": "",
+  "aliases": [
+   "jamaica"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/jamaica.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900420,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Qatar",
+  "sci": "",
+  "aliases": [
+   "qatar"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/qatar.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900421,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Lebanon",
+  "sci": "",
+  "aliases": [
+   "lebanon"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/lebanon.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900422,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Brunei",
+  "sci": "",
+  "aliases": [
+   "brunei"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/brunei.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900423,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Puerto Rico",
+  "sci": "",
+  "aliases": [
+   "puerto rico"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/puerto-rico.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900424,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Trinidad and Tobago",
+  "sci": "",
+  "aliases": [
+   "trinidad and tobago"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/trinidad-and-tobago.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900425,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Vanuatu",
+  "sci": "",
+  "aliases": [
+   "vanuatu"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/vanuatu.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900426,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Cyprus",
+  "sci": "",
+  "aliases": [
+   "cyprus"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cyprus.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900427,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Palestine",
+  "sci": "",
+  "aliases": [
+   "palestine"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/palestine.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900428,
+  "tier": "death",
+  "group": "Outline",
+  "name": "N. Cyprus",
+  "sci": "",
+  "aliases": [
+   "n. cyprus"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/n-cyprus.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900429,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Luxembourg",
+  "sci": "",
+  "aliases": [
+   "luxembourg"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/luxembourg.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900430,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Andromeda",
+  "sci": "And",
+  "aliases": [
+   "andromeda"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/andromeda.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900431,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Antlia",
+  "sci": "Ant",
+  "aliases": [
+   "antlia"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/antlia.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900432,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Apus",
+  "sci": "Aps",
+  "aliases": [
+   "apus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/apus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900433,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Aquarius",
+  "sci": "Aqr",
+  "aliases": [
+   "aquarius"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/aquarius.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900434,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Aquila",
+  "sci": "Aql",
+  "aliases": [
+   "aquila"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/aquila.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900435,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Ara",
+  "sci": "Ara",
+  "aliases": [
+   "ara"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/ara.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900436,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Aries",
+  "sci": "Ari",
+  "aliases": [
+   "aries"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/aries.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900437,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Auriga",
+  "sci": "Aur",
+  "aliases": [
+   "auriga"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/auriga.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900438,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Bootes",
+  "sci": "Boo",
+  "aliases": [
+   "bootes"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/bootes.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900439,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Caelum",
+  "sci": "Cae",
+  "aliases": [
+   "caelum"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/caelum.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900440,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Camelopardalis",
+  "sci": "Cam",
+  "aliases": [
+   "camelopardalis"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/camelopardalis.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900441,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Cancer",
+  "sci": "Cnc",
+  "aliases": [
+   "cancer"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/cancer.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900442,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Canes Venatici",
+  "sci": "CVn",
+  "aliases": [
+   "canes venatici"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/canes-venatici.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900443,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Canis Major",
+  "sci": "CMa",
+  "aliases": [
+   "canis major"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/canis-major.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900444,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Canis Minor",
+  "sci": "CMi",
+  "aliases": [
+   "canis minor"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/canis-minor.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900445,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Capricornus",
+  "sci": "Cap",
+  "aliases": [
+   "capricornus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/capricornus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900446,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Carina",
+  "sci": "Car",
+  "aliases": [
+   "carina"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/carina.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900447,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Cassiopeia",
+  "sci": "Cas",
+  "aliases": [
+   "cassiopeia"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/cassiopeia.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900448,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Centaurus",
+  "sci": "Cen",
+  "aliases": [
+   "centaurus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/centaurus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900449,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Cepheus",
+  "sci": "Cep",
+  "aliases": [
+   "cepheus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/cepheus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900450,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Cetus",
+  "sci": "Cet",
+  "aliases": [
+   "cetus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/cetus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900451,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Chamaeleon",
+  "sci": "Cha",
+  "aliases": [
+   "chamaeleon"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/chamaeleon.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900452,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Circinus",
+  "sci": "Cir",
+  "aliases": [
+   "circinus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/circinus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900453,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Columba",
+  "sci": "Col",
+  "aliases": [
+   "columba"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/columba.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900454,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Coma Berenices",
+  "sci": "Com",
+  "aliases": [
+   "coma berenices"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/coma-berenices.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900455,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Corona Australis",
+  "sci": "CrA",
+  "aliases": [
+   "corona australis"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/corona-australis.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900456,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Corona Borealis",
+  "sci": "CrB",
+  "aliases": [
+   "corona borealis"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/corona-borealis.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900457,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Corvus",
+  "sci": "Crv",
+  "aliases": [
+   "corvus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/corvus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900458,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Crater",
+  "sci": "Crt",
+  "aliases": [
+   "crater"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/crater.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900459,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Crux",
+  "sci": "Cru",
+  "aliases": [
+   "crux"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/crux.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900460,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Cygnus",
+  "sci": "Cyg",
+  "aliases": [
+   "cygnus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/cygnus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900461,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Delphinus",
+  "sci": "Del",
+  "aliases": [
+   "delphinus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/delphinus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900462,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Dorado",
+  "sci": "Dor",
+  "aliases": [
+   "dorado"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/dorado.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900463,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Draco",
+  "sci": "Dra",
+  "aliases": [
+   "draco"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/draco.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900464,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Equuleus",
+  "sci": "Equ",
+  "aliases": [
+   "equuleus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/equuleus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900465,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Eridanus",
+  "sci": "Eri",
+  "aliases": [
+   "eridanus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/eridanus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900466,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Fornax",
+  "sci": "For",
+  "aliases": [
+   "fornax"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/fornax.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900467,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Gemini",
+  "sci": "Gem",
+  "aliases": [
+   "gemini"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/gemini.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900468,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Grus",
+  "sci": "Gru",
+  "aliases": [
+   "grus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/grus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900469,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Hercules",
+  "sci": "Her",
+  "aliases": [
+   "hercules"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/hercules.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900470,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Horologium",
+  "sci": "Hor",
+  "aliases": [
+   "horologium"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/horologium.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900471,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Hydra",
+  "sci": "Hya",
+  "aliases": [
+   "hydra"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/hydra.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900472,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Hydrus",
+  "sci": "Hyi",
+  "aliases": [
+   "hydrus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/hydrus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900473,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Indus",
+  "sci": "Ind",
+  "aliases": [
+   "indus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/indus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900474,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Lacerta",
+  "sci": "Lac",
+  "aliases": [
+   "lacerta"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/lacerta.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900475,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Leo",
+  "sci": "Leo",
+  "aliases": [
+   "leo"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/leo.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900476,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Leo Minor",
+  "sci": "LMi",
+  "aliases": [
+   "leo minor"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/leo-minor.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900477,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Lepus",
+  "sci": "Lep",
+  "aliases": [
+   "lepus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/lepus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900478,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Libra",
+  "sci": "Lib",
+  "aliases": [
+   "libra"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/libra.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900479,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Lupus",
+  "sci": "Lup",
+  "aliases": [
+   "lupus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/lupus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900480,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Lynx",
+  "sci": "Lyn",
+  "aliases": [
+   "lynx"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/lynx.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900481,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Lyra",
+  "sci": "Lyr",
+  "aliases": [
+   "lyra"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/lyra.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900482,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Mensa",
+  "sci": "Men",
+  "aliases": [
+   "mensa"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/mensa.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900483,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Microscopium",
+  "sci": "Mic",
+  "aliases": [
+   "microscopium"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/microscopium.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900484,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Monoceros",
+  "sci": "Mon",
+  "aliases": [
+   "monoceros"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/monoceros.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900485,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Musca",
+  "sci": "Mus",
+  "aliases": [
+   "musca"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/musca.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900486,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Norma",
+  "sci": "Nor",
+  "aliases": [
+   "norma"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/norma.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900487,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Octans",
+  "sci": "Oct",
+  "aliases": [
+   "octans"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/octans.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900488,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Ophiuchus",
+  "sci": "Oph",
+  "aliases": [
+   "ophiuchus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/ophiuchus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900489,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Orion",
+  "sci": "Ori",
+  "aliases": [
+   "orion"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/orion.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900490,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Pavo",
+  "sci": "Pav",
+  "aliases": [
+   "pavo"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/pavo.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900491,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Pegasus",
+  "sci": "Peg",
+  "aliases": [
+   "pegasus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/pegasus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900492,
+  "tier": "medium",
+  "group": "Constellation",
+  "name": "Perseus",
+  "sci": "Per",
+  "aliases": [
+   "perseus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/perseus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900493,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Phoenix",
+  "sci": "Phe",
+  "aliases": [
+   "phoenix"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/phoenix.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900494,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Pictor",
+  "sci": "Pic",
+  "aliases": [
+   "pictor"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/pictor.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900495,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Pisces",
+  "sci": "Psc",
+  "aliases": [
+   "pisces"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/pisces.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900496,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Piscis Austrinus",
+  "sci": "PsA",
+  "aliases": [
+   "piscis austrinus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/piscis-austrinus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900497,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Puppis",
+  "sci": "Pup",
+  "aliases": [
+   "puppis"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/puppis.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900498,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Pyxis",
+  "sci": "Pyx",
+  "aliases": [
+   "pyxis"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/pyxis.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900499,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Reticulum",
+  "sci": "Ret",
+  "aliases": [
+   "reticulum"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/reticulum.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900500,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Sagitta",
+  "sci": "Sge",
+  "aliases": [
+   "sagitta"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/sagitta.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900501,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Sagittarius",
+  "sci": "Sgr",
+  "aliases": [
+   "sagittarius"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/sagittarius.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900502,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Scorpius",
+  "sci": "Sco",
+  "aliases": [
+   "scorpius"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/scorpius.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900503,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Sculptor",
+  "sci": "Scl",
+  "aliases": [
+   "sculptor"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/sculptor.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900504,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Scutum",
+  "sci": "Sct",
+  "aliases": [
+   "scutum"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/scutum.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900505,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Serpens",
+  "sci": "Ser",
+  "aliases": [
+   "serpens"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/serpens.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900506,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Serpens",
+  "sci": "Ser",
+  "aliases": [
+   "serpens"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/serpens.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900507,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Sextans",
+  "sci": "Sex",
+  "aliases": [
+   "sextans"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/sextans.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900508,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Taurus",
+  "sci": "Tau",
+  "aliases": [
+   "taurus"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/taurus.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900509,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Telescopium",
+  "sci": "Tel",
+  "aliases": [
+   "telescopium"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/telescopium.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900510,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Triangulum",
+  "sci": "Tri",
+  "aliases": [
+   "triangulum"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/triangulum.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900511,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Triangulum Australe",
+  "sci": "TrA",
+  "aliases": [
+   "triangulum australe"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/triangulum-australe.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900512,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Tucana",
+  "sci": "Tuc",
+  "aliases": [
+   "tucana"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/tucana.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900513,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Ursa Major",
+  "sci": "UMa",
+  "aliases": [
+   "ursa major"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/ursa-major.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900514,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Ursa Minor",
+  "sci": "UMi",
+  "aliases": [
+   "ursa minor"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/ursa-minor.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900515,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Vela",
+  "sci": "Vel",
+  "aliases": [
+   "vela"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/vela.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900516,
+  "tier": "easy",
+  "group": "Constellation",
+  "name": "Virgo",
+  "sci": "Vir",
+  "aliases": [
+   "virgo"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/virgo.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900517,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Volans",
+  "sci": "Vol",
+  "aliases": [
+   "volans"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/volans.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900518,
+  "tier": "death",
+  "group": "Constellation",
+  "name": "Vulpecula",
+  "sci": "Vul",
+  "aliases": [
+   "vulpecula"
+  ],
+  "cats": [
+   "constellations"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/constellations/vulpecula.svg",
+    "credit": "Star positions and figures from the d3-celestial dataset",
+    "obs": ""
+   }
+  ]
+ }
+]

@@ -26,11 +26,19 @@ const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode
 const FLASH_MS = 1000;
 // Unicode-aware so accented letters count as letters, not punctuation.
 const IS_LETTER = /[\p{L}\p{N}]/u;
-// Every animal is in exactly one of these. There is no "land" any more: with
-// the categories exclusive it had nothing left in it, since every land animal
-// is already a mammal, bird, reptile, amphibian or bug.
-const ALL_CATS = ["mammals","reptiles","birds","sea","fish","amphibians",
-                  "bugs","usbirds","felines","catbreeds","dogbreeds"];
+/* ---------- what this page is a guesser for --------------------------------
+   Animal Guesser and Things Guesser are the same game over different data, so
+   they run the same script. The page says which, and everything below reads
+   from that rather than naming animals. Categories come from the page's own
+   toggles, so neither page has to keep a list in two places. */
+const CFG = window.GUESSER || {};
+const DATA_URL   = CFG.data   || "../data/animals.json";
+const KEY        = CFG.key    || "";         // keeps the two games' settings apart
+const ONE        = CFG.one    || "animal";   // "no animals available"
+const MANY       = CFG.many   || "animals";
+const CREDIT_FOR = CFG.credit || "Photo";    // things are drawn, not photographed
+const TAGLINE    = CFG.tagline || "A real photograph of a real animal. Name it.";
+const ALL_CATS = [...document.querySelectorAll(".cattoggle")].map(b => b.dataset.cat);
 
 let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
@@ -79,8 +87,8 @@ let teams = [];                    // [{name, score}] in teams mode
 
 /* ---------- persistence (may be unavailable; never let it break the game) --- */
 const store = {
-  get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
-  set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+  get(k, d) { try { return localStorage.getItem(KEY + k) ?? d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(KEY + k, v); } catch {} },
 };
 
 /* ---------- what the flash says -------------------------------------------- */
@@ -707,7 +715,7 @@ function newRound(triesLeft = 6) {
   el.hintscirow.classList.remove("show");
 
   if (!pool.length) {
-    el.spinner.textContent = "No animals available for this difficulty.";
+    el.spinner.textContent = "No " + MANY + " available for this difficulty.";
     el.guessbar.classList.add("hidden");
     el.photo.classList.remove("ready");
     return;
@@ -715,7 +723,7 @@ function newRound(triesLeft = 6) {
 
   current = upcoming || draw();
   upcoming = null;
-  if (!current) { el.spinner.textContent = "No animals available."; return; }
+  if (!current) { el.spinner.textContent = "No " + MANY + " available."; return; }
   // Hangman opens with the blanks already on the board. That is hint one of
   // the eight; the seven left are letters, so the animal starts out worth 4.
   if (hangmanMode) {
@@ -744,7 +752,7 @@ function loadPhoto(triesLeft = 6) {
     el.photo.classList.add("ready");
     el.spinner.classList.add("hidden");
     el.fullscreen.classList.add("show");
-    el.credit.textContent = "Photo: " + (photo.credit || "iNaturalist");
+    el.credit.textContent = CREDIT_FOR + ": " + (photo.credit || "iNaturalist");
     refocusGuess();
     preloadNext();
   };
@@ -914,7 +922,7 @@ function revealAnswer(right) {
   el.answer.textContent = a.name;
   el.answer.className = right ? "right" : "wrong";
   el.credit.innerHTML =
-    "Photo: " + escapeHtml(current.photo.credit || "iNaturalist") +
+    CREDIT_FOR + ": " + escapeHtml(current.photo.credit || "iNaturalist") +
     (current.photo.obs
       ? ' · <a href="' + escapeAttr(current.photo.obs) +
         '" target="_blank" rel="noopener">source</a>' : "") +
@@ -1216,7 +1224,7 @@ function unpack(d) {
   }));
 }
 
-fetch("../data/animals.json")
+fetch(DATA_URL)
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(d => {
     ALL = unpack(d);
@@ -1230,13 +1238,13 @@ fetch("../data/animals.json")
     setTiers(false);
     markTeamCount();
     showTitle();
-    el.tagline.textContent = "A real photograph of a real animal. Name it.";
+    el.tagline.textContent = TAGLINE;
     el.playsolo.disabled = false;
     el.playteams.disabled = false;
   })
   .catch(err => {
     // the title screen is what is on screen at this point, so say it there
-    const msg = "Could not load data/animals.json (" + err.message + "). " +
+    const msg = "Could not load " + DATA_URL + " (" + err.message + "). " +
       "Run the game through ./serve.sh rather than opening the file directly.";
     el.tagline.textContent = msg;
     el.spinner.textContent = msg;
