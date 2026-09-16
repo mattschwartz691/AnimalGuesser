@@ -16,6 +16,7 @@ const el = {
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"), restart:$("restart"),
   title:$("title"), teamsetup:$("teamsetup"), game:$("game"), teambar:$("teambar"),
   playsolo:$("playsolo"), playteams:$("playteams"), teamback:$("teamback"),
+  titlebuddy:$("titlebuddy"), titlehangman:$("titlehangman"),
   teamplay:$("teamplay"), teampick:$("teampick"), soloscore:$("soloscore"),
   tagline:$("tagline"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
@@ -86,6 +87,7 @@ function sayWrong() { return buddyMode ? "A Hee Hoo" : "WRONG ANSWER!"; }
 
 function applyBuddy(save) {
   buddyMode = el.buddy.checked;
+  el.titlebuddy.checked = buddyMode;      // the title screen shows the same switch
   if (save !== false) store.set("buddy", buddyMode ? "1" : "0");
 }
 
@@ -545,6 +547,7 @@ function syncHangmanUI() {
 
 function applyHangman(save) {
   hangmanMode = el.hangmanToggle.checked;
+  el.titlehangman.checked = hangmanMode;  // the title screen shows the same switch
   if (save !== false) store.set("hangman", hangmanMode ? "1" : "0");
   syncHangmanUI();
   // the two open a round differently, so deal a fresh one rather than convert
@@ -1140,6 +1143,15 @@ el.allcats.addEventListener("click", () => setAllCats(true));
 el.nocats.addEventListener("click", () => setAllCats(false));
 el.buddy.addEventListener("change", () => applyBuddy());
 el.hangmanToggle.addEventListener("change", () => applyHangman());
+// flipping one on the title screen is flipping the one in the panel
+el.titlebuddy.addEventListener("change", () => {
+  el.buddy.checked = el.titlebuddy.checked;
+  applyBuddy();
+});
+el.titlehangman.addEventListener("change", () => {
+  el.hangmanToggle.checked = el.titlehangman.checked;
+  applyHangman();
+});
 buildKeys();
 el.restart.addEventListener("click", restartGame);
 el.playsolo.addEventListener("click", () => startGame("solo"));

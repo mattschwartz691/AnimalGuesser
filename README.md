@@ -19,6 +19,13 @@ the game fetches its data file. The photos themselves stream from the internet.)
 The game opens on a title screen with two ways to play. Reloading the page, or
 **Restart** in the settings panel, brings you back to it.
 
+Under the two mode cards are the two switches that change how a round plays,
+**Hangman** and **Buddy Mode**, so a game can be set up in one place before it
+starts. They are the same two switches as the ones in the settings panel, not
+copies of them: flip one in either place and the other follows, and what you
+pick is remembered between visits. Difficulty and categories stay behind the
+gear, which is on screen from the title too.
+
 **Solo** is the game as it always was: the header keeps your points, your
 got-it tally, and what the animal in front of you is worth.
 
@@ -214,7 +221,10 @@ hint too, and the setting is remembered between visits.
 **Hangman** is the toggle under it, and is described below. Like the others it
 is a setting rather than game state, so it survives a restart and is remembered
 between visits. It works in Solo and in Teams, and it hides the text box — in
-hangman you click letters rather than type.
+hangman you play the letters directly.
+
+Both of these also sit on the title screen, under the mode cards, so you do not
+have to open the panel to set up a game.
 
 ### Hangman
 

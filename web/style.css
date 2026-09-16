@@ -46,6 +46,21 @@ body{
 .modebtn:disabled{opacity:.45; cursor:progress}
 #soloscore.hidden{display:none}
 
+/* the two play-changing switches, on the title screen next to the modes */
+#titleopts{
+  width:100%; max-width:580px; margin-top:4px;
+  display:flex; gap:12px; flex-wrap:wrap; justify-content:center;
+}
+#titleopts .cat{
+  flex:1 1 240px; max-width:280px; text-align:left; padding:13px 15px;
+  background:var(--panel); border:1px solid var(--line); border-radius:12px;
+  transition:border-color .15s, background .15s;
+}
+#titleopts .cat:hover{background:var(--panel); border-color:var(--accent)}
+#titleopts .cat:has(input:checked){border-color:var(--accent); background:#1d2a3d}
+#titleopts .catname{font-size:15px; font-weight:600}
+.titlehint{margin:10px 0 0; font-size:12px; color:var(--dim)}
+
 #teampick{
   display:flex; flex-wrap:wrap; gap:10px; justify-content:center;
   max-width:420px; margin-top:6px;
