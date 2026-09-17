@@ -20,6 +20,8 @@ const el = {
   teamplay:$("teamplay"), teampick:$("teampick"), soloscore:$("soloscore"),
   tagline:$("tagline"),
   score:$("score"), asked:$("asked"), tierbadge:$("tierbadge"),
+  streak:$("streak"), best:$("best"), streakwrap:$("streakwrap"),
+  left:$("left"), leftwrap:$("leftwrap"),
   correct:$("correct"), worth:$("worth"), tierwarn:$("tierwarn"),
 };
 const TIER_LABEL = {easy:"Easy", medium:"Medium", hard:"Hard", death:"Death Mode"};
@@ -44,7 +46,9 @@ let ALL = [];            // every animal record
 let pool = [];           // animals in the current tier
 let catLists = new Map();// category -> every animal of it in the pool
 let catBags = new Map(); // category -> its shuffled queue, drained then refilled
-let recent = [];         // ids drawn lately, so nothing comes round twice quickly
+let used = new Set();    // everything asked this session -- nothing is asked twice
+let streak = 0, best = 0;// consecutive clean answers
+let roundGuesses = 0;    // whole-name guesses spent on the animal in front of you
 let onTiers = new Set(["easy"]);   // difficulties currently ticked
 let onCats = new Set(ALL_CATS);   // categories currently toggled on
 let current = null;      // {animal, photo} on screen now
@@ -60,6 +64,14 @@ const MAX_HINTS = 8;               // most hints any one animal will ever give
 // letters are free: a right one costs nothing, and only a wrong one costs a
 // point and a body part. Seven wrong finishes the animal and the round.
 const CRITTER_PARTS = 7;
+// How many guesses a category allows you and still keeps the streak. Flags are
+// hard to name on the nose, so they allow a second try; one is the rule
+// elsewhere. Anything past the allowance ends the streak even when you get it.
+const STREAK_TRIES = CFG.streakTries || {};
+function triesAllowed() {
+  const c = current && current.animal && (current.animal.cats || [])[0];
+  return STREAK_TRIES[c] || 1;
+}
 // Who you are drawing is a surprise each round.
 const CRITTERS = ["polarbear", "browncat", "blackcat", "sawfish",
                   "blobfish", "dino", "slug"];
@@ -589,14 +601,10 @@ function shuffle(arr) {
   return a;
 }
 
-// How many draws back an animal is still considered "just seen".
-const RECENT = 25;
-
 // One queue per category that has anything in it.
 function rebuildBags() {
   catLists = new Map();
   catBags = new Map();
-  recent = [];
   for (const a of pool)
     for (const c of (a.cats || []))
       if (onCats.has(c)) {
@@ -605,45 +613,39 @@ function rebuildBags() {
       }
 }
 
-// A category's queue, reshuffled from scratch once it has been worked through.
-function bagFor(cat) {
-  let bag = catBags.get(cat);
-  if (!bag || !bag.length) {
-    bag = shuffle(catLists.get(cat) || []);
-    catBags.set(cat, bag);
+// The next unasked animal from one category, reshuffling that category's
+// queue once when it runs out. Null means this category is used up.
+function takeUnused(cat) {
+  for (let pass = 0; pass < 2; pass++) {
+    const bag = catBags.get(cat) || [];
+    while (bag.length) {
+      const a = bag.pop();
+      if (!used.has(a.id)) return a;
+    }
+    if (pass === 0) catBags.set(cat, shuffle(catLists.get(cat) || []));
   }
-  return bag;
+  return null;
 }
 
 // Pick the next animal AND which of its photos we'll show, so the preloader
 // can warm the exact image the next round will use.
 //
-// The category is picked first and the animal second, so that how often a
-// category comes up does not depend on how big it is -- 84 cat breeds get the
-// same share of the turns as 12,902 bugs. Inside a category the queue is
-// shuffled and drained, so it works through before anything repeats.
+// The category is picked first and the animal second, so how often a category
+// comes up does not depend on how big it is -- 84 cat breeds get the same
+// share of the turns as 12,902 bugs. Nothing is asked twice in a session:
+// categories are tried in a random order until one has something left, and
+// null means every category you have switched on is used up.
 function draw() {
   if (!pool.length) return null;
   if (!catLists.size) rebuildBags();
-  const cats = [...catLists.keys()];
-  if (!cats.length) return null;
-
-  let animal = null;
-  for (let tries = 0; tries < 4 && !animal; tries++) {
-    const bag = bagFor(cats[Math.floor(Math.random() * cats.length)]);
-    if (!bag.length) continue;
-    const a = bag.pop();
-    // An animal filed under several categories, or one from a small category,
-    // can come round again fast. Put it back at the bottom and draw again.
-    if (tries < 3 && recent.includes(a.id)) { bag.unshift(a); continue; }
-    animal = a;
+  for (const c of shuffle([...catLists.keys()])) {
+    const animal = takeUnused(c);
+    if (!animal) continue;
+    used.add(animal.id);
+    const photo = animal.photos[Math.floor(Math.random() * animal.photos.length)];
+    return {animal, photo};
   }
-  if (!animal) return null;
-
-  recent.push(animal.id);
-  if (recent.length > RECENT) recent.shift();
-  const photo = animal.photos[Math.floor(Math.random() * animal.photos.length)];
-  return {animal, photo};
+  return null;
 }
 
 // An animal shows if ANY of its categories is on -- they overlap by design
@@ -680,7 +682,21 @@ function setTiers(save) {
   else showEmpty();
 }
 
+// How many of the things you have switched on you have not been asked yet.
+function leftInPlay() {
+  let n = 0;
+  for (const a of pool) if (!used.has(a.id)) n++;
+  return n;
+}
+
 function updateScore() {
+  const left = leftInPlay();
+  el.left.textContent = left;
+  el.leftwrap.classList.toggle("low", left > 0 && left <= 10);
+  el.leftwrap.classList.toggle("out", left === 0);
+  el.streak.textContent = streak;
+  el.best.textContent = best;
+  el.streakwrap.classList.toggle("hot", streak >= 3);
   el.score.textContent = score;
   el.correct.textContent = correct;
   el.asked.textContent = asked;
@@ -708,6 +724,7 @@ function newRound(triesLeft = 6) {
   revealAll = false;
   guessedLetters = new Set();
   partsShown = 0;
+  roundGuesses = 0;
   pickCritter();
   renderCritter();
   if (el.worth) el.worth.textContent = BASE_POINTS;
@@ -723,7 +740,7 @@ function newRound(triesLeft = 6) {
 
   current = upcoming || draw();
   upcoming = null;
-  if (!current) { el.spinner.textContent = "No " + MANY + " available."; return; }
+  if (!current) { showExhausted(); return; }
   // Hangman opens with the blanks already on the board. That is hint one of
   // the eight; the seven left are letters, so the animal starts out worth 4.
   if (hangmanMode) {
@@ -732,6 +749,7 @@ function newRound(triesLeft = 6) {
     renderHint();
   }
   updateScore();
+  updateCounts();          // the per-category numbers count down as you play
   updateHintButton();
   loadPhoto(triesLeft);
 }
@@ -829,6 +847,7 @@ function submitGuess(ev) {
   el.hint.disabled = true;
 
   const v = judge(text, current.animal);
+  if (v.kind !== "words") roundGuesses++;   // naming one word of it is not a guess
   let right = v.kind === "full";
 
   // Naming any word of the name fills that word in and the round continues.
@@ -897,6 +916,14 @@ function finishRound(right) {
   el.hint.disabled = true;
   renderKeys();
   asked++;
+  // A win inside the category's guess allowance extends the streak; anything
+  // else -- too many guesses, a wrong answer, giving up -- ends it.
+  if (right && roundGuesses <= triesAllowed()) {
+    streak++;
+    if (streak > best) best = streak;
+  } else {
+    streak = 0;
+  }
   if (right) { correct++; score += worthNow(); }
   updateScore();
 
@@ -942,6 +969,7 @@ function giveUp() {
   el.hint.disabled = true;
   el.flash.className = "hidden";
   asked++;
+  streak = 0;              // giving up ends the streak, like any other loss
   updateScore();
   revealAnswer(false);
 }
@@ -959,9 +987,12 @@ function catBoxes() {
 
 // Category counts respect the ticked difficulties, and difficulty counts
 // respect the ticked categories, so each number says what you would get.
+// Nothing repeats in a session, so these are what is LEFT, not what exists --
+// the number that tells you whether a category still has anything to ask.
 function updateCounts() {
   const byCat = {}, byTier = {};
   for (const a of ALL) {
+    if (used.has(a.id)) continue;
     if (onTiers.has(a.tier))
       for (const c of (a.cats || [])) byCat[c] = (byCat[c] || 0) + 1;
     if (inCats(a)) byTier[a.tier] = (byTier[a.tier] || 0) + 1;
@@ -975,6 +1006,23 @@ function updateCounts() {
   };
   put(document.querySelectorAll(".catnum[data-count]"), "count", byCat);
   put(document.querySelectorAll(".catnum[data-tiercount]"), "tiercount", byTier);
+}
+
+// Everything switched on has been asked. Not an error -- say so plainly and
+// leave the score where it is.
+function showExhausted() {
+  gen++;
+  current = null;
+  el.spinner.textContent = "No more questions in these categories.";
+  el.spinner.classList.remove("hidden");
+  el.photo.classList.remove("ready");
+  el.photo.removeAttribute("src");
+  el.fullscreen.classList.remove("show");
+  el.credit.textContent = "";
+  el.guessbar.classList.add("hidden");
+  el.reveal.classList.add("hidden");
+  el.hintbox.classList.remove("show");
+  el.hintscirow.classList.remove("show");
 }
 
 function showEmpty() {
@@ -1039,7 +1087,8 @@ function showTitle() {
   started = false;
   score = 0; asked = 0; correct = 0;
   catBags = new Map();               // reshuffle rather than resume the queues
-  recent = [];
+  used = new Set();                  // a new session may ask anything again
+  streak = 0; best = 0;
   upcoming = null;
   current = null;
   teams = [];
@@ -1070,7 +1119,8 @@ function startGame(which) {
   started = true;
   score = 0; asked = 0; correct = 0;
   catBags = new Map();
-  recent = [];
+  used = new Set();
+  streak = 0; best = 0;
   upcoming = null;
   el.title.classList.add("hidden");
   el.teamsetup.classList.add("hidden");

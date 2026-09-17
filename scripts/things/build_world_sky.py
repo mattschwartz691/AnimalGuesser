@@ -1,93 +1,26 @@
 #!/usr/bin/env python3
-"""Flags, country outlines and constellations for Things Guesser.
+"""Flags and country outlines for Things Guesser.
 
-None of these are photographs, so none of them come from iNaturalist:
+Neither is a photograph, so neither comes from iNaturalist:
 
-  flags          linked from flagcdn.com, one per ISO country code
-  outlines       drawn here from Natural Earth 10m (public domain)
-  constellations drawn here from the d3-celestial star and figure data
+  flags     linked from flagcdn.com, one per ISO country code
+  outlines  drawn here from Natural Earth 10m (public domain)
 
-The two drawn sets are written as small SVG files under data/things/, so the
-game can point an <img> at them exactly as it points one at a photograph.
+Both are tiered by population, on one shared rule, so they agree with each
+other about which countries are the easy ones.
+
+The outlines are written as small SVG files under data/things/, so the game
+can point an <img> at them exactly as it points one at a photograph.
 
     python3 scripts/things/build_world_sky.py <source-dir>
 """
 import json, math, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import countries
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUTDIR = os.path.join(ROOT, "data", "things")
-INK, EDGE, STAR, LINE = "#eef2f7", "#243044", "#f4f8fc", "#4a9eff"
-
-# Countries most people could place or name on sight. Everything else is
-# tiered by how much of the map it takes up, which is a decent proxy and an
-# honest one -- it is not a claim about importance.
-FAMOUS = {
- "United States of America","Canada","Mexico","Brazil","Argentina","Chile","Peru",
- "Colombia","Cuba","Jamaica","United Kingdom","Ireland","France","Germany","Italy",
- "Spain","Portugal","Netherlands","Belgium","Switzerland","Austria","Sweden",
- "Norway","Denmark","Finland","Iceland","Poland","Greece","Russia","Ukraine",
- "Turkey","Egypt","Morocco","South Africa","Nigeria","Kenya","Ethiopia","Israel",
- "Saudi Arabia","Iran","Iraq","India","Pakistan","China","Japan","South Korea",
- "North Korea","Thailand","Vietnam","Indonesia","Philippines","Malaysia",
- "Australia","New Zealand","Czechia","Hungary","Romania","Cambodia","Nepal",
-}
-CONSTELLATIONS = {
- "And":"Andromeda","Ant":"Antlia","Aps":"Apus","Aqr":"Aquarius","Aql":"Aquila",
- "Ara":"Ara","Ari":"Aries","Aur":"Auriga","Boo":"Bootes","Cae":"Caelum",
- "Cam":"Camelopardalis","Cnc":"Cancer","CVn":"Canes Venatici","CMa":"Canis Major",
- "CMi":"Canis Minor","Cap":"Capricornus","Car":"Carina","Cas":"Cassiopeia",
- "Cen":"Centaurus","Cep":"Cepheus","Cet":"Cetus","Cha":"Chamaeleon","Cir":"Circinus",
- "Col":"Columba","Com":"Coma Berenices","CrA":"Corona Australis","CrB":"Corona Borealis",
- "Crv":"Corvus","Crt":"Crater","Cru":"Crux","Cyg":"Cygnus","Del":"Delphinus",
- "Dor":"Dorado","Dra":"Draco","Equ":"Equuleus","Eri":"Eridanus","For":"Fornax",
- "Gem":"Gemini","Gru":"Grus","Her":"Hercules","Hor":"Horologium","Hya":"Hydra",
- "Hyi":"Hydrus","Ind":"Indus","Lac":"Lacerta","Leo":"Leo","LMi":"Leo Minor",
- "Lep":"Lepus","Lib":"Libra","Lup":"Lupus","Lyn":"Lynx","Lyr":"Lyra","Men":"Mensa",
- "Mic":"Microscopium","Mon":"Monoceros","Mus":"Musca","Nor":"Norma","Oct":"Octans",
- "Oph":"Ophiuchus","Ori":"Orion","Pav":"Pavo","Peg":"Pegasus","Per":"Perseus",
- "Phe":"Phoenix","Pic":"Pictor","Psc":"Pisces","PsA":"Piscis Austrinus","Pup":"Puppis",
- "Pyx":"Pyxis","Ret":"Reticulum","Sge":"Sagitta","Sgr":"Sagittarius","Sco":"Scorpius",
- "Scl":"Sculptor","Sct":"Scutum","Ser":"Serpens","Sex":"Sextans","Tau":"Taurus",
- "Tel":"Telescopium","Tri":"Triangulum","TrA":"Triangulum Australe","Tuc":"Tucana",
- "UMa":"Ursa Major","UMi":"Ursa Minor","Vel":"Vela","Vir":"Virgo","Vol":"Volans","Vul":"Vulpecula",
-}
-SKY_EASY = {"Orion","Ursa Major","Ursa Minor","Cassiopeia","Leo","Scorpius","Taurus",
-            "Gemini","Cancer","Virgo","Libra","Aries","Pisces","Aquarius","Sagittarius",
-            "Capricornus","Cygnus","Crux"}
-SKY_MEDIUM = {"Lyra","Draco","Pegasus","Andromeda","Perseus","Canis Major","Bootes",
-              "Auriga","Hercules","Cepheus","Hydra","Aquila","Canis Minor","Centaurus",
-              "Corona Borealis","Delphinus","Ophiuchus","Eridanus"}
-
-
-# ---------- TopoJSON -> rings of (lon, lat) ---------------------------------
-def decode_arcs(topo):
-    sx, sy = topo["transform"]["scale"]
-    tx, ty = topo["transform"]["translate"]
-    out = []
-    for arc in topo["arcs"]:
-        x = y = 0; pts = []
-        for dx, dy in arc:
-            x += dx; y += dy
-            pts.append((x * sx + tx, y * sy + ty))
-        out.append(pts)
-    return out
-
-def ring_points(arcs, idxs):
-    pts = []
-    for i in idxs:
-        a = arcs[~i][::-1] if i < 0 else arcs[i]
-        pts.extend(a if not pts else a[1:])
-    return pts
-
-def country_rings(geom, arcs):
-    polys = geom["arcs"] if geom["type"] == "MultiPolygon" else [geom["arcs"]]
-    rings = []
-    for poly in polys:
-        for ring in poly:
-            p = ring_points(arcs, ring)
-            if len(p) > 3:
-                rings.append(p)
-    return drop_far_territories(rings)
+INK, EDGE = "#eef2f7", "#243044"
 
 
 def _area(r):
@@ -197,17 +130,12 @@ def outline_svg(rings):
             f'stroke-linejoin="round" fill-rule="evenodd"/></svg>')
 
 
-def sky_svg(lines, stars):
-    parts = []
-    for ln in lines:
-        parts.append('<polyline points="' + " ".join(f"{x},{y}" for x, y in ln) +
-                     f'" fill="none" stroke="{LINE}" stroke-width="1.6" stroke-opacity=".55" '
-                     'stroke-linecap="round" stroke-linejoin="round"/>')
-    for x, y, mag in stars:
-        r = max(1.3, 4.6 - 0.55 * mag)
-        parts.append(f'<circle cx="{x}" cy="{y}" r="{r:.1f}" fill="{STAR}"/>')
-    return ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">'
-            + "".join(parts) + "</svg>")
+def pop_tier(pop):
+    """One rule for both flags and outlines, so the two agree with each other."""
+    if pop >= 50_000_000: return "easy"
+    if pop >= 10_000_000: return "medium"
+    if pop >=  1_000_000: return "hard"
+    return "death"
 
 
 def slug(s):
@@ -217,21 +145,39 @@ def slug(s):
 def main():
     src = sys.argv[1]
     os.makedirs(os.path.join(OUTDIR, "outlines"), exist_ok=True)
-    os.makedirs(os.path.join(OUTDIR, "constellations"), exist_ok=True)
     recs = []
     nid = 900000
 
     # ---- flags -------------------------------------------------------------
+    # Difficulty is population: the countries most people have heard of are the
+    # populous ones. The 10m geometry carries an estimate, joined on ISO code.
+    geo0 = json.load(open(os.path.join(src, "ne10m.geojson")))
+    pop_by_iso = {}
+    for f in geo0["features"]:
+        pr = f["properties"]
+        iso = (pr.get("ISO_A2") or "").lower()
+        if iso and iso != "-99":
+            pop_by_iso[iso] = max(pop_by_iso.get(iso, 0), pr.get("POP_EST") or 0)
+
     codes = json.load(open(os.path.join(src, "codes.json")))
-    flags = {k: v for k, v in codes.items() if len(k) == 2}
-    for code, name in sorted(flags.items()):
+    flags = {k: v for k, v in codes.items()
+             if len(k) == 2 and k not in countries.NOT_A_COUNTRY}
+    unknown = dropped = 0
+    for code, raw in sorted(flags.items()):
+        name = countries.display(code, raw)
+        # flagcdn parenthesises some names; the bracketed half is an alias
+        name = re.sub(r"\s*\(.*\)$", "", name)
+        pop = pop_by_iso.get(code)
+        if pop is None:
+            unknown += 1
         nid += 1
-        tier = "easy" if name in FAMOUS else "hard"
-        recs.append({"id": nid, "tier": tier, "group": "Flag", "name": name, "sci": "",
-                     "aliases": [name.lower()], "cats": ["flags"],
+        recs.append({"id": nid, "tier": pop_tier(pop or 0), "group": "Flag",
+                     "name": name, "sci": "",
+                     "aliases": countries.accepted(code, name), "cats": ["flags"],
                      "photos": [{"url": f"https://flagcdn.com/w320/{code}.png",
                                  "credit": "flagcdn.com", "obs": ""}]})
-    print(f"flags          {len(flags)}")
+    print(f"flags          {len(flags)}  ({unknown} with no population figure -> hardest, "
+          f"{len(countries.NOT_A_COUNTRY)} non-countries dropped)")
 
     # ---- country outlines -------------------------------------------------
     # Natural Earth 10m rather than 110m: 66 times the detail, so coastlines
@@ -244,7 +190,14 @@ def main():
         pr = f["properties"]
         if pr.get("TYPE") not in ("Sovereign country", "Country"):
             continue
-        name = pr.get("NAME_EN") or pr.get("NAME")
+        # ISO_A2_EH rather than ISO_A2: the plain field is blank for France and
+        # Norway in this dataset. No ISO 3166-1 code at all means not a country
+        # for our purposes, which is what drops Somaliland and Northern Cyprus
+        # without the game having to take a political view.
+        iso = (pr.get("ISO_A2_EH") or "").lower()
+        if not iso or iso == "-99" or iso in countries.NOT_A_COUNTRY:
+            continue
+        name = countries.display(iso, pr.get("NAME_EN") or pr.get("NAME"))
         if not name:
             continue
         g = f["geometry"]
@@ -256,10 +209,10 @@ def main():
         span = max(p[0] for r in rings for p in r) - min(p[0] for r in rings for p in r)
         if span > 180:                    # crosses the date line
             rings = [[(p[0] % 360, p[1]) for p in r] for r in rings]
-        sized.append((pr.get("POP_EST") or 0, name, rings))
+        sized.append((pr.get("POP_EST") or 0, name, rings, iso))
 
     kept_pts = raw_pts = 0
-    for pop, name, rings in sized:
+    for pop, name, rings, iso in sized:
         raw_pts += sum(len(r) for r in rings)
         placed = fit(rings, 400, 300, 18)
         # an island smaller than a pixel is speckle, not coastline
@@ -268,58 +221,15 @@ def main():
         placed = [r for r in placed if len(r) >= 3]
         kept_pts += sum(len(r) for r in placed)
         nid += 1
-        tier = ("easy" if name in FAMOUS else
-                "medium" if pop >= 20_000_000 else
-                "hard" if pop >= 2_000_000 else "death")
+        tier = pop_tier(pop)
         fn = slug(name) + ".svg"
         open(os.path.join(OUTDIR, "outlines", fn), "w").write(outline_svg(placed))
         recs.append({"id": nid, "tier": tier, "group": "Outline", "name": name, "sci": "",
-                     "aliases": [name.lower()], "cats": ["outlines"],
+                     "aliases": countries.accepted(iso, name), "cats": ["outlines"],
                      "photos": [{"url": f"../data/things/outlines/{fn}",
                                  "credit": "Outline drawn from Natural Earth (public domain)",
                                  "obs": ""}]})
     print(f"outlines       {len(sized)}  ({raw_pts:,} source points -> {kept_pts:,} drawn)")
-
-    # ---- constellations ----------------------------------------------------
-    cl = json.load(open(os.path.join(src, "conlines.json")))
-    st = json.load(open(os.path.join(src, "stars.json")))
-    starpts = [(f["geometry"]["coordinates"][0], f["geometry"]["coordinates"][1],
-                f["properties"].get("mag", 6)) for f in st["features"]]
-    made = 0
-    for f in cl["features"]:
-        abbr = f.get("id")
-        name = CONSTELLATIONS.get(abbr)
-        if not name:
-            continue
-        lines = [list(map(tuple, ln)) for ln in f["geometry"]["coordinates"] if len(ln) > 1]
-        if not lines:
-            continue
-        # seven figures straddle RA 0h; shift them whole so they stay in one piece
-        ras = [p[0] for ln in lines for p in ln]
-        wrap = (max(ras) - min(ras)) > 180
-        unwrap = lambda ra: (ra + 360 if wrap and ra < 0 else ra)
-        lines = [[(unwrap(a), b) for a, b in ln] for ln in lines]
-        lo = min(unwrap(p[0]) for ln in lines for p in ln); hi = max(p[0] for ln in lines for p in ln)
-        dlo = min(p[1] for ln in lines for p in ln); dhi = max(p[1] for ln in lines for p in ln)
-        inside = [(unwrap(a), b, m) for a, b, m in starpts
-                  if lo - 2 <= unwrap(a) <= hi + 2 and dlo - 2 <= b <= dhi + 2 and m <= 5.2]
-        rings = lines + [[(a, b)] for a, b, _ in inside]
-        placed = fit(rings, 400, 300, 26, flip_x=True)   # the sky runs east to the left
-        drawn_lines = placed[:len(lines)]
-        drawn_stars = [(placed[len(lines)+i][0][0], placed[len(lines)+i][0][1], inside[i][2])
-                       for i in range(len(inside))]
-        fn = slug(name) + ".svg"
-        open(os.path.join(OUTDIR, "constellations", fn), "w").write(sky_svg(drawn_lines, drawn_stars))
-        nid += 1
-        tier = ("easy" if name in SKY_EASY else "medium" if name in SKY_MEDIUM else
-                "hard" if len(lines) >= 4 else "death")
-        recs.append({"id": nid, "tier": tier, "group": "Constellation", "name": name,
-                     "sci": abbr, "aliases": [name.lower()], "cats": ["constellations"],
-                     "photos": [{"url": f"../data/things/constellations/{fn}",
-                                 "credit": "Star positions and figures from the d3-celestial dataset",
-                                 "obs": ""}]})
-        made += 1
-    print(f"constellations {made}")
 
     json.dump(recs, open(os.path.join(OUTDIR, "world_sky.json"), "w"), indent=1)
     print(f"\nwrote {len(recs)} records -> data/things/world_sky.json")

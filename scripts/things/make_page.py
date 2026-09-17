@@ -14,9 +14,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 SRC = os.path.join(ROOT, "web", "index.html")
 DST = os.path.join(ROOT, "web", "things.html")
 
-CATS = [("flowers", "Flowers", "Roses, tulips, orchids"),
-        ("trees", "Trees", "Oak, maple, pine"),
-        ("constellations", "Constellations", "All 88, drawn from real star positions"),
+CATS = [("flowers", "Flowers", "Houseplants through to the exotic"),
+        ("trees", "Trees", "The whole tree, and its leaves"),
         ("flags", "Flags", "Every country's flag"),
         ("outlines", "Country Outlines", "The shape, with nothing else to go on")]
 
@@ -53,8 +52,8 @@ def main():
     s = re.sub(r'  <p class="note">.*?</p>',
                '  <p class="note">Flowers and trees are real photographs taken by real\n'
                '     people, from iNaturalist. Flags come from flagcdn. Country outlines and\n'
-               '     constellations are drawn here from public data — Natural Earth and the\n'
-               '     d3-celestial star catalogue. Nothing here is AI-generated.</p>',
+               '     outlines are drawn here from Natural Earth, public domain. Nothing here\n'
+               '     is AI-generated.</p>',
                s, flags=re.S)
 
     s = s.replace("Difficulty and categories are behind the gear, top left.",
@@ -66,6 +65,7 @@ def main():
                   '  // same engine, different data -- see the top of game.js\n'
                   '  window.GUESSER = {data: "../data/things.json", key: "things.",\n'
                   '                    one: "thing", many: "things", credit: "Source",\n'
+                  '                    streakTries: {flags: 2},\n'
                   '                    tagline: "A flower, a tree, a constellation, a flag "\n'
                   '                             + "or a country. Name it."};\n'
                   '</script>\n<script src="game.js"></script>')

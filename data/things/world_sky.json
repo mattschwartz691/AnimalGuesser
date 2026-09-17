@@ -1,7 +1,7 @@
 [
  {
   "id": 900001,
-  "tier": "hard",
+  "tier": "death",
   "group": "Flag",
   "name": "Andorra",
   "sci": "",
@@ -26,6 +26,7 @@
   "name": "United Arab Emirates",
   "sci": "",
   "aliases": [
+   "uae",
    "united arab emirates"
   ],
   "cats": [
@@ -41,7 +42,7 @@
  },
  {
   "id": 900003,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Flag",
   "name": "Afghanistan",
   "sci": "",
@@ -61,7 +62,7 @@
  },
  {
   "id": 900004,
-  "tier": "hard",
+  "tier": "death",
   "group": "Flag",
   "name": "Antigua and Barbuda",
   "sci": "",
@@ -81,7 +82,7 @@
  },
  {
   "id": 900005,
-  "tier": "hard",
+  "tier": "death",
   "group": "Flag",
   "name": "Anguilla",
   "sci": "",
@@ -141,7 +142,7 @@
  },
  {
   "id": 900008,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Flag",
   "name": "Angola",
   "sci": "",
@@ -161,27 +162,7 @@
  },
  {
   "id": 900009,
-  "tier": "hard",
-  "group": "Flag",
-  "name": "Antarctica",
-  "sci": "",
-  "aliases": [
-   "antarctica"
-  ],
-  "cats": [
-   "flags"
-  ],
-  "photos": [
-   {
-    "url": "https://flagcdn.com/w320/aq.png",
-    "credit": "flagcdn.com",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900010,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Flag",
   "name": "Argentina",
   "sci": "",
@@ -200,8 +181,8 @@
   ]
  },
  {
-  "id": 900011,
-  "tier": "hard",
+  "id": 900010,
+  "tier": "death",
   "group": "Flag",
   "name": "American Samoa",
   "sci": "",
@@ -220,8 +201,8 @@
   ]
  },
  {
-  "id": 900012,
-  "tier": "easy",
+  "id": 900011,
+  "tier": "hard",
   "group": "Flag",
   "name": "Austria",
   "sci": "",
@@ -240,8 +221,8 @@
   ]
  },
  {
-  "id": 900013,
-  "tier": "easy",
+  "id": 900012,
+  "tier": "medium",
   "group": "Flag",
   "name": "Australia",
   "sci": "",
@@ -260,8 +241,8 @@
   ]
  },
  {
-  "id": 900014,
-  "tier": "hard",
+  "id": 900013,
+  "tier": "death",
   "group": "Flag",
   "name": "Aruba",
   "sci": "",
@@ -280,8 +261,8 @@
   ]
  },
  {
-  "id": 900015,
-  "tier": "hard",
+  "id": 900014,
+  "tier": "death",
   "group": "Flag",
   "name": "\u00c5land Islands",
   "sci": "",
@@ -300,8 +281,8 @@
   ]
  },
  {
-  "id": 900016,
-  "tier": "hard",
+  "id": 900015,
+  "tier": "medium",
   "group": "Flag",
   "name": "Azerbaijan",
   "sci": "",
@@ -320,7 +301,7 @@
   ]
  },
  {
-  "id": 900017,
+  "id": 900016,
   "tier": "hard",
   "group": "Flag",
   "name": "Bosnia and Herzegovina",
@@ -340,8 +321,8 @@
   ]
  },
  {
-  "id": 900018,
-  "tier": "hard",
+  "id": 900017,
+  "tier": "death",
   "group": "Flag",
   "name": "Barbados",
   "sci": "",
@@ -360,8 +341,8 @@
   ]
  },
  {
-  "id": 900019,
-  "tier": "hard",
+  "id": 900018,
+  "tier": "easy",
   "group": "Flag",
   "name": "Bangladesh",
   "sci": "",
@@ -380,8 +361,8 @@
   ]
  },
  {
-  "id": 900020,
-  "tier": "easy",
+  "id": 900019,
+  "tier": "medium",
   "group": "Flag",
   "name": "Belgium",
   "sci": "",
@@ -400,13 +381,14 @@
   ]
  },
  {
-  "id": 900021,
-  "tier": "hard",
+  "id": 900020,
+  "tier": "medium",
   "group": "Flag",
   "name": "Burkina Faso",
   "sci": "",
   "aliases": [
-   "burkina faso"
+   "burkina faso",
+   "upper volta"
   ],
   "cats": [
    "flags"
@@ -420,7 +402,7 @@
   ]
  },
  {
-  "id": 900022,
+  "id": 900021,
   "tier": "hard",
   "group": "Flag",
   "name": "Bulgaria",
@@ -440,7 +422,7 @@
   ]
  },
  {
-  "id": 900023,
+  "id": 900022,
   "tier": "hard",
   "group": "Flag",
   "name": "Bahrain",
@@ -460,8 +442,8 @@
   ]
  },
  {
-  "id": 900024,
-  "tier": "hard",
+  "id": 900023,
+  "tier": "medium",
   "group": "Flag",
   "name": "Burundi",
   "sci": "",
@@ -480,13 +462,14 @@
   ]
  },
  {
-  "id": 900025,
-  "tier": "hard",
+  "id": 900024,
+  "tier": "medium",
   "group": "Flag",
   "name": "Benin",
   "sci": "",
   "aliases": [
-   "benin"
+   "benin",
+   "dahomey"
   ],
   "cats": [
    "flags"
@@ -500,13 +483,15 @@
   ]
  },
  {
-  "id": 900026,
-  "tier": "hard",
+  "id": 900025,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Barth\u00e9lemy",
   "sci": "",
   "aliases": [
-   "saint barth\u00e9lemy"
+   "saint barth\u00e9lemy",
+   "st barth\u00e9lemy",
+   "st. barth\u00e9lemy"
   ],
   "cats": [
    "flags"
@@ -520,8 +505,8 @@
   ]
  },
  {
-  "id": 900027,
-  "tier": "hard",
+  "id": 900026,
+  "tier": "death",
   "group": "Flag",
   "name": "Bermuda",
   "sci": "",
@@ -540,8 +525,8 @@
   ]
  },
  {
-  "id": 900028,
-  "tier": "hard",
+  "id": 900027,
+  "tier": "death",
   "group": "Flag",
   "name": "Brunei",
   "sci": "",
@@ -560,8 +545,8 @@
   ]
  },
  {
-  "id": 900029,
-  "tier": "hard",
+  "id": 900028,
+  "tier": "medium",
   "group": "Flag",
   "name": "Bolivia",
   "sci": "",
@@ -580,8 +565,8 @@
   ]
  },
  {
-  "id": 900030,
-  "tier": "hard",
+  "id": 900029,
+  "tier": "death",
   "group": "Flag",
   "name": "Caribbean Netherlands",
   "sci": "",
@@ -600,7 +585,7 @@
   ]
  },
  {
-  "id": 900031,
+  "id": 900030,
   "tier": "easy",
   "group": "Flag",
   "name": "Brazil",
@@ -620,13 +605,14 @@
   ]
  },
  {
-  "id": 900032,
-  "tier": "hard",
+  "id": 900031,
+  "tier": "death",
   "group": "Flag",
   "name": "Bahamas",
   "sci": "",
   "aliases": [
-   "bahamas"
+   "bahamas",
+   "the bahamas"
   ],
   "cats": [
    "flags"
@@ -640,8 +626,8 @@
   ]
  },
  {
-  "id": 900033,
-  "tier": "hard",
+  "id": 900032,
+  "tier": "death",
   "group": "Flag",
   "name": "Bhutan",
   "sci": "",
@@ -660,8 +646,8 @@
   ]
  },
  {
-  "id": 900034,
-  "tier": "hard",
+  "id": 900033,
+  "tier": "death",
   "group": "Flag",
   "name": "Bouvet Island",
   "sci": "",
@@ -680,12 +666,13 @@
   ]
  },
  {
-  "id": 900035,
+  "id": 900034,
   "tier": "hard",
   "group": "Flag",
   "name": "Botswana",
   "sci": "",
   "aliases": [
+   "bechuanaland",
    "botswana"
   ],
   "cats": [
@@ -700,7 +687,7 @@
   ]
  },
  {
-  "id": 900036,
+  "id": 900035,
   "tier": "hard",
   "group": "Flag",
   "name": "Belarus",
@@ -720,13 +707,14 @@
   ]
  },
  {
-  "id": 900037,
-  "tier": "hard",
+  "id": 900036,
+  "tier": "death",
   "group": "Flag",
   "name": "Belize",
   "sci": "",
   "aliases": [
-   "belize"
+   "belize",
+   "british honduras"
   ],
   "cats": [
    "flags"
@@ -740,8 +728,8 @@
   ]
  },
  {
-  "id": 900038,
-  "tier": "easy",
+  "id": 900037,
+  "tier": "medium",
   "group": "Flag",
   "name": "Canada",
   "sci": "",
@@ -760,8 +748,8 @@
   ]
  },
  {
-  "id": 900039,
-  "tier": "hard",
+  "id": 900038,
+  "tier": "death",
   "group": "Flag",
   "name": "Cocos (Keeling) Islands",
   "sci": "",
@@ -780,13 +768,17 @@
   ]
  },
  {
-  "id": 900040,
-  "tier": "hard",
+  "id": 900039,
+  "tier": "easy",
   "group": "Flag",
-  "name": "DR Congo",
+  "name": "Democratic Republic of the Congo",
   "sci": "",
   "aliases": [
-   "dr congo"
+   "congo kinshasa",
+   "democratic republic of the congo",
+   "dr congo",
+   "drc",
+   "zaire"
   ],
   "cats": [
    "flags"
@@ -800,7 +792,7 @@
   ]
  },
  {
-  "id": 900041,
+  "id": 900040,
   "tier": "hard",
   "group": "Flag",
   "name": "Central African Republic",
@@ -820,12 +812,14 @@
   ]
  },
  {
-  "id": 900042,
+  "id": 900041,
   "tier": "hard",
   "group": "Flag",
   "name": "Republic of the Congo",
   "sci": "",
   "aliases": [
+   "congo",
+   "congo brazzaville",
    "republic of the congo"
   ],
   "cats": [
@@ -840,8 +834,8 @@
   ]
  },
  {
-  "id": 900043,
-  "tier": "easy",
+  "id": 900042,
+  "tier": "hard",
   "group": "Flag",
   "name": "Switzerland",
   "sci": "",
@@ -860,13 +854,14 @@
   ]
  },
  {
-  "id": 900044,
-  "tier": "hard",
+  "id": 900043,
+  "tier": "medium",
   "group": "Flag",
-  "name": "C\u00f4te d'Ivoire (Ivory Coast)",
+  "name": "C\u00f4te d'Ivoire",
   "sci": "",
   "aliases": [
-   "c\u00f4te d'ivoire (ivory coast)"
+   "c\u00f4te d'ivoire",
+   "ivory coast"
   ],
   "cats": [
    "flags"
@@ -880,8 +875,8 @@
   ]
  },
  {
-  "id": 900045,
-  "tier": "hard",
+  "id": 900044,
+  "tier": "death",
   "group": "Flag",
   "name": "Cook Islands",
   "sci": "",
@@ -900,8 +895,8 @@
   ]
  },
  {
-  "id": 900046,
-  "tier": "easy",
+  "id": 900045,
+  "tier": "medium",
   "group": "Flag",
   "name": "Chile",
   "sci": "",
@@ -920,8 +915,8 @@
   ]
  },
  {
-  "id": 900047,
-  "tier": "hard",
+  "id": 900046,
+  "tier": "medium",
   "group": "Flag",
   "name": "Cameroon",
   "sci": "",
@@ -940,13 +935,15 @@
   ]
  },
  {
-  "id": 900048,
+  "id": 900047,
   "tier": "easy",
   "group": "Flag",
   "name": "China",
   "sci": "",
   "aliases": [
-   "china"
+   "china",
+   "peoples republic of china",
+   "prc"
   ],
   "cats": [
    "flags"
@@ -960,7 +957,7 @@
   ]
  },
  {
-  "id": 900049,
+  "id": 900048,
   "tier": "easy",
   "group": "Flag",
   "name": "Colombia",
@@ -980,7 +977,7 @@
   ]
  },
  {
-  "id": 900050,
+  "id": 900049,
   "tier": "hard",
   "group": "Flag",
   "name": "Costa Rica",
@@ -1000,8 +997,8 @@
   ]
  },
  {
-  "id": 900051,
-  "tier": "easy",
+  "id": 900050,
+  "tier": "medium",
   "group": "Flag",
   "name": "Cuba",
   "sci": "",
@@ -1020,12 +1017,13 @@
   ]
  },
  {
-  "id": 900052,
-  "tier": "hard",
+  "id": 900051,
+  "tier": "death",
   "group": "Flag",
-  "name": "Cape Verde",
+  "name": "Cabo Verde",
   "sci": "",
   "aliases": [
+   "cabo verde",
    "cape verde"
   ],
   "cats": [
@@ -1040,8 +1038,8 @@
   ]
  },
  {
-  "id": 900053,
-  "tier": "hard",
+  "id": 900052,
+  "tier": "death",
   "group": "Flag",
   "name": "Cura\u00e7ao",
   "sci": "",
@@ -1060,8 +1058,8 @@
   ]
  },
  {
-  "id": 900054,
-  "tier": "hard",
+  "id": 900053,
+  "tier": "death",
   "group": "Flag",
   "name": "Christmas Island",
   "sci": "",
@@ -1080,7 +1078,7 @@
   ]
  },
  {
-  "id": 900055,
+  "id": 900054,
   "tier": "hard",
   "group": "Flag",
   "name": "Cyprus",
@@ -1100,12 +1098,13 @@
   ]
  },
  {
-  "id": 900056,
-  "tier": "easy",
+  "id": 900055,
+  "tier": "medium",
   "group": "Flag",
   "name": "Czechia",
   "sci": "",
   "aliases": [
+   "czech republic",
    "czechia"
   ],
   "cats": [
@@ -1120,7 +1119,7 @@
   ]
  },
  {
-  "id": 900057,
+  "id": 900056,
   "tier": "easy",
   "group": "Flag",
   "name": "Germany",
@@ -1140,13 +1139,14 @@
   ]
  },
  {
-  "id": 900058,
-  "tier": "hard",
+  "id": 900057,
+  "tier": "death",
   "group": "Flag",
   "name": "Djibouti",
   "sci": "",
   "aliases": [
-   "djibouti"
+   "djibouti",
+   "french somaliland"
   ],
   "cats": [
    "flags"
@@ -1160,8 +1160,8 @@
   ]
  },
  {
-  "id": 900059,
-  "tier": "easy",
+  "id": 900058,
+  "tier": "hard",
   "group": "Flag",
   "name": "Denmark",
   "sci": "",
@@ -1180,8 +1180,8 @@
   ]
  },
  {
-  "id": 900060,
-  "tier": "hard",
+  "id": 900059,
+  "tier": "death",
   "group": "Flag",
   "name": "Dominica",
   "sci": "",
@@ -1200,8 +1200,8 @@
   ]
  },
  {
-  "id": 900061,
-  "tier": "hard",
+  "id": 900060,
+  "tier": "medium",
   "group": "Flag",
   "name": "Dominican Republic",
   "sci": "",
@@ -1220,8 +1220,8 @@
   ]
  },
  {
-  "id": 900062,
-  "tier": "hard",
+  "id": 900061,
+  "tier": "medium",
   "group": "Flag",
   "name": "Algeria",
   "sci": "",
@@ -1240,8 +1240,8 @@
   ]
  },
  {
-  "id": 900063,
-  "tier": "hard",
+  "id": 900062,
+  "tier": "medium",
   "group": "Flag",
   "name": "Ecuador",
   "sci": "",
@@ -1260,7 +1260,7 @@
   ]
  },
  {
-  "id": 900064,
+  "id": 900063,
   "tier": "hard",
   "group": "Flag",
   "name": "Estonia",
@@ -1280,7 +1280,7 @@
   ]
  },
  {
-  "id": 900065,
+  "id": 900064,
   "tier": "easy",
   "group": "Flag",
   "name": "Egypt",
@@ -1300,8 +1300,8 @@
   ]
  },
  {
-  "id": 900066,
-  "tier": "hard",
+  "id": 900065,
+  "tier": "death",
   "group": "Flag",
   "name": "Western Sahara",
   "sci": "",
@@ -1320,7 +1320,7 @@
   ]
  },
  {
-  "id": 900067,
+  "id": 900066,
   "tier": "hard",
   "group": "Flag",
   "name": "Eritrea",
@@ -1340,8 +1340,8 @@
   ]
  },
  {
-  "id": 900068,
-  "tier": "easy",
+  "id": 900067,
+  "tier": "medium",
   "group": "Flag",
   "name": "Spain",
   "sci": "",
@@ -1360,12 +1360,13 @@
   ]
  },
  {
-  "id": 900069,
+  "id": 900068,
   "tier": "easy",
   "group": "Flag",
   "name": "Ethiopia",
   "sci": "",
   "aliases": [
+   "abyssinia",
    "ethiopia"
   ],
   "cats": [
@@ -1380,28 +1381,8 @@
   ]
  },
  {
-  "id": 900070,
+  "id": 900069,
   "tier": "hard",
-  "group": "Flag",
-  "name": "European Union",
-  "sci": "",
-  "aliases": [
-   "european union"
-  ],
-  "cats": [
-   "flags"
-  ],
-  "photos": [
-   {
-    "url": "https://flagcdn.com/w320/eu.png",
-    "credit": "flagcdn.com",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900071,
-  "tier": "easy",
   "group": "Flag",
   "name": "Finland",
   "sci": "",
@@ -1420,8 +1401,8 @@
   ]
  },
  {
-  "id": 900072,
-  "tier": "hard",
+  "id": 900070,
+  "tier": "death",
   "group": "Flag",
   "name": "Fiji",
   "sci": "",
@@ -1440,8 +1421,8 @@
   ]
  },
  {
-  "id": 900073,
-  "tier": "hard",
+  "id": 900071,
+  "tier": "death",
   "group": "Flag",
   "name": "Falkland Islands",
   "sci": "",
@@ -1460,12 +1441,13 @@
   ]
  },
  {
-  "id": 900074,
-  "tier": "hard",
+  "id": 900072,
+  "tier": "death",
   "group": "Flag",
   "name": "Micronesia",
   "sci": "",
   "aliases": [
+   "federated states of micronesia",
    "micronesia"
   ],
   "cats": [
@@ -1480,8 +1462,8 @@
   ]
  },
  {
-  "id": 900075,
-  "tier": "hard",
+  "id": 900073,
+  "tier": "death",
   "group": "Flag",
   "name": "Faroe Islands",
   "sci": "",
@@ -1500,8 +1482,8 @@
   ]
  },
  {
-  "id": 900076,
-  "tier": "easy",
+  "id": 900074,
+  "tier": "death",
   "group": "Flag",
   "name": "France",
   "sci": "",
@@ -1520,7 +1502,7 @@
   ]
  },
  {
-  "id": 900077,
+  "id": 900075,
   "tier": "hard",
   "group": "Flag",
   "name": "Gabon",
@@ -1540,12 +1522,16 @@
   ]
  },
  {
-  "id": 900078,
+  "id": 900076,
   "tier": "easy",
   "group": "Flag",
   "name": "United Kingdom",
   "sci": "",
   "aliases": [
+   "britain",
+   "england",
+   "great britain",
+   "uk",
    "united kingdom"
   ],
   "cats": [
@@ -1560,8 +1546,8 @@
   ]
  },
  {
-  "id": 900079,
-  "tier": "hard",
+  "id": 900077,
+  "tier": "death",
   "group": "Flag",
   "name": "Grenada",
   "sci": "",
@@ -1580,7 +1566,7 @@
   ]
  },
  {
-  "id": 900080,
+  "id": 900078,
   "tier": "hard",
   "group": "Flag",
   "name": "Georgia",
@@ -1600,8 +1586,8 @@
   ]
  },
  {
-  "id": 900081,
-  "tier": "hard",
+  "id": 900079,
+  "tier": "death",
   "group": "Flag",
   "name": "French Guiana",
   "sci": "",
@@ -1620,8 +1606,8 @@
   ]
  },
  {
-  "id": 900082,
-  "tier": "hard",
+  "id": 900080,
+  "tier": "death",
   "group": "Flag",
   "name": "Guernsey",
   "sci": "",
@@ -1640,8 +1626,8 @@
   ]
  },
  {
-  "id": 900083,
-  "tier": "hard",
+  "id": 900081,
+  "tier": "medium",
   "group": "Flag",
   "name": "Ghana",
   "sci": "",
@@ -1660,8 +1646,8 @@
   ]
  },
  {
-  "id": 900084,
-  "tier": "hard",
+  "id": 900082,
+  "tier": "death",
   "group": "Flag",
   "name": "Gibraltar",
   "sci": "",
@@ -1680,8 +1666,8 @@
   ]
  },
  {
-  "id": 900085,
-  "tier": "hard",
+  "id": 900083,
+  "tier": "death",
   "group": "Flag",
   "name": "Greenland",
   "sci": "",
@@ -1700,13 +1686,14 @@
   ]
  },
  {
-  "id": 900086,
+  "id": 900084,
   "tier": "hard",
   "group": "Flag",
   "name": "Gambia",
   "sci": "",
   "aliases": [
-   "gambia"
+   "gambia",
+   "the gambia"
   ],
   "cats": [
    "flags"
@@ -1720,8 +1707,8 @@
   ]
  },
  {
-  "id": 900087,
-  "tier": "hard",
+  "id": 900085,
+  "tier": "medium",
   "group": "Flag",
   "name": "Guinea",
   "sci": "",
@@ -1740,8 +1727,8 @@
   ]
  },
  {
-  "id": 900088,
-  "tier": "hard",
+  "id": 900086,
+  "tier": "death",
   "group": "Flag",
   "name": "Guadeloupe",
   "sci": "",
@@ -1760,13 +1747,14 @@
   ]
  },
  {
-  "id": 900089,
+  "id": 900087,
   "tier": "hard",
   "group": "Flag",
   "name": "Equatorial Guinea",
   "sci": "",
   "aliases": [
-   "equatorial guinea"
+   "equatorial guinea",
+   "spanish guinea"
   ],
   "cats": [
    "flags"
@@ -1780,8 +1768,8 @@
   ]
  },
  {
-  "id": 900090,
-  "tier": "easy",
+  "id": 900088,
+  "tier": "medium",
   "group": "Flag",
   "name": "Greece",
   "sci": "",
@@ -1800,8 +1788,8 @@
   ]
  },
  {
-  "id": 900091,
-  "tier": "hard",
+  "id": 900089,
+  "tier": "death",
   "group": "Flag",
   "name": "South Georgia",
   "sci": "",
@@ -1820,8 +1808,8 @@
   ]
  },
  {
-  "id": 900092,
-  "tier": "hard",
+  "id": 900090,
+  "tier": "medium",
   "group": "Flag",
   "name": "Guatemala",
   "sci": "",
@@ -1840,8 +1828,8 @@
   ]
  },
  {
-  "id": 900093,
-  "tier": "hard",
+  "id": 900091,
+  "tier": "death",
   "group": "Flag",
   "name": "Guam",
   "sci": "",
@@ -1860,7 +1848,7 @@
   ]
  },
  {
-  "id": 900094,
+  "id": 900092,
   "tier": "hard",
   "group": "Flag",
   "name": "Guinea-Bissau",
@@ -1880,12 +1868,13 @@
   ]
  },
  {
-  "id": 900095,
-  "tier": "hard",
+  "id": 900093,
+  "tier": "death",
   "group": "Flag",
   "name": "Guyana",
   "sci": "",
   "aliases": [
+   "british guiana",
    "guyana"
   ],
   "cats": [
@@ -1900,7 +1889,7 @@
   ]
  },
  {
-  "id": 900096,
+  "id": 900094,
   "tier": "hard",
   "group": "Flag",
   "name": "Hong Kong",
@@ -1920,8 +1909,8 @@
   ]
  },
  {
-  "id": 900097,
-  "tier": "hard",
+  "id": 900095,
+  "tier": "death",
   "group": "Flag",
   "name": "Heard Island and McDonald Islands",
   "sci": "",
@@ -1940,7 +1929,7 @@
   ]
  },
  {
-  "id": 900098,
+  "id": 900096,
   "tier": "hard",
   "group": "Flag",
   "name": "Honduras",
@@ -1960,7 +1949,7 @@
   ]
  },
  {
-  "id": 900099,
+  "id": 900097,
   "tier": "hard",
   "group": "Flag",
   "name": "Croatia",
@@ -1980,8 +1969,8 @@
   ]
  },
  {
-  "id": 900100,
-  "tier": "hard",
+  "id": 900098,
+  "tier": "medium",
   "group": "Flag",
   "name": "Haiti",
   "sci": "",
@@ -2000,8 +1989,8 @@
   ]
  },
  {
-  "id": 900101,
-  "tier": "easy",
+  "id": 900099,
+  "tier": "hard",
   "group": "Flag",
   "name": "Hungary",
   "sci": "",
@@ -2020,7 +2009,7 @@
   ]
  },
  {
-  "id": 900102,
+  "id": 900100,
   "tier": "easy",
   "group": "Flag",
   "name": "Indonesia",
@@ -2040,8 +2029,8 @@
   ]
  },
  {
-  "id": 900103,
-  "tier": "easy",
+  "id": 900101,
+  "tier": "hard",
   "group": "Flag",
   "name": "Ireland",
   "sci": "",
@@ -2060,8 +2049,8 @@
   ]
  },
  {
-  "id": 900104,
-  "tier": "easy",
+  "id": 900102,
+  "tier": "hard",
   "group": "Flag",
   "name": "Israel",
   "sci": "",
@@ -2080,8 +2069,8 @@
   ]
  },
  {
-  "id": 900105,
-  "tier": "hard",
+  "id": 900103,
+  "tier": "death",
   "group": "Flag",
   "name": "Isle of Man",
   "sci": "",
@@ -2100,7 +2089,7 @@
   ]
  },
  {
-  "id": 900106,
+  "id": 900104,
   "tier": "easy",
   "group": "Flag",
   "name": "India",
@@ -2120,8 +2109,8 @@
   ]
  },
  {
-  "id": 900107,
-  "tier": "hard",
+  "id": 900105,
+  "tier": "death",
   "group": "Flag",
   "name": "British Indian Ocean Territory",
   "sci": "",
@@ -2140,8 +2129,8 @@
   ]
  },
  {
-  "id": 900108,
-  "tier": "easy",
+  "id": 900106,
+  "tier": "medium",
   "group": "Flag",
   "name": "Iraq",
   "sci": "",
@@ -2160,13 +2149,14 @@
   ]
  },
  {
-  "id": 900109,
+  "id": 900107,
   "tier": "easy",
   "group": "Flag",
   "name": "Iran",
   "sci": "",
   "aliases": [
-   "iran"
+   "iran",
+   "persia"
   ],
   "cats": [
    "flags"
@@ -2180,8 +2170,8 @@
   ]
  },
  {
-  "id": 900110,
-  "tier": "easy",
+  "id": 900108,
+  "tier": "death",
   "group": "Flag",
   "name": "Iceland",
   "sci": "",
@@ -2200,7 +2190,7 @@
   ]
  },
  {
-  "id": 900111,
+  "id": 900109,
   "tier": "easy",
   "group": "Flag",
   "name": "Italy",
@@ -2220,8 +2210,8 @@
   ]
  },
  {
-  "id": 900112,
-  "tier": "hard",
+  "id": 900110,
+  "tier": "death",
   "group": "Flag",
   "name": "Jersey",
   "sci": "",
@@ -2240,8 +2230,8 @@
   ]
  },
  {
-  "id": 900113,
-  "tier": "easy",
+  "id": 900111,
+  "tier": "hard",
   "group": "Flag",
   "name": "Jamaica",
   "sci": "",
@@ -2260,8 +2250,8 @@
   ]
  },
  {
-  "id": 900114,
-  "tier": "hard",
+  "id": 900112,
+  "tier": "medium",
   "group": "Flag",
   "name": "Jordan",
   "sci": "",
@@ -2280,7 +2270,7 @@
   ]
  },
  {
-  "id": 900115,
+  "id": 900113,
   "tier": "easy",
   "group": "Flag",
   "name": "Japan",
@@ -2300,7 +2290,7 @@
   ]
  },
  {
-  "id": 900116,
+  "id": 900114,
   "tier": "easy",
   "group": "Flag",
   "name": "Kenya",
@@ -2320,7 +2310,7 @@
   ]
  },
  {
-  "id": 900117,
+  "id": 900115,
   "tier": "hard",
   "group": "Flag",
   "name": "Kyrgyzstan",
@@ -2340,13 +2330,14 @@
   ]
  },
  {
-  "id": 900118,
-  "tier": "easy",
+  "id": 900116,
+  "tier": "medium",
   "group": "Flag",
   "name": "Cambodia",
   "sci": "",
   "aliases": [
-   "cambodia"
+   "cambodia",
+   "kampuchea"
   ],
   "cats": [
    "flags"
@@ -2360,8 +2351,8 @@
   ]
  },
  {
-  "id": 900119,
-  "tier": "hard",
+  "id": 900117,
+  "tier": "death",
   "group": "Flag",
   "name": "Kiribati",
   "sci": "",
@@ -2380,8 +2371,8 @@
   ]
  },
  {
-  "id": 900120,
-  "tier": "hard",
+  "id": 900118,
+  "tier": "death",
   "group": "Flag",
   "name": "Comoros",
   "sci": "",
@@ -2400,13 +2391,15 @@
   ]
  },
  {
-  "id": 900121,
-  "tier": "hard",
+  "id": 900119,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Kitts and Nevis",
   "sci": "",
   "aliases": [
-   "saint kitts and nevis"
+   "saint kitts and nevis",
+   "st kitts and nevis",
+   "st. kitts and nevis"
   ],
   "cats": [
    "flags"
@@ -2420,12 +2413,14 @@
   ]
  },
  {
-  "id": 900122,
-  "tier": "easy",
+  "id": 900120,
+  "tier": "medium",
   "group": "Flag",
   "name": "North Korea",
   "sci": "",
   "aliases": [
+   "democratic peoples republic of korea",
+   "dprk",
    "north korea"
   ],
   "cats": [
@@ -2440,12 +2435,13 @@
   ]
  },
  {
-  "id": 900123,
+  "id": 900121,
   "tier": "easy",
   "group": "Flag",
   "name": "South Korea",
   "sci": "",
   "aliases": [
+   "republic of korea",
    "south korea"
   ],
   "cats": [
@@ -2460,7 +2456,7 @@
   ]
  },
  {
-  "id": 900124,
+  "id": 900122,
   "tier": "hard",
   "group": "Flag",
   "name": "Kuwait",
@@ -2480,8 +2476,8 @@
   ]
  },
  {
-  "id": 900125,
-  "tier": "hard",
+  "id": 900123,
+  "tier": "death",
   "group": "Flag",
   "name": "Cayman Islands",
   "sci": "",
@@ -2500,8 +2496,8 @@
   ]
  },
  {
-  "id": 900126,
-  "tier": "hard",
+  "id": 900124,
+  "tier": "medium",
   "group": "Flag",
   "name": "Kazakhstan",
   "sci": "",
@@ -2520,12 +2516,14 @@
   ]
  },
  {
-  "id": 900127,
+  "id": 900125,
   "tier": "hard",
   "group": "Flag",
   "name": "Laos",
   "sci": "",
   "aliases": [
+   "lao",
+   "lao pdr",
    "laos"
   ],
   "cats": [
@@ -2540,7 +2538,7 @@
   ]
  },
  {
-  "id": 900128,
+  "id": 900126,
   "tier": "hard",
   "group": "Flag",
   "name": "Lebanon",
@@ -2560,13 +2558,15 @@
   ]
  },
  {
-  "id": 900129,
-  "tier": "hard",
+  "id": 900127,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Lucia",
   "sci": "",
   "aliases": [
-   "saint lucia"
+   "saint lucia",
+   "st lucia",
+   "st. lucia"
   ],
   "cats": [
    "flags"
@@ -2580,8 +2580,8 @@
   ]
  },
  {
-  "id": 900130,
-  "tier": "hard",
+  "id": 900128,
+  "tier": "death",
   "group": "Flag",
   "name": "Liechtenstein",
   "sci": "",
@@ -2600,12 +2600,13 @@
   ]
  },
  {
-  "id": 900131,
-  "tier": "hard",
+  "id": 900129,
+  "tier": "medium",
   "group": "Flag",
   "name": "Sri Lanka",
   "sci": "",
   "aliases": [
+   "ceylon",
    "sri lanka"
   ],
   "cats": [
@@ -2620,7 +2621,7 @@
   ]
  },
  {
-  "id": 900132,
+  "id": 900130,
   "tier": "hard",
   "group": "Flag",
   "name": "Liberia",
@@ -2640,12 +2641,13 @@
   ]
  },
  {
-  "id": 900133,
+  "id": 900131,
   "tier": "hard",
   "group": "Flag",
   "name": "Lesotho",
   "sci": "",
   "aliases": [
+   "basutoland",
    "lesotho"
   ],
   "cats": [
@@ -2660,7 +2662,7 @@
   ]
  },
  {
-  "id": 900134,
+  "id": 900132,
   "tier": "hard",
   "group": "Flag",
   "name": "Lithuania",
@@ -2680,8 +2682,8 @@
   ]
  },
  {
-  "id": 900135,
-  "tier": "hard",
+  "id": 900133,
+  "tier": "death",
   "group": "Flag",
   "name": "Luxembourg",
   "sci": "",
@@ -2700,7 +2702,7 @@
   ]
  },
  {
-  "id": 900136,
+  "id": 900134,
   "tier": "hard",
   "group": "Flag",
   "name": "Latvia",
@@ -2720,7 +2722,7 @@
   ]
  },
  {
-  "id": 900137,
+  "id": 900135,
   "tier": "hard",
   "group": "Flag",
   "name": "Libya",
@@ -2740,8 +2742,8 @@
   ]
  },
  {
-  "id": 900138,
-  "tier": "easy",
+  "id": 900136,
+  "tier": "medium",
   "group": "Flag",
   "name": "Morocco",
   "sci": "",
@@ -2760,8 +2762,8 @@
   ]
  },
  {
-  "id": 900139,
-  "tier": "hard",
+  "id": 900137,
+  "tier": "death",
   "group": "Flag",
   "name": "Monaco",
   "sci": "",
@@ -2780,7 +2782,7 @@
   ]
  },
  {
-  "id": 900140,
+  "id": 900138,
   "tier": "hard",
   "group": "Flag",
   "name": "Moldova",
@@ -2800,8 +2802,8 @@
   ]
  },
  {
-  "id": 900141,
-  "tier": "hard",
+  "id": 900139,
+  "tier": "death",
   "group": "Flag",
   "name": "Montenegro",
   "sci": "",
@@ -2820,13 +2822,15 @@
   ]
  },
  {
-  "id": 900142,
-  "tier": "hard",
+  "id": 900140,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Martin",
   "sci": "",
   "aliases": [
-   "saint martin"
+   "saint martin",
+   "st martin",
+   "st. martin"
   ],
   "cats": [
    "flags"
@@ -2840,8 +2844,8 @@
   ]
  },
  {
-  "id": 900143,
-  "tier": "hard",
+  "id": 900141,
+  "tier": "medium",
   "group": "Flag",
   "name": "Madagascar",
   "sci": "",
@@ -2860,8 +2864,8 @@
   ]
  },
  {
-  "id": 900144,
-  "tier": "hard",
+  "id": 900142,
+  "tier": "death",
   "group": "Flag",
   "name": "Marshall Islands",
   "sci": "",
@@ -2880,12 +2884,14 @@
   ]
  },
  {
-  "id": 900145,
+  "id": 900143,
   "tier": "hard",
   "group": "Flag",
   "name": "North Macedonia",
   "sci": "",
   "aliases": [
+   "fyrom",
+   "macedonia",
    "north macedonia"
   ],
   "cats": [
@@ -2900,12 +2906,13 @@
   ]
  },
  {
-  "id": 900146,
-  "tier": "hard",
+  "id": 900144,
+  "tier": "medium",
   "group": "Flag",
   "name": "Mali",
   "sci": "",
   "aliases": [
+   "french sudan",
    "mali"
   ],
   "cats": [
@@ -2920,12 +2927,13 @@
   ]
  },
  {
-  "id": 900147,
-  "tier": "hard",
+  "id": 900145,
+  "tier": "easy",
   "group": "Flag",
   "name": "Myanmar",
   "sci": "",
   "aliases": [
+   "burma",
    "myanmar"
   ],
   "cats": [
@@ -2940,7 +2948,7 @@
   ]
  },
  {
-  "id": 900148,
+  "id": 900146,
   "tier": "hard",
   "group": "Flag",
   "name": "Mongolia",
@@ -2960,8 +2968,8 @@
   ]
  },
  {
-  "id": 900149,
-  "tier": "hard",
+  "id": 900147,
+  "tier": "death",
   "group": "Flag",
   "name": "Macau",
   "sci": "",
@@ -2980,8 +2988,8 @@
   ]
  },
  {
-  "id": 900150,
-  "tier": "hard",
+  "id": 900148,
+  "tier": "death",
   "group": "Flag",
   "name": "Northern Mariana Islands",
   "sci": "",
@@ -3000,8 +3008,8 @@
   ]
  },
  {
-  "id": 900151,
-  "tier": "hard",
+  "id": 900149,
+  "tier": "death",
   "group": "Flag",
   "name": "Martinique",
   "sci": "",
@@ -3020,7 +3028,7 @@
   ]
  },
  {
-  "id": 900152,
+  "id": 900150,
   "tier": "hard",
   "group": "Flag",
   "name": "Mauritania",
@@ -3040,8 +3048,8 @@
   ]
  },
  {
-  "id": 900153,
-  "tier": "hard",
+  "id": 900151,
+  "tier": "death",
   "group": "Flag",
   "name": "Montserrat",
   "sci": "",
@@ -3060,8 +3068,8 @@
   ]
  },
  {
-  "id": 900154,
-  "tier": "hard",
+  "id": 900152,
+  "tier": "death",
   "group": "Flag",
   "name": "Malta",
   "sci": "",
@@ -3080,7 +3088,7 @@
   ]
  },
  {
-  "id": 900155,
+  "id": 900153,
   "tier": "hard",
   "group": "Flag",
   "name": "Mauritius",
@@ -3100,8 +3108,8 @@
   ]
  },
  {
-  "id": 900156,
-  "tier": "hard",
+  "id": 900154,
+  "tier": "death",
   "group": "Flag",
   "name": "Maldives",
   "sci": "",
@@ -3120,13 +3128,14 @@
   ]
  },
  {
-  "id": 900157,
-  "tier": "hard",
+  "id": 900155,
+  "tier": "medium",
   "group": "Flag",
   "name": "Malawi",
   "sci": "",
   "aliases": [
-   "malawi"
+   "malawi",
+   "nyasaland"
   ],
   "cats": [
    "flags"
@@ -3140,7 +3149,7 @@
   ]
  },
  {
-  "id": 900158,
+  "id": 900156,
   "tier": "easy",
   "group": "Flag",
   "name": "Mexico",
@@ -3160,8 +3169,8 @@
   ]
  },
  {
-  "id": 900159,
-  "tier": "easy",
+  "id": 900157,
+  "tier": "medium",
   "group": "Flag",
   "name": "Malaysia",
   "sci": "",
@@ -3180,8 +3189,8 @@
   ]
  },
  {
-  "id": 900160,
-  "tier": "hard",
+  "id": 900158,
+  "tier": "medium",
   "group": "Flag",
   "name": "Mozambique",
   "sci": "",
@@ -3200,7 +3209,7 @@
   ]
  },
  {
-  "id": 900161,
+  "id": 900159,
   "tier": "hard",
   "group": "Flag",
   "name": "Namibia",
@@ -3220,8 +3229,8 @@
   ]
  },
  {
-  "id": 900162,
-  "tier": "hard",
+  "id": 900160,
+  "tier": "death",
   "group": "Flag",
   "name": "New Caledonia",
   "sci": "",
@@ -3240,13 +3249,14 @@
   ]
  },
  {
-  "id": 900163,
-  "tier": "hard",
+  "id": 900161,
+  "tier": "medium",
   "group": "Flag",
   "name": "Niger",
   "sci": "",
   "aliases": [
-   "niger"
+   "niger",
+   "niger republic"
   ],
   "cats": [
    "flags"
@@ -3260,8 +3270,8 @@
   ]
  },
  {
-  "id": 900164,
-  "tier": "hard",
+  "id": 900162,
+  "tier": "death",
   "group": "Flag",
   "name": "Norfolk Island",
   "sci": "",
@@ -3280,7 +3290,7 @@
   ]
  },
  {
-  "id": 900165,
+  "id": 900163,
   "tier": "easy",
   "group": "Flag",
   "name": "Nigeria",
@@ -3300,7 +3310,7 @@
   ]
  },
  {
-  "id": 900166,
+  "id": 900164,
   "tier": "hard",
   "group": "Flag",
   "name": "Nicaragua",
@@ -3320,12 +3330,13 @@
   ]
  },
  {
-  "id": 900167,
-  "tier": "easy",
+  "id": 900165,
+  "tier": "medium",
   "group": "Flag",
   "name": "Netherlands",
   "sci": "",
   "aliases": [
+   "holland",
    "netherlands"
   ],
   "cats": [
@@ -3340,8 +3351,8 @@
   ]
  },
  {
-  "id": 900168,
-  "tier": "easy",
+  "id": 900166,
+  "tier": "death",
   "group": "Flag",
   "name": "Norway",
   "sci": "",
@@ -3360,8 +3371,8 @@
   ]
  },
  {
-  "id": 900169,
-  "tier": "easy",
+  "id": 900167,
+  "tier": "medium",
   "group": "Flag",
   "name": "Nepal",
   "sci": "",
@@ -3380,8 +3391,8 @@
   ]
  },
  {
-  "id": 900170,
-  "tier": "hard",
+  "id": 900168,
+  "tier": "death",
   "group": "Flag",
   "name": "Nauru",
   "sci": "",
@@ -3400,8 +3411,8 @@
   ]
  },
  {
-  "id": 900171,
-  "tier": "hard",
+  "id": 900169,
+  "tier": "death",
   "group": "Flag",
   "name": "Niue",
   "sci": "",
@@ -3420,8 +3431,8 @@
   ]
  },
  {
-  "id": 900172,
-  "tier": "easy",
+  "id": 900170,
+  "tier": "hard",
   "group": "Flag",
   "name": "New Zealand",
   "sci": "",
@@ -3440,7 +3451,7 @@
   ]
  },
  {
-  "id": 900173,
+  "id": 900171,
   "tier": "hard",
   "group": "Flag",
   "name": "Oman",
@@ -3460,7 +3471,7 @@
   ]
  },
  {
-  "id": 900174,
+  "id": 900172,
   "tier": "hard",
   "group": "Flag",
   "name": "Panama",
@@ -3480,8 +3491,8 @@
   ]
  },
  {
-  "id": 900175,
-  "tier": "easy",
+  "id": 900173,
+  "tier": "medium",
   "group": "Flag",
   "name": "Peru",
   "sci": "",
@@ -3500,8 +3511,8 @@
   ]
  },
  {
-  "id": 900176,
-  "tier": "hard",
+  "id": 900174,
+  "tier": "death",
   "group": "Flag",
   "name": "French Polynesia",
   "sci": "",
@@ -3520,7 +3531,7 @@
   ]
  },
  {
-  "id": 900177,
+  "id": 900175,
   "tier": "hard",
   "group": "Flag",
   "name": "Papua New Guinea",
@@ -3540,7 +3551,7 @@
   ]
  },
  {
-  "id": 900178,
+  "id": 900176,
   "tier": "easy",
   "group": "Flag",
   "name": "Philippines",
@@ -3560,7 +3571,7 @@
   ]
  },
  {
-  "id": 900179,
+  "id": 900177,
   "tier": "easy",
   "group": "Flag",
   "name": "Pakistan",
@@ -3580,8 +3591,8 @@
   ]
  },
  {
-  "id": 900180,
-  "tier": "easy",
+  "id": 900178,
+  "tier": "medium",
   "group": "Flag",
   "name": "Poland",
   "sci": "",
@@ -3600,13 +3611,15 @@
   ]
  },
  {
-  "id": 900181,
-  "tier": "hard",
+  "id": 900179,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Pierre and Miquelon",
   "sci": "",
   "aliases": [
-   "saint pierre and miquelon"
+   "saint pierre and miquelon",
+   "st pierre and miquelon",
+   "st. pierre and miquelon"
   ],
   "cats": [
    "flags"
@@ -3620,8 +3633,8 @@
   ]
  },
  {
-  "id": 900182,
-  "tier": "hard",
+  "id": 900180,
+  "tier": "death",
   "group": "Flag",
   "name": "Pitcairn Islands",
   "sci": "",
@@ -3640,7 +3653,7 @@
   ]
  },
  {
-  "id": 900183,
+  "id": 900181,
   "tier": "hard",
   "group": "Flag",
   "name": "Puerto Rico",
@@ -3660,7 +3673,7 @@
   ]
  },
  {
-  "id": 900184,
+  "id": 900182,
   "tier": "hard",
   "group": "Flag",
   "name": "Palestine",
@@ -3680,8 +3693,8 @@
   ]
  },
  {
-  "id": 900185,
-  "tier": "easy",
+  "id": 900183,
+  "tier": "medium",
   "group": "Flag",
   "name": "Portugal",
   "sci": "",
@@ -3700,8 +3713,8 @@
   ]
  },
  {
-  "id": 900186,
-  "tier": "hard",
+  "id": 900184,
+  "tier": "death",
   "group": "Flag",
   "name": "Palau",
   "sci": "",
@@ -3720,7 +3733,7 @@
   ]
  },
  {
-  "id": 900187,
+  "id": 900185,
   "tier": "hard",
   "group": "Flag",
   "name": "Paraguay",
@@ -3740,7 +3753,7 @@
   ]
  },
  {
-  "id": 900188,
+  "id": 900186,
   "tier": "hard",
   "group": "Flag",
   "name": "Qatar",
@@ -3760,8 +3773,8 @@
   ]
  },
  {
-  "id": 900189,
-  "tier": "hard",
+  "id": 900187,
+  "tier": "death",
   "group": "Flag",
   "name": "R\u00e9union",
   "sci": "",
@@ -3780,8 +3793,8 @@
   ]
  },
  {
-  "id": 900190,
-  "tier": "easy",
+  "id": 900188,
+  "tier": "medium",
   "group": "Flag",
   "name": "Romania",
   "sci": "",
@@ -3800,7 +3813,7 @@
   ]
  },
  {
-  "id": 900191,
+  "id": 900189,
   "tier": "hard",
   "group": "Flag",
   "name": "Serbia",
@@ -3820,13 +3833,14 @@
   ]
  },
  {
-  "id": 900192,
+  "id": 900190,
   "tier": "easy",
   "group": "Flag",
   "name": "Russia",
   "sci": "",
   "aliases": [
-   "russia"
+   "russia",
+   "russian federation"
   ],
   "cats": [
    "flags"
@@ -3840,8 +3854,8 @@
   ]
  },
  {
-  "id": 900193,
-  "tier": "hard",
+  "id": 900191,
+  "tier": "medium",
   "group": "Flag",
   "name": "Rwanda",
   "sci": "",
@@ -3860,8 +3874,8 @@
   ]
  },
  {
-  "id": 900194,
-  "tier": "easy",
+  "id": 900192,
+  "tier": "medium",
   "group": "Flag",
   "name": "Saudi Arabia",
   "sci": "",
@@ -3880,8 +3894,8 @@
   ]
  },
  {
-  "id": 900195,
-  "tier": "hard",
+  "id": 900193,
+  "tier": "death",
   "group": "Flag",
   "name": "Solomon Islands",
   "sci": "",
@@ -3900,8 +3914,8 @@
   ]
  },
  {
-  "id": 900196,
-  "tier": "hard",
+  "id": 900194,
+  "tier": "death",
   "group": "Flag",
   "name": "Seychelles",
   "sci": "",
@@ -3920,8 +3934,8 @@
   ]
  },
  {
-  "id": 900197,
-  "tier": "hard",
+  "id": 900195,
+  "tier": "medium",
   "group": "Flag",
   "name": "Sudan",
   "sci": "",
@@ -3940,8 +3954,8 @@
   ]
  },
  {
-  "id": 900198,
-  "tier": "easy",
+  "id": 900196,
+  "tier": "medium",
   "group": "Flag",
   "name": "Sweden",
   "sci": "",
@@ -3960,7 +3974,7 @@
   ]
  },
  {
-  "id": 900199,
+  "id": 900197,
   "tier": "hard",
   "group": "Flag",
   "name": "Singapore",
@@ -3980,13 +3994,15 @@
   ]
  },
  {
-  "id": 900200,
-  "tier": "hard",
+  "id": 900198,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Helena, Ascension and Tristan da Cunha",
   "sci": "",
   "aliases": [
-   "saint helena, ascension and tristan da cunha"
+   "saint helena, ascension and tristan da cunha",
+   "st helena, ascension and tristan da cunha",
+   "st. helena, ascension and tristan da cunha"
   ],
   "cats": [
    "flags"
@@ -4000,7 +4016,7 @@
   ]
  },
  {
-  "id": 900201,
+  "id": 900199,
   "tier": "hard",
   "group": "Flag",
   "name": "Slovenia",
@@ -4020,8 +4036,8 @@
   ]
  },
  {
-  "id": 900202,
-  "tier": "hard",
+  "id": 900200,
+  "tier": "death",
   "group": "Flag",
   "name": "Svalbard and Jan Mayen",
   "sci": "",
@@ -4040,7 +4056,7 @@
   ]
  },
  {
-  "id": 900203,
+  "id": 900201,
   "tier": "hard",
   "group": "Flag",
   "name": "Slovakia",
@@ -4060,7 +4076,7 @@
   ]
  },
  {
-  "id": 900204,
+  "id": 900202,
   "tier": "hard",
   "group": "Flag",
   "name": "Sierra Leone",
@@ -4080,8 +4096,8 @@
   ]
  },
  {
-  "id": 900205,
-  "tier": "hard",
+  "id": 900203,
+  "tier": "death",
   "group": "Flag",
   "name": "San Marino",
   "sci": "",
@@ -4100,8 +4116,8 @@
   ]
  },
  {
-  "id": 900206,
-  "tier": "hard",
+  "id": 900204,
+  "tier": "medium",
   "group": "Flag",
   "name": "Senegal",
   "sci": "",
@@ -4120,8 +4136,8 @@
   ]
  },
  {
-  "id": 900207,
-  "tier": "hard",
+  "id": 900205,
+  "tier": "medium",
   "group": "Flag",
   "name": "Somalia",
   "sci": "",
@@ -4140,12 +4156,13 @@
   ]
  },
  {
-  "id": 900208,
-  "tier": "hard",
+  "id": 900206,
+  "tier": "death",
   "group": "Flag",
   "name": "Suriname",
   "sci": "",
   "aliases": [
+   "dutch guiana",
    "suriname"
   ],
   "cats": [
@@ -4160,8 +4177,8 @@
   ]
  },
  {
-  "id": 900209,
-  "tier": "hard",
+  "id": 900207,
+  "tier": "medium",
   "group": "Flag",
   "name": "South Sudan",
   "sci": "",
@@ -4180,8 +4197,8 @@
   ]
  },
  {
-  "id": 900210,
-  "tier": "hard",
+  "id": 900208,
+  "tier": "death",
   "group": "Flag",
   "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
   "sci": "",
@@ -4200,7 +4217,7 @@
   ]
  },
  {
-  "id": 900211,
+  "id": 900209,
   "tier": "hard",
   "group": "Flag",
   "name": "El Salvador",
@@ -4220,8 +4237,8 @@
   ]
  },
  {
-  "id": 900212,
-  "tier": "hard",
+  "id": 900210,
+  "tier": "death",
   "group": "Flag",
   "name": "Sint Maarten",
   "sci": "",
@@ -4240,13 +4257,14 @@
   ]
  },
  {
-  "id": 900213,
-  "tier": "hard",
+  "id": 900211,
+  "tier": "medium",
   "group": "Flag",
   "name": "Syria",
   "sci": "",
   "aliases": [
-   "syria"
+   "syria",
+   "syrian arab republic"
   ],
   "cats": [
    "flags"
@@ -4260,13 +4278,14 @@
   ]
  },
  {
-  "id": 900214,
+  "id": 900212,
   "tier": "hard",
   "group": "Flag",
-  "name": "Eswatini (Swaziland)",
+  "name": "Eswatini",
   "sci": "",
   "aliases": [
-   "eswatini (swaziland)"
+   "eswatini",
+   "swaziland"
   ],
   "cats": [
    "flags"
@@ -4280,8 +4299,8 @@
   ]
  },
  {
-  "id": 900215,
-  "tier": "hard",
+  "id": 900213,
+  "tier": "death",
   "group": "Flag",
   "name": "Turks and Caicos Islands",
   "sci": "",
@@ -4300,13 +4319,14 @@
   ]
  },
  {
-  "id": 900216,
-  "tier": "hard",
+  "id": 900214,
+  "tier": "medium",
   "group": "Flag",
   "name": "Chad",
   "sci": "",
   "aliases": [
-   "chad"
+   "chad",
+   "chad republic"
   ],
   "cats": [
    "flags"
@@ -4320,8 +4340,8 @@
   ]
  },
  {
-  "id": 900217,
-  "tier": "hard",
+  "id": 900215,
+  "tier": "death",
   "group": "Flag",
   "name": "French Southern and Antarctic Lands",
   "sci": "",
@@ -4340,7 +4360,7 @@
   ]
  },
  {
-  "id": 900218,
+  "id": 900216,
   "tier": "hard",
   "group": "Flag",
   "name": "Togo",
@@ -4360,12 +4380,13 @@
   ]
  },
  {
-  "id": 900219,
+  "id": 900217,
   "tier": "easy",
   "group": "Flag",
   "name": "Thailand",
   "sci": "",
   "aliases": [
+   "siam",
    "thailand"
   ],
   "cats": [
@@ -4380,7 +4401,7 @@
   ]
  },
  {
-  "id": 900220,
+  "id": 900218,
   "tier": "hard",
   "group": "Flag",
   "name": "Tajikistan",
@@ -4400,8 +4421,8 @@
   ]
  },
  {
-  "id": 900221,
-  "tier": "hard",
+  "id": 900219,
+  "tier": "death",
   "group": "Flag",
   "name": "Tokelau",
   "sci": "",
@@ -4420,12 +4441,13 @@
   ]
  },
  {
-  "id": 900222,
+  "id": 900220,
   "tier": "hard",
   "group": "Flag",
   "name": "Timor-Leste",
   "sci": "",
   "aliases": [
+   "east timor",
    "timor-leste"
   ],
   "cats": [
@@ -4440,7 +4462,7 @@
   ]
  },
  {
-  "id": 900223,
+  "id": 900221,
   "tier": "hard",
   "group": "Flag",
   "name": "Turkmenistan",
@@ -4460,8 +4482,8 @@
   ]
  },
  {
-  "id": 900224,
-  "tier": "hard",
+  "id": 900222,
+  "tier": "medium",
   "group": "Flag",
   "name": "Tunisia",
   "sci": "",
@@ -4480,8 +4502,8 @@
   ]
  },
  {
-  "id": 900225,
-  "tier": "hard",
+  "id": 900223,
+  "tier": "death",
   "group": "Flag",
   "name": "Tonga",
   "sci": "",
@@ -4500,13 +4522,15 @@
   ]
  },
  {
-  "id": 900226,
+  "id": 900224,
   "tier": "easy",
   "group": "Flag",
-  "name": "Turkey",
+  "name": "T\u00fcrkiye",
   "sci": "",
   "aliases": [
-   "turkey"
+   "turkey",
+   "turkiye",
+   "t\u00fcrkiye"
   ],
   "cats": [
    "flags"
@@ -4520,7 +4544,7 @@
   ]
  },
  {
-  "id": 900227,
+  "id": 900225,
   "tier": "hard",
   "group": "Flag",
   "name": "Trinidad and Tobago",
@@ -4540,8 +4564,8 @@
   ]
  },
  {
-  "id": 900228,
-  "tier": "hard",
+  "id": 900226,
+  "tier": "death",
   "group": "Flag",
   "name": "Tuvalu",
   "sci": "",
@@ -4560,8 +4584,8 @@
   ]
  },
  {
-  "id": 900229,
-  "tier": "hard",
+  "id": 900227,
+  "tier": "death",
   "group": "Flag",
   "name": "Taiwan",
   "sci": "",
@@ -4580,8 +4604,8 @@
   ]
  },
  {
-  "id": 900230,
-  "tier": "hard",
+  "id": 900228,
+  "tier": "easy",
   "group": "Flag",
   "name": "Tanzania",
   "sci": "",
@@ -4600,8 +4624,8 @@
   ]
  },
  {
-  "id": 900231,
-  "tier": "easy",
+  "id": 900229,
+  "tier": "medium",
   "group": "Flag",
   "name": "Ukraine",
   "sci": "",
@@ -4620,13 +4644,14 @@
   ]
  },
  {
-  "id": 900232,
-  "tier": "hard",
+  "id": 900230,
+  "tier": "medium",
   "group": "Flag",
   "name": "Uganda",
   "sci": "",
   "aliases": [
-   "uganda"
+   "uganda",
+   "uganda protectorate"
   ],
   "cats": [
    "flags"
@@ -4640,8 +4665,8 @@
   ]
  },
  {
-  "id": 900233,
-  "tier": "hard",
+  "id": 900231,
+  "tier": "death",
   "group": "Flag",
   "name": "United States Minor Outlying Islands",
   "sci": "",
@@ -4660,33 +4685,17 @@
   ]
  },
  {
-  "id": 900234,
-  "tier": "hard",
-  "group": "Flag",
-  "name": "United Nations",
-  "sci": "",
-  "aliases": [
-   "united nations"
-  ],
-  "cats": [
-   "flags"
-  ],
-  "photos": [
-   {
-    "url": "https://flagcdn.com/w320/un.png",
-    "credit": "flagcdn.com",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900235,
-  "tier": "hard",
+  "id": 900232,
+  "tier": "easy",
   "group": "Flag",
   "name": "United States",
   "sci": "",
   "aliases": [
-   "united states"
+   "america",
+   "united states",
+   "united states of america",
+   "us",
+   "usa"
   ],
   "cats": [
    "flags"
@@ -4700,7 +4709,7 @@
   ]
  },
  {
-  "id": 900236,
+  "id": 900233,
   "tier": "hard",
   "group": "Flag",
   "name": "Uruguay",
@@ -4720,8 +4729,8 @@
   ]
  },
  {
-  "id": 900237,
-  "tier": "hard",
+  "id": 900234,
+  "tier": "medium",
   "group": "Flag",
   "name": "Uzbekistan",
   "sci": "",
@@ -4740,13 +4749,15 @@
   ]
  },
  {
-  "id": 900238,
-  "tier": "hard",
+  "id": 900235,
+  "tier": "death",
   "group": "Flag",
-  "name": "Vatican City (Holy See)",
+  "name": "Vatican City",
   "sci": "",
   "aliases": [
-   "vatican city (holy see)"
+   "holy see",
+   "vatican",
+   "vatican city"
   ],
   "cats": [
    "flags"
@@ -4760,13 +4771,15 @@
   ]
  },
  {
-  "id": 900239,
-  "tier": "hard",
+  "id": 900236,
+  "tier": "death",
   "group": "Flag",
   "name": "Saint Vincent and the Grenadines",
   "sci": "",
   "aliases": [
-   "saint vincent and the grenadines"
+   "saint vincent and the grenadines",
+   "st vincent and the grenadines",
+   "st. vincent and the grenadines"
   ],
   "cats": [
    "flags"
@@ -4780,8 +4793,8 @@
   ]
  },
  {
-  "id": 900240,
-  "tier": "hard",
+  "id": 900237,
+  "tier": "medium",
   "group": "Flag",
   "name": "Venezuela",
   "sci": "",
@@ -4800,8 +4813,8 @@
   ]
  },
  {
-  "id": 900241,
-  "tier": "hard",
+  "id": 900238,
+  "tier": "death",
   "group": "Flag",
   "name": "British Virgin Islands",
   "sci": "",
@@ -4820,8 +4833,8 @@
   ]
  },
  {
-  "id": 900242,
-  "tier": "hard",
+  "id": 900239,
+  "tier": "death",
   "group": "Flag",
   "name": "United States Virgin Islands",
   "sci": "",
@@ -4840,7 +4853,7 @@
   ]
  },
  {
-  "id": 900243,
+  "id": 900240,
   "tier": "easy",
   "group": "Flag",
   "name": "Vietnam",
@@ -4860,12 +4873,13 @@
   ]
  },
  {
-  "id": 900244,
-  "tier": "hard",
+  "id": 900241,
+  "tier": "death",
   "group": "Flag",
   "name": "Vanuatu",
   "sci": "",
   "aliases": [
+   "new hebrides",
    "vanuatu"
   ],
   "cats": [
@@ -4880,8 +4894,8 @@
   ]
  },
  {
-  "id": 900245,
-  "tier": "hard",
+  "id": 900242,
+  "tier": "death",
   "group": "Flag",
   "name": "Wallis and Futuna",
   "sci": "",
@@ -4900,13 +4914,14 @@
   ]
  },
  {
-  "id": 900246,
-  "tier": "hard",
+  "id": 900243,
+  "tier": "death",
   "group": "Flag",
   "name": "Samoa",
   "sci": "",
   "aliases": [
-   "samoa"
+   "samoa",
+   "western samoa"
   ],
   "cats": [
    "flags"
@@ -4920,8 +4935,8 @@
   ]
  },
  {
-  "id": 900247,
-  "tier": "hard",
+  "id": 900244,
+  "tier": "death",
   "group": "Flag",
   "name": "Kosovo",
   "sci": "",
@@ -4940,8 +4955,8 @@
   ]
  },
  {
-  "id": 900248,
-  "tier": "hard",
+  "id": 900245,
+  "tier": "medium",
   "group": "Flag",
   "name": "Yemen",
   "sci": "",
@@ -4960,8 +4975,8 @@
   ]
  },
  {
-  "id": 900249,
-  "tier": "hard",
+  "id": 900246,
+  "tier": "death",
   "group": "Flag",
   "name": "Mayotte",
   "sci": "",
@@ -4980,7 +4995,7 @@
   ]
  },
  {
-  "id": 900250,
+  "id": 900247,
   "tier": "easy",
   "group": "Flag",
   "name": "South Africa",
@@ -5000,12 +5015,13 @@
   ]
  },
  {
-  "id": 900251,
-  "tier": "hard",
+  "id": 900248,
+  "tier": "medium",
   "group": "Flag",
   "name": "Zambia",
   "sci": "",
   "aliases": [
+   "northern rhodesia",
    "zambia"
   ],
   "cats": [
@@ -5020,12 +5036,13 @@
   ]
  },
  {
-  "id": 900252,
-  "tier": "hard",
+  "id": 900249,
+  "tier": "medium",
   "group": "Flag",
   "name": "Zimbabwe",
   "sci": "",
   "aliases": [
+   "rhodesia",
    "zimbabwe"
   ],
   "cats": [
@@ -5040,7 +5057,7 @@
   ]
  },
  {
-  "id": 900253,
+  "id": 900250,
   "tier": "easy",
   "group": "Outline",
   "name": "Indonesia",
@@ -5060,8 +5077,8 @@
   ]
  },
  {
-  "id": 900254,
-  "tier": "easy",
+  "id": 900251,
+  "tier": "medium",
   "group": "Outline",
   "name": "Malaysia",
   "sci": "",
@@ -5080,8 +5097,8 @@
   ]
  },
  {
-  "id": 900255,
-  "tier": "easy",
+  "id": 900252,
+  "tier": "medium",
   "group": "Outline",
   "name": "Chile",
   "sci": "",
@@ -5100,8 +5117,8 @@
   ]
  },
  {
-  "id": 900256,
-  "tier": "hard",
+  "id": 900253,
+  "tier": "medium",
   "group": "Outline",
   "name": "Bolivia",
   "sci": "",
@@ -5120,8 +5137,8 @@
   ]
  },
  {
-  "id": 900257,
-  "tier": "easy",
+  "id": 900254,
+  "tier": "medium",
   "group": "Outline",
   "name": "Peru",
   "sci": "",
@@ -5140,8 +5157,8 @@
   ]
  },
  {
-  "id": 900258,
-  "tier": "easy",
+  "id": 900255,
+  "tier": "medium",
   "group": "Outline",
   "name": "Argentina",
   "sci": "",
@@ -5160,8 +5177,8 @@
   ]
  },
  {
-  "id": 900259,
-  "tier": "death",
+  "id": 900256,
+  "tier": "hard",
   "group": "Outline",
   "name": "Cyprus",
   "sci": "",
@@ -5180,7 +5197,7 @@
   ]
  },
  {
-  "id": 900260,
+  "id": 900257,
   "tier": "easy",
   "group": "Outline",
   "name": "India",
@@ -5200,27 +5217,29 @@
   ]
  },
  {
-  "id": 900261,
-  "tier": "medium",
+  "id": 900258,
+  "tier": "easy",
   "group": "Outline",
-  "name": "People's Republic of China",
+  "name": "China",
   "sci": "",
   "aliases": [
-   "people's republic of china"
+   "china",
+   "peoples republic of china",
+   "prc"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/people-s-republic-of-china.svg",
+    "url": "../data/things/outlines/china.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900262,
+  "id": 900259,
   "tier": "hard",
   "group": "Outline",
   "name": "Lebanon",
@@ -5240,12 +5259,13 @@
   ]
  },
  {
-  "id": 900263,
+  "id": 900260,
   "tier": "easy",
   "group": "Outline",
   "name": "Ethiopia",
   "sci": "",
   "aliases": [
+   "abyssinia",
    "ethiopia"
   ],
   "cats": [
@@ -5260,8 +5280,8 @@
   ]
  },
  {
-  "id": 900264,
-  "tier": "hard",
+  "id": 900261,
+  "tier": "medium",
   "group": "Outline",
   "name": "South Sudan",
   "sci": "",
@@ -5280,8 +5300,8 @@
   ]
  },
  {
-  "id": 900265,
-  "tier": "hard",
+  "id": 900262,
+  "tier": "medium",
   "group": "Outline",
   "name": "Somalia",
   "sci": "",
@@ -5300,7 +5320,7 @@
   ]
  },
  {
-  "id": 900266,
+  "id": 900263,
   "tier": "easy",
   "group": "Outline",
   "name": "Kenya",
@@ -5320,13 +5340,14 @@
   ]
  },
  {
-  "id": 900267,
-  "tier": "hard",
+  "id": 900264,
+  "tier": "medium",
   "group": "Outline",
   "name": "Malawi",
   "sci": "",
   "aliases": [
-   "malawi"
+   "malawi",
+   "nyasaland"
   ],
   "cats": [
    "outlines"
@@ -5340,8 +5361,8 @@
   ]
  },
  {
-  "id": 900268,
-  "tier": "medium",
+  "id": 900265,
+  "tier": "easy",
   "group": "Outline",
   "name": "Tanzania",
   "sci": "",
@@ -5360,13 +5381,14 @@
   ]
  },
  {
-  "id": 900269,
-  "tier": "hard",
+  "id": 900266,
+  "tier": "medium",
   "group": "Outline",
   "name": "Syria",
   "sci": "",
   "aliases": [
-   "syria"
+   "syria",
+   "syrian arab republic"
   ],
   "cats": [
    "outlines"
@@ -5380,27 +5402,7 @@
   ]
  },
  {
-  "id": 900270,
-  "tier": "hard",
-  "group": "Outline",
-  "name": "Somaliland",
-  "sci": "",
-  "aliases": [
-   "somaliland"
-  ],
-  "cats": [
-   "outlines"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/outlines/somaliland.svg",
-    "credit": "Outline drawn from Natural Earth (public domain)",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900271,
+  "id": 900267,
   "tier": "easy",
   "group": "Outline",
   "name": "France",
@@ -5420,12 +5422,13 @@
   ]
  },
  {
-  "id": 900272,
+  "id": 900268,
   "tier": "death",
   "group": "Outline",
   "name": "Suriname",
   "sci": "",
   "aliases": [
+   "dutch guiana",
    "suriname"
   ],
   "cats": [
@@ -5440,12 +5443,13 @@
   ]
  },
  {
-  "id": 900273,
+  "id": 900269,
   "tier": "death",
   "group": "Outline",
   "name": "Guyana",
   "sci": "",
   "aliases": [
+   "british guiana",
    "guyana"
   ],
   "cats": [
@@ -5460,12 +5464,13 @@
   ]
  },
  {
-  "id": 900274,
+  "id": 900270,
   "tier": "easy",
   "group": "Outline",
   "name": "South Korea",
   "sci": "",
   "aliases": [
+   "republic of korea",
    "south korea"
   ],
   "cats": [
@@ -5480,12 +5485,14 @@
   ]
  },
  {
-  "id": 900275,
-  "tier": "easy",
+  "id": 900271,
+  "tier": "medium",
   "group": "Outline",
   "name": "North Korea",
   "sci": "",
   "aliases": [
+   "democratic peoples republic of korea",
+   "dprk",
    "north korea"
   ],
   "cats": [
@@ -5500,8 +5507,8 @@
   ]
  },
  {
-  "id": 900276,
-  "tier": "easy",
+  "id": 900272,
+  "tier": "medium",
   "group": "Outline",
   "name": "Morocco",
   "sci": "",
@@ -5520,7 +5527,7 @@
   ]
  },
  {
-  "id": 900277,
+  "id": 900273,
   "tier": "hard",
   "group": "Outline",
   "name": "Costa Rica",
@@ -5540,7 +5547,7 @@
   ]
  },
  {
-  "id": 900278,
+  "id": 900274,
   "tier": "hard",
   "group": "Outline",
   "name": "Nicaragua",
@@ -5560,12 +5567,14 @@
   ]
  },
  {
-  "id": 900279,
+  "id": 900275,
   "tier": "hard",
   "group": "Outline",
   "name": "Republic of the Congo",
   "sci": "",
   "aliases": [
+   "congo",
+   "congo brazzaville",
    "republic of the congo"
   ],
   "cats": [
@@ -5580,13 +5589,17 @@
   ]
  },
  {
-  "id": 900280,
-  "tier": "medium",
+  "id": 900276,
+  "tier": "easy",
   "group": "Outline",
   "name": "Democratic Republic of the Congo",
   "sci": "",
   "aliases": [
-   "democratic republic of the congo"
+   "congo kinshasa",
+   "democratic republic of the congo",
+   "dr congo",
+   "drc",
+   "zaire"
   ],
   "cats": [
    "outlines"
@@ -5600,7 +5613,7 @@
   ]
  },
  {
-  "id": 900281,
+  "id": 900277,
   "tier": "death",
   "group": "Outline",
   "name": "Bhutan",
@@ -5620,8 +5633,8 @@
   ]
  },
  {
-  "id": 900282,
-  "tier": "easy",
+  "id": 900278,
+  "tier": "medium",
   "group": "Outline",
   "name": "Ukraine",
   "sci": "",
@@ -5640,7 +5653,7 @@
   ]
  },
  {
-  "id": 900283,
+  "id": 900279,
   "tier": "hard",
   "group": "Outline",
   "name": "Belarus",
@@ -5660,7 +5673,7 @@
   ]
  },
  {
-  "id": 900284,
+  "id": 900280,
   "tier": "hard",
   "group": "Outline",
   "name": "Namibia",
@@ -5680,7 +5693,7 @@
   ]
  },
  {
-  "id": 900285,
+  "id": 900281,
   "tier": "easy",
   "group": "Outline",
   "name": "South Africa",
@@ -5700,7 +5713,7 @@
   ]
  },
  {
-  "id": 900286,
+  "id": 900282,
   "tier": "death",
   "group": "Outline",
   "name": "Sint Maarten",
@@ -5720,7 +5733,7 @@
   ]
  },
  {
-  "id": 900287,
+  "id": 900283,
   "tier": "hard",
   "group": "Outline",
   "name": "Oman",
@@ -5740,7 +5753,7 @@
   ]
  },
  {
-  "id": 900288,
+  "id": 900284,
   "tier": "medium",
   "group": "Outline",
   "name": "Uzbekistan",
@@ -5760,7 +5773,7 @@
   ]
  },
  {
-  "id": 900289,
+  "id": 900285,
   "tier": "hard",
   "group": "Outline",
   "name": "Tajikistan",
@@ -5780,7 +5793,7 @@
   ]
  },
  {
-  "id": 900290,
+  "id": 900286,
   "tier": "hard",
   "group": "Outline",
   "name": "Lithuania",
@@ -5800,7 +5813,7 @@
   ]
  },
  {
-  "id": 900291,
+  "id": 900287,
   "tier": "easy",
   "group": "Outline",
   "name": "Brazil",
@@ -5820,7 +5833,7 @@
   ]
  },
  {
-  "id": 900292,
+  "id": 900288,
   "tier": "hard",
   "group": "Outline",
   "name": "Uruguay",
@@ -5840,7 +5853,7 @@
   ]
  },
  {
-  "id": 900293,
+  "id": 900289,
   "tier": "hard",
   "group": "Outline",
   "name": "Mongolia",
@@ -5860,13 +5873,14 @@
   ]
  },
  {
-  "id": 900294,
+  "id": 900290,
   "tier": "easy",
   "group": "Outline",
   "name": "Russia",
   "sci": "",
   "aliases": [
-   "russia"
+   "russia",
+   "russian federation"
   ],
   "cats": [
    "outlines"
@@ -5880,27 +5894,28 @@
   ]
  },
  {
-  "id": 900295,
-  "tier": "hard",
+  "id": 900291,
+  "tier": "medium",
   "group": "Outline",
-  "name": "Czech Republic",
+  "name": "Czechia",
   "sci": "",
   "aliases": [
-   "czech republic"
+   "czech republic",
+   "czechia"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/czech-republic.svg",
+    "url": "../data/things/outlines/czechia.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900296,
+  "id": 900292,
   "tier": "easy",
   "group": "Outline",
   "name": "Germany",
@@ -5920,8 +5935,8 @@
   ]
  },
  {
-  "id": 900297,
-  "tier": "death",
+  "id": 900293,
+  "tier": "hard",
   "group": "Outline",
   "name": "Estonia",
   "sci": "",
@@ -5940,8 +5955,8 @@
   ]
  },
  {
-  "id": 900298,
-  "tier": "death",
+  "id": 900294,
+  "tier": "hard",
   "group": "Outline",
   "name": "Latvia",
   "sci": "",
@@ -5960,8 +5975,8 @@
   ]
  },
  {
-  "id": 900299,
-  "tier": "easy",
+  "id": 900295,
+  "tier": "hard",
   "group": "Outline",
   "name": "Norway",
   "sci": "",
@@ -5980,8 +5995,8 @@
   ]
  },
  {
-  "id": 900300,
-  "tier": "easy",
+  "id": 900296,
+  "tier": "medium",
   "group": "Outline",
   "name": "Sweden",
   "sci": "",
@@ -6000,8 +6015,8 @@
   ]
  },
  {
-  "id": 900301,
-  "tier": "easy",
+  "id": 900297,
+  "tier": "hard",
   "group": "Outline",
   "name": "Finland",
   "sci": "",
@@ -6020,7 +6035,7 @@
   ]
  },
  {
-  "id": 900302,
+  "id": 900298,
   "tier": "easy",
   "group": "Outline",
   "name": "Vietnam",
@@ -6040,13 +6055,14 @@
   ]
  },
  {
-  "id": 900303,
-  "tier": "easy",
+  "id": 900299,
+  "tier": "medium",
   "group": "Outline",
   "name": "Cambodia",
   "sci": "",
   "aliases": [
-   "cambodia"
+   "cambodia",
+   "kampuchea"
   ],
   "cats": [
    "outlines"
@@ -6060,7 +6076,7 @@
   ]
  },
  {
-  "id": 900304,
+  "id": 900300,
   "tier": "death",
   "group": "Outline",
   "name": "Luxembourg",
@@ -6080,12 +6096,13 @@
   ]
  },
  {
-  "id": 900305,
+  "id": 900301,
   "tier": "hard",
   "group": "Outline",
   "name": "United Arab Emirates",
   "sci": "",
   "aliases": [
+   "uae",
    "united arab emirates"
   ],
   "cats": [
@@ -6100,8 +6117,8 @@
   ]
  },
  {
-  "id": 900306,
-  "tier": "easy",
+  "id": 900302,
+  "tier": "medium",
   "group": "Outline",
   "name": "Belgium",
   "sci": "",
@@ -6120,7 +6137,7 @@
   ]
  },
  {
-  "id": 900307,
+  "id": 900303,
   "tier": "hard",
   "group": "Outline",
   "name": "Georgia",
@@ -6140,12 +6157,14 @@
   ]
  },
  {
-  "id": 900308,
+  "id": 900304,
   "tier": "hard",
   "group": "Outline",
   "name": "North Macedonia",
   "sci": "",
   "aliases": [
+   "fyrom",
+   "macedonia",
    "north macedonia"
   ],
   "cats": [
@@ -6160,7 +6179,7 @@
   ]
  },
  {
-  "id": 900309,
+  "id": 900305,
   "tier": "hard",
   "group": "Outline",
   "name": "Albania",
@@ -6180,8 +6199,8 @@
   ]
  },
  {
-  "id": 900310,
-  "tier": "hard",
+  "id": 900306,
+  "tier": "medium",
   "group": "Outline",
   "name": "Azerbaijan",
   "sci": "",
@@ -6200,28 +6219,30 @@
   ]
  },
  {
-  "id": 900311,
+  "id": 900307,
   "tier": "easy",
   "group": "Outline",
-  "name": "Turkey",
+  "name": "T\u00fcrkiye",
   "sci": "",
   "aliases": [
-   "turkey"
+   "turkey",
+   "turkiye",
+   "t\u00fcrkiye"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/turkey.svg",
+    "url": "../data/things/outlines/t-rkiye.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900312,
-  "tier": "easy",
+  "id": 900308,
+  "tier": "medium",
   "group": "Outline",
   "name": "Spain",
   "sci": "",
@@ -6240,12 +6261,14 @@
   ]
  },
  {
-  "id": 900313,
+  "id": 900309,
   "tier": "hard",
   "group": "Outline",
   "name": "Laos",
   "sci": "",
   "aliases": [
+   "lao",
+   "lao pdr",
    "laos"
   ],
   "cats": [
@@ -6260,7 +6283,7 @@
   ]
  },
  {
-  "id": 900314,
+  "id": 900310,
   "tier": "hard",
   "group": "Outline",
   "name": "Kyrgyzstan",
@@ -6280,7 +6303,7 @@
   ]
  },
  {
-  "id": 900315,
+  "id": 900311,
   "tier": "hard",
   "group": "Outline",
   "name": "Armenia",
@@ -6300,8 +6323,8 @@
   ]
  },
  {
-  "id": 900316,
-  "tier": "easy",
+  "id": 900312,
+  "tier": "hard",
   "group": "Outline",
   "name": "Denmark",
   "sci": "",
@@ -6320,7 +6343,7 @@
   ]
  },
  {
-  "id": 900317,
+  "id": 900313,
   "tier": "hard",
   "group": "Outline",
   "name": "Libya",
@@ -6340,8 +6363,8 @@
   ]
  },
  {
-  "id": 900318,
-  "tier": "hard",
+  "id": 900314,
+  "tier": "medium",
   "group": "Outline",
   "name": "Tunisia",
   "sci": "",
@@ -6360,8 +6383,8 @@
   ]
  },
  {
-  "id": 900319,
-  "tier": "easy",
+  "id": 900315,
+  "tier": "medium",
   "group": "Outline",
   "name": "Romania",
   "sci": "",
@@ -6380,8 +6403,8 @@
   ]
  },
  {
-  "id": 900320,
-  "tier": "easy",
+  "id": 900316,
+  "tier": "hard",
   "group": "Outline",
   "name": "Hungary",
   "sci": "",
@@ -6400,7 +6423,7 @@
   ]
  },
  {
-  "id": 900321,
+  "id": 900317,
   "tier": "hard",
   "group": "Outline",
   "name": "Slovakia",
@@ -6420,8 +6443,8 @@
   ]
  },
  {
-  "id": 900322,
-  "tier": "easy",
+  "id": 900318,
+  "tier": "medium",
   "group": "Outline",
   "name": "Poland",
   "sci": "",
@@ -6440,8 +6463,8 @@
   ]
  },
  {
-  "id": 900323,
-  "tier": "easy",
+  "id": 900319,
+  "tier": "hard",
   "group": "Outline",
   "name": "Ireland",
   "sci": "",
@@ -6460,12 +6483,16 @@
   ]
  },
  {
-  "id": 900324,
+  "id": 900320,
   "tier": "easy",
   "group": "Outline",
   "name": "United Kingdom",
   "sci": "",
   "aliases": [
+   "britain",
+   "england",
+   "great britain",
+   "uk",
    "united kingdom"
   ],
   "cats": [
@@ -6480,8 +6507,8 @@
   ]
  },
  {
-  "id": 900325,
-  "tier": "easy",
+  "id": 900321,
+  "tier": "medium",
   "group": "Outline",
   "name": "Greece",
   "sci": "",
@@ -6500,12 +6527,13 @@
   ]
  },
  {
-  "id": 900326,
-  "tier": "hard",
+  "id": 900322,
+  "tier": "medium",
   "group": "Outline",
   "name": "Zambia",
   "sci": "",
   "aliases": [
+   "northern rhodesia",
    "zambia"
   ],
   "cats": [
@@ -6520,7 +6548,7 @@
   ]
  },
  {
-  "id": 900327,
+  "id": 900323,
   "tier": "hard",
   "group": "Outline",
   "name": "Sierra Leone",
@@ -6540,8 +6568,8 @@
   ]
  },
  {
-  "id": 900328,
-  "tier": "hard",
+  "id": 900324,
+  "tier": "medium",
   "group": "Outline",
   "name": "Guinea",
   "sci": "",
@@ -6560,7 +6588,7 @@
   ]
  },
  {
-  "id": 900329,
+  "id": 900325,
   "tier": "hard",
   "group": "Outline",
   "name": "Liberia",
@@ -6580,7 +6608,7 @@
   ]
  },
  {
-  "id": 900330,
+  "id": 900326,
   "tier": "hard",
   "group": "Outline",
   "name": "Central African Republic",
@@ -6600,7 +6628,7 @@
   ]
  },
  {
-  "id": 900331,
+  "id": 900327,
   "tier": "medium",
   "group": "Outline",
   "name": "Sudan",
@@ -6620,13 +6648,14 @@
   ]
  },
  {
-  "id": 900332,
+  "id": 900328,
   "tier": "death",
   "group": "Outline",
   "name": "Djibouti",
   "sci": "",
   "aliases": [
-   "djibouti"
+   "djibouti",
+   "french somaliland"
   ],
   "cats": [
    "outlines"
@@ -6640,7 +6669,7 @@
   ]
  },
  {
-  "id": 900333,
+  "id": 900329,
   "tier": "hard",
   "group": "Outline",
   "name": "Eritrea",
@@ -6660,8 +6689,8 @@
   ]
  },
  {
-  "id": 900334,
-  "tier": "easy",
+  "id": 900330,
+  "tier": "hard",
   "group": "Outline",
   "name": "Austria",
   "sci": "",
@@ -6680,8 +6709,8 @@
   ]
  },
  {
-  "id": 900335,
-  "tier": "easy",
+  "id": 900331,
+  "tier": "medium",
   "group": "Outline",
   "name": "Iraq",
   "sci": "",
@@ -6700,7 +6729,7 @@
   ]
  },
  {
-  "id": 900336,
+  "id": 900332,
   "tier": "easy",
   "group": "Outline",
   "name": "Italy",
@@ -6720,8 +6749,8 @@
   ]
  },
  {
-  "id": 900337,
-  "tier": "easy",
+  "id": 900333,
+  "tier": "hard",
   "group": "Outline",
   "name": "Switzerland",
   "sci": "",
@@ -6740,13 +6769,14 @@
   ]
  },
  {
-  "id": 900338,
+  "id": 900334,
   "tier": "easy",
   "group": "Outline",
   "name": "Iran",
   "sci": "",
   "aliases": [
-   "iran"
+   "iran",
+   "persia"
   ],
   "cats": [
    "outlines"
@@ -6760,12 +6790,13 @@
   ]
  },
  {
-  "id": 900339,
-  "tier": "easy",
+  "id": 900335,
+  "tier": "medium",
   "group": "Outline",
   "name": "Netherlands",
   "sci": "",
   "aliases": [
+   "holland",
    "netherlands"
   ],
   "cats": [
@@ -6780,7 +6811,7 @@
   ]
  },
  {
-  "id": 900340,
+  "id": 900336,
   "tier": "death",
   "group": "Outline",
   "name": "Liechtenstein",
@@ -6800,12 +6831,13 @@
   ]
  },
  {
-  "id": 900341,
+  "id": 900337,
   "tier": "medium",
   "group": "Outline",
-  "name": "Ivory Coast",
+  "name": "C\u00f4te d'Ivoire",
   "sci": "",
   "aliases": [
+   "c\u00f4te d'ivoire",
    "ivory coast"
   ],
   "cats": [
@@ -6813,14 +6845,14 @@
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/ivory-coast.svg",
+    "url": "../data/things/outlines/c-te-d-ivoire.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900342,
+  "id": 900338,
   "tier": "hard",
   "group": "Outline",
   "name": "Serbia",
@@ -6840,12 +6872,13 @@
   ]
  },
  {
-  "id": 900343,
-  "tier": "hard",
+  "id": 900339,
+  "tier": "medium",
   "group": "Outline",
   "name": "Mali",
   "sci": "",
   "aliases": [
+   "french sudan",
    "mali"
   ],
   "cats": [
@@ -6860,8 +6893,8 @@
   ]
  },
  {
-  "id": 900344,
-  "tier": "hard",
+  "id": 900340,
+  "tier": "medium",
   "group": "Outline",
   "name": "Senegal",
   "sci": "",
@@ -6880,7 +6913,7 @@
   ]
  },
  {
-  "id": 900345,
+  "id": 900341,
   "tier": "easy",
   "group": "Outline",
   "name": "Nigeria",
@@ -6900,13 +6933,14 @@
   ]
  },
  {
-  "id": 900346,
-  "tier": "hard",
+  "id": 900342,
+  "tier": "medium",
   "group": "Outline",
   "name": "Benin",
   "sci": "",
   "aliases": [
-   "benin"
+   "benin",
+   "dahomey"
   ],
   "cats": [
    "outlines"
@@ -6920,7 +6954,7 @@
   ]
  },
  {
-  "id": 900347,
+  "id": 900343,
   "tier": "medium",
   "group": "Outline",
   "name": "Angola",
@@ -6940,7 +6974,7 @@
   ]
  },
  {
-  "id": 900348,
+  "id": 900344,
   "tier": "hard",
   "group": "Outline",
   "name": "Croatia",
@@ -6960,7 +6994,7 @@
   ]
  },
  {
-  "id": 900349,
+  "id": 900345,
   "tier": "hard",
   "group": "Outline",
   "name": "Slovenia",
@@ -6980,7 +7014,7 @@
   ]
  },
  {
-  "id": 900350,
+  "id": 900346,
   "tier": "hard",
   "group": "Outline",
   "name": "Qatar",
@@ -7000,8 +7034,8 @@
   ]
  },
  {
-  "id": 900351,
-  "tier": "easy",
+  "id": 900347,
+  "tier": "medium",
   "group": "Outline",
   "name": "Saudi Arabia",
   "sci": "",
@@ -7020,12 +7054,13 @@
   ]
  },
  {
-  "id": 900352,
+  "id": 900348,
   "tier": "hard",
   "group": "Outline",
   "name": "Botswana",
   "sci": "",
   "aliases": [
+   "bechuanaland",
    "botswana"
   ],
   "cats": [
@@ -7040,12 +7075,13 @@
   ]
  },
  {
-  "id": 900353,
-  "tier": "hard",
+  "id": 900349,
+  "tier": "medium",
   "group": "Outline",
   "name": "Zimbabwe",
   "sci": "",
   "aliases": [
+   "rhodesia",
    "zimbabwe"
   ],
   "cats": [
@@ -7060,7 +7096,7 @@
   ]
  },
  {
-  "id": 900354,
+  "id": 900350,
   "tier": "easy",
   "group": "Outline",
   "name": "Pakistan",
@@ -7080,7 +7116,7 @@
   ]
  },
  {
-  "id": 900355,
+  "id": 900351,
   "tier": "hard",
   "group": "Outline",
   "name": "Bulgaria",
@@ -7100,12 +7136,13 @@
   ]
  },
  {
-  "id": 900356,
+  "id": 900352,
   "tier": "easy",
   "group": "Outline",
   "name": "Thailand",
   "sci": "",
   "aliases": [
+   "siam",
    "thailand"
   ],
   "cats": [
@@ -7120,7 +7157,7 @@
   ]
  },
  {
-  "id": 900357,
+  "id": 900353,
   "tier": "death",
   "group": "Outline",
   "name": "San Marino",
@@ -7140,8 +7177,8 @@
   ]
  },
  {
-  "id": 900358,
-  "tier": "hard",
+  "id": 900354,
+  "tier": "medium",
   "group": "Outline",
   "name": "Haiti",
   "sci": "",
@@ -7160,8 +7197,8 @@
   ]
  },
  {
-  "id": 900359,
-  "tier": "hard",
+  "id": 900355,
+  "tier": "medium",
   "group": "Outline",
   "name": "Dominican Republic",
   "sci": "",
@@ -7180,13 +7217,14 @@
   ]
  },
  {
-  "id": 900360,
-  "tier": "hard",
+  "id": 900356,
+  "tier": "medium",
   "group": "Outline",
   "name": "Chad",
   "sci": "",
   "aliases": [
-   "chad"
+   "chad",
+   "chad republic"
   ],
   "cats": [
    "outlines"
@@ -7200,7 +7238,7 @@
   ]
  },
  {
-  "id": 900361,
+  "id": 900357,
   "tier": "hard",
   "group": "Outline",
   "name": "Kuwait",
@@ -7220,7 +7258,7 @@
   ]
  },
  {
-  "id": 900362,
+  "id": 900358,
   "tier": "hard",
   "group": "Outline",
   "name": "El Salvador",
@@ -7240,8 +7278,8 @@
   ]
  },
  {
-  "id": 900363,
-  "tier": "hard",
+  "id": 900359,
+  "tier": "medium",
   "group": "Outline",
   "name": "Guatemala",
   "sci": "",
@@ -7260,27 +7298,28 @@
   ]
  },
  {
-  "id": 900364,
-  "tier": "death",
+  "id": 900360,
+  "tier": "hard",
   "group": "Outline",
-  "name": "East Timor",
+  "name": "Timor-Leste",
   "sci": "",
   "aliases": [
-   "east timor"
+   "east timor",
+   "timor-leste"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/east-timor.svg",
+    "url": "../data/things/outlines/timor-leste.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900365,
+  "id": 900361,
   "tier": "death",
   "group": "Outline",
   "name": "Brunei",
@@ -7300,7 +7339,7 @@
   ]
  },
  {
-  "id": 900366,
+  "id": 900362,
   "tier": "death",
   "group": "Outline",
   "name": "Monaco",
@@ -7320,7 +7359,7 @@
   ]
  },
  {
-  "id": 900367,
+  "id": 900363,
   "tier": "medium",
   "group": "Outline",
   "name": "Algeria",
@@ -7340,7 +7379,7 @@
   ]
  },
  {
-  "id": 900368,
+  "id": 900364,
   "tier": "medium",
   "group": "Outline",
   "name": "Mozambique",
@@ -7360,13 +7399,14 @@
   ]
  },
  {
-  "id": 900369,
-  "tier": "death",
+  "id": 900365,
+  "tier": "hard",
   "group": "Outline",
   "name": "Eswatini",
   "sci": "",
   "aliases": [
-   "eswatini"
+   "eswatini",
+   "swaziland"
   ],
   "cats": [
    "outlines"
@@ -7380,8 +7420,8 @@
   ]
  },
  {
-  "id": 900370,
-  "tier": "hard",
+  "id": 900366,
+  "tier": "medium",
   "group": "Outline",
   "name": "Burundi",
   "sci": "",
@@ -7400,8 +7440,8 @@
   ]
  },
  {
-  "id": 900371,
-  "tier": "hard",
+  "id": 900367,
+  "tier": "medium",
   "group": "Outline",
   "name": "Rwanda",
   "sci": "",
@@ -7420,12 +7460,13 @@
   ]
  },
  {
-  "id": 900372,
-  "tier": "medium",
+  "id": 900368,
+  "tier": "easy",
   "group": "Outline",
   "name": "Myanmar",
   "sci": "",
   "aliases": [
+   "burma",
    "myanmar"
   ],
   "cats": [
@@ -7440,8 +7481,8 @@
   ]
  },
  {
-  "id": 900373,
-  "tier": "medium",
+  "id": 900369,
+  "tier": "easy",
   "group": "Outline",
   "name": "Bangladesh",
   "sci": "",
@@ -7460,7 +7501,7 @@
   ]
  },
  {
-  "id": 900374,
+  "id": 900370,
   "tier": "death",
   "group": "Outline",
   "name": "Andorra",
@@ -7480,7 +7521,7 @@
   ]
  },
  {
-  "id": 900375,
+  "id": 900371,
   "tier": "medium",
   "group": "Outline",
   "name": "Afghanistan",
@@ -7500,7 +7541,7 @@
   ]
  },
  {
-  "id": 900376,
+  "id": 900372,
   "tier": "death",
   "group": "Outline",
   "name": "Montenegro",
@@ -7520,7 +7561,7 @@
   ]
  },
  {
-  "id": 900377,
+  "id": 900373,
   "tier": "hard",
   "group": "Outline",
   "name": "Bosnia and Herzegovina",
@@ -7540,13 +7581,14 @@
   ]
  },
  {
-  "id": 900378,
+  "id": 900374,
   "tier": "medium",
   "group": "Outline",
   "name": "Uganda",
   "sci": "",
   "aliases": [
-   "uganda"
+   "uganda",
+   "uganda protectorate"
   ],
   "cats": [
    "outlines"
@@ -7560,7 +7602,7 @@
   ]
  },
  {
-  "id": 900379,
+  "id": 900375,
   "tier": "hard",
   "group": "Outline",
   "name": "Honduras",
@@ -7580,8 +7622,8 @@
   ]
  },
  {
-  "id": 900380,
-  "tier": "hard",
+  "id": 900376,
+  "tier": "medium",
   "group": "Outline",
   "name": "Ecuador",
   "sci": "",
@@ -7600,7 +7642,7 @@
   ]
  },
  {
-  "id": 900381,
+  "id": 900377,
   "tier": "easy",
   "group": "Outline",
   "name": "Colombia",
@@ -7620,7 +7662,7 @@
   ]
  },
  {
-  "id": 900382,
+  "id": 900378,
   "tier": "hard",
   "group": "Outline",
   "name": "Paraguay",
@@ -7640,8 +7682,8 @@
   ]
  },
  {
-  "id": 900383,
-  "tier": "easy",
+  "id": 900379,
+  "tier": "medium",
   "group": "Outline",
   "name": "Portugal",
   "sci": "",
@@ -7660,7 +7702,7 @@
   ]
  },
  {
-  "id": 900384,
+  "id": 900380,
   "tier": "hard",
   "group": "Outline",
   "name": "Moldova",
@@ -7680,7 +7722,7 @@
   ]
  },
  {
-  "id": 900385,
+  "id": 900381,
   "tier": "hard",
   "group": "Outline",
   "name": "Turkmenistan",
@@ -7700,8 +7742,8 @@
   ]
  },
  {
-  "id": 900386,
-  "tier": "hard",
+  "id": 900382,
+  "tier": "medium",
   "group": "Outline",
   "name": "Jordan",
   "sci": "",
@@ -7720,8 +7762,8 @@
   ]
  },
  {
-  "id": 900387,
-  "tier": "easy",
+  "id": 900383,
+  "tier": "medium",
   "group": "Outline",
   "name": "Nepal",
   "sci": "",
@@ -7740,12 +7782,13 @@
   ]
  },
  {
-  "id": 900388,
+  "id": 900384,
   "tier": "hard",
   "group": "Outline",
   "name": "Lesotho",
   "sci": "",
   "aliases": [
+   "basutoland",
    "lesotho"
   ],
   "cats": [
@@ -7760,7 +7803,7 @@
   ]
  },
  {
-  "id": 900389,
+  "id": 900385,
   "tier": "medium",
   "group": "Outline",
   "name": "Cameroon",
@@ -7780,7 +7823,7 @@
   ]
  },
  {
-  "id": 900390,
+  "id": 900386,
   "tier": "hard",
   "group": "Outline",
   "name": "Gabon",
@@ -7800,13 +7843,14 @@
   ]
  },
  {
-  "id": 900391,
+  "id": 900387,
   "tier": "medium",
   "group": "Outline",
   "name": "Niger",
   "sci": "",
   "aliases": [
-   "niger"
+   "niger",
+   "niger republic"
   ],
   "cats": [
    "outlines"
@@ -7820,13 +7864,14 @@
   ]
  },
  {
-  "id": 900392,
+  "id": 900388,
   "tier": "medium",
   "group": "Outline",
   "name": "Burkina Faso",
   "sci": "",
   "aliases": [
-   "burkina faso"
+   "burkina faso",
+   "upper volta"
   ],
   "cats": [
    "outlines"
@@ -7840,7 +7885,7 @@
   ]
  },
  {
-  "id": 900393,
+  "id": 900389,
   "tier": "hard",
   "group": "Outline",
   "name": "Togo",
@@ -7860,7 +7905,7 @@
   ]
  },
  {
-  "id": 900394,
+  "id": 900390,
   "tier": "medium",
   "group": "Outline",
   "name": "Ghana",
@@ -7880,8 +7925,8 @@
   ]
  },
  {
-  "id": 900395,
-  "tier": "death",
+  "id": 900391,
+  "tier": "hard",
   "group": "Outline",
   "name": "Guinea-Bissau",
   "sci": "",
@@ -7900,28 +7945,32 @@
   ]
  },
  {
-  "id": 900396,
+  "id": 900392,
   "tier": "easy",
   "group": "Outline",
-  "name": "United States of America",
+  "name": "United States",
   "sci": "",
   "aliases": [
-   "united states of america"
+   "america",
+   "united states",
+   "united states of america",
+   "us",
+   "usa"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/united-states-of-america.svg",
+    "url": "../data/things/outlines/united-states.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900397,
-  "tier": "easy",
+  "id": 900393,
+  "tier": "medium",
   "group": "Outline",
   "name": "Canada",
   "sci": "",
@@ -7940,7 +7989,7 @@
   ]
  },
  {
-  "id": 900398,
+  "id": 900394,
   "tier": "easy",
   "group": "Outline",
   "name": "Mexico",
@@ -7960,13 +8009,14 @@
   ]
  },
  {
-  "id": 900399,
+  "id": 900395,
   "tier": "death",
   "group": "Outline",
   "name": "Belize",
   "sci": "",
   "aliases": [
-   "belize"
+   "belize",
+   "british honduras"
   ],
   "cats": [
    "outlines"
@@ -7980,7 +8030,7 @@
   ]
  },
  {
-  "id": 900400,
+  "id": 900396,
   "tier": "hard",
   "group": "Outline",
   "name": "Panama",
@@ -8000,7 +8050,7 @@
   ]
  },
  {
-  "id": 900401,
+  "id": 900397,
   "tier": "medium",
   "group": "Outline",
   "name": "Venezuela",
@@ -8020,7 +8070,7 @@
   ]
  },
  {
-  "id": 900402,
+  "id": 900398,
   "tier": "hard",
   "group": "Outline",
   "name": "Papua New Guinea",
@@ -8040,7 +8090,7 @@
   ]
  },
  {
-  "id": 900403,
+  "id": 900399,
   "tier": "easy",
   "group": "Outline",
   "name": "Egypt",
@@ -8060,7 +8110,7 @@
   ]
  },
  {
-  "id": 900404,
+  "id": 900400,
   "tier": "medium",
   "group": "Outline",
   "name": "Yemen",
@@ -8080,7 +8130,7 @@
   ]
  },
  {
-  "id": 900405,
+  "id": 900401,
   "tier": "hard",
   "group": "Outline",
   "name": "Mauritania",
@@ -8100,13 +8150,14 @@
   ]
  },
  {
-  "id": 900406,
-  "tier": "death",
+  "id": 900402,
+  "tier": "hard",
   "group": "Outline",
   "name": "Equatorial Guinea",
   "sci": "",
   "aliases": [
-   "equatorial guinea"
+   "equatorial guinea",
+   "spanish guinea"
   ],
   "cats": [
    "outlines"
@@ -8120,12 +8171,13 @@
   ]
  },
  {
-  "id": 900407,
+  "id": 900403,
   "tier": "hard",
   "group": "Outline",
-  "name": "The Gambia",
+  "name": "Gambia",
   "sci": "",
   "aliases": [
+   "gambia",
    "the gambia"
   ],
   "cats": [
@@ -8133,14 +8185,14 @@
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/the-gambia.svg",
+    "url": "../data/things/outlines/gambia.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900408,
+  "id": 900404,
   "tier": "hard",
   "group": "Outline",
   "name": "Hong Kong",
@@ -8160,12 +8212,14 @@
   ]
  },
  {
-  "id": 900409,
+  "id": 900405,
   "tier": "death",
   "group": "Outline",
   "name": "Vatican City",
   "sci": "",
   "aliases": [
+   "holy see",
+   "vatican",
    "vatican city"
   ],
   "cats": [
@@ -8180,28 +8234,8 @@
   ]
  },
  {
-  "id": 900410,
-  "tier": "death",
-  "group": "Outline",
-  "name": "Turkish Republic of Northern Cyprus",
-  "sci": "",
-  "aliases": [
-   "turkish republic of northern cyprus"
-  ],
-  "cats": [
-   "outlines"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/outlines/turkish-republic-of-northern-cyprus.svg",
-    "credit": "Outline drawn from Natural Earth (public domain)",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900411,
-  "tier": "easy",
+  "id": 900406,
+  "tier": "medium",
   "group": "Outline",
   "name": "Australia",
   "sci": "",
@@ -8220,7 +8254,7 @@
   ]
  },
  {
-  "id": 900412,
+  "id": 900407,
   "tier": "death",
   "group": "Outline",
   "name": "Greenland",
@@ -8240,7 +8274,7 @@
   ]
  },
  {
-  "id": 900413,
+  "id": 900408,
   "tier": "death",
   "group": "Outline",
   "name": "Fiji",
@@ -8260,8 +8294,8 @@
   ]
  },
  {
-  "id": 900414,
-  "tier": "easy",
+  "id": 900409,
+  "tier": "hard",
   "group": "Outline",
   "name": "New Zealand",
   "sci": "",
@@ -8280,7 +8314,7 @@
   ]
  },
  {
-  "id": 900415,
+  "id": 900410,
   "tier": "medium",
   "group": "Outline",
   "name": "Madagascar",
@@ -8300,7 +8334,7 @@
   ]
  },
  {
-  "id": 900416,
+  "id": 900411,
   "tier": "easy",
   "group": "Outline",
   "name": "Philippines",
@@ -8320,12 +8354,13 @@
   ]
  },
  {
-  "id": 900417,
+  "id": 900412,
   "tier": "medium",
   "group": "Outline",
   "name": "Sri Lanka",
   "sci": "",
   "aliases": [
+   "ceylon",
    "sri lanka"
   ],
   "cats": [
@@ -8340,7 +8375,7 @@
   ]
  },
  {
-  "id": 900418,
+  "id": 900413,
   "tier": "death",
   "group": "Outline",
   "name": "Cura\u00e7ao",
@@ -8360,7 +8395,7 @@
   ]
  },
  {
-  "id": 900419,
+  "id": 900414,
   "tier": "death",
   "group": "Outline",
   "name": "Aruba",
@@ -8380,12 +8415,13 @@
   ]
  },
  {
-  "id": 900420,
+  "id": 900415,
   "tier": "death",
   "group": "Outline",
-  "name": "The Bahamas",
+  "name": "Bahamas",
   "sci": "",
   "aliases": [
+   "bahamas",
    "the bahamas"
   ],
   "cats": [
@@ -8393,14 +8429,14 @@
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/the-bahamas.svg",
+    "url": "../data/things/outlines/bahamas.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900421,
+  "id": 900416,
   "tier": "medium",
   "group": "Outline",
   "name": "Taiwan",
@@ -8420,7 +8456,7 @@
   ]
  },
  {
-  "id": 900422,
+  "id": 900417,
   "tier": "easy",
   "group": "Outline",
   "name": "Japan",
@@ -8440,8 +8476,8 @@
   ]
  },
  {
-  "id": 900423,
-  "tier": "easy",
+  "id": 900418,
+  "tier": "death",
   "group": "Outline",
   "name": "Iceland",
   "sci": "",
@@ -8460,7 +8496,7 @@
   ]
  },
  {
-  "id": 900424,
+  "id": 900419,
   "tier": "death",
   "group": "Outline",
   "name": "Seychelles",
@@ -8480,7 +8516,7 @@
   ]
  },
  {
-  "id": 900425,
+  "id": 900420,
   "tier": "death",
   "group": "Outline",
   "name": "Kiribati",
@@ -8500,7 +8536,7 @@
   ]
  },
  {
-  "id": 900426,
+  "id": 900421,
   "tier": "death",
   "group": "Outline",
   "name": "Marshall Islands",
@@ -8520,8 +8556,8 @@
   ]
  },
  {
-  "id": 900427,
-  "tier": "death",
+  "id": 900422,
+  "tier": "hard",
   "group": "Outline",
   "name": "Trinidad and Tobago",
   "sci": "",
@@ -8540,7 +8576,7 @@
   ]
  },
  {
-  "id": 900428,
+  "id": 900423,
   "tier": "death",
   "group": "Outline",
   "name": "Grenada",
@@ -8560,13 +8596,15 @@
   ]
  },
  {
-  "id": 900429,
+  "id": 900424,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Vincent and the Grenadines",
   "sci": "",
   "aliases": [
-   "saint vincent and the grenadines"
+   "saint vincent and the grenadines",
+   "st vincent and the grenadines",
+   "st. vincent and the grenadines"
   ],
   "cats": [
    "outlines"
@@ -8580,7 +8618,7 @@
   ]
  },
  {
-  "id": 900430,
+  "id": 900425,
   "tier": "death",
   "group": "Outline",
   "name": "Barbados",
@@ -8600,13 +8638,15 @@
   ]
  },
  {
-  "id": 900431,
+  "id": 900426,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Lucia",
   "sci": "",
   "aliases": [
-   "saint lucia"
+   "saint lucia",
+   "st lucia",
+   "st. lucia"
   ],
   "cats": [
    "outlines"
@@ -8620,7 +8660,7 @@
   ]
  },
  {
-  "id": 900432,
+  "id": 900427,
   "tier": "death",
   "group": "Outline",
   "name": "Dominica",
@@ -8640,7 +8680,7 @@
   ]
  },
  {
-  "id": 900433,
+  "id": 900428,
   "tier": "death",
   "group": "Outline",
   "name": "Antigua and Barbuda",
@@ -8660,13 +8700,15 @@
   ]
  },
  {
-  "id": 900434,
+  "id": 900429,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Kitts and Nevis",
   "sci": "",
   "aliases": [
-   "saint kitts and nevis"
+   "saint kitts and nevis",
+   "st kitts and nevis",
+   "st. kitts and nevis"
   ],
   "cats": [
    "outlines"
@@ -8680,8 +8722,8 @@
   ]
  },
  {
-  "id": 900435,
-  "tier": "easy",
+  "id": 900430,
+  "tier": "hard",
   "group": "Outline",
   "name": "Jamaica",
   "sci": "",
@@ -8700,8 +8742,8 @@
   ]
  },
  {
-  "id": 900436,
-  "tier": "death",
+  "id": 900431,
+  "tier": "hard",
   "group": "Outline",
   "name": "Mauritius",
   "sci": "",
@@ -8720,7 +8762,7 @@
   ]
  },
  {
-  "id": 900437,
+  "id": 900432,
   "tier": "death",
   "group": "Outline",
   "name": "Comoros",
@@ -8740,7 +8782,7 @@
   ]
  },
  {
-  "id": 900438,
+  "id": 900433,
   "tier": "death",
   "group": "Outline",
   "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -8760,12 +8802,13 @@
   ]
  },
  {
-  "id": 900439,
+  "id": 900434,
   "tier": "death",
   "group": "Outline",
-  "name": "Cape Verde",
+  "name": "Cabo Verde",
   "sci": "",
   "aliases": [
+   "cabo verde",
    "cape verde"
   ],
   "cats": [
@@ -8773,14 +8816,14 @@
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/cape-verde.svg",
+    "url": "../data/things/outlines/cabo-verde.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900440,
+  "id": 900435,
   "tier": "death",
   "group": "Outline",
   "name": "Malta",
@@ -8800,7 +8843,7 @@
   ]
  },
  {
-  "id": 900441,
+  "id": 900436,
   "tier": "death",
   "group": "Outline",
   "name": "Jersey",
@@ -8820,7 +8863,7 @@
   ]
  },
  {
-  "id": 900442,
+  "id": 900437,
   "tier": "death",
   "group": "Outline",
   "name": "Guernsey",
@@ -8840,7 +8883,7 @@
   ]
  },
  {
-  "id": 900443,
+  "id": 900438,
   "tier": "death",
   "group": "Outline",
   "name": "Isle of Man",
@@ -8860,27 +8903,27 @@
   ]
  },
  {
-  "id": 900444,
+  "id": 900439,
   "tier": "death",
   "group": "Outline",
-  "name": "\u00c5land",
+  "name": "\u00c5land Islands",
   "sci": "",
   "aliases": [
-   "\u00e5land"
+   "\u00e5land islands"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/land.svg",
+    "url": "../data/things/outlines/land-islands.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900445,
+  "id": 900440,
   "tier": "hard",
   "group": "Outline",
   "name": "Singapore",
@@ -8900,7 +8943,7 @@
   ]
  },
  {
-  "id": 900446,
+  "id": 900441,
   "tier": "death",
   "group": "Outline",
   "name": "Tonga",
@@ -8920,13 +8963,14 @@
   ]
  },
  {
-  "id": 900447,
+  "id": 900442,
   "tier": "death",
   "group": "Outline",
   "name": "Samoa",
   "sci": "",
   "aliases": [
-   "samoa"
+   "samoa",
+   "western samoa"
   ],
   "cats": [
    "outlines"
@@ -8940,7 +8984,7 @@
   ]
  },
  {
-  "id": 900448,
+  "id": 900443,
   "tier": "death",
   "group": "Outline",
   "name": "Solomon Islands",
@@ -8960,7 +9004,7 @@
   ]
  },
  {
-  "id": 900449,
+  "id": 900444,
   "tier": "death",
   "group": "Outline",
   "name": "Tuvalu",
@@ -8980,7 +9024,7 @@
   ]
  },
  {
-  "id": 900450,
+  "id": 900445,
   "tier": "death",
   "group": "Outline",
   "name": "Maldives",
@@ -9000,7 +9044,7 @@
   ]
  },
  {
-  "id": 900451,
+  "id": 900446,
   "tier": "death",
   "group": "Outline",
   "name": "Nauru",
@@ -9020,32 +9064,34 @@
   ]
  },
  {
-  "id": 900452,
+  "id": 900447,
   "tier": "death",
   "group": "Outline",
-  "name": "Federated States of Micronesia",
+  "name": "Micronesia",
   "sci": "",
   "aliases": [
-   "federated states of micronesia"
+   "federated states of micronesia",
+   "micronesia"
   ],
   "cats": [
    "outlines"
   ],
   "photos": [
    {
-    "url": "../data/things/outlines/federated-states-of-micronesia.svg",
+    "url": "../data/things/outlines/micronesia.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
     "obs": ""
    }
   ]
  },
  {
-  "id": 900453,
+  "id": 900448,
   "tier": "death",
   "group": "Outline",
   "name": "Vanuatu",
   "sci": "",
   "aliases": [
+   "new hebrides",
    "vanuatu"
   ],
   "cats": [
@@ -9060,7 +9106,7 @@
   ]
  },
  {
-  "id": 900454,
+  "id": 900449,
   "tier": "death",
   "group": "Outline",
   "name": "Palau",
@@ -9080,8 +9126,8 @@
   ]
  },
  {
-  "id": 900455,
-  "tier": "death",
+  "id": 900450,
+  "tier": "hard",
   "group": "Outline",
   "name": "Bahrain",
   "sci": "",
@@ -9100,7 +9146,7 @@
   ]
  },
  {
-  "id": 900456,
+  "id": 900451,
   "tier": "death",
   "group": "Outline",
   "name": "Macau",
@@ -9115,1786 +9161,6 @@
    {
     "url": "../data/things/outlines/macau.svg",
     "credit": "Outline drawn from Natural Earth (public domain)",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900457,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Andromeda",
-  "sci": "And",
-  "aliases": [
-   "andromeda"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/andromeda.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900458,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Antlia",
-  "sci": "Ant",
-  "aliases": [
-   "antlia"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/antlia.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900459,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Apus",
-  "sci": "Aps",
-  "aliases": [
-   "apus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/apus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900460,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Aquarius",
-  "sci": "Aqr",
-  "aliases": [
-   "aquarius"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/aquarius.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900461,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Aquila",
-  "sci": "Aql",
-  "aliases": [
-   "aquila"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/aquila.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900462,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Ara",
-  "sci": "Ara",
-  "aliases": [
-   "ara"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/ara.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900463,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Aries",
-  "sci": "Ari",
-  "aliases": [
-   "aries"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/aries.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900464,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Auriga",
-  "sci": "Aur",
-  "aliases": [
-   "auriga"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/auriga.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900465,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Bootes",
-  "sci": "Boo",
-  "aliases": [
-   "bootes"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/bootes.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900466,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Caelum",
-  "sci": "Cae",
-  "aliases": [
-   "caelum"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/caelum.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900467,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Camelopardalis",
-  "sci": "Cam",
-  "aliases": [
-   "camelopardalis"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/camelopardalis.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900468,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Cancer",
-  "sci": "Cnc",
-  "aliases": [
-   "cancer"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/cancer.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900469,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Canes Venatici",
-  "sci": "CVn",
-  "aliases": [
-   "canes venatici"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/canes-venatici.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900470,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Canis Major",
-  "sci": "CMa",
-  "aliases": [
-   "canis major"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/canis-major.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900471,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Canis Minor",
-  "sci": "CMi",
-  "aliases": [
-   "canis minor"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/canis-minor.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900472,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Capricornus",
-  "sci": "Cap",
-  "aliases": [
-   "capricornus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/capricornus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900473,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Carina",
-  "sci": "Car",
-  "aliases": [
-   "carina"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/carina.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900474,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Cassiopeia",
-  "sci": "Cas",
-  "aliases": [
-   "cassiopeia"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/cassiopeia.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900475,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Centaurus",
-  "sci": "Cen",
-  "aliases": [
-   "centaurus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/centaurus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900476,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Cepheus",
-  "sci": "Cep",
-  "aliases": [
-   "cepheus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/cepheus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900477,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Cetus",
-  "sci": "Cet",
-  "aliases": [
-   "cetus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/cetus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900478,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Chamaeleon",
-  "sci": "Cha",
-  "aliases": [
-   "chamaeleon"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/chamaeleon.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900479,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Circinus",
-  "sci": "Cir",
-  "aliases": [
-   "circinus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/circinus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900480,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Columba",
-  "sci": "Col",
-  "aliases": [
-   "columba"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/columba.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900481,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Coma Berenices",
-  "sci": "Com",
-  "aliases": [
-   "coma berenices"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/coma-berenices.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900482,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Corona Australis",
-  "sci": "CrA",
-  "aliases": [
-   "corona australis"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/corona-australis.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900483,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Corona Borealis",
-  "sci": "CrB",
-  "aliases": [
-   "corona borealis"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/corona-borealis.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900484,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Corvus",
-  "sci": "Crv",
-  "aliases": [
-   "corvus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/corvus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900485,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Crater",
-  "sci": "Crt",
-  "aliases": [
-   "crater"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/crater.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900486,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Crux",
-  "sci": "Cru",
-  "aliases": [
-   "crux"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/crux.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900487,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Cygnus",
-  "sci": "Cyg",
-  "aliases": [
-   "cygnus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/cygnus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900488,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Delphinus",
-  "sci": "Del",
-  "aliases": [
-   "delphinus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/delphinus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900489,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Dorado",
-  "sci": "Dor",
-  "aliases": [
-   "dorado"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/dorado.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900490,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Draco",
-  "sci": "Dra",
-  "aliases": [
-   "draco"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/draco.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900491,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Equuleus",
-  "sci": "Equ",
-  "aliases": [
-   "equuleus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/equuleus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900492,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Eridanus",
-  "sci": "Eri",
-  "aliases": [
-   "eridanus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/eridanus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900493,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Fornax",
-  "sci": "For",
-  "aliases": [
-   "fornax"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/fornax.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900494,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Gemini",
-  "sci": "Gem",
-  "aliases": [
-   "gemini"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/gemini.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900495,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Grus",
-  "sci": "Gru",
-  "aliases": [
-   "grus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/grus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900496,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Hercules",
-  "sci": "Her",
-  "aliases": [
-   "hercules"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/hercules.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900497,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Horologium",
-  "sci": "Hor",
-  "aliases": [
-   "horologium"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/horologium.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900498,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Hydra",
-  "sci": "Hya",
-  "aliases": [
-   "hydra"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/hydra.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900499,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Hydrus",
-  "sci": "Hyi",
-  "aliases": [
-   "hydrus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/hydrus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900500,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Indus",
-  "sci": "Ind",
-  "aliases": [
-   "indus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/indus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900501,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Lacerta",
-  "sci": "Lac",
-  "aliases": [
-   "lacerta"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/lacerta.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900502,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Leo",
-  "sci": "Leo",
-  "aliases": [
-   "leo"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/leo.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900503,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Leo Minor",
-  "sci": "LMi",
-  "aliases": [
-   "leo minor"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/leo-minor.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900504,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Lepus",
-  "sci": "Lep",
-  "aliases": [
-   "lepus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/lepus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900505,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Libra",
-  "sci": "Lib",
-  "aliases": [
-   "libra"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/libra.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900506,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Lupus",
-  "sci": "Lup",
-  "aliases": [
-   "lupus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/lupus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900507,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Lynx",
-  "sci": "Lyn",
-  "aliases": [
-   "lynx"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/lynx.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900508,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Lyra",
-  "sci": "Lyr",
-  "aliases": [
-   "lyra"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/lyra.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900509,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Mensa",
-  "sci": "Men",
-  "aliases": [
-   "mensa"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/mensa.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900510,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Microscopium",
-  "sci": "Mic",
-  "aliases": [
-   "microscopium"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/microscopium.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900511,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Monoceros",
-  "sci": "Mon",
-  "aliases": [
-   "monoceros"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/monoceros.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900512,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Musca",
-  "sci": "Mus",
-  "aliases": [
-   "musca"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/musca.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900513,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Norma",
-  "sci": "Nor",
-  "aliases": [
-   "norma"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/norma.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900514,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Octans",
-  "sci": "Oct",
-  "aliases": [
-   "octans"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/octans.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900515,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Ophiuchus",
-  "sci": "Oph",
-  "aliases": [
-   "ophiuchus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/ophiuchus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900516,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Orion",
-  "sci": "Ori",
-  "aliases": [
-   "orion"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/orion.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900517,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Pavo",
-  "sci": "Pav",
-  "aliases": [
-   "pavo"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/pavo.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900518,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Pegasus",
-  "sci": "Peg",
-  "aliases": [
-   "pegasus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/pegasus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900519,
-  "tier": "medium",
-  "group": "Constellation",
-  "name": "Perseus",
-  "sci": "Per",
-  "aliases": [
-   "perseus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/perseus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900520,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Phoenix",
-  "sci": "Phe",
-  "aliases": [
-   "phoenix"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/phoenix.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900521,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Pictor",
-  "sci": "Pic",
-  "aliases": [
-   "pictor"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/pictor.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900522,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Pisces",
-  "sci": "Psc",
-  "aliases": [
-   "pisces"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/pisces.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900523,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Piscis Austrinus",
-  "sci": "PsA",
-  "aliases": [
-   "piscis austrinus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/piscis-austrinus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900524,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Puppis",
-  "sci": "Pup",
-  "aliases": [
-   "puppis"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/puppis.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900525,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Pyxis",
-  "sci": "Pyx",
-  "aliases": [
-   "pyxis"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/pyxis.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900526,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Reticulum",
-  "sci": "Ret",
-  "aliases": [
-   "reticulum"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/reticulum.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900527,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Sagitta",
-  "sci": "Sge",
-  "aliases": [
-   "sagitta"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/sagitta.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900528,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Sagittarius",
-  "sci": "Sgr",
-  "aliases": [
-   "sagittarius"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/sagittarius.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900529,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Scorpius",
-  "sci": "Sco",
-  "aliases": [
-   "scorpius"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/scorpius.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900530,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Sculptor",
-  "sci": "Scl",
-  "aliases": [
-   "sculptor"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/sculptor.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900531,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Scutum",
-  "sci": "Sct",
-  "aliases": [
-   "scutum"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/scutum.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900532,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Serpens",
-  "sci": "Ser",
-  "aliases": [
-   "serpens"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/serpens.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900533,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Serpens",
-  "sci": "Ser",
-  "aliases": [
-   "serpens"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/serpens.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900534,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Sextans",
-  "sci": "Sex",
-  "aliases": [
-   "sextans"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/sextans.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900535,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Taurus",
-  "sci": "Tau",
-  "aliases": [
-   "taurus"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/taurus.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900536,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Telescopium",
-  "sci": "Tel",
-  "aliases": [
-   "telescopium"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/telescopium.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900537,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Triangulum",
-  "sci": "Tri",
-  "aliases": [
-   "triangulum"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/triangulum.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900538,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Triangulum Australe",
-  "sci": "TrA",
-  "aliases": [
-   "triangulum australe"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/triangulum-australe.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900539,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Tucana",
-  "sci": "Tuc",
-  "aliases": [
-   "tucana"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/tucana.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900540,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Ursa Major",
-  "sci": "UMa",
-  "aliases": [
-   "ursa major"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/ursa-major.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900541,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Ursa Minor",
-  "sci": "UMi",
-  "aliases": [
-   "ursa minor"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/ursa-minor.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900542,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Vela",
-  "sci": "Vel",
-  "aliases": [
-   "vela"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/vela.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900543,
-  "tier": "easy",
-  "group": "Constellation",
-  "name": "Virgo",
-  "sci": "Vir",
-  "aliases": [
-   "virgo"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/virgo.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900544,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Volans",
-  "sci": "Vol",
-  "aliases": [
-   "volans"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/volans.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
-    "obs": ""
-   }
-  ]
- },
- {
-  "id": 900545,
-  "tier": "death",
-  "group": "Constellation",
-  "name": "Vulpecula",
-  "sci": "Vul",
-  "aliases": [
-   "vulpecula"
-  ],
-  "cats": [
-   "constellations"
-  ],
-  "photos": [
-   {
-    "url": "../data/things/constellations/vulpecula.svg",
-    "credit": "Star positions and figures from the d3-celestial dataset",
     "obs": ""
    }
   ]

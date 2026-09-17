@@ -64,6 +64,9 @@
   <div id="scoreline"><span id="soloscore"><b id="score">0</b> pts
     <span class="dot">·</span><span id="correct">0</span>/<span id="asked">0</span>
     <span class="dot">·</span></span>this one's worth <b id="worth">5</b>
+    <span class="dot">·</span><span id="streakwrap">streak <b id="streak">0</b><span
+      class="bestwrap"> (best <b id="best">0</b>)</span></span>
+    <span class="dot">·</span><span id="leftwrap"><b id="left">0</b> left</span>
     <span class="dot">·</span><span id="tierbadge">Easy</span></div>
 </header>
 
@@ -214,9 +217,8 @@
   <label class="diff death"><input type="checkbox" class="difftoggle" data-tier="death"><span class="box"></span><span class="difftext"><b>Death Mode</b><span>Almost nobody knows this animal</span></span><span class="catnum" data-tiercount="death"></span></label>
   <div id="tierwarn" class="hidden">Pick at least one difficulty.</div>
   <h2 class="cathead">Categories</h2>
-    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="flowers" checked><span class="switch"></span><span class="catname">Flowers<span class="catsub">Roses, tulips, orchids</span></span><span class="catnum" data-count="flowers"></span></label>
-    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="trees" checked><span class="switch"></span><span class="catname">Trees<span class="catsub">Oak, maple, pine</span></span><span class="catnum" data-count="trees"></span></label>
-    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="constellations" checked><span class="switch"></span><span class="catname">Constellations<span class="catsub">All 88, drawn from real star positions</span></span><span class="catnum" data-count="constellations"></span></label>
+    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="flowers" checked><span class="switch"></span><span class="catname">Flowers<span class="catsub">Houseplants through to the exotic</span></span><span class="catnum" data-count="flowers"></span></label>
+    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="trees" checked><span class="switch"></span><span class="catname">Trees<span class="catsub">The whole tree, and its leaves</span></span><span class="catnum" data-count="trees"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="flags" checked><span class="switch"></span><span class="catname">Flags<span class="catsub">Every country's flag</span></span><span class="catnum" data-count="flags"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="outlines" checked><span class="switch"></span><span class="catname">Country Outlines<span class="catsub">The shape, with nothing else to go on</span></span><span class="catnum" data-count="outlines"></span></label>
   <div id="catwarn" class="hidden">Nothing is selected — turn a category on.</div>
@@ -236,8 +238,8 @@
 
   <p class="note">Flowers and trees are real photographs taken by real
      people, from iNaturalist. Flags come from flagcdn. Country outlines and
-     constellations are drawn here from public data — Natural Earth and the
-     d3-celestial star catalogue. Nothing here is AI-generated.</p>
+     outlines are drawn here from Natural Earth, public domain. Nothing here
+     is AI-generated.</p>
   <button id="close">Close</button>
 </aside>
 
@@ -245,6 +247,7 @@
   // same engine, different data -- see the top of game.js
   window.GUESSER = {data: "../data/things.json", key: "things.",
                     one: "thing", many: "things", credit: "Source",
+                    streakTries: {flags: 2},
                     tagline: "A flower, a tree, a constellation, a flag "
                              + "or a country. Name it."};
 </script>
