@@ -4,7 +4,7 @@
 None of these are photographs, so none of them come from iNaturalist:
 
   flags          linked from flagcdn.com, one per ISO country code
-  outlines       drawn here from Natural Earth (public domain) via world-atlas
+  outlines       drawn here from Natural Earth 10m (public domain)
   constellations drawn here from the d3-celestial star and figure data
 
 The two drawn sets are written as small SVG files under data/things/, so the
@@ -96,24 +96,47 @@ def _area(r):
 def _centroid(r):
     return (sum(p[0] for p in r) / len(r), sum(p[1] for p in r) / len(r))
 
-def drop_far_territories(rings):
-    """Keep the homeland and its neighbours, drop far-flung overseas bits.
+def drop_far_territories(rings, margin=4.5):
+    """Keep the homeland and anything chained to it; drop isolated outliers.
 
-    France carries French Guiana and Reunion, the United States carries Guam.
-    Left in, the bounding box spans the planet and the country itself shrinks
-    to a speck. The rule is relative, so genuinely spread-out countries like
-    Indonesia and Japan keep all their islands.
+    A plain distance-from-the-centre test cannot serve both Indonesia and
+    Norway: Indonesia's islands run 45 degrees east from Java and all belong,
+    while Svalbard sits 5 degrees off Norway with open sea between and wrecks
+    the bounding box if kept. So this grows outward instead -- start at the
+    largest landmass and repeatedly take in any ring within `margin` of what
+    has been taken already. Chains come along; islands with a gap do not.
+
+    Drops France's Guiana and Reunion, Spain's Canaries, Ecuador's Galapagos,
+    Chile's Easter Island and Alaska, and keeps Sicily, Shetland, the Greek
+    islands, the Ryukyus and every island of Indonesia.
     """
     if len(rings) < 2:
         return rings
-    main = max(rings, key=_area)
-    cx, cy = _centroid(main)
-    span = max(max(p[0] for p in main) - min(p[0] for p in main),
-               max(p[1] for p in main) - min(p[1] for p in main))
-    reach = max(12.0, span * 2.5)
-    near = [r for r in rings
-            if abs(_centroid(r)[0] - cx) <= reach and abs(_centroid(r)[1] - cy) <= reach]
-    return near or [main]
+    boxes = [(min(p[0] for p in r), min(p[1] for p in r),
+              max(p[0] for p in r), max(p[1] for p in r)) for r in rings]
+    main = max(range(len(rings)), key=lambda i: _area(rings[i]))
+    taken = {main}
+    x0, y0, x1, y1 = boxes[main]
+    # Only a substantial landmass may push the frontier outward. Otherwise a
+    # speck becomes a stepping stone: Norway reaches Bjornoya, 178 square
+    # kilometres of rock, and from there Svalbard comes along and flattens the
+    # mainland. Small islands still get included when they are already close.
+    big = _area(rings[main]) * 0.02
+    grew = True
+    while grew:
+        grew = False
+        for i, (bx0, by0, bx1, by1) in enumerate(boxes):
+            if i in taken:
+                continue
+            gap_x = max(bx0 - x1, x0 - bx1, 0)
+            gap_y = max(by0 - y1, y0 - by1, 0)
+            if gap_x <= margin and gap_y <= margin:
+                taken.add(i)
+                if _area(rings[i]) >= big:          # big enough to build from
+                    grew = True
+                    x0, y0 = min(x0, bx0), min(y0, by0)
+                    x1, y1 = max(x1, bx1), max(y1, by1)
+    return [r for i, r in enumerate(rings) if i in taken]
 
 
 # ---------- fitting a set of rings into a viewBox ---------------------------
@@ -127,7 +150,44 @@ def fit(rings, w, h, pad, flip_x=False):
     s = min((w - 2 * pad) / dx, (h - 2 * pad) / dy)
     ox = (w - dx * s) / 2 - min(xs) * s
     oy = (h - dy * s) / 2 - min(ys) * s
-    return [[(round(p[0] * s + ox, 1), round(p[1] * s + oy, 1)) for p in r] for r in proj]
+    return [[(round(p[0] * s + ox, 2), round(p[1] * s + oy, 2)) for p in r] for r in proj]
+
+
+def simplify(pts, tol):
+    """Douglas-Peucker, run on already-projected points so the tolerance is in
+    screen pixels: everything a viewer could see is kept and the rest goes.
+    Iterative rather than recursive -- a 10m coastline is tens of thousands of
+    points deep."""
+    if len(pts) < 3:
+        return pts
+    keep = [False] * len(pts)
+    keep[0] = keep[-1] = True
+    stack = [(0, len(pts) - 1)]
+    while stack:
+        i, j = stack.pop()
+        ax, ay = pts[i]; bx, by = pts[j]
+        dx, dy = bx - ax, by - ay
+        den = dx * dx + dy * dy
+        worst, wi = -1.0, -1
+        for k in range(i + 1, j):
+            px, py = pts[k]
+            if den == 0:
+                d = (px - ax) ** 2 + (py - ay) ** 2
+            else:
+                t = ((px - ax) * dx + (py - ay) * dy) / den
+                t = 0.0 if t < 0 else 1.0 if t > 1 else t
+                qx, qy = ax + t * dx, ay + t * dy
+                d = (px - qx) ** 2 + (py - qy) ** 2
+            if d > worst:
+                worst, wi = d, k
+        if wi > 0 and worst > tol * tol:
+            keep[wi] = True
+            stack.append((i, wi)); stack.append((wi, j))
+    return [p for p, k in zip(pts, keep) if k]
+
+
+def ring_area(r):
+    return abs(sum(r[i][0] * r[i-1][1] - r[i-1][0] * r[i][1] for i in range(len(r)))) / 2
 
 
 def outline_svg(rings):
@@ -173,37 +233,52 @@ def main():
                                  "credit": "flagcdn.com", "obs": ""}]})
     print(f"flags          {len(flags)}")
 
-    # ---- country outlines --------------------------------------------------
-    topo = json.load(open(os.path.join(src, "countries.json")))
-    arcs = decode_arcs(topo)
-    geoms = topo["objects"]["countries"]["geometries"]
+    # ---- country outlines -------------------------------------------------
+    # Natural Earth 10m rather than 110m: 66 times the detail, so coastlines
+    # read as coastlines instead of polygons. Each is then simplified in
+    # SCREEN space, which keeps every vertex a viewer could see at the size it
+    # is drawn and throws away the rest -- detail without enormous files.
+    geo = json.load(open(os.path.join(src, "ne10m.geojson")))
     sized = []
-    for g in geoms:
-        name = (g.get("properties") or {}).get("name")
+    for f in geo["features"]:
+        pr = f["properties"]
+        if pr.get("TYPE") not in ("Sovereign country", "Country"):
+            continue
+        name = pr.get("NAME_EN") or pr.get("NAME")
         if not name:
             continue
-        rings = country_rings(g, arcs)
+        g = f["geometry"]
+        polys = g["coordinates"] if g["type"] == "MultiPolygon" else [g["coordinates"]]
+        rings = [[tuple(pt[:2]) for pt in ring] for poly in polys for ring in poly if len(ring) > 3]
         if not rings:
             continue
+        rings = drop_far_territories(rings)
         span = max(p[0] for r in rings for p in r) - min(p[0] for r in rings for p in r)
-        if span > 180:            # crosses the date line; not worth drawing torn
+        if span > 180:                    # crosses the date line
             rings = [[(p[0] % 360, p[1]) for p in r] for r in rings]
-        area = sum(abs(sum(r[i][0]*r[i-1][1] - r[i-1][0]*r[i][1] for i in range(len(r)))) for r in rings)
-        sized.append((area, name, rings))
-    sized.sort(reverse=True)
-    for rank, (area, name, rings) in enumerate(sized):
+        sized.append((pr.get("POP_EST") or 0, name, rings))
+
+    kept_pts = raw_pts = 0
+    for pop, name, rings in sized:
+        raw_pts += sum(len(r) for r in rings)
+        placed = fit(rings, 400, 300, 18)
+        # an island smaller than a pixel is speckle, not coastline
+        placed = [r for r in placed if ring_area(r) >= 0.6] or [max(placed, key=ring_area)]
+        placed = [simplify(r, 0.12) for r in placed]
+        placed = [r for r in placed if len(r) >= 3]
+        kept_pts += sum(len(r) for r in placed)
         nid += 1
         tier = ("easy" if name in FAMOUS else
-                "medium" if rank < len(sized) * 0.45 else
-                "hard" if rank < len(sized) * 0.8 else "death")
+                "medium" if pop >= 20_000_000 else
+                "hard" if pop >= 2_000_000 else "death")
         fn = slug(name) + ".svg"
-        open(os.path.join(OUTDIR, "outlines", fn), "w").write(outline_svg(fit(rings, 400, 300, 18)))
+        open(os.path.join(OUTDIR, "outlines", fn), "w").write(outline_svg(placed))
         recs.append({"id": nid, "tier": tier, "group": "Outline", "name": name, "sci": "",
                      "aliases": [name.lower()], "cats": ["outlines"],
                      "photos": [{"url": f"../data/things/outlines/{fn}",
                                  "credit": "Outline drawn from Natural Earth (public domain)",
                                  "obs": ""}]})
-    print(f"outlines       {len(sized)}")
+    print(f"outlines       {len(sized)}  ({raw_pts:,} source points -> {kept_pts:,} drawn)")
 
     # ---- constellations ----------------------------------------------------
     cl = json.load(open(os.path.join(src, "conlines.json")))

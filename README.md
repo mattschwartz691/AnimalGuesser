@@ -26,7 +26,7 @@ game it is.
 | Trees | 297 | iNaturalist photographs |
 | Flowers | 293 | iNaturalist photographs |
 | Flags | 252 | flagcdn |
-| Country Outlines | 177 | drawn here from Natural Earth |
+| Country Outlines | 204 | drawn here from Natural Earth 10m |
 | Constellations | 88 | drawn here from the d3-celestial star catalogue |
 
 Flowers and trees are real photographs by real people, credited, exactly as
@@ -39,14 +39,34 @@ The other three are not photographs, and the game says *Source* rather than
 scripts** into small SVG files under `data/things/`, from public data. Nothing
 is AI-generated, here or in the animal game.
 
-Two things the drawing had to get right. Countries with distant overseas
-territories — France with French Guiana, the United States with Guam — would
-otherwise have a bounding box spanning the planet and the country itself
-reduced to a speck, so far-flung parts are dropped by a rule relative to the
-homeland's own size, which leaves genuinely spread-out countries like Indonesia
-and Japan intact. And seven constellations straddle 0h right ascension,
-Ursa Major and Draco among them; those are shifted whole so the figure stays
-in one piece instead of being torn across the seam.
+The outlines come from Natural Earth's **10m** geometry — 66 times the detail
+of the 110m set they started on, which drew coastlines as polygons. Rather
+than ship half a million points, each country is simplified **in screen
+space**: the tolerance is in pixels at the size the outline is actually drawn,
+so every vertex a player could see is kept and the rest goes. That takes
+480,000 source points down to 174,000 drawn, and leaves Ireland's west coast
+ragged and the Philippines islands distinct.
+
+Two things the drawing had to get right.
+
+**Distant territories.** France carries French Guiana and Réunion, and left in,
+the bounding box spans the planet and France itself is a speck. But a plain
+distance test cannot serve both France and Indonesia, whose islands run 45
+degrees east of Java and all belong. So the rule grows outward from the largest
+landmass, taking in anything within a few degrees of what it already holds —
+chains come along, isolated outliers do not. One more catch: only a
+*substantial* landmass may push that frontier. Without it Norway reaches
+Bjørnøya, 178 square kilometres of rock, and from there Svalbard comes along
+and flattens the mainland. Alaska, the Canaries, the Galápagos and Easter
+Island all drop out; Sicily, Shetland, the Ryukyus and every island of
+Indonesia stay.
+
+**The seam in the sky.** Seven constellations straddle 0h right ascension,
+Ursa Major and Draco among them; those are shifted whole so the figure stays in
+one piece instead of being torn across it.
+
+Country difficulty comes from population — the 10m data carries an estimate —
+so the well-known countries are easy and Bhutan and Suriname are not.
 
 The two games keep their settings apart — Things Guesser stores its own
 difficulty, categories and toggles — so changing one does not disturb the
