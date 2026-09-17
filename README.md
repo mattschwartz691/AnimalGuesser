@@ -23,21 +23,61 @@ game it is.
 
 | Category | Holds | Where it comes from |
 |---|---|---|
-| Trees | 297 | iNaturalist photographs |
-| Flowers | 293 | iNaturalist photographs |
-| Flags | 252 | flagcdn |
-| Country Outlines | 204 | drawn here from Natural Earth 10m |
-| Constellations | 88 | drawn here from the d3-celestial star catalogue |
+| Flowers | 318 | iNaturalist photographs |
+| Trees | 315 | iNaturalist photographs, two views each |
+| Flags | 249 | flagcdn |
+| Country Outlines | 202 | drawn here from Natural Earth 10m |
+
+**Difficulty is how familiar the thing is**, which no dataset knows, so it is
+stated rather than derived. Flowers run household → garden → wild → exotic, and
+the household tier is a named list: the sunflower, the dandelion, the garden
+tulip, the lawn daisy. Ranking a genus by how often it is photographed does not
+find them — the most-photographed rose is the invasive multiflora and the most
+photographed chrysanthemum is a Korean mountain species — so the easy tier is
+curated and the rest falls back to that ranking. Trees work the same way, from
+the ones anyone can name to the obscure. **Flags and outlines go by
+population**, on one shared rule, so the two agree about which countries are
+the easy ones. Easy plants also accept the everyday word: *sunflower* answers
+the Common Sunflower, *oak* the English Oak, *maple* the Sugar Maple.
+
+**Each tree has two photographs.** Nothing labels a photo as "the leaves" —
+iNaturalist has no such annotation, Wikimedia Commons has a leaf category for
+about one species in six, and searching Commons for them returns microscope
+slides of leaf epidermis. What does exist is a record of whether an observation
+had green leaves, so the second photo is drawn from one of those. In practice
+this gives one close-up and one wider shot for 299 of the 315 trees — often
+with the close-up first, which is the opposite of what was intended and makes
+no difference in play, since the game picks one at random and **Bad photo**
+cycles them.
+
+**Country names are current, and the old ones still answer.** Flags and
+outlines used to take their names from different places and disagreed: Czechia
+against Czech Republic, Timor-Leste against East Timor, Côte d'Ivoire against
+Ivory Coast. Both now read from one table in `scripts/things/countries.py`,
+joined on ISO 3166-1 code, so they cannot drift apart. Cabo Verde, Türkiye,
+Eswatini, North Macedonia and Myanmar are the names the game asks for; Cape
+Verde, Turkey, Swaziland, Macedonia, Burma, Zaire, Ceylon, Siam, Persia,
+Rhodesia and Holland are among the 63 former names it accepts.
+
+Somaliland, Northern Cyprus, the European Union, the United Nations and
+Antarctica are not asked about. The rule is ISO 3166-1 rather than a judgement
+of ours: no country code, not a country. That needed care — the obvious
+`ISO_A2` field is blank for France and Norway in the Natural Earth data, so
+using it would have deleted them; `ISO_A2_EH` is the corrected one and keeps
+France, Norway and Taiwan.
+
+**Every country's flag is there**, checked rather than assumed: all 202
+countries carrying an ISO code have one, and all 249 flag images return 200.
 
 Flowers and trees are real photographs by real people, credited, exactly as
 the animals are. "Flower" and "tree" are not ranks of taxonomy, so membership
 comes from a curated list of genera — the same approach the animal game takes
 for cat breeds and United States birds.
 
-The other three are not photographs, and the game says *Source* rather than
-*Photo* for them. Outlines and constellations are **drawn by the build
-scripts** into small SVG files under `data/things/`, from public data. Nothing
-is AI-generated, here or in the animal game.
+Flags and outlines are not photographs, and the game says *Source* rather than
+*Photo* for them. The outlines are **drawn by the build scripts** into small SVG
+files under `data/things/`, from public data. Nothing is AI-generated, here or
+in the animal game.
 
 The outlines come from Natural Earth's **10m** geometry — 66 times the detail
 of the 110m set they started on, which drew coastlines as polygons. Rather
@@ -46,8 +86,6 @@ space**: the tolerance is in pixels at the size the outline is actually drawn,
 so every vertex a player could see is kept and the rest goes. That takes
 480,000 source points down to 174,000 drawn, and leaves Ireland's west coast
 ragged and the Philippines islands distinct.
-
-Two things the drawing had to get right.
 
 **Distant territories.** France carries French Guiana and Réunion, and left in,
 the bounding box spans the planet and France itself is a speck. But a plain
@@ -61,10 +99,6 @@ and flattens the mainland. Alaska, the Canaries, the Galápagos and Easter
 Island all drop out; Sicily, Shetland, the Ryukyus and every island of
 Indonesia stay.
 
-**The seam in the sky.** Seven constellations straddle 0h right ascension,
-Ursa Major and Draco among them; those are shifted whole so the figure stays in
-one piece instead of being torn across it.
-
 Country difficulty comes from population — the 10m data carries an estimate —
 so the well-known countries are easy and Bhutan and Suriname are not.
 
@@ -76,7 +110,8 @@ other.
 
 ```bash
 python3 scripts/things/build_plants.py 8     # flowers and trees, from iNaturalist
-python3 scripts/things/build_world_sky.py <source-dir>   # flags, outlines, constellations
+python3 scripts/things/build_world_sky.py <source-dir>   # flags and outlines
+python3 scripts/things/retier_plants.py      # curated easy tiers + everyday aliases
 python3 scripts/things/assemble.py           # -> data/things.json
 python3 scripts/things/make_page.py          # regenerate web/things.html from index.html
 ```
@@ -127,7 +162,21 @@ be interrupted by the guess box stealing focus mid-word.
   no hints, no flash — and scores nothing for that animal.
 - When the round ends the name is filled in completely at the top, in blue,
   with the Latin name under it, and the answer appears below the photo.
-- Click **Next →** for a new animal. Plays as long as you like.
+- Click **Next →** for a new animal.
+
+**Nothing is asked twice in a session.** Everything you have been shown is
+remembered until you Restart, so a session never repeats itself. The header
+counts how many are **left** in whatever you have switched on, and each
+category in the settings panel shows how many of *it* are left rather than how
+many exist. When everything switched on has been asked, the game says *"No more
+questions in these categories."* rather than starting over — turn on another
+category or another difficulty and it carries on.
+
+**The win streak** sits in the header with your best alongside, and turns gold
+from three up. A clean answer extends it; a wrong answer, giving up, or needing
+more guesses than the category allows ends it. One guess is the rule. Flags get
+two, because a flag is hard to name on the nose and nearly right should not
+cost you the run. Naming one word of a multi-word answer is not a guess.
 
 **Which animal comes next** is decided category first, animal second: the game
 picks one of your switched-on categories at random and then an animal from
