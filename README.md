@@ -26,7 +26,7 @@ game it is.
 | Flowers | 318 | iNaturalist photographs |
 | Trees | 315 | iNaturalist photographs, two views each |
 | Flags | 249 | flagcdn |
-| Country Outlines | 202 | drawn here from Natural Earth 10m |
+| Country Outlines | 238 | drawn here from geoBoundaries |
 
 **Difficulty is how familiar the thing is**, which no dataset knows, so it is
 stated rather than derived. Flowers run household → garden → wild → exotic, and
@@ -50,6 +50,20 @@ with the close-up first, which is the opposite of what was intended and makes
 no difference in play, since the game picks one at random and **Bad photo**
 cycles them.
 
+**Countries give their own hints.** A flag or an outline hands over, in order:
+the **continent**, then roughly **where its capital is** — computed from the
+capital's position inside the country, so "in the north-east of the country" —
+then the **capital's name**. Only after those does it start on the letters, and
+the blanks stay hidden until that hint is bought, so the continent does not
+give away the length of the answer.
+
+Natural Earth's capitals needed correcting in nine places. It still gives Dar
+es Salaam for Tanzania, which stopped being the capital in 1996, and Bujumbura
+for Burundi, which stopped in 2019; for countries with more than one capital it
+picks the least expected, offering Bloemfontein for South Africa. It also files
+Kyoto as an "Admin-0 capital alt" for Japan, which a careless match reads as the
+capital. Those are listed in `scripts/things/countries.py`.
+
 **Country names are current, and the old ones still answer.** Flags and
 outlines used to take their names from different places and disagreed: Czechia
 against Czech Republic, Timor-Leste against East Timor, Côte d'Ivoire against
@@ -66,8 +80,15 @@ of ours: no country code, not a country. That needed care — the obvious
 using it would have deleted them; `ISO_A2_EH` is the corrected one and keeps
 France, Norway and Taiwan.
 
-**Every country's flag is there**, checked rather than assumed: all 202
-countries carrying an ISO code have one, and all 249 flag images return 200.
+**Every country's flag is there**, checked rather than assumed: all countries
+carrying an ISO code have one, and all 249 flag images return 200. Outlines and
+flags are joined on that code, so all 238 outlines have a matching flag and
+take their name from it.
+
+Having an ISO code is the whole test for being a country here. Natural Earth's
+own `TYPE` field cannot carry that job: Kazakhstan is filed as "Sovereignty"
+rather than "Sovereign country", and testing `TYPE` silently lost it along with
+41 others — Israel, Cuba and Serbia among them.
 
 Flowers and trees are real photographs by real people, credited, exactly as
 the animals are. "Flower" and "tree" are not ranks of taxonomy, so membership
@@ -79,13 +100,23 @@ Flags and outlines are not photographs, and the game says *Source* rather than
 files under `data/things/`, from public data. Nothing is AI-generated, here or
 in the animal game.
 
-The outlines come from Natural Earth's **10m** geometry — 66 times the detail
-of the 110m set they started on, which drew coastlines as polygons. Rather
-than ship half a million points, each country is simplified **in screen
-space**: the tolerance is in pixels at the size the outline is actually drawn,
-so every vertex a player could see is kept and the rest goes. That takes
-480,000 source points down to 174,000 drawn, and leaves Ireland's west coast
-ragged and the Philippines islands distinct.
+The outlines come from **geoBoundaries CGAZ**, which is built from national
+sources: 9.9 million points against Natural Earth 10m's 493,000, about twenty
+times the detail. Natural Earth was the ceiling before — France is only 3,672
+points there, and at *no* simplification at all it is 3,667, so the coastline
+read as a polygon no matter what was done to it. The CGAZ file is 383 MB, so
+the build streams it a country at a time (each line of it is one country) and
+reduces each to screen-ready rings immediately, never holding the world at
+full detail.
+
+Each country is then simplified **in screen space**: the tolerance is in pixels
+of the 400×300 board an outline is drawn on, and the photo frame is about 1.6×
+that with full screen perhaps 4×. At 0.08 that is a third of a pixel at the
+largest anyone will see, so everything visible survives and the files stay a
+third of the size of keeping it all — 539,000 points drawn, about three times
+what Natural Earth could give.
+
+Where CGAZ has no entry, 41 countries fall back to Natural Earth.
 
 **Distant territories.** France carries French Guiana and Réunion, and left in,
 the bounding box spans the planet and France itself is a speck. But a plain

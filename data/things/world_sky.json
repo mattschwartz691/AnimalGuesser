@@ -5,6 +5,20 @@
   "group": "Flag",
   "name": "Andorra",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Andorra"
+   }
+  ],
   "aliases": [
    "andorra"
   ],
@@ -25,6 +39,20 @@
   "group": "Flag",
   "name": "United Arab Emirates",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Abu Dhabi"
+   }
+  ],
   "aliases": [
    "uae",
    "united arab emirates"
@@ -46,6 +74,20 @@
   "group": "Flag",
   "name": "Afghanistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kabul"
+   }
+  ],
   "aliases": [
    "afghanistan"
   ],
@@ -66,6 +108,20 @@
   "group": "Flag",
   "name": "Antigua and Barbuda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Saint John's"
+   }
+  ],
   "aliases": [
    "antigua and barbuda"
   ],
@@ -86,6 +142,12 @@
   "group": "Flag",
   "name": "Anguilla",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "anguilla"
   ],
@@ -106,6 +168,20 @@
   "group": "Flag",
   "name": "Albania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tirana"
+   }
+  ],
   "aliases": [
    "albania"
   ],
@@ -126,6 +202,20 @@
   "group": "Flag",
   "name": "Armenia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yerevan"
+   }
+  ],
   "aliases": [
    "armenia"
   ],
@@ -146,6 +236,20 @@
   "group": "Flag",
   "name": "Angola",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Luanda"
+   }
+  ],
   "aliases": [
    "angola"
   ],
@@ -166,6 +270,20 @@
   "group": "Flag",
   "name": "Argentina",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Buenos Aires"
+   }
+  ],
   "aliases": [
    "argentina"
   ],
@@ -186,6 +304,12 @@
   "group": "Flag",
   "name": "American Samoa",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "american samoa"
   ],
@@ -206,6 +330,20 @@
   "group": "Flag",
   "name": "Austria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vienna"
+   }
+  ],
   "aliases": [
    "austria"
   ],
@@ -226,6 +364,20 @@
   "group": "Flag",
   "name": "Australia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Canberra"
+   }
+  ],
   "aliases": [
    "australia"
   ],
@@ -246,6 +398,12 @@
   "group": "Flag",
   "name": "Aruba",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "aruba"
   ],
@@ -266,6 +424,12 @@
   "group": "Flag",
   "name": "\u00c5land Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "\u00e5land islands"
   ],
@@ -286,6 +450,20 @@
   "group": "Flag",
   "name": "Azerbaijan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Baku"
+   }
+  ],
   "aliases": [
    "azerbaijan"
   ],
@@ -306,6 +484,20 @@
   "group": "Flag",
   "name": "Bosnia and Herzegovina",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sarajevo"
+   }
+  ],
   "aliases": [
    "bosnia and herzegovina"
   ],
@@ -326,6 +518,20 @@
   "group": "Flag",
   "name": "Barbados",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bridgetown"
+   }
+  ],
   "aliases": [
    "barbados"
   ],
@@ -346,6 +552,20 @@
   "group": "Flag",
   "name": "Bangladesh",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dhaka"
+   }
+  ],
   "aliases": [
    "bangladesh"
   ],
@@ -366,6 +586,20 @@
   "group": "Flag",
   "name": "Belgium",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Brussels"
+   }
+  ],
   "aliases": [
    "belgium"
   ],
@@ -386,6 +620,20 @@
   "group": "Flag",
   "name": "Burkina Faso",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ouagadougou"
+   }
+  ],
   "aliases": [
    "burkina faso",
    "upper volta"
@@ -407,6 +655,20 @@
   "group": "Flag",
   "name": "Bulgaria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sofia"
+   }
+  ],
   "aliases": [
    "bulgaria"
   ],
@@ -427,6 +689,20 @@
   "group": "Flag",
   "name": "Bahrain",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Manama"
+   }
+  ],
   "aliases": [
    "bahrain"
   ],
@@ -447,6 +723,20 @@
   "group": "Flag",
   "name": "Burundi",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Gitega"
+   }
+  ],
   "aliases": [
    "burundi"
   ],
@@ -467,6 +757,20 @@
   "group": "Flag",
   "name": "Benin",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Porto-Novo"
+   }
+  ],
   "aliases": [
    "benin",
    "dahomey"
@@ -488,6 +792,12 @@
   "group": "Flag",
   "name": "Saint Barth\u00e9lemy",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "saint barth\u00e9lemy",
    "st barth\u00e9lemy",
@@ -510,6 +820,12 @@
   "group": "Flag",
   "name": "Bermuda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "bermuda"
   ],
@@ -530,6 +846,20 @@
   "group": "Flag",
   "name": "Brunei",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bandar Seri Begawan"
+   }
+  ],
   "aliases": [
    "brunei"
   ],
@@ -550,6 +880,20 @@
   "group": "Flag",
   "name": "Bolivia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "La Paz"
+   }
+  ],
   "aliases": [
    "bolivia"
   ],
@@ -570,6 +914,7 @@
   "group": "Flag",
   "name": "Caribbean Netherlands",
   "sci": "",
+  "facts": [],
   "aliases": [
    "caribbean netherlands"
   ],
@@ -590,6 +935,20 @@
   "group": "Flag",
   "name": "Brazil",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bras\u00edlia"
+   }
+  ],
   "aliases": [
    "brazil"
   ],
@@ -610,6 +969,20 @@
   "group": "Flag",
   "name": "Bahamas",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nassau"
+   }
+  ],
   "aliases": [
    "bahamas",
    "the bahamas"
@@ -631,6 +1004,20 @@
   "group": "Flag",
   "name": "Bhutan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Thimphu"
+   }
+  ],
   "aliases": [
    "bhutan"
   ],
@@ -651,6 +1038,7 @@
   "group": "Flag",
   "name": "Bouvet Island",
   "sci": "",
+  "facts": [],
   "aliases": [
    "bouvet island"
   ],
@@ -671,6 +1059,20 @@
   "group": "Flag",
   "name": "Botswana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Gaborone"
+   }
+  ],
   "aliases": [
    "bechuanaland",
    "botswana"
@@ -692,6 +1094,20 @@
   "group": "Flag",
   "name": "Belarus",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Minsk"
+   }
+  ],
   "aliases": [
    "belarus"
   ],
@@ -712,6 +1128,20 @@
   "group": "Flag",
   "name": "Belize",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Belmopan"
+   }
+  ],
   "aliases": [
    "belize",
    "british honduras"
@@ -733,6 +1163,20 @@
   "group": "Flag",
   "name": "Canada",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ottawa"
+   }
+  ],
   "aliases": [
    "canada"
   ],
@@ -753,6 +1197,7 @@
   "group": "Flag",
   "name": "Cocos (Keeling) Islands",
   "sci": "",
+  "facts": [],
   "aliases": [
    "cocos (keeling) islands"
   ],
@@ -773,6 +1218,20 @@
   "group": "Flag",
   "name": "Democratic Republic of the Congo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kinshasa"
+   }
+  ],
   "aliases": [
    "congo kinshasa",
    "democratic republic of the congo",
@@ -797,6 +1256,20 @@
   "group": "Flag",
   "name": "Central African Republic",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bangui"
+   }
+  ],
   "aliases": [
    "central african republic"
   ],
@@ -817,6 +1290,20 @@
   "group": "Flag",
   "name": "Republic of the Congo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Brazzaville"
+   }
+  ],
   "aliases": [
    "congo",
    "congo brazzaville",
@@ -839,6 +1326,20 @@
   "group": "Flag",
   "name": "Switzerland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bern"
+   }
+  ],
   "aliases": [
    "switzerland"
   ],
@@ -859,6 +1360,20 @@
   "group": "Flag",
   "name": "C\u00f4te d'Ivoire",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yamoussoukro"
+   }
+  ],
   "aliases": [
    "c\u00f4te d'ivoire",
    "ivory coast"
@@ -880,6 +1395,12 @@
   "group": "Flag",
   "name": "Cook Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "cook islands"
   ],
@@ -900,6 +1421,20 @@
   "group": "Flag",
   "name": "Chile",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Santiago"
+   }
+  ],
   "aliases": [
    "chile"
   ],
@@ -920,6 +1455,20 @@
   "group": "Flag",
   "name": "Cameroon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yaound\u00e9"
+   }
+  ],
   "aliases": [
    "cameroon"
   ],
@@ -940,6 +1489,20 @@
   "group": "Flag",
   "name": "China",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Beijing"
+   }
+  ],
   "aliases": [
    "china",
    "peoples republic of china",
@@ -962,6 +1525,20 @@
   "group": "Flag",
   "name": "Colombia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bogota"
+   }
+  ],
   "aliases": [
    "colombia"
   ],
@@ -982,6 +1559,20 @@
   "group": "Flag",
   "name": "Costa Rica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Jos\u00e9"
+   }
+  ],
   "aliases": [
    "costa rica"
   ],
@@ -1002,6 +1593,20 @@
   "group": "Flag",
   "name": "Cuba",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Havana"
+   }
+  ],
   "aliases": [
    "cuba"
   ],
@@ -1022,6 +1627,20 @@
   "group": "Flag",
   "name": "Cabo Verde",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Praia"
+   }
+  ],
   "aliases": [
    "cabo verde",
    "cape verde"
@@ -1043,6 +1662,12 @@
   "group": "Flag",
   "name": "Cura\u00e7ao",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "cura\u00e7ao"
   ],
@@ -1063,6 +1688,7 @@
   "group": "Flag",
   "name": "Christmas Island",
   "sci": "",
+  "facts": [],
   "aliases": [
    "christmas island"
   ],
@@ -1083,6 +1709,20 @@
   "group": "Flag",
   "name": "Cyprus",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nicosia"
+   }
+  ],
   "aliases": [
    "cyprus"
   ],
@@ -1103,6 +1743,20 @@
   "group": "Flag",
   "name": "Czechia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Prague"
+   }
+  ],
   "aliases": [
    "czech republic",
    "czechia"
@@ -1124,6 +1778,20 @@
   "group": "Flag",
   "name": "Germany",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Berlin"
+   }
+  ],
   "aliases": [
    "germany"
   ],
@@ -1144,6 +1812,20 @@
   "group": "Flag",
   "name": "Djibouti",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Djibouti"
+   }
+  ],
   "aliases": [
    "djibouti",
    "french somaliland"
@@ -1165,6 +1847,20 @@
   "group": "Flag",
   "name": "Denmark",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "K\u00f8benhavn"
+   }
+  ],
   "aliases": [
    "denmark"
   ],
@@ -1185,6 +1881,20 @@
   "group": "Flag",
   "name": "Dominica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Roseau"
+   }
+  ],
   "aliases": [
    "dominica"
   ],
@@ -1205,6 +1915,20 @@
   "group": "Flag",
   "name": "Dominican Republic",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Santo Domingo"
+   }
+  ],
   "aliases": [
    "dominican republic"
   ],
@@ -1225,6 +1949,20 @@
   "group": "Flag",
   "name": "Algeria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Algiers"
+   }
+  ],
   "aliases": [
    "algeria"
   ],
@@ -1245,6 +1983,20 @@
   "group": "Flag",
   "name": "Ecuador",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Quito"
+   }
+  ],
   "aliases": [
    "ecuador"
   ],
@@ -1265,6 +2017,20 @@
   "group": "Flag",
   "name": "Estonia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tallinn"
+   }
+  ],
   "aliases": [
    "estonia"
   ],
@@ -1285,6 +2051,20 @@
   "group": "Flag",
   "name": "Egypt",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Cairo"
+   }
+  ],
   "aliases": [
    "egypt"
   ],
@@ -1305,6 +2085,12 @@
   "group": "Flag",
   "name": "Western Sahara",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   }
+  ],
   "aliases": [
    "western sahara"
   ],
@@ -1325,6 +2111,20 @@
   "group": "Flag",
   "name": "Eritrea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Asmara"
+   }
+  ],
   "aliases": [
    "eritrea"
   ],
@@ -1345,6 +2145,20 @@
   "group": "Flag",
   "name": "Spain",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Madrid"
+   }
+  ],
   "aliases": [
    "spain"
   ],
@@ -1365,6 +2179,20 @@
   "group": "Flag",
   "name": "Ethiopia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Addis Ababa"
+   }
+  ],
   "aliases": [
    "abyssinia",
    "ethiopia"
@@ -1386,6 +2214,20 @@
   "group": "Flag",
   "name": "Finland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Helsinki"
+   }
+  ],
   "aliases": [
    "finland"
   ],
@@ -1406,6 +2248,20 @@
   "group": "Flag",
   "name": "Fiji",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Suva"
+   }
+  ],
   "aliases": [
    "fiji"
   ],
@@ -1426,6 +2282,12 @@
   "group": "Flag",
   "name": "Falkland Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   }
+  ],
   "aliases": [
    "falkland islands"
   ],
@@ -1446,6 +2308,20 @@
   "group": "Flag",
   "name": "Micronesia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Palikir"
+   }
+  ],
   "aliases": [
    "federated states of micronesia",
    "micronesia"
@@ -1467,6 +2343,12 @@
   "group": "Flag",
   "name": "Faroe Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "faroe islands"
   ],
@@ -1483,10 +2365,24 @@
  },
  {
   "id": 900074,
-  "tier": "death",
+  "tier": "easy",
   "group": "Flag",
   "name": "France",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Paris"
+   }
+  ],
   "aliases": [
    "france"
   ],
@@ -1507,6 +2403,20 @@
   "group": "Flag",
   "name": "Gabon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Libreville"
+   }
+  ],
   "aliases": [
    "gabon"
   ],
@@ -1527,6 +2437,20 @@
   "group": "Flag",
   "name": "United Kingdom",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "London"
+   }
+  ],
   "aliases": [
    "britain",
    "england",
@@ -1551,6 +2475,20 @@
   "group": "Flag",
   "name": "Grenada",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Saint George's"
+   }
+  ],
   "aliases": [
    "grenada"
   ],
@@ -1571,6 +2509,20 @@
   "group": "Flag",
   "name": "Georgia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tbilisi"
+   }
+  ],
   "aliases": [
    "georgia"
   ],
@@ -1591,6 +2543,7 @@
   "group": "Flag",
   "name": "French Guiana",
   "sci": "",
+  "facts": [],
   "aliases": [
    "french guiana"
   ],
@@ -1611,6 +2564,12 @@
   "group": "Flag",
   "name": "Guernsey",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "guernsey"
   ],
@@ -1631,6 +2590,20 @@
   "group": "Flag",
   "name": "Ghana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Accra"
+   }
+  ],
   "aliases": [
    "ghana"
   ],
@@ -1651,6 +2624,12 @@
   "group": "Flag",
   "name": "Gibraltar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "gibraltar"
   ],
@@ -1671,6 +2650,12 @@
   "group": "Flag",
   "name": "Greenland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "greenland"
   ],
@@ -1691,6 +2676,20 @@
   "group": "Flag",
   "name": "Gambia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Banjul"
+   }
+  ],
   "aliases": [
    "gambia",
    "the gambia"
@@ -1712,6 +2711,20 @@
   "group": "Flag",
   "name": "Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Conakry"
+   }
+  ],
   "aliases": [
    "guinea"
   ],
@@ -1732,6 +2745,7 @@
   "group": "Flag",
   "name": "Guadeloupe",
   "sci": "",
+  "facts": [],
   "aliases": [
    "guadeloupe"
   ],
@@ -1752,6 +2766,20 @@
   "group": "Flag",
   "name": "Equatorial Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Malabo"
+   }
+  ],
   "aliases": [
    "equatorial guinea",
    "spanish guinea"
@@ -1773,6 +2801,20 @@
   "group": "Flag",
   "name": "Greece",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Athens"
+   }
+  ],
   "aliases": [
    "greece"
   ],
@@ -1793,6 +2835,12 @@
   "group": "Flag",
   "name": "South Georgia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
   "aliases": [
    "south georgia"
   ],
@@ -1813,6 +2861,20 @@
   "group": "Flag",
   "name": "Guatemala",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Guatemala City"
+   }
+  ],
   "aliases": [
    "guatemala"
   ],
@@ -1833,6 +2895,12 @@
   "group": "Flag",
   "name": "Guam",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "guam"
   ],
@@ -1853,6 +2921,20 @@
   "group": "Flag",
   "name": "Guinea-Bissau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bissau"
+   }
+  ],
   "aliases": [
    "guinea-bissau"
   ],
@@ -1873,6 +2955,20 @@
   "group": "Flag",
   "name": "Guyana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Georgetown"
+   }
+  ],
   "aliases": [
    "british guiana",
    "guyana"
@@ -1894,6 +2990,12 @@
   "group": "Flag",
   "name": "Hong Kong",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
   "aliases": [
    "hong kong"
   ],
@@ -1914,6 +3016,12 @@
   "group": "Flag",
   "name": "Heard Island and McDonald Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
   "aliases": [
    "heard island and mcdonald islands"
   ],
@@ -1934,6 +3042,20 @@
   "group": "Flag",
   "name": "Honduras",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tegucigalpa"
+   }
+  ],
   "aliases": [
    "honduras"
   ],
@@ -1954,6 +3076,20 @@
   "group": "Flag",
   "name": "Croatia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Zagreb"
+   }
+  ],
   "aliases": [
    "croatia"
   ],
@@ -1974,6 +3110,20 @@
   "group": "Flag",
   "name": "Haiti",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port-au-Prince"
+   }
+  ],
   "aliases": [
    "haiti"
   ],
@@ -1994,6 +3144,20 @@
   "group": "Flag",
   "name": "Hungary",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Budapest"
+   }
+  ],
   "aliases": [
    "hungary"
   ],
@@ -2014,6 +3178,20 @@
   "group": "Flag",
   "name": "Indonesia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Jakarta"
+   }
+  ],
   "aliases": [
    "indonesia"
   ],
@@ -2034,6 +3212,20 @@
   "group": "Flag",
   "name": "Ireland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dublin"
+   }
+  ],
   "aliases": [
    "ireland"
   ],
@@ -2054,6 +3246,20 @@
   "group": "Flag",
   "name": "Israel",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Jerusalem"
+   }
+  ],
   "aliases": [
    "israel"
   ],
@@ -2074,6 +3280,12 @@
   "group": "Flag",
   "name": "Isle of Man",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "isle of man"
   ],
@@ -2094,6 +3306,20 @@
   "group": "Flag",
   "name": "India",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "New Delhi"
+   }
+  ],
   "aliases": [
    "india"
   ],
@@ -2114,6 +3340,12 @@
   "group": "Flag",
   "name": "British Indian Ocean Territory",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
   "aliases": [
    "british indian ocean territory"
   ],
@@ -2134,6 +3366,20 @@
   "group": "Flag",
   "name": "Iraq",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Baghdad"
+   }
+  ],
   "aliases": [
    "iraq"
   ],
@@ -2154,6 +3400,20 @@
   "group": "Flag",
   "name": "Iran",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tehran"
+   }
+  ],
   "aliases": [
    "iran",
    "persia"
@@ -2175,6 +3435,20 @@
   "group": "Flag",
   "name": "Iceland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Reykjav\u00edk"
+   }
+  ],
   "aliases": [
    "iceland"
   ],
@@ -2195,6 +3469,20 @@
   "group": "Flag",
   "name": "Italy",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Rome"
+   }
+  ],
   "aliases": [
    "italy"
   ],
@@ -2215,6 +3503,12 @@
   "group": "Flag",
   "name": "Jersey",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "jersey"
   ],
@@ -2235,6 +3529,20 @@
   "group": "Flag",
   "name": "Jamaica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kingston"
+   }
+  ],
   "aliases": [
    "jamaica"
   ],
@@ -2255,6 +3563,20 @@
   "group": "Flag",
   "name": "Jordan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Amman"
+   }
+  ],
   "aliases": [
    "jordan"
   ],
@@ -2275,6 +3597,20 @@
   "group": "Flag",
   "name": "Japan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tokyo"
+   }
+  ],
   "aliases": [
    "japan"
   ],
@@ -2295,6 +3631,20 @@
   "group": "Flag",
   "name": "Kenya",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nairobi"
+   }
+  ],
   "aliases": [
    "kenya"
   ],
@@ -2315,6 +3665,20 @@
   "group": "Flag",
   "name": "Kyrgyzstan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bishkek"
+   }
+  ],
   "aliases": [
    "kyrgyzstan"
   ],
@@ -2335,6 +3699,20 @@
   "group": "Flag",
   "name": "Cambodia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Phnom Penh"
+   }
+  ],
   "aliases": [
    "cambodia",
    "kampuchea"
@@ -2356,6 +3734,20 @@
   "group": "Flag",
   "name": "Kiribati",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tarawa"
+   }
+  ],
   "aliases": [
    "kiribati"
   ],
@@ -2376,6 +3768,20 @@
   "group": "Flag",
   "name": "Comoros",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Moroni"
+   }
+  ],
   "aliases": [
    "comoros"
   ],
@@ -2396,6 +3802,20 @@
   "group": "Flag",
   "name": "Saint Kitts and Nevis",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Basseterre"
+   }
+  ],
   "aliases": [
    "saint kitts and nevis",
    "st kitts and nevis",
@@ -2418,6 +3838,20 @@
   "group": "Flag",
   "name": "North Korea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Pyongyang"
+   }
+  ],
   "aliases": [
    "democratic peoples republic of korea",
    "dprk",
@@ -2440,6 +3874,20 @@
   "group": "Flag",
   "name": "South Korea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Seoul"
+   }
+  ],
   "aliases": [
    "republic of korea",
    "south korea"
@@ -2461,6 +3909,20 @@
   "group": "Flag",
   "name": "Kuwait",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kuwait City"
+   }
+  ],
   "aliases": [
    "kuwait"
   ],
@@ -2481,6 +3943,12 @@
   "group": "Flag",
   "name": "Cayman Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "cayman islands"
   ],
@@ -2501,6 +3969,20 @@
   "group": "Flag",
   "name": "Kazakhstan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Astana"
+   }
+  ],
   "aliases": [
    "kazakhstan"
   ],
@@ -2521,6 +4003,20 @@
   "group": "Flag",
   "name": "Laos",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vientiane"
+   }
+  ],
   "aliases": [
    "lao",
    "lao pdr",
@@ -2543,6 +4039,20 @@
   "group": "Flag",
   "name": "Lebanon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Beirut"
+   }
+  ],
   "aliases": [
    "lebanon"
   ],
@@ -2563,6 +4073,20 @@
   "group": "Flag",
   "name": "Saint Lucia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Castries"
+   }
+  ],
   "aliases": [
    "saint lucia",
    "st lucia",
@@ -2585,6 +4109,20 @@
   "group": "Flag",
   "name": "Liechtenstein",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vaduz"
+   }
+  ],
   "aliases": [
    "liechtenstein"
   ],
@@ -2605,6 +4143,20 @@
   "group": "Flag",
   "name": "Sri Lanka",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Colombo"
+   }
+  ],
   "aliases": [
    "ceylon",
    "sri lanka"
@@ -2626,6 +4178,20 @@
   "group": "Flag",
   "name": "Liberia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Monrovia"
+   }
+  ],
   "aliases": [
    "liberia"
   ],
@@ -2646,6 +4212,20 @@
   "group": "Flag",
   "name": "Lesotho",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Maseru"
+   }
+  ],
   "aliases": [
    "basutoland",
    "lesotho"
@@ -2667,6 +4247,20 @@
   "group": "Flag",
   "name": "Lithuania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vilnius"
+   }
+  ],
   "aliases": [
    "lithuania"
   ],
@@ -2687,6 +4281,20 @@
   "group": "Flag",
   "name": "Luxembourg",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Luxembourg"
+   }
+  ],
   "aliases": [
    "luxembourg"
   ],
@@ -2707,6 +4315,20 @@
   "group": "Flag",
   "name": "Latvia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Riga"
+   }
+  ],
   "aliases": [
    "latvia"
   ],
@@ -2727,6 +4349,20 @@
   "group": "Flag",
   "name": "Libya",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tripoli"
+   }
+  ],
   "aliases": [
    "libya"
   ],
@@ -2747,6 +4383,20 @@
   "group": "Flag",
   "name": "Morocco",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Rabat"
+   }
+  ],
   "aliases": [
    "morocco"
   ],
@@ -2767,6 +4417,20 @@
   "group": "Flag",
   "name": "Monaco",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Monaco"
+   }
+  ],
   "aliases": [
    "monaco"
   ],
@@ -2787,6 +4451,20 @@
   "group": "Flag",
   "name": "Moldova",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Chi\u0219in\u0103u"
+   }
+  ],
   "aliases": [
    "moldova"
   ],
@@ -2807,6 +4485,20 @@
   "group": "Flag",
   "name": "Montenegro",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Podgorica"
+   }
+  ],
   "aliases": [
    "montenegro"
   ],
@@ -2827,6 +4519,12 @@
   "group": "Flag",
   "name": "Saint Martin",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "saint martin",
    "st martin",
@@ -2849,6 +4547,20 @@
   "group": "Flag",
   "name": "Madagascar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Antananarivo"
+   }
+  ],
   "aliases": [
    "madagascar"
   ],
@@ -2869,6 +4581,20 @@
   "group": "Flag",
   "name": "Marshall Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Majuro"
+   }
+  ],
   "aliases": [
    "marshall islands"
   ],
@@ -2889,6 +4615,20 @@
   "group": "Flag",
   "name": "North Macedonia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Skopje"
+   }
+  ],
   "aliases": [
    "fyrom",
    "macedonia",
@@ -2911,6 +4651,20 @@
   "group": "Flag",
   "name": "Mali",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bamako"
+   }
+  ],
   "aliases": [
    "french sudan",
    "mali"
@@ -2932,6 +4686,20 @@
   "group": "Flag",
   "name": "Myanmar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Naypyidaw"
+   }
+  ],
   "aliases": [
    "burma",
    "myanmar"
@@ -2953,6 +4721,20 @@
   "group": "Flag",
   "name": "Mongolia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ulaanbaatar"
+   }
+  ],
   "aliases": [
    "mongolia"
   ],
@@ -2973,6 +4755,12 @@
   "group": "Flag",
   "name": "Macau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
   "aliases": [
    "macau"
   ],
@@ -2993,6 +4781,12 @@
   "group": "Flag",
   "name": "Northern Mariana Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "northern mariana islands"
   ],
@@ -3013,6 +4807,7 @@
   "group": "Flag",
   "name": "Martinique",
   "sci": "",
+  "facts": [],
   "aliases": [
    "martinique"
   ],
@@ -3033,6 +4828,20 @@
   "group": "Flag",
   "name": "Mauritania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nouakchott"
+   }
+  ],
   "aliases": [
    "mauritania"
   ],
@@ -3053,6 +4862,12 @@
   "group": "Flag",
   "name": "Montserrat",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "montserrat"
   ],
@@ -3073,6 +4888,20 @@
   "group": "Flag",
   "name": "Malta",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Valletta"
+   }
+  ],
   "aliases": [
    "malta"
   ],
@@ -3093,6 +4922,20 @@
   "group": "Flag",
   "name": "Mauritius",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Louis"
+   }
+  ],
   "aliases": [
    "mauritius"
   ],
@@ -3113,6 +4956,20 @@
   "group": "Flag",
   "name": "Maldives",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mal\u00e9"
+   }
+  ],
   "aliases": [
    "maldives"
   ],
@@ -3133,6 +4990,20 @@
   "group": "Flag",
   "name": "Malawi",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lilongwe"
+   }
+  ],
   "aliases": [
    "malawi",
    "nyasaland"
@@ -3154,6 +5025,20 @@
   "group": "Flag",
   "name": "Mexico",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mexico City"
+   }
+  ],
   "aliases": [
    "mexico"
   ],
@@ -3174,6 +5059,20 @@
   "group": "Flag",
   "name": "Malaysia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kuala Lumpur"
+   }
+  ],
   "aliases": [
    "malaysia"
   ],
@@ -3194,6 +5093,20 @@
   "group": "Flag",
   "name": "Mozambique",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Maputo"
+   }
+  ],
   "aliases": [
    "mozambique"
   ],
@@ -3214,6 +5127,20 @@
   "group": "Flag",
   "name": "Namibia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Windhoek"
+   }
+  ],
   "aliases": [
    "namibia"
   ],
@@ -3234,6 +5161,12 @@
   "group": "Flag",
   "name": "New Caledonia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "new caledonia"
   ],
@@ -3254,6 +5187,20 @@
   "group": "Flag",
   "name": "Niger",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Niamey"
+   }
+  ],
   "aliases": [
    "niger",
    "niger republic"
@@ -3275,6 +5222,12 @@
   "group": "Flag",
   "name": "Norfolk Island",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "norfolk island"
   ],
@@ -3295,6 +5248,20 @@
   "group": "Flag",
   "name": "Nigeria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Abuja"
+   }
+  ],
   "aliases": [
    "nigeria"
   ],
@@ -3315,6 +5282,20 @@
   "group": "Flag",
   "name": "Nicaragua",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Managua"
+   }
+  ],
   "aliases": [
    "nicaragua"
   ],
@@ -3335,6 +5316,20 @@
   "group": "Flag",
   "name": "Netherlands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Amsterdam"
+   }
+  ],
   "aliases": [
    "holland",
    "netherlands"
@@ -3352,10 +5347,24 @@
  },
  {
   "id": 900166,
-  "tier": "death",
+  "tier": "hard",
   "group": "Flag",
   "name": "Norway",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Oslo"
+   }
+  ],
   "aliases": [
    "norway"
   ],
@@ -3376,6 +5385,20 @@
   "group": "Flag",
   "name": "Nepal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kathmandu"
+   }
+  ],
   "aliases": [
    "nepal"
   ],
@@ -3396,6 +5419,12 @@
   "group": "Flag",
   "name": "Nauru",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "nauru"
   ],
@@ -3416,6 +5445,12 @@
   "group": "Flag",
   "name": "Niue",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "niue"
   ],
@@ -3436,6 +5471,20 @@
   "group": "Flag",
   "name": "New Zealand",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Wellington"
+   }
+  ],
   "aliases": [
    "new zealand"
   ],
@@ -3456,6 +5505,20 @@
   "group": "Flag",
   "name": "Oman",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Muscat"
+   }
+  ],
   "aliases": [
    "oman"
   ],
@@ -3476,6 +5539,20 @@
   "group": "Flag",
   "name": "Panama",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Panama City"
+   }
+  ],
   "aliases": [
    "panama"
   ],
@@ -3496,6 +5573,20 @@
   "group": "Flag",
   "name": "Peru",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lima"
+   }
+  ],
   "aliases": [
    "peru"
   ],
@@ -3516,6 +5607,12 @@
   "group": "Flag",
   "name": "French Polynesia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "french polynesia"
   ],
@@ -3536,6 +5633,20 @@
   "group": "Flag",
   "name": "Papua New Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Moresby"
+   }
+  ],
   "aliases": [
    "papua new guinea"
   ],
@@ -3556,6 +5667,20 @@
   "group": "Flag",
   "name": "Philippines",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Manila"
+   }
+  ],
   "aliases": [
    "philippines"
   ],
@@ -3576,6 +5701,20 @@
   "group": "Flag",
   "name": "Pakistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Islamabad"
+   }
+  ],
   "aliases": [
    "pakistan"
   ],
@@ -3596,6 +5735,20 @@
   "group": "Flag",
   "name": "Poland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Warsaw"
+   }
+  ],
   "aliases": [
    "poland"
   ],
@@ -3616,6 +5769,12 @@
   "group": "Flag",
   "name": "Saint Pierre and Miquelon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "saint pierre and miquelon",
    "st pierre and miquelon",
@@ -3638,6 +5797,12 @@
   "group": "Flag",
   "name": "Pitcairn Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "pitcairn islands"
   ],
@@ -3658,6 +5823,12 @@
   "group": "Flag",
   "name": "Puerto Rico",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "puerto rico"
   ],
@@ -3678,6 +5849,12 @@
   "group": "Flag",
   "name": "Palestine",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
   "aliases": [
    "palestine"
   ],
@@ -3698,6 +5875,20 @@
   "group": "Flag",
   "name": "Portugal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lisbon"
+   }
+  ],
   "aliases": [
    "portugal"
   ],
@@ -3718,6 +5909,20 @@
   "group": "Flag",
   "name": "Palau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ngerulmud"
+   }
+  ],
   "aliases": [
    "palau"
   ],
@@ -3738,6 +5943,20 @@
   "group": "Flag",
   "name": "Paraguay",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Asunci\u00f3n"
+   }
+  ],
   "aliases": [
    "paraguay"
   ],
@@ -3758,6 +5977,20 @@
   "group": "Flag",
   "name": "Qatar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Doha"
+   }
+  ],
   "aliases": [
    "qatar"
   ],
@@ -3778,6 +6011,7 @@
   "group": "Flag",
   "name": "R\u00e9union",
   "sci": "",
+  "facts": [],
   "aliases": [
    "r\u00e9union"
   ],
@@ -3798,6 +6032,20 @@
   "group": "Flag",
   "name": "Romania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bucharest"
+   }
+  ],
   "aliases": [
    "romania"
   ],
@@ -3818,6 +6066,20 @@
   "group": "Flag",
   "name": "Serbia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Belgrade"
+   }
+  ],
   "aliases": [
    "serbia"
   ],
@@ -3838,6 +6100,20 @@
   "group": "Flag",
   "name": "Russia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Moscow"
+   }
+  ],
   "aliases": [
    "russia",
    "russian federation"
@@ -3859,6 +6135,20 @@
   "group": "Flag",
   "name": "Rwanda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kigali"
+   }
+  ],
   "aliases": [
    "rwanda"
   ],
@@ -3879,6 +6169,20 @@
   "group": "Flag",
   "name": "Saudi Arabia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Riyadh"
+   }
+  ],
   "aliases": [
    "saudi arabia"
   ],
@@ -3899,6 +6203,20 @@
   "group": "Flag",
   "name": "Solomon Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Honiara"
+   }
+  ],
   "aliases": [
    "solomon islands"
   ],
@@ -3919,6 +6237,20 @@
   "group": "Flag",
   "name": "Seychelles",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Victoria"
+   }
+  ],
   "aliases": [
    "seychelles"
   ],
@@ -3939,6 +6271,20 @@
   "group": "Flag",
   "name": "Sudan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Khartoum"
+   }
+  ],
   "aliases": [
    "sudan"
   ],
@@ -3959,6 +6305,20 @@
   "group": "Flag",
   "name": "Sweden",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Stockholm"
+   }
+  ],
   "aliases": [
    "sweden"
   ],
@@ -3979,6 +6339,20 @@
   "group": "Flag",
   "name": "Singapore",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Singapore"
+   }
+  ],
   "aliases": [
    "singapore"
   ],
@@ -3999,6 +6373,12 @@
   "group": "Flag",
   "name": "Saint Helena, Ascension and Tristan da Cunha",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
   "aliases": [
    "saint helena, ascension and tristan da cunha",
    "st helena, ascension and tristan da cunha",
@@ -4021,6 +6401,20 @@
   "group": "Flag",
   "name": "Slovenia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ljubljana"
+   }
+  ],
   "aliases": [
    "slovenia"
   ],
@@ -4041,6 +6435,7 @@
   "group": "Flag",
   "name": "Svalbard and Jan Mayen",
   "sci": "",
+  "facts": [],
   "aliases": [
    "svalbard and jan mayen"
   ],
@@ -4061,6 +6456,20 @@
   "group": "Flag",
   "name": "Slovakia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bratislava"
+   }
+  ],
   "aliases": [
    "slovakia"
   ],
@@ -4081,6 +6490,20 @@
   "group": "Flag",
   "name": "Sierra Leone",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Freetown"
+   }
+  ],
   "aliases": [
    "sierra leone"
   ],
@@ -4101,6 +6524,20 @@
   "group": "Flag",
   "name": "San Marino",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Marino"
+   }
+  ],
   "aliases": [
    "san marino"
   ],
@@ -4121,6 +6558,20 @@
   "group": "Flag",
   "name": "Senegal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dakar"
+   }
+  ],
   "aliases": [
    "senegal"
   ],
@@ -4141,6 +6592,20 @@
   "group": "Flag",
   "name": "Somalia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mogadishu"
+   }
+  ],
   "aliases": [
    "somalia"
   ],
@@ -4161,6 +6626,20 @@
   "group": "Flag",
   "name": "Suriname",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Paramaribo"
+   }
+  ],
   "aliases": [
    "dutch guiana",
    "suriname"
@@ -4182,6 +6661,20 @@
   "group": "Flag",
   "name": "South Sudan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Juba"
+   }
+  ],
   "aliases": [
    "south sudan"
   ],
@@ -4202,6 +6695,20 @@
   "group": "Flag",
   "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "S\u00e3o Tom\u00e9"
+   }
+  ],
   "aliases": [
    "s\u00e3o tom\u00e9 and pr\u00edncipe"
   ],
@@ -4222,6 +6729,20 @@
   "group": "Flag",
   "name": "El Salvador",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Salvador"
+   }
+  ],
   "aliases": [
    "el salvador"
   ],
@@ -4242,6 +6763,12 @@
   "group": "Flag",
   "name": "Sint Maarten",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "sint maarten"
   ],
@@ -4262,6 +6789,20 @@
   "group": "Flag",
   "name": "Syria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Damascus"
+   }
+  ],
   "aliases": [
    "syria",
    "syrian arab republic"
@@ -4283,6 +6824,20 @@
   "group": "Flag",
   "name": "Eswatini",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mbabane"
+   }
+  ],
   "aliases": [
    "eswatini",
    "swaziland"
@@ -4304,6 +6859,12 @@
   "group": "Flag",
   "name": "Turks and Caicos Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "turks and caicos islands"
   ],
@@ -4324,6 +6885,20 @@
   "group": "Flag",
   "name": "Chad",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "N'Djamena"
+   }
+  ],
   "aliases": [
    "chad",
    "chad republic"
@@ -4345,6 +6920,12 @@
   "group": "Flag",
   "name": "French Southern and Antarctic Lands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
   "aliases": [
    "french southern and antarctic lands"
   ],
@@ -4365,6 +6946,20 @@
   "group": "Flag",
   "name": "Togo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lom\u00e9"
+   }
+  ],
   "aliases": [
    "togo"
   ],
@@ -4385,6 +6980,20 @@
   "group": "Flag",
   "name": "Thailand",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bangkok"
+   }
+  ],
   "aliases": [
    "siam",
    "thailand"
@@ -4406,6 +7015,20 @@
   "group": "Flag",
   "name": "Tajikistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dushanbe"
+   }
+  ],
   "aliases": [
    "tajikistan"
   ],
@@ -4426,6 +7049,7 @@
   "group": "Flag",
   "name": "Tokelau",
   "sci": "",
+  "facts": [],
   "aliases": [
    "tokelau"
   ],
@@ -4446,6 +7070,20 @@
   "group": "Flag",
   "name": "Timor-Leste",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dili"
+   }
+  ],
   "aliases": [
    "east timor",
    "timor-leste"
@@ -4467,6 +7105,20 @@
   "group": "Flag",
   "name": "Turkmenistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ashgabat"
+   }
+  ],
   "aliases": [
    "turkmenistan"
   ],
@@ -4487,6 +7139,20 @@
   "group": "Flag",
   "name": "Tunisia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tunis"
+   }
+  ],
   "aliases": [
    "tunisia"
   ],
@@ -4507,6 +7173,20 @@
   "group": "Flag",
   "name": "Tonga",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nuku'alofa"
+   }
+  ],
   "aliases": [
    "tonga"
   ],
@@ -4527,6 +7207,20 @@
   "group": "Flag",
   "name": "T\u00fcrkiye",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ankara"
+   }
+  ],
   "aliases": [
    "turkey",
    "turkiye",
@@ -4549,6 +7243,20 @@
   "group": "Flag",
   "name": "Trinidad and Tobago",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port-of-Spain"
+   }
+  ],
   "aliases": [
    "trinidad and tobago"
   ],
@@ -4569,6 +7277,20 @@
   "group": "Flag",
   "name": "Tuvalu",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Funafuti"
+   }
+  ],
   "aliases": [
    "tuvalu"
   ],
@@ -4585,10 +7307,24 @@
  },
  {
   "id": 900227,
-  "tier": "death",
+  "tier": "medium",
   "group": "Flag",
   "name": "Taiwan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Taipei"
+   }
+  ],
   "aliases": [
    "taiwan"
   ],
@@ -4609,6 +7345,20 @@
   "group": "Flag",
   "name": "Tanzania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dodoma"
+   }
+  ],
   "aliases": [
    "tanzania"
   ],
@@ -4629,6 +7379,20 @@
   "group": "Flag",
   "name": "Ukraine",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kyiv"
+   }
+  ],
   "aliases": [
    "ukraine"
   ],
@@ -4649,6 +7413,20 @@
   "group": "Flag",
   "name": "Uganda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kampala"
+   }
+  ],
   "aliases": [
    "uganda",
    "uganda protectorate"
@@ -4670,6 +7448,12 @@
   "group": "Flag",
   "name": "United States Minor Outlying Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "united states minor outlying islands"
   ],
@@ -4690,6 +7474,20 @@
   "group": "Flag",
   "name": "United States",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Washington,  D.C."
+   }
+  ],
   "aliases": [
    "america",
    "united states",
@@ -4714,6 +7512,20 @@
   "group": "Flag",
   "name": "Uruguay",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Montevideo"
+   }
+  ],
   "aliases": [
    "uruguay"
   ],
@@ -4734,6 +7546,20 @@
   "group": "Flag",
   "name": "Uzbekistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tashkent"
+   }
+  ],
   "aliases": [
    "uzbekistan"
   ],
@@ -4754,6 +7580,20 @@
   "group": "Flag",
   "name": "Vatican City",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vatican City"
+   }
+  ],
   "aliases": [
    "holy see",
    "vatican",
@@ -4776,6 +7616,20 @@
   "group": "Flag",
   "name": "Saint Vincent and the Grenadines",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kingstown"
+   }
+  ],
   "aliases": [
    "saint vincent and the grenadines",
    "st vincent and the grenadines",
@@ -4798,6 +7652,20 @@
   "group": "Flag",
   "name": "Venezuela",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Caracas"
+   }
+  ],
   "aliases": [
    "venezuela"
   ],
@@ -4818,6 +7686,12 @@
   "group": "Flag",
   "name": "British Virgin Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "british virgin islands"
   ],
@@ -4838,6 +7712,12 @@
   "group": "Flag",
   "name": "United States Virgin Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "united states virgin islands"
   ],
@@ -4858,6 +7738,20 @@
   "group": "Flag",
   "name": "Vietnam",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Hanoi"
+   }
+  ],
   "aliases": [
    "vietnam"
   ],
@@ -4878,6 +7772,20 @@
   "group": "Flag",
   "name": "Vanuatu",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Vila"
+   }
+  ],
   "aliases": [
    "new hebrides",
    "vanuatu"
@@ -4899,6 +7807,12 @@
   "group": "Flag",
   "name": "Wallis and Futuna",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "wallis and futuna"
   ],
@@ -4919,6 +7833,20 @@
   "group": "Flag",
   "name": "Samoa",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Apia"
+   }
+  ],
   "aliases": [
    "samoa",
    "western samoa"
@@ -4936,10 +7864,16 @@
  },
  {
   "id": 900244,
-  "tier": "death",
+  "tier": "hard",
   "group": "Flag",
   "name": "Kosovo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "kosovo"
   ],
@@ -4960,6 +7894,20 @@
   "group": "Flag",
   "name": "Yemen",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sanaa"
+   }
+  ],
   "aliases": [
    "yemen"
   ],
@@ -4980,6 +7928,7 @@
   "group": "Flag",
   "name": "Mayotte",
   "sci": "",
+  "facts": [],
   "aliases": [
    "mayotte"
   ],
@@ -5000,6 +7949,20 @@
   "group": "Flag",
   "name": "South Africa",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Pretoria"
+   }
+  ],
   "aliases": [
    "south africa"
   ],
@@ -5020,6 +7983,20 @@
   "group": "Flag",
   "name": "Zambia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lusaka"
+   }
+  ],
   "aliases": [
    "northern rhodesia",
    "zambia"
@@ -5041,6 +8018,20 @@
   "group": "Flag",
   "name": "Zimbabwe",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Harare"
+   }
+  ],
   "aliases": [
    "rhodesia",
    "zimbabwe"
@@ -5062,6 +8053,20 @@
   "group": "Outline",
   "name": "Indonesia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Jakarta"
+   }
+  ],
   "aliases": [
    "indonesia"
   ],
@@ -5082,6 +8087,20 @@
   "group": "Outline",
   "name": "Malaysia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kuala Lumpur"
+   }
+  ],
   "aliases": [
    "malaysia"
   ],
@@ -5102,6 +8121,20 @@
   "group": "Outline",
   "name": "Chile",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Santiago"
+   }
+  ],
   "aliases": [
    "chile"
   ],
@@ -5122,6 +8155,20 @@
   "group": "Outline",
   "name": "Bolivia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "La Paz"
+   }
+  ],
   "aliases": [
    "bolivia"
   ],
@@ -5142,6 +8189,20 @@
   "group": "Outline",
   "name": "Peru",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lima"
+   }
+  ],
   "aliases": [
    "peru"
   ],
@@ -5162,6 +8223,20 @@
   "group": "Outline",
   "name": "Argentina",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Buenos Aires"
+   }
+  ],
   "aliases": [
    "argentina"
   ],
@@ -5182,6 +8257,20 @@
   "group": "Outline",
   "name": "Cyprus",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nicosia"
+   }
+  ],
   "aliases": [
    "cyprus"
   ],
@@ -5202,6 +8291,20 @@
   "group": "Outline",
   "name": "India",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "New Delhi"
+   }
+  ],
   "aliases": [
    "india"
   ],
@@ -5222,6 +8325,20 @@
   "group": "Outline",
   "name": "China",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Beijing"
+   }
+  ],
   "aliases": [
    "china",
    "peoples republic of china",
@@ -5242,8 +8359,82 @@
   "id": 900259,
   "tier": "hard",
   "group": "Outline",
+  "name": "Israel",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Jerusalem"
+   }
+  ],
+  "aliases": [
+   "israel"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/israel.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900260,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Palestine",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
+  "aliases": [
+   "palestine"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/palestine.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900261,
+  "tier": "hard",
+  "group": "Outline",
   "name": "Lebanon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Beirut"
+   }
+  ],
   "aliases": [
    "lebanon"
   ],
@@ -5259,11 +8450,25 @@
   ]
  },
  {
-  "id": 900260,
+  "id": 900262,
   "tier": "easy",
   "group": "Outline",
   "name": "Ethiopia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Addis Ababa"
+   }
+  ],
   "aliases": [
    "abyssinia",
    "ethiopia"
@@ -5280,11 +8485,25 @@
   ]
  },
  {
-  "id": 900261,
+  "id": 900263,
   "tier": "medium",
   "group": "Outline",
   "name": "South Sudan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Juba"
+   }
+  ],
   "aliases": [
    "south sudan"
   ],
@@ -5300,11 +8519,25 @@
   ]
  },
  {
-  "id": 900262,
+  "id": 900264,
   "tier": "medium",
   "group": "Outline",
   "name": "Somalia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mogadishu"
+   }
+  ],
   "aliases": [
    "somalia"
   ],
@@ -5320,11 +8553,25 @@
   ]
  },
  {
-  "id": 900263,
+  "id": 900265,
   "tier": "easy",
   "group": "Outline",
   "name": "Kenya",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nairobi"
+   }
+  ],
   "aliases": [
    "kenya"
   ],
@@ -5340,11 +8587,25 @@
   ]
  },
  {
-  "id": 900264,
+  "id": 900266,
   "tier": "medium",
   "group": "Outline",
   "name": "Malawi",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lilongwe"
+   }
+  ],
   "aliases": [
    "malawi",
    "nyasaland"
@@ -5361,11 +8622,25 @@
   ]
  },
  {
-  "id": 900265,
+  "id": 900267,
   "tier": "easy",
   "group": "Outline",
   "name": "Tanzania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dodoma"
+   }
+  ],
   "aliases": [
    "tanzania"
   ],
@@ -5381,11 +8656,25 @@
   ]
  },
  {
-  "id": 900266,
+  "id": 900268,
   "tier": "medium",
   "group": "Outline",
   "name": "Syria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Damascus"
+   }
+  ],
   "aliases": [
    "syria",
    "syrian arab republic"
@@ -5402,11 +8691,25 @@
   ]
  },
  {
-  "id": 900267,
+  "id": 900269,
   "tier": "easy",
   "group": "Outline",
   "name": "France",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Paris"
+   }
+  ],
   "aliases": [
    "france"
   ],
@@ -5422,11 +8725,25 @@
   ]
  },
  {
-  "id": 900268,
+  "id": 900270,
   "tier": "death",
   "group": "Outline",
   "name": "Suriname",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Paramaribo"
+   }
+  ],
   "aliases": [
    "dutch guiana",
    "suriname"
@@ -5443,11 +8760,25 @@
   ]
  },
  {
-  "id": 900269,
+  "id": 900271,
   "tier": "death",
   "group": "Outline",
   "name": "Guyana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Georgetown"
+   }
+  ],
   "aliases": [
    "british guiana",
    "guyana"
@@ -5464,11 +8795,25 @@
   ]
  },
  {
-  "id": 900270,
+  "id": 900272,
   "tier": "easy",
   "group": "Outline",
   "name": "South Korea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Seoul"
+   }
+  ],
   "aliases": [
    "republic of korea",
    "south korea"
@@ -5485,11 +8830,25 @@
   ]
  },
  {
-  "id": 900271,
+  "id": 900273,
   "tier": "medium",
   "group": "Outline",
   "name": "North Korea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Pyongyang"
+   }
+  ],
   "aliases": [
    "democratic peoples republic of korea",
    "dprk",
@@ -5507,11 +8866,25 @@
   ]
  },
  {
-  "id": 900272,
+  "id": 900274,
   "tier": "medium",
   "group": "Outline",
   "name": "Morocco",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Rabat"
+   }
+  ],
   "aliases": [
    "morocco"
   ],
@@ -5527,11 +8900,51 @@
   ]
  },
  {
-  "id": 900273,
+  "id": 900275,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Western Sahara",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   }
+  ],
+  "aliases": [
+   "western sahara"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/western-sahara.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900276,
   "tier": "hard",
   "group": "Outline",
   "name": "Costa Rica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Jos\u00e9"
+   }
+  ],
   "aliases": [
    "costa rica"
   ],
@@ -5547,11 +8960,25 @@
   ]
  },
  {
-  "id": 900274,
+  "id": 900277,
   "tier": "hard",
   "group": "Outline",
   "name": "Nicaragua",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Managua"
+   }
+  ],
   "aliases": [
    "nicaragua"
   ],
@@ -5567,11 +8994,25 @@
   ]
  },
  {
-  "id": 900275,
+  "id": 900278,
   "tier": "hard",
   "group": "Outline",
   "name": "Republic of the Congo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Brazzaville"
+   }
+  ],
   "aliases": [
    "congo",
    "congo brazzaville",
@@ -5589,11 +9030,25 @@
   ]
  },
  {
-  "id": 900276,
+  "id": 900279,
   "tier": "easy",
   "group": "Outline",
   "name": "Democratic Republic of the Congo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kinshasa"
+   }
+  ],
   "aliases": [
    "congo kinshasa",
    "democratic republic of the congo",
@@ -5613,11 +9068,25 @@
   ]
  },
  {
-  "id": 900277,
+  "id": 900280,
   "tier": "death",
   "group": "Outline",
   "name": "Bhutan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Thimphu"
+   }
+  ],
   "aliases": [
    "bhutan"
   ],
@@ -5633,11 +9102,25 @@
   ]
  },
  {
-  "id": 900278,
+  "id": 900281,
   "tier": "medium",
   "group": "Outline",
   "name": "Ukraine",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kyiv"
+   }
+  ],
   "aliases": [
    "ukraine"
   ],
@@ -5653,11 +9136,25 @@
   ]
  },
  {
-  "id": 900279,
+  "id": 900282,
   "tier": "hard",
   "group": "Outline",
   "name": "Belarus",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Minsk"
+   }
+  ],
   "aliases": [
    "belarus"
   ],
@@ -5673,11 +9170,25 @@
   ]
  },
  {
-  "id": 900280,
+  "id": 900283,
   "tier": "hard",
   "group": "Outline",
   "name": "Namibia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Windhoek"
+   }
+  ],
   "aliases": [
    "namibia"
   ],
@@ -5693,11 +9204,25 @@
   ]
  },
  {
-  "id": 900281,
+  "id": 900284,
   "tier": "easy",
   "group": "Outline",
   "name": "South Africa",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Pretoria"
+   }
+  ],
   "aliases": [
    "south africa"
   ],
@@ -5713,11 +9238,45 @@
   ]
  },
  {
-  "id": 900282,
+  "id": 900285,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Saint Martin",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "saint martin",
+   "st martin",
+   "st. martin"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/saint-martin.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900286,
   "tier": "death",
   "group": "Outline",
   "name": "Sint Maarten",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "sint maarten"
   ],
@@ -5733,11 +9292,25 @@
   ]
  },
  {
-  "id": 900283,
+  "id": 900287,
   "tier": "hard",
   "group": "Outline",
   "name": "Oman",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Muscat"
+   }
+  ],
   "aliases": [
    "oman"
   ],
@@ -5753,11 +9326,25 @@
   ]
  },
  {
-  "id": 900284,
+  "id": 900288,
   "tier": "medium",
   "group": "Outline",
   "name": "Uzbekistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tashkent"
+   }
+  ],
   "aliases": [
    "uzbekistan"
   ],
@@ -5773,11 +9360,59 @@
   ]
  },
  {
-  "id": 900285,
+  "id": 900289,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Kazakhstan",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Astana"
+   }
+  ],
+  "aliases": [
+   "kazakhstan"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kazakhstan.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900290,
   "tier": "hard",
   "group": "Outline",
   "name": "Tajikistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dushanbe"
+   }
+  ],
   "aliases": [
    "tajikistan"
   ],
@@ -5793,11 +9428,25 @@
   ]
  },
  {
-  "id": 900286,
+  "id": 900291,
   "tier": "hard",
   "group": "Outline",
   "name": "Lithuania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vilnius"
+   }
+  ],
   "aliases": [
    "lithuania"
   ],
@@ -5813,11 +9462,25 @@
   ]
  },
  {
-  "id": 900287,
+  "id": 900292,
   "tier": "easy",
   "group": "Outline",
   "name": "Brazil",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bras\u00edlia"
+   }
+  ],
   "aliases": [
    "brazil"
   ],
@@ -5833,11 +9496,25 @@
   ]
  },
  {
-  "id": 900288,
+  "id": 900293,
   "tier": "hard",
   "group": "Outline",
   "name": "Uruguay",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Montevideo"
+   }
+  ],
   "aliases": [
    "uruguay"
   ],
@@ -5853,11 +9530,25 @@
   ]
  },
  {
-  "id": 900289,
+  "id": 900294,
   "tier": "hard",
   "group": "Outline",
   "name": "Mongolia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ulaanbaatar"
+   }
+  ],
   "aliases": [
    "mongolia"
   ],
@@ -5873,11 +9564,25 @@
   ]
  },
  {
-  "id": 900290,
+  "id": 900295,
   "tier": "easy",
   "group": "Outline",
   "name": "Russia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Moscow"
+   }
+  ],
   "aliases": [
    "russia",
    "russian federation"
@@ -5894,11 +9599,25 @@
   ]
  },
  {
-  "id": 900291,
+  "id": 900296,
   "tier": "medium",
   "group": "Outline",
   "name": "Czechia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Prague"
+   }
+  ],
   "aliases": [
    "czech republic",
    "czechia"
@@ -5915,11 +9634,25 @@
   ]
  },
  {
-  "id": 900292,
+  "id": 900297,
   "tier": "easy",
   "group": "Outline",
   "name": "Germany",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Berlin"
+   }
+  ],
   "aliases": [
    "germany"
   ],
@@ -5935,11 +9668,25 @@
   ]
  },
  {
-  "id": 900293,
+  "id": 900298,
   "tier": "hard",
   "group": "Outline",
   "name": "Estonia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tallinn"
+   }
+  ],
   "aliases": [
    "estonia"
   ],
@@ -5955,11 +9702,25 @@
   ]
  },
  {
-  "id": 900294,
+  "id": 900299,
   "tier": "hard",
   "group": "Outline",
   "name": "Latvia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Riga"
+   }
+  ],
   "aliases": [
    "latvia"
   ],
@@ -5975,11 +9736,25 @@
   ]
  },
  {
-  "id": 900295,
+  "id": 900300,
   "tier": "hard",
   "group": "Outline",
   "name": "Norway",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Oslo"
+   }
+  ],
   "aliases": [
    "norway"
   ],
@@ -5995,11 +9770,25 @@
   ]
  },
  {
-  "id": 900296,
+  "id": 900301,
   "tier": "medium",
   "group": "Outline",
   "name": "Sweden",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Stockholm"
+   }
+  ],
   "aliases": [
    "sweden"
   ],
@@ -6015,11 +9804,25 @@
   ]
  },
  {
-  "id": 900297,
+  "id": 900302,
   "tier": "hard",
   "group": "Outline",
   "name": "Finland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Helsinki"
+   }
+  ],
   "aliases": [
    "finland"
   ],
@@ -6035,11 +9838,25 @@
   ]
  },
  {
-  "id": 900298,
+  "id": 900303,
   "tier": "easy",
   "group": "Outline",
   "name": "Vietnam",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Hanoi"
+   }
+  ],
   "aliases": [
    "vietnam"
   ],
@@ -6055,11 +9872,25 @@
   ]
  },
  {
-  "id": 900299,
+  "id": 900304,
   "tier": "medium",
   "group": "Outline",
   "name": "Cambodia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Phnom Penh"
+   }
+  ],
   "aliases": [
    "cambodia",
    "kampuchea"
@@ -6076,11 +9907,25 @@
   ]
  },
  {
-  "id": 900300,
+  "id": 900305,
   "tier": "death",
   "group": "Outline",
   "name": "Luxembourg",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Luxembourg"
+   }
+  ],
   "aliases": [
    "luxembourg"
   ],
@@ -6096,11 +9941,25 @@
   ]
  },
  {
-  "id": 900301,
+  "id": 900306,
   "tier": "hard",
   "group": "Outline",
   "name": "United Arab Emirates",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Abu Dhabi"
+   }
+  ],
   "aliases": [
    "uae",
    "united arab emirates"
@@ -6117,11 +9976,25 @@
   ]
  },
  {
-  "id": 900302,
+  "id": 900307,
   "tier": "medium",
   "group": "Outline",
   "name": "Belgium",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Brussels"
+   }
+  ],
   "aliases": [
    "belgium"
   ],
@@ -6137,11 +10010,25 @@
   ]
  },
  {
-  "id": 900303,
+  "id": 900308,
   "tier": "hard",
   "group": "Outline",
   "name": "Georgia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tbilisi"
+   }
+  ],
   "aliases": [
    "georgia"
   ],
@@ -6157,11 +10044,25 @@
   ]
  },
  {
-  "id": 900304,
+  "id": 900309,
   "tier": "hard",
   "group": "Outline",
   "name": "North Macedonia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Skopje"
+   }
+  ],
   "aliases": [
    "fyrom",
    "macedonia",
@@ -6179,11 +10080,25 @@
   ]
  },
  {
-  "id": 900305,
+  "id": 900310,
   "tier": "hard",
   "group": "Outline",
   "name": "Albania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tirana"
+   }
+  ],
   "aliases": [
    "albania"
   ],
@@ -6199,11 +10114,25 @@
   ]
  },
  {
-  "id": 900306,
+  "id": 900311,
   "tier": "medium",
   "group": "Outline",
   "name": "Azerbaijan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Baku"
+   }
+  ],
   "aliases": [
    "azerbaijan"
   ],
@@ -6219,11 +10148,51 @@
   ]
  },
  {
-  "id": 900307,
+  "id": 900312,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Kosovo",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
+  "aliases": [
+   "kosovo"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/kosovo.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900313,
   "tier": "easy",
   "group": "Outline",
   "name": "T\u00fcrkiye",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ankara"
+   }
+  ],
   "aliases": [
    "turkey",
    "turkiye",
@@ -6241,11 +10210,25 @@
   ]
  },
  {
-  "id": 900308,
+  "id": 900314,
   "tier": "medium",
   "group": "Outline",
   "name": "Spain",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Madrid"
+   }
+  ],
   "aliases": [
    "spain"
   ],
@@ -6261,11 +10244,25 @@
   ]
  },
  {
-  "id": 900309,
+  "id": 900315,
   "tier": "hard",
   "group": "Outline",
   "name": "Laos",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vientiane"
+   }
+  ],
   "aliases": [
    "lao",
    "lao pdr",
@@ -6283,11 +10280,25 @@
   ]
  },
  {
-  "id": 900310,
+  "id": 900316,
   "tier": "hard",
   "group": "Outline",
   "name": "Kyrgyzstan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bishkek"
+   }
+  ],
   "aliases": [
    "kyrgyzstan"
   ],
@@ -6303,11 +10314,25 @@
   ]
  },
  {
-  "id": 900311,
+  "id": 900317,
   "tier": "hard",
   "group": "Outline",
   "name": "Armenia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yerevan"
+   }
+  ],
   "aliases": [
    "armenia"
   ],
@@ -6323,11 +10348,25 @@
   ]
  },
  {
-  "id": 900312,
+  "id": 900318,
   "tier": "hard",
   "group": "Outline",
   "name": "Denmark",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "K\u00f8benhavn"
+   }
+  ],
   "aliases": [
    "denmark"
   ],
@@ -6343,11 +10382,25 @@
   ]
  },
  {
-  "id": 900313,
+  "id": 900319,
   "tier": "hard",
   "group": "Outline",
   "name": "Libya",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tripoli"
+   }
+  ],
   "aliases": [
    "libya"
   ],
@@ -6363,11 +10416,25 @@
   ]
  },
  {
-  "id": 900314,
+  "id": 900320,
   "tier": "medium",
   "group": "Outline",
   "name": "Tunisia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tunis"
+   }
+  ],
   "aliases": [
    "tunisia"
   ],
@@ -6383,11 +10450,25 @@
   ]
  },
  {
-  "id": 900315,
+  "id": 900321,
   "tier": "medium",
   "group": "Outline",
   "name": "Romania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bucharest"
+   }
+  ],
   "aliases": [
    "romania"
   ],
@@ -6403,11 +10484,25 @@
   ]
  },
  {
-  "id": 900316,
+  "id": 900322,
   "tier": "hard",
   "group": "Outline",
   "name": "Hungary",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Budapest"
+   }
+  ],
   "aliases": [
    "hungary"
   ],
@@ -6423,11 +10518,25 @@
   ]
  },
  {
-  "id": 900317,
+  "id": 900323,
   "tier": "hard",
   "group": "Outline",
   "name": "Slovakia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bratislava"
+   }
+  ],
   "aliases": [
    "slovakia"
   ],
@@ -6443,11 +10552,25 @@
   ]
  },
  {
-  "id": 900318,
+  "id": 900324,
   "tier": "medium",
   "group": "Outline",
   "name": "Poland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Warsaw"
+   }
+  ],
   "aliases": [
    "poland"
   ],
@@ -6463,11 +10586,25 @@
   ]
  },
  {
-  "id": 900319,
+  "id": 900325,
   "tier": "hard",
   "group": "Outline",
   "name": "Ireland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dublin"
+   }
+  ],
   "aliases": [
    "ireland"
   ],
@@ -6483,11 +10620,25 @@
   ]
  },
  {
-  "id": 900320,
+  "id": 900326,
   "tier": "easy",
   "group": "Outline",
   "name": "United Kingdom",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "London"
+   }
+  ],
   "aliases": [
    "britain",
    "england",
@@ -6507,11 +10658,25 @@
   ]
  },
  {
-  "id": 900321,
+  "id": 900327,
   "tier": "medium",
   "group": "Outline",
   "name": "Greece",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Athens"
+   }
+  ],
   "aliases": [
    "greece"
   ],
@@ -6527,11 +10692,25 @@
   ]
  },
  {
-  "id": 900322,
+  "id": 900328,
   "tier": "medium",
   "group": "Outline",
   "name": "Zambia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lusaka"
+   }
+  ],
   "aliases": [
    "northern rhodesia",
    "zambia"
@@ -6548,11 +10727,25 @@
   ]
  },
  {
-  "id": 900323,
+  "id": 900329,
   "tier": "hard",
   "group": "Outline",
   "name": "Sierra Leone",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Freetown"
+   }
+  ],
   "aliases": [
    "sierra leone"
   ],
@@ -6568,11 +10761,25 @@
   ]
  },
  {
-  "id": 900324,
+  "id": 900330,
   "tier": "medium",
   "group": "Outline",
   "name": "Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Conakry"
+   }
+  ],
   "aliases": [
    "guinea"
   ],
@@ -6588,11 +10795,25 @@
   ]
  },
  {
-  "id": 900325,
+  "id": 900331,
   "tier": "hard",
   "group": "Outline",
   "name": "Liberia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Monrovia"
+   }
+  ],
   "aliases": [
    "liberia"
   ],
@@ -6608,11 +10829,25 @@
   ]
  },
  {
-  "id": 900326,
+  "id": 900332,
   "tier": "hard",
   "group": "Outline",
   "name": "Central African Republic",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bangui"
+   }
+  ],
   "aliases": [
    "central african republic"
   ],
@@ -6628,11 +10863,25 @@
   ]
  },
  {
-  "id": 900327,
+  "id": 900333,
   "tier": "medium",
   "group": "Outline",
   "name": "Sudan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Khartoum"
+   }
+  ],
   "aliases": [
    "sudan"
   ],
@@ -6648,11 +10897,25 @@
   ]
  },
  {
-  "id": 900328,
+  "id": 900334,
   "tier": "death",
   "group": "Outline",
   "name": "Djibouti",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Djibouti"
+   }
+  ],
   "aliases": [
    "djibouti",
    "french somaliland"
@@ -6669,11 +10932,25 @@
   ]
  },
  {
-  "id": 900329,
+  "id": 900335,
   "tier": "hard",
   "group": "Outline",
   "name": "Eritrea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Asmara"
+   }
+  ],
   "aliases": [
    "eritrea"
   ],
@@ -6689,11 +10966,25 @@
   ]
  },
  {
-  "id": 900330,
+  "id": 900336,
   "tier": "hard",
   "group": "Outline",
   "name": "Austria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vienna"
+   }
+  ],
   "aliases": [
    "austria"
   ],
@@ -6709,11 +11000,25 @@
   ]
  },
  {
-  "id": 900331,
+  "id": 900337,
   "tier": "medium",
   "group": "Outline",
   "name": "Iraq",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Baghdad"
+   }
+  ],
   "aliases": [
    "iraq"
   ],
@@ -6729,11 +11034,25 @@
   ]
  },
  {
-  "id": 900332,
+  "id": 900338,
   "tier": "easy",
   "group": "Outline",
   "name": "Italy",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Rome"
+   }
+  ],
   "aliases": [
    "italy"
   ],
@@ -6749,11 +11068,25 @@
   ]
  },
  {
-  "id": 900333,
+  "id": 900339,
   "tier": "hard",
   "group": "Outline",
   "name": "Switzerland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bern"
+   }
+  ],
   "aliases": [
    "switzerland"
   ],
@@ -6769,11 +11102,25 @@
   ]
  },
  {
-  "id": 900334,
+  "id": 900340,
   "tier": "easy",
   "group": "Outline",
   "name": "Iran",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tehran"
+   }
+  ],
   "aliases": [
    "iran",
    "persia"
@@ -6790,11 +11137,25 @@
   ]
  },
  {
-  "id": 900335,
+  "id": 900341,
   "tier": "medium",
   "group": "Outline",
   "name": "Netherlands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Amsterdam"
+   }
+  ],
   "aliases": [
    "holland",
    "netherlands"
@@ -6811,11 +11172,25 @@
   ]
  },
  {
-  "id": 900336,
+  "id": 900342,
   "tier": "death",
   "group": "Outline",
   "name": "Liechtenstein",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vaduz"
+   }
+  ],
   "aliases": [
    "liechtenstein"
   ],
@@ -6831,11 +11206,25 @@
   ]
  },
  {
-  "id": 900337,
+  "id": 900343,
   "tier": "medium",
   "group": "Outline",
   "name": "C\u00f4te d'Ivoire",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yamoussoukro"
+   }
+  ],
   "aliases": [
    "c\u00f4te d'ivoire",
    "ivory coast"
@@ -6852,11 +11241,25 @@
   ]
  },
  {
-  "id": 900338,
+  "id": 900344,
   "tier": "hard",
   "group": "Outline",
   "name": "Serbia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Belgrade"
+   }
+  ],
   "aliases": [
    "serbia"
   ],
@@ -6872,11 +11275,25 @@
   ]
  },
  {
-  "id": 900339,
+  "id": 900345,
   "tier": "medium",
   "group": "Outline",
   "name": "Mali",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bamako"
+   }
+  ],
   "aliases": [
    "french sudan",
    "mali"
@@ -6893,11 +11310,25 @@
   ]
  },
  {
-  "id": 900340,
+  "id": 900346,
   "tier": "medium",
   "group": "Outline",
   "name": "Senegal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dakar"
+   }
+  ],
   "aliases": [
    "senegal"
   ],
@@ -6913,11 +11344,25 @@
   ]
  },
  {
-  "id": 900341,
+  "id": 900347,
   "tier": "easy",
   "group": "Outline",
   "name": "Nigeria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Abuja"
+   }
+  ],
   "aliases": [
    "nigeria"
   ],
@@ -6933,11 +11378,25 @@
   ]
  },
  {
-  "id": 900342,
+  "id": 900348,
   "tier": "medium",
   "group": "Outline",
   "name": "Benin",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Porto-Novo"
+   }
+  ],
   "aliases": [
    "benin",
    "dahomey"
@@ -6954,11 +11413,25 @@
   ]
  },
  {
-  "id": 900343,
+  "id": 900349,
   "tier": "medium",
   "group": "Outline",
   "name": "Angola",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Luanda"
+   }
+  ],
   "aliases": [
    "angola"
   ],
@@ -6974,11 +11447,25 @@
   ]
  },
  {
-  "id": 900344,
+  "id": 900350,
   "tier": "hard",
   "group": "Outline",
   "name": "Croatia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Zagreb"
+   }
+  ],
   "aliases": [
    "croatia"
   ],
@@ -6994,11 +11481,25 @@
   ]
  },
  {
-  "id": 900345,
+  "id": 900351,
   "tier": "hard",
   "group": "Outline",
   "name": "Slovenia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ljubljana"
+   }
+  ],
   "aliases": [
    "slovenia"
   ],
@@ -7014,11 +11515,25 @@
   ]
  },
  {
-  "id": 900346,
+  "id": 900352,
   "tier": "hard",
   "group": "Outline",
   "name": "Qatar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Doha"
+   }
+  ],
   "aliases": [
    "qatar"
   ],
@@ -7034,11 +11549,25 @@
   ]
  },
  {
-  "id": 900347,
+  "id": 900353,
   "tier": "medium",
   "group": "Outline",
   "name": "Saudi Arabia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Riyadh"
+   }
+  ],
   "aliases": [
    "saudi arabia"
   ],
@@ -7054,11 +11583,25 @@
   ]
  },
  {
-  "id": 900348,
+  "id": 900354,
   "tier": "hard",
   "group": "Outline",
   "name": "Botswana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Gaborone"
+   }
+  ],
   "aliases": [
    "bechuanaland",
    "botswana"
@@ -7075,11 +11618,25 @@
   ]
  },
  {
-  "id": 900349,
+  "id": 900355,
   "tier": "medium",
   "group": "Outline",
   "name": "Zimbabwe",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Harare"
+   }
+  ],
   "aliases": [
    "rhodesia",
    "zimbabwe"
@@ -7096,11 +11653,25 @@
   ]
  },
  {
-  "id": 900350,
+  "id": 900356,
   "tier": "easy",
   "group": "Outline",
   "name": "Pakistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Islamabad"
+   }
+  ],
   "aliases": [
    "pakistan"
   ],
@@ -7116,11 +11687,25 @@
   ]
  },
  {
-  "id": 900351,
+  "id": 900357,
   "tier": "hard",
   "group": "Outline",
   "name": "Bulgaria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sofia"
+   }
+  ],
   "aliases": [
    "bulgaria"
   ],
@@ -7136,11 +11721,25 @@
   ]
  },
  {
-  "id": 900352,
+  "id": 900358,
   "tier": "easy",
   "group": "Outline",
   "name": "Thailand",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bangkok"
+   }
+  ],
   "aliases": [
    "siam",
    "thailand"
@@ -7157,11 +11756,25 @@
   ]
  },
  {
-  "id": 900353,
+  "id": 900359,
   "tier": "death",
   "group": "Outline",
   "name": "San Marino",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Marino"
+   }
+  ],
   "aliases": [
    "san marino"
   ],
@@ -7177,11 +11790,25 @@
   ]
  },
  {
-  "id": 900354,
+  "id": 900360,
   "tier": "medium",
   "group": "Outline",
   "name": "Haiti",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port-au-Prince"
+   }
+  ],
   "aliases": [
    "haiti"
   ],
@@ -7197,11 +11824,25 @@
   ]
  },
  {
-  "id": 900355,
+  "id": 900361,
   "tier": "medium",
   "group": "Outline",
   "name": "Dominican Republic",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Santo Domingo"
+   }
+  ],
   "aliases": [
    "dominican republic"
   ],
@@ -7217,11 +11858,25 @@
   ]
  },
  {
-  "id": 900356,
+  "id": 900362,
   "tier": "medium",
   "group": "Outline",
   "name": "Chad",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "N'Djamena"
+   }
+  ],
   "aliases": [
    "chad",
    "chad republic"
@@ -7238,11 +11893,25 @@
   ]
  },
  {
-  "id": 900357,
+  "id": 900363,
   "tier": "hard",
   "group": "Outline",
   "name": "Kuwait",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kuwait City"
+   }
+  ],
   "aliases": [
    "kuwait"
   ],
@@ -7258,11 +11927,25 @@
   ]
  },
  {
-  "id": 900358,
+  "id": 900364,
   "tier": "hard",
   "group": "Outline",
   "name": "El Salvador",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "San Salvador"
+   }
+  ],
   "aliases": [
    "el salvador"
   ],
@@ -7278,11 +11961,25 @@
   ]
  },
  {
-  "id": 900359,
+  "id": 900365,
   "tier": "medium",
   "group": "Outline",
   "name": "Guatemala",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Guatemala City"
+   }
+  ],
   "aliases": [
    "guatemala"
   ],
@@ -7298,11 +11995,25 @@
   ]
  },
  {
-  "id": 900360,
+  "id": 900366,
   "tier": "hard",
   "group": "Outline",
   "name": "Timor-Leste",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dili"
+   }
+  ],
   "aliases": [
    "east timor",
    "timor-leste"
@@ -7319,11 +12030,25 @@
   ]
  },
  {
-  "id": 900361,
+  "id": 900367,
   "tier": "death",
   "group": "Outline",
   "name": "Brunei",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bandar Seri Begawan"
+   }
+  ],
   "aliases": [
    "brunei"
   ],
@@ -7339,11 +12064,25 @@
   ]
  },
  {
-  "id": 900362,
+  "id": 900368,
   "tier": "death",
   "group": "Outline",
   "name": "Monaco",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Monaco"
+   }
+  ],
   "aliases": [
    "monaco"
   ],
@@ -7359,11 +12098,25 @@
   ]
  },
  {
-  "id": 900363,
+  "id": 900369,
   "tier": "medium",
   "group": "Outline",
   "name": "Algeria",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Algiers"
+   }
+  ],
   "aliases": [
    "algeria"
   ],
@@ -7379,11 +12132,25 @@
   ]
  },
  {
-  "id": 900364,
+  "id": 900370,
   "tier": "medium",
   "group": "Outline",
   "name": "Mozambique",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Maputo"
+   }
+  ],
   "aliases": [
    "mozambique"
   ],
@@ -7399,11 +12166,25 @@
   ]
  },
  {
-  "id": 900365,
+  "id": 900371,
   "tier": "hard",
   "group": "Outline",
   "name": "Eswatini",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mbabane"
+   }
+  ],
   "aliases": [
    "eswatini",
    "swaziland"
@@ -7420,11 +12201,25 @@
   ]
  },
  {
-  "id": 900366,
+  "id": 900372,
   "tier": "medium",
   "group": "Outline",
   "name": "Burundi",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Gitega"
+   }
+  ],
   "aliases": [
    "burundi"
   ],
@@ -7440,11 +12235,25 @@
   ]
  },
  {
-  "id": 900367,
+  "id": 900373,
   "tier": "medium",
   "group": "Outline",
   "name": "Rwanda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kigali"
+   }
+  ],
   "aliases": [
    "rwanda"
   ],
@@ -7460,11 +12269,25 @@
   ]
  },
  {
-  "id": 900368,
+  "id": 900374,
   "tier": "easy",
   "group": "Outline",
   "name": "Myanmar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Naypyidaw"
+   }
+  ],
   "aliases": [
    "burma",
    "myanmar"
@@ -7481,11 +12304,25 @@
   ]
  },
  {
-  "id": 900369,
+  "id": 900375,
   "tier": "easy",
   "group": "Outline",
   "name": "Bangladesh",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Dhaka"
+   }
+  ],
   "aliases": [
    "bangladesh"
   ],
@@ -7501,11 +12338,25 @@
   ]
  },
  {
-  "id": 900370,
+  "id": 900376,
   "tier": "death",
   "group": "Outline",
   "name": "Andorra",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Andorra"
+   }
+  ],
   "aliases": [
    "andorra"
   ],
@@ -7521,11 +12372,25 @@
   ]
  },
  {
-  "id": 900371,
+  "id": 900377,
   "tier": "medium",
   "group": "Outline",
   "name": "Afghanistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kabul"
+   }
+  ],
   "aliases": [
    "afghanistan"
   ],
@@ -7541,11 +12406,25 @@
   ]
  },
  {
-  "id": 900372,
+  "id": 900378,
   "tier": "death",
   "group": "Outline",
   "name": "Montenegro",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Podgorica"
+   }
+  ],
   "aliases": [
    "montenegro"
   ],
@@ -7561,11 +12440,25 @@
   ]
  },
  {
-  "id": 900373,
+  "id": 900379,
   "tier": "hard",
   "group": "Outline",
   "name": "Bosnia and Herzegovina",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sarajevo"
+   }
+  ],
   "aliases": [
    "bosnia and herzegovina"
   ],
@@ -7581,11 +12474,25 @@
   ]
  },
  {
-  "id": 900374,
+  "id": 900380,
   "tier": "medium",
   "group": "Outline",
   "name": "Uganda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kampala"
+   }
+  ],
   "aliases": [
    "uganda",
    "uganda protectorate"
@@ -7602,11 +12509,59 @@
   ]
  },
  {
-  "id": 900375,
+  "id": 900381,
+  "tier": "medium",
+  "group": "Outline",
+  "name": "Cuba",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Havana"
+   }
+  ],
+  "aliases": [
+   "cuba"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cuba.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900382,
   "tier": "hard",
   "group": "Outline",
   "name": "Honduras",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tegucigalpa"
+   }
+  ],
   "aliases": [
    "honduras"
   ],
@@ -7622,11 +12577,25 @@
   ]
  },
  {
-  "id": 900376,
+  "id": 900383,
   "tier": "medium",
   "group": "Outline",
   "name": "Ecuador",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Quito"
+   }
+  ],
   "aliases": [
    "ecuador"
   ],
@@ -7642,11 +12611,25 @@
   ]
  },
  {
-  "id": 900377,
+  "id": 900384,
   "tier": "easy",
   "group": "Outline",
   "name": "Colombia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bogota"
+   }
+  ],
   "aliases": [
    "colombia"
   ],
@@ -7662,11 +12645,25 @@
   ]
  },
  {
-  "id": 900378,
+  "id": 900385,
   "tier": "hard",
   "group": "Outline",
   "name": "Paraguay",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Asunci\u00f3n"
+   }
+  ],
   "aliases": [
    "paraguay"
   ],
@@ -7682,11 +12679,25 @@
   ]
  },
  {
-  "id": 900379,
+  "id": 900386,
   "tier": "medium",
   "group": "Outline",
   "name": "Portugal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lisbon"
+   }
+  ],
   "aliases": [
    "portugal"
   ],
@@ -7702,11 +12713,25 @@
   ]
  },
  {
-  "id": 900380,
+  "id": 900387,
   "tier": "hard",
   "group": "Outline",
   "name": "Moldova",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Chi\u0219in\u0103u"
+   }
+  ],
   "aliases": [
    "moldova"
   ],
@@ -7722,11 +12747,25 @@
   ]
  },
  {
-  "id": 900381,
+  "id": 900388,
   "tier": "hard",
   "group": "Outline",
   "name": "Turkmenistan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ashgabat"
+   }
+  ],
   "aliases": [
    "turkmenistan"
   ],
@@ -7742,11 +12781,25 @@
   ]
  },
  {
-  "id": 900382,
+  "id": 900389,
   "tier": "medium",
   "group": "Outline",
   "name": "Jordan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Amman"
+   }
+  ],
   "aliases": [
    "jordan"
   ],
@@ -7762,11 +12815,25 @@
   ]
  },
  {
-  "id": 900383,
+  "id": 900390,
   "tier": "medium",
   "group": "Outline",
   "name": "Nepal",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kathmandu"
+   }
+  ],
   "aliases": [
    "nepal"
   ],
@@ -7782,11 +12849,25 @@
   ]
  },
  {
-  "id": 900384,
+  "id": 900391,
   "tier": "hard",
   "group": "Outline",
   "name": "Lesotho",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Maseru"
+   }
+  ],
   "aliases": [
    "basutoland",
    "lesotho"
@@ -7803,11 +12884,25 @@
   ]
  },
  {
-  "id": 900385,
+  "id": 900392,
   "tier": "medium",
   "group": "Outline",
   "name": "Cameroon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Yaound\u00e9"
+   }
+  ],
   "aliases": [
    "cameroon"
   ],
@@ -7823,11 +12918,25 @@
   ]
  },
  {
-  "id": 900386,
+  "id": 900393,
   "tier": "hard",
   "group": "Outline",
   "name": "Gabon",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Libreville"
+   }
+  ],
   "aliases": [
    "gabon"
   ],
@@ -7843,11 +12952,25 @@
   ]
  },
  {
-  "id": 900387,
+  "id": 900394,
   "tier": "medium",
   "group": "Outline",
   "name": "Niger",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Niamey"
+   }
+  ],
   "aliases": [
    "niger",
    "niger republic"
@@ -7864,11 +12987,25 @@
   ]
  },
  {
-  "id": 900388,
+  "id": 900395,
   "tier": "medium",
   "group": "Outline",
   "name": "Burkina Faso",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ouagadougou"
+   }
+  ],
   "aliases": [
    "burkina faso",
    "upper volta"
@@ -7885,11 +13022,25 @@
   ]
  },
  {
-  "id": 900389,
+  "id": 900396,
   "tier": "hard",
   "group": "Outline",
   "name": "Togo",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Lom\u00e9"
+   }
+  ],
   "aliases": [
    "togo"
   ],
@@ -7905,11 +13056,25 @@
   ]
  },
  {
-  "id": 900390,
+  "id": 900397,
   "tier": "medium",
   "group": "Outline",
   "name": "Ghana",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Accra"
+   }
+  ],
   "aliases": [
    "ghana"
   ],
@@ -7925,11 +13090,25 @@
   ]
  },
  {
-  "id": 900391,
+  "id": 900398,
   "tier": "hard",
   "group": "Outline",
   "name": "Guinea-Bissau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bissau"
+   }
+  ],
   "aliases": [
    "guinea-bissau"
   ],
@@ -7945,11 +13124,51 @@
   ]
  },
  {
-  "id": 900392,
+  "id": 900399,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Gibraltar",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
+  "aliases": [
+   "gibraltar"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/gibraltar.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900400,
   "tier": "easy",
   "group": "Outline",
   "name": "United States",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Washington,  D.C."
+   }
+  ],
   "aliases": [
    "america",
    "united states",
@@ -7969,11 +13188,25 @@
   ]
  },
  {
-  "id": 900393,
+  "id": 900401,
   "tier": "medium",
   "group": "Outline",
   "name": "Canada",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ottawa"
+   }
+  ],
   "aliases": [
    "canada"
   ],
@@ -7989,11 +13222,25 @@
   ]
  },
  {
-  "id": 900394,
+  "id": 900402,
   "tier": "easy",
   "group": "Outline",
   "name": "Mexico",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mexico City"
+   }
+  ],
   "aliases": [
    "mexico"
   ],
@@ -8009,11 +13256,25 @@
   ]
  },
  {
-  "id": 900395,
+  "id": 900403,
   "tier": "death",
   "group": "Outline",
   "name": "Belize",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Belmopan"
+   }
+  ],
   "aliases": [
    "belize",
    "british honduras"
@@ -8030,11 +13291,25 @@
   ]
  },
  {
-  "id": 900396,
+  "id": 900404,
   "tier": "hard",
   "group": "Outline",
   "name": "Panama",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Panama City"
+   }
+  ],
   "aliases": [
    "panama"
   ],
@@ -8050,11 +13325,25 @@
   ]
  },
  {
-  "id": 900397,
+  "id": 900405,
   "tier": "medium",
   "group": "Outline",
   "name": "Venezuela",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Caracas"
+   }
+  ],
   "aliases": [
    "venezuela"
   ],
@@ -8070,11 +13359,25 @@
   ]
  },
  {
-  "id": 900398,
+  "id": 900406,
   "tier": "hard",
   "group": "Outline",
   "name": "Papua New Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Moresby"
+   }
+  ],
   "aliases": [
    "papua new guinea"
   ],
@@ -8090,11 +13393,25 @@
   ]
  },
  {
-  "id": 900399,
+  "id": 900407,
   "tier": "easy",
   "group": "Outline",
   "name": "Egypt",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Cairo"
+   }
+  ],
   "aliases": [
    "egypt"
   ],
@@ -8110,11 +13427,25 @@
   ]
  },
  {
-  "id": 900400,
+  "id": 900408,
   "tier": "medium",
   "group": "Outline",
   "name": "Yemen",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Sanaa"
+   }
+  ],
   "aliases": [
    "yemen"
   ],
@@ -8130,11 +13461,25 @@
   ]
  },
  {
-  "id": 900401,
+  "id": 900409,
   "tier": "hard",
   "group": "Outline",
   "name": "Mauritania",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nouakchott"
+   }
+  ],
   "aliases": [
    "mauritania"
   ],
@@ -8150,11 +13495,25 @@
   ]
  },
  {
-  "id": 900402,
+  "id": 900410,
   "tier": "hard",
   "group": "Outline",
   "name": "Equatorial Guinea",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Malabo"
+   }
+  ],
   "aliases": [
    "equatorial guinea",
    "spanish guinea"
@@ -8171,11 +13530,25 @@
   ]
  },
  {
-  "id": 900403,
+  "id": 900411,
   "tier": "hard",
   "group": "Outline",
   "name": "Gambia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Banjul"
+   }
+  ],
   "aliases": [
    "gambia",
    "the gambia"
@@ -8192,11 +13565,17 @@
   ]
  },
  {
-  "id": 900404,
+  "id": 900412,
   "tier": "hard",
   "group": "Outline",
   "name": "Hong Kong",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
   "aliases": [
    "hong kong"
   ],
@@ -8212,11 +13591,25 @@
   ]
  },
  {
-  "id": 900405,
+  "id": 900413,
   "tier": "death",
   "group": "Outline",
   "name": "Vatican City",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Vatican City"
+   }
+  ],
   "aliases": [
    "holy see",
    "vatican",
@@ -8234,11 +13627,25 @@
   ]
  },
  {
-  "id": 900406,
+  "id": 900414,
   "tier": "medium",
   "group": "Outline",
   "name": "Australia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Canberra"
+   }
+  ],
   "aliases": [
    "australia"
   ],
@@ -8254,11 +13661,17 @@
   ]
  },
  {
-  "id": 900407,
+  "id": 900415,
   "tier": "death",
   "group": "Outline",
   "name": "Greenland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "greenland"
   ],
@@ -8274,11 +13687,25 @@
   ]
  },
  {
-  "id": 900408,
+  "id": 900416,
   "tier": "death",
   "group": "Outline",
   "name": "Fiji",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Suva"
+   }
+  ],
   "aliases": [
    "fiji"
   ],
@@ -8294,11 +13721,25 @@
   ]
  },
  {
-  "id": 900409,
+  "id": 900417,
   "tier": "hard",
   "group": "Outline",
   "name": "New Zealand",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Wellington"
+   }
+  ],
   "aliases": [
    "new zealand"
   ],
@@ -8314,11 +13755,51 @@
   ]
  },
  {
-  "id": 900410,
+  "id": 900418,
+  "tier": "death",
+  "group": "Outline",
+  "name": "New Caledonia",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "new caledonia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/new-caledonia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900419,
   "tier": "medium",
   "group": "Outline",
   "name": "Madagascar",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Antananarivo"
+   }
+  ],
   "aliases": [
    "madagascar"
   ],
@@ -8334,11 +13815,25 @@
   ]
  },
  {
-  "id": 900411,
+  "id": 900420,
   "tier": "easy",
   "group": "Outline",
   "name": "Philippines",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Manila"
+   }
+  ],
   "aliases": [
    "philippines"
   ],
@@ -8354,11 +13849,25 @@
   ]
  },
  {
-  "id": 900412,
+  "id": 900421,
   "tier": "medium",
   "group": "Outline",
   "name": "Sri Lanka",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Colombo"
+   }
+  ],
   "aliases": [
    "ceylon",
    "sri lanka"
@@ -8375,11 +13884,17 @@
   ]
  },
  {
-  "id": 900413,
+  "id": 900422,
   "tier": "death",
   "group": "Outline",
   "name": "Cura\u00e7ao",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "cura\u00e7ao"
   ],
@@ -8395,11 +13910,17 @@
   ]
  },
  {
-  "id": 900414,
+  "id": 900423,
   "tier": "death",
   "group": "Outline",
   "name": "Aruba",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
   "aliases": [
    "aruba"
   ],
@@ -8415,11 +13936,25 @@
   ]
  },
  {
-  "id": 900415,
+  "id": 900424,
   "tier": "death",
   "group": "Outline",
   "name": "Bahamas",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nassau"
+   }
+  ],
   "aliases": [
    "bahamas",
    "the bahamas"
@@ -8436,11 +13971,51 @@
   ]
  },
  {
-  "id": 900416,
+  "id": 900425,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Turks and Caicos Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "turks and caicos islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/turks-and-caicos-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900426,
   "tier": "medium",
   "group": "Outline",
   "name": "Taiwan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Taipei"
+   }
+  ],
   "aliases": [
    "taiwan"
   ],
@@ -8456,11 +14031,25 @@
   ]
  },
  {
-  "id": 900417,
+  "id": 900427,
   "tier": "easy",
   "group": "Outline",
   "name": "Japan",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tokyo"
+   }
+  ],
   "aliases": [
    "japan"
   ],
@@ -8476,11 +14065,53 @@
   ]
  },
  {
-  "id": 900418,
+  "id": 900428,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Saint Pierre and Miquelon",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "saint pierre and miquelon",
+   "st pierre and miquelon",
+   "st. pierre and miquelon"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/saint-pierre-and-miquelon.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900429,
   "tier": "death",
   "group": "Outline",
   "name": "Iceland",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Reykjav\u00edk"
+   }
+  ],
   "aliases": [
    "iceland"
   ],
@@ -8496,11 +14127,103 @@
   ]
  },
  {
-  "id": 900419,
+  "id": 900430,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Pitcairn Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "pitcairn islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/pitcairn-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900431,
+  "tier": "death",
+  "group": "Outline",
+  "name": "French Polynesia",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "french polynesia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/french-polynesia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900432,
+  "tier": "death",
+  "group": "Outline",
+  "name": "French Southern and Antarctic Lands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
+  "aliases": [
+   "french southern and antarctic lands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/french-southern-and-antarctic-lands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900433,
   "tier": "death",
   "group": "Outline",
   "name": "Seychelles",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Victoria"
+   }
+  ],
   "aliases": [
    "seychelles"
   ],
@@ -8516,11 +14239,25 @@
   ]
  },
  {
-  "id": 900420,
+  "id": 900434,
   "tier": "death",
   "group": "Outline",
   "name": "Kiribati",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Tarawa"
+   }
+  ],
   "aliases": [
    "kiribati"
   ],
@@ -8536,11 +14273,25 @@
   ]
  },
  {
-  "id": 900421,
+  "id": 900435,
   "tier": "death",
   "group": "Outline",
   "name": "Marshall Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Majuro"
+   }
+  ],
   "aliases": [
    "marshall islands"
   ],
@@ -8556,11 +14307,25 @@
   ]
  },
  {
-  "id": 900422,
+  "id": 900436,
   "tier": "hard",
   "group": "Outline",
   "name": "Trinidad and Tobago",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port-of-Spain"
+   }
+  ],
   "aliases": [
    "trinidad and tobago"
   ],
@@ -8576,11 +14341,25 @@
   ]
  },
  {
-  "id": 900423,
+  "id": 900437,
   "tier": "death",
   "group": "Outline",
   "name": "Grenada",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Saint George's"
+   }
+  ],
   "aliases": [
    "grenada"
   ],
@@ -8596,11 +14375,25 @@
   ]
  },
  {
-  "id": 900424,
+  "id": 900438,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Vincent and the Grenadines",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kingstown"
+   }
+  ],
   "aliases": [
    "saint vincent and the grenadines",
    "st vincent and the grenadines",
@@ -8618,11 +14411,25 @@
   ]
  },
  {
-  "id": 900425,
+  "id": 900439,
   "tier": "death",
   "group": "Outline",
   "name": "Barbados",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Bridgetown"
+   }
+  ],
   "aliases": [
    "barbados"
   ],
@@ -8638,11 +14445,25 @@
   ]
  },
  {
-  "id": 900426,
+  "id": 900440,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Lucia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Castries"
+   }
+  ],
   "aliases": [
    "saint lucia",
    "st lucia",
@@ -8660,11 +14481,25 @@
   ]
  },
  {
-  "id": 900427,
+  "id": 900441,
   "tier": "death",
   "group": "Outline",
   "name": "Dominica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Roseau"
+   }
+  ],
   "aliases": [
    "dominica"
   ],
@@ -8680,11 +14515,77 @@
   ]
  },
  {
-  "id": 900428,
+  "id": 900442,
+  "tier": "death",
+  "group": "Outline",
+  "name": "United States Minor Outlying Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "united states minor outlying islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/united-states-minor-outlying-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900443,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Montserrat",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "montserrat"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/montserrat.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900444,
   "tier": "death",
   "group": "Outline",
   "name": "Antigua and Barbuda",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Saint John's"
+   }
+  ],
   "aliases": [
    "antigua and barbuda"
   ],
@@ -8700,11 +14601,25 @@
   ]
  },
  {
-  "id": 900429,
+  "id": 900445,
   "tier": "death",
   "group": "Outline",
   "name": "Saint Kitts and Nevis",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Basseterre"
+   }
+  ],
   "aliases": [
    "saint kitts and nevis",
    "st kitts and nevis",
@@ -8722,11 +14637,157 @@
   ]
  },
  {
-  "id": 900430,
+  "id": 900446,
+  "tier": "death",
+  "group": "Outline",
+  "name": "United States Virgin Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "united states virgin islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/united-states-virgin-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900447,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Saint Barth\u00e9lemy",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "saint barth\u00e9lemy",
+   "st barth\u00e9lemy",
+   "st. barth\u00e9lemy"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/saint-barth-lemy.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900448,
+  "tier": "hard",
+  "group": "Outline",
+  "name": "Puerto Rico",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "puerto rico"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/puerto-rico.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900449,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Anguilla",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "anguilla"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/anguilla.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900450,
+  "tier": "death",
+  "group": "Outline",
+  "name": "British Virgin Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "british virgin islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/british-virgin-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900451,
   "tier": "hard",
   "group": "Outline",
   "name": "Jamaica",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Kingston"
+   }
+  ],
   "aliases": [
    "jamaica"
   ],
@@ -8742,11 +14803,131 @@
   ]
  },
  {
-  "id": 900431,
+  "id": 900452,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Cayman Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "cayman islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cayman-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900453,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Bermuda",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "North America"
+   }
+  ],
+  "aliases": [
+   "bermuda"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/bermuda.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900454,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Heard Island and McDonald Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
+  "aliases": [
+   "heard island and mcdonald islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/heard-island-and-mcdonald-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900455,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
+  "aliases": [
+   "saint helena, ascension and tristan da cunha",
+   "st helena, ascension and tristan da cunha",
+   "st. helena, ascension and tristan da cunha"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/saint-helena-ascension-and-tristan-da-cunha.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900456,
   "tier": "hard",
   "group": "Outline",
   "name": "Mauritius",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Louis"
+   }
+  ],
   "aliases": [
    "mauritius"
   ],
@@ -8762,11 +14943,25 @@
   ]
  },
  {
-  "id": 900432,
+  "id": 900457,
   "tier": "death",
   "group": "Outline",
   "name": "Comoros",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Moroni"
+   }
+  ],
   "aliases": [
    "comoros"
   ],
@@ -8782,11 +14977,25 @@
   ]
  },
  {
-  "id": 900433,
+  "id": 900458,
   "tier": "death",
   "group": "Outline",
   "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "S\u00e3o Tom\u00e9"
+   }
+  ],
   "aliases": [
    "s\u00e3o tom\u00e9 and pr\u00edncipe"
   ],
@@ -8802,11 +15011,25 @@
   ]
  },
  {
-  "id": 900434,
+  "id": 900459,
   "tier": "death",
   "group": "Outline",
   "name": "Cabo Verde",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Africa"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Praia"
+   }
+  ],
   "aliases": [
    "cabo verde",
    "cape verde"
@@ -8823,11 +15046,25 @@
   ]
  },
  {
-  "id": 900435,
+  "id": 900460,
   "tier": "death",
   "group": "Outline",
   "name": "Malta",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Valletta"
+   }
+  ],
   "aliases": [
    "malta"
   ],
@@ -8843,11 +15080,17 @@
   ]
  },
  {
-  "id": 900436,
+  "id": 900461,
   "tier": "death",
   "group": "Outline",
   "name": "Jersey",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "jersey"
   ],
@@ -8863,11 +15106,17 @@
   ]
  },
  {
-  "id": 900437,
+  "id": 900462,
   "tier": "death",
   "group": "Outline",
   "name": "Guernsey",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "guernsey"
   ],
@@ -8883,11 +15132,17 @@
   ]
  },
  {
-  "id": 900438,
+  "id": 900463,
   "tier": "death",
   "group": "Outline",
   "name": "Isle of Man",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "isle of man"
   ],
@@ -8903,11 +15158,17 @@
   ]
  },
  {
-  "id": 900439,
+  "id": 900464,
   "tier": "death",
   "group": "Outline",
   "name": "\u00c5land Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
   "aliases": [
    "\u00e5land islands"
   ],
@@ -8923,11 +15184,77 @@
   ]
  },
  {
-  "id": 900440,
+  "id": 900465,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Faroe Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Europe"
+   }
+  ],
+  "aliases": [
+   "faroe islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/faroe-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900466,
+  "tier": "death",
+  "group": "Outline",
+  "name": "British Indian Ocean Territory",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
+  "aliases": [
+   "british indian ocean territory"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/british-indian-ocean-territory.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900467,
   "tier": "hard",
   "group": "Outline",
   "name": "Singapore",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Singapore"
+   }
+  ],
   "aliases": [
    "singapore"
   ],
@@ -8943,11 +15270,77 @@
   ]
  },
  {
-  "id": 900441,
+  "id": 900468,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Norfolk Island",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "norfolk island"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/norfolk-island.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900469,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Cook Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "cook islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/cook-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900470,
   "tier": "death",
   "group": "Outline",
   "name": "Tonga",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Nuku'alofa"
+   }
+  ],
   "aliases": [
    "tonga"
   ],
@@ -8963,11 +15356,51 @@
   ]
  },
  {
-  "id": 900442,
+  "id": 900471,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Wallis and Futuna",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "wallis and futuna"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/wallis-and-futuna.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900472,
   "tier": "death",
   "group": "Outline",
   "name": "Samoa",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Apia"
+   }
+  ],
   "aliases": [
    "samoa",
    "western samoa"
@@ -8984,11 +15417,25 @@
   ]
  },
  {
-  "id": 900443,
+  "id": 900473,
   "tier": "death",
   "group": "Outline",
   "name": "Solomon Islands",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the west of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Honiara"
+   }
+  ],
   "aliases": [
    "solomon islands"
   ],
@@ -9004,11 +15451,25 @@
   ]
  },
  {
-  "id": 900444,
+  "id": 900474,
   "tier": "death",
   "group": "Outline",
   "name": "Tuvalu",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the south-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Funafuti"
+   }
+  ],
   "aliases": [
    "tuvalu"
   ],
@@ -9024,11 +15485,25 @@
   ]
  },
  {
-  "id": 900445,
+  "id": 900475,
   "tier": "death",
   "group": "Outline",
   "name": "Maldives",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Mal\u00e9"
+   }
+  ],
   "aliases": [
    "maldives"
   ],
@@ -9044,11 +15519,17 @@
   ]
  },
  {
-  "id": 900446,
+  "id": 900476,
   "tier": "death",
   "group": "Outline",
   "name": "Nauru",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
   "aliases": [
    "nauru"
   ],
@@ -9064,11 +15545,25 @@
   ]
  },
  {
-  "id": 900447,
+  "id": 900477,
   "tier": "death",
   "group": "Outline",
   "name": "Micronesia",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Palikir"
+   }
+  ],
   "aliases": [
    "federated states of micronesia",
    "micronesia"
@@ -9085,11 +15580,77 @@
   ]
  },
  {
-  "id": 900448,
+  "id": 900478,
+  "tier": "death",
+  "group": "Outline",
+  "name": "South Georgia",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Seven seas (open ocean)"
+   }
+  ],
+  "aliases": [
+   "south georgia"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/south-georgia.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900479,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Falkland Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "South America"
+   }
+  ],
+  "aliases": [
+   "falkland islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/falkland-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900480,
   "tier": "death",
   "group": "Outline",
   "name": "Vanuatu",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the middle of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Port Vila"
+   }
+  ],
   "aliases": [
    "new hebrides",
    "vanuatu"
@@ -9106,11 +15667,77 @@
   ]
  },
  {
-  "id": 900449,
+  "id": 900481,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Niue",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "niue"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/niue.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900482,
+  "tier": "death",
+  "group": "Outline",
+  "name": "American Samoa",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "american samoa"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/american-samoa.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900483,
   "tier": "death",
   "group": "Outline",
   "name": "Palau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north-east of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Ngerulmud"
+   }
+  ],
   "aliases": [
    "palau"
   ],
@@ -9126,11 +15753,77 @@
   ]
  },
  {
-  "id": 900450,
+  "id": 900484,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Guam",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "guam"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/guam.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900485,
+  "tier": "death",
+  "group": "Outline",
+  "name": "Northern Mariana Islands",
+  "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Oceania"
+   }
+  ],
+  "aliases": [
+   "northern mariana islands"
+  ],
+  "cats": [
+   "outlines"
+  ],
+  "photos": [
+   {
+    "url": "../data/things/outlines/northern-mariana-islands.svg",
+    "credit": "Outline drawn from Natural Earth (public domain)",
+    "obs": ""
+   }
+  ]
+ },
+ {
+  "id": 900486,
   "tier": "hard",
   "group": "Outline",
   "name": "Bahrain",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   },
+   {
+    "lab": "capital",
+    "txt": "in the north of the country"
+   },
+   {
+    "lab": "capital",
+    "txt": "Manama"
+   }
+  ],
   "aliases": [
    "bahrain"
   ],
@@ -9146,11 +15839,17 @@
   ]
  },
  {
-  "id": 900451,
+  "id": 900487,
   "tier": "death",
   "group": "Outline",
   "name": "Macau",
   "sci": "",
+  "facts": [
+   {
+    "lab": "continent",
+    "txt": "Asia"
+   }
+  ],
   "aliases": [
    "macau"
   ],

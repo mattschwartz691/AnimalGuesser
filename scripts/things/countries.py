@@ -113,3 +113,24 @@ def accepted(iso, name):
     if low.startswith("saint "):
         out.add("st " + low[6:]); out.add("st. " + low[6:])
     return sorted(out)
+
+
+# Natural Earth's capital for a country is sometimes out of date, and for the
+# countries with more than one it picks the least expected. Name and position,
+# where the game should say something else.
+CAPITAL = {
+    "tz": ("Dodoma", 35.74, -6.18),          # not Dar es Salaam since 1996
+    "bi": ("Gitega", 29.92, -3.43),          # not Bujumbura since 2019
+    "bj": ("Porto-Novo", 2.63, 6.50),        # Cotonou is the seat of government
+    "za": ("Pretoria", 28.19, -25.75),       # of its three, the one people name
+    "bo": ("La Paz", -68.15, -16.50),        # Sucre is constitutional, La Paz governs
+    "kz": ("Astana", 71.43, 51.13),          # missing from the places data
+    "pw": ("Ngerulmud", 134.62, 7.50),       # Melekeok was renamed
+    "mm": ("Naypyidaw", 96.13, 19.75),
+    "ci": ("Yamoussoukro", -5.28, 6.82),
+}
+
+
+def capital(iso, found):
+    """The capital to hint at: ours if we have one, otherwise what was found."""
+    return CAPITAL.get(iso, found)

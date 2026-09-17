@@ -167,11 +167,16 @@ main{
          max-width:100%; min-width:0}
 #hintscirow{display:none}
 #hintscirow.show{display:flex}
+/* a country shows its continent and capital before it shows the blanks */
+#hintnamerow{display:none}
+#hintnamerow.show{display:flex}
 .hintlab{
   font-size:10.5px; letter-spacing:1.4px; text-transform:uppercase;
   color:var(--dim);
 }
 #hintsci{font-size:16px; font-style:italic; color:var(--green); font-weight:600}
+#hintfacts{display:flex; flex-direction:column; align-items:center; gap:3px}
+.hintfact{font-size:15.5px; color:var(--green); font-weight:600}
 #hintword{
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
   font-size:23px; font-weight:700; letter-spacing:3px; color:var(--accent);

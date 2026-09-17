@@ -12,6 +12,7 @@ const el = {
   hintwrap:$("hintwrap"), playrow:$("playrow"), hangmanToggle:$("hangman-toggle"),
   keys:$("keys"), critter:$("critter"), crittercount:$("crittercount"),
   hintsci:$("hintsci"), hintscirow:$("hintscirow"), giveup:$("giveup"),
+  hintfacts:$("hintfacts"), hintnamerow:$("hintnamerow"),
   badphoto:$("badphoto"), fullscreen:$("fullscreen"),
   catwarn:$("catwarn"), allcats:$("allcats"), nocats:$("nocats"), buddy:$("buddy"), restart:$("restart"),
   title:$("title"), teamsetup:$("teamsetup"), game:$("game"), teambar:$("teambar"),
@@ -85,6 +86,7 @@ let solvedWords = new Set();       // indices of name words already guessed
 let countsShown = false;           // hint 1: how many letters per word
 let lettersShown = new Set();      // word indices whose first letter a hint paid for
 let latinShown = false;            // the last of the ordered hints
+let factsShown = 0;                // how many of a country's facts are up
 let randomShown = new Set();       // letter positions filled in at random
 let revealAll = false;             // round over: show the whole name and Latin
 let buddyMode = false;             // Buddy Mode: animal noises, not verdicts
@@ -348,6 +350,13 @@ function hintWords() {
   return splitName(hintName());
 }
 
+// Some things know things about themselves. A country gives its continent,
+// then roughly where its capital is, then the capital's name -- all before it
+// starts giving away letters, because those are the hints worth having.
+function hintFacts() {
+  return (current && current.animal && current.animal.facts) || [];
+}
+
 // Every letter of the name as {pos, word, first}, where pos counts letters
 // only -- punctuation and the gaps between words do not take a slot.
 function letterSlots() {
@@ -374,6 +383,7 @@ function randomPool() {
 // paying to reveal a letter you can see would be wasted.
 function nextHint() {
   if (hintsUsed >= MAX_HINTS) return null;      // eight to an animal, no more
+  if (factsShown < hintFacts().length) return {type: "fact"};
   if (!countsShown) return {type: "counts"};
   const words = hintWords();
   for (let i = 0; i < words.length; i++)
@@ -386,10 +396,11 @@ function nextHint() {
 
 function hintsLeft() {
   if (!hintName()) return 0;
+  const facts = Math.max(0, hintFacts().length - factsShown);
   // Hangman has no hint queue to walk. Right letters are free and unlimited,
   // so what is left to lose is the wrong ones: the pieces of bear still to go.
   if (hangmanMode) return Math.max(0, CRITTER_PARTS - partsShown);
-  let n = countsShown ? 0 : 1;
+  let n = facts + (countsShown ? 0 : 1);
   const words = hintWords();
   for (let i = 0; i < words.length; i++)
     if (!solvedWords.has(i) && !lettersShown.has(i)) n++;
@@ -398,7 +409,8 @@ function hintsLeft() {
 }
 
 function applyHint(t) {
-  if (t.type === "counts") countsShown = true;
+  if (t.type === "fact") factsShown++;
+  else if (t.type === "counts") countsShown = true;
   else if (t.type === "letter") lettersShown.add(t.i);
   else if (t.type === "latin") latinShown = true;
   else randomShown.add(t.pool[Math.floor(Math.random() * t.pool.length)].pos);
@@ -428,7 +440,15 @@ function spendHint() {
 // there, which is why buying the "counts" hint afterwards used to change
 // nothing -- the blanks it pays for were already up.
 function hintShowing() {
-  return !!hintName() && (countsShown || solvedWords.size > 0 || revealAll);
+  return !!hintName() && (countsShown || solvedWords.size > 0 || revealAll
+                          || factsShown > 0);
+}
+
+// The blanks are a hint of their own. A country's facts put the board on
+// screen before that hint has been bought, so the name row stays hidden until
+// it has been -- otherwise the continent would give away the letter count.
+function nameShowing() {
+  return countsShown || solvedWords.size > 0 || revealAll;
 }
 
 // The name as the board draws it: revealed letters, underscores for the rest.
@@ -464,7 +484,15 @@ function hintDisplay() {
 function hintSignature() {
   if (!hintShowing()) return "";
   const sci = hintSci();
-  return hintDisplay() + "|" + (sci && (latinShown || revealAll) ? sci : "");
+  return (nameShowing() ? hintDisplay() : "")
+         + "|" + (sci && (latinShown || revealAll) ? sci : "")
+         + "|" + factsOnShow().map(f => f.lab + ":" + f.txt).join(",");
+}
+
+// The facts currently on the board.
+function factsOnShow() {
+  const f = hintFacts();
+  return revealAll ? f : f.slice(0, factsShown);
 }
 
 function renderHint() {
@@ -473,10 +501,24 @@ function renderHint() {
     el.hintscirow.classList.remove("show");
     el.hintword.textContent = "";      // no stale shape from the last animal
     el.hintsci.textContent = "";
+    el.hintfacts.textContent = "";
     return;
   }
-  el.hintword.textContent = hintDisplay();
+  el.hintword.textContent = nameShowing() ? hintDisplay() : "";
+  el.hintnamerow.classList.toggle("show", nameShowing());
   el.hintbox.classList.add("show");
+
+  el.hintfacts.textContent = "";
+  for (const f of factsOnShow()) {
+    const row = document.createElement("div");
+    row.className = "hintrow show";
+    const lab = document.createElement("span");
+    lab.className = "hintlab"; lab.textContent = f.lab;
+    const val = document.createElement("span");
+    val.className = "hintfact"; val.textContent = f.txt;
+    row.append(lab, val);
+    el.hintfacts.appendChild(row);
+  }
 
   const sci = hintSci();
   const showSci = sci && (latinShown || revealAll);
@@ -720,6 +762,7 @@ function newRound(triesLeft = 6) {
   countsShown = false;
   lettersShown = new Set();
   latinShown = false;
+  factsShown = 0;
   randomShown = new Set();
   revealAll = false;
   guessedLetters = new Set();
