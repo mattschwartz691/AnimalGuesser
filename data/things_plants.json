@@ -6404,7 +6404,7 @@
  "trees": [
   {
    "id": 56133,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "English Oak",
    "sci": "Quercus robur",
@@ -6430,12 +6430,13 @@
   },
   {
    "id": 49005,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Northern Red Oak",
    "sci": "Quercus rubra",
    "aliases": [
-    "northern red oak"
+    "northern red oak",
+    "red oak"
    ],
    "cats": [
     "trees"
@@ -6455,7 +6456,7 @@
   },
   {
    "id": 54779,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "White Oak",
    "sci": "Quercus alba",
@@ -6480,7 +6481,7 @@
   },
   {
    "id": 47850,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Coast Live Oak",
    "sci": "Quercus agrifolia",
@@ -6505,7 +6506,7 @@
   },
   {
    "id": 54781,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Bur Oak",
    "sci": "Quercus macrocarpa",
@@ -6530,7 +6531,7 @@
   },
   {
    "id": 68632,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Oregon Oak",
    "sci": "Quercus garryana",
@@ -6580,7 +6581,7 @@
   },
   {
    "id": 54763,
-   "tier": "medium",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Norway Maple",
    "sci": "Acer platanoides",
@@ -6605,7 +6606,7 @@
   },
   {
    "id": 48098,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Red Maple",
    "sci": "Acer rubrum",
@@ -6630,7 +6631,7 @@
   },
   {
    "id": 119791,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Sycamore Maple",
    "sci": "Acer pseudoplatanus",
@@ -6655,7 +6656,7 @@
   },
   {
    "id": 56193,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Field Maple",
    "sci": "Acer campestre",
@@ -6680,7 +6681,7 @@
   },
   {
    "id": 48095,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Striped Maple",
    "sci": "Acer pensylvanicum",
@@ -6710,7 +6711,8 @@
    "name": "Eastern White Pine",
    "sci": "Pinus strobus",
    "aliases": [
-    "eastern white pine"
+    "eastern white pine",
+    "white pine"
    ],
    "cats": [
     "trees"
@@ -6730,7 +6732,7 @@
   },
   {
    "id": 58722,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Scots Pine",
    "sci": "Pinus sylvestris",
@@ -6781,11 +6783,12 @@
   },
   {
    "id": 48461,
-   "tier": "hard",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Western Ponderosa Pine",
    "sci": "Pinus ponderosa",
    "aliases": [
+    "ponderosa pine",
     "western ponderosa pine"
    ],
    "cats": [
@@ -6806,7 +6809,7 @@
   },
   {
    "id": 53464,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Pitch Pine",
    "sci": "Pinus rigida",
@@ -6831,7 +6834,7 @@
   },
   {
    "id": 1592837,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Southwestern Ponderosa Pine",
    "sci": "Pinus brachyptera",
@@ -6856,7 +6859,7 @@
   },
   {
    "id": 83992,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Silver Birch",
    "sci": "Betula pendula",
@@ -6907,11 +6910,12 @@
   },
   {
    "id": 49883,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Paper Birch",
    "sci": "Betula papyrifera",
    "aliases": [
+    "birch",
     "paper birch"
    ],
    "cats": [
@@ -6932,7 +6936,7 @@
   },
   {
    "id": 119061,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Downy Birch",
    "sci": "Betula pubescens",
@@ -6957,7 +6961,7 @@
   },
   {
    "id": 117429,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "River Birch",
    "sci": "Betula nigra",
@@ -6982,7 +6986,7 @@
   },
   {
    "id": 49884,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Gray Birch",
    "sci": "Betula populifolia",
@@ -7007,7 +7011,7 @@
   },
   {
    "id": 55846,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Goat Willow",
    "sci": "Salix caprea",
@@ -7032,7 +7036,7 @@
   },
   {
    "id": 54847,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Black Willow",
    "sci": "Salix nigra",
@@ -7057,7 +7061,7 @@
   },
   {
    "id": 168326,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Grey Willow",
    "sci": "Salix cinerea",
@@ -7082,7 +7086,7 @@
   },
   {
    "id": 54841,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "White Willow",
    "sci": "Salix alba",
@@ -7107,7 +7111,7 @@
   },
   {
    "id": 53452,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Arroyo Willow",
    "sci": "Salix lasiolepis",
@@ -7132,7 +7136,7 @@
   },
   {
    "id": 131125,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Interior Sandbar Willow",
    "sci": "Salix interior",
@@ -7162,7 +7166,8 @@
    "name": "American Beech",
    "sci": "Fagus grandifolia",
    "aliases": [
-    "american beech"
+    "american beech",
+    "beech"
    ],
    "cats": [
     "trees"
@@ -7182,7 +7187,7 @@
   },
   {
    "id": 54227,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "European Beech",
    "sci": "Fagus sylvatica",
@@ -7208,7 +7213,7 @@
   },
   {
    "id": 484154,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Oriental Beech",
    "sci": "Fagus orientalis",
@@ -7233,7 +7238,7 @@
   },
   {
    "id": 789728,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Crimean Beech",
    "sci": "Fagus \u00d7 taurica",
@@ -7258,7 +7263,7 @@
   },
   {
    "id": 192372,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Taiwan Beech",
    "sci": "Fagus hayatae",
@@ -7283,7 +7288,7 @@
   },
   {
    "id": 362505,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Japanese Beech",
    "sci": "Fagus crenata",
@@ -7313,6 +7318,7 @@
    "name": "Quaking Aspen",
    "sci": "Populus tremuloides",
    "aliases": [
+    "aspen",
     "quaking aspen"
    ],
    "cats": [
@@ -7358,7 +7364,7 @@
   },
   {
    "id": 47571,
-   "tier": "easy",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Aspen",
    "sci": "Populus tremula",
@@ -7384,7 +7390,7 @@
   },
   {
    "id": 47570,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "White Poplar",
    "sci": "Populus alba",
@@ -7409,7 +7415,7 @@
   },
   {
    "id": 54839,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Bigtooth Aspen",
    "sci": "Populus grandidentata",
@@ -7434,7 +7440,7 @@
   },
   {
    "id": 52120,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Fr\u00e9mont Cottonwood",
    "sci": "Populus fremontii",
@@ -7459,7 +7465,7 @@
   },
   {
    "id": 63567,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Norway Spruce",
    "sci": "Picea abies",
@@ -7485,7 +7491,7 @@
   },
   {
    "id": 117326,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "White Spruce",
    "sci": "Picea glauca",
@@ -7535,7 +7541,7 @@
   },
   {
    "id": 121931,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Red Spruce",
    "sci": "Picea rubens",
@@ -7560,7 +7566,7 @@
   },
   {
    "id": 84296,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Black Spruce",
    "sci": "Picea mariana",
@@ -7585,7 +7591,7 @@
   },
   {
    "id": 135801,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Siberian Spruce",
    "sci": "Picea obovata",
@@ -7636,7 +7642,7 @@
   },
   {
    "id": 165104,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Siberian Crabapple",
    "sci": "Malus baccata",
@@ -7661,7 +7667,7 @@
   },
   {
    "id": 77948,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Pacific Crab Apple",
    "sci": "Malus fusca",
@@ -7686,7 +7692,7 @@
   },
   {
    "id": 61223,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Wild Apple",
    "sci": "Malus sylvestris",
@@ -7711,7 +7717,7 @@
   },
   {
    "id": 133353,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Toringo Crabapple",
    "sci": "Malus toringo",
@@ -7736,7 +7742,7 @@
   },
   {
    "id": 54831,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Sweet Crabapple",
    "sci": "Malus coronaria",
@@ -7786,7 +7792,7 @@
   },
   {
    "id": 54835,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Chokecherry",
    "sci": "Prunus virginiana",
@@ -7811,7 +7817,7 @@
   },
   {
    "id": 143793,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Bird Cherry",
    "sci": "Prunus padus",
@@ -7836,7 +7842,7 @@
   },
   {
    "id": 55811,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Blackthorn",
    "sci": "Prunus spinosa",
@@ -7861,7 +7867,7 @@
   },
   {
    "id": 61432,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Cherry Laurel",
    "sci": "Prunus laurocerasus",
@@ -7886,7 +7892,7 @@
   },
   {
    "id": 61964,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Wild Cherry",
    "sci": "Prunus avium",
@@ -7911,7 +7917,7 @@
   },
   {
    "id": 60218,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Common Fig",
    "sci": "Ficus carica",
@@ -7936,7 +7942,7 @@
   },
   {
    "id": 54982,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Chinese Banyan",
    "sci": "Ficus microcarpa",
@@ -7961,7 +7967,7 @@
   },
   {
    "id": 162972,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Climbing Fig",
    "sci": "Ficus pumila",
@@ -7986,7 +7992,7 @@
   },
   {
    "id": 127514,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Sacred Fig",
    "sci": "Ficus religiosa",
@@ -8011,7 +8017,7 @@
   },
   {
    "id": 369434,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Hauili Fig Tree",
    "sci": "Ficus septica",
@@ -8036,7 +8042,7 @@
   },
   {
    "id": 437618,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Japanese Superb Fig",
    "sci": "Ficus subpisocarpa",
@@ -8061,7 +8067,7 @@
   },
   {
    "id": 48865,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Coconut Palm",
    "sci": "Cocos nucifera",
@@ -8087,7 +8093,7 @@
   },
   {
    "id": 200071,
-   "tier": "easy",
+   "tier": "death",
    "group": "Plantae",
    "name": "Trifoliate Orange",
    "sci": "Citrus trifoliata",
@@ -8112,7 +8118,7 @@
   },
   {
    "id": 331122,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Orange",
    "sci": "Citrus \u00d7 aurantium",
@@ -8137,7 +8143,7 @@
   },
   {
    "id": 54299,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Pomelo",
    "sci": "Citrus maxima",
@@ -8162,7 +8168,7 @@
   },
   {
    "id": 765426,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Tangerine",
    "sci": "Citrus deliciosa",
@@ -8187,7 +8193,7 @@
   },
   {
    "id": 122812,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Finger Lime",
    "sci": "Citrus australasica",
@@ -8212,7 +8218,7 @@
   },
   {
    "id": 765424,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Australian Round Lime",
    "sci": "Citrus australis",
@@ -8232,7 +8238,7 @@
   },
   {
    "id": 64350,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Ginkgo",
    "sci": "Ginkgo biloba",
@@ -8262,7 +8268,8 @@
    "name": "Coast Redwood",
    "sci": "Sequoia sempervirens",
    "aliases": [
-    "coast redwood"
+    "coast redwood",
+    "redwood"
    ],
    "cats": [
     "trees"
@@ -8282,7 +8289,7 @@
   },
   {
    "id": 57140,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Olive",
    "sci": "Olea europaea",
@@ -8308,7 +8315,7 @@
   },
   {
    "id": 524917,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Black Ironwood",
    "sci": "Olea capensis",
@@ -8333,7 +8340,7 @@
   },
   {
    "id": 578517,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Dune Olive",
    "sci": "Olea exasperata",
@@ -8358,7 +8365,7 @@
   },
   {
    "id": 369380,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Australian Olive",
    "sci": "Olea paniculata",
@@ -8383,7 +8390,7 @@
   },
   {
    "id": 590756,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Forest Olive",
    "sci": "Olea woodiana",
@@ -8408,7 +8415,7 @@
   },
   {
    "id": 84298,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Horse-chestnut",
    "sci": "Aesculus hippocastanum",
@@ -8434,7 +8441,7 @@
   },
   {
    "id": 53348,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "California Buckeye",
    "sci": "Aesculus californica",
@@ -8459,7 +8466,7 @@
   },
   {
    "id": 81708,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Red Buckeye",
    "sci": "Aesculus pavia",
@@ -8484,7 +8491,7 @@
   },
   {
    "id": 67790,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Ohio Buckeye",
    "sci": "Aesculus glabra",
@@ -8509,7 +8516,7 @@
   },
   {
    "id": 116362,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Yellow Buckeye",
    "sci": "Aesculus flava",
@@ -8534,7 +8541,7 @@
   },
   {
    "id": 285085,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Lower California Buckeye",
    "sci": "Aesculus parryi",
@@ -8559,7 +8566,7 @@
   },
   {
    "id": 53856,
-   "tier": "easy",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Holly",
    "sci": "Ilex aquifolium",
@@ -8584,7 +8591,7 @@
   },
   {
    "id": 60749,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "American Holly",
    "sci": "Ilex opaca",
@@ -8609,7 +8616,7 @@
   },
   {
    "id": 119955,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Yaupon Holly",
    "sci": "Ilex vomitoria",
@@ -8634,7 +8641,7 @@
   },
   {
    "id": 61119,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Winterberry Holly",
    "sci": "Ilex verticillata",
@@ -8659,7 +8666,7 @@
   },
   {
    "id": 120006,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Possumhaw",
    "sci": "Ilex decidua",
@@ -8684,7 +8691,7 @@
   },
   {
    "id": 129347,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Gallberry",
    "sci": "Ilex glabra",
@@ -8709,7 +8716,7 @@
   },
   {
    "id": 125440,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "European Ash",
    "sci": "Fraxinus excelsior",
@@ -8735,7 +8742,7 @@
   },
   {
    "id": 54808,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Green Ash",
    "sci": "Fraxinus pennsylvanica",
@@ -8760,7 +8767,7 @@
   },
   {
    "id": 54805,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "White Ash",
    "sci": "Fraxinus americana",
@@ -8910,7 +8917,7 @@
   },
   {
    "id": 169761,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Bigleaf Linden",
    "sci": "Tilia platyphyllos",
@@ -9036,7 +9043,7 @@
   },
   {
    "id": 128823,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Cedar Elm",
    "sci": "Ulmus crassifolia",
@@ -9061,7 +9068,7 @@
   },
   {
    "id": 79463,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Siberian Elm",
    "sci": "Ulmus pumila",
@@ -9186,7 +9193,7 @@
   },
   {
    "id": 68087,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "White Fir",
    "sci": "Abies concolor",
@@ -9211,7 +9218,7 @@
   },
   {
    "id": 75241,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Subalpine Fir",
    "sci": "Abies lasiocarpa",
@@ -9311,7 +9318,7 @@
   },
   {
    "id": 136234,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Atlas Cedar",
    "sci": "Cedrus atlantica",
@@ -9336,7 +9343,7 @@
   },
   {
    "id": 69820,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Deodar Cedar",
    "sci": "Cedrus deodara",
@@ -9361,7 +9368,7 @@
   },
   {
    "id": 136150,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Lebanon Cedar",
    "sci": "Cedrus libani",
@@ -9412,7 +9419,7 @@
   },
   {
    "id": 53398,
-   "tier": "medium",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Tasmanian Blue Gum",
    "sci": "Eucalyptus globulus",
@@ -9437,7 +9444,7 @@
   },
   {
    "id": 64128,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "River Red Gum",
    "sci": "Eucalyptus camaldulensis",
@@ -9462,7 +9469,7 @@
   },
   {
    "id": 502253,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Pink Gum",
    "sci": "Eucalyptus fasciculosa",
@@ -9562,11 +9569,12 @@
   },
   {
    "id": 54504,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Eastern Black Walnut",
    "sci": "Juglans nigra",
    "aliases": [
+    "black walnut",
     "eastern black walnut"
    ],
    "cats": [
@@ -9587,7 +9595,7 @@
   },
   {
    "id": 63935,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Persian Walnut",
    "sci": "Juglans regia",
@@ -9613,7 +9621,7 @@
   },
   {
    "id": 54792,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Butternut",
    "sci": "Juglans cinerea",
@@ -9713,12 +9721,13 @@
   },
   {
    "id": 49662,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "American Sycamore",
    "sci": "Platanus occidentalis",
    "aliases": [
-    "american sycamore"
+    "american sycamore",
+    "sycamore"
    ],
    "cats": [
     "trees"
@@ -9738,7 +9747,7 @@
   },
   {
    "id": 58231,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Western Sycamore",
    "sci": "Platanus racemosa",
@@ -9763,7 +9772,7 @@
   },
   {
    "id": 167031,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Arizona Sycamore",
    "sci": "Platanus wrightii",
@@ -9863,7 +9872,7 @@
   },
   {
    "id": 55801,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Hornbeam",
    "sci": "Carpinus betulus",
@@ -9888,7 +9897,7 @@
   },
   {
    "id": 54768,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "American Hornbeam",
    "sci": "Carpinus caroliniana",
@@ -9913,7 +9922,7 @@
   },
   {
    "id": 438165,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Eastern Hornbeam",
    "sci": "Carpinus orientalis",
@@ -9988,7 +9997,7 @@
   },
   {
    "id": 966205,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Common Alder",
    "sci": "Alnus glutinosa",
@@ -10013,7 +10022,7 @@
   },
   {
    "id": 75377,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Grey Alder",
    "sci": "Alnus incana",
@@ -10038,7 +10047,7 @@
   },
   {
    "id": 868167,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Green Alder",
    "sci": "Alnus alnobetula",
@@ -10138,7 +10147,7 @@
   },
   {
    "id": 121763,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Sweet Chestnut",
    "sci": "Castanea sativa",
@@ -10164,7 +10173,7 @@
   },
   {
    "id": 49186,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "American Chestnut",
    "sci": "Castanea dentata",
@@ -10189,7 +10198,7 @@
   },
   {
    "id": 84363,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Allegheny Chinquapin",
    "sci": "Castanea pumila",
@@ -10314,7 +10323,7 @@
   },
   {
    "id": 58725,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Common Juniper",
    "sci": "Juniperus communis",
@@ -10339,7 +10348,7 @@
   },
   {
    "id": 135927,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Ashe Juniper",
    "sci": "Juniperus ashei",
@@ -10439,7 +10448,7 @@
   },
   {
    "id": 64261,
-   "tier": "medium",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Mediterranean Cypress",
    "sci": "Cupressus sempervirens",
@@ -10464,7 +10473,7 @@
   },
   {
    "id": 410852,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "West Himalayan Cypress",
    "sci": "Cupressus torulosa",
@@ -10484,7 +10493,7 @@
   },
   {
    "id": 136152,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Bhutan Cypress",
    "sci": "Cupressus cashmeriana",
@@ -10569,7 +10578,7 @@
   },
   {
    "id": 48252,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Western Redcedar",
    "sci": "Thuja plicata",
@@ -10594,7 +10603,7 @@
   },
   {
    "id": 54037,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Northern Whitecedar",
    "sci": "Thuja occidentalis",
@@ -10619,7 +10628,7 @@
   },
   {
    "id": 135551,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Japanese Arborvitae",
    "sci": "Thuja standishii",
@@ -10679,7 +10688,7 @@
   },
   {
    "id": 58721,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Tamarack",
    "sci": "Larix laricina",
@@ -10704,7 +10713,7 @@
   },
   {
    "id": 59747,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Larch",
    "sci": "Larix decidua",
@@ -10729,7 +10738,7 @@
   },
   {
    "id": 135893,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Siberian Larch",
    "sci": "Larix sibirica",
@@ -10829,12 +10838,13 @@
   },
   {
    "id": 48734,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Eastern Hemlock",
    "sci": "Tsuga canadensis",
    "aliases": [
-    "eastern hemlock"
+    "eastern hemlock",
+    "hemlock"
    ],
    "cats": [
     "trees"
@@ -10854,7 +10864,7 @@
   },
   {
    "id": 48254,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Western Hemlock",
    "sci": "Tsuga heterophylla",
@@ -10879,7 +10889,7 @@
   },
   {
    "id": 68089,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Mountain Hemlock",
    "sci": "Tsuga mertensiana",
@@ -10979,7 +10989,7 @@
   },
   {
    "id": 56063,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "European Mountain Ash",
    "sci": "Sorbus aucuparia",
@@ -11004,7 +11014,7 @@
   },
   {
    "id": 54265,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "American Mountain Ash",
    "sci": "Sorbus americana",
@@ -11029,7 +11039,7 @@
   },
   {
    "id": 48583,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Sitka Mountain-ash",
    "sci": "Sorbus sitchensis",
@@ -11129,7 +11139,7 @@
   },
   {
    "id": 47192,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Canadian Bunchberry",
    "sci": "Cornus canadensis",
@@ -11154,7 +11164,7 @@
   },
   {
    "id": 53387,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Red Osier Dogwood",
    "sci": "Cornus sericea",
@@ -11179,11 +11189,12 @@
   },
   {
    "id": 54777,
-   "tier": "hard",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Flowering Dogwood",
    "sci": "Cornus florida",
    "aliases": [
+    "dogwood",
     "flowering dogwood"
    ],
    "cats": [
@@ -11304,7 +11315,7 @@
   },
   {
    "id": 50859,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Southern Catalpa",
    "sci": "Catalpa bignonioides",
@@ -11329,7 +11340,7 @@
   },
   {
    "id": 160235,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Chinese Catalpa",
    "sci": "Catalpa ovata",
@@ -11404,7 +11415,7 @@
   },
   {
    "id": 78554,
-   "tier": "medium",
+   "tier": "death",
    "group": "Plantae",
    "name": "Canary Island Palm",
    "sci": "Phoenix canariensis",
@@ -11429,7 +11440,7 @@
   },
   {
    "id": 166729,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Reclining Date Palm",
    "sci": "Phoenix reclinata",
@@ -11554,11 +11565,12 @@
   },
   {
    "id": 83074,
-   "tier": "medium",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Southern Magnolia",
    "sci": "Magnolia grandiflora",
    "aliases": [
+    "magnolia",
     "southern magnolia"
    ],
    "cats": [
@@ -11579,7 +11591,7 @@
   },
   {
    "id": 127906,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Sweetbay Magnolia",
    "sci": "Magnolia virginiana",
@@ -11604,7 +11616,7 @@
   },
   {
    "id": 84790,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Umbrella Magnolia",
    "sci": "Magnolia tripetala",
@@ -11704,7 +11716,7 @@
   },
   {
    "id": 54791,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Shagbark Hickory",
    "sci": "Carya ovata",
@@ -11754,7 +11766,7 @@
   },
   {
    "id": 67593,
-   "tier": "death",
+   "tier": "easy",
    "group": "Plantae",
    "name": "Pecan",
    "sci": "Carya illinoinensis",
@@ -11779,7 +11791,7 @@
   },
   {
    "id": 54789,
-   "tier": "death",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Pignut Hickory",
    "sci": "Carya glabra",
@@ -11854,12 +11866,13 @@
   },
   {
    "id": 49658,
-   "tier": "hard",
+   "tier": "easy",
    "group": "Plantae",
    "name": "American Sweetgum",
    "sci": "Liquidambar styraciflua",
    "aliases": [
-    "american sweetgum"
+    "american sweetgum",
+    "sweetgum"
    ],
    "cats": [
     "trees"
@@ -11949,7 +11962,7 @@
   },
   {
    "id": 83168,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Paran\u00e1 Araucaria",
    "sci": "Araucaria angustifolia",
@@ -12024,7 +12037,7 @@
   },
   {
    "id": 126404,
-   "tier": "death",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Monkey-puzzle",
    "sci": "Araucaria araucana",
@@ -12074,7 +12087,7 @@
   },
   {
    "id": 127890,
-   "tier": "death",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Norfolk Island Pine",
    "sci": "Araucaria heterophylla",
@@ -12099,7 +12112,7 @@
   },
   {
    "id": 47553,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Common Yew",
    "sci": "Taxus baccata",
@@ -12249,7 +12262,7 @@
   },
   {
    "id": 404204,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Mountain Beech",
    "sci": "Nothofagus cliffortioides",
@@ -12399,7 +12412,7 @@
   },
   {
    "id": 69150,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Dawn Redwood",
    "sci": "Metasequoia glyptostroboides",
@@ -12424,7 +12437,7 @@
   },
   {
    "id": 129055,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Japanese Zelkova",
    "sci": "Zelkova serrata",
@@ -12544,7 +12557,7 @@
   },
   {
    "id": 54857,
-   "tier": "hard",
+   "tier": "medium",
    "group": "Plantae",
    "name": "Common Hackberry",
    "sci": "Celtis occidentalis",
@@ -12694,7 +12707,7 @@
   },
   {
    "id": 54771,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "American Hophornbeam",
    "sci": "Ostrya virginiana",
@@ -12839,7 +12852,7 @@
   },
   {
    "id": 371700,
-   "tier": "hard",
+   "tier": "death",
    "group": "Plantae",
    "name": "Caucasian Wingnut",
    "sci": "Pterocarya fraxinifolia",
@@ -12959,7 +12972,7 @@
   },
   {
    "id": 81500,
-   "tier": "death",
+   "tier": "hard",
    "group": "Plantae",
    "name": "African Baobab",
    "sci": "Adansonia digitata",
@@ -13524,7 +13537,7 @@
   },
   {
    "id": 83435,
-   "tier": "death",
+   "tier": "medium",
    "group": "Plantae",
    "name": "American Persimmon",
    "sci": "Diospyros virginiana",
@@ -14190,7 +14203,7 @@
   },
   {
    "id": 58316,
-   "tier": "easy",
+   "tier": "hard",
    "group": "Plantae",
    "name": "Weeping Willow",
    "sci": "Salix babylonica",
@@ -14222,7 +14235,8 @@
    "sci": "Sequoiadendron giganteum",
    "aliases": [
     "giant sequoia",
-    "redwood"
+    "redwood",
+    "sequoia"
    ],
    "cats": [
     "trees"
@@ -14237,6 +14251,710 @@
      "url": "https://static.inaturalist.org/photos/119771232/large.jpg",
      "credit": "(c) AnaGaisiner, all rights reserved",
      "obs": "https://www.inaturalist.org/observations/73367546"
+    }
+   ]
+  },
+  {
+   "id": 48502,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Eastern Redbud",
+   "sci": "Cercis canadensis",
+   "aliases": [
+    "eastern redbud",
+    "redbud"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/121594068/large.jpg",
+     "credit": "(c) Liza Washington, all rights reserved, uploaded by Liza Washington",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256203783/large.jpeg",
+     "credit": "(c) Kyle Eaton, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/148744176"
+    }
+   ]
+  },
+  {
+   "id": 48256,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Douglas-fir",
+   "sci": "Pseudotsuga menziesii",
+   "aliases": [
+    "douglas fir",
+    "douglas-fir"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/large.jpg",
+     "credit": "(c) Tracy S., baz\u0131 haklar\u0131 sakl\u0131d\u0131r (CC BY-NC), y\u00fckleyen: Tracy S.",
+     "obs": ""
+    },
+    {
+     "url": "https://static.inaturalist.org/photos/663051525/large.jpg",
+     "credit": "(c) David Gernandt, all rights reserved",
+     "obs": "https://www.inaturalist.org/observations/363243262"
+    }
+   ]
+  },
+  {
+   "id": 49013,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Southern Live Oak",
+   "sci": "Quercus virginiana",
+   "aliases": [
+    "live oak",
+    "southern live oak"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56778997/large.jpg",
+     "credit": "(c) John Winder, some rights reserved (CC BY-NC-SA)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349400564/large.jpeg",
+     "credit": "(c) Jonathan Gilmer, some rights reserved (CC BY-NC-ND)",
+     "obs": "https://www.inaturalist.org/observations/198260949"
+    }
+   ]
+  },
+  {
+   "id": 49666,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Baldcypress",
+   "sci": "Taxodium distichum",
+   "aliases": [
+    "bald cypress",
+    "baldcypress"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2795370/large.JPG",
+     "credit": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
+     "obs": ""
+    },
+    {
+     "url": "https://static.inaturalist.org/photos/577351023/large.jpg",
+     "credit": "(c) Evelyn Marie Foley, all rights reserved",
+     "obs": "https://www.inaturalist.org/observations/319395399"
+    }
+   ]
+  },
+  {
+   "id": 54797,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Honey Locust",
+   "sci": "Gleditsia triacanthos",
+   "aliases": [
+    "honey locust"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/18938610/large.jpeg",
+     "credit": "(c) C\u00e9sar Andr\u00e9s Castillo, all rights reserved, uploaded by C\u00e9sar Andr\u00e9s Castillo",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415833995/large.jpeg",
+     "credit": "(c) Deryl Nethercott, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/233953622"
+    }
+   ]
+  },
+  {
+   "id": 59921,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Loblolly Pine",
+   "sci": "Pinus taeda",
+   "aliases": [
+    "loblolly pine"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102085356/large.jpeg",
+     "credit": "(c) Susie Doe, baz\u0131 haklar\u0131 sakl\u0131d\u0131r (CC BY-NC-SA), y\u00fckleyen: Susie Doe",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38607040/large.jpg",
+     "credit": "(c) Ashley M Bradford, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/24956085"
+    }
+   ]
+  },
+  {
+   "id": 119092,
+   "tier": "easy",
+   "group": "Plantae",
+   "name": "Blue Spruce",
+   "sci": "Picea pungens",
+   "aliases": [
+    "blue spruce"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389275799/large.jpeg",
+     "credit": "(c) Stephen Petersen, some rights reserved (CC BY-NC), uploaded by Stephen Petersen",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94123478/large.jpg",
+     "credit": "(c) Sergey Lednev, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/58933884"
+    }
+   ]
+  },
+  {
+   "id": 133354,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Sourwood",
+   "sci": "Oxydendrum arboreum",
+   "aliases": [
+    "sourwood"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396498/large.JPG",
+     "credit": "(c) teamtigerlily, some rights reserved (CC BY-NC)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53423733/large.jpg",
+     "credit": "(c) A. R., some rights reserved (CC BY-NC-SA)",
+     "obs": "https://www.inaturalist.org/observations/33978697"
+    }
+   ]
+  },
+  {
+   "id": 53582,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "American Tuliptree",
+   "sci": "Liriodendron tulipifera",
+   "aliases": [
+    "american tuliptree"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/867903/large.jpg",
+     "credit": "(c) Kew on Flickr, some rights reserved (CC BY-NC-SA)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427773301/large.jpeg",
+     "credit": "(c) Michael J. Papay, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/240131367"
+    }
+   ]
+  },
+  {
+   "id": 56088,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Black Locust",
+   "sci": "Robinia pseudoacacia",
+   "aliases": [
+    "black locust"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37431398/large.jpeg",
+     "credit": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528730679/large.jpg",
+     "credit": "(c) Caleb Swecker, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/293777777"
+    }
+   ]
+  },
+  {
+   "id": 49396,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Shortleaf Pine",
+   "sci": "Pinus echinata",
+   "aliases": [
+    "shortleaf pine"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2903118/large.JPG",
+     "credit": "(c) Cosmic Cat, some rights reserved (CC BY-NC-ND), uploaded by Cosmic Cat",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617914643/large.jpg",
+     "credit": "(c) Porter D. Crane, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/339649853"
+    }
+   ]
+  },
+  {
+   "id": 54785,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Pin Oak",
+   "sci": "Quercus palustris",
+   "aliases": [
+    "pin oak"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23431353/large.jpg",
+     "credit": "(c) Sandy Wolkenberg, some rights reserved (CC BY), uploaded by Sandy Wolkenberg",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558464261/large.jpg",
+     "credit": "(c) nicandra711ph, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/309477554"
+    }
+   ]
+  },
+  {
+   "id": 58205,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Osage-orange",
+   "sci": "Maclura pomifera",
+   "aliases": [
+    "osage-orange"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52688312/large.jpg",
+     "credit": "(c) hilliri, some rights reserved (CC BY-NC)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491240443/large.jpg",
+     "credit": "(c) Cliff Tyllick, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/273086160"
+    }
+   ]
+  },
+  {
+   "id": 54762,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Silver Maple",
+   "sci": "Acer saccharinum",
+   "aliases": [
+    "silver maple"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135565/large.jpg",
+     "credit": "no rights reserved",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555858154/large.jpg",
+     "credit": "(c) Summit Metro Parks, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/308120116"
+    }
+   ]
+  },
+  {
+   "id": 54795,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Sassafras",
+   "sci": "Sassafras albidum",
+   "aliases": [
+    "sassafras"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89683054/large.jpg",
+     "credit": "(c) Tom Potterfield, some rights reserved (CC BY-NC-SA)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231491624/large.jpg",
+     "credit": "(c) Douglas Goldman, some rights reserved (CC BY-SA)",
+     "obs": "https://www.inaturalist.org/observations/135702990"
+    }
+   ]
+  },
+  {
+   "id": 49006,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Black Oak",
+   "sci": "Quercus velutina",
+   "aliases": [
+    "black oak"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219545770/large.jpeg",
+     "credit": "(c) Robert Flanagan, some rights reserved (CC BY-NC-SA), uploaded by Robert Flanagan",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549911503/large.jpg",
+     "credit": "(c) gavin_miller, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/305016422"
+    }
+   ]
+  },
+  {
+   "id": 54802,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Black Tupelo",
+   "sci": "Nyssa sylvatica",
+   "aliases": [
+    "black tupelo"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197904434/large.jpg",
+     "credit": "(c) mountainad82, some rights reserved (CC BY-NC)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557024809/large.jpg",
+     "credit": "(c) monsignor, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/308730964"
+    }
+   ]
+  },
+  {
+   "id": 58724,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Jack Pine",
+   "sci": "Pinus banksiana",
+   "aliases": [
+    "jack pine"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/8937314/large.jpg",
+     "credit": "(c) pampoum, all rights reserved",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540225239/large.jpg",
+     "credit": "(c) Lo\u00efc Mathieu, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/299850377"
+    }
+   ]
+  },
+  {
+   "id": 62887,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Teak",
+   "sci": "Tectona grandis",
+   "aliases": [
+    "teak"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/88386046/large.jpg",
+     "credit": "(c) Eerika Schulz, all rights reserved",
+     "obs": ""
+    },
+    {
+     "url": "https://static.inaturalist.org/photos/453057718/large.jpeg",
+     "credit": "(c) Jose rosas, all rights reserved",
+     "obs": "https://www.inaturalist.org/observations/253063442"
+    }
+   ]
+  },
+  {
+   "id": 54491,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Common Hazel",
+   "sci": "Corylus avellana",
+   "aliases": [
+    "common hazel"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249644515/large.jpg",
+     "credit": "(c) David Ballesteros, some rights reserved (CC BY-NC), uploaded by David Ballesteros",
+     "obs": ""
+    },
+    {
+     "url": "https://static.inaturalist.org/photos/44700867/large.jpg",
+     "credit": "(c) lotharf, all rights reserved",
+     "obs": "https://www.inaturalist.org/observations/28665731"
+    }
+   ]
+  },
+  {
+   "id": 58300,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Pomegranate",
+   "sci": "Punica granatum",
+   "aliases": [
+    "pomegranate"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4956594/large.jpeg",
+     "credit": "(c) H. Zell, some rights reserved (CC BY-SA)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615768075/large.jpg",
+     "credit": "(c) Suraiyachowdhurynitu, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/338581079"
+    }
+   ]
+  },
+  {
+   "id": 125742,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Japanese Cherry",
+   "sci": "Prunus serrulata",
+   "aliases": [
+    "japanese cherry"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90432717/large.jpeg",
+     "credit": "(c) pigrodri, some rights reserved (CC BY-NC), uploaded by pigrodri",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366717203/large.jpeg",
+     "credit": "(c) W Rao, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/207339838"
+    }
+   ]
+  },
+  {
+   "id": 53940,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Rubber Tree",
+   "sci": "Hevea brasiliensis",
+   "aliases": [
+    "rubber tree"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60706943/large.jpeg",
+     "credit": "(c) Cheongweei Gan, some rights reserved (CC BY-SA), uploaded by Cheongweei Gan",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/599059352/large.jpg",
+     "credit": "(c) Diogo Luiz, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/330371672"
+    }
+   ]
+  },
+  {
+   "id": 54759,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Bay Laurel",
+   "sci": "Laurus nobilis",
+   "aliases": [
+    "bay laurel"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150103946/large.jpg",
+     "credit": "(c) Sarah Gregg, some rights reserved (CC BY-NC-SA)",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682731146/large.jpg",
+     "credit": "(c) Gianni Del Bufalo bygdb, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/373570862"
+    }
+   ]
+  },
+  {
+   "id": 47785,
+   "tier": "medium",
+   "group": "Plantae",
+   "name": "Western Joshua Tree",
+   "sci": "Yucca brevifolia",
+   "aliases": [
+    "western joshua tree"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/262955271/large.jpg",
+     "credit": "(c) Branden Kowalyszyn, all rights reserved, uploaded by Branden Kowalyszyn",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466412863/large.jpg",
+     "credit": "(c) Kenzie Nelson, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/259784360"
+    }
+   ]
+  },
+  {
+   "id": 48872,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Indian Mango",
+   "sci": "Mangifera indica",
+   "aliases": [
+    "indian mango"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://static.inaturalist.org/photos/234675028/large.jpeg",
+     "credit": "(c) Milton Galvis, all rights reserved, uploaded by Milton Galvis",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510775360/large.jpg",
+     "credit": "(c) Alfred Neubert, some rights reserved (CC BY-NC)",
+     "obs": "https://www.inaturalist.org/observations/284221196"
+    }
+   ]
+  },
+  {
+   "id": 54880,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Indian Banyan",
+   "sci": "Ficus benghalensis",
+   "aliases": [
+    "indian banyan"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7018092/large.jpeg",
+     "credit": "(c) Kate Turner, some rights reserved (CC BY-NC), uploaded by Kate Turner",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192133322/large.jpg",
+     "credit": "(c) Yoav Daniel Bar-Ness, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/113736743"
+    }
+   ]
+  },
+  {
+   "id": 50868,
+   "tier": "hard",
+   "group": "Plantae",
+   "name": "Cork Oak",
+   "sci": "Quercus suber",
+   "aliases": [
+    "cork oak"
+   ],
+   "cats": [
+    "trees"
+   ],
+   "photos": [
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159050222/large.jpeg",
+     "credit": "(c) Duarte Frade, some rights reserved (CC BY), uploaded by Duarte Frade",
+     "obs": ""
+    },
+    {
+     "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224459081/large.jpg",
+     "credit": "(c) Kevin Faccenda, some rights reserved (CC BY)",
+     "obs": "https://www.inaturalist.org/observations/131859030"
     }
    ]
   }

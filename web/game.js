@@ -4,7 +4,8 @@
 
 const $ = (id) => document.getElementById(id);
 const el = {
-  stage:$("stage"), photo:$("photo"), spinner:$("spinner"), credit:$("credit"),
+  stage:$("stage"), photo:$("photo"), photo2:$("photo2"),
+  spinner:$("spinner"), credit:$("credit"),
   flash:$("flash"), guessbar:$("guessbar"), guess:$("guess"), submit:$("submit"),
   reveal:$("reveal"), answer:$("answer"), next:$("next"),
   gear:$("gear"), settings:$("settings"), overlay:$("overlay"), close:$("close"),
@@ -797,23 +798,35 @@ function newRound(triesLeft = 6) {
   loadPhoto(triesLeft);
 }
 
+// Some things are shown as a pair rather than one picture at a time: a tree
+// gives the whole tree and a close-up together, side by side.
+function pairPhotos() {
+  const a = current && current.animal;
+  return (a && a.pair && (a.photos || []).length > 1) ? a.photos.slice(0, 2) : null;
+}
+
 // Load whatever photo `current` points at. Kept separate from newRound so the
 // bad-photo button can swap the image without resetting the round.
 function loadPhoto(triesLeft = 6) {
   const mine = ++gen;
-  const photo = current.photo;
+  const pair = pairPhotos();
+  const photo = pair ? pair[0] : current.photo;
   el.photo.classList.remove("ready");
+  el.photo2.classList.remove("ready");
+  el.stage.classList.toggle("pair", !!pair);
   el.fullscreen.classList.remove("show");
   el.spinner.classList.remove("hidden");
   el.spinner.textContent = "Loading photo\u2026";
   el.credit.textContent = "";
+
+  const credit = (p) => CREDIT_FOR + ": " + (p.credit || "iNaturalist");
 
   el.photo.onload = () => {
     if (mine !== gen) return;              // superseded while loading
     el.photo.classList.add("ready");
     el.spinner.classList.add("hidden");
     el.fullscreen.classList.add("show");
-    el.credit.textContent = CREDIT_FOR + ": " + (photo.credit || "iNaturalist");
+    el.credit.textContent = credit(photo);
     refocusGuess();
     preloadNext();
   };
@@ -823,6 +836,22 @@ function loadPhoto(triesLeft = 6) {
     if (triesLeft > 0) newRound(triesLeft - 1);
     else el.spinner.textContent = "Could not load a photo. Check your connection.";
   };
+
+  if (pair) {
+    // the second view is a bonus: if it fails, the round carries on with one
+    el.photo2.onload = () => {
+      if (mine !== gen) return;
+      el.photo2.classList.add("ready");
+      el.credit.textContent = credit(photo) + "  \u00b7  " + credit(pair[1]);
+    };
+    el.photo2.onerror = () => {
+      if (mine !== gen) return;
+      el.stage.classList.remove("pair");   // fall back to the single view
+    };
+    el.photo2.src = pair[1].url;
+  } else {
+    el.photo2.removeAttribute("src");
+  }
   el.photo.src = photo.url;
 }
 
@@ -831,6 +860,7 @@ function loadPhoto(triesLeft = 6) {
 // one photo, move on to another animal. Either way it costs nothing.
 function badPhoto() {
   if (locked || !current) return;
+  if (pairPhotos()) { newRound(); return; }   // both are already on screen
   const others = (current.animal.photos || [])
     .filter(p => p.url !== current.photo.url);
   if (!others.length) { newRound(); return; }
@@ -862,7 +892,12 @@ function syncFullscreen() {
 function preloadNext() {
   if (upcoming) return;
   upcoming = draw();
-  if (upcoming) { const im = new Image(); im.src = upcoming.photo.url; }
+  if (!upcoming) return;
+  const a = upcoming.animal;
+  const warm = (a.pair && (a.photos || []).length > 1)
+    ? a.photos.slice(0, 2).map(p => p.url)
+    : [upcoming.photo.url];
+  for (const u of warm) { const im = new Image(); im.src = u; }
 }
 
 // Put the cursor back in the guess box -- unless someone is in the middle of
@@ -991,10 +1026,11 @@ function revealAnswer(right) {
   const a = current.animal;
   el.answer.textContent = a.name;
   el.answer.className = right ? "right" : "wrong";
+  const shown = pairPhotos() || [current.photo];
   el.credit.innerHTML =
-    CREDIT_FOR + ": " + escapeHtml(current.photo.credit || "iNaturalist") +
-    (current.photo.obs
-      ? ' · <a href="' + escapeAttr(current.photo.obs) +
+    shown.map(p => CREDIT_FOR + ": " + escapeHtml(p.credit || "iNaturalist")).join(" \u00b7 ") +
+    (shown[0].obs
+      ? ' · <a href="' + escapeAttr(shown[0].obs) +
         '" target="_blank" rel="noopener">source</a>' : "") +
     (a.sci ? " · <i>" + escapeHtml(a.sci) + "</i>" : "");
   el.reveal.classList.remove("hidden");

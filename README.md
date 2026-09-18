@@ -40,15 +40,33 @@ population**, on one shared rule, so the two agree about which countries are
 the easy ones. Easy plants also accept the everyday word: *sunflower* answers
 the Common Sunflower, *oak* the English Oak, *maple* the Sugar Maple.
 
-**Each tree has two photographs.** Nothing labels a photo as "the leaves" —
-iNaturalist has no such annotation, Wikimedia Commons has a leaf category for
-about one species in six, and searching Commons for them returns microscope
-slides of leaf epidermis. What does exist is a record of whether an observation
-had green leaves, so the second photo is drawn from one of those. In practice
-this gives one close-up and one wider shot for 299 of the 315 trees — often
-with the close-up first, which is the opposite of what was intended and makes
-no difference in play, since the game picks one at random and **Bad photo**
-cycles them.
+**A tree is shown as a pair** — both of its photographs on screen at once,
+side by side, stacked on a narrow screen, each photographer credited. 327 of
+the 343 trees have two. If the second fails to load the round carries on with
+one rather than breaking.
+
+What the pair *cannot* promise is one whole tree and one close-up of the
+leaves. Nothing labels a photograph that way. iNaturalist has no annotation for
+it — the closest, "Leaves: Green Leaves", records that the plant had leaves
+when it was seen, not what the picture is of. Wikimedia Commons has a leaf
+category for roughly one species in six, and a text search for them returns
+microscope slides of leaf epidermis. The second photo is drawn from a
+green-leaves observation, which biases it towards foliage, and often that is
+what you get — but a sequoia can come out as two distant shots of the whole
+tree, and a beech as two close-ups. Hand-picking is the only way to guarantee
+it.
+
+**Tree difficulty is by range and familiarity**, and none of it is derivable:
+"American" is a range question the photographs cannot answer and "familiar" is
+not a fact about a plant at all, so all three tiers are named species lists and
+anything unnamed falls to death.
+
+| Tier | What is in it |
+|---|---|
+| Easy | 28 common American trees — sugar maple, white oak, eastern white pine, dogwood, redbud, coast redwood |
+| Medium | 31 less common American trees — shagbark hickory, bur oak, tulip tree, sassafras, osage-orange, Joshua tree |
+| Hard | 32 of the wider world that should still ring a bell — English oak, olive, ginkgo, baobab, coconut palm, cork oak, teak |
+| Death | the other 252 |
 
 **Countries give their own hints.** A flag or an outline hands over, in order:
 the **continent**, then roughly **where its capital is** — computed from the

@@ -23,6 +23,14 @@ def main():
     else:
         print("   (no plants file yet -- flowers and trees will be missing)")
 
+    # A tree is shown as a pair -- the whole tree and a close-up together --
+    # so both of its photographs go on screen at once rather than one being
+    # picked at random. Anything with a second photo gets the flag.
+    pairs = 0
+    for r in recs:
+        if r["cats"][0] == "trees" and len(r.get("photos", [])) > 1:
+            r["pair"] = True; pairs += 1
+
     # one category each, same rule as the animal game
     bad = [r["name"] for r in recs if len(r.get("cats", [])) != 1]
     assert not bad, "not in exactly one category: %s" % bad[:5]
@@ -40,7 +48,7 @@ def main():
                "animals": uniq}, open(OUT, "w"), separators=(",", ":"))
     n = collections.Counter(r["cats"][0] for r in uniq)
     t = collections.Counter(r["tier"] for r in uniq)
-    print(f"wrote {len(uniq):,} things -> data/things.json")
+    print(f"wrote {len(uniq):,} things -> data/things.json ({pairs} shown as a pair)")
     for k, v in n.most_common(): print(f"   {k:15s} {v:5,}")
     print("  tiers:", dict(t))
 

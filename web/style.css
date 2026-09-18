@@ -198,6 +198,20 @@ main{
 }
 #photo{width:100%; height:100%; object-fit:contain; display:none}
 #photo.ready{display:block}
+#photo2{display:none}
+
+/* A tree is two pictures at once -- the whole tree and a close-up -- so the
+   stage splits in half and each image keeps its own aspect ratio inside. */
+#stage.pair{flex-direction:row; gap:2px}
+#stage.pair #photo, #stage.pair #photo2{
+  width:50%; height:100%; object-fit:contain; display:block;
+}
+#stage.pair #photo2:not(.ready){visibility:hidden}
+@media (max-width:560px){
+  /* too narrow side by side: stack them instead */
+  #stage.pair{flex-direction:column; gap:2px}
+  #stage.pair #photo, #stage.pair #photo2{width:100%; height:50%}
+}
 #spinner{color:var(--dim); font-size:14px}
 
 /* full-screen button, bottom-right of the photo */
