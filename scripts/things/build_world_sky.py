@@ -291,7 +291,7 @@ def main():
         nid += 1
         recs.append({"id": nid, "tier": pop_tier(pop or 0), "group": "Flag",
                      "name": name, "sci": "",
-                     "facts": facts_for(cont_by_iso.get(code), caps.get(code),
+                     "facts": facts_for(countries.continent(code, cont_by_iso.get(code)), caps.get(code),
                                         bbox_by_iso.get(code)),
                      "aliases": countries.accepted(code, name), "cats": ["flags"],
                      "photos": [{"url": f"https://flagcdn.com/w320/{code}.png",
@@ -372,7 +372,7 @@ def main():
         fn = slug(name) + ".svg"
         open(os.path.join(OUTDIR, "outlines", fn), "w").write(outline_svg(placed))
         recs.append({"id": nid, "tier": tier, "group": "Outline", "name": name, "sci": "",
-                     "facts": facts_for(cont_by_iso.get(iso), caps.get(iso),
+                     "facts": facts_for(countries.continent(iso, cont_by_iso.get(iso)), caps.get(iso),
                                         bbox_by_iso.get(iso)),
                      "aliases": countries.accepted(iso, name), "cats": ["outlines"],
                      "photos": [{"url": f"../data/things/outlines/{fn}",

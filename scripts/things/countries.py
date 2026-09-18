@@ -128,7 +128,76 @@ CAPITAL = {
     "pw": ("Ngerulmud", 134.62, 7.50),       # Melekeok was renamed
     "mm": ("Naypyidaw", 96.13, 19.75),
     "ci": ("Yamoussoukro", -5.28, 6.82),
+
+    # Natural Earth's capital list covers sovereign states and little else, so
+    # the territories are filled in here. A few genuinely have no capital and
+    # are left out rather than invented: Bouvet Island, Heard and McDonald and
+    # the US Minor Outlying Islands are uninhabited, Tokelau's three atolls
+    # take it in turns, and Hong Kong and Macau are cities in their own right.
+    "as": ("Pago Pago", -170.70, -14.28),
+    "ai": ("The Valley", -63.06, 18.22),
+    "aw": ("Oranjestad", -70.03, 12.52),
+    "bm": ("Hamilton", -64.78, 32.29),
+    "io": ("Diego Garcia", 72.42, -7.31),
+    "vg": ("Road Town", -64.62, 18.42),
+    "bq": ("Kralendijk", -68.28, 12.14),
+    "ky": ("George Town", -81.38, 19.29),
+    "cx": ("Flying Fish Cove", 105.72, -10.42),
+    "cc": ("West Island", 96.83, -12.19),
+    "ck": ("Avarua", -159.78, -21.21),
+    "cw": ("Willemstad", -68.93, 12.11),
+    "fk": ("Stanley", -57.85, -51.70),
+    "fo": ("Tórshavn", -6.77, 62.01),
+    "gf": ("Cayenne", -52.33, 4.94),
+    "pf": ("Papeete", -149.57, -17.54),
+    "tf": ("Port-aux-Français", 70.22, -49.35),
+    "gi": ("Gibraltar", -5.35, 36.14),
+    "gl": ("Nuuk", -51.72, 64.18),
+    "gp": ("Basse-Terre", -61.73, 16.00),
+    "gu": ("Hagåtña", 144.75, 13.47),
+    "gg": ("St Peter Port", -2.54, 49.46),
+    "im": ("Douglas", -4.48, 54.15),
+    "je": ("Saint Helier", -2.10, 49.19),
+    "xk": ("Pristina", 21.17, 42.67),
+    "mq": ("Fort-de-France", -61.07, 14.60),
+    "yt": ("Mamoudzou", 45.23, -12.78),
+    "ms": ("Brades", -62.21, 16.79),        # Plymouth was buried by the volcano
+    "nr": ("Yaren", 166.92, -0.55),         # no official capital; Yaren governs
+    "nc": ("Nouméa", 166.46, -22.28),
+    "nu": ("Alofi", -169.92, -19.06),
+    "nf": ("Kingston", 167.96, -29.06),
+    "mp": ("Saipan", 145.75, 15.19),
+    "ps": ("Ramallah", 35.21, 31.90),       # where it governs from in practice
+    "pn": ("Adamstown", -130.10, -25.07),
+    "pr": ("San Juan", -66.11, 18.47),
+    "re": ("Saint-Denis", 55.45, -20.88),
+    "bl": ("Gustavia", -62.85, 17.90),
+    "sh": ("Jamestown", -5.72, -15.93),
+    "mf": ("Marigot", -63.08, 18.07),
+    "pm": ("Saint-Pierre", -56.17, 46.78),
+    "sx": ("Philipsburg", -63.05, 18.03),
+    "gs": ("King Edward Point", -36.49, -54.28),
+    "sj": ("Longyearbyen", 15.63, 78.22),
+    "tc": ("Cockburn Town", -71.14, 21.46),
+    "vi": ("Charlotte Amalie", -64.93, 18.34),
+    "wf": ("Mata-Utu", -176.17, -13.28),
+    "eh": ("Laayoune", -13.20, 27.15),
+    "ax": ("Mariehamn", 19.94, 60.10),
 }
+
+# Natural Earth has no row for some overseas territories, so no continent
+# either. These are the ones the game would otherwise say nothing about.
+CONTINENT = {
+    "bv": "Antarctica",   "bq": "North America", "cx": "Asia",
+    "cc": "Asia",         "gf": "South America", "gp": "North America",
+    "mq": "North America", "yt": "Africa",       "re": "Africa",
+    "sj": "Europe",       "tk": "Oceania",       "hm": "Antarctica",
+    "um": "Oceania",
+}
+
+
+def continent(iso, found):
+    return found or CONTINENT.get(iso)
 
 
 def capital(iso, found):

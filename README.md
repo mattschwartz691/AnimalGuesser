@@ -57,7 +57,14 @@ then the **capital's name**. Only after those does it start on the letters, and
 the blanks stay hidden until that hint is bought, so the continent does not
 give away the length of the answer.
 
-Natural Earth's capitals needed correcting in nine places. It still gives Dar
+Natural Earth's capital list covers sovereign states and little else, so the
+territories are filled in by hand — Nuuk, Yaren, Pristina, San Juan, Tórshavn,
+Mariehamn and forty-odd others. Six places are left without one on purpose
+rather than inventing something: Bouvet Island, Heard and McDonald and the US
+Minor Outlying Islands are uninhabited, Tokelau's three atolls take the job in
+turns, and Hong Kong and Macau are cities in their own right.
+
+Natural Earth's capitals also needed correcting in nine places. It still gives Dar
 es Salaam for Tanzania, which stopped being the capital in 1996, and Bujumbura
 for Burundi, which stopped in 2019; for countries with more than one capital it
 picks the least expected, offering Bloemfontein for South Africa. It also files
