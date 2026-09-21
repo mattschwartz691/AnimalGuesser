@@ -68,12 +68,10 @@ anything unnamed falls to death.
 | Hard | 32 of the wider world that should still ring a bell — English oak, olive, ginkgo, baobab, coconut palm, cork oak, teak |
 | Death | the other 252 |
 
-**Countries give their own hints.** A flag or an outline hands over, in order:
-the **continent**, then roughly **where its capital is** — computed from the
-capital's position inside the country, so "in the north-east of the country" —
-then the **capital's name**. Only after those does it start on the letters, and
-the blanks stay hidden until that hint is bought, so the continent does not
-give away the length of the answer.
+**Countries give their own hints.** A flag or an outline hands over its
+**continent**, then its **capital**, and only then starts on the letters. The
+blanks stay hidden until that hint is bought, so the continent does not give
+away the length of the answer.
 
 Natural Earth's capital list covers sovereign states and little else, so the
 territories are filled in by hand — Nuuk, Yaren, Pristina, San Juan, Tórshavn,
@@ -155,12 +153,30 @@ and flattens the mainland. Alaska, the Canaries, the Galápagos and Easter
 Island all drop out; Sicily, Shetland, the Ryukyus and every island of
 Indonesia stay.
 
-Country difficulty comes from population — the 10m data carries an estimate —
-so the well-known countries are easy and Bhutan and Suriname are not.
+**Flags** go by population: you have probably seen a populous country's flag.
+**Outlines do not**, because recognising a shape has nothing to do with how
+many people live inside it. Going by population put Niger, Malawi and Burkina
+Faso in the middle tier while Italy and Norway — two of the most recognisable
+shapes on earth — sat below them. So the first two outline tiers are named:
+27 shapes most people could place, then 45 they could work out. The rest falls
+back to population, which at least keeps the microstates and the uninhabited
+rocks at the bottom.
 
 The two games keep their settings apart — Things Guesser stores its own
 difficulty, categories and toggles — so changing one does not disturb the
 other.
+
+### Tests
+
+```bash
+./test/run.sh
+```
+
+Plain node scripts that run `web/game.js` against a stub DOM, so they exercise
+the shipped code rather than a copy of it. They have earned their place: they
+caught a hint that charged a point and revealed nothing, a null element that
+would have crashed every round, and a continent hint that gave away the letter
+count for free.
 
 ### Rebuilding it
 

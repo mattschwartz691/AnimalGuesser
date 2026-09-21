@@ -135,29 +135,14 @@ def outline_svg(rings):
             f'stroke-linejoin="round" fill-rule="evenodd"/></svg>')
 
 
-def where_in(bbox, lon, lat):
-    """Whereabouts in a country a point is, in words."""
-    x0, y0, x1, y1 = bbox
-    fx = (lon - x0) / (x1 - x0) if x1 > x0 else .5
-    fy = (lat - y0) / (y1 - y0) if y1 > y0 else .5
-    ns = "south" if fy < .34 else "north" if fy > .66 else ""
-    ew = "west" if fx < .34 else "east" if fx > .66 else ""
-    if ns and ew: return f"in the {ns}-{ew}"
-    if ns or ew:  return f"in the {ns or ew}"
-    return "in the middle"
-
-
-def facts_for(continent, capital, bbox):
-    """The hints a country gives before it starts giving away letters:
-    the continent, roughly where its capital sits, then the capital's name."""
+def facts_for(continent, capital):
+    """The hints a country gives before it starts giving away letters: its
+    continent, then its capital."""
     out = []
     if continent:
         out.append({"lab": "continent", "txt": continent})
     if capital:
-        name, lon, lat = capital
-        if bbox:
-            out.append({"lab": "capital", "txt": where_in(bbox, lon, lat) + " of the country"})
-        out.append({"lab": "capital", "txt": name})
+        out.append({"lab": "capital", "txt": capital[0]})
     return out
 
 
@@ -232,10 +217,8 @@ def main():
     geo0 = json.load(open(os.path.join(src, "ne10m.geojson")))
     # An ISO code can appear on more than one row -- France carries Clipperton
     # Island, whose continent is "Seven seas (open ocean)" and which would
-    # overwrite the real entry. Keep the biggest row for each code, and take
-    # the bounding box from the homeland rather than from distant islands,
-    # so "where the capital is" is measured against the country people picture.
-    pop_by_iso, cont_by_iso, bbox_by_iso, best_pts = {}, {}, {}, {}
+    # overwrite the real entry. Keep the biggest row for each code.
+    pop_by_iso, cont_by_iso, best_pts = {}, {}, {}
     for f in geo0["features"]:
         pr = f["properties"]
         iso = (pr.get("ISO_A2_EH") or pr.get("ISO_A2") or "").lower()
@@ -251,9 +234,6 @@ def main():
         best_pts[iso] = n
         if pr.get("CONTINENT"):
             cont_by_iso[iso] = pr["CONTINENT"]
-        home = drop_far_territories(rings)
-        xs = [p[0] for r in home for p in r]; ys = [p[1] for r in home for p in r]
-        bbox_by_iso[iso] = (min(xs), min(ys), max(xs), max(ys))
 
     # capitals, for the hints
     caps = {}
@@ -291,8 +271,8 @@ def main():
         nid += 1
         recs.append({"id": nid, "tier": pop_tier(pop or 0), "group": "Flag",
                      "name": name, "sci": "",
-                     "facts": facts_for(countries.continent(code, cont_by_iso.get(code)), caps.get(code),
-                                        bbox_by_iso.get(code)),
+                     "facts": facts_for(countries.continent(code, cont_by_iso.get(code)),
+                                        caps.get(code)),
                      "aliases": countries.accepted(code, name), "cats": ["flags"],
                      "photos": [{"url": f"https://flagcdn.com/w320/{code}.png",
                                  "credit": "flagcdn.com", "obs": ""}]})
@@ -368,12 +348,12 @@ def main():
             placed = [r for r in (simplify(r, TOLERANCE) for r in placed) if len(r) >= 3]
         kept_pts += sum(len(r) for r in placed)
         nid += 1
-        tier = pop_tier(pop)
+        tier = countries.outline_tier(iso, pop_tier(pop))
         fn = slug(name) + ".svg"
         open(os.path.join(OUTDIR, "outlines", fn), "w").write(outline_svg(placed))
         recs.append({"id": nid, "tier": tier, "group": "Outline", "name": name, "sci": "",
-                     "facts": facts_for(countries.continent(iso, cont_by_iso.get(iso)), caps.get(iso),
-                                        bbox_by_iso.get(iso)),
+                     "facts": facts_for(countries.continent(iso, cont_by_iso.get(iso)),
+                                        caps.get(iso)),
                      "aliases": countries.accepted(iso, name), "cats": ["outlines"],
                      "photos": [{"url": f"../data/things/outlines/{fn}",
                                  "credit": "Outline drawn from Natural Earth (public domain)",

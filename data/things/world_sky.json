@@ -12,10 +12,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Andorra"
    }
   ],
@@ -43,10 +39,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -81,10 +73,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kabul"
    }
   ],
@@ -112,10 +100,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -149,10 +133,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "The Valley"
    }
   ],
@@ -180,10 +160,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -217,10 +193,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Yerevan"
    }
   ],
@@ -248,10 +220,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -285,10 +253,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Buenos Aires"
    }
   ],
@@ -316,10 +280,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -353,10 +313,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Vienna"
    }
   ],
@@ -384,10 +340,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -421,10 +373,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Oranjestad"
    }
   ],
@@ -452,10 +400,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -489,10 +433,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Baku"
    }
   ],
@@ -520,10 +460,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -557,10 +493,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bridgetown"
    }
   ],
@@ -588,10 +520,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -625,10 +553,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Brussels"
    }
   ],
@@ -656,10 +580,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -694,10 +614,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Sofia"
    }
   ],
@@ -725,10 +641,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -762,10 +674,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Gitega"
    }
   ],
@@ -793,10 +701,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -828,10 +732,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -867,10 +767,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Hamilton"
    }
   ],
@@ -901,10 +797,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bandar Seri Begawan"
    }
   ],
@@ -932,10 +824,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -999,10 +887,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bras\u00edlia"
    }
   ],
@@ -1030,10 +914,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -1065,10 +945,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -1128,10 +1004,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Gaborone"
    }
   ],
@@ -1160,10 +1032,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -1197,10 +1065,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Belmopan"
    }
   ],
@@ -1229,10 +1093,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -1296,10 +1156,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kinshasa"
    }
   ],
@@ -1334,10 +1190,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bangui"
    }
   ],
@@ -1365,10 +1217,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -1404,10 +1252,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bern"
    }
   ],
@@ -1435,10 +1279,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -1473,10 +1313,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Avarua"
    }
   ],
@@ -1504,10 +1340,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -1541,10 +1373,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Yaound\u00e9"
    }
   ],
@@ -1572,10 +1400,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -1611,10 +1435,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bogota"
    }
   ],
@@ -1642,10 +1462,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -1679,10 +1495,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Havana"
    }
   ],
@@ -1710,10 +1522,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -1745,10 +1553,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -1812,10 +1616,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nicosia"
    }
   ],
@@ -1843,10 +1643,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -1881,10 +1677,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Berlin"
    }
   ],
@@ -1912,10 +1704,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -1950,10 +1738,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "K\u00f8benhavn"
    }
   ],
@@ -1981,10 +1765,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -2018,10 +1798,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Santo Domingo"
    }
   ],
@@ -2049,10 +1825,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -2086,10 +1858,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Quito"
    }
   ],
@@ -2117,10 +1885,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -2154,10 +1918,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Cairo"
    }
   ],
@@ -2185,10 +1945,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -2222,10 +1978,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Asmara"
    }
   ],
@@ -2256,10 +2008,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Madrid"
    }
   ],
@@ -2287,10 +2035,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -2325,10 +2069,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Helsinki"
    }
   ],
@@ -2356,10 +2096,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -2393,10 +2129,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Stanley"
    }
   ],
@@ -2424,10 +2156,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -2462,10 +2190,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "T\u00f3rshavn"
    }
   ],
@@ -2493,10 +2217,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -2530,10 +2250,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Libreville"
    }
   ],
@@ -2561,10 +2277,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -2602,10 +2314,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saint George's"
    }
   ],
@@ -2633,10 +2341,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -2700,10 +2404,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "St Peter Port"
    }
   ],
@@ -2731,10 +2431,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -2768,10 +2464,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Gibraltar"
    }
   ],
@@ -2799,10 +2491,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -2836,10 +2524,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Banjul"
    }
   ],
@@ -2868,10 +2552,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -2935,10 +2615,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Malabo"
    }
   ],
@@ -2967,10 +2643,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -3004,10 +2676,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "King Edward Point"
    }
   ],
@@ -3035,10 +2703,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -3072,10 +2736,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Hag\u00e5t\u00f1a"
    }
   ],
@@ -3106,10 +2766,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bissau"
    }
   ],
@@ -3137,10 +2793,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -3227,10 +2879,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tegucigalpa"
    }
   ],
@@ -3258,10 +2906,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -3295,10 +2939,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Port-au-Prince"
    }
   ],
@@ -3326,10 +2966,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -3363,10 +2999,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Jakarta"
    }
   ],
@@ -3394,10 +3026,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -3431,10 +3059,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Jerusalem"
    }
   ],
@@ -3462,10 +3086,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -3499,10 +3119,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "New Delhi"
    }
   ],
@@ -3530,10 +3146,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -3567,10 +3179,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Baghdad"
    }
   ],
@@ -3598,10 +3206,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -3636,10 +3240,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Reykjav\u00edk"
    }
   ],
@@ -3667,10 +3267,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -3704,10 +3300,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saint Helier"
    }
   ],
@@ -3735,10 +3327,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -3772,10 +3360,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Amman"
    }
   ],
@@ -3803,10 +3387,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -3840,10 +3420,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nairobi"
    }
   ],
@@ -3874,10 +3450,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bishkek"
    }
   ],
@@ -3905,10 +3477,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -3943,10 +3511,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tarawa"
    }
   ],
@@ -3977,10 +3541,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Moroni"
    }
   ],
@@ -4008,10 +3568,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -4047,10 +3603,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Pyongyang"
    }
   ],
@@ -4080,10 +3632,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -4118,10 +3666,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kuwait City"
    }
   ],
@@ -4149,10 +3693,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -4186,10 +3726,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Astana"
    }
   ],
@@ -4217,10 +3753,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -4256,10 +3788,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Beirut"
    }
   ],
@@ -4287,10 +3815,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -4326,10 +3850,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Vaduz"
    }
   ],
@@ -4357,10 +3877,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -4395,10 +3911,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Monrovia"
    }
   ],
@@ -4426,10 +3938,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -4464,10 +3972,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Vilnius"
    }
   ],
@@ -4495,10 +3999,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -4532,10 +4032,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Riga"
    }
   ],
@@ -4563,10 +4059,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -4600,10 +4092,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Rabat"
    }
   ],
@@ -4631,10 +4119,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -4668,10 +4152,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Chi\u0219in\u0103u"
    }
   ],
@@ -4702,10 +4182,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Podgorica"
    }
   ],
@@ -4733,10 +4209,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -4772,10 +4244,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Antananarivo"
    }
   ],
@@ -4806,10 +4274,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Majuro"
    }
   ],
@@ -4837,10 +4301,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -4876,10 +4336,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bamako"
    }
   ],
@@ -4911,10 +4367,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Naypyidaw"
    }
   ],
@@ -4943,10 +4395,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5003,10 +4451,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -5070,10 +4514,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nouakchott"
    }
   ],
@@ -5101,10 +4541,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -5138,10 +4574,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Valletta"
    }
   ],
@@ -5169,10 +4601,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5206,10 +4634,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mal\u00e9"
    }
   ],
@@ -5237,10 +4661,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5275,10 +4695,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mexico City"
    }
   ],
@@ -5306,10 +4722,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -5343,10 +4755,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Maputo"
    }
   ],
@@ -5374,10 +4782,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5411,10 +4815,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Noum\u00e9a"
    }
   ],
@@ -5442,10 +4842,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -5480,10 +4876,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kingston"
    }
   ],
@@ -5511,10 +4903,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5548,10 +4936,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Managua"
    }
   ],
@@ -5579,10 +4963,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -5617,10 +4997,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Oslo"
    }
   ],
@@ -5648,10 +5024,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -5685,10 +5057,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Yaren"
    }
   ],
@@ -5716,10 +5084,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -5753,10 +5117,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Wellington"
    }
   ],
@@ -5784,10 +5144,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -5821,10 +5177,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Panama City"
    }
   ],
@@ -5852,10 +5204,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -5889,10 +5237,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Papeete"
    }
   ],
@@ -5920,10 +5264,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -5957,10 +5297,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Manila"
    }
   ],
@@ -5988,10 +5324,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -6025,10 +5357,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Warsaw"
    }
   ],
@@ -6056,10 +5384,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -6095,10 +5419,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Adamstown"
    }
   ],
@@ -6126,10 +5446,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -6163,10 +5479,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ramallah"
    }
   ],
@@ -6194,10 +5506,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -6231,10 +5539,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ngerulmud"
    }
   ],
@@ -6265,10 +5569,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Asunci\u00f3n"
    }
   ],
@@ -6296,10 +5596,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -6363,10 +5659,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bucharest"
    }
   ],
@@ -6397,10 +5689,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Belgrade"
    }
   ],
@@ -6428,10 +5716,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -6466,10 +5750,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kigali"
    }
   ],
@@ -6497,10 +5777,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -6534,10 +5810,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Honiara"
    }
   ],
@@ -6565,10 +5837,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -6602,10 +5870,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Khartoum"
    }
   ],
@@ -6633,10 +5897,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -6670,10 +5930,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Singapore"
    }
   ],
@@ -6701,10 +5957,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -6737,10 +5989,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -6804,10 +6052,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bratislava"
    }
   ],
@@ -6835,10 +6079,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -6872,10 +6112,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Marino"
    }
   ],
@@ -6903,10 +6139,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -6940,10 +6172,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mogadishu"
    }
   ],
@@ -6971,10 +6199,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -7009,10 +6233,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Juba"
    }
   ],
@@ -7040,10 +6260,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -7077,10 +6293,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Salvador"
    }
   ],
@@ -7111,10 +6323,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Philipsburg"
    }
   ],
@@ -7142,10 +6350,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -7180,10 +6384,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mbabane"
    }
   ],
@@ -7215,10 +6415,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Cockburn Town"
    }
   ],
@@ -7246,10 +6442,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -7284,10 +6476,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Port-aux-Fran\u00e7ais"
    }
   ],
@@ -7315,10 +6503,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -7352,10 +6536,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bangkok"
    }
   ],
@@ -7384,10 +6564,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -7447,10 +6623,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Dili"
    }
   ],
@@ -7479,10 +6651,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -7516,10 +6684,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tunis"
    }
   ],
@@ -7550,10 +6714,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nuku'alofa"
    }
   ],
@@ -7581,10 +6741,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -7620,10 +6776,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Port-of-Spain"
    }
   ],
@@ -7651,10 +6803,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -7688,10 +6836,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Taipei"
    }
   ],
@@ -7719,10 +6863,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -7756,10 +6896,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kyiv"
    }
   ],
@@ -7787,10 +6923,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -7851,10 +6983,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Washington,  D.C."
    }
   ],
@@ -7889,10 +7017,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Montevideo"
    }
   ],
@@ -7923,10 +7047,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tashkent"
    }
   ],
@@ -7954,10 +7074,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -7993,10 +7109,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kingstown"
    }
   ],
@@ -8026,10 +7138,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -8063,10 +7171,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Road Town"
    }
   ],
@@ -8094,10 +7198,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -8131,10 +7231,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Hanoi"
    }
   ],
@@ -8162,10 +7258,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -8200,10 +7292,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mata-Utu"
    }
   ],
@@ -8231,10 +7319,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -8269,10 +7353,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Pristina"
    }
   ],
@@ -8300,10 +7380,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -8367,10 +7443,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Pretoria"
    }
   ],
@@ -8398,10 +7470,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -8436,10 +7504,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Harare"
    }
   ],
@@ -8460,7 +7524,7 @@
  },
  {
   "id": 900250,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Indonesia",
   "sci": "",
@@ -8468,10 +7532,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -8505,10 +7565,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kuala Lumpur"
    }
   ],
@@ -8528,7 +7584,7 @@
  },
  {
   "id": 900252,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Chile",
   "sci": "",
@@ -8536,10 +7592,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -8573,10 +7625,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "La Paz"
    }
   ],
@@ -8604,10 +7652,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -8641,10 +7685,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Buenos Aires"
    }
   ],
@@ -8672,10 +7712,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -8709,10 +7745,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "New Delhi"
    }
   ],
@@ -8743,10 +7775,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Beijing"
    }
   ],
@@ -8768,7 +7796,7 @@
  },
  {
   "id": 900259,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Israel",
   "sci": "",
@@ -8776,10 +7804,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -8813,10 +7837,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ramallah"
    }
   ],
@@ -8847,10 +7867,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Beirut"
    }
   ],
@@ -8870,7 +7886,7 @@
  },
  {
   "id": 900262,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Ethiopia",
   "sci": "",
@@ -8878,10 +7894,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -8905,7 +7917,7 @@
  },
  {
   "id": 900263,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "South Sudan",
   "sci": "",
@@ -8913,10 +7925,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -8939,7 +7947,7 @@
  },
  {
   "id": 900264,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Somalia",
   "sci": "",
@@ -8947,10 +7955,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -8973,7 +7977,7 @@
  },
  {
   "id": 900265,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Kenya",
   "sci": "",
@@ -8981,10 +7985,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -9007,7 +8007,7 @@
  },
  {
   "id": 900266,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Malawi",
   "sci": "",
@@ -9015,10 +8015,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -9042,7 +8038,7 @@
  },
  {
   "id": 900267,
-  "tier": "easy",
+  "tier": "hard",
   "group": "Outline",
   "name": "Tanzania",
   "sci": "",
@@ -9050,10 +8046,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -9076,7 +8068,7 @@
  },
  {
   "id": 900268,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Syria",
   "sci": "",
@@ -9084,10 +8076,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -9122,10 +8110,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Paris"
    }
   ],
@@ -9153,10 +8137,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -9191,10 +8171,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Georgetown"
    }
   ],
@@ -9226,10 +8202,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Seoul"
    }
   ],
@@ -9258,10 +8230,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -9297,10 +8265,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Rabat"
    }
   ],
@@ -9328,10 +8292,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -9365,10 +8325,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Jos\u00e9"
    }
   ],
@@ -9396,10 +8352,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -9433,10 +8385,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Brazzaville"
    }
   ],
@@ -9458,7 +8406,7 @@
  },
  {
   "id": 900279,
-  "tier": "easy",
+  "tier": "hard",
   "group": "Outline",
   "name": "Democratic Republic of the Congo",
   "sci": "",
@@ -9466,10 +8414,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -9507,10 +8451,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Thimphu"
    }
   ],
@@ -9538,10 +8478,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -9575,10 +8511,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Minsk"
    }
   ],
@@ -9606,10 +8538,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -9643,10 +8571,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Pretoria"
    }
   ],
@@ -9674,10 +8598,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -9713,10 +8633,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Philipsburg"
    }
   ],
@@ -9747,10 +8663,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Muscat"
    }
   ],
@@ -9770,7 +8682,7 @@
  },
  {
   "id": 900288,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Uzbekistan",
   "sci": "",
@@ -9778,10 +8690,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -9804,7 +8712,7 @@
  },
  {
   "id": 900289,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Kazakhstan",
   "sci": "",
@@ -9812,10 +8720,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -9849,10 +8753,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Dushanbe"
    }
   ],
@@ -9880,10 +8780,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -9917,10 +8813,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bras\u00edlia"
    }
   ],
@@ -9951,10 +8843,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Montevideo"
    }
   ],
@@ -9974,7 +8862,7 @@
  },
  {
   "id": 900294,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Mongolia",
   "sci": "",
@@ -9982,10 +8870,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -10016,10 +8900,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -10054,10 +8934,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Prague"
    }
   ],
@@ -10086,10 +8962,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -10123,10 +8995,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tallinn"
    }
   ],
@@ -10157,10 +9025,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Riga"
    }
   ],
@@ -10180,7 +9044,7 @@
  },
  {
   "id": 900300,
-  "tier": "hard",
+  "tier": "easy",
   "group": "Outline",
   "name": "Norway",
   "sci": "",
@@ -10188,10 +9052,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -10214,7 +9074,7 @@
  },
  {
   "id": 900301,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Sweden",
   "sci": "",
@@ -10222,10 +9082,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -10248,7 +9104,7 @@
  },
  {
   "id": 900302,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Finland",
   "sci": "",
@@ -10256,10 +9112,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -10282,7 +9134,7 @@
  },
  {
   "id": 900303,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Vietnam",
   "sci": "",
@@ -10290,10 +9142,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -10324,10 +9172,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -10362,10 +9206,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Luxembourg"
    }
   ],
@@ -10393,10 +9233,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -10431,10 +9267,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Brussels"
    }
   ],
@@ -10465,10 +9297,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tbilisi"
    }
   ],
@@ -10496,10 +9324,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -10535,10 +9359,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tirana"
    }
   ],
@@ -10558,7 +9378,7 @@
  },
  {
   "id": 900311,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Azerbaijan",
   "sci": "",
@@ -10566,10 +9386,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -10603,10 +9419,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Pristina"
    }
   ],
@@ -10637,10 +9449,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ankara"
    }
   ],
@@ -10662,7 +9470,7 @@
  },
  {
   "id": 900314,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Spain",
   "sci": "",
@@ -10670,10 +9478,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -10704,10 +9508,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -10743,10 +9543,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bishkek"
    }
   ],
@@ -10777,10 +9573,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Yerevan"
    }
   ],
@@ -10800,7 +9592,7 @@
  },
  {
   "id": 900318,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Denmark",
   "sci": "",
@@ -10808,10 +9600,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -10834,7 +9622,7 @@
  },
  {
   "id": 900319,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Libya",
   "sci": "",
@@ -10842,10 +9630,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -10868,7 +9652,7 @@
  },
  {
   "id": 900320,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Tunisia",
   "sci": "",
@@ -10876,10 +9660,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -10913,10 +9693,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bucharest"
    }
   ],
@@ -10936,7 +9712,7 @@
  },
  {
   "id": 900322,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Hungary",
   "sci": "",
@@ -10944,10 +9720,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -10981,10 +9753,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bratislava"
    }
   ],
@@ -11015,10 +9783,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Warsaw"
    }
   ],
@@ -11038,7 +9802,7 @@
  },
  {
   "id": 900325,
-  "tier": "hard",
+  "tier": "easy",
   "group": "Outline",
   "name": "Ireland",
   "sci": "",
@@ -11046,10 +9810,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -11083,10 +9843,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "London"
    }
   ],
@@ -11110,7 +9866,7 @@
  },
  {
   "id": 900327,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Greece",
   "sci": "",
@@ -11118,10 +9874,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -11144,7 +9896,7 @@
  },
  {
   "id": 900328,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Zambia",
   "sci": "",
@@ -11152,10 +9904,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -11190,10 +9938,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Freetown"
    }
   ],
@@ -11213,7 +9957,7 @@
  },
  {
   "id": 900330,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Guinea",
   "sci": "",
@@ -11221,10 +9965,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -11258,10 +9998,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Monrovia"
    }
   ],
@@ -11292,10 +10028,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bangui"
    }
   ],
@@ -11315,7 +10047,7 @@
  },
  {
   "id": 900333,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Sudan",
   "sci": "",
@@ -11323,10 +10055,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -11357,10 +10085,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -11395,10 +10119,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Asmara"
    }
   ],
@@ -11418,7 +10138,7 @@
  },
  {
   "id": 900336,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Austria",
   "sci": "",
@@ -11426,10 +10146,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -11463,10 +10179,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Baghdad"
    }
   ],
@@ -11497,10 +10209,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Rome"
    }
   ],
@@ -11520,7 +10228,7 @@
  },
  {
   "id": 900339,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Switzerland",
   "sci": "",
@@ -11528,10 +10236,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -11554,7 +10258,7 @@
  },
  {
   "id": 900340,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Iran",
   "sci": "",
@@ -11562,10 +10266,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -11600,10 +10300,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Amsterdam"
    }
   ],
@@ -11635,10 +10331,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Vaduz"
    }
   ],
@@ -11658,7 +10350,7 @@
  },
  {
   "id": 900343,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "C\u00f4te d'Ivoire",
   "sci": "",
@@ -11666,10 +10358,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -11693,7 +10381,7 @@
  },
  {
   "id": 900344,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Serbia",
   "sci": "",
@@ -11701,10 +10389,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -11727,7 +10411,7 @@
  },
  {
   "id": 900345,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Mali",
   "sci": "",
@@ -11735,10 +10419,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -11762,7 +10442,7 @@
  },
  {
   "id": 900346,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Senegal",
   "sci": "",
@@ -11770,10 +10450,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -11796,7 +10472,7 @@
  },
  {
   "id": 900347,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Nigeria",
   "sci": "",
@@ -11804,10 +10480,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -11830,7 +10502,7 @@
  },
  {
   "id": 900348,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Benin",
   "sci": "",
@@ -11838,10 +10510,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -11865,7 +10533,7 @@
  },
  {
   "id": 900349,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Angola",
   "sci": "",
@@ -11873,10 +10541,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -11899,7 +10563,7 @@
  },
  {
   "id": 900350,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Croatia",
   "sci": "",
@@ -11907,10 +10571,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -11944,10 +10604,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ljubljana"
    }
   ],
@@ -11975,10 +10631,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -12012,10 +10664,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Riyadh"
    }
   ],
@@ -12046,10 +10694,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Gaborone"
    }
   ],
@@ -12070,7 +10714,7 @@
  },
  {
   "id": 900355,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Zimbabwe",
   "sci": "",
@@ -12078,10 +10722,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -12105,7 +10745,7 @@
  },
  {
   "id": 900356,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Pakistan",
   "sci": "",
@@ -12113,10 +10753,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -12139,7 +10775,7 @@
  },
  {
   "id": 900357,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Bulgaria",
   "sci": "",
@@ -12147,10 +10783,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -12173,7 +10805,7 @@
  },
  {
   "id": 900358,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Thailand",
   "sci": "",
@@ -12181,10 +10813,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12219,10 +10847,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Marino"
    }
   ],
@@ -12242,7 +10866,7 @@
  },
  {
   "id": 900360,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Haiti",
   "sci": "",
@@ -12250,10 +10874,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -12276,7 +10896,7 @@
  },
  {
   "id": 900361,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Dominican Republic",
   "sci": "",
@@ -12284,10 +10904,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12310,7 +10926,7 @@
  },
  {
   "id": 900362,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Chad",
   "sci": "",
@@ -12318,10 +10934,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -12356,10 +10968,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kuwait City"
    }
   ],
@@ -12390,10 +10998,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Salvador"
    }
   ],
@@ -12413,7 +11017,7 @@
  },
  {
   "id": 900365,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Guatemala",
   "sci": "",
@@ -12421,10 +11025,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -12455,10 +11055,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -12493,10 +11089,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bandar Seri Begawan"
    }
   ],
@@ -12524,10 +11116,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12561,10 +11149,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Algiers"
    }
   ],
@@ -12584,7 +11168,7 @@
  },
  {
   "id": 900370,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Mozambique",
   "sci": "",
@@ -12592,10 +11176,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -12629,10 +11209,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mbabane"
    }
   ],
@@ -12653,7 +11229,7 @@
  },
  {
   "id": 900372,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Burundi",
   "sci": "",
@@ -12661,10 +11237,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12687,7 +11259,7 @@
  },
  {
   "id": 900373,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Rwanda",
   "sci": "",
@@ -12695,10 +11267,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12721,7 +11289,7 @@
  },
  {
   "id": 900374,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Myanmar",
   "sci": "",
@@ -12729,10 +11297,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12756,7 +11320,7 @@
  },
  {
   "id": 900375,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Bangladesh",
   "sci": "",
@@ -12764,10 +11328,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12801,10 +11361,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Andorra"
    }
   ],
@@ -12824,7 +11380,7 @@
  },
  {
   "id": 900377,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Afghanistan",
   "sci": "",
@@ -12832,10 +11388,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -12869,10 +11421,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Podgorica"
    }
   ],
@@ -12903,10 +11451,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Sarajevo"
    }
   ],
@@ -12926,7 +11470,7 @@
  },
  {
   "id": 900380,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Uganda",
   "sci": "",
@@ -12934,10 +11478,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -12961,7 +11501,7 @@
  },
  {
   "id": 900381,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Cuba",
   "sci": "",
@@ -12969,10 +11509,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -13006,10 +11542,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tegucigalpa"
    }
   ],
@@ -13029,7 +11561,7 @@
  },
  {
   "id": 900383,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Ecuador",
   "sci": "",
@@ -13037,10 +11569,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -13063,7 +11591,7 @@
  },
  {
   "id": 900384,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Colombia",
   "sci": "",
@@ -13071,10 +11599,6 @@
    {
     "lab": "continent",
     "txt": "South America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -13108,10 +11632,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Asunci\u00f3n"
    }
   ],
@@ -13131,7 +11651,7 @@
  },
  {
   "id": 900386,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Portugal",
   "sci": "",
@@ -13139,10 +11659,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -13176,10 +11692,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Chi\u0219in\u0103u"
    }
   ],
@@ -13210,10 +11722,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ashgabat"
    }
   ],
@@ -13233,7 +11741,7 @@
  },
  {
   "id": 900389,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Jordan",
   "sci": "",
@@ -13241,10 +11749,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -13278,10 +11782,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kathmandu"
    }
   ],
@@ -13312,10 +11812,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Maseru"
    }
   ],
@@ -13336,7 +11832,7 @@
  },
  {
   "id": 900392,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Cameroon",
   "sci": "",
@@ -13344,10 +11840,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -13381,10 +11873,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Libreville"
    }
   ],
@@ -13404,7 +11892,7 @@
  },
  {
   "id": 900394,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Niger",
   "sci": "",
@@ -13412,10 +11900,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -13439,7 +11923,7 @@
  },
  {
   "id": 900395,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Burkina Faso",
   "sci": "",
@@ -13447,10 +11931,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -13485,10 +11965,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Lom\u00e9"
    }
   ],
@@ -13508,7 +11984,7 @@
  },
  {
   "id": 900397,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Ghana",
   "sci": "",
@@ -13516,10 +11992,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -13553,10 +12025,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bissau"
    }
   ],
@@ -13584,10 +12052,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -13621,10 +12085,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Washington,  D.C."
    }
   ],
@@ -13648,7 +12108,7 @@
  },
  {
   "id": 900401,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Canada",
   "sci": "",
@@ -13656,10 +12116,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -13693,10 +12149,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mexico City"
    }
   ],
@@ -13727,10 +12179,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Belmopan"
    }
   ],
@@ -13751,7 +12199,7 @@
  },
  {
   "id": 900404,
-  "tier": "hard",
+  "tier": "medium",
   "group": "Outline",
   "name": "Panama",
   "sci": "",
@@ -13759,10 +12207,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -13796,10 +12240,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Caracas"
    }
   ],
@@ -13827,10 +12267,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -13864,10 +12300,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Cairo"
    }
   ],
@@ -13887,7 +12319,7 @@
  },
  {
   "id": 900408,
-  "tier": "medium",
+  "tier": "hard",
   "group": "Outline",
   "name": "Yemen",
   "sci": "",
@@ -13895,10 +12327,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -13932,10 +12360,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nouakchott"
    }
   ],
@@ -13963,10 +12387,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -13998,10 +12418,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -14062,10 +12478,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Vatican City"
    }
   ],
@@ -14087,7 +12499,7 @@
  },
  {
   "id": 900414,
-  "tier": "medium",
+  "tier": "easy",
   "group": "Outline",
   "name": "Australia",
   "sci": "",
@@ -14095,10 +12507,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -14132,10 +12540,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nuuk"
    }
   ],
@@ -14166,10 +12570,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Suva"
    }
   ],
@@ -14189,7 +12589,7 @@
  },
  {
   "id": 900417,
-  "tier": "hard",
+  "tier": "easy",
   "group": "Outline",
   "name": "New Zealand",
   "sci": "",
@@ -14197,10 +12597,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -14234,10 +12630,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Noum\u00e9a"
    }
   ],
@@ -14268,10 +12660,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the middle of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Antananarivo"
    }
   ],
@@ -14291,7 +12679,7 @@
  },
  {
   "id": 900420,
-  "tier": "easy",
+  "tier": "medium",
   "group": "Outline",
   "name": "Philippines",
   "sci": "",
@@ -14299,10 +12687,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -14333,10 +12717,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -14371,10 +12751,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Willemstad"
    }
   ],
@@ -14405,10 +12781,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Oranjestad"
    }
   ],
@@ -14436,10 +12808,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-west of the country"
    },
    {
     "lab": "capital",
@@ -14474,10 +12842,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Cockburn Town"
    }
   ],
@@ -14505,10 +12869,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -14542,10 +12902,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tokyo"
    }
   ],
@@ -14576,10 +12932,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saint-Pierre"
    }
   ],
@@ -14601,7 +12953,7 @@
  },
  {
   "id": 900429,
-  "tier": "death",
+  "tier": "easy",
   "group": "Outline",
   "name": "Iceland",
   "sci": "",
@@ -14609,10 +12961,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -14646,10 +12994,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Adamstown"
    }
   ],
@@ -14677,10 +13021,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -14714,10 +13054,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Port-aux-Fran\u00e7ais"
    }
   ],
@@ -14745,10 +13081,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -14782,10 +13114,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Tarawa"
    }
   ],
@@ -14813,10 +13141,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -14850,10 +13174,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Port-of-Spain"
    }
   ],
@@ -14884,10 +13204,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saint George's"
    }
   ],
@@ -14915,10 +13231,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -14954,10 +13266,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Bridgetown"
    }
   ],
@@ -14985,10 +13293,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",
@@ -15021,10 +13325,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -15084,10 +13384,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Brades"
    }
   ],
@@ -15118,10 +13414,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saint John's"
    }
   ],
@@ -15149,10 +13441,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -15188,10 +13476,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Charlotte Amalie"
    }
   ],
@@ -15219,10 +13503,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the west of the country"
    },
    {
     "lab": "capital",
@@ -15258,10 +13538,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "San Juan"
    }
   ],
@@ -15289,10 +13565,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -15326,10 +13598,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Road Town"
    }
   ],
@@ -15357,10 +13625,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -15394,10 +13658,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "George Town"
    }
   ],
@@ -15425,10 +13685,6 @@
    {
     "lab": "continent",
     "txt": "North America"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -15488,10 +13744,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Jamestown"
    }
   ],
@@ -15521,10 +13773,6 @@
    {
     "lab": "continent",
     "txt": "Seven seas (open ocean)"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -15558,10 +13806,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Moroni"
    }
   ],
@@ -15592,10 +13836,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "S\u00e3o Tom\u00e9"
    }
   ],
@@ -15623,10 +13863,6 @@
    {
     "lab": "continent",
     "txt": "Africa"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -15661,10 +13897,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Valletta"
    }
   ],
@@ -15692,10 +13924,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -15729,10 +13957,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "St Peter Port"
    }
   ],
@@ -15760,10 +13984,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -15797,10 +14017,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mariehamn"
    }
   ],
@@ -15828,10 +14044,6 @@
    {
     "lab": "continent",
     "txt": "Europe"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -15865,10 +14077,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Diego Garcia"
    }
   ],
@@ -15896,10 +14104,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south of the country"
    },
    {
     "lab": "capital",
@@ -15933,10 +14137,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Kingston"
    }
   ],
@@ -15964,10 +14164,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -16001,10 +14197,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Nuku'alofa"
    }
   ],
@@ -16035,10 +14227,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mata-Utu"
    }
   ],
@@ -16066,10 +14254,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the east of the country"
    },
    {
     "lab": "capital",
@@ -16104,10 +14288,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Honiara"
    }
   ],
@@ -16135,10 +14315,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-east of the country"
    },
    {
     "lab": "capital",
@@ -16172,10 +14348,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Mal\u00e9"
    }
   ],
@@ -16206,10 +14378,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Yaren"
    }
   ],
@@ -16237,10 +14405,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north-east of the country"
    },
    {
     "lab": "capital",
@@ -16275,10 +14439,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "King Edward Point"
    }
   ],
@@ -16309,10 +14469,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Stanley"
    }
   ],
@@ -16340,10 +14496,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -16378,10 +14530,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the west of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Alofi"
    }
   ],
@@ -16409,10 +14557,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the south-west of the country"
    },
    {
     "lab": "capital",
@@ -16446,10 +14590,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the north-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Ngerulmud"
    }
   ],
@@ -16477,10 +14617,6 @@
    {
     "lab": "continent",
     "txt": "Oceania"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the middle of the country"
    },
    {
     "lab": "capital",
@@ -16514,10 +14650,6 @@
    },
    {
     "lab": "capital",
-    "txt": "in the south-east of the country"
-   },
-   {
-    "lab": "capital",
     "txt": "Saipan"
    }
   ],
@@ -16545,10 +14677,6 @@
    {
     "lab": "continent",
     "txt": "Asia"
-   },
-   {
-    "lab": "capital",
-    "txt": "in the north of the country"
    },
    {
     "lab": "capital",

@@ -203,3 +203,34 @@ def continent(iso, found):
 def capital(iso, found):
     """The capital to hint at: ours if we have one, otherwise what was found."""
     return CAPITAL.get(iso, found)
+
+
+# Recognising an outline is nothing to do with how many people live there.
+# Population suits flags -- you have probably seen a populous country's flag --
+# but it put Niger and Malawi in the middle tier while Italy and Norway, two of
+# the most recognisable shapes on earth, sat further down. So the first two
+# tiers are named: shapes most people could place, then shapes they could work
+# out. The rest falls back to population, which at least keeps microstates and
+# uninhabited rocks at the bottom.
+OUTLINE_EASY = {
+    "it",  # the boot
+    "us", "gb", "fr", "jp", "au", "in", "br", "cl", "ca", "ru", "cn", "mx",
+    "es", "de", "no", "se", "gr", "eg", "za", "nz", "cu", "is", "ie", "pt",
+    "kr", "tr",
+}
+OUTLINE_MEDIUM = {
+    "pl", "ua", "fi", "dk", "nl", "be", "at", "ch", "cz", "il", "ir", "iq",
+    "sa", "pk", "bd", "th", "vn", "id", "ph", "my", "ng", "ke", "et", "ma",
+    "dz", "ly", "ar", "pe", "co", "ve", "bo", "mg", "np", "lk", "kh", "mm",
+    "kp", "tw", "pa", "mn", "hu", "ro", "rs", "hr", "bg",
+}
+
+
+def outline_tier(iso, pop_tier_of):
+    """Easy and medium are named; hard and death fall back to population."""
+    if iso in OUTLINE_EASY:
+        return "easy"
+    if iso in OUTLINE_MEDIUM:
+        return "medium"
+    # everything else is at best hard, however many people live there
+    return "hard" if pop_tier_of in ("easy", "medium", "hard") else "death"
