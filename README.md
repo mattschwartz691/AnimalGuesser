@@ -23,10 +23,26 @@ game it is.
 
 | Category | Holds | Where it comes from |
 |---|---|---|
+| Food Dishes | 113 | Wikipedia and Wikimedia Commons |
+| Desserts | 109 | Wikipedia and Wikimedia Commons |
 | Flowers | 318 | iNaturalist photographs |
 | Trees | 315 | iNaturalist photographs, two views each |
 | Flags | 249 | flagcdn |
 | Country Outlines | 238 | drawn here from geoBoundaries |
+
+**Dishes and desserts are curated, not scraped.** Wikidata knows about 1,292
+desserts with photographs, but a database's idea of a dessert is not a
+player's: the list is mostly regional variants nobody outside one country has
+met. So both categories are named here in four tiers — pizza and chocolate chip
+cookies through pad thai and tiramisu, out to surströmming and kransekake — and
+Wikipedia is asked only for the picture. Each one says where it is from, given
+as its first hint the way a country gives its continent.
+
+Wikipedia's default image filter hides the lead photograph on some articles,
+pizza and sushi among them, so it is switched off and each file's licence is
+checked on Commons instead. Anything not freely licensed is dropped rather than
+used: six were, Clafoutis and żurek among them. The photographer and the
+licence go in the credit line, as everywhere else here.
 
 **Difficulty is how familiar the thing is**, which no dataset knows, so it is
 stated rather than derived. Flowers run household → garden → wild → exotic, and

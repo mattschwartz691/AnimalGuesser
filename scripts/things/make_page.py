@@ -14,7 +14,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 SRC = os.path.join(ROOT, "web", "index.html")
 DST = os.path.join(ROOT, "web", "things.html")
 
-CATS = [("flowers", "Flowers", "Houseplants through to the exotic"),
+CATS = [("dishes", "Food Dishes", "Pizza through to surströmming"),
+        ("desserts", "Desserts", "Cookies through to kransekake"),
+        ("flowers", "Flowers", "Houseplants through to the exotic"),
         ("trees", "Trees", "The whole tree, and its leaves"),
         ("flags", "Flags", "Every country's flag"),
         ("outlines", "Country Outlines", "The shape, with nothing else to go on")]
@@ -28,7 +30,7 @@ def main():
     s = s.replace('placeholder="What animal is this?"', 'placeholder="What is this?"')
     s = s.replace('alt="Photo of an animal to identify"', 'alt="A thing to identify"')
     s = s.replace("A real photograph of a real animal. Name it.",
-                  "A flower, a tree, a constellation, a flag or a country. Name it.")
+                  "A dish, a dessert, a flower, a tree, a flag or a country. Name it.")
     s = s.replace("Loading the animals\\u2026", "Loading the things\\u2026")
 
     # the link across to the other game -- REPLACING the one index.html
@@ -66,8 +68,8 @@ def main():
                   '  window.GUESSER = {data: "../data/things.json", key: "things.",\n'
                   '                    one: "thing", many: "things", credit: "Source",\n'
                   '                    streakTries: {flags: 2},\n'
-                  '                    tagline: "A flower, a tree, a constellation, a flag "\n'
-                  '                             + "or a country. Name it."};\n'
+                  '                    tagline: "A dish, a dessert, a flower, a tree, "\n'
+                  '                             + "a flag or a country. Name it."};\n'
                   '</script>\n<script src="game.js"></script>')
     io.open(DST, "w", encoding="utf-8").write(s)
     print("wrote web/things.html")

@@ -13,6 +13,7 @@ import json, os, collections
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WS = os.path.join(ROOT, "data", "things", "world_sky.json")
 PL = os.path.join(ROOT, "data", "things_plants.json")
+FD = os.path.join(ROOT, "data", "things_food.json")
 OUT = os.path.join(ROOT, "data", "things.json")
 
 def main():
@@ -22,6 +23,11 @@ def main():
         recs += p.get("flowers", []) + p.get("trees", [])
     else:
         print("   (no plants file yet -- flowers and trees will be missing)")
+    if os.path.exists(FD):
+        f = json.load(open(FD))
+        recs += f.get("desserts", []) + f.get("dishes", [])
+    else:
+        print("   (no food file yet -- desserts and dishes will be missing)")
 
     # A tree is shown as a pair -- the whole tree and a close-up together --
     # so both of its photographs go on screen at once rather than one being
@@ -43,7 +49,7 @@ def main():
 
     json.dump({"source": "Flowers and trees from iNaturalist research-grade observations. "
                          "Flags from flagcdn. Outlines drawn from Natural Earth. "
-                         "Constellations drawn from the d3-celestial star catalogue. "
+                         "Desserts and dishes photographed by Wikimedia Commons contributors. "
                          "No AI-generated imagery.",
                "animals": uniq}, open(OUT, "w"), separators=(",", ":"))
     n = collections.Counter(r["cats"][0] for r in uniq)

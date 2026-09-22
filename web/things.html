@@ -219,6 +219,8 @@
   <label class="diff death"><input type="checkbox" class="difftoggle" data-tier="death"><span class="box"></span><span class="difftext"><b>Death Mode</b><span>Almost nobody knows this animal</span></span><span class="catnum" data-tiercount="death"></span></label>
   <div id="tierwarn" class="hidden">Pick at least one difficulty.</div>
   <h2 class="cathead">Categories</h2>
+    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="dishes" checked><span class="switch"></span><span class="catname">Food Dishes<span class="catsub">Pizza through to surströmming</span></span><span class="catnum" data-count="dishes"></span></label>
+    <label class="cat"><input type="checkbox" class="cattoggle" data-cat="desserts" checked><span class="switch"></span><span class="catname">Desserts<span class="catsub">Cookies through to kransekake</span></span><span class="catnum" data-count="desserts"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="flowers" checked><span class="switch"></span><span class="catname">Flowers<span class="catsub">Houseplants through to the exotic</span></span><span class="catnum" data-count="flowers"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="trees" checked><span class="switch"></span><span class="catname">Trees<span class="catsub">The whole tree, and its leaves</span></span><span class="catnum" data-count="trees"></span></label>
     <label class="cat"><input type="checkbox" class="cattoggle" data-cat="flags" checked><span class="switch"></span><span class="catname">Flags<span class="catsub">Every country's flag</span></span><span class="catnum" data-count="flags"></span></label>
@@ -250,8 +252,8 @@
   window.GUESSER = {data: "../data/things.json", key: "things.",
                     one: "thing", many: "things", credit: "Source",
                     streakTries: {flags: 2},
-                    tagline: "A flower, a tree, a constellation, a flag "
-                             + "or a country. Name it."};
+                    tagline: "A dish, a dessert, a flower, a tree, "
+                             + "a flag or a country. Name it."};
 </script>
 <script src="game.js"></script>
 </body>

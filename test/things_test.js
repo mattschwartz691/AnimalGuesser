@@ -8,8 +8,8 @@ const by = {};
 for (const r of d) (by[r.cats[0]] = by[r.cats[0]] || []).push(r);
 
 console.log("-- categories --");
-ok(Object.keys(by).sort().join(",") === "flags,flowers,outlines,trees",
-   "exactly four: flags, flowers, outlines, trees", Object.keys(by).sort().join(","));
+ok(Object.keys(by).sort().join(",") === "desserts,dishes,flags,flowers,outlines,trees",
+   "six categories", Object.keys(by).sort().join(","));
 ok(!by.constellations, "constellations are gone");
 for (const [k,v] of Object.entries(by)) console.log(`     ${k.padEnd(9)} ${v.length}`);
 
@@ -61,6 +61,25 @@ console.log("\n-- trees have two views --");
 const two = by.trees.filter(r => r.photos.length > 1).length;
 ok(two / by.trees.length > 0.85, `${two} of ${by.trees.length} trees have two photos`,
    Math.round(two/by.trees.length*100) + "%");
+
+console.log("\n-- food --");
+for (const c of ["dishes","desserts"]) {
+  const rows = by[c] || [];
+  ok(rows.length > 90, `${c}: ${rows.length} of them`, rows.length);
+  ok(rows.every(r => r.photos[0].url.includes("wikimedia") || r.photos[0].url.includes("wikipedia")),
+     `${c}: every photo comes from Wikimedia`);
+  ok(rows.every(r => /CC |Public domain|CC0|Wikimedia/i.test(r.photos[0].credit)),
+     `${c}: every photo names a free licence`);
+  ok(!rows.some(r => /machine-readable/i.test(r.photos[0].credit)),
+     `${c}: no Commons boilerplate in the credits`);
+  ok(rows.filter(r => (r.facts||[]).length).length / rows.length > 0.9,
+     `${c}: nearly all say where they are from`);
+  const tiers = new Set(rows.map(r => r.tier));
+  ok(tiers.size === 4, `${c}: all four tiers used`, [...tiers].join(","));
+}
+const pizza = (by.dishes||[]).find(r => r.name === "Pizza");
+ok(pizza && pizza.tier === "easy", "pizza is easy", pizza && pizza.tier);
+ok(pizza && pizza.facts[0].txt === "Italy", "and comes from Italy");
 
 console.log(fails === 0 ? "\nPASS: things data" : `\nFAIL: ${fails}`);
 process.exitCode = fails ? 1 : 0;
