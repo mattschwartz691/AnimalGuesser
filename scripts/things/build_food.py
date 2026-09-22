@@ -120,6 +120,132 @@ DISHES = {
  ],
 }
 
+# --- second pass: a great deal more of both ---------------------------------
+DESSERTS["easy"] += [
+  ("Chocolate pudding","United States"),("Ice cream sandwich","United States"),
+  ("Sugar cookie","Netherlands"),("Oatmeal raisin cookie","United States"),
+  ("Peanut butter cookie","United States"),("Snickerdoodle","United States"),
+  ("Blondie (confection)","United States"),("Whoopie pie","United States"),
+  ("Cinnamon roll","Sweden"),("Funnel cake","Germany"),
+  ("Root beer float","United States"),("Banana bread","United States"),
+  ("Rice Krispies Treats","United States"),("Chocolate truffle","France"),
+  ("Toffee","England"),("Caramel","France"),("Lollipop","United States"),
+  ("Cookie dough","United States"),("Chocolate milk","Jamaica"),
+]
+DESSERTS["medium"] += [
+  ("Cobbler (food)","United States"),("Crumble","England"),
+  ("Cherry pie","United States"),("Blueberry pie","United States"),
+  ("Boston cream pie","United States"),("Black Forest gateau","Germany"),
+  ("Swiss roll","Central Europe"),("Battenberg cake","England"),
+  ("Victoria sponge","England"),("Madeleine (cake)","France"),
+  ("Financier (cake)","France"),("Palmier","France"),
+  ("Danish pastry","Denmark"),("Croissant","Austria"),
+  ("Apple turnover","England"),("Baked Alaska","United States"),
+  ("Peach Melba","Australia"),("Millionaire's shortbread","Scotland"),
+  ("Rocky road (dessert)","Australia"),("Nanaimo bar","Canada"),
+  ("Butter tart","Canada"),("Doughnut hole","United States"),
+  ("Fruit salad","Europe"),("Banana pudding","United States"),
+  ("Whipped cream","France"),("Chocolate fondue","Switzerland"),
+]
+DESSERTS["hard"] += [
+  ("Cassata","Italy"),("Zeppole","Italy"),("Struffoli","Italy"),
+  ("Panforte","Italy"),("Torrone","Italy"),("Amaretti di Saronno","Italy"),
+  ("Biscotti","Italy"),("Pizzelle","Italy"),("Babka","Poland"),
+  ("Rugelach","Poland"),("Hamantash","Israel"),("Turkish delight","Turkey"),
+  ("Revani","Turkey"),("Tulumba","Turkey"),("Syrniki","Russia"),
+  ("Pastila","Russia"),("Trdelník","Slovakia"),("Linzer torte","Austria"),
+  ("Apple strudel","Austria"),("Germknödel","Austria"),
+  ("Salzburger Nockerl","Austria"),("Bienenstich","Germany"),
+  ("Berliner (doughnut)","Germany"),("Lebkuchen","Germany"),
+  ("Marzipan","Germany"),("Mont Blanc (dessert)","France"),
+  ("Financier","France"),("Galette des Rois","France"),
+  ("Tiramisù al limone","Italy"),("Bubble tea","Taiwan"),
+]
+DESSERTS["death"] += [
+  ("Krumkake","Norway"),("Prinsesstårta","Sweden"),("Dammsugare","Sweden"),
+  ("Chokladboll","Sweden"),("Kladdkaka","Sweden"),("Æbleskiver","Denmark"),
+  ("Kringle","Denmark"),("Lussekatt","Sweden"),("Pepparkaka","Sweden"),
+  ("Mämmi","Finland"),("Vínarterta","Iceland"),("Chak-chak (food)","Tatarstan"),
+  ("Churchkhela","Georgia"),("Koliva","Greece"),("Galaktoboureko","Greece"),
+  ("Kourabiedes","Greece"),("Ekmek kadayıfı","Turkey"),("Güllaç","Turkey"),
+  ("Sutlac","Turkey"),("Ashure","Turkey"),("Ma'amoul","Levant"),
+  ("Sfenj","Morocco"),("Chebakia","Morocco"),("Koeksister","South Africa"),
+  ("Melktert","South Africa"),("Malva pudding","South Africa"),
+  ("Pastafrola","Argentina"),("Chimbo","Colombia"),("Arroz con leche","Spain"),
+  ("Turrón","Spain"),
+]
+DISHES["easy"] += [
+  ("Buffalo wing","United States"),("Corn dog","United States"),
+  ("Meatloaf","Germany"),("Chili con carne","United States"),
+  ("Sloppy joe","United States"),("Pot pie","England"),
+  ("Coleslaw","Netherlands"),("Potato salad","Germany"),
+  ("Deviled egg","Rome"),("Onion ring","United States"),
+  ("Pretzel","Germany"),("Garlic bread","Italy"),
+  ("Sausage roll","England"),("Cornbread","United States"),
+  ("Toasted sandwich","Europe"),("Spaghetti with meatballs","United States"),
+  ("Steak","Europe"),("Roast chicken","Europe"),("Bacon and eggs","England"),
+  ("Baked beans","United States"),("Chicken salad","United States"),
+]
+DISHES["medium"] += [
+  ("Carbonara","Italy"),("Gnocchi","Italy"),("Ravioli","Italy"),
+  ("Minestrone","Italy"),("Caprese salad","Italy"),("Arancini","Italy"),
+  ("Ossobuco","Italy"),("Calzone","Italy"),("Focaccia","Italy"),
+  ("Bruschetta","Italy"),("Bratwurst","Germany"),("Currywurst","Germany"),
+  ("Sauerbraten","Germany"),("Doner kebab","Turkey"),("Shawarma","Levant"),
+  ("Tabbouleh","Lebanon"),("Baba ghanoush","Levant"),
+  ("Croque monsieur","France"),("French onion soup","France"),
+  ("Salade niçoise","France"),("Beef Wellington","England"),
+  ("Cornish pasty","England"),("Bangers and mash","England"),
+  ("Scotch egg","England"),("Full breakfast","England"),
+  ("Cottage pie","England"),("Gazpacho","Spain"),
+  ("Spanish omelette","Spain"),("Patatas bravas","Spain"),
+  ("Tamale","Mexico"),("Pozole","Mexico"),("Chilaquiles","Mexico"),
+  ("Huevos rancheros","Mexico"),("Fajita","Mexico"),
+  ("Jerk (cooking)","Jamaica"),("Tandoori chicken","India"),
+  ("Naan","India"),("Dal","India"),("Miso soup","Japan"),
+  ("Udon","Japan"),("Soba","Japan"),("Jiaozi","China"),
+  ("Kimchi","Korea"),("Sashimi","Japan"),("Onigiri","Japan"),
+  ("Yakitori","Japan"),("Peking duck","China"),("Wonton","China"),
+]
+DISHES["hard"] += [
+  ("Cacio e pepe","Italy"),("Vitello tonnato","Italy"),("Panzanella","Italy"),
+  ("Saltimbocca","Italy"),("Polenta","Italy"),("Tartiflette","France"),
+  ("Pissaladière","France"),("Steak tartare","France"),
+  ("Escargot","France"),("Vichyssoise","France"),
+  ("Toad in the hole","England"),("Welsh rarebit","Wales"),
+  ("Ropa vieja","Cuba"),("Arroz con pollo","Spain"),("Roti","India"),
+  ("Doubles (food)","Trinidad"),("Callaloo","Caribbean"),
+  ("Churrasco","Brazil"),("Asado","Argentina"),("Milanesa","Argentina"),
+  ("Choripán","Argentina"),("Chana masala","India"),
+  ("Palak paneer","India"),("Vindaloo","India"),("Dosa","India"),
+  ("Idli","India"),("Pav bhaji","India"),("Butter chicken","India"),
+  ("Momo (food)","Nepal"),("Khao soi","Thailand"),("Som tam","Thailand"),
+  ("Tom yum","Thailand"),("Nasi goreng","Indonesia"),("Gado-gado","Indonesia"),
+  ("Chicken adobo","Philippines"),("Lumpia","Philippines"),
+  ("Kare-kare","Philippines"),("Japchae","Korea"),("Jajangmyeon","Korea"),
+  ("Mapo doufu","China"),("Xiaolongbao","China"),("Hot pot","China"),
+  ("Char siu","China"),("Dim sum","China"),("Falooda","India"),
+]
+DISHES["death"] += [
+  ("Khash (dish)","Armenia"),("Dolma","Turkey"),("Manti (food)","Turkey"),
+  ("Plov","Uzbekistan"),("Lagman","Central Asia"),("Shashlik","Caucasus"),
+  ("Okroshka","Russia"),("Solyanka","Russia"),("Blini","Russia"),
+  ("Draniki","Belarus"),("Cepelinai","Lithuania"),("Hákarl","Iceland"),
+  ("Rakfisk","Norway"),("Pinnekjøtt","Norway"),("Ärtsoppa","Sweden"),
+  ("Janssons frestelse","Sweden"),("Stamppot","Netherlands"),
+  ("Bitterballen","Netherlands"),("Carbonade flamande","Belgium"),
+  ("Flammekueche","France"),("Baeckeoffe","France"),("Aligot","France"),
+  ("Piperade","France"),("Fabada asturiana","Spain"),("Cocido","Spain"),
+  ("Escalivada","Spain"),("Bacalhau à Brás","Portugal"),
+  ("Francesinha","Portugal"),("Caldo verde","Portugal"),("Migas","Spain"),
+  ("Vatapá","Brazil"),("Acarajé","Brazil"),("Moqueca","Brazil"),
+  ("Pabellón criollo","Venezuela"),("Bandeja paisa","Colombia"),
+  ("Ajiaco","Colombia"),("Lomo saltado","Peru"),("Causa (food)","Peru"),
+  ("Anticucho","Peru"),("Locro","Argentina"),("Chivito (sandwich)","Uruguay"),
+  ("Kushari","Egypt"),("Mulukhiyah","Egypt"),("Waakye","Ghana"),
+  ("Egusi","Nigeria"),("Muamba de galinha","Angola"),
+]
+
 
 def api(host, params):
     q = urllib.parse.urlencode(params)
@@ -171,33 +297,44 @@ def photo_for(title):
     return None
 
 
-def build(table, cat, nid):
-    out, skipped = [], []
+def build(table, cat, nid, have):
+    """`have` is what a previous run already fetched, keyed by name."""
+    out, skipped, reused = [], [], 0
     for tier, rows in table.items():
         for title, origin in rows:
+            name = clean(title)
+            old = have.get(name)
+            if old:                                   # already have its photo
+                old["tier"] = tier                    # but the tier may have moved
+                old["facts"] = [{"lab": "from", "txt": origin}] if origin else []
+                out.append(old); reused += 1
+                continue
             ph = photo_for(title)
             time.sleep(0.25)
             if not ph:
                 skipped.append(title); continue
-            name = clean(title)
             nid += 1
             out.append({"id": nid, "tier": tier, "group": cat.title(), "name": name,
                         "sci": "", "aliases": sorted({name.lower()}),
                         "facts": [{"lab": "from", "txt": origin}] if origin else [],
                         "cats": [cat], "photos": [ph]})
         print(f"   {tier:7s} {sum(1 for r in out if r['tier']==tier):3d} of {len(rows)}")
+    print(f"   {reused} already had a photo, {len(out) - reused} newly fetched")
     if skipped:
-        print(f"   no free photo for {len(skipped)}: {', '.join(skipped[:8])}"
-              + (" ..." if len(skipped) > 8 else ""))
+        print(f"   no free photo for {len(skipped)}: {', '.join(skipped[:10])}"
+              + (" ..." if len(skipped) > 10 else ""))
     return out, nid
 
 
 def main():
-    nid = 700000
+    prev = json.load(open(OUT)) if os.path.exists(OUT) else {}
+    have_d = {r["name"]: r for r in prev.get("desserts", [])}
+    have_s = {r["name"]: r for r in prev.get("dishes", [])}
+    nid = max([700000] + [r["id"] for v in prev.values() for r in v]) + 1
     print(f"Desserts ({sum(len(v) for v in DESSERTS.values())} curated)")
-    desserts, nid = build(DESSERTS, "desserts", nid)
+    desserts, nid = build(DESSERTS, "desserts", nid, have_d)
     print(f"\nDishes ({sum(len(v) for v in DISHES.values())} curated)")
-    dishes, nid = build(DISHES, "dishes", nid)
+    dishes, nid = build(DISHES, "dishes", nid, have_s)
     json.dump({"desserts": desserts, "dishes": dishes}, open(OUT, "w"), indent=1)
     print(f"\nwrote {len(desserts)} desserts + {len(dishes)} dishes -> {OUT}")
 

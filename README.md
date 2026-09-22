@@ -23,8 +23,8 @@ game it is.
 
 | Category | Holds | Where it comes from |
 |---|---|---|
-| Food Dishes | 113 | Wikipedia and Wikimedia Commons |
-| Desserts | 109 | Wikipedia and Wikimedia Commons |
+| Food Dishes | 265 | Wikipedia and Wikimedia Commons |
+| Desserts | 208 | Wikipedia and Wikimedia Commons |
 | Flowers | 318 | iNaturalist photographs |
 | Trees | 315 | iNaturalist photographs, two views each |
 | Flags | 249 | flagcdn |
@@ -41,7 +41,8 @@ as its first hint the way a country gives its continent.
 Wikipedia's default image filter hides the lead photograph on some articles,
 pizza and sushi among them, so it is switched off and each file's licence is
 checked on Commons instead. Anything not freely licensed is dropped rather than
-used: six were, Clafoutis and żurek among them. The photographer and the
+used: twenty were, out of 493 curated — Clafoutis, żurek and corn dog among
+them. The photographer and the
 licence go in the credit line, as everywhere else here.
 
 **Difficulty is how familiar the thing is**, which no dataset knows, so it is
