@@ -24,7 +24,7 @@ DESSERTS = {
  "easy": [
   ("Chocolate chip cookie","United States"),("Chocolate brownie","United States"),
   ("Cheesecake","Greece"),("Apple pie","England"),("Doughnut","United States"),
-  ("Cupcake","United States"),("Ice cream","Italy"),("Waffle","Belgium"),
+  ("Cupcake","United States"),("Ice cream","Italy"),
   ("Chocolate cake","United States"),("Banana split","United States"),
   ("S'more","United States"),("Ice pop","United States"),("Fudge","United States"),
   ("Candy apple","United States"),("Pumpkin pie","United States"),
@@ -78,8 +78,8 @@ DISHES = {
   ("Burrito","Mexico"),("Ramen","Japan"),("Fried rice","China"),
   ("Caesar salad","Mexico"),("BLT","United States"),("Meatball","Italy"),
   ("Lasagne","Italy"),("Chicken nugget","United States"),
-  ("Peanut butter and jelly sandwich","United States"),("Omelette","France"),
-  ("Pancake","Europe"),("Mashed potato","Europe"),("Scrambled eggs","Europe"),
+  ("Peanut butter and jelly sandwich","United States"),
+  ("Mashed potato","Europe"),
   ("Club sandwich","United States"),("Nachos","Mexico"),("Chicken soup","Europe"),
  ],
  "medium": [
@@ -100,7 +100,7 @@ DISHES = {
   ("Ceviche","Peru"),("Arepa","Venezuela"),("Doro wat","Ethiopia"),
   ("Tajine","Morocco"),("Borscht","Ukraine"),("Bánh mì","Vietnam"),
   ("Laksa","Malaysia"),("Satay","Indonesia"),("Rendang","Indonesia"),
-  ("Feijoada","Brazil"),("Poutine","Canada"),("Shakshouka","Tunisia"),
+  ("Feijoada","Brazil"),("Poutine","Canada"),
   ("Pastitsio","Greece"),("Souvlaki","Greece"),("Pelmeni","Russia"),
   ("Khachapuri","Georgia"),("Jollof rice","West Africa"),("Injera","Ethiopia"),
   ("Bulgogi","Korea"),("Tteokbokki","Korea"),("Congee","China"),
@@ -139,7 +139,7 @@ DESSERTS["medium"] += [
   ("Swiss roll","Central Europe"),("Battenberg cake","England"),
   ("Victoria sponge","England"),("Madeleine (cake)","France"),
   ("Financier (cake)","France"),("Palmier","France"),
-  ("Danish pastry","Denmark"),("Croissant","Austria"),
+  
   ("Apple turnover","England"),("Baked Alaska","United States"),
   ("Peach Melba","Australia"),("Millionaire's shortbread","Scotland"),
   ("Rocky road (dessert)","Australia"),("Nanaimo bar","Canada"),
@@ -183,7 +183,7 @@ DISHES["easy"] += [
   ("Pretzel","Germany"),("Garlic bread","Italy"),
   ("Sausage roll","England"),("Cornbread","United States"),
   ("Toasted sandwich","Europe"),("Spaghetti with meatballs","United States"),
-  ("Steak","Europe"),("Roast chicken","Europe"),("Bacon and eggs","England"),
+  ("Steak","Europe"),("Roast chicken","Europe"),
   ("Baked beans","United States"),("Chicken salad","United States"),
 ]
 DISHES["medium"] += [
@@ -196,11 +196,11 @@ DISHES["medium"] += [
   ("Croque monsieur","France"),("French onion soup","France"),
   ("Salade niçoise","France"),("Beef Wellington","England"),
   ("Cornish pasty","England"),("Bangers and mash","England"),
-  ("Scotch egg","England"),("Full breakfast","England"),
+  ("Scotch egg","England"),
   ("Cottage pie","England"),("Gazpacho","Spain"),
   ("Spanish omelette","Spain"),("Patatas bravas","Spain"),
-  ("Tamale","Mexico"),("Pozole","Mexico"),("Chilaquiles","Mexico"),
-  ("Huevos rancheros","Mexico"),("Fajita","Mexico"),
+  ("Tamale","Mexico"),("Pozole","Mexico"),
+  ("Fajita","Mexico"),
   ("Jerk (cooking)","Jamaica"),("Tandoori chicken","India"),
   ("Naan","India"),("Dal","India"),("Miso soup","Japan"),
   ("Udon","Japan"),("Soba","Japan"),("Jiaozi","China"),
@@ -245,6 +245,59 @@ DISHES["death"] += [
   ("Kushari","Egypt"),("Mulukhiyah","Egypt"),("Waakye","Ghana"),
   ("Egusi","Nigeria"),("Muamba de galinha","Angola"),
 ]
+
+# --- breakfast ---------------------------------------------------------------
+# Several of these used to sit under dishes or desserts. A thing belongs to one
+# category here, so they moved rather than appearing twice.
+BREAKFAST = {
+ "easy": [
+  ("Pancake","Europe"),("Waffle","Belgium"),("French toast","Rome"),
+  ("Scrambled eggs","Europe"),("Fried egg","Europe"),("Omelette","France"),
+  ("Bacon","Europe"),("Sausage","Europe"),("Toast (food)","Europe"),
+  ("Bagel","Poland"),("Croissant","Austria"),("Breakfast cereal","United States"),
+  ("Oatmeal","Scotland"),("Granola","United States"),("Yogurt","Central Asia"),
+  ("Muffin","England"),("Hash browns","United States"),
+  ("Biscuits and gravy","United States"),("Bacon and eggs","England"),
+  ("Eggs Benedict","United States"),("Breakfast burrito","United States"),
+  ("Grits","United States"),("Smoothie","United States"),
+  ("Danish pastry","Denmark"),("Breakfast sandwich","United States"),
+  ("Avocado toast","Australia"),("Porridge","Scotland"),
+ ],
+ "medium": [
+  ("Full breakfast","England"),("Frittata","Italy"),("Crumpet","England"),
+  ("English muffin","England"),("Huevos rancheros","Mexico"),
+  ("Chilaquiles","Mexico"),("Shakshouka","Tunisia"),("Poached egg","Europe"),
+  ("Blintz","Eastern Europe"),("Egg in the basket","United States"),
+  ("Corned beef hash","England"),("Black pudding","England"),
+  ("Pain au chocolat","France"),("Brioche","France"),("Muesli","Switzerland"),
+  ("Acai bowl","Brazil"),
+  ("Chorizo","Spain"),("Scrapple","United States"),("Shirred eggs","France"),
+  ("Kedgeree","India"),("Bircher muesli","Switzerland"),
+ ],
+ "hard": [
+  ("Bubble and squeak","England"),("Kipper","England"),("Laverbread","Wales"),
+  ("Smørrebrød","Denmark"),("Rugbrød","Denmark"),("Skyr","Iceland"),
+  ("Gravlax","Sweden"),("Knäckebröd","Sweden"),("Filmjölk","Sweden"),
+  ("Zopf","Switzerland"),("Weisswurst","Germany"),("Brötchen","Germany"),
+  ("Simit","Turkey"),("Menemen (food)","Turkey"),("Börek","Turkey"),
+  ("Ful medames","Egypt"),("Manakish","Levant"),("Labneh","Levant"),
+  ("Youtiao","China"),("Baozi","China"),("Kaya toast","Singapore"),
+  ("Bánh cuốn","Vietnam"),("Xôi","Vietnam"),("Poha","India"),
+  ("Upma","India"),("Paratha","India"),("Pandesal","Philippines"),
+  ("Gallo pinto","Costa Rica"),("Pan con tomate","Spain"),
+ ],
+ "death": [
+  ("Khichdi","India"),("Aloo paratha","India"),("Medu vada","India"),
+  ("Puttu","India"),("Appam","Sri Lanka"),("Kiribath","Sri Lanka"),
+  ("Cháo","Vietnam"),("Tapsilog","Philippines"),("Champorado","Philippines"),
+  ("Lugaw","Philippines"),("Nasi uduk","Indonesia"),("Bubur ayam","Indonesia"),
+  ("Baleada","Honduras"),("Mangú","Dominican Republic"),
+  ("Calentado","Colombia"),("Vegemite","Australia"),("Fairy bread","Australia"),
+  ("Tteokguk","Korea"),("Natto","Japan"),("Tamagoyaki","Japan"),
+  ("Leberkäse","Germany"),
+  
+ ],
+}
 
 
 def api(host, params):
@@ -328,15 +381,22 @@ def build(table, cat, nid, have):
 
 def main():
     prev = json.load(open(OUT)) if os.path.exists(OUT) else {}
-    have_d = {r["name"]: r for r in prev.get("desserts", [])}
-    have_s = {r["name"]: r for r in prev.get("dishes", [])}
-    nid = max([700000] + [r["id"] for v in prev.values() for r in v]) + 1
-    print(f"Desserts ({sum(len(v) for v in DESSERTS.values())} curated)")
-    desserts, nid = build(DESSERTS, "desserts", nid, have_d)
-    print(f"\nDishes ({sum(len(v) for v in DISHES.values())} curated)")
-    dishes, nid = build(DISHES, "dishes", nid, have_s)
-    json.dump({"desserts": desserts, "dishes": dishes}, open(OUT, "w"), indent=1)
-    print(f"\nwrote {len(desserts)} desserts + {len(dishes)} dishes -> {OUT}")
+    # one pool of everything already fetched, so moving an item between
+    # categories costs no requests at all
+    have = {r["name"]: r for v in prev.values() for r in v}
+    nid = max([700000] + [r["id"] for v in prev.values() for r in v] or [700000]) + 1
+    out = {}
+    for label, table, cat in (("Desserts", DESSERTS, "desserts"),
+                              ("Dishes", DISHES, "dishes"),
+                              ("Breakfast", BREAKFAST, "breakfast")):
+        print(f"{label} ({sum(len(v) for v in table.values())} curated)")
+        rows, nid = build(table, cat, nid, have)
+        for r in rows:
+            r["cats"] = [cat]        # a moved item takes its new category
+        out[cat] = rows
+        print()
+    json.dump(out, open(OUT, "w"), indent=1)
+    print("wrote " + ", ".join(f"{len(v)} {k}" for k, v in out.items()) + f" -> {OUT}")
 
 
 if __name__ == "__main__":

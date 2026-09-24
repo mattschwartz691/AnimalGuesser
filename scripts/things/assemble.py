@@ -25,7 +25,7 @@ def main():
         print("   (no plants file yet -- flowers and trees will be missing)")
     if os.path.exists(FD):
         f = json.load(open(FD))
-        recs += f.get("desserts", []) + f.get("dishes", [])
+        recs += f.get("desserts", []) + f.get("dishes", []) + f.get("breakfast", [])
     else:
         print("   (no food file yet -- desserts and dishes will be missing)")
 

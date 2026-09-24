@@ -23,19 +23,23 @@ game it is.
 
 | Category | Holds | Where it comes from |
 |---|---|---|
-| Food Dishes | 265 | Wikipedia and Wikimedia Commons |
-| Desserts | 208 | Wikipedia and Wikimedia Commons |
+| Food Dishes | 257 | Wikipedia and Wikimedia Commons |
+| Breakfast | 93 | Wikipedia and Wikimedia Commons |
+| Desserts | 205 | Wikipedia and Wikimedia Commons |
 | Flowers | 318 | iNaturalist photographs |
 | Trees | 315 | iNaturalist photographs, two views each |
 | Flags | 249 | flagcdn |
 | Country Outlines | 238 | drawn here from geoBoundaries |
 
-**Dishes and desserts are curated, not scraped.** Wikidata knows about 1,292
+**Food is curated, not scraped.** Wikidata knows about 1,292
 desserts with photographs, but a database's idea of a dessert is not a
 player's: the list is mostly regional variants nobody outside one country has
-met. So both categories are named here in four tiers — pizza and chocolate chip
-cookies through pad thai and tiramisu, out to surströmming and kransekake — and
-Wikipedia is asked only for the picture. Each one says where it is from, given
+met. So all three food categories are named here in four tiers — pizza, pancakes and
+chocolate chip cookies through pad thai, shakshouka and tiramisu, out to
+surströmming, natto and kransekake — and Wikipedia is asked only for the
+picture. A thing belongs to one category: pancakes and croissants moved out of
+dishes and desserts when breakfast arrived rather than appearing twice, while
+congee and miso soup stayed put, being dishes that merely get eaten early. Each one says where it is from, given
 as its first hint the way a country gives its continent.
 
 Wikipedia's default image filter hides the lead photograph on some articles,

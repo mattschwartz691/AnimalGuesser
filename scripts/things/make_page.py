@@ -15,6 +15,7 @@ SRC = os.path.join(ROOT, "web", "index.html")
 DST = os.path.join(ROOT, "web", "things.html")
 
 CATS = [("dishes", "Food Dishes", "Pizza through to surströmming"),
+        ("breakfast", "Breakfast", "Pancakes through to congee and natto"),
         ("desserts", "Desserts", "Cookies through to kransekake"),
         ("flowers", "Flowers", "Houseplants through to the exotic"),
         ("trees", "Trees", "The whole tree, and its leaves"),
@@ -68,8 +69,8 @@ def main():
                   '  window.GUESSER = {data: "../data/things.json", key: "things.",\n'
                   '                    one: "thing", many: "things", credit: "Source",\n'
                   '                    streakTries: {flags: 2},\n'
-                  '                    tagline: "A dish, a dessert, a flower, a tree, "\n'
-                  '                             + "a flag or a country. Name it."};\n'
+                  '                    tagline: "A dish, a breakfast, a dessert, a flower, "\n'
+                  '                             + "a tree, a flag or a country. Name it."};\n'
                   '</script>\n<script src="game.js"></script>')
     io.open(DST, "w", encoding="utf-8").write(s)
     print("wrote web/things.html")

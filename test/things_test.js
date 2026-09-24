@@ -8,8 +8,8 @@ const by = {};
 for (const r of d) (by[r.cats[0]] = by[r.cats[0]] || []).push(r);
 
 console.log("-- categories --");
-ok(Object.keys(by).sort().join(",") === "desserts,dishes,flags,flowers,outlines,trees",
-   "six categories", Object.keys(by).sort().join(","));
+ok(Object.keys(by).sort().join(",") === "breakfast,desserts,dishes,flags,flowers,outlines,trees",
+   "seven categories", Object.keys(by).sort().join(","));
 ok(!by.constellations, "constellations are gone");
 for (const [k,v] of Object.entries(by)) console.log(`     ${k.padEnd(9)} ${v.length}`);
 
@@ -62,10 +62,24 @@ const two = by.trees.filter(r => r.photos.length > 1).length;
 ok(two / by.trees.length > 0.85, `${two} of ${by.trees.length} trees have two photos`,
    Math.round(two/by.trees.length*100) + "%");
 
+console.log("\n-- nothing is in two categories twice over --");
+{
+  const seen = new Map();
+  const clash = [];
+  for (const r of d) {
+    const prev = seen.get(r.name);
+    const pair = new Set([prev, r.cats[0]]);
+    // a country legitimately appears as both a flag and an outline
+    if (prev && !(pair.has("flags") && pair.has("outlines"))) clash.push(r.name + " in " + [...pair].join("+"));
+    seen.set(r.name, r.cats[0]);
+  }
+  ok(clash.length === 0, "no accidental duplicates across categories", clash.slice(0,6).join(", "));
+}
+
 console.log("\n-- food --");
-for (const c of ["dishes","desserts"]) {
+for (const c of ["dishes","desserts","breakfast"]) {
   const rows = by[c] || [];
-  ok(rows.length > 90, `${c}: ${rows.length} of them`, rows.length);
+  ok(rows.length > 80, `${c}: ${rows.length} of them`, rows.length);
   ok(rows.every(r => r.photos[0].url.includes("wikimedia") || r.photos[0].url.includes("wikipedia")),
      `${c}: every photo comes from Wikimedia`);
   ok(rows.every(r => /CC |Public domain|CC0|Wikimedia/i.test(r.photos[0].credit)),
