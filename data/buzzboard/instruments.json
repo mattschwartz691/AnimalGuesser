@@ -1,0 +1,308 @@
+{
+ "category": "Musical Instruments",
+ "slug": "instruments",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "instruments-01",
+   "q": "The standard modern version of this keyboard instrument has 88 keys",
+   "a": "What is the piano?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-02",
+   "q": "Usually strung with six strings, this instrument is the heart of most rock bands in its electric form",
+   "a": "What is the guitar?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-03",
+   "q": "This smallest and highest-pitched member of the orchestra's bowed string family is tucked under the chin",
+   "a": "What is the violin?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-04",
+   "q": "This brass instrument changes pitch with a long sliding tube instead of valves",
+   "a": "What is the trombone?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-05",
+   "q": "Held sideways and played by blowing across a hole, this woodwind is a favorite of pop star Lizzo",
+   "a": "What is the flute?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-06",
+   "q": "The concert version of this large plucked instrument has 47 strings and seven pedals",
+   "a": "What is the harp?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-07",
+   "q": "This pair of metal plates is crashed together for a loud splash in marching bands",
+   "a": "What are cymbals?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-08",
+   "q": "This small four-stringed instrument from Hawaii has a name often translated as 'jumping flea'",
+   "a": "What is the ukulele?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-09",
+   "q": "Played by one person with sticks and foot pedals, this setup includes a snare, toms and a hi-hat",
+   "a": "What is a drum kit?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-10",
+   "q": "This three-sided steel instrument rings with a bright 'ting' when tapped with a metal beater",
+   "a": "What is the triangle?",
+   "tier": 1
+  },
+  {
+   "id": "instruments-11",
+   "q": "This largest and lowest-pitched brass instrument usually rests in its player's lap",
+   "a": "What is the tuba?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-12",
+   "q": "Invented by a Belgian in the 1840s, this instrument has a brass body but uses a reed, so it counts as a woodwind",
+   "a": "What is the saxophone?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-13",
+   "q": "This Scottish instrument has a bag, a chanter for the melody and drones for the steady hum",
+   "a": "What are the bagpipes?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-14",
+   "q": "Squidward Tentacles plays this black single-reed woodwind, badly",
+   "a": "What is the clarinet?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-15",
+   "q": "This instrument of wooden bars struck with mallets has a name from Greek words meaning 'wood sound'",
+   "a": "What is the xylophone?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-16",
+   "q": "Its player squeezes bellows in and out while pressing a piano-style keyboard on one side and buttons on the other",
+   "a": "What is the accordion?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-17",
+   "q": "This large string instrument is played seated, held between the knees, and pitched below the viola",
+   "a": "What is the cello?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-18",
+   "q": "This coiled brass instrument's player usually keeps one hand tucked inside its flared bell",
+   "a": "What is the French horn?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-19",
+   "q": "Before a concert, the orchestra tunes to the 'A' played by this double-reed woodwind",
+   "a": "What is the oboe?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-20",
+   "q": "Born in Trinidad and Tobago, this tuned percussion instrument is traditionally made from discarded oil barrels",
+   "a": "What is the steelpan?",
+   "tier": 2
+  },
+  {
+   "id": "instruments-21",
+   "q": "This low double-reed woodwind has a long folded tube and a curved metal mouthpipe called a bocal",
+   "a": "What is the bassoon?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-22",
+   "q": "This Aboriginal Australian wind instrument is a long wooden tube traditionally hollowed out by termites",
+   "a": "What is the didgeridoo?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-23",
+   "q": "Ravi Shankar made this long-necked Indian string instrument, with its gourd body and buzzing sympathetic strings, famous in the West",
+   "a": "What is the sitar?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-24",
+   "q": "This keyboard ancestor of the piano plucks its strings with quills or plectra instead of striking them",
+   "a": "What is the harpsichord?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-25",
+   "q": "These large bowl-shaped kettledrums can be retuned during a piece using a foot pedal",
+   "a": "What are timpani?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-26",
+   "q": "Nicknamed the 'mouth organ' or 'blues harp', this pocket-sized instrument is heard in many Bob Dylan songs",
+   "a": "What is the harmonica?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-27",
+   "q": "This eerie electronic instrument is played without being touched, by moving the hands near two antennas",
+   "a": "What is the theremin?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-28",
+   "q": "Flamenco dancers click these pairs of shell-shaped wooden pieces in their hands",
+   "a": "What are castanets?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-29",
+   "q": "About half the size of a regular flute, this tiny woodwind plays the highest notes in the orchestra",
+   "a": "What is the piccolo?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-30",
+   "q": "The largest bowed string instrument in the orchestra, jazz players often pluck it and call it 'the upright'",
+   "a": "What is the double bass?",
+   "tier": 3
+  },
+  {
+   "id": "instruments-31",
+   "q": "Violin makers Antonio Stradivari and the Amati family worked in this northern Italian city",
+   "a": "What is Cremona?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-32",
+   "q": "This three-stringed Japanese lute is plucked with a large, fan-shaped plectrum called a bachi",
+   "a": "What is the shamisen?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-33",
+   "q": "This goblet-shaped West African drum is played with bare hands and traditionally carved from a single piece of wood",
+   "a": "What is the djembe?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-34",
+   "q": "This Irish frame drum is held upright and struck with a small double-headed stick called a tipper",
+   "a": "What is the bodhrán?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-35",
+   "q": "Central to Hindustani classical music, this pair of hand drums includes a smaller wooden drum and a larger, usually metal one",
+   "a": "What is the tabla?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-36",
+   "q": "This keyboard instrument with bell-like tones plays the solo in Tchaikovsky's 'Dance of the Sugar Plum Fairy'",
+   "a": "What is the celesta?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-37",
+   "q": "This two-stringed bowed instrument, with its bow hair passing between the strings, is sometimes called the 'Chinese violin'",
+   "a": "What is the erhu?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-38",
+   "q": "This Italian musical term tells a violinist to pluck the strings with the fingers instead of using the bow",
+   "a": "What is pizzicato?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-39",
+   "q": "This very long wooden horn was traditionally used by herders to call across mountain valleys in Switzerland",
+   "a": "What is the alphorn?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-40",
+   "q": "This Russian folk instrument has a triangular body and usually three strings",
+   "a": "What is the balalaika?",
+   "tier": 4
+  },
+  {
+   "id": "instruments-41",
+   "q": "This French word names the way a wind or brass player shapes the lips and mouth around the mouthpiece",
+   "a": "What is embouchure?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-42",
+   "q": "This single-stringed musical bow with a gourd resonator sets the rhythm for the Brazilian martial art capoeira",
+   "a": "What is the berimbau?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-43",
+   "q": "This long Japanese zither, traditionally with 13 strings, is played with picks worn on the fingers",
+   "a": "What is the koto?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-44",
+   "q": "In the Hornbostel-Sachs system, drums with a stretched skin or head belong to this class of instruments",
+   "a": "What are membranophones?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-45",
+   "q": "This many-stringed plucked instrument, combining features of a lute and a zither, is closely associated with Ukraine",
+   "a": "What is the bandura?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-46",
+   "q": "This fretted, bowed Renaissance and Baroque string instrument is held between the legs, and its Italian name refers to the leg",
+   "a": "What is the viola da gamba?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-47",
+   "q": "This traditional Swedish fiddle uses wooden keys that press against its strings to change the pitch",
+   "a": "What is the nyckelharpa?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-48",
+   "q": "On this medieval instrument, the player turns a crank that spins a rosined wheel against the strings",
+   "a": "What is the hurdy-gurdy?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-49",
+   "q": "This alto member of the oboe family plays the famous slow solo in Dvořák's 'New World' Symphony",
+   "a": "What is the English horn?",
+   "tier": 5
+  },
+  {
+   "id": "instruments-50",
+   "q": "This traditional Indonesian ensemble of gongs and bronze metallophones is associated with Java and Bali",
+   "a": "What is the gamelan?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "World Capitals",
+ "slug": "world-capitals",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "world-capitals-01",
+   "q": "The Eiffel Tower and the Louvre are landmarks of this capital on the Seine",
+   "a": "What is Paris?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-02",
+   "q": "Big Ben and Buckingham Palace are found in this capital on the River Thames",
+   "a": "What is London?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-03",
+   "q": "This Japanese capital hosted the Summer Olympics in 1964 and again in 2021",
+   "a": "What is Tokyo?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-04",
+   "q": "The Colosseum and the Trevi Fountain are in this capital, which completely surrounds Vatican City",
+   "a": "What is Rome?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-05",
+   "q": "The White House and the Lincoln Memorial are found in this capital on the Potomac River",
+   "a": "What is Washington, D.C.?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-06",
+   "q": "The Forbidden City and Tiananmen Square are in this capital, host of the 2008 Summer Olympics",
+   "a": "What is Beijing?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-07",
+   "q": "Red Square and the Kremlin lie at the heart of this capital",
+   "a": "What is Moscow?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-08",
+   "q": "The Brandenburg Gate stands in this capital, which was divided by a wall from 1961 to 1989",
+   "a": "What is Berlin?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-09",
+   "q": "The Parthenon sits atop the Acropolis in this capital, named for a goddess of wisdom",
+   "a": "What is Athens?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-10",
+   "q": "Spain's largest city, this capital is home to the famous Prado art museum",
+   "a": "What is Madrid?",
+   "tier": 1
+  },
+  {
+   "id": "world-capitals-11",
+   "q": "This capital of Canada, home to Parliament Hill, lies in Ontario, just across a river from the province of Quebec",
+   "a": "What is Ottawa?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-12",
+   "q": "This capital was built atop the ruins of Tenochtitlan, the island capital of the Aztecs",
+   "a": "What is Mexico City?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-13",
+   "q": "Purpose-built as a compromise between rivals Sydney and Melbourne, this is Australia's capital",
+   "a": "What is Canberra?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-14",
+   "q": "South Korea's capital, it hosted the 1988 Summer Olympics",
+   "a": "What is Seoul?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-15",
+   "q": "The India Gate war memorial and the president's palace, Rashtrapati Bhavan, are in this capital",
+   "a": "What is New Delhi?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-16",
+   "q": "Trinity College and the Guinness Storehouse are in this capital on the River Liffey",
+   "a": "What is Dublin?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-17",
+   "q": "Argentina's capital on the Río de la Plata, it's home to the pink presidential palace, the Casa Rosada",
+   "a": "What is Buenos Aires?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-18",
+   "q": "This hilly capital at the mouth of the Tagus River is the westernmost capital of mainland Europe",
+   "a": "What is Lisbon?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-19",
+   "q": "Mozart and Beethoven both lived and worked in this Danube capital, home of Schönbrunn Palace",
+   "a": "What is Vienna?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-20",
+   "q": "Classic 1950s American cars still cruise past the Malecón seawall in this Caribbean capital",
+   "a": "What is Havana?",
+   "tier": 2
+  },
+  {
+   "id": "world-capitals-21",
+   "q": "This capital of Kenya has a national park where lions and giraffes roam within sight of its skyscrapers",
+   "a": "What is Nairobi?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-22",
+   "q": "This Thai capital's full ceremonial name is one of the longest place names in the world",
+   "a": "What is Bangkok?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-23",
+   "q": "The Nobel Peace Prize is awarded each year in this Scandinavian capital, not in Stockholm",
+   "a": "What is Oslo?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-24",
+   "q": "Spread across 14 islands, this capital hosts the Nobel Prize banquet every December",
+   "a": "What is Stockholm?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-25",
+   "q": "Finland's capital, it hosted the 1952 Summer Olympics",
+   "a": "What is Helsinki?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-26",
+   "q": "This capital on the Vltava River is famous for its astronomical clock and the Charles Bridge",
+   "a": "What is Prague?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-27",
+   "q": "This capital was formed in 1873 by uniting three towns on opposite banks of the Danube",
+   "a": "What is Budapest?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-28",
+   "q": "Founded by conquistador Francisco Pizarro in 1535, this is Peru's capital",
+   "a": "What is Lima?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-29",
+   "q": "Colombia's capital, it sits on a high plateau in the Andes",
+   "a": "What is Bogotá?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-30",
+   "q": "This windy harbor capital lies at the southern tip of New Zealand's North Island",
+   "a": "What is Wellington?",
+   "tier": 3
+  },
+  {
+   "id": "world-capitals-31",
+   "q": "Many people guess Istanbul, but this city in central Anatolia is Turkey's capital",
+   "a": "What is Ankara?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-32",
+   "q": "This planned capital, inaugurated in 1960, has a layout often compared to an airplane",
+   "a": "What is Brasília?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-33",
+   "q": "This is the northernmost capital of a sovereign state in the world",
+   "a": "What is Reykjavík?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-34",
+   "q": "Ho Chi Minh's mausoleum stands in this Vietnamese capital on the Red River",
+   "a": "What is Hanoi?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-35",
+   "q": "Nepal's capital, it is the usual starting point for climbers headed to Everest's southern side",
+   "a": "What is Kathmandu?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-36",
+   "q": "The African Union has its headquarters in this Ethiopian capital",
+   "a": "What is Addis Ababa?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-37",
+   "q": "This capital of Ecuador lies just south of the equator, high in the Andes",
+   "a": "What is Quito?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-38",
+   "q": "Built as a planned city in the 1960s, this capital of Pakistan sits at the foot of the Margalla Hills",
+   "a": "What is Islamabad?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-39",
+   "q": "Chile's capital, it sits in a central valley with the Andes looming to the east",
+   "a": "What is Santiago?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-40",
+   "q": "Its Old Town was rebuilt after near-total destruction in World War II; this Polish capital lies on the Vistula",
+   "a": "What is Warsaw?",
+   "tier": 4
+  },
+  {
+   "id": "world-capitals-41",
+   "q": "Often called the coldest national capital in the world, this is Mongolia's capital",
+   "a": "What is Ulaanbaatar?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-42",
+   "q": "This Himalayan capital of Bhutan is famous for having no traffic lights; police direct traffic by hand",
+   "a": "What is Thimphu?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-43",
+   "q": "This capital of Burkina Faso hosts FESPACO, Africa's biggest film festival",
+   "a": "What is Ouagadougou?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-44",
+   "q": "This Uruguayan capital hosted the first FIFA World Cup final in 1930",
+   "a": "What is Montevideo?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-45",
+   "q": "This capital of Georgia (the country, not the U.S. state) straddles the Kura River",
+   "a": "What is Tbilisi?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-46",
+   "q": "This fortified capital of Malta was built by the Knights of St. John after the Great Siege of 1565",
+   "a": "What is Valletta?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-47",
+   "q": "A dragon is the symbol of this Slovenian capital, which has a famous Dragon Bridge",
+   "a": "What is Ljubljana?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-48",
+   "q": "This capital of Laos sits on the Mekong River, directly across from Thailand",
+   "a": "What is Vientiane?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-49",
+   "q": "This is the capital of Suriname, the only country in South America where Dutch is the official language",
+   "a": "What is Paramaribo?",
+   "tier": 5
+  },
+  {
+   "id": "world-capitals-50",
+   "q": "Namibia's capital, this city sits on a central plateau between the Namib and Kalahari deserts",
+   "a": "What is Windhoek?",
+   "tier": 5
+  }
+ ]
+}

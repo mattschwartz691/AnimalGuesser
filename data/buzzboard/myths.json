@@ -1,0 +1,607 @@
+{
+ "category": "Roman/Greek/Norse/Egyptian Myths",
+ "slug": "myths",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q34201-lead",
+   "q": "This Greek sky and thunder god, the child of Cronus and Rhea, rules as king of the gods on Mount Olympus.",
+   "a": "Who is Zeus?",
+   "tier": 1
+  },
+  {
+   "id": "Q42952-lead",
+   "q": "In Norse mythology, this hammer-wielding god is associated with thunder, storms and strength.",
+   "a": "Who is Thor?",
+   "tier": 1
+  },
+  {
+   "id": "Q41127-lead",
+   "q": "This Olympian god presides over the sea, storms, earthquakes and horses; he had the cult title \"earth shaker\".",
+   "a": "Who is Poseidon?",
+   "tier": 1
+  },
+  {
+   "id": "Q41410-lead",
+   "q": "This eldest son of Cronus and Rhea is the Greek god of the dead and King of the underworld.",
+   "a": "Who is Hades?",
+   "tier": 1
+  },
+  {
+   "id": "Q37122-lead",
+   "q": "This Greek goddess of wisdom, warfare and handicraft was the patron of a famous city that most likely gave her its name.",
+   "a": "Who is Athena?",
+   "tier": 1
+  },
+  {
+   "id": "Q37340-lead",
+   "q": "This Olympian god of healing, prophecy, music, poetry and archery is the twin brother of Artemis.",
+   "a": "Who is Apollo?",
+   "tier": 1
+  },
+  {
+   "id": "Q122248-lead",
+   "q": "Born Alcaeus, this son of Zeus and Alcmene was the greatest of the Greek heroes, famed for superhuman strength.",
+   "a": "Who is Heracles (Hercules)?",
+   "tier": 1
+  },
+  {
+   "id": "Q160730-lead",
+   "q": "Anyone who looked upon this Gorgon, who had living snakes for hair, was turned to stone.",
+   "a": "Who is Medusa?",
+   "tier": 1
+  },
+  {
+   "id": "Q43610-lead",
+   "q": "This widely revered chief god of Norse mythology has hundreds of names and titles and rides the eight-legged horse Sleipnir.",
+   "a": "Who is Odin?",
+   "tier": 1
+  },
+  {
+   "id": "Q133147-lead",
+   "q": "This Norse god engineers the death of the beloved god Baldr and is bound by the other gods as punishment.",
+   "a": "Who is Loki?",
+   "tier": 1
+  },
+  {
+   "id": "Q1252904-lead",
+   "q": "This ancient Egyptian god of the Sun was believed to have ruled the sky, the Earth and the underworld.",
+   "a": "Who is Ra?",
+   "tier": 1
+  },
+  {
+   "id": "Q47534-lead",
+   "q": "This Egyptian god of funerary rites and guide to the underworld is usually shown as a canine or a man with a canine head.",
+   "a": "Who is Anubis?",
+   "tier": 1
+  },
+  {
+   "id": "Q41746-lead",
+   "q": "The central character of Homer's Iliad, this son of Thetis was the greatest of all the Greek warriors of the Trojan War.",
+   "a": "Who is Achilles?",
+   "tier": 1
+  },
+  {
+   "id": "Q83496-lead",
+   "q": "This multi-headed dog, often called the hound of Hades, guards the gates of the Greek underworld to keep the dead from leaving.",
+   "a": "What is Cerberus?",
+   "tier": 1
+  },
+  {
+   "id": "Q129866-lead",
+   "q": "This Greek creature with the head and tail of a bull and the body of a man lived at the center of the Labyrinth on Crete.",
+   "a": "What is the Minotaur?",
+   "tier": 1
+  },
+  {
+   "id": "Q35500-lead",
+   "q": "This ancient Greek goddess of love and beauty had major cult centers at Cythera and Cyprus.",
+   "a": "Who is Aphrodite?",
+   "tier": 1
+  },
+  {
+   "id": "Q5011-lead",
+   "q": "Also known as Amor, this Roman god of desire and affection is the son of Venus; his Greek counterpart is Eros.",
+   "a": "Who is Cupid?",
+   "tier": 1
+  },
+  {
+   "id": "Q34041-lead",
+   "q": "This son of the master craftsman Daedalus was imprisoned with his father by King Minos of Crete; they escaped using wings.",
+   "a": "Who is Icarus?",
+   "tier": 1
+  },
+  {
+   "id": "Q131346-lead",
+   "q": "In Greek myth, this first human woman was created by Hephaestus on Zeus's instructions, and each god gave her a gift.",
+   "a": "Who is Pandora?",
+   "tier": 1
+  },
+  {
+   "id": "Q193813-lead",
+   "q": "This weapon of Norse mythology belongs to the thunder god Thor.",
+   "a": "What is Mjolnir?",
+   "tier": 1
+  },
+  {
+   "id": "Q41484-lead",
+   "q": "Aided by his winged sandals, this herald of the Greek gods protects travelers, thieves and merchants.",
+   "a": "Who is Hermes?",
+   "tier": 2
+  },
+  {
+   "id": "Q40901-lead",
+   "q": "This son of Zeus and Hera is the Greek god of war and courage.",
+   "a": "Who is Ares?",
+   "tier": 2
+  },
+  {
+   "id": "Q39503-lead",
+   "q": "This Greek goddess of hunting and wild animals is the twin sister of Apollo; Diana is her Roman equivalent.",
+   "a": "Who is Artemis?",
+   "tier": 2
+  },
+  {
+   "id": "Q38012-lead",
+   "q": "This Greek goddess of marriage, queen of the Olympians, is the sister and wife of Zeus.",
+   "a": "Who is Hera?",
+   "tier": 2
+  },
+  {
+   "id": "Q41680-lead",
+   "q": "This Greek god of wine-making, festivity and theatre was also called Bacchus.",
+   "a": "Who is Dionysus?",
+   "tier": 2
+  },
+  {
+   "id": "Q79876-lead",
+   "q": "This major Egyptian goddess resurrects her slain brother and husband Osiris and protects their son Horus.",
+   "a": "Who is Isis?",
+   "tier": 2
+  },
+  {
+   "id": "Q46491-lead",
+   "q": "This Egyptian god of the afterlife is shown partially mummy-wrapped, wearing an atef crown and holding a crook and flail.",
+   "a": "Who is Osiris?",
+   "tier": 2
+  },
+  {
+   "id": "Q47231-lead",
+   "q": "This legendary Greek king of Ithaca, husband of Penelope and father of Telemachus, is the hero of a Homeric epic.",
+   "a": "Who is Odysseus (Ulysses)?",
+   "tier": 2
+  },
+  {
+   "id": "Q130832-lead",
+   "q": "This son of Zeus and Danae beheaded the Gorgon Medusa and saved Andromeda from the sea monster Cetus.",
+   "a": "Who is Perseus?",
+   "tier": 2
+  },
+  {
+   "id": "Q4649-lead",
+   "q": "This Roman god of the sky and thunder, king of the gods, was the chief deity of Roman state religion.",
+   "a": "Who is Jupiter?",
+   "tier": 2
+  },
+  {
+   "id": "Q112-lead",
+   "q": "This Roman god of war, son of Jupiter and Juno, gave his name to the month of March.",
+   "a": "Who is Mars?",
+   "tier": 2
+  },
+  {
+   "id": "Q3954-lead",
+   "q": "This Roman god of the sea is the counterpart of Poseidon; his wife is Salacia.",
+   "a": "Who is Neptune?",
+   "tier": 2
+  },
+  {
+   "id": "Q47652-lead",
+   "q": "This Roman goddess of love and beauty was claimed as an ancestor by Julius Caesar through her son Aeneas.",
+   "a": "Who is Venus?",
+   "tier": 2
+  },
+  {
+   "id": "Q83160-lead",
+   "q": "This Greek Titan, a champion of humankind, defied the Olympian gods by stealing fire and giving it to humanity.",
+   "a": "Who is Prometheus?",
+   "tier": 2
+  },
+  {
+   "id": "Q177860-lead",
+   "q": "In Norse mythology, this majestic hall located in Asgard is presided over by the god Odin.",
+   "a": "What is Valhalla?",
+   "tier": 2
+  },
+  {
+   "id": "Q170148-lead",
+   "q": "This foretold series of events in Norse mythology includes a great battle, the burning of the world, and its rebirth.",
+   "a": "What is Ragnarok?",
+   "tier": 2
+  },
+  {
+   "id": "Q130818-lead",
+   "q": "After the Titanomachy, this Greek Titan was condemned to hold up the heavens for eternity.",
+   "a": "Who is Atlas?",
+   "tier": 2
+  },
+  {
+   "id": "Q164061-lead",
+   "q": "Said to be the most beautiful woman in the world, this daughter of Zeus was first married to King Menelaus of Sparta.",
+   "a": "Who is Helen (of Troy)?",
+   "tier": 2
+  },
+  {
+   "id": "Q1320718-lead",
+   "q": "This Greek hero, son of either King Aegeus of Athens or the god Poseidon, is famous for slaying the Minotaur.",
+   "a": "Who is Theseus?",
+   "tier": 2
+  },
+  {
+   "id": "Q1647325-lead",
+   "q": "This Norse goddess of love and beauty owns the necklace Brisingamen and rides a chariot pulled by two cats.",
+   "a": "Who is Freyja?",
+   "tier": 2
+  },
+  {
+   "id": "Q40730-lead",
+   "q": "This Olympian goddess of the harvest and agriculture presides over grains and the fertility of the earth.",
+   "a": "Who is Demeter?",
+   "tier": 3
+  },
+  {
+   "id": "Q44384-lead",
+   "q": "This Greek god of blacksmiths, metalworking and volcanoes was cast off Mount Olympus by his mother Hera because of his lameness.",
+   "a": "Who is Hephaestus?",
+   "tier": 3
+  },
+  {
+   "id": "Q44204-lead",
+   "q": "This youngest of the Titans ruled during the Golden Age until he was overthrown by his son Zeus and imprisoned in Tartarus.",
+   "a": "Who is Cronus?",
+   "tier": 3
+  },
+  {
+   "id": "Q125046-lead",
+   "q": "This Roman goddess, equated with Hera, is the wife of Jupiter and mother of Mars; her sacred animal is the peafowl.",
+   "a": "Who is Juno?",
+   "tier": 3
+  },
+  {
+   "id": "Q126916-lead",
+   "q": "This Roman goddess of wisdom and strategic warfare was equated with the Greek goddess Athena.",
+   "a": "Who is Minerva?",
+   "tier": 3
+  },
+  {
+   "id": "Q132543-lead",
+   "q": "This Roman goddess of the countryside, hunters and the Moon was born on Delos to Jupiter and Latona.",
+   "a": "Who is Diana?",
+   "tier": 3
+  },
+  {
+   "id": "Q167685-lead",
+   "q": "Usually shown with a two-faced head, this Roman god of beginnings, gates and doorways gave his name to January.",
+   "a": "Who is Janus?",
+   "tier": 3
+  },
+  {
+   "id": "Q178182-lead",
+   "q": "In Norse mythology, this location is the fortified home of the Aesir gods and is often associated with gold.",
+   "a": "What is Asgard?",
+   "tier": 3
+  },
+  {
+   "id": "Q131135-lead",
+   "q": "This immense sacred ash tree stands at the center of Norse cosmology, with the Nine Worlds around it.",
+   "a": "What is Yggdrasil?",
+   "tier": 3
+  },
+  {
+   "id": "Q182560-lead",
+   "q": "This monstrous wolf, a child of Loki, is foretold to kill the god Odin during Ragnarok.",
+   "a": "What is Fenrir?",
+   "tier": 3
+  },
+  {
+   "id": "Q131795-lead",
+   "q": "This Egyptian god of deserts, storms and disorder rode Ra's barque to repel the chaos serpent Apep.",
+   "a": "Who is Set (Seth)?",
+   "tier": 3
+  },
+  {
+   "id": "Q146921-lead",
+   "q": "This Egyptian god of the Moon, wisdom and writing was often shown with the head of an ibis or a baboon.",
+   "a": "Who is Thoth?",
+   "tier": 3
+  },
+  {
+   "id": "Q58373-lead",
+   "q": "This Egyptian god became the patron deity of Thebes, was later joined with the sun god Ra, and had a famous oracle at Siwa Oasis.",
+   "a": "Who is Amun?",
+   "tier": 3
+  },
+  {
+   "id": "Q102561-lead",
+   "q": "For cheating death, this king of Ephyra was condemned to push a boulder up a hill only for it to roll back down every time.",
+   "a": "Who is Sisyphus?",
+   "tier": 3
+  },
+  {
+   "id": "Q130890-lead",
+   "q": "This tragic king of Thebes unwittingly fulfilled a prophecy that he would kill his father; his story was told by Sophocles.",
+   "a": "Who is Oedipus?",
+   "tier": 3
+  },
+  {
+   "id": "Q174353-lead",
+   "q": "This legendary Thracian musician sailed with the Argonauts and descended into the underworld to bring back his wife Eurydice.",
+   "a": "Who is Orpheus?",
+   "tier": 3
+  },
+  {
+   "id": "Q176758-lead",
+   "q": "This Greek hero, son of Aeson of Iolcos and husband of Medea, led the Argonauts on a quest for the Golden Fleece.",
+   "a": "Who is Jason?",
+   "tier": 3
+  },
+  {
+   "id": "Q170379-lead",
+   "q": "This serpentine lake monster of Greek myth made its lair in the lake of Lerna, said to be an entrance to the Underworld.",
+   "a": "What is the (Lernaean) Hydra?",
+   "tier": 3
+  },
+  {
+   "id": "Q131658-lead",
+   "q": "This Norse god, son of Odin and Frigg and brother of Thor, is killed through a scheme by Loki.",
+   "a": "Who is Baldr (Balder)?",
+   "tier": 3
+  },
+  {
+   "id": "Q208010-lead",
+   "q": "Called the best of all horses, this eight-legged steed of Norse mythology is ridden by Odin.",
+   "a": "What is Sleipnir?",
+   "tier": 3
+  },
+  {
+   "id": "Q133343-lead",
+   "q": "This major Egyptian sky goddess, mother or consort of Horus and Ra, was one of the goddesses who acted as the Eye of Ra.",
+   "a": "Who is Hathor?",
+   "tier": 4
+  },
+  {
+   "id": "Q146313-lead",
+   "q": "This Egyptian god associated with pharaonic power is usually shown as a Nile crocodile or a crocodile-headed man.",
+   "a": "Who is Sobek?",
+   "tier": 4
+  },
+  {
+   "id": "Q146321-lead",
+   "q": "This Egyptian creator god and patron of craftsmen and architects is the husband of Sekhmet in the triad of Memphis.",
+   "a": "Who is Ptah?",
+   "tier": 4
+  },
+  {
+   "id": "Q146104-lead",
+   "q": "This Egyptian warrior goddess of medicine, called \"the eye of Ra\", is associated with Hathor and Bastet.",
+   "a": "Who is Sekhmet?",
+   "tier": 4
+  },
+  {
+   "id": "Q170471-lead",
+   "q": "This Egyptian goddess personified truth, balance, law and justice; her opposite was Isfet.",
+   "a": "Who is Maat?",
+   "tier": 4
+  },
+  {
+   "id": "Q165496-lead",
+   "q": "This Egyptian goddess of the sky, wife of Geb, was the mother of Osiris, Set, Isis and Nephthys.",
+   "a": "Who is Nut?",
+   "tier": 4
+  },
+  {
+   "id": "Q168444-lead",
+   "q": "This Egyptian god of the Earth was believed to cause earthquakes with his laughter.",
+   "a": "Who is Geb?",
+   "tier": 4
+  },
+  {
+   "id": "Q131196-lead",
+   "q": "This keen-eyed Norse god keeps watch for invaders and the onset of Ragnarok where the rainbow bridge Bifrost meets the sky.",
+   "a": "Who is Heimdall?",
+   "tier": 4
+  },
+  {
+   "id": "Q172713-lead",
+   "q": "This Norse god sacrificed his right hand to the wolf Fenrir, who bit it off when he realized he had been bound.",
+   "a": "Who is Tyr?",
+   "tier": 4
+  },
+  {
+   "id": "Q181227-lead",
+   "q": "Also called the World Serpent, this huge Norse sea serpent encircles the Earth while biting its own tail.",
+   "a": "What is Jormungandr?",
+   "tier": 4
+  },
+  {
+   "id": "Q208525-lead",
+   "q": "In Norse mythology, this burning rainbow bridge reaches between Midgard and Asgard.",
+   "a": "What is Bifrost?",
+   "tier": 4
+  },
+  {
+   "id": "Q191589-lead",
+   "q": "This female being in Norse mythology presides over an underworld realm of the same name, where she receives a portion of the dead.",
+   "a": "Who is Hel?",
+   "tier": 4
+  },
+  {
+   "id": "Q170779-lead",
+   "q": "This Trojan priestess was fated by Apollo to utter true prophecies but never to be believed.",
+   "a": "Who is Cassandra?",
+   "tier": 4
+  },
+  {
+   "id": "Q187602-lead",
+   "q": "This witch and goddess, daughter of the sun god Helios, used potions and herbs to transform her enemies into animals.",
+   "a": "Who is Circe?",
+   "tier": 4
+  },
+  {
+   "id": "Q174278-lead",
+   "q": "This sorceress, daughter of King Aeetes of Colchis and niece of Circe, was the wife of Jason.",
+   "a": "Who is Medea?",
+   "tier": 4
+  },
+  {
+   "id": "Q6612-lead",
+   "q": "This Greek ferryman carries the souls of the dead across the river bordering the underworld; coins were left for him in burials.",
+   "a": "Who is Charon?",
+   "tier": 4
+  },
+  {
+   "id": "Q190082-lead",
+   "q": "In Ovid's version of her tale, this talented mortal challenged the goddess Minerva to a weaving contest.",
+   "a": "Who is Arachne?",
+   "tier": 4
+  },
+  {
+   "id": "Q4640-lead",
+   "q": "This Roman god of fire and the forge, the counterpart of Hephaestus, was honored at a festival held every August 23.",
+   "a": "Who is Vulcan?",
+   "tier": 4
+  },
+  {
+   "id": "Q4654-lead",
+   "q": "This Roman goddess of luck, whose Greek equivalent is Tyche, was often shown with a wheel and a horn of plenty.",
+   "a": "Who is Fortuna?",
+   "tier": 4
+  },
+  {
+   "id": "Q193115-lead",
+   "q": "This man-eating Greek monster lived on one side of a narrow strait, opposite the whirlpools of Charybdis.",
+   "a": "Who is Scylla?",
+   "tier": 4
+  },
+  {
+   "id": "Q190511-lead",
+   "q": "This Egyptian deity of chaos and darkness, the opponent of Ra and of Maat, was usually shown as a giant serpent.",
+   "a": "Who is Apophis (Apep)?",
+   "tier": 5
+  },
+  {
+   "id": "Q215940-lead",
+   "q": "This scarab-faced Egyptian god represents the rising or morning sun.",
+   "a": "Who is Khepri?",
+   "tier": 5
+  },
+  {
+   "id": "Q207435-lead",
+   "q": "This Egyptian protective goddess of childbirth, whose name means \"great one\", was shown as a female hippopotamus.",
+   "a": "Who is Taweret?",
+   "tier": 5
+  },
+  {
+   "id": "Q188931-lead",
+   "q": "Often shown as a bearded dwarf, this Egyptian household god was worshipped as a protector of mothers and children.",
+   "a": "Who is Bes?",
+   "tier": 5
+  },
+  {
+   "id": "Q131483-lead",
+   "q": "This Egyptian goddess with a crocodile head, lion forequarters and hippo hindquarters played a role in the Judgment of the Dead.",
+   "a": "Who is Ammit?",
+   "tier": 5
+  },
+  {
+   "id": "Q336496-lead",
+   "q": "This Norse figure renowned for wisdom was beheaded in the Aesir-Vanir War; Odin carries his head, which counsels him.",
+   "a": "Who is Mimir?",
+   "tier": 5
+  },
+  {
+   "id": "Q204691-lead",
+   "q": "This Norse goddess associated with apples and youth is the wife of the poet god Bragi.",
+   "a": "Who is Idun (Idunn)?",
+   "tier": 5
+  },
+  {
+   "id": "Q199959-lead",
+   "q": "In Snorri's Prose Edda, he is the Norse god of poetry, renowned for eloquence among the gods.",
+   "a": "Who is Bragi?",
+   "tier": 5
+  },
+  {
+   "id": "Q244032-lead",
+   "q": "This Norse jotunn and goddess is associated with bowhunting, skiing, winter and mountains.",
+   "a": "Who is Skadi?",
+   "tier": 5
+  },
+  {
+   "id": "Q211700-lead",
+   "q": "This Norse jotunn guards Muspelheim, one of only two realms that existed before the beginning of time.",
+   "a": "Who is Surtr (Surt)?",
+   "tier": 5
+  },
+  {
+   "id": "Q209732-lead",
+   "q": "In Norse mythology, this is the primordial, magical void described in the Gylfaginning's account of creation.",
+   "a": "What is Ginnungagap?",
+   "tier": 5
+  },
+  {
+   "id": "Q204927-lead",
+   "q": "This Norse jotunn personifies the sea, hosts the gods in his halls, and is associated with brewing ale.",
+   "a": "Who is Aegir?",
+   "tier": 5
+  },
+  {
+   "id": "Q211613-lead",
+   "q": "This Norse goddess associated with the earth is known for her golden hair and is married to the thunder god Thor.",
+   "a": "Who is Sif?",
+   "tier": 5
+  },
+  {
+   "id": "Q207234-lead",
+   "q": "This Roman goddess of war, wearing a military helmet, rides into battle in a four-horse chariot.",
+   "a": "Who is Bellona?",
+   "tier": 5
+  },
+  {
+   "id": "Q171239-lead",
+   "q": "This Roman goddess of fruitful abundance gets her name from the Latin word for orchard fruit.",
+   "a": "Who is Pomona?",
+   "tier": 5
+  },
+  {
+   "id": "Q656881-lead",
+   "q": "This blind prophet of Apollo in Thebes served as an advisor to Cadmus, the city's founder.",
+   "a": "Who is Tiresias?",
+   "tier": 5
+  },
+  {
+   "id": "Q271949-lead",
+   "q": "This Greek bandit from Attica forced his victims to fit the size of an iron bed by stretching them or cutting their legs.",
+   "a": "Who is Procrustes?",
+   "tier": 5
+  },
+  {
+   "id": "Q182101-lead",
+   "q": "In Tartarus, this Greek figure stands in a pool beneath a fruit tree, but the fruit and water always stay out of reach.",
+   "a": "Who is Tantalus?",
+   "tier": 5
+  },
+  {
+   "id": "Q189821-lead",
+   "q": "This many-eyed giant served Hera as a watchman, guarding Io after Zeus turned her into a heifer.",
+   "a": "Who is Argus (Panoptes)?",
+   "tier": 5
+  },
+  {
+   "id": "Q657174-lead",
+   "q": "In Greek mythology, this man of bronze protected Crete from pirates and invaders.",
+   "a": "Who is Talos?",
+   "tier": 5
+  }
+ ]
+}

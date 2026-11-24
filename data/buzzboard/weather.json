@@ -1,0 +1,308 @@
+{
+ "category": "Weather",
+ "slug": "weather",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "weather-01",
+   "q": "Meteorologists measure how hot or cold the air is with this instrument",
+   "a": "What is a thermometer?",
+   "tier": 1
+  },
+  {
+   "id": "weather-02",
+   "q": "These violent spinning columns of air reach down from a thunderstorm to touch the ground",
+   "a": "What are tornadoes?",
+   "tier": 1
+  },
+  {
+   "id": "weather-03",
+   "q": "This loud rumble is caused by lightning heating the air so fast that it expands explosively",
+   "a": "What is thunder?",
+   "tier": 1
+  },
+  {
+   "id": "weather-04",
+   "q": "Sunlight bending and reflecting inside raindrops creates this colorful arc in the sky",
+   "a": "What is a rainbow?",
+   "tier": 1
+  },
+  {
+   "id": "weather-05",
+   "q": "This calm center of a hurricane has light winds and often clear skies",
+   "a": "What is the eye?",
+   "tier": 1
+  },
+  {
+   "id": "weather-06",
+   "q": "Balls or lumps of ice that fall from strong thunderstorms are called this",
+   "a": "What is hail?",
+   "tier": 1
+  },
+  {
+   "id": "weather-07",
+   "q": "These scientists study the atmosphere and forecast the weather",
+   "a": "What are meteorologists?",
+   "tier": 1
+  },
+  {
+   "id": "weather-08",
+   "q": "This puffy, cotton-ball cloud type is common on fair-weather days",
+   "a": "What is cumulus?",
+   "tier": 1
+  },
+  {
+   "id": "weather-09",
+   "q": "Water vapor turning into liquid droplets, like on the outside of a cold glass, is called this",
+   "a": "What is condensation?",
+   "tier": 1
+  },
+  {
+   "id": "weather-10",
+   "q": "Every February 2, crowds in Pennsylvania watch this famous groundhog 'predict' whether winter will last six more weeks",
+   "a": "Who is Punxsutawney Phil?",
+   "tier": 1
+  },
+  {
+   "id": "weather-11",
+   "q": "This instrument measures air pressure; a falling reading often signals stormy weather on the way",
+   "a": "What is a barometer?",
+   "tier": 2
+  },
+  {
+   "id": "weather-12",
+   "q": "This towering, anvil-topped cloud produces thunderstorms, lightning and heavy rain",
+   "a": "What is cumulonimbus?",
+   "tier": 2
+  },
+  {
+   "id": "weather-13",
+   "q": "A tropical cyclone called a hurricane in the Atlantic is called this in the western North Pacific",
+   "a": "What is a typhoon?",
+   "tier": 2
+  },
+  {
+   "id": "weather-14",
+   "q": "Nearly all weather happens in this lowest layer of Earth's atmosphere",
+   "a": "What is the troposphere?",
+   "tier": 2
+  },
+  {
+   "id": "weather-15",
+   "q": "This measure of water vapor in the air is often given as a 'relative' percentage",
+   "a": "What is humidity?",
+   "tier": 2
+  },
+  {
+   "id": "weather-16",
+   "q": "This precipitation falls as liquid but freezes on contact with cold surfaces, glazing roads and trees in ice",
+   "a": "What is freezing rain?",
+   "tier": 2
+  },
+  {
+   "id": "weather-17",
+   "q": "This 2005 Atlantic storm caused levee failures that flooded about 80 percent of New Orleans",
+   "a": "What is Hurricane Katrina?",
+   "tier": 2
+  },
+  {
+   "id": "weather-18",
+   "q": "Spanish for 'the boy', this periodic warming of the eastern tropical Pacific shifts weather patterns worldwide",
+   "a": "What is El Niño?",
+   "tier": 2
+  },
+  {
+   "id": "weather-19",
+   "q": "This system ranks hurricanes from Category 1 to Category 5 based on sustained wind speed",
+   "a": "What is the Saffir-Simpson scale?",
+   "tier": 2
+  },
+  {
+   "id": "weather-20",
+   "q": "This dangerous winter storm combines strong winds and blowing snow that cuts visibility to almost nothing for hours",
+   "a": "What is a blizzard?",
+   "tier": 2
+  },
+  {
+   "id": "weather-21",
+   "q": "This narrow river of fast winds high in the atmosphere steers storm systems, and airliners ride it to save fuel",
+   "a": "What is the jet stream?",
+   "tier": 3
+  },
+  {
+   "id": "weather-22",
+   "q": "Hurricanes spin counterclockwise in the Northern Hemisphere because of this deflection caused by Earth's rotation",
+   "a": "What is the Coriolis effect?",
+   "tier": 3
+  },
+  {
+   "id": "weather-23",
+   "q": "This seasonal wind shift brings heavy summer rains to India and much of South Asia",
+   "a": "What is the monsoon?",
+   "tier": 3
+  },
+  {
+   "id": "weather-24",
+   "q": "This value combines air temperature and breeze speed to describe how cold it feels on exposed skin",
+   "a": "What is wind chill?",
+   "tier": 3
+  },
+  {
+   "id": "weather-25",
+   "q": "This instrument measures wind speed, often with cups that spin in the breeze",
+   "a": "What is an anemometer?",
+   "tier": 3
+  },
+  {
+   "id": "weather-26",
+   "q": "Often a hurricane's deadliest hazard, this is the rise in sea level pushed ashore by the cyclone's winds",
+   "a": "What is storm surge?",
+   "tier": 3
+  },
+  {
+   "id": "weather-27",
+   "q": "Named for an Austrian physicist, this weather-scanning technology detects rain moving toward or away from it, revealing rotation",
+   "a": "What is Doppler radar?",
+   "tier": 3
+  },
+  {
+   "id": "weather-28",
+   "q": "This big swirl of frigid air circling the Arctic can send bitter cold blasts south when it weakens or wobbles",
+   "a": "What is the polar vortex?",
+   "tier": 3
+  },
+  {
+   "id": "weather-29",
+   "q": "This rating system, from EF0 to EF5, estimates a tornado's wind speeds from the damage it leaves",
+   "a": "What is the Enhanced Fujita scale?",
+   "tier": 3
+  },
+  {
+   "id": "weather-30",
+   "q": "At this temperature, the Celsius and Fahrenheit scales give exactly the same reading",
+   "a": "What is minus 40?",
+   "tier": 3
+  },
+  {
+   "id": "weather-31",
+   "q": "This type of long-lived thunderstorm with a rotating updraft produces most of the strongest tornadoes",
+   "a": "What is a supercell?",
+   "tier": 4
+  },
+  {
+   "id": "weather-32",
+   "q": "When air gets warmer with height instead of cooler, this layer forms and can trap smog near the ground",
+   "a": "What is a temperature inversion?",
+   "tier": 4
+  },
+  {
+   "id": "weather-33",
+   "q": "The World Meteorological Organization lists this California desert basin as the site of Earth's hottest recorded air temperature",
+   "a": "What is Death Valley?",
+   "tier": 4
+  },
+  {
+   "id": "weather-34",
+   "q": "A 231 mph gust measured on this New Hampshire peak in 1934 stood as the world wind record until 1996",
+   "a": "What is Mount Washington?",
+   "tier": 4
+  },
+  {
+   "id": "weather-35",
+   "q": "These wispy streaks of rain or snow hang below a cloud but evaporate before reaching the ground",
+   "a": "What is virga?",
+   "tier": 4
+  },
+  {
+   "id": "weather-36",
+   "q": "This warm, dry wind rushing down the eastern slopes of the Rockies is nicknamed the 'snow eater'",
+   "a": "What is a chinook?",
+   "tier": 4
+  },
+  {
+   "id": "weather-37",
+   "q": "Devised by a British naval officer in 1805, this 0-to-12 system rates wind force by its effects on the sea and land",
+   "a": "What is the Beaufort scale?",
+   "tier": 4
+  },
+  {
+   "id": "weather-38",
+   "q": "Releasing particles like silver iodide into clouds to coax out more rain or snow is called this",
+   "a": "What is cloud seeding?",
+   "tier": 4
+  },
+  {
+   "id": "weather-39",
+   "q": "This word names the pleasant, earthy smell of rain falling on dry ground",
+   "a": "What is petrichor?",
+   "tier": 4
+  },
+  {
+   "id": "weather-40",
+   "q": "Ice crystals in high clouds can create these bright spots of light on either side of the sun",
+   "a": "What are sun dogs?",
+   "tier": 4
+  },
+  {
+   "id": "weather-41",
+   "q": "During Cyclone Olivia in 1996, this place off Western Australia recorded a 408 km/h gust, the strongest non-tornado wind ever measured",
+   "a": "What is Barrow Island?",
+   "tier": 5
+  },
+  {
+   "id": "weather-42",
+   "q": "This Russian Antarctic base recorded Earth's lowest reliably measured natural air temperature, about minus 89 °C, in 1983",
+   "a": "What is Vostok Station?",
+   "tier": 5
+  },
+  {
+   "id": "weather-43",
+   "q": "Also called soft hail or snow pellets, this forms when supercooled droplets freeze onto falling snowflakes",
+   "a": "What is graupel?",
+   "tier": 5
+  },
+  {
+   "id": "weather-44",
+   "q": "Named from the Latin for 'udder', these pouch-like bulges hang beneath the anvils of some thunderstorms",
+   "a": "What are mammatus clouds?",
+   "tier": 5
+  },
+  {
+   "id": "weather-45",
+   "q": "From an Arabic word for 'blasting', this is an intense wall of dust pushed ahead of a thunderstorm's outflow",
+   "a": "What is a haboob?",
+   "tier": 5
+  },
+  {
+   "id": "weather-46",
+   "q": "From the Spanish for 'straight', this widespread, long-lived windstorm is driven by a fast-moving line of thunderstorms",
+   "a": "What is a derecho?",
+   "tier": 5
+  },
+  {
+   "id": "weather-47",
+   "q": "This rotating region inside a supercell, often a few miles across, can spawn tornadoes",
+   "a": "What is a mesocyclone?",
+   "tier": 5
+  },
+  {
+   "id": "weather-48",
+   "q": "Carried aloft by a weather balloon, this instrument package radios back temperature, humidity and pressure readings",
+   "a": "What is a radiosonde?",
+   "tier": 5
+  },
+  {
+   "id": "weather-49",
+   "q": "This March 1925 twister through Missouri, Illinois and Indiana killed 695 people, the deadliest in US history",
+   "a": "What is the Tri-State Tornado?",
+   "tier": 5
+  },
+  {
+   "id": "weather-50",
+   "q": "In 1802 this British amateur meteorologist proposed the Latin cloud names cumulus, stratus and cirrus that we still use",
+   "a": "Who is Luke Howard?",
+   "tier": 5
+  }
+ ]
+}

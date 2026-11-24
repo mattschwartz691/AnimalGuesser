@@ -1,0 +1,308 @@
+{
+ "category": "Ancient Egypt",
+ "slug": "ancient-egypt",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "ancient-egypt-01",
+   "q": "The yearly floods of this river left rich soil that made farming possible in ancient Egypt",
+   "a": "What is the Nile?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-02",
+   "q": "This boy king, who died at about 19, became world-famous when his treasure-filled tomb was discovered in 1922",
+   "a": "Who is Tutankhamun?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-03",
+   "q": "Ancient Egyptians wrote with these picture symbols, carved on temple walls and tombs",
+   "a": "What are hieroglyphs?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-04",
+   "q": "These preserved bodies, wrapped in strips of linen, were placed in tombs for the afterlife",
+   "a": "What are mummies?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-05",
+   "q": "This title, from an Egyptian phrase meaning 'great house', is used for the kings of ancient Egypt",
+   "a": "What is pharaoh?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-06",
+   "q": "This famous queen, the last active ruler of Ptolemaic Egypt, was allied with Julius Caesar and Mark Antony",
+   "a": "Who is Cleopatra?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-07",
+   "q": "The only one of the Seven Wonders of the Ancient World still standing, it was built as a tomb for King Khufu",
+   "a": "What is the Great Pyramid of Giza?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-08",
+   "q": "Egyptians made a paper-like writing material from this reed plant that grew along the riverbanks",
+   "a": "What is papyrus?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-09",
+   "q": "Found by French soldiers in 1799, this inscribed slab with one decree in three scripts helped unlock hieroglyphs",
+   "a": "What is the Rosetta Stone?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-10",
+   "q": "This giant limestone statue with a lion's body and a king's head lies near the pyramids",
+   "a": "What is the Great Sphinx?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-egypt-11",
+   "q": "These trained writers kept records and accounts and were among the few Egyptians who could read and write",
+   "a": "What are scribes?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-12",
+   "q": "Across the Nile from modern Luxor, this desert burial ground holds rock-cut tombs of New Kingdom pharaohs",
+   "a": "What is the Valley of the Kings?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-13",
+   "q": "During mummification, the liver, lungs, stomach and intestines were stored in these four lidded containers",
+   "a": "What are canopic jars?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-14",
+   "q": "This female pharaoh of the 18th Dynasty was often shown wearing a king's false beard",
+   "a": "Who is Hatshepsut?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-15",
+   "q": "Royal names in hieroglyphs were written inside this oval outline",
+   "a": "What is a cartouche?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-16",
+   "q": "This word for a stone coffin comes from Greek words meaning 'flesh-eating'",
+   "a": "What is a sarcophagus?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-17",
+   "q": "Founded by a Macedonian conqueror in the 330s BC, this Egyptian port had a famous library and lighthouse",
+   "a": "What is Alexandria?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-18",
+   "q": "This hieroglyphic sign meaning 'life' looks like a cross with a loop at the top",
+   "a": "What is the ankh?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-19",
+   "q": "Pyramid workers received daily rations of bread and this drink, a staple of the Egyptian diet",
+   "a": "What is beer?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-20",
+   "q": "Tall, four-sided stone pillars that taper to a pyramid-shaped tip, like 'Cleopatra's Needle', are called these",
+   "a": "What are obelisks?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-egypt-21",
+   "q": "This official of King Djoser is credited with designing the Step Pyramid at Saqqara and was later worshipped as a god of medicine",
+   "a": "Who is Imhotep?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-22",
+   "q": "This board game of 30 squares was played in Egypt for centuries; boards were even buried with Tutankhamun",
+   "a": "What is senet?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-23",
+   "q": "Egyptian men and women lined their eyes with this dark cosmetic made from minerals like galena",
+   "a": "What is kohl?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-24",
+   "q": "This pharaoh broke with tradition by promoting worship of a single sun disk, the Aten",
+   "a": "Who is Akhenaten?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-25",
+   "q": "This queen, wife of Akhenaten, is famous for a painted limestone bust now in a Berlin museum",
+   "a": "Who is Nefertiti?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-26",
+   "q": "Embalmers covered bodies in this natural salt for about 40 days to dry them out",
+   "a": "What is natron?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-27",
+   "q": "In the 1960s these two rock-cut temples of Ramesses II were cut into blocks and moved to escape the rising waters of Lake Nasser",
+   "a": "What is Abu Simbel?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-28",
+   "q": "This huge temple complex at Luxor, with its forest-like Great Hypostyle Hall, was dedicated mainly to Amun",
+   "a": "What is Karnak?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-29",
+   "q": "Farmers used this device, a long pole with a bucket on one end and a counterweight on the other, to lift river water",
+   "a": "What is a shaduf?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-30",
+   "q": "Scrolls of these funerary spells, placed in tombs, were meant to guide the deceased safely through the afterlife",
+   "a": "What is the Book of the Dead?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-egypt-31",
+   "q": "A carved stone palette shows this king, traditionally credited with uniting Upper and Lower Egypt around 3100 BC",
+   "a": "Who is Narmer?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-32",
+   "q": "In 1822 this French scholar announced he had cracked the code of hieroglyphs",
+   "a": "Who is Jean-François Champollion?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-33",
+   "q": "This 19th Dynasty pharaoh reigned about 66 years and fought the Hittites at the Battle of Kadesh",
+   "a": "Who is Ramesses II?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-34",
+   "q": "Near Saqqara and Giza, this city was the first capital of unified Egypt",
+   "a": "What is Memphis?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-35",
+   "q": "Called Waset by the Egyptians, this southern city was the religious capital of the New Kingdom; its ruins are at modern Luxor",
+   "a": "What is Thebes?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-36",
+   "q": "The middle section of the Rosetta Stone is written in this cursive everyday script of later Egypt",
+   "a": "What is Demotic?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-37",
+   "q": "These foreign rulers from western Asia took control of northern Egypt during the Second Intermediate Period",
+   "a": "Who are the Hyksos?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-38",
+   "q": "Often called the 'Age of the Pyramids', this era included the reigns of Djoser, Sneferu and Khufu",
+   "a": "What is the Old Kingdom?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-39",
+   "q": "This flat-roofed, rectangular tomb was built even before the first pyramids; its name is Arabic for 'bench'",
+   "a": "What is a mastaba?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-40",
+   "q": "This Macedonian general took Egypt after Alexander the Great died and founded a dynasty that ended with Cleopatra",
+   "a": "Who is Ptolemy I?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-egypt-41",
+   "q": "Workers from this village who built royal tombs staged one of history's first recorded strikes, under Ramesses III",
+   "a": "What is Deir el-Medina?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-42",
+   "q": "Ramesses III recorded his victory over these raiders, whose origins are still debated, in reliefs at Medinet Habu",
+   "a": "Who are the Sea Peoples?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-43",
+   "q": "Clay tablets in Akkadian cuneiform found at Akhenaten's capital, these are diplomatic messages between pharaohs and foreign kings",
+   "a": "What are the Amarna letters?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-44",
+   "q": "This Egyptian priest wrote a history in Greek in the 3rd century BC that divided Egypt's kings into dynasties",
+   "a": "Who is Manetho?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-45",
+   "q": "Sneferu's monument at Dahshur changes its slope partway up, giving it this name",
+   "a": "What is the Bent Pyramid?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-46",
+   "q": "Its Greek name means 'priestly'; this cursive script was written with a reed brush on papyrus",
+   "a": "What is hieratic?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-47",
+   "q": "Bought by a Scottish antiquarian in Luxor in 1858, this scroll is a key source on Egyptian mathematics",
+   "a": "What is the Rhind Papyrus?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-48",
+   "q": "Kings from this land to Egypt's south, ruling from Napata, governed Egypt as its 25th Dynasty",
+   "a": "What is Kush?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-49",
+   "q": "This Persian king conquered Egypt in 525 BC after the Battle of Pelusium",
+   "a": "Who is Cambyses II?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-egypt-50",
+   "q": "This 18th Dynasty pharaoh, stepson of Hatshepsut, led many military campaigns and won the Battle of Megiddo",
+   "a": "Who is Thutmose III?",
+   "tier": 5
+  }
+ ]
+}

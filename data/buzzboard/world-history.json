@@ -1,0 +1,607 @@
+{
+ "category": "World History",
+ "slug": "world-history",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q517-curated",
+   "q": "This general rose to prominence during the French Revolution and was Emperor of the French from 1804 until 1814",
+   "a": "Who is Napoleon?",
+   "tier": 1
+  },
+  {
+   "id": "Q1048-curated",
+   "q": "This Roman general and dictator led the Gallic Wars and was assassinated in 44 BC",
+   "a": "Who is Julius Caesar?",
+   "tier": 1
+  },
+  {
+   "id": "Q635-curated",
+   "q": "The last active Hellenistic pharaoh, this woman was queen of Egypt's Ptolemaic Kingdom from 51 to 30 BC",
+   "a": "Who is Cleopatra?",
+   "tier": 1
+  },
+  {
+   "id": "Q8409-curated",
+   "q": "By age 30, this king of Macedon had created one of history's largest empires, stretching from Greece to northwestern India",
+   "a": "Who is Alexander the Great?",
+   "tier": 1
+  },
+  {
+   "id": "Q720-curated",
+   "q": "Born Temüjin, this founder of the Mongol Empire united the Mongol tribes and conquered large parts of China and Central Asia",
+   "a": "Who is Genghis Khan?",
+   "tier": 1
+  },
+  {
+   "id": "Q7322-curated",
+   "q": "Sailing for Spain's Catholic Monarchs, this navigator from Genoa completed four voyages across the Atlantic",
+   "a": "Who is Christopher Columbus?",
+   "tier": 1
+  },
+  {
+   "id": "Q362-curated",
+   "q": "Fought between the Allies and the Axis powers, this global conflict was the deadliest in history",
+   "a": "What is World War II?",
+   "tier": 1
+  },
+  {
+   "id": "Q361-curated",
+   "q": "This global conflict between the Allies and the Central Powers also helped spread the Spanish flu pandemic",
+   "a": "What is World War I?",
+   "tier": 1
+  },
+  {
+   "id": "Q6534-curated",
+   "q": "Beginning with the Estates General of 1789, this upheaval ended with the Coup of 18 Brumaire in 1799",
+   "a": "What is the French Revolution?",
+   "tier": 1
+  },
+  {
+   "id": "Q2277-curated",
+   "q": "After Octavian's rise to power, this state dominated the Mediterranean and much of Europe, Western Asia and North Africa",
+   "a": "What is the Roman Empire?",
+   "tier": 1
+  },
+  {
+   "id": "Q11768-curated",
+   "q": "This civilization along the lower Nile River emerged around 3150 BC, when its Upper and Lower parts were united by Menes",
+   "a": "What is ancient Egypt?",
+   "tier": 1
+  },
+  {
+   "id": "Q12154-curated",
+   "q": "This Eighteenth Dynasty pharaoh ruled from about 1332 to 1323 BC and died at about the age of 19",
+   "a": "Who is Tutankhamun?",
+   "tier": 1
+  },
+  {
+   "id": "Q9439-curated",
+   "q": "This British monarch's reign of more than 63 years, from 1837 to 1901, gave its name to an era",
+   "a": "Who is Queen Victoria?",
+   "tier": 1
+  },
+  {
+   "id": "Q1001-curated",
+   "q": "This lawyer used nonviolent resistance to lead the successful campaign for India's independence from British rule",
+   "a": "Who is Mahatma Gandhi?",
+   "tier": 1
+  },
+  {
+   "id": "Q69163529-curated",
+   "q": "This event of 9 November 1989 came after a press conference announced that East Germans could travel without restrictions",
+   "a": "What is the fall of the Berlin Wall?",
+   "tier": 1
+  },
+  {
+   "id": "Q6101-curated",
+   "q": "This Venetian merchant traveled through Asia along the Silk Road between 1271 and 1295 and wrote about the Mongol Empire",
+   "a": "Who is Marco Polo?",
+   "tier": 1
+  },
+  {
+   "id": "Q12501-curated",
+   "q": "This series of fortifications was built across the northern borders of ancient Chinese states as protection against nomadic groups",
+   "a": "What is the Great Wall of China?",
+   "tier": 1
+  },
+  {
+   "id": "Q12519-curated",
+   "q": "Sealed by King John of England at Runnymede on 15 June 1215, this royal charter of rights was meant to make peace with rebel barons",
+   "a": "What is the Magna Carta?",
+   "tier": 1
+  },
+  {
+   "id": "Q2577588-curated",
+   "q": "This largest ocean liner of its day sank in the North Atlantic on 15 April 1912 after striking an iceberg on its maiden voyage",
+   "a": "What is the Titanic?",
+   "tier": 1
+  },
+  {
+   "id": "Q8016-curated",
+   "q": "This British statesman was prime minister of the United Kingdom during the Second World War, from 1940 to 1945",
+   "a": "Who is Winston Churchill?",
+   "tier": 1
+  },
+  {
+   "id": "Q3044-curated",
+   "q": "This King of the Franks became emperor in 800 and united most of Western and Central Europe",
+   "a": "Who is Charlemagne?",
+   "tier": 2
+  },
+  {
+   "id": "Q1496-curated",
+   "q": "This Portuguese explorer led the 1519–1522 Spanish expedition that made the first European crossing of the Pacific Ocean",
+   "a": "Who is Ferdinand Magellan?",
+   "tier": 2
+  },
+  {
+   "id": "Q48314-curated",
+   "q": "On 18 June 1815, Napoleon was defeated by two armies of the Seventh Coalition in this, his last battle",
+   "a": "What is the Battle of Waterloo?",
+   "tier": 2
+  },
+  {
+   "id": "Q83224-curated",
+   "q": "Fought on 14 October 1066 between William, Duke of Normandy, and King Harold Godwinson, this battle began the Norman Conquest of England",
+   "a": "What is the Battle of Hastings?",
+   "tier": 2
+  },
+  {
+   "id": "Q7226-curated",
+   "q": "This patron saint of France is honored for her role in the siege of Orléans and the coronation of Charles VII",
+   "a": "Who is Joan of Arc?",
+   "tier": 2
+  },
+  {
+   "id": "Q7207-curated",
+   "q": "This last and longest-reigning Tudor monarch was queen of England and Ireland from 1558 to 1603",
+   "a": "Who is Elizabeth I?",
+   "tier": 2
+  },
+  {
+   "id": "Q38370-curated",
+   "q": "This English king, known for his six marriages, broke with the Catholic Church and established the Church of England",
+   "a": "Who is Henry VIII?",
+   "tier": 2
+  },
+  {
+   "id": "Q8023-curated",
+   "q": "This anti-apartheid revolutionary served as president of South Africa from 1994 to 1999, its first Black head of state",
+   "a": "Who is Nelson Mandela?",
+   "tier": 2
+  },
+  {
+   "id": "Q12560-curated",
+   "q": "Centred in modern-day Turkey, this empire spanned much of Southeastern Europe, West Asia and North Africa for some six centuries",
+   "a": "What is the Ottoman Empire?",
+   "tier": 2
+  },
+  {
+   "id": "Q12542-curated",
+   "q": "This Mesoamerican civilization, many of whose people spoke Nahuatl, flourished in central Mexico from about 1300 to 1521",
+   "a": "What are the Aztecs?",
+   "tier": 2
+  },
+  {
+   "id": "Q28573-curated",
+   "q": "With its center in the city of Cusco, this was the largest empire in pre-Columbian America",
+   "a": "What is the Inca Empire?",
+   "tier": 2
+  },
+  {
+   "id": "Q28567-curated",
+   "q": "This Mesoamerican culture is known for its ancient temples and glyphs, its calendar, and its highly developed writing system",
+   "a": "What is the Maya civilization?",
+   "tier": 2
+  },
+  {
+   "id": "Q8729-curated",
+   "q": "Starting in 1917, this upheaval abolished the country's monarchy and, after two revolutions and a civil war, brought a socialist government",
+   "a": "What is the Russian Revolution?",
+   "tier": 2
+  },
+  {
+   "id": "Q8683-curated",
+   "q": "This geopolitical rivalry between the United States and the Soviet Union began after World War II and ended in 1991",
+   "a": "What is the Cold War?",
+   "tier": 2
+  },
+  {
+   "id": "Q2269-curated",
+   "q": "Beginning in Great Britain, this transitional period moved the global economy toward more efficient manufacturing",
+   "a": "What is the Industrial Revolution?",
+   "tier": 2
+  },
+  {
+   "id": "Q4692-curated",
+   "q": "This European cultural movement came at the end of the Middle Ages and the beginning of the early modern era",
+   "a": "What is the Renaissance?",
+   "tier": 2
+  },
+  {
+   "id": "Q42005-curated",
+   "q": "This plague pandemic swept Europe from 1346 to 1353, killing an estimated 30% to 60% of the European population",
+   "a": "What is the Black Death?",
+   "tier": 2
+  },
+  {
+   "id": "Q762-curated",
+   "q": "This Italian polymath of the High Renaissance was a painter, engineer, scientist and sculptor famed for his notebooks",
+   "a": "Who is Leonardo da Vinci?",
+   "tier": 2
+  },
+  {
+   "id": "Q12562-curated",
+   "q": "Marking the beginning of Protestantism, this 16th-century movement challenged the authority of the papacy",
+   "a": "What is the Reformation?",
+   "tier": 2
+  },
+  {
+   "id": "Q1405-curated",
+   "q": "This founder of the Roman Empire was its first emperor, from 27 BC until his death in AD 14",
+   "a": "Who is Augustus?",
+   "tier": 2
+  },
+  {
+   "id": "Q36450-curated",
+   "q": "This Empress of Russia from 1762 to 1796 came to power by overthrowing her husband, Emperor Peter III",
+   "a": "Who is Catherine the Great?",
+   "tier": 3
+  },
+  {
+   "id": "Q8479-curated",
+   "q": "This tsar became Russia's first emperor in 1721 and fought long wars against the Ottoman and Swedish empires",
+   "a": "Who is Peter the Great?",
+   "tier": 3
+  },
+  {
+   "id": "Q7742-curated",
+   "q": "This King of France from 1643 to 1715 is the longest-reigning monarch in history, at 72 years",
+   "a": "Who is Louis XIV?",
+   "tier": 3
+  },
+  {
+   "id": "Q12551-curated",
+   "q": "This series of conflicts between England and France was triggered by Edward III's claim to the French throne",
+   "a": "What is the Hundred Years' War?",
+   "tier": 3
+  },
+  {
+   "id": "Q131969-curated",
+   "q": "In 480 BC, Leonidas I of Sparta led a Greek alliance against the Persian army of Xerxes in this three-day battle",
+   "a": "What is the Battle of Thermopylae?",
+   "tier": 3
+  },
+  {
+   "id": "Q171416-curated",
+   "q": "On 21 October 1805, the Royal Navy fought a combined French and Spanish fleet off a Spanish cape in this naval battle",
+   "a": "What is the Battle of Trafalgar?",
+   "tier": 3
+  },
+  {
+   "id": "Q6539-curated",
+   "q": "On 14 July 1789, revolutionary insurgents in Paris seized a medieval armoury, fortress and prison in this event",
+   "a": "What is the storming of the Bastille?",
+   "tier": 3
+  },
+  {
+   "id": "Q8736-curated",
+   "q": "Signed 28 June 1919, this was the most important peace treaty of World War I, ending the war between Germany and most of the Allies",
+   "a": "What is the Treaty of Versailles?",
+   "tier": 3
+  },
+  {
+   "id": "Q12544-curated",
+   "q": "The continuation of the eastern Roman Empire, this state centred on Constantinople survived until 1453",
+   "a": "What is the Byzantine Empire?",
+   "tier": 3
+  },
+  {
+   "id": "Q12557-curated",
+   "q": "This largest contiguous empire in history stretched at its height from the Sea of Japan to Eastern Europe",
+   "a": "What is the Mongol Empire?",
+   "tier": 3
+  },
+  {
+   "id": "Q12546-curated",
+   "q": "Launched by the papacy between 1095 and 1291, these military campaigns sought to recover the Holy Land",
+   "a": "What are the Crusades?",
+   "tier": 3
+  },
+  {
+   "id": "Q93304-curated",
+   "q": "Composed around 1753 BC, this Babylonian legal text is inscribed on a basalt stele",
+   "a": "What is the Code of Hammurabi?",
+   "tier": 3
+  },
+  {
+   "id": "Q8605-curated",
+   "q": "Known as \"the Liberator\", this Venezuelan led six present-day nations, including Bolivia and Peru, to independence from Spain",
+   "a": "Who is Simón Bolívar?",
+   "tier": 3
+  },
+  {
+   "id": "Q8442-curated",
+   "q": "Nicknamed the \"Iron Chancellor\", this statesman oversaw the unification of Germany and served as its first chancellor",
+   "a": "Who is Otto von Bismarck?",
+   "tier": 3
+  },
+  {
+   "id": "Q160077-curated",
+   "q": "On 29 May 1453, Sultan Mehmed II's Ottoman army captured the Byzantine capital after a 53-day siege in this event",
+   "a": "What is the fall of Constantinople?",
+   "tier": 3
+  },
+  {
+   "id": "Q38789-curated",
+   "q": "In this major World War II battle on the Eastern Front, Germany and its allies fought the Soviet Union for a city in southern Russia",
+   "a": "What is the Battle of Stalingrad?",
+   "tier": 3
+  },
+  {
+   "id": "Q179684-curated",
+   "q": "Commanded by the Duke of Medina Sidonia, this fleet sailed from Lisbon in 1588 in a campaign against England",
+   "a": "What is the Spanish Armada?",
+   "tier": 3
+  },
+  {
+   "id": "Q7328-curated",
+   "q": "This Portuguese mariner found the first sea route from Europe to India, around the Cape of Good Hope",
+   "a": "Who is Vasco da Gama?",
+   "tier": 3
+  },
+  {
+   "id": "Q36456-curated",
+   "q": "This Carthaginian general commanded his city's forces against the Roman Republic during the Second Punic War",
+   "a": "Who is Hannibal?",
+   "tier": 3
+  },
+  {
+   "id": "Q1523-curated",
+   "q": "This third pharaoh of Egypt's Nineteenth Dynasty is often regarded as the greatest pharaoh of the New Kingdom",
+   "a": "Who is Ramesses II?",
+   "tier": 3
+  },
+  {
+   "id": "Q7192-curated",
+   "q": "This ruler, born in Handan, became the first emperor of China and invented the title huangdi",
+   "a": "Who is Qin Shi Huang?",
+   "tier": 4
+  },
+  {
+   "id": "Q8423-curated",
+   "q": "This founder of Persia's Achaemenid Empire brought his dynasty to power by defeating the Median Empire",
+   "a": "Who is Cyrus the Great?",
+   "tier": 4
+  },
+  {
+   "id": "Q129234-curated",
+   "q": "This sixth pharaoh of the Eighteenth Dynasty was Egypt's second confirmed woman to rule in her own right",
+   "a": "Who is Hatshepsut?",
+   "tier": 4
+  },
+  {
+   "id": "Q1413-curated",
+   "q": "This final emperor of the Julio-Claudian dynasty ruled Rome from AD 54 to AD 68",
+   "a": "Who is Nero?",
+   "tier": 4
+  },
+  {
+   "id": "Q127751-curated",
+   "q": "Fought from 1455 to 1487 for the English throne, these wars pitted the House of York against the House of Lancaster",
+   "a": "What are the Wars of the Roses?",
+   "tier": 4
+  },
+  {
+   "id": "Q7523-curated",
+   "q": "This Mongol ruler founded China's Yuan dynasty, proclaiming its name in 1271",
+   "a": "Who is Kublai Khan?",
+   "tier": 4
+  },
+  {
+   "id": "Q7331-curated",
+   "q": "This Muslim scholar from Tangier, Morocco, traveled through much of Africa and Asia over a 30-year period",
+   "a": "Who is Ibn Battuta?",
+   "tier": 4
+  },
+  {
+   "id": "Q7324-curated",
+   "q": "This British Royal Navy captain led three Pacific voyages and the first recorded European visit to Australia's east coast",
+   "a": "Who is James Cook?",
+   "tier": 4
+  },
+  {
+   "id": "Q8581-curated",
+   "q": "This Kurdish founder of the Ayyubid dynasty led the Muslim effort against the Crusader states during the Third Crusade",
+   "a": "Who is Saladin?",
+   "tier": 4
+  },
+  {
+   "id": "Q8474-curated",
+   "q": "This sultan ruled the Ottoman Empire from 1520 to 1566, the longest reign of any Ottoman sultan",
+   "a": "Who is Suleiman the Magnificent?",
+   "tier": 4
+  },
+  {
+   "id": "Q8597-curated",
+   "q": "This third Mughal emperor reigned from 1556 to 1605 and is considered one of the greatest Mughal emperors",
+   "a": "Who is Akbar?",
+   "tier": 4
+  },
+  {
+   "id": "Q7326-curated",
+   "q": "This Spanish conquistador led the expedition that resulted in the Spanish conquest of the Aztec Empire",
+   "a": "Who is Hernán Cortés?",
+   "tier": 4
+  },
+  {
+   "id": "Q44741-curated",
+   "q": "Born in Trujillo, Spain, this conquistador led the expeditions that resulted in the Spanish conquest of the Inca Empire",
+   "a": "Who is Francisco Pizarro?",
+   "tier": 4
+  },
+  {
+   "id": "Q31900-curated",
+   "q": "Fought in 490 BC during the first Persian invasion of Greece, this battle pitted the Athenians, aided by Plataea, against a Persian force",
+   "a": "What is the Battle of Marathon?",
+   "tier": 4
+  },
+  {
+   "id": "Q8707-curated",
+   "q": "In 1868 this political event restored practical power to Japan's emperor and led to the Westernisation of Japan",
+   "a": "What is the Meiji Restoration?",
+   "tier": 4
+  },
+  {
+   "id": "Q2487-curated",
+   "q": "Fought mainly in Central Europe from 1618 to 1648, this was one of the most destructive conflicts in European history",
+   "a": "What is the Thirty Years' War?",
+   "tier": 4
+  },
+  {
+   "id": "Q124988-curated",
+   "q": "These three wars between the Roman Republic and Carthage were fought between 264 and 146 BC",
+   "a": "What are the Punic Wars?",
+   "tier": 4
+  },
+  {
+   "id": "Q309333-curated",
+   "q": "This ninth ruler of the Mali Empire was exceptionally wealthy, and his reign is seen as the zenith of Mali's power",
+   "a": "Who is Mansa Musa?",
+   "tier": 4
+  },
+  {
+   "id": "Q44279-curated",
+   "q": "This English statesman rose to prominence as a senior Parliamentarian commander during the Wars of the Three Kingdoms",
+   "a": "Who is Oliver Cromwell?",
+   "tier": 4
+  },
+  {
+   "id": "Q9903-curated",
+   "q": "Ruling China from 1368 to 1644, this was the last imperial dynasty of China ruled by the Han people",
+   "a": "What is the Ming dynasty?",
+   "tier": 4
+  },
+  {
+   "id": "Q180897-curated",
+   "q": "Signed in 1494, this treaty divided newly discovered lands outside Europe between Portugal and Castile along a meridian",
+   "a": "What is the Treaty of Tordesillas?",
+   "tier": 5
+  },
+  {
+   "id": "Q165425-curated",
+   "q": "On 7 October 1571, a Holy League fleet led by Spain and Venice inflicted a major defeat on the Ottoman fleet in this battle",
+   "a": "What is the Battle of Lepanto?",
+   "tier": 5
+  },
+  {
+   "id": "Q173077-curated",
+   "q": "Fought on 10 October 732, this battle saw Frankish forces led by Charles Martel defeat invading Umayyad forces in Gaul",
+   "a": "What is the Battle of Tours?",
+   "tier": 5
+  },
+  {
+   "id": "Q178850-curated",
+   "q": "In 480 BC an outnumbered alliance of Greek city-states under Themistocles defeated King Xerxes' navy in this battle",
+   "a": "What is the Battle of Salamis?",
+   "tier": 5
+  },
+  {
+   "id": "Q179670-curated",
+   "q": "In 331 BC Alexander the Great met Persian King Darius III for the second and final time in this battle",
+   "a": "What is the Battle of Gaugamela?",
+   "tier": 5
+  },
+  {
+   "id": "Q179788-curated",
+   "q": "Signed by King Henry IV in 1598, this decree granted substantial rights to the Calvinist Protestants of France",
+   "a": "What is the Edict of Nantes?",
+   "tier": 5
+  },
+  {
+   "id": "Q150229-curated",
+   "q": "This uprising in North China from 1899 to 1901 was led by the Society of Righteous and Harmonious Fists",
+   "a": "What is the Boxer Rebellion?",
+   "tier": 5
+  },
+  {
+   "id": "Q129864-curated",
+   "q": "Beginning as a mutiny of sepoys at Meerut, this major uprising challenged the rule of the British East India Company",
+   "a": "What is the Indian Rebellion of 1857?",
+   "tier": 5
+  },
+  {
+   "id": "Q46362-curated",
+   "q": "Held in 1814 and 1815, this series of diplomatic meetings worked out a new European order after the downfall of Napoleon",
+   "a": "What is the Congress of Vienna?",
+   "tier": 5
+  },
+  {
+   "id": "Q209217-curated",
+   "q": "Settled by ancestral Shona people from around 1000 AD, this city near Masvingo became a royal capital in the 13th century",
+   "a": "What is Great Zimbabwe?",
+   "tier": 5
+  },
+  {
+   "id": "Q201705-curated",
+   "q": "Lasting from 802 to 1431, this Southeast Asian empire was centred in what is now Cambodia; its era is called the Angkor period",
+   "a": "What is the Khmer Empire?",
+   "tier": 5
+  },
+  {
+   "id": "Q42908-curated",
+   "q": "This medieval network of merchant guilds and market towns grew from Lübeck and other North German towns",
+   "a": "What is the Hanseatic League?",
+   "tier": 5
+  },
+  {
+   "id": "Q12548-curated",
+   "q": "This decentralized polity of Central and Western Europe lasted about a millennium until its dissolution in 1806",
+   "a": "What is the Holy Roman Empire?",
+   "tier": 5
+  },
+  {
+   "id": "Q188495-curated",
+   "q": "On 25 October 1415, a vastly outnumbered English army defeated the French in this Hundred Years' War battle",
+   "a": "What is the Battle of Agincourt?",
+   "tier": 5
+  },
+  {
+   "id": "Q122371-curated",
+   "q": "By this treaty of 3 March 1918, Russia made a separate peace with the Central Powers and withdrew from World War I",
+   "a": "What is the Treaty of Brest-Litovsk?",
+   "tier": 5
+  },
+  {
+   "id": "Q41866-curated",
+   "q": "This Roman emperor from 527 to 565 sought to recover the territories of the defunct Western Roman Empire",
+   "a": "Who is Justinian I?",
+   "tier": 5
+  },
+  {
+   "id": "Q3301-curated",
+   "q": "Nicknamed \"The Hammer\", this Frankish leader was the de facto ruler of the Franks from 718 until his death",
+   "a": "Who is Charles Martel?",
+   "tier": 5
+  },
+  {
+   "id": "Q171977-curated",
+   "q": "This samurai became the first shogun of a shogunate that ruled Japan from 1603 until 1868",
+   "a": "Who is Tokugawa Ieyasu?",
+   "tier": 5
+  },
+  {
+   "id": "Q51648-curated",
+   "q": "This break of communion in 1054 split the Catholic Church from the Eastern Orthodox Church",
+   "a": "What is the East–West Schism?",
+   "tier": 5
+  },
+  {
+   "id": "Q48584-curated",
+   "q": "This granodiorite stele bears a 196 BC decree in three scripts: hieroglyphic, Demotic and Ancient Greek",
+   "a": "What is the Rosetta Stone?",
+   "tier": 5
+  }
+ ]
+}

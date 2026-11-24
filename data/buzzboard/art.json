@@ -1,0 +1,308 @@
+{
+ "category": "Art & Artists",
+ "slug": "art",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "art-01",
+   "q": "Leonardo da Vinci painted this smiling portrait that hangs in the Louvre",
+   "a": "What is the Mona Lisa?",
+   "tier": 1
+  },
+  {
+   "id": "art-02",
+   "q": "This Dutch painter of 'The Starry Night' and 'Sunflowers' famously cut off part of his own ear",
+   "a": "Who is Vincent van Gogh?",
+   "tier": 1
+  },
+  {
+   "id": "art-03",
+   "q": "This Spanish artist co-founded Cubism and painted the huge black-and-white antiwar mural 'Guernica'",
+   "a": "Who is Pablo Picasso?",
+   "tier": 1
+  },
+  {
+   "id": "art-04",
+   "q": "Michelangelo spent about four years on scaffolding painting the ceiling of this papal room in Vatican City",
+   "a": "What is the Sistine Chapel?",
+   "tier": 1
+  },
+  {
+   "id": "art-05",
+   "q": "In traditional art class, red, yellow and blue are this trio of hues that can't be mixed from other paints",
+   "a": "What are the primary colors?",
+   "tier": 1
+  },
+  {
+   "id": "art-06",
+   "q": "This Pop artist made famous silkscreen prints of Campbell's Soup cans and Marilyn Monroe",
+   "a": "Who is Andy Warhol?",
+   "tier": 1
+  },
+  {
+   "id": "art-07",
+   "q": "This three-legged wooden stand holds a painter's canvas upright while they work",
+   "a": "What is an easel?",
+   "tier": 1
+  },
+  {
+   "id": "art-08",
+   "q": "This flat board with a thumb hole is where a painter sets out and mixes colors",
+   "a": "What is a palette?",
+   "tier": 1
+  },
+  {
+   "id": "art-09",
+   "q": "This kind of painting shows an arranged group of objects, like fruit, flowers and vases on a table",
+   "a": "What is a still life?",
+   "tier": 1
+  },
+  {
+   "id": "art-10",
+   "q": "Michelangelo carved this giant marble statue of the young biblical hero who defeated Goliath; it stands in Florence",
+   "a": "What is David?",
+   "tier": 1
+  },
+  {
+   "id": "art-11",
+   "q": "This French Impressionist painted many canvases of the water lilies in his garden at Giverny",
+   "a": "Who is Claude Monet?",
+   "tier": 2
+  },
+  {
+   "id": "art-12",
+   "q": "This Mexican painter made many self-portraits showing her joined eyebrows and flowers in her hair",
+   "a": "Who is Frida Kahlo?",
+   "tier": 2
+  },
+  {
+   "id": "art-13",
+   "q": "Edvard Munch's famous painting shows a figure clutching its face on a bridge under a swirling orange sky",
+   "a": "What is The Scream?",
+   "tier": 2
+  },
+  {
+   "id": "art-14",
+   "q": "This Paris museum, home to the Mona Lisa, is entered through a glass pyramid",
+   "a": "What is the Louvre?",
+   "tier": 2
+  },
+  {
+   "id": "art-15",
+   "q": "This Spanish Surrealist with an upturned waxed mustache painted melting watches in 'The Persistence of Memory'",
+   "a": "Who is Salvador Dalí?",
+   "tier": 2
+  },
+  {
+   "id": "art-16",
+   "q": "Monet, Renoir and Degas belonged to this 19th-century French movement that captured fleeting light with quick brushstrokes",
+   "a": "What is Impressionism?",
+   "tier": 2
+  },
+  {
+   "id": "art-17",
+   "q": "Johannes Vermeer's famous 'Girl with' this shows a young woman in a blue-and-yellow turban glancing over her shoulder",
+   "a": "What is a Pearl Earring?",
+   "tier": 2
+  },
+  {
+   "id": "art-18",
+   "q": "This Dutch Golden Age master painted the huge group portrait of a militia company known as 'The Night Watch'",
+   "a": "Who is Rembrandt?",
+   "tier": 2
+  },
+  {
+   "id": "art-19",
+   "q": "This art form builds a picture from many small pieces of colored glass, stone or tile",
+   "a": "What is a mosaic?",
+   "tier": 2
+  },
+  {
+   "id": "art-20",
+   "q": "From the Latin for 'wall', this word names a large painting applied directly to a wall",
+   "a": "What is a mural?",
+   "tier": 2
+  },
+  {
+   "id": "art-21",
+   "q": "This technique applies pigment onto wet plaster so the colors dry into the wall itself",
+   "a": "What is fresco?",
+   "tier": 3
+  },
+  {
+   "id": "art-22",
+   "q": "Grant Wood's 1930 painting 'American Gothic' shows a stern farmer holding this three-pronged tool",
+   "a": "What is a pitchfork?",
+   "tier": 3
+  },
+  {
+   "id": "art-23",
+   "q": "This Dutch printmaker drew mind-bending impossible staircases and two hands drawing each other",
+   "a": "Who is M. C. Escher?",
+   "tier": 3
+  },
+  {
+   "id": "art-24",
+   "q": "Georges Seurat built 'A Sunday Afternoon on the Island of La Grande Jatte' out of countless tiny dots using this technique",
+   "a": "What is pointillism?",
+   "tier": 3
+  },
+  {
+   "id": "art-25",
+   "q": "This Japanese artist's woodblock print 'The Great Wave off Kanagawa' shows a towering wave with Mount Fuji behind it",
+   "a": "Who is Hokusai?",
+   "tier": 3
+  },
+  {
+   "id": "art-26",
+   "q": "Leonardo's mural in a Milan convent shows Jesus and his apostles at this final meal",
+   "a": "What is The Last Supper?",
+   "tier": 3
+  },
+  {
+   "id": "art-27",
+   "q": "This Dutch painter is known for grids of thick black lines filled with blocks of red, yellow and blue",
+   "a": "Who is Piet Mondrian?",
+   "tier": 3
+  },
+  {
+   "id": "art-28",
+   "q": "Nicknamed 'Jack the Dripper', this American splattered and poured paint onto canvases laid on the floor",
+   "a": "Who is Jackson Pollock?",
+   "tier": 3
+  },
+  {
+   "id": "art-29",
+   "q": "Launched by writer André Breton's 1924 manifesto, this movement of Magritte and Miró explored dreams and the unconscious",
+   "a": "What is Surrealism?",
+   "tier": 3
+  },
+  {
+   "id": "art-30",
+   "q": "In this drawing system, parallel lines converge at a vanishing point to create the illusion of depth",
+   "a": "What is linear perspective?",
+   "tier": 3
+  },
+  {
+   "id": "art-31",
+   "q": "This American painted 'Nighthawks', showing a few customers in a brightly lit diner late at night",
+   "a": "Who is Edward Hopper?",
+   "tier": 4
+  },
+  {
+   "id": "art-32",
+   "q": "This Italian Baroque painter, famous for dramatic light and violent scenes, is known by the name of his family's hometown near Milan",
+   "a": "Who is Caravaggio?",
+   "tier": 4
+  },
+  {
+   "id": "art-33",
+   "q": "This Italian art term for strong contrast between light and shadow literally means 'light-dark'",
+   "a": "What is chiaroscuro?",
+   "tier": 4
+  },
+  {
+   "id": "art-34",
+   "q": "This Spanish court painter's 'Las Meninas' shows the young Infanta Margarita, her attendants, and the artist himself at work",
+   "a": "Who is Diego Velázquez?",
+   "tier": 4
+  },
+  {
+   "id": "art-35",
+   "q": "This French sculptor created 'The Thinker', originally as part of his monumental 'Gates of Hell'",
+   "a": "Who is Auguste Rodin?",
+   "tier": 4
+  },
+  {
+   "id": "art-36",
+   "q": "This Russian-born painter, a pioneer of abstract art, linked colors to musical sounds",
+   "a": "Who is Wassily Kandinsky?",
+   "tier": 4
+  },
+  {
+   "id": "art-37",
+   "q": "This Austrian painter's 'The Kiss' shimmers with real gold leaf",
+   "a": "Who is Gustav Klimt?",
+   "tier": 4
+  },
+  {
+   "id": "art-38",
+   "q": "Before oil paint took over, many medieval panel painters used this quick-drying paint made with egg yolk",
+   "a": "What is tempera?",
+   "tier": 4
+  },
+  {
+   "id": "art-39",
+   "q": "This embroidered cloth, made in the 11th century, tells the story of the Norman Conquest and the Battle of Hastings",
+   "a": "What is the Bayeux Tapestry?",
+   "tier": 4
+  },
+  {
+   "id": "art-40",
+   "q": "This Pop artist enlarged comic-book panels with Ben-Day dots, as in 'Whaam!' and 'Drowning Girl'",
+   "a": "Who is Roy Lichtenstein?",
+   "tier": 4
+  },
+  {
+   "id": "art-41",
+   "q": "This Flemish master's 'Arnolfini Portrait' features a convex mirror and a Latin inscription saying he 'was here, 1434'",
+   "a": "Who is Jan van Eyck?",
+   "tier": 5
+  },
+  {
+   "id": "art-42",
+   "q": "This Netherlandish painter filled 'The Garden of Earthly Delights' with bizarre creatures and strange fantasies",
+   "a": "Who is Hieronymus Bosch?",
+   "tier": 5
+  },
+  {
+   "id": "art-43",
+   "q": "Born in Zurich during World War I, this anti-art movement may have taken its name from a French word for 'hobbyhorse'",
+   "a": "What is Dada?",
+   "tier": 5
+  },
+  {
+   "id": "art-44",
+   "q": "Marcel Duchamp coined this term for ordinary manufactured objects, like a bicycle wheel or snow shovel, presented as art",
+   "a": "What are readymades?",
+   "tier": 5
+  },
+  {
+   "id": "art-45",
+   "q": "This 16th-century Italian painter wrote 'Lives of the Most Excellent Painters, Sculptors and Architects', often called the first art history",
+   "a": "Who is Giorgio Vasari?",
+   "tier": 5
+  },
+  {
+   "id": "art-46",
+   "q": "This English Romantic painted a hazy steam locomotive in 'Rain, Steam and Speed' and an old warship in 'The Fighting Temeraire'",
+   "a": "Who is J. M. W. Turner?",
+   "tier": 5
+  },
+  {
+   "id": "art-47",
+   "q": "This Spanish painter's 'The Third of May 1808' shows French soldiers executing civilians in Madrid",
+   "a": "Who is Francisco Goya?",
+   "tier": 5
+  },
+  {
+   "id": "art-48",
+   "q": "This German Renaissance artist made a famous 1515 woodcut of a rhinoceros without ever seeing the animal",
+   "a": "Who is Albrecht Dürer?",
+   "tier": 5
+  },
+  {
+   "id": "art-49",
+   "q": "This term names an artwork, often an altarpiece, made of three hinged panels",
+   "a": "What is a triptych?",
+   "tier": 5
+  },
+  {
+   "id": "art-50",
+   "q": "This Post-Impressionist from Aix-en-Provence painted the mountain Mont Sainte-Victoire again and again",
+   "a": "Who is Paul Cézanne?",
+   "tier": 5
+  }
+ ]
+}

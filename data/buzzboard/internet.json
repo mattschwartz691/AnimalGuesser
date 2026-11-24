@@ -1,0 +1,308 @@
+{
+ "category": "Internet & Social Media",
+ "slug": "internet",
+ "group": "Tech",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "internet-01",
+   "q": "This video site's very first upload, \"Me at the zoo\", was posted in 2005",
+   "a": "What is YouTube?",
+   "tier": 1
+  },
+  {
+   "id": "internet-02",
+   "q": "Mark Zuckerberg launched this social network from his Harvard dorm room in 2004",
+   "a": "What is Facebook?",
+   "tier": 1
+  },
+  {
+   "id": "internet-03",
+   "q": "This free online encyclopedia that anyone can edit launched in 2001",
+   "a": "What is Wikipedia?",
+   "tier": 1
+  },
+  {
+   "id": "internet-04",
+   "q": "These little digital pictures, like a smiley face or a thumbs-up, were first created for Japanese mobile phones in the late 1990s",
+   "a": "What are emoji?",
+   "tier": 1
+  },
+  {
+   "id": "internet-05",
+   "q": "Popularized on Twitter starting in 2007, this kind of label begins with the # symbol",
+   "a": "What is a hashtag?",
+   "tier": 1
+  },
+  {
+   "id": "internet-06",
+   "q": "This search engine's name is a play on \"googol\", the number 1 followed by 100 zeros",
+   "a": "What is Google?",
+   "tier": 1
+  },
+  {
+   "id": "internet-07",
+   "q": "This photo-sharing app launched in 2010 and was bought by Facebook in 2012",
+   "a": "What is Instagram?",
+   "tier": 1
+  },
+  {
+   "id": "internet-08",
+   "q": "This messaging app famous for disappearing photos has a white ghost on a yellow logo",
+   "a": "What is Snapchat?",
+   "tier": 1
+  },
+  {
+   "id": "internet-09",
+   "q": "Known as Douyin in China, this short-video app merged with Musical.ly in 2018",
+   "a": "What is TikTok?",
+   "tier": 1
+  },
+  {
+   "id": "internet-10",
+   "q": "This three-letter internet abbreviation means \"laughing out loud\"",
+   "a": "What is LOL?",
+   "tier": 1
+  },
+  {
+   "id": "internet-11",
+   "q": "British scientist Tim Berners-Lee invented this system of linked pages in 1989",
+   "a": "What is the World Wide Web?",
+   "tier": 2
+  },
+  {
+   "id": "internet-12",
+   "q": "Founded in 2005, this site calls itself \"the front page of the internet\" and ranks posts with upvotes and downvotes",
+   "a": "What is Reddit?",
+   "tier": 2
+  },
+  {
+   "id": "internet-13",
+   "q": "This site lets users save images to virtual boards, a habit called \"pinning\"",
+   "a": "What is Pinterest?",
+   "tier": 2
+  },
+  {
+   "id": "internet-14",
+   "q": "This live-streaming site popular with gamers grew out of Justin.tv and was bought by Amazon in 2014",
+   "a": "What is Twitch?",
+   "tier": 2
+  },
+  {
+   "id": "internet-15",
+   "q": "Launched in 2015, this chat app organizes communities into \"servers\" and was first aimed at gamers",
+   "a": "What is Discord?",
+   "tier": 2
+  },
+  {
+   "id": "internet-16",
+   "q": "This term for a web address, like the one you type into a browser, stands for Uniform Resource Locator",
+   "a": "What is a URL?",
+   "tier": 2
+  },
+  {
+   "id": "internet-17",
+   "q": "Named after a Monty Python sketch about canned meat, this word means unwanted junk messages",
+   "a": "What is spam?",
+   "tier": 2
+  },
+  {
+   "id": "internet-18",
+   "q": "This social network aimed at professionals and job seekers launched in 2003",
+   "a": "What is LinkedIn?",
+   "tier": 2
+  },
+  {
+   "id": "internet-19",
+   "q": "Pierre Omidyar founded this online auction site in 1995",
+   "a": "What is eBay?",
+   "tier": 2
+  },
+  {
+   "id": "internet-20",
+   "q": "This prank tricks someone into clicking a link that plays Rick Astley's 1987 hit \"Never Gonna Give You Up\"",
+   "a": "What is rickrolling?",
+   "tier": 2
+  },
+  {
+   "id": "internet-21",
+   "q": "Web addresses often begin with these four letters, short for Hypertext Transfer Protocol",
+   "a": "What is HTTP?",
+   "tier": 3
+  },
+  {
+   "id": "internet-22",
+   "q": "This U.S. military-funded network, which carried its first message in 1969, was a forerunner of the internet",
+   "a": "What is ARPANET?",
+   "tier": 3
+  },
+  {
+   "id": "internet-23",
+   "q": "This social network, huge in the mid-2000s, gave every new user a default first friend named Tom",
+   "a": "What is Myspace?",
+   "tier": 3
+  },
+  {
+   "id": "internet-24",
+   "q": "This app, shut down by Twitter in 2017, was famous for six-second looping videos",
+   "a": "What is Vine?",
+   "tier": 3
+  },
+  {
+   "id": "internet-25",
+   "q": "The first of these special search-engine logo artworks, in 1998, was a stick figure marking the Burning Man festival",
+   "a": "What are Google Doodles?",
+   "tier": 3
+  },
+  {
+   "id": "internet-26",
+   "q": "This test with distorted letters or \"select all images with traffic lights\" checks that you're a human",
+   "a": "What is a CAPTCHA?",
+   "tier": 3
+  },
+  {
+   "id": "internet-27",
+   "q": "These small data files that websites store in your browser can remember your login or shopping cart",
+   "a": "What are cookies?",
+   "tier": 3
+  },
+  {
+   "id": "internet-28",
+   "q": "Stanford students Jerry Yang and David Filo started this web directory in 1994",
+   "a": "What is Yahoo!?",
+   "tier": 3
+  },
+  {
+   "id": "internet-29",
+   "q": "The first post on this site, in 2006, was Jack Dorsey's \"just setting up my twttr\"",
+   "a": "What is Twitter?",
+   "tier": 3
+  },
+  {
+   "id": "internet-30",
+   "q": "This scam, whose name is a play on an outdoor hobby, uses fake messages to trick you into revealing passwords",
+   "a": "What is phishing?",
+   "tier": 3
+  },
+  {
+   "id": "internet-31",
+   "q": "Released in 1994 by Marc Andreessen's company, this web browser dominated the early web",
+   "a": "What is Netscape Navigator?",
+   "tier": 4
+  },
+  {
+   "id": "internet-32",
+   "q": "This numeric label, like 192.168.0.1, identifies a device on a network",
+   "a": "What is an IP address?",
+   "tier": 4
+  },
+  {
+   "id": "internet-33",
+   "q": "Often called the internet's phone book, this system translates names like example.com into numeric addresses",
+   "a": "What is DNS?",
+   "tier": 4
+  },
+  {
+   "id": "internet-34",
+   "q": "This 1990s web-hosting service grouped its free homepages into themed \"neighborhoods\"",
+   "a": "What is GeoCities?",
+   "tier": 4
+  },
+  {
+   "id": "internet-35",
+   "q": "This company, famous for the greeting \"You've got mail!\", mailed out millions of free trial discs",
+   "a": "What is AOL?",
+   "tier": 4
+  },
+  {
+   "id": "internet-36",
+   "q": "Launched in 1996, this was one of the first free webmail services; Microsoft bought it in 1997",
+   "a": "What is Hotmail?",
+   "tier": 4
+  },
+  {
+   "id": "internet-37",
+   "q": "Ray Tomlinson picked this symbol to separate user and computer names when he sent the first networked email in 1971",
+   "a": "What is the at sign?",
+   "tier": 4
+  },
+  {
+   "id": "internet-38",
+   "q": "This word for an online journal is a shortened form of \"weblog\"",
+   "a": "What is a blog?",
+   "tier": 4
+  },
+  {
+   "id": "internet-39",
+   "q": "This 1990s search engine featured a cartoon butler you could ask questions in plain English",
+   "a": "What is Ask Jeeves?",
+   "tier": 4
+  },
+  {
+   "id": "internet-40",
+   "q": "Run by the Internet Archive, this tool lets you view old saved snapshots of websites",
+   "a": "What is the Wayback Machine?",
+   "tier": 4
+  },
+  {
+   "id": "internet-41",
+   "q": "Started in 1980, this worldwide discussion system organized into \"newsgroups\" predates the web",
+   "a": "What is Usenet?",
+   "tier": 5
+  },
+  {
+   "id": "internet-42",
+   "q": "Released in 1993 by the NCSA at the University of Illinois, this browser popularized showing images alongside text",
+   "a": "What is Mosaic?",
+   "tier": 5
+  },
+  {
+   "id": "internet-43",
+   "q": "Vint Cerf and Bob Kahn designed this protocol suite; ARPANET switched over to it on January 1, 1983",
+   "a": "What is TCP/IP?",
+   "tier": 5
+  },
+  {
+   "id": "internet-44",
+   "q": "The first message on ARPANET in 1969 was meant to be \"LOGIN\", but the system crashed after these two letters",
+   "a": "What is \"LO\"?",
+   "tier": 5
+  },
+  {
+   "id": "internet-45",
+   "q": "Launched in 1997 and named for a famous idea about how everyone is connected, this is often called the first social networking site",
+   "a": "What is SixDegrees.com?",
+   "tier": 5
+  },
+  {
+   "id": "internet-46",
+   "q": "This method breaks data into small chunks that travel separately and are reassembled; Paul Baran and Donald Davies developed it in the 1960s",
+   "a": "What is packet switching?",
+   "tier": 5
+  },
+  {
+   "id": "internet-47",
+   "q": "The world's first website was created at this European physics laboratory near Geneva",
+   "a": "What is CERN?",
+   "tier": 5
+  },
+  {
+   "id": "internet-48",
+   "q": "Developed at the University of Minnesota in 1991, this menu-based internet protocol was named after the school's mascot",
+   "a": "What is Gopher?",
+   "tier": 5
+  },
+  {
+   "id": "internet-49",
+   "q": "Computer scientist Scott Fahlman proposed this sideways text symbol in a 1982 online post as a way to mark jokes",
+   "a": "What is the smiley emoticon?",
+   "tier": 5
+  },
+  {
+   "id": "internet-50",
+   "q": "Founded by Jonathan Abrams, this early-2000s social network was a forerunner of Myspace and Facebook",
+   "a": "What is Friendster?",
+   "tier": 5
+  }
+ ]
+}

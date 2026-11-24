@@ -1,0 +1,607 @@
+{
+ "category": "Movies",
+ "slug": "movies",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q44578-curated",
+   "q": "In this 1997 James Cameron film, Leonardo DiCaprio and Kate Winslet fall in love during a doomed ship's maiden voyage.",
+   "a": "What is Titanic?",
+   "tier": 1
+  },
+  {
+   "id": "Q17738-curated",
+   "q": "This 1977 epic space opera written and directed by George Lucas was the first film in its franchise.",
+   "a": "What is Star Wars?",
+   "tier": 1
+  },
+  {
+   "id": "Q36479-curated",
+   "q": "In this 1994 Disney animated musical, young prince Simba is exiled from his kingdom after the death of his father, Mufasa.",
+   "a": "What is The Lion King?",
+   "tier": 1
+  },
+  {
+   "id": "Q246283-curated",
+   "q": "In this 2013 Disney animated musical, Princess Anna sets off with Kristoff, Sven and the snowman Olaf to find her sister Elsa.",
+   "a": "What is Frozen?",
+   "tier": 1
+  },
+  {
+   "id": "Q171048-curated",
+   "q": "In this 1995 Pixar film, the first entirely computer-animated feature, a cowboy doll named Woody becomes jealous of a space cadet action figure.",
+   "a": "What is Toy Story?",
+   "tier": 1
+  },
+  {
+   "id": "Q105031-curated",
+   "q": "In this 1990 Christmas comedy, Macaulay Culkin plays 8-year-old Kevin McCallister, who defends his house from two robbers.",
+   "a": "What is Home Alone?",
+   "tier": 1
+  },
+  {
+   "id": "Q102438-curated",
+   "q": "In this 2001 film, Daniel Radcliffe, Rupert Grint and Emma Watson begin their adventures as first-year students at Hogwarts.",
+   "a": "What is Harry Potter and the Philosopher's Stone?",
+   "tier": 1
+  },
+  {
+   "id": "Q167726-curated",
+   "q": "In this 1993 Steven Spielberg film, visitors struggle to survive after sabotage disables the security systems and releases the dinosaurs.",
+   "a": "What is Jurassic Park?",
+   "tier": 1
+  },
+  {
+   "id": "Q483815-curated",
+   "q": "This 2001 animated fantasy comedy starring Mike Myers, Eddie Murphy and Cameron Diaz was loosely based on a picture book by William Steig.",
+   "a": "What is Shrek?",
+   "tier": 1
+  },
+  {
+   "id": "Q132863-curated",
+   "q": "In this 2003 Pixar film, an overprotective clownfish named Marlin and a forgetful blue tang named Dory search for his son.",
+   "a": "What is Finding Nemo?",
+   "tier": 1
+  },
+  {
+   "id": "Q24871-curated",
+   "q": "This 2009 epic science fiction film written and directed by James Cameron stars Sam Worthington, Zoe Saldaña and Sigourney Weaver.",
+   "a": "What is Avatar?",
+   "tier": 1
+  },
+  {
+   "id": "Q193695-curated",
+   "q": "This 1939 MGM musical fantasy, mainly directed by Victor Fleming, was based on a 1900 novel by L. Frank Baum.",
+   "a": "What is The Wizard of Oz?",
+   "tier": 1
+  },
+  {
+   "id": "Q11621-curated",
+   "q": "In this 1982 Steven Spielberg film, a boy named Elliott befriends a stranded alien and helps him find his way home.",
+   "a": "What is E.T. the Extra-Terrestrial?",
+   "tier": 1
+  },
+  {
+   "id": "Q134773-curated",
+   "q": "In this 1994 comedy-drama directed by Robert Zemeckis, Tom Hanks plays the title role, alongside Robin Wright and Gary Sinise.",
+   "a": "What is Forrest Gump?",
+   "tier": 1
+  },
+  {
+   "id": "Q484442-curated",
+   "q": "In this 2002 Sam Raimi superhero film, Tobey Maguire plays timid teenager Peter Parker, opposite Kirsten Dunst and Willem Dafoe.",
+   "a": "What is Spider-Man?",
+   "tier": 1
+  },
+  {
+   "id": "Q213326-curated",
+   "q": "In this 2004 Pixar film written and directed by Brad Bird, Bob and Helen Parr are a superhero couple living in a retro version of the 1960s.",
+   "a": "What is The Incredibles?",
+   "tier": 1
+  },
+  {
+   "id": "Q174811-curated",
+   "q": "In this 2009 Pixar film, widower Carl Fredricksen ties numerous helium balloons to his house and travels to Venezuela.",
+   "a": "What is Up?",
+   "tier": 1
+  },
+  {
+   "id": "Q215518-curated",
+   "q": "In this 1992 Disney animated musical featuring the voice of Robin Williams, a street urchin discovers a magic lamp containing a genie.",
+   "a": "What is Aladdin?",
+   "tier": 1
+  },
+  {
+   "id": "Q189505-curated",
+   "q": "In this 1975 Steven Spielberg thriller, police chief Martin Brody hunts a man-eating great white shark.",
+   "a": "What is Jaws?",
+   "tier": 1
+  },
+  {
+   "id": "Q23781155-curated",
+   "q": "This 2019 Marvel Studios film directed by Anthony and Joe Russo, starring Robert Downey Jr., Chris Evans and Mark Ruffalo, was the 22nd film in the MCU.",
+   "a": "What is Avengers: Endgame?",
+   "tier": 1
+  },
+  {
+   "id": "Q47703-curated",
+   "q": "This 1972 Francis Ford Coppola film starring Marlon Brando and Al Pacino chronicles the Corleone crime family.",
+   "a": "What is The Godfather?",
+   "tier": 2
+  },
+  {
+   "id": "Q83495-curated",
+   "q": "This 1999 film starring Keanu Reeves follows a hacker named Neo, who discovers that his life is a deception created by intelligent machines.",
+   "a": "What is The Matrix?",
+   "tier": 2
+  },
+  {
+   "id": "Q163872-curated",
+   "q": "In this 2008 Christopher Nolan sequel to Batman Begins, Batman, Jim Gordon and Harvey Dent ally against organized crime in Gotham City.",
+   "a": "What is The Dark Knight?",
+   "tier": 2
+  },
+  {
+   "id": "Q174284-curated",
+   "q": "In this 1981 Steven Spielberg film, Harrison Ford plays an archaeologist racing Nazi forces to recover the Ark of the Covenant.",
+   "a": "What is Raiders of the Lost Ark?",
+   "tier": 2
+  },
+  {
+   "id": "Q108745-curated",
+   "q": "In this 1984 comedy, Bill Murray, Dan Aykroyd and Harold Ramis play parapsychologists who start a ghost-catching business in New York City.",
+   "a": "What is Ghostbusters?",
+   "tier": 2
+  },
+  {
+   "id": "Q188652-curated",
+   "q": "In this 1976 sports drama written by and starring Sylvester Stallone, a small-time Philadelphia boxer gets a shot at Apollo Creed's title.",
+   "a": "What is Rocky?",
+   "tier": 2
+  },
+  {
+   "id": "Q60072-curated",
+   "q": "This 1965 film starring Julie Andrews and Christopher Plummer was based on a stage musical by Richard Rodgers and Oscar Hammerstein II.",
+   "a": "What is The Sound of Music?",
+   "tier": 2
+  },
+  {
+   "id": "Q179673-curated",
+   "q": "In this 1991 Disney animated musical set in 18th-century France, a selfish prince is cursed until he can earn the love of a spirited young woman.",
+   "a": "What is Beauty and the Beast?",
+   "tier": 2
+  },
+  {
+   "id": "Q190135-curated",
+   "q": "This 1989 Disney animated musical, with songs by Howard Ashman and Alan Menken, was loosely based on a Hans Christian Andersen fairy tale.",
+   "a": "What is The Little Mermaid?",
+   "tier": 2
+  },
+  {
+   "id": "Q18647981-curated",
+   "q": "In this 2016 Disney animated musical, Auliʻi Cravalho made her feature film debut alongside Dwayne Johnson, with songs by Lin-Manuel Miranda.",
+   "a": "What is Moana?",
+   "tier": 2
+  },
+  {
+   "id": "Q5815826-curated",
+   "q": "In this 2017 Pixar film, a 12-year-old boy in Mexico named Miguel is accidentally transported to the Land of the Dead.",
+   "a": "What is Coco?",
+   "tier": 2
+  },
+  {
+   "id": "Q103372692-curated",
+   "q": "This 2021 Disney animated musical comedy, with original songs by Lin-Manuel Miranda, stars the voices of Stephanie Beatriz and John Leguizamo.",
+   "a": "What is Encanto?",
+   "tier": 2
+  },
+  {
+   "id": "Q170035-curated",
+   "q": "In this 2007 Pixar film written and directed by Brad Bird, the main character is a rat, and the title refers to a French dish.",
+   "a": "What is Ratatouille?",
+   "tier": 2
+  },
+  {
+   "id": "Q187726-curated",
+   "q": "In this 2001 Pixar comedy directed by Pete Docter, John Goodman and Billy Crystal voice the stars.",
+   "a": "What is Monsters, Inc.?",
+   "tier": 2
+  },
+  {
+   "id": "Q182153-curated",
+   "q": "In this 2006 Pixar sports comedy set in a world populated entirely by vehicles, Owen Wilson and Paul Newman voice the leads.",
+   "a": "What is Cars?",
+   "tier": 2
+  },
+  {
+   "id": "Q104905-curated",
+   "q": "In this 2008 Pixar film, a solitary robot is left to clean up garbage on a deserted Earth in the year 2805.",
+   "a": "What is WALL-E?",
+   "tier": 2
+  },
+  {
+   "id": "Q192724-curated",
+   "q": "This 2008 superhero film directed by Jon Favreau and starring Robert Downey Jr. was the first film in the Marvel Cinematic Universe.",
+   "a": "What is Iron Man?",
+   "tier": 2
+  },
+  {
+   "id": "Q212965-curated",
+   "q": "This 2012 dystopian film directed by Gary Ross stars Jennifer Lawrence, Josh Hutcherson and Liam Hemsworth and is based on a novel by Suzanne Collins.",
+   "a": "What is The Hunger Games?",
+   "tier": 2
+  },
+  {
+   "id": "Q46717-curated",
+   "q": "In this 2003 film based on a Disney theme park attraction, Johnny Depp plays Jack Sparrow and Keira Knightley plays Elizabeth Swann.",
+   "a": "What is Pirates of the Caribbean: The Curse of the Black Pearl?",
+   "tier": 2
+  },
+  {
+   "id": "Q222939-curated",
+   "q": "In this 1995 fantasy adventure starring Robin Williams and Kirsten Dunst, a supernatural board game unleashes jungle hazards on its players.",
+   "a": "What is Jumanji?",
+   "tier": 2
+  },
+  {
+   "id": "Q128518-curated",
+   "q": "In this 2000 Ridley Scott epic, Russell Crowe plays Maximus, a Roman general betrayed by Commodus, son of Marcus Aurelius.",
+   "a": "What is Gladiator?",
+   "tier": 3
+  },
+  {
+   "id": "Q162255-curated",
+   "q": "In this 1984 James Cameron film, Arnold Schwarzenegger plays a cyborg assassin sent back in time to kill Sarah Connor.",
+   "a": "What is The Terminator?",
+   "tier": 3
+  },
+  {
+   "id": "Q25188-curated",
+   "q": "In this 2010 Christopher Nolan film, Leonardo DiCaprio plays a thief who steals information by infiltrating his targets' subconscious.",
+   "a": "What is Inception?",
+   "tier": 3
+  },
+  {
+   "id": "Q13417189-curated",
+   "q": "In this 2014 Christopher Nolan film, Matthew McConaughey leads astronauts who travel through space in search of a new home for humanity.",
+   "a": "What is Interstellar?",
+   "tier": 3
+  },
+  {
+   "id": "Q305250-curated",
+   "q": "In this 2002 animated comedy, a woolly mammoth, a ground sloth and a saber-toothed cat form an unlikely herd in prehistoric times.",
+   "a": "What is Ice Age?",
+   "tier": 3
+  },
+  {
+   "id": "Q218235-curated",
+   "q": "In this 2005 Tim Burton film based on a Roald Dahl novel, Johnny Depp plays Willy Wonka.",
+   "a": "What is Charlie and the Chocolate Factory?",
+   "tier": 3
+  },
+  {
+   "id": "Q187278-curated",
+   "q": "This 2010 Pixar film directed by Lee Unkrich was the third installment in its series, again featuring the voices of Tom Hanks and Tim Allen.",
+   "a": "What is Toy Story 3?",
+   "tier": 3
+  },
+  {
+   "id": "Q127367-curated",
+   "q": "This 2001 Peter Jackson fantasy film is based on the first volume of J. R. R. Tolkien's famous novel.",
+   "a": "What is The Lord of the Rings: The Fellowship of the Ring?",
+   "tier": 3
+  },
+  {
+   "id": "Q132689-curated",
+   "q": "In this 1942 romantic drama, Humphrey Bogart plays an American expatriate who must choose between love and helping a resistance leader escape.",
+   "a": "What is Casablanca?",
+   "tier": 3
+  },
+  {
+   "id": "Q322328-curated",
+   "q": "In this 1993 stop-motion musical, Jack Skellington, the leader of Halloween Town, becomes obsessed with taking over another holiday.",
+   "a": "What is The Nightmare Before Christmas?",
+   "tier": 3
+  },
+  {
+   "id": "Q23780734-curated",
+   "q": "In this 2018 Ryan Coogler film, Chadwick Boseman plays the Marvel superhero T'Challa, with Michael B. Jordan and Lupita Nyong'o.",
+   "a": "What is Black Panther?",
+   "tier": 3
+  },
+  {
+   "id": "Q29588607-curated",
+   "q": "In this 2018 animated superhero film directed by Bob Persichetti, Peter Ramsey and Rodney Rothman, Shameik Moore voices Miles Morales.",
+   "a": "What is Spider-Man: Into the Spider-Verse?",
+   "tier": 3
+  },
+  {
+   "id": "Q110138-curated",
+   "q": "In this 1986 Tony Scott film, Tom Cruise plays Lieutenant Pete \"Maverick\" Mitchell, a young naval aviator.",
+   "a": "What is Top Gun?",
+   "tier": 3
+  },
+  {
+   "id": "Q105598-curated",
+   "q": "In this 1988 action film, Bruce Willis plays New York cop John McClane, who battles terrorists in a Los Angeles skyscraper.",
+   "a": "What is Die Hard?",
+   "tier": 3
+  },
+  {
+   "id": "Q116852-curated",
+   "q": "This 1989 Tim Burton film starring Michael Keaton and Jack Nicholson was based on a DC Comics superhero.",
+   "a": "What is Batman?",
+   "tier": 3
+  },
+  {
+   "id": "Q108839994-curated",
+   "q": "In this 2023 Christopher Nolan film, Cillian Murphy plays the physicist who led the development of the first nuclear weapons.",
+   "a": "What is Oppenheimer?",
+   "tier": 3
+  },
+  {
+   "id": "Q204191-curated",
+   "q": "In this 1946 Frank Capra Christmas film, James Stewart plays George Bailey, whose guardian angel intervenes on Christmas Eve.",
+   "a": "What is It's a Wonderful Life?",
+   "tier": 3
+  },
+  {
+   "id": "Q172241-curated",
+   "q": "In this 1994 film based on a Stephen King novella, banker Andy Dufresne befriends fellow prisoner Ellis \"Red\" Redding.",
+   "a": "What is The Shawshank Redemption?",
+   "tier": 3
+  },
+  {
+   "id": "Q60834962-curated",
+   "q": "This 2021 Denis Villeneuve film adapting Frank Herbert's 1965 novel stars Timothée Chalamet, Rebecca Ferguson and Zendaya.",
+   "a": "What is Dune?",
+   "tier": 3
+  },
+  {
+   "id": "Q102225-curated",
+   "q": "This 2005 fantasy film starring Daniel Radcliffe was directed by Mike Newell from a screenplay by Steve Kloves.",
+   "a": "What is Harry Potter and the Goblet of Fire?",
+   "tier": 3
+  },
+  {
+   "id": "Q483941-lead",
+   "q": "This 1993 American historical drama film was directed and co-produced by Steven Spielberg and written by Steven Zaillian.",
+   "a": "What is Schindler's List?",
+   "tier": 4
+  },
+  {
+   "id": "Q165817-lead",
+   "q": "This 1998 American war film was directed by Steven Spielberg and written by Robert Rodat.",
+   "a": "What is Saving Private Ryan?",
+   "tier": 4
+  },
+  {
+   "id": "Q151904-curated",
+   "q": "This 2006 spy thriller, the 21st film in its series, was the first to star Daniel Craig as MI6 agent James Bond.",
+   "a": "What is Casino Royale?",
+   "tier": 4
+  },
+  {
+   "id": "Q42047-lead",
+   "q": "This 1990 American gangster film was directed by Martin Scorsese, written by Nicholas Pileggi and Scorsese, and produced by Irwin Winkler.",
+   "a": "What is Goodfellas?",
+   "tier": 4
+  },
+  {
+   "id": "Q104123-lead",
+   "q": "This 1994 American crime film was written and directed by Quentin Tarantino from a story he conceived with Roger Avary.",
+   "a": "What is Pulp Fiction?",
+   "tier": 4
+  },
+  {
+   "id": "Q162729-curated",
+   "q": "In this 1995 epic directed by Mel Gibson, he also plays Scottish warrior William Wallace in the First War of Scottish Independence.",
+   "a": "What is Braveheart?",
+   "tier": 4
+  },
+  {
+   "id": "Q214801-lead",
+   "q": "This 1998 American comedy-drama film was directed by Peter Weir, and written and co-produced by Andrew Niccol.",
+   "a": "What is The Truman Show?",
+   "tier": 4
+  },
+  {
+   "id": "Q193835-lead",
+   "q": "This 1997 American drama film was directed by Gus Van Sant and written by Ben Affleck and Matt Damon.",
+   "a": "What is Good Will Hunting?",
+   "tier": 4
+  },
+  {
+   "id": "Q183063-lead",
+   "q": "This 1999 American psychological thriller film was written and directed by M. Night Shyamalan.",
+   "a": "What is The Sixth Sense?",
+   "tier": 4
+  },
+  {
+   "id": "Q18547944-curated",
+   "q": "In this 2015 Ridley Scott film based on Andy Weir's novel, Matt Damon plays an astronaut who must survive after being left behind on Mars.",
+   "a": "What is The Martian?",
+   "tier": 4
+  },
+  {
+   "id": "Q152780-curated",
+   "q": "In this 2012 Ang Lee film, an Indian boy and a Bengal tiger named Richard Parker are stranded on a lifeboat after a shipwreck.",
+   "a": "What is Life of Pi?",
+   "tier": 4
+  },
+  {
+   "id": "Q632668-curated",
+   "q": "In this 2009 stop-motion film based on a Neil Gaiman novella, a young girl finds an alternate world behind a secret door in her new home.",
+   "a": "What is Coraline?",
+   "tier": 4
+  },
+  {
+   "id": "Q20856802-lead",
+   "q": "This 2016 American musical romantic comedy drama film was written and directed by Damien Chazelle.",
+   "a": "What is La La Land?",
+   "tier": 4
+  },
+  {
+   "id": "Q61448040-lead",
+   "q": "This 2019 South Korean black comedy thriller film was directed by Bong Joon Ho, who co-wrote the screenplay with Han Jin-won.",
+   "a": "What is Parasite?",
+   "tier": 4
+  },
+  {
+   "id": "Q103569-lead",
+   "q": "This 1979 science fiction horror film was directed by Ridley Scott and written by Dan O'Bannon, based on a story by O'Bannon and Ronald Shusett.",
+   "a": "What is Alien?",
+   "tier": 4
+  },
+  {
+   "id": "Q188845-curated",
+   "q": "In this 1988 film, selfish Charlie Babbitt learns his late father left his estate to Raymond, the autistic savant brother he never knew.",
+   "a": "What is Rain Man?",
+   "tier": 4
+  },
+  {
+   "id": "Q245227-curated",
+   "q": "This 1998 DreamWorks animated musical adapts the Book of Exodus and follows the life of Moses.",
+   "a": "What is The Prince of Egypt?",
+   "tier": 4
+  },
+  {
+   "id": "Q486609-curated",
+   "q": "This 1997 animated musical directed by Don Bluth and Gary Goldman stars the voices of Meg Ryan, John Cusack and Kelsey Grammer.",
+   "a": "What is Anastasia?",
+   "tier": 4
+  },
+  {
+   "id": "Q5887360-curated",
+   "q": "This 2014 Marvel Studios film directed by James Gunn and starring Chris Pratt and Bradley Cooper is based on a Marvel Comics superhero team.",
+   "a": "What is Guardians of the Galaxy?",
+   "tier": 4
+  },
+  {
+   "id": "Q185888-lead",
+   "q": "This 2010 American biographical drama film was directed by David Fincher and written by Aaron Sorkin.",
+   "a": "What is The Social Network?",
+   "tier": 4
+  },
+  {
+   "id": "Q103474-lead",
+   "q": "This 1968 epic science fiction film was produced and directed by Stanley Kubrick, who co-wrote the screenplay with Arthur C. Clarke.",
+   "a": "What is 2001: A Space Odyssey?",
+   "tier": 5
+  },
+  {
+   "id": "Q24815-curated",
+   "q": "This 1941 drama was directed and produced by and starred Orson Welles, who co-wrote it with Herman J. Mankiewicz.",
+   "a": "What is Citizen Kane?",
+   "tier": 5
+  },
+  {
+   "id": "Q228186-curated",
+   "q": "This 1962 epic biographical drama was directed by David Lean and produced by Sam Spiegel.",
+   "a": "What is Lawrence of Arabia?",
+   "tier": 5
+  },
+  {
+   "id": "Q184843-lead",
+   "q": "This 1982 science fiction film was directed by Ridley Scott from a screenplay by Hampton Fancher and David Peoples.",
+   "a": "What is Blade Runner?",
+   "tier": 5
+  },
+  {
+   "id": "Q171669-lead",
+   "q": "This 1975 American psychological comedy-drama film was directed by Miloš Forman, based on the 1962 novel of the same name by Ken Kesey.",
+   "a": "What is One Flew Over the Cuckoo's Nest?",
+   "tier": 5
+  },
+  {
+   "id": "Q2345-lead",
+   "q": "This 1957 American legal drama film was directed by Sidney Lumet in his feature directorial debut, adapted by Reginald Rose from his 1954 teleplay.",
+   "a": "What is 12 Angry Men?",
+   "tier": 5
+  },
+  {
+   "id": "Q105702-lead",
+   "q": "This 1964 political satire black comedy film was co-written, produced, and directed by Stanley Kubrick.",
+   "a": "What is Dr. Strangelove?",
+   "tier": 5
+  },
+  {
+   "id": "Q183081-lead",
+   "q": "This 2007 American neo-Western crime thriller film was written, directed, produced, and edited by Joel and Ethan Coen, based on Cormac McCarthy's 2005 novel.",
+   "a": "What is No Country for Old Men?",
+   "tier": 5
+  },
+  {
+   "id": "Q222720-lead",
+   "q": "This 1996 crime comedy film was written, directed, produced and edited by Joel and Ethan Coen.",
+   "a": "What is Fargo?",
+   "tier": 5
+  },
+  {
+   "id": "Q190956-curated",
+   "q": "This 1984 Miloš Forman drama was adapted by Peter Shaffer from his own stage play inspired by Pushkin's play Mozart and Salieri.",
+   "a": "What is Amadeus?",
+   "tier": 5
+  },
+  {
+   "id": "Q217627-lead",
+   "q": "This 1967 American romantic comedy-drama film was directed by Mike Nichols, adapted by Buck Henry and Calder Willingham from Charles Webb's 1963 novella.",
+   "a": "What is The Graduate?",
+   "tier": 5
+  },
+  {
+   "id": "Q20382729-lead",
+   "q": "This 2016 American science fiction drama film was directed by Denis Villeneuve and written by Eric Heisserer, based on the 1998 novella \"Story of Your Life\" by Ted Chiang.",
+   "a": "What is Arrival?",
+   "tier": 5
+  },
+  {
+   "id": "Q13255497-lead",
+   "q": "This 2014 American satirical comedy-drama film was directed by Alejandro González Iñárritu.",
+   "a": "What is Birdman?",
+   "tier": 5
+  },
+  {
+   "id": "Q188718-curated",
+   "q": "This 1957 David Lean war film starring William Holden and Alec Guinness uses the construction of the Burma Railway as its setting.",
+   "a": "What is The Bridge on the River Kwai?",
+   "tier": 5
+  },
+  {
+   "id": "Q208269-lead",
+   "q": "This 2004 American science fiction romantic drama film was directed by Michel Gondry and written by Charlie Kaufman from a story by Gondry, Kaufman, and Pierre Bismuth.",
+   "a": "What is Eternal Sunshine of the Spotless Mind?",
+   "tier": 5
+  },
+  {
+   "id": "Q125076-lead",
+   "q": "This 2008 British drama film was directed by Danny Boyle, written by Simon Beaufoy, and produced by Christian Colson, with Loveleen Tandan credited as co-director.",
+   "a": "What is Slumdog Millionaire?",
+   "tier": 5
+  },
+  {
+   "id": "Q15648198-curated",
+   "q": "This 2014 psychological drama written and directed by Damien Chazelle stars Miles Teller and J. K. Simmons.",
+   "a": "What is Whiplash?",
+   "tier": 5
+  },
+  {
+   "id": "Q102754-curated",
+   "q": "This 1962 spy film was the first in the James Bond series, starring Sean Connery as the fictional MI6 agent.",
+   "a": "What is Dr. No?",
+   "tier": 5
+  },
+  {
+   "id": "Q83808444-curated",
+   "q": "This 2022 absurdist comedy-drama was written and directed by Daniel Kwan and Daniel Scheinert.",
+   "a": "What is Everything Everywhere All at Once?",
+   "tier": 5
+  },
+  {
+   "id": "Q47221-lead",
+   "q": "This 1976 American neo-noir psychological drama film was directed by Martin Scorsese and written by Paul Schrader.",
+   "a": "What is Taxi Driver?",
+   "tier": 5
+  }
+ ]
+}

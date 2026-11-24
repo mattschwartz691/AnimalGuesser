@@ -1,0 +1,7207 @@
+{
+ "category": "Word Meanings",
+ "slug": "word-meanings",
+ "source": "Definitions adapted from Princeton WordNet 3.0 (WordNet License); word frequency from wordfreq (CC BY-SA 4.0)",
+ "clues": [
+  {
+   "id": "link-v",
+   "q": "This 4-letter word means to make a logical or causal connection.",
+   "a": "What is link?",
+   "tier": 1
+  },
+  {
+   "id": "collection-n",
+   "q": "This 10-letter noun means several things grouped together or considered as a whole.",
+   "a": "What is collection?",
+   "tier": 1
+  },
+  {
+   "id": "nobody-n",
+   "q": "This 6-letter noun means a person of no influence.",
+   "a": "What is nobody?",
+   "tier": 1
+  },
+  {
+   "id": "fear-n",
+   "q": "This 4-letter word names an emotion experienced in anticipation of some specific pain or danger.",
+   "a": "What is fear?",
+   "tier": 1
+  },
+  {
+   "id": "stupid-a",
+   "q": "This adjective means lacking or marked by lack of intellectual acuity.",
+   "a": "What is stupid?",
+   "tier": 1
+  },
+  {
+   "id": "weekend-n",
+   "q": "This word names a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday.",
+   "a": "What is weekend?",
+   "tier": 1
+  },
+  {
+   "id": "imagine-v",
+   "q": "This 7-letter verb means to form a mental image of something that is not present or that is not the case.",
+   "a": "What is imagine?",
+   "tier": 1
+  },
+  {
+   "id": "organization-n",
+   "q": "This 12-letter noun means a group of people who work together.",
+   "a": "What is organization?",
+   "tier": 1
+  },
+  {
+   "id": "necessary-a",
+   "q": "This adjective means absolutely essential.",
+   "a": "What is necessary?",
+   "tier": 1
+  },
+  {
+   "id": "sweet-a",
+   "q": "This word means having or denoting the characteristic taste of sugar.",
+   "a": "What is sweet?",
+   "tier": 1
+  },
+  {
+   "id": "notice-v",
+   "q": "This 6-letter verb means to discover or determine the existence, presence, or fact of.",
+   "a": "What is notice?",
+   "tier": 1
+  },
+  {
+   "id": "advice-n",
+   "q": "This word names a proposal for an appropriate course of action.",
+   "a": "What is advice?",
+   "tier": 1
+  },
+  {
+   "id": "nine-a",
+   "q": "This 4-letter word means denoting a quantity consisting of one more than eight and one less than ten.",
+   "a": "What is nine?",
+   "tier": 1
+  },
+  {
+   "id": "mass-n",
+   "q": "This word names the property of a body that causes it to have weight in a gravitational field.",
+   "a": "What is mass?",
+   "tier": 1
+  },
+  {
+   "id": "murder-n",
+   "q": "This 6-letter noun means unlawful premeditated killing of a human being by a human being.",
+   "a": "What is murder?",
+   "tier": 1
+  },
+  {
+   "id": "wonderful-a",
+   "q": "This 9-letter adjective means extraordinarily good or great.",
+   "a": "What is wonderful?",
+   "tier": 1
+  },
+  {
+   "id": "prior-a",
+   "q": "This 5-letter word means earlier in time.",
+   "a": "What is prior?",
+   "tier": 1
+  },
+  {
+   "id": "fell-v",
+   "q": "This 4-letter word means to cause to fall by or as if by delivering a blow.",
+   "a": "What is fell?",
+   "tier": 1
+  },
+  {
+   "id": "begin-v",
+   "q": "This 5-letter word means to take the first step or steps in carrying out an action.",
+   "a": "What is begin?",
+   "tier": 1
+  },
+  {
+   "id": "artist-n",
+   "q": "This noun means a person whose creative work shows sensitivity and imagination.",
+   "a": "What is artist?",
+   "tier": 1
+  },
+  {
+   "id": "grade-n",
+   "q": "This 5-letter noun means a body of students who are taught together.",
+   "a": "What is grade?",
+   "tier": 1
+  },
+  {
+   "id": "senate-n",
+   "q": "This word names assembly possessing high legislative powers.",
+   "a": "What is senate?",
+   "tier": 1
+  },
+  {
+   "id": "firm-n",
+   "q": "This 4-letter noun refers to the members of a business organization that owns or operates one or more establishments.",
+   "a": "What is firm?",
+   "tier": 1
+  },
+  {
+   "id": "gift-n",
+   "q": "This word names something acquired without compensation.",
+   "a": "What is gift?",
+   "tier": 1
+  },
+  {
+   "id": "concept-n",
+   "q": "This 7-letter word names an abstract or general idea inferred or derived from specific instances.",
+   "a": "What is concept?",
+   "tier": 1
+  },
+  {
+   "id": "billion-a",
+   "q": "This adjective means denoting a quantity consisting of one thousand million items or units in the United States.",
+   "a": "What is billion?",
+   "tier": 1
+  },
+  {
+   "id": "suggest-v",
+   "q": "This 7-letter word means to make a proposal, declare a plan for something.",
+   "a": "What is suggest?",
+   "tier": 1
+  },
+  {
+   "id": "strategy-n",
+   "q": "This 8-letter noun means an elaborate and systematic plan of action.",
+   "a": "What is strategy?",
+   "tier": 1
+  },
+  {
+   "id": "parliament-n",
+   "q": "This word names a legislative assembly in certain countries.",
+   "a": "What is parliament?",
+   "tier": 1
+  },
+  {
+   "id": "magazine-n",
+   "q": "This 8-letter noun refers to a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it.",
+   "a": "What is magazine?",
+   "tier": 1
+  },
+  {
+   "id": "vice-n",
+   "q": "This 4-letter word names moral weakness.",
+   "a": "What is vice?",
+   "tier": 1
+  },
+  {
+   "id": "crew-n",
+   "q": "This noun refers to the men and women who man a vehicle.",
+   "a": "What is crew?",
+   "tier": 1
+  },
+  {
+   "id": "intelligence-n",
+   "q": "This word names the ability to comprehend; to understand and profit from experience.",
+   "a": "What is intelligence?",
+   "tier": 1
+  },
+  {
+   "id": "yellow-a",
+   "q": "This 6-letter adjective means of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk.",
+   "a": "What is yellow?",
+   "tier": 1
+  },
+  {
+   "id": "behavior-n",
+   "q": "This 8-letter noun refers to manner of acting or controlling yourself.",
+   "a": "What is behavior?",
+   "tier": 1
+  },
+  {
+   "id": "appearance-n",
+   "q": "This noun refers to outward or visible aspect of a person or thing.",
+   "a": "What is appearance?",
+   "tier": 1
+  },
+  {
+   "id": "download-v",
+   "q": "To do this means to transfer a file or program from a central computer to a smaller computer or to a computer at a remote location.",
+   "a": "What is download?",
+   "tier": 1
+  },
+  {
+   "id": "loan-n",
+   "q": "This word names the temporary provision of money.",
+   "a": "What is loan?",
+   "tier": 1
+  },
+  {
+   "id": "teach-v",
+   "q": "This 5-letter word means to impart skills or knowledge to.",
+   "a": "What is teach?",
+   "tier": 1
+  },
+  {
+   "id": "entry-n",
+   "q": "This noun means an item inserted in a written record.",
+   "a": "What is entry?",
+   "tier": 1
+  },
+  {
+   "id": "concern-v",
+   "q": "This 7-letter verb means to be relevant to.",
+   "a": "What is concern?",
+   "tier": 1
+  },
+  {
+   "id": "candidate-n",
+   "q": "This 9-letter noun means a politician who is running for public office.",
+   "a": "What is candidate?",
+   "tier": 1
+  },
+  {
+   "id": "storm-n",
+   "q": "This word names a violent weather condition with winds 64-72 knots and precipitation and thunder and lightning.",
+   "a": "What is storm?",
+   "tier": 1
+  },
+  {
+   "id": "fake-a",
+   "q": "This 4-letter adjective means fraudulent; having a misleading appearance.",
+   "a": "What is fake?",
+   "tier": 1
+  },
+  {
+   "id": "twenty-a",
+   "q": "This 6-letter word means denoting a quantity consisting of 20 items or units.",
+   "a": "What is twenty?",
+   "tier": 1
+  },
+  {
+   "id": "journey-n",
+   "q": "This 7-letter noun means the act of traveling from one place to another.",
+   "a": "What is journey?",
+   "tier": 1
+  },
+  {
+   "id": "secure-v",
+   "q": "This 6-letter verb means to get by special effort.",
+   "a": "What is secure?",
+   "tier": 1
+  },
+  {
+   "id": "revenue-n",
+   "q": "This 7-letter noun refers to the entire amount of income before any deductions are made.",
+   "a": "What is revenue?",
+   "tier": 1
+  },
+  {
+   "id": "debate-n",
+   "q": "This 6-letter noun means a discussion in which reasons are advanced for and against some proposition or proposal.",
+   "a": "What is debate?",
+   "tier": 1
+  },
+  {
+   "id": "talent-n",
+   "q": "This 6-letter noun means natural abilities or qualities.",
+   "a": "What is talent?",
+   "tier": 1
+  },
+  {
+   "id": "determine-v",
+   "q": "This 9-letter word means to establish after a calculation, investigation, experiment, survey, or study.",
+   "a": "What is determine?",
+   "tier": 1
+  },
+  {
+   "id": "novel-n",
+   "q": "This noun means an extended fictional work in prose.",
+   "a": "What is novel?",
+   "tier": 1
+  },
+  {
+   "id": "tiny-a",
+   "q": "This 4-letter adjective means very small.",
+   "a": "What is tiny?",
+   "tier": 1
+  },
+  {
+   "id": "mayor-n",
+   "q": "This noun means the head of a city government.",
+   "a": "What is mayor?",
+   "tier": 1
+  },
+  {
+   "id": "champion-n",
+   "q": "This 8-letter word names someone who has won first place in a competition.",
+   "a": "What is champion?",
+   "tier": 1
+  },
+  {
+   "id": "literature-n",
+   "q": "This word names creative writing of recognized artistic value.",
+   "a": "What is literature?",
+   "tier": 1
+  },
+  {
+   "id": "relevant-a",
+   "q": "This word means having a bearing on or connection with the subject at issue.",
+   "a": "What is relevant?",
+   "tier": 1
+  },
+  {
+   "id": "upset-v",
+   "q": "To do this means to disturb the balance or stability of.",
+   "a": "What is upset?",
+   "tier": 1
+  },
+  {
+   "id": "recommend-v",
+   "q": "This 9-letter word means to push for something.",
+   "a": "What is recommend?",
+   "tier": 1
+  },
+  {
+   "id": "ticket-n",
+   "q": "This noun refers to a commercial document showing that the holder is entitled to something.",
+   "a": "What is ticket?",
+   "tier": 1
+  },
+  {
+   "id": "entertainment-n",
+   "q": "This 13-letter noun refers to an activity that is diverting and that holds the attention.",
+   "a": "What is entertainment?",
+   "tier": 1
+  },
+  {
+   "id": "chat-v",
+   "q": "This 4-letter verb means to talk socially without exchanging too much information.",
+   "a": "What is chat?",
+   "tier": 1
+  },
+  {
+   "id": "victim-n",
+   "q": "This word names an unfortunate person who suffers from some adverse circumstance.",
+   "a": "What is victim?",
+   "tier": 1
+  },
+  {
+   "id": "personnel-n",
+   "q": "This 9-letter noun means group of people willing to obey orders.",
+   "a": "What is personnel?",
+   "tier": 1
+  },
+  {
+   "id": "concert-n",
+   "q": "This noun means a performance of music by players or singers not involving theatrical staging.",
+   "a": "What is concert?",
+   "tier": 1
+  },
+  {
+   "id": "deputy-n",
+   "q": "This word names someone authorized to exercise the powers of sheriff in emergencies.",
+   "a": "What is deputy?",
+   "tier": 1
+  },
+  {
+   "id": "driven-a",
+   "q": "This word means compelled forcibly by an outside agency.",
+   "a": "What is driven?",
+   "tier": 1
+  },
+  {
+   "id": "incident-n",
+   "q": "This noun refers to a single distinct event.",
+   "a": "What is incident?",
+   "tier": 1
+  },
+  {
+   "id": "hidden-a",
+   "q": "This 6-letter adjective means not accessible to view.",
+   "a": "What is hidden?",
+   "tier": 1
+  },
+  {
+   "id": "height-n",
+   "q": "This noun refers to the vertical dimension of extension; distance from the base of something to the top.",
+   "a": "What is height?",
+   "tier": 1
+  },
+  {
+   "id": "sample-n",
+   "q": "This word names a small part of something intended as representative of the whole.",
+   "a": "What is sample?",
+   "tier": 1
+  },
+  {
+   "id": "pink-a",
+   "q": "This 4-letter word means of a light shade of red.",
+   "a": "What is pink?",
+   "tier": 1
+  },
+  {
+   "id": "comedy-n",
+   "q": "This word names light and humorous drama with a happy ending.",
+   "a": "What is comedy?",
+   "tier": 1
+  },
+  {
+   "id": "lift-v",
+   "q": "This 4-letter verb means to raise from a lower to a higher position.",
+   "a": "What is lift?",
+   "tier": 1
+  },
+  {
+   "id": "employee-n",
+   "q": "This noun refers to a worker who is hired to perform a job.",
+   "a": "What is employee?",
+   "tier": 1
+  },
+  {
+   "id": "repeat-v",
+   "q": "This 6-letter word means to say, state, or perform again.",
+   "a": "What is repeat?",
+   "tier": 1
+  },
+  {
+   "id": "rescue-v",
+   "q": "This 6-letter verb means to free from harm or evil.",
+   "a": "What is rescue?",
+   "tier": 1
+  },
+  {
+   "id": "percentage-n",
+   "q": "This 10-letter noun refers to a proportion in relation to a whole.",
+   "a": "What is percentage?",
+   "tier": 1
+  },
+  {
+   "id": "gear-v",
+   "q": "This 4-letter word means to set the level or character of.",
+   "a": "What is gear?",
+   "tier": 1
+  },
+  {
+   "id": "belief-n",
+   "q": "This word names any cognitive content held as true.",
+   "a": "What is belief?",
+   "tier": 1
+  },
+  {
+   "id": "poverty-n",
+   "q": "This noun refers to the state of having little or no money and few or no material possessions.",
+   "a": "What is poverty?",
+   "tier": 1
+  },
+  {
+   "id": "adventure-n",
+   "q": "This 9-letter word names a wild and exciting undertaking.",
+   "a": "What is adventure?",
+   "tier": 1
+  },
+  {
+   "id": "assessment-n",
+   "q": "This 10-letter word names the classification of someone or something with respect to its worth.",
+   "a": "What is assessment?",
+   "tier": 1
+  },
+  {
+   "id": "encourage-v",
+   "q": "This 9-letter word means to contribute to the progress or growth of.",
+   "a": "What is encourage?",
+   "tier": 1
+  },
+  {
+   "id": "uncle-n",
+   "q": "This noun refers to the brother of your father or mother; the husband of your aunt.",
+   "a": "What is uncle?",
+   "tier": 1
+  },
+  {
+   "id": "charity-n",
+   "q": "This word names a foundation created to promote the public good.",
+   "a": "What is charity?",
+   "tier": 1
+  },
+  {
+   "id": "guarantee-v",
+   "q": "This 9-letter verb means to give surety or assume responsibility.",
+   "a": "What is guarantee?",
+   "tier": 1
+  },
+  {
+   "id": "fiction-n",
+   "q": "This word names a literary work based on the imagination and not necessarily on fact.",
+   "a": "What is fiction?",
+   "tier": 1
+  },
+  {
+   "id": "legend-n",
+   "q": "This 6-letter word names a story about mythical or supernatural beings or events.",
+   "a": "What is legend?",
+   "tier": 1
+  },
+  {
+   "id": "shadow-n",
+   "q": "This noun refers to shade within clear boundaries.",
+   "a": "What is shadow?",
+   "tier": 1
+  },
+  {
+   "id": "mood-n",
+   "q": "This 4-letter noun means a characteristic state of feeling.",
+   "a": "What is mood?",
+   "tier": 1
+  },
+  {
+   "id": "helpful-a",
+   "q": "This adjective means providing assistance or serving a useful function.",
+   "a": "What is helpful?",
+   "tier": 1
+  },
+  {
+   "id": "reveal-v",
+   "q": "This 6-letter word means to make visible.",
+   "a": "What is reveal?",
+   "tier": 1
+  },
+  {
+   "id": "skill-n",
+   "q": "This 5-letter word names an ability that has been acquired by training.",
+   "a": "What is skill?",
+   "tier": 1
+  },
+  {
+   "id": "soil-n",
+   "q": "This 4-letter word names the state of being covered with unclean things.",
+   "a": "What is soil?",
+   "tier": 1
+  },
+  {
+   "id": "steal-v",
+   "q": "To do this means to take without the owner's consent.",
+   "a": "What is steal?",
+   "tier": 1
+  },
+  {
+   "id": "promotion-n",
+   "q": "This 9-letter word names a message issued in behalf of some product or cause or idea or person or institution.",
+   "a": "What is promotion?",
+   "tier": 1
+  },
+  {
+   "id": "cousin-n",
+   "q": "This 6-letter noun refers to the child of your aunt or uncle.",
+   "a": "What is cousin?",
+   "tier": 1
+  },
+  {
+   "id": "refuse-v",
+   "q": "This 6-letter verb means to show unwillingness towards.",
+   "a": "What is refuse?",
+   "tier": 1
+  },
+  {
+   "id": "translation-n",
+   "q": "This 11-letter noun means a written communication in a second language having the same meaning as the written communication in a first language.",
+   "a": "What is translation?",
+   "tier": 1
+  },
+  {
+   "id": "medal-n",
+   "q": "This 5-letter noun refers to an award for winning a championship or commemorating some other event.",
+   "a": "What is medal?",
+   "tier": 1
+  },
+  {
+   "id": "citizen-n",
+   "q": "This word names a native or naturalized member of a state or other political community.",
+   "a": "What is citizen?",
+   "tier": 1
+  },
+  {
+   "id": "spin-v",
+   "q": "This 4-letter verb means to revolve quickly and repeatedly around one's own axis.",
+   "a": "What is spin?",
+   "tier": 1
+  },
+  {
+   "id": "journalist-n",
+   "q": "This noun refers to a writer for newspapers and magazines.",
+   "a": "What is journalist?",
+   "tier": 1
+  },
+  {
+   "id": "experiment-n",
+   "q": "This 10-letter noun means the act of conducting a controlled test or investigation.",
+   "a": "What is experiment?",
+   "tier": 1
+  },
+  {
+   "id": "regulation-n",
+   "q": "This 10-letter noun means an authoritative rule.",
+   "a": "What is regulation?",
+   "tier": 1
+  },
+  {
+   "id": "resident-n",
+   "q": "This 8-letter word names someone who lives at a particular place for a prolonged period or who was born there.",
+   "a": "What is resident?",
+   "tier": 1
+  },
+  {
+   "id": "fraud-n",
+   "q": "This word names intentional deception resulting in injury to another person.",
+   "a": "What is fraud?",
+   "tier": 1
+  },
+  {
+   "id": "achievement-n",
+   "q": "This 11-letter noun means the action of accomplishing something.",
+   "a": "What is achievement?",
+   "tier": 1
+  },
+  {
+   "id": "daddy-n",
+   "q": "This 5-letter noun refers to an informal term for a father; probably derived from baby talk.",
+   "a": "What is daddy?",
+   "tier": 1
+  },
+  {
+   "id": "fate-n",
+   "q": "This 4-letter noun refers to an event that will inevitably happen in the future.",
+   "a": "What is fate?",
+   "tier": 1
+  },
+  {
+   "id": "privacy-n",
+   "q": "This 7-letter noun means the quality of being secluded from the presence or view of others.",
+   "a": "What is privacy?",
+   "tier": 1
+  },
+  {
+   "id": "twelve-a",
+   "q": "This 6-letter adjective means denoting a quantity consisting of 12 items or units.",
+   "a": "What is twelve?",
+   "tier": 1
+  },
+  {
+   "id": "josh-v",
+   "q": "This 4-letter verb means to be silly or tease one another.",
+   "a": "What is josh?",
+   "tier": 1
+  },
+  {
+   "id": "ambassador-n",
+   "q": "This word names a diplomat of the highest rank; accredited as representative from one country to another.",
+   "a": "What is ambassador?",
+   "tier": 1
+  },
+  {
+   "id": "luxury-n",
+   "q": "This noun refers to something that is an indulgence rather than a necessity.",
+   "a": "What is luxury?",
+   "tier": 1
+  },
+  {
+   "id": "consumption-n",
+   "q": "This 11-letter noun refers to the process of taking food into the body through the mouth.",
+   "a": "What is consumption?",
+   "tier": 1
+  },
+  {
+   "id": "poll-n",
+   "q": "This 4-letter noun means an inquiry into public opinion conducted by interviewing a random sample of people.",
+   "a": "What is poll?",
+   "tier": 1
+  },
+  {
+   "id": "liberty-n",
+   "q": "This 7-letter noun means immunity from arbitrary exercise of authority: political independence.",
+   "a": "What is liberty?",
+   "tier": 1
+  },
+  {
+   "id": "purple-a",
+   "q": "This 6-letter adjective means of a color intermediate between red and blue.",
+   "a": "What is purple?",
+   "tier": 1
+  },
+  {
+   "id": "apparent-a",
+   "q": "This 8-letter adjective means clearly revealed to the mind or the senses or judgment.",
+   "a": "What is apparent?",
+   "tier": 1
+  },
+  {
+   "id": "registration-n",
+   "q": "This 12-letter noun means the act of enrolling.",
+   "a": "What is registration?",
+   "tier": 1
+  },
+  {
+   "id": "documentary-n",
+   "q": "This 11-letter word names a film or TV program presenting the facts about a person or event.",
+   "a": "What is documentary?",
+   "tier": 1
+  },
+  {
+   "id": "domain-n",
+   "q": "This 6-letter noun refers to a particular environment or walk of life.",
+   "a": "What is domain?",
+   "tier": 1
+  },
+  {
+   "id": "stability-n",
+   "q": "This noun means the quality or attribute of being firm and steadfast.",
+   "a": "What is stability?",
+   "tier": 1
+  },
+  {
+   "id": "slave-n",
+   "q": "This noun means a person who is owned by someone.",
+   "a": "What is slave?",
+   "tier": 1
+  },
+  {
+   "id": "psychology-n",
+   "q": "This noun means the science of mental life.",
+   "a": "What is psychology?",
+   "tier": 1
+  },
+  {
+   "id": "craft-n",
+   "q": "This 5-letter noun refers to the skilled practice of a practical occupation.",
+   "a": "What is craft?",
+   "tier": 1
+  },
+  {
+   "id": "petition-n",
+   "q": "This 8-letter noun means a formal message requesting something that is submitted to an authority.",
+   "a": "What is petition?",
+   "tier": 1
+  },
+  {
+   "id": "fifty-a",
+   "q": "This 5-letter adjective means being ten more than forty.",
+   "a": "What is fifty?",
+   "tier": 1
+  },
+  {
+   "id": "fool-n",
+   "q": "This 4-letter noun refers to a person who lacks good judgment.",
+   "a": "What is fool?",
+   "tier": 1
+  },
+  {
+   "id": "execution-n",
+   "q": "This 9-letter noun means putting a condemned person to death.",
+   "a": "What is execution?",
+   "tier": 1
+  },
+  {
+   "id": "framework-n",
+   "q": "This 9-letter noun refers to a hypothetical description of a complex entity or process.",
+   "a": "What is framework?",
+   "tier": 1
+  },
+  {
+   "id": "celebration-n",
+   "q": "This 11-letter noun refers to a joyful occasion for special festivities to mark some happy event.",
+   "a": "What is celebration?",
+   "tier": 1
+  },
+  {
+   "id": "specialist-n",
+   "q": "This noun refers to an expert who is devoted to one occupation or branch of learning.",
+   "a": "What is specialist?",
+   "tier": 1
+  },
+  {
+   "id": "bass-n",
+   "q": "This word names the lowest part of the musical range.",
+   "a": "What is bass?",
+   "tier": 1
+  },
+  {
+   "id": "revenge-n",
+   "q": "This 7-letter noun refers to action taken in return for an injury or offense.",
+   "a": "What is revenge?",
+   "tier": 1
+  },
+  {
+   "id": "concentration-n",
+   "q": "This noun refers to the strength of a solution; number of molecules of a substance in a given volume.",
+   "a": "What is concentration?",
+   "tier": 1
+  },
+  {
+   "id": "utility-n",
+   "q": "This word names a company that performs a public service; subject to government regulation.",
+   "a": "What is utility?",
+   "tier": 1
+  },
+  {
+   "id": "chaos-n",
+   "q": "This 5-letter word names a state of extreme confusion and disorder.",
+   "a": "What is chaos?",
+   "tier": 1
+  },
+  {
+   "id": "tune-n",
+   "q": "This 4-letter word names a succession of notes forming a distinctive sequence.",
+   "a": "What is tune?",
+   "tier": 1
+  },
+  {
+   "id": "encounter-v",
+   "q": "This 9-letter verb means to come together.",
+   "a": "What is encounter?",
+   "tier": 1
+  },
+  {
+   "id": "convince-v",
+   "q": "This 8-letter verb means to make agree, understand, or realize the truth or validity of something.",
+   "a": "What is convince?",
+   "tier": 1
+  },
+  {
+   "id": "spectrum-n",
+   "q": "This word names an ordered array of the components of an emission or wave.",
+   "a": "What is spectrum?",
+   "tier": 1
+  },
+  {
+   "id": "autumn-n",
+   "q": "This 6-letter noun refers to the season when the leaves fall from the trees.",
+   "a": "What is autumn?",
+   "tier": 1
+  },
+  {
+   "id": "controversy-n",
+   "q": "This 11-letter word names a contentious speech act; a dispute where there is strong disagreement.",
+   "a": "What is controversy?",
+   "tier": 1
+  },
+  {
+   "id": "offense-n",
+   "q": "This 7-letter noun means a lack of politeness; a failure to show regard for others; wounding the feelings or others.",
+   "a": "What is offense?",
+   "tier": 1
+  },
+  {
+   "id": "panic-n",
+   "q": "This 5-letter noun means an overwhelming feeling of fear and anxiety.",
+   "a": "What is panic?",
+   "tier": 1
+  },
+  {
+   "id": "rude-a",
+   "q": "This 4-letter word means socially incorrect in behavior.",
+   "a": "What is rude?",
+   "tier": 1
+  },
+  {
+   "id": "tribute-n",
+   "q": "This 7-letter noun refers to something given or done as an expression of esteem.",
+   "a": "What is tribute?",
+   "tier": 1
+  },
+  {
+   "id": "inspector-n",
+   "q": "This noun means a high ranking police officer.",
+   "a": "What is inspector?",
+   "tier": 1
+  },
+  {
+   "id": "upgrade-v",
+   "q": "To do this means to rate higher; raise in value or esteem.",
+   "a": "What is upgrade?",
+   "tier": 1
+  },
+  {
+   "id": "mama-n",
+   "q": "This 4-letter noun means informal terms for a mother.",
+   "a": "What is mama?",
+   "tier": 1
+  },
+  {
+   "id": "asset-n",
+   "q": "This 5-letter noun refers to a useful or valuable quality.",
+   "a": "What is asset?",
+   "tier": 1
+  },
+  {
+   "id": "essay-n",
+   "q": "This noun means an analytic or interpretive literary composition.",
+   "a": "What is essay?",
+   "tier": 1
+  },
+  {
+   "id": "expense-n",
+   "q": "This 7-letter noun refers to amounts paid for goods and services that may be currently tax deductible.",
+   "a": "What is expense?",
+   "tier": 1
+  },
+  {
+   "id": "outfit-n",
+   "q": "This noun refers to any cohesive unit such as a military company.",
+   "a": "What is outfit?",
+   "tier": 1
+  },
+  {
+   "id": "interpretation-n",
+   "q": "This 14-letter noun refers to a mental representation of the meaning or significance of something.",
+   "a": "What is interpretation?",
+   "tier": 1
+  },
+  {
+   "id": "highlight-v",
+   "q": "This 9-letter verb means to move into the foreground to make more visible or prominent.",
+   "a": "What is highlight?",
+   "tier": 1
+  },
+  {
+   "id": "transformation-n",
+   "q": "This 14-letter noun means a qualitative change.",
+   "a": "What is transformation?",
+   "tier": 1
+  },
+  {
+   "id": "slavery-n",
+   "q": "This 7-letter word names the state of being under the control of another person.",
+   "a": "What is slavery?",
+   "tier": 1
+  },
+  {
+   "id": "forty-a",
+   "q": "This 5-letter adjective means being ten more than thirty.",
+   "a": "What is forty?",
+   "tier": 1
+  },
+  {
+   "id": "occupation-n",
+   "q": "This 10-letter noun means the principal activity in your life that you do to earn money.",
+   "a": "What is occupation?",
+   "tier": 1
+  },
+  {
+   "id": "diagnosis-n",
+   "q": "This 9-letter noun means identifying the nature or cause of some phenomenon.",
+   "a": "What is diagnosis?",
+   "tier": 1
+  },
+  {
+   "id": "adopt-v",
+   "q": "This 5-letter word means to choose and follow; as of theories, ideas, policies, strategies or plans.",
+   "a": "What is adopt?",
+   "tier": 1
+  },
+  {
+   "id": "qualify-v",
+   "q": "This word means to prove capable or fit; meet requirements.",
+   "a": "What is qualify?",
+   "tier": 1
+  },
+  {
+   "id": "earl-n",
+   "q": "This noun refers to a British peer ranking below a marquess and above a viscount.",
+   "a": "What is earl?",
+   "tier": 1
+  },
+  {
+   "id": "physician-n",
+   "q": "This 9-letter word names a licensed medical practitioner.",
+   "a": "What is physician?",
+   "tier": 1
+  },
+  {
+   "id": "patent-n",
+   "q": "This word names a document granting an inventor sole rights to an invention.",
+   "a": "What is patent?",
+   "tier": 1
+  },
+  {
+   "id": "lease-v",
+   "q": "This 5-letter verb means to let for money.",
+   "a": "What is lease?",
+   "tier": 1
+  },
+  {
+   "id": "scandal-n",
+   "q": "This 7-letter noun refers to disgraceful gossip about the private lives of other people.",
+   "a": "What is scandal?",
+   "tier": 1
+  },
+  {
+   "id": "reflection-n",
+   "q": "This 10-letter noun refers to a calm, lengthy, intent consideration.",
+   "a": "What is reflection?",
+   "tier": 1
+  },
+  {
+   "id": "inter-v",
+   "q": "This 5-letter verb means to place in a grave or tomb.",
+   "a": "What is inter?",
+   "tier": 1
+  },
+  {
+   "id": "sheriff-n",
+   "q": "This word names the principal law-enforcement officer in a county.",
+   "a": "What is sheriff?",
+   "tier": 1
+  },
+  {
+   "id": "politician-n",
+   "q": "This word names a leader engaged in civil administration.",
+   "a": "What is politician?",
+   "tier": 1
+  },
+  {
+   "id": "warrior-n",
+   "q": "This noun refers to someone engaged in or experienced in warfare.",
+   "a": "What is warrior?",
+   "tier": 1
+  },
+  {
+   "id": "legislature-n",
+   "q": "This 11-letter word names persons who make or amend or repeal laws.",
+   "a": "What is legislature?",
+   "tier": 1
+  },
+  {
+   "id": "podcast-v",
+   "q": "This word means to distribute over the internet for playback on a mobile device or a personal computer.",
+   "a": "What is podcast?",
+   "tier": 1
+  },
+  {
+   "id": "welsh-v",
+   "q": "This 5-letter verb means to cheat by avoiding payment of a gambling debt.",
+   "a": "What is welsh?",
+   "tier": 1
+  },
+  {
+   "id": "violation-n",
+   "q": "This 9-letter noun means a crime less serious than a felony.",
+   "a": "What is violation?",
+   "tier": 1
+  },
+  {
+   "id": "fifteen-a",
+   "q": "This 7-letter adjective means being one more than fourteen.",
+   "a": "What is fifteen?",
+   "tier": 1
+  },
+  {
+   "id": "scream-v",
+   "q": "This 6-letter verb means to utter a sudden loud cry.",
+   "a": "What is scream?",
+   "tier": 1
+  },
+  {
+   "id": "hurry-v",
+   "q": "This 5-letter verb means to move very fast.",
+   "a": "What is hurry?",
+   "tier": 1
+  },
+  {
+   "id": "migration-n",
+   "q": "This word names the movement of persons from one country or locality to another.",
+   "a": "What is migration?",
+   "tier": 1
+  },
+  {
+   "id": "inventory-n",
+   "q": "This noun refers to a detailed list of all the items in stock.",
+   "a": "What is inventory?",
+   "tier": 1
+  },
+  {
+   "id": "tragedy-n",
+   "q": "This 7-letter noun means an event resulting in great loss and misfortune.",
+   "a": "What is tragedy?",
+   "tier": 1
+  },
+  {
+   "id": "keen-a",
+   "q": "This 4-letter adjective means having or demonstrating ability to recognize or draw fine distinctions.",
+   "a": "What is keen?",
+   "tier": 1
+  },
+  {
+   "id": "rookie-n",
+   "q": "This 6-letter word names an awkward and inexperienced youth.",
+   "a": "What is rookie?",
+   "tier": 1
+  },
+  {
+   "id": "consultant-n",
+   "q": "This 10-letter noun refers to an expert who gives advice.",
+   "a": "What is consultant?",
+   "tier": 1
+  },
+  {
+   "id": "arrow-n",
+   "q": "This 5-letter word names a mark to indicate a direction or relation.",
+   "a": "What is arrow?",
+   "tier": 1
+  },
+  {
+   "id": "guilt-n",
+   "q": "This word names the state of having committed an offense.",
+   "a": "What is guilt?",
+   "tier": 1
+  },
+  {
+   "id": "eleven-a",
+   "q": "This 6-letter adjective means being one more than ten.",
+   "a": "What is eleven?",
+   "tier": 1
+  },
+  {
+   "id": "appreciation-n",
+   "q": "This 12-letter word names understanding of the nature or meaning or quality or magnitude of something.",
+   "a": "What is appreciation?",
+   "tier": 1
+  },
+  {
+   "id": "charm-n",
+   "q": "This 5-letter noun refers to attractiveness that interests or pleases or stimulates.",
+   "a": "What is charm?",
+   "tier": 1
+  },
+  {
+   "id": "colony-n",
+   "q": "This 6-letter noun refers to a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government.",
+   "a": "What is colony?",
+   "tier": 1
+  },
+  {
+   "id": "curriculum-n",
+   "q": "This 10-letter noun means an integrated course of academic studies.",
+   "a": "What is curriculum?",
+   "tier": 1
+  },
+  {
+   "id": "neighbor-n",
+   "q": "This 8-letter word names a person who lives near another.",
+   "a": "What is neighbor?",
+   "tier": 1
+  },
+  {
+   "id": "grandma-n",
+   "q": "This 7-letter noun refers to the mother of your father or mother.",
+   "a": "What is grandma?",
+   "tier": 1
+  },
+  {
+   "id": "babe-n",
+   "q": "This 4-letter noun refers to a very young child who has not yet begun to walk or talk.",
+   "a": "What is babe?",
+   "tier": 1
+  },
+  {
+   "id": "noon-n",
+   "q": "This 4-letter word names the middle of the day.",
+   "a": "What is noon?",
+   "tier": 1
+  },
+  {
+   "id": "editorial-n",
+   "q": "This 9-letter noun refers to an article giving opinions or perspectives.",
+   "a": "What is editorial?",
+   "tier": 1
+  },
+  {
+   "id": "declaration-n",
+   "q": "This word names a statement that is emphatic and explicit.",
+   "a": "What is declaration?",
+   "tier": 1
+  },
+  {
+   "id": "passionate-a",
+   "q": "This adjective means having or expressing strong emotions.",
+   "a": "What is passionate?",
+   "tier": 1
+  },
+  {
+   "id": "forecast-v",
+   "q": "This 8-letter word means to predict in advance.",
+   "a": "What is forecast?",
+   "tier": 1
+  },
+  {
+   "id": "darling-n",
+   "q": "This 7-letter word names a special loved one.",
+   "a": "What is darling?",
+   "tier": 1
+  },
+  {
+   "id": "vacuum-n",
+   "q": "This noun refers to the absence of matter.",
+   "a": "What is vacuum?",
+   "tier": 1
+  },
+  {
+   "id": "roster-n",
+   "q": "This 6-letter word names a list of names.",
+   "a": "What is roster?",
+   "tier": 1
+  },
+  {
+   "id": "servant-n",
+   "q": "This 7-letter noun refers to a person working in the service of another.",
+   "a": "What is servant?",
+   "tier": 1
+  },
+  {
+   "id": "torn-a",
+   "q": "This 4-letter word means having edges that are jagged from injury.",
+   "a": "What is torn?",
+   "tier": 1
+  },
+  {
+   "id": "micro-a",
+   "q": "This adjective means extremely small in scale or scope or capability.",
+   "a": "What is micro?",
+   "tier": 1
+  },
+  {
+   "id": "diameter-n",
+   "q": "This word names the length of a straight line passing through the center of a circle and connecting two points on the circumference.",
+   "a": "What is diameter?",
+   "tier": 1
+  },
+  {
+   "id": "widow-n",
+   "q": "This noun means a woman whose husband is dead especially one who has not remarried.",
+   "a": "What is widow?",
+   "tier": 1
+  },
+  {
+   "id": "myth-n",
+   "q": "This noun refers to a traditional story accepted as history; serves to explain the world view of a people.",
+   "a": "What is myth?",
+   "tier": 1
+  },
+  {
+   "id": "scare-v",
+   "q": "This 5-letter verb means to cause fear in.",
+   "a": "What is scare?",
+   "tier": 1
+  },
+  {
+   "id": "graduation-n",
+   "q": "This word names the successful completion of a program of study.",
+   "a": "What is graduation?",
+   "tier": 1
+  },
+  {
+   "id": "assure-v",
+   "q": "This 6-letter verb means to make certain of.",
+   "a": "What is assure?",
+   "tier": 1
+  },
+  {
+   "id": "demon-n",
+   "q": "This 5-letter noun means an evil supernatural being.",
+   "a": "What is demon?",
+   "tier": 1
+  },
+  {
+   "id": "cheer-n",
+   "q": "This noun means a cry or shout of approval.",
+   "a": "What is cheer?",
+   "tier": 1
+  },
+  {
+   "id": "accomplish-v",
+   "q": "This 10-letter word means to put in effect.",
+   "a": "What is accomplish?",
+   "tier": 1
+  },
+  {
+   "id": "withdraw-v",
+   "q": "This 8-letter word means to pull back or move away or backward.",
+   "a": "What is withdraw?",
+   "tier": 1
+  },
+  {
+   "id": "tide-n",
+   "q": "This noun refers to the periodic rise and fall of the sea level under the gravitational pull of the moon.",
+   "a": "What is tide?",
+   "tier": 1
+  },
+  {
+   "id": "comeback-n",
+   "q": "This 8-letter word names a quick reply to a question or remark.",
+   "a": "What is comeback?",
+   "tier": 1
+  },
+  {
+   "id": "mobility-n",
+   "q": "This noun means the quality of moving freely.",
+   "a": "What is mobility?",
+   "tier": 1
+  },
+  {
+   "id": "cope-v",
+   "q": "This 4-letter verb means to come to terms with.",
+   "a": "What is cope?",
+   "tier": 1
+  },
+  {
+   "id": "audit-n",
+   "q": "This noun means an inspection of the accounting procedures and records by a trained accountant or CPA.",
+   "a": "What is audit?",
+   "tier": 1
+  },
+  {
+   "id": "finale-n",
+   "q": "This 6-letter noun means the closing section of a musical composition.",
+   "a": "What is finale?",
+   "tier": 1
+  },
+  {
+   "id": "ignorance-n",
+   "q": "This noun means the lack of knowledge or education.",
+   "a": "What is ignorance?",
+   "tier": 1
+  },
+  {
+   "id": "immigrant-n",
+   "q": "This noun means a person who comes to a country where they were not born in order to settle there.",
+   "a": "What is immigrant?",
+   "tier": 1
+  },
+  {
+   "id": "cease-v",
+   "q": "This 5-letter verb means to put an end to a state or an activity.",
+   "a": "What is cease?",
+   "tier": 1
+  },
+  {
+   "id": "gauge-v",
+   "q": "This 5-letter verb means to judge tentatively or form an estimate of.",
+   "a": "What is gauge?",
+   "tier": 1
+  },
+  {
+   "id": "ideology-n",
+   "q": "This word names an orientation that characterizes the thinking of a group or nation.",
+   "a": "What is ideology?",
+   "tier": 1
+  },
+  {
+   "id": "probability-n",
+   "q": "This 11-letter noun refers to a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible.",
+   "a": "What is probability?",
+   "tier": 1
+  },
+  {
+   "id": "isolation-n",
+   "q": "This word names a state of separation between persons or groups.",
+   "a": "What is isolation?",
+   "tier": 1
+  },
+  {
+   "id": "workout-n",
+   "q": "This 7-letter noun means the activity of exerting your muscles in various ways to keep fit.",
+   "a": "What is workout?",
+   "tier": 1
+  },
+  {
+   "id": "fusion-n",
+   "q": "This 6-letter word names an occurrence that involves the production of a union.",
+   "a": "What is fusion?",
+   "tier": 1
+  },
+  {
+   "id": "width-n",
+   "q": "This 5-letter noun means the extent of something from side to side.",
+   "a": "What is width?",
+   "tier": 1
+  },
+  {
+   "id": "axis-n",
+   "q": "This word names a straight line through a body or figure that satisfies certain conditions.",
+   "a": "What is axis?",
+   "tier": 1
+  },
+  {
+   "id": "liar-n",
+   "q": "This word names a person who has lied or who lies repeatedly.",
+   "a": "What is liar?",
+   "tier": 1
+  },
+  {
+   "id": "nephew-n",
+   "q": "This noun means a son of your brother or sister.",
+   "a": "What is nephew?",
+   "tier": 1
+  },
+  {
+   "id": "donation-n",
+   "q": "This 8-letter noun means a voluntary gift made to some worthwhile cause.",
+   "a": "What is donation?",
+   "tier": 1
+  },
+  {
+   "id": "deaf-a",
+   "q": "This adjective means lacking or deprived of the sense of hearing wholly or in part.",
+   "a": "What is deaf?",
+   "tier": 2
+  },
+  {
+   "id": "probe-v",
+   "q": "This 5-letter verb means to question or examine thoroughly and closely.",
+   "a": "What is probe?",
+   "tier": 2
+  },
+  {
+   "id": "upload-v",
+   "q": "This word means to transfer a file or program to a central computer from a smaller computer or a computer at a remote location.",
+   "a": "What is upload?",
+   "tier": 2
+  },
+  {
+   "id": "injection-n",
+   "q": "This noun refers to the forceful insertion of a substance under pressure.",
+   "a": "What is injection?",
+   "tier": 2
+  },
+  {
+   "id": "absent-a",
+   "q": "This adjective means not being in a specified place.",
+   "a": "What is absent?",
+   "tier": 2
+  },
+  {
+   "id": "adapt-v",
+   "q": "This 5-letter verb means to make fit for, or change to suit a new purpose.",
+   "a": "What is adapt?",
+   "tier": 2
+  },
+  {
+   "id": "refugee-n",
+   "q": "This word names an exile who flees for safety.",
+   "a": "What is refugee?",
+   "tier": 2
+  },
+  {
+   "id": "doctrine-n",
+   "q": "This 8-letter noun means a belief accepted as authoritative by some group or school.",
+   "a": "What is doctrine?",
+   "tier": 2
+  },
+  {
+   "id": "amber-a",
+   "q": "This 5-letter adjective means of a medium to dark brownish yellow color.",
+   "a": "What is amber?",
+   "tier": 2
+  },
+  {
+   "id": "scout-v",
+   "q": "This word means to explore, often with the goal of finding something or somebody.",
+   "a": "What is scout?",
+   "tier": 2
+  },
+  {
+   "id": "caution-v",
+   "q": "This word means to warn strongly; put on guard.",
+   "a": "What is caution?",
+   "tier": 2
+  },
+  {
+   "id": "incentive-n",
+   "q": "This 9-letter noun means a positive motivational influence.",
+   "a": "What is incentive?",
+   "tier": 2
+  },
+  {
+   "id": "superintendent-n",
+   "q": "This 14-letter noun refers to a person who directs and manages an organization.",
+   "a": "What is superintendent?",
+   "tier": 2
+  },
+  {
+   "id": "frustration-n",
+   "q": "This 11-letter noun means the feeling that accompanies an experience of being thwarted in attaining your goals.",
+   "a": "What is frustration?",
+   "tier": 2
+  },
+  {
+   "id": "bachelor-n",
+   "q": "This noun refers to a man who has never been married.",
+   "a": "What is bachelor?",
+   "tier": 2
+  },
+  {
+   "id": "suspicion-n",
+   "q": "This 9-letter noun refers to an impression that something might be the case.",
+   "a": "What is suspicion?",
+   "tier": 2
+  },
+  {
+   "id": "curiosity-n",
+   "q": "This 9-letter word names a state in which you want to learn more about something.",
+   "a": "What is curiosity?",
+   "tier": 2
+  },
+  {
+   "id": "clash-n",
+   "q": "This 5-letter word names a loud resonant repeating noise.",
+   "a": "What is clash?",
+   "tier": 2
+  },
+  {
+   "id": "polar-a",
+   "q": "This adjective means having a pair of equal and opposite charges.",
+   "a": "What is polar?",
+   "tier": 2
+  },
+  {
+   "id": "integral-a",
+   "q": "This 8-letter word means existing as an essential constituent or characteristic.",
+   "a": "What is integral?",
+   "tier": 2
+  },
+  {
+   "id": "wreck-v",
+   "q": "To do this means to smash or break forcefully.",
+   "a": "What is wreck?",
+   "tier": 2
+  },
+  {
+   "id": "enforce-v",
+   "q": "This 7-letter word means to ensure observance of laws and rules.",
+   "a": "What is enforce?",
+   "tier": 2
+  },
+  {
+   "id": "puzzle-v",
+   "q": "This 6-letter verb means to be a mystery or bewildering to.",
+   "a": "What is puzzle?",
+   "tier": 2
+  },
+  {
+   "id": "comedian-n",
+   "q": "This 8-letter word names a professional performer who tells jokes and performs comical acts.",
+   "a": "What is comedian?",
+   "tier": 2
+  },
+  {
+   "id": "scholar-n",
+   "q": "This 7-letter noun refers to a learned person; someone who by long study has gained mastery in one or more disciplines.",
+   "a": "What is scholar?",
+   "tier": 2
+  },
+  {
+   "id": "conscience-n",
+   "q": "This 10-letter word names motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.",
+   "a": "What is conscience?",
+   "tier": 2
+  },
+  {
+   "id": "circulation-n",
+   "q": "This noun means the dissemination of copies of periodicals.",
+   "a": "What is circulation?",
+   "tier": 2
+  },
+  {
+   "id": "spike-n",
+   "q": "This noun refers to a transient variation in voltage or current.",
+   "a": "What is spike?",
+   "tier": 2
+  },
+  {
+   "id": "sixteen-a",
+   "q": "This 7-letter adjective means being one more than fifteen.",
+   "a": "What is sixteen?",
+   "tier": 2
+  },
+  {
+   "id": "critic-n",
+   "q": "This noun means a person who is professionally engaged in the analysis and interpretation of works of art.",
+   "a": "What is critic?",
+   "tier": 2
+  },
+  {
+   "id": "compassion-n",
+   "q": "This noun refers to a deep awareness of and sympathy for another's suffering.",
+   "a": "What is compassion?",
+   "tier": 2
+  },
+  {
+   "id": "messenger-n",
+   "q": "This 9-letter noun means a person who carries a message.",
+   "a": "What is messenger?",
+   "tier": 2
+  },
+  {
+   "id": "tense-n",
+   "q": "This noun refers to a grammatical category of verbs used to express distinctions of time.",
+   "a": "What is tense?",
+   "tier": 2
+  },
+  {
+   "id": "ballet-n",
+   "q": "This noun refers to a theatrical representation of a story that is performed to music by trained dancers.",
+   "a": "What is ballet?",
+   "tier": 2
+  },
+  {
+   "id": "float-v",
+   "q": "This 5-letter verb means to be in motion due to some air or water current.",
+   "a": "What is float?",
+   "tier": 2
+  },
+  {
+   "id": "illusion-n",
+   "q": "This 8-letter noun refers to an erroneous mental representation.",
+   "a": "What is illusion?",
+   "tier": 2
+  },
+  {
+   "id": "fare-n",
+   "q": "This 4-letter noun means an agenda of things to do.",
+   "a": "What is fare?",
+   "tier": 2
+  },
+  {
+   "id": "hobby-n",
+   "q": "This 5-letter noun refers to an auxiliary activity.",
+   "a": "What is hobby?",
+   "tier": 2
+  },
+  {
+   "id": "sixty-a",
+   "q": "This 5-letter adjective means being ten more than fifty.",
+   "a": "What is sixty?",
+   "tier": 2
+  },
+  {
+   "id": "prone-a",
+   "q": "This 5-letter word means lying face downward.",
+   "a": "What is prone?",
+   "tier": 2
+  },
+  {
+   "id": "tenure-n",
+   "q": "This noun means the term during which some position is held.",
+   "a": "What is tenure?",
+   "tier": 2
+  },
+  {
+   "id": "regiment-n",
+   "q": "This word names army unit smaller than a division.",
+   "a": "What is regiment?",
+   "tier": 2
+  },
+  {
+   "id": "indicator-n",
+   "q": "This 9-letter noun means a number or ratio derived from a series of observed facts; can reveal relative changes as a function of time.",
+   "a": "What is indicator?",
+   "tier": 2
+  },
+  {
+   "id": "donor-n",
+   "q": "This 5-letter noun means person who makes a gift of property.",
+   "a": "What is donor?",
+   "tier": 2
+  },
+  {
+   "id": "optional-a",
+   "q": "This adjective means possible but not necessary; left to personal choice.",
+   "a": "What is optional?",
+   "tier": 2
+  },
+  {
+   "id": "immunity-n",
+   "q": "This noun means the state of not being susceptible.",
+   "a": "What is immunity?",
+   "tier": 2
+  },
+  {
+   "id": "catalogue-n",
+   "q": "This 9-letter noun refers to a complete list of things.",
+   "a": "What is catalogue?",
+   "tier": 2
+  },
+  {
+   "id": "shortage-n",
+   "q": "This 8-letter word names the property of being an amount by which something is less than expected or required.",
+   "a": "What is shortage?",
+   "tier": 2
+  },
+  {
+   "id": "likelihood-n",
+   "q": "This word names the probability of a specified outcome.",
+   "a": "What is likelihood?",
+   "tier": 2
+  },
+  {
+   "id": "shuttle-v",
+   "q": "This word means to travel back and forth between two points.",
+   "a": "What is shuttle?",
+   "tier": 2
+  },
+  {
+   "id": "hospitality-n",
+   "q": "This noun refers to kindness in welcoming guests or strangers.",
+   "a": "What is hospitality?",
+   "tier": 2
+  },
+  {
+   "id": "discretion-n",
+   "q": "This noun refers to freedom to act or judge on one's own.",
+   "a": "What is discretion?",
+   "tier": 2
+  },
+  {
+   "id": "progression-n",
+   "q": "This word names a series with a definite pattern of advance.",
+   "a": "What is progression?",
+   "tier": 2
+  },
+  {
+   "id": "biography-n",
+   "q": "This 9-letter noun means an account of the series of events making up a person's life.",
+   "a": "What is biography?",
+   "tier": 2
+  },
+  {
+   "id": "trademark-n",
+   "q": "This 9-letter noun means a distinctive characteristic or attribute.",
+   "a": "What is trademark?",
+   "tier": 2
+  },
+  {
+   "id": "voyage-n",
+   "q": "This word names an act of traveling by water.",
+   "a": "What is voyage?",
+   "tier": 2
+  },
+  {
+   "id": "farewell-n",
+   "q": "This word names an acknowledgment or expression of goodwill at parting.",
+   "a": "What is farewell?",
+   "tier": 2
+  },
+  {
+   "id": "landlord-n",
+   "q": "This noun refers to a landowner who leases to others.",
+   "a": "What is landlord?",
+   "tier": 2
+  },
+  {
+   "id": "heir-n",
+   "q": "This noun means a person who is entitled by law or by the terms of a will to inherit the estate of another.",
+   "a": "What is heir?",
+   "tier": 2
+  },
+  {
+   "id": "fourteen-a",
+   "q": "This 8-letter adjective means being one more than thirteen.",
+   "a": "What is fourteen?",
+   "tier": 2
+  },
+  {
+   "id": "tribunal-n",
+   "q": "This 8-letter noun refers to an assembly to conduct judicial business.",
+   "a": "What is tribunal?",
+   "tier": 2
+  },
+  {
+   "id": "villain-n",
+   "q": "This 7-letter noun refers to a wicked or evil person; someone who does evil deliberately.",
+   "a": "What is villain?",
+   "tier": 2
+  },
+  {
+   "id": "confession-n",
+   "q": "This noun refers to an admission of misdeeds or faults.",
+   "a": "What is confession?",
+   "tier": 2
+  },
+  {
+   "id": "seventeen-a",
+   "q": "This 9-letter adjective means being one more than sixteen.",
+   "a": "What is seventeen?",
+   "tier": 2
+  },
+  {
+   "id": "repeal-v",
+   "q": "This 6-letter verb means to cancel officially.",
+   "a": "What is repeal?",
+   "tier": 2
+  },
+  {
+   "id": "hypothesis-n",
+   "q": "This noun means a proposal intended to explain certain facts or observations.",
+   "a": "What is hypothesis?",
+   "tier": 2
+  },
+  {
+   "id": "marshal-n",
+   "q": "This 7-letter noun means a law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law.",
+   "a": "What is marshal?",
+   "tier": 2
+  },
+  {
+   "id": "prompt-v",
+   "q": "This 6-letter verb means to give an incentive for action.",
+   "a": "What is prompt?",
+   "tier": 2
+  },
+  {
+   "id": "maid-n",
+   "q": "This 4-letter noun refers to a female domestic.",
+   "a": "What is maid?",
+   "tier": 2
+  },
+  {
+   "id": "levy-v",
+   "q": "This 4-letter verb means to impose and collect.",
+   "a": "What is levy?",
+   "tier": 2
+  },
+  {
+   "id": "correspondence-n",
+   "q": "This noun means communication by the exchange of letters.",
+   "a": "What is correspondence?",
+   "tier": 2
+  },
+  {
+   "id": "treason-n",
+   "q": "This noun refers to a crime that undermines the offender's government.",
+   "a": "What is treason?",
+   "tier": 2
+  },
+  {
+   "id": "advertisement-n",
+   "q": "This 13-letter word names a public promotion of some product or service.",
+   "a": "What is advertisement?",
+   "tier": 2
+  },
+  {
+   "id": "zoom-v",
+   "q": "To do this means to move along very quickly.",
+   "a": "What is zoom?",
+   "tier": 2
+  },
+  {
+   "id": "applause-n",
+   "q": "This 8-letter noun means a demonstration of approval by clapping the hands together.",
+   "a": "What is applause?",
+   "tier": 2
+  },
+  {
+   "id": "missionary-n",
+   "q": "This noun means someone who attempts to convert others to a particular doctrine or program.",
+   "a": "What is missionary?",
+   "tier": 2
+  },
+  {
+   "id": "coordinate-v",
+   "q": "This 10-letter verb means to bring order and organization to.",
+   "a": "What is coordinate?",
+   "tier": 2
+  },
+  {
+   "id": "maiden-n",
+   "q": "This 6-letter noun means an unmarried girl.",
+   "a": "What is maiden?",
+   "tier": 2
+  },
+  {
+   "id": "quiz-n",
+   "q": "This noun refers to an examination consisting of a few short questions.",
+   "a": "What is quiz?",
+   "tier": 2
+  },
+  {
+   "id": "citation-n",
+   "q": "This 8-letter word names an official award usually given as formal public statement.",
+   "a": "What is citation?",
+   "tier": 2
+  },
+  {
+   "id": "inferior-a",
+   "q": "This adjective means of or characteristic of low rank or importance.",
+   "a": "What is inferior?",
+   "tier": 2
+  },
+  {
+   "id": "eighteen-a",
+   "q": "This 8-letter adjective means being one more than seventeen.",
+   "a": "What is eighteen?",
+   "tier": 2
+  },
+  {
+   "id": "spoil-v",
+   "q": "This 5-letter verb means to make a mess of, destroy or ruin.",
+   "a": "What is spoil?",
+   "tier": 2
+  },
+  {
+   "id": "flee-v",
+   "q": "This 4-letter verb means to run away quickly.",
+   "a": "What is flee?",
+   "tier": 2
+  },
+  {
+   "id": "boycott-v",
+   "q": "This verb means to refuse to sponsor; refuse to do business with.",
+   "a": "What is boycott?",
+   "tier": 2
+  },
+  {
+   "id": "accord-v",
+   "q": "This 6-letter verb means to go together.",
+   "a": "What is accord?",
+   "tier": 2
+  },
+  {
+   "id": "doom-v",
+   "q": "This 4-letter verb means to decree or designate beforehand.",
+   "a": "What is doom?",
+   "tier": 2
+  },
+  {
+   "id": "enjoyment-n",
+   "q": "This word names the pleasure felt when having a good time.",
+   "a": "What is enjoyment?",
+   "tier": 2
+  },
+  {
+   "id": "pupil-n",
+   "q": "This 5-letter word names a learner who is enrolled in an educational institution.",
+   "a": "What is pupil?",
+   "tier": 2
+  },
+  {
+   "id": "competitor-n",
+   "q": "This 10-letter noun means the contestant you hope to defeat.",
+   "a": "What is competitor?",
+   "tier": 2
+  },
+  {
+   "id": "battalion-n",
+   "q": "This noun refers to an army unit usually consisting of a headquarters and three or more companies.",
+   "a": "What is battalion?",
+   "tier": 2
+  },
+  {
+   "id": "peel-v",
+   "q": "This 4-letter verb means to strip the skin off.",
+   "a": "What is peel?",
+   "tier": 2
+  },
+  {
+   "id": "homicide-n",
+   "q": "This word names the killing of a human being by another human being.",
+   "a": "What is homicide?",
+   "tier": 2
+  },
+  {
+   "id": "inheritance-n",
+   "q": "This 11-letter noun refers to hereditary succession to a title or an office or property.",
+   "a": "What is inheritance?",
+   "tier": 2
+  },
+  {
+   "id": "patriotic-a",
+   "q": "This 9-letter word means inspired by love for your country.",
+   "a": "What is patriotic?",
+   "tier": 2
+  },
+  {
+   "id": "cooperate-v",
+   "q": "This 9-letter word means to work together on a common enterprise of project.",
+   "a": "What is cooperate?",
+   "tier": 2
+  },
+  {
+   "id": "faction-n",
+   "q": "This 7-letter word names a clique that seeks power usually through intrigue.",
+   "a": "What is faction?",
+   "tier": 2
+  },
+  {
+   "id": "vendor-n",
+   "q": "This 6-letter noun means someone who promotes or exchanges goods or services for money.",
+   "a": "What is vendor?",
+   "tier": 2
+  },
+  {
+   "id": "counselor-n",
+   "q": "This 9-letter word names someone who gives advice about problems.",
+   "a": "What is counselor?",
+   "tier": 2
+  },
+  {
+   "id": "prevalent-a",
+   "q": "This 9-letter adjective means most frequent or common.",
+   "a": "What is prevalent?",
+   "tier": 2
+  },
+  {
+   "id": "compensate-v",
+   "q": "This 10-letter verb means to adjust for.",
+   "a": "What is compensate?",
+   "tier": 2
+  },
+  {
+   "id": "continuity-n",
+   "q": "This noun refers to uninterrupted connection or union.",
+   "a": "What is continuity?",
+   "tier": 2
+  },
+  {
+   "id": "registry-n",
+   "q": "This 8-letter word names an official written record of names or events or transactions.",
+   "a": "What is registry?",
+   "tier": 2
+  },
+  {
+   "id": "drainage-n",
+   "q": "This 8-letter word names emptying something accomplished by allowing liquid to run out of it.",
+   "a": "What is drainage?",
+   "tier": 2
+  },
+  {
+   "id": "designation-n",
+   "q": "This 11-letter noun means identifying word or words by which someone or something is called and classified or distinguished from others.",
+   "a": "What is designation?",
+   "tier": 2
+  },
+  {
+   "id": "finite-a",
+   "q": "This word means bounded or limited in magnitude or spatial or temporal extent.",
+   "a": "What is finite?",
+   "tier": 2
+  },
+  {
+   "id": "eighty-a",
+   "q": "This 6-letter adjective means being ten more than seventy.",
+   "a": "What is eighty?",
+   "tier": 2
+  },
+  {
+   "id": "bind-v",
+   "q": "This 4-letter verb means to stick to firmly.",
+   "a": "What is bind?",
+   "tier": 2
+  },
+  {
+   "id": "halo-n",
+   "q": "This 4-letter word names an indication of radiant light drawn around the head of a saint.",
+   "a": "What is halo?",
+   "tier": 2
+  },
+  {
+   "id": "sunk-a",
+   "q": "This 4-letter adjective means doomed to extinction.",
+   "a": "What is sunk?",
+   "tier": 2
+  },
+  {
+   "id": "whisper-v",
+   "q": "To do this means to speak softly; in a low voice.",
+   "a": "What is whisper?",
+   "tier": 2
+  },
+  {
+   "id": "amusement-n",
+   "q": "This word names a feeling of delight at being entertained.",
+   "a": "What is amusement?",
+   "tier": 2
+  },
+  {
+   "id": "vanity-n",
+   "q": "This 6-letter noun means feelings of excessive pride.",
+   "a": "What is vanity?",
+   "tier": 2
+  },
+  {
+   "id": "auxiliary-n",
+   "q": "This 9-letter noun means someone who acts as assistant.",
+   "a": "What is auxiliary?",
+   "tier": 2
+  },
+  {
+   "id": "storyline-n",
+   "q": "This noun refers to the plot of a book or play or film.",
+   "a": "What is storyline?",
+   "tier": 2
+  },
+  {
+   "id": "expenditure-n",
+   "q": "This 11-letter noun refers to money paid out; an amount spent.",
+   "a": "What is expenditure?",
+   "tier": 2
+  },
+  {
+   "id": "eventual-a",
+   "q": "This word means expected to follow in the indefinite future from causes already operating.",
+   "a": "What is eventual?",
+   "tier": 2
+  },
+  {
+   "id": "paramount-a",
+   "q": "This 9-letter word means having superior power and influence.",
+   "a": "What is paramount?",
+   "tier": 2
+  },
+  {
+   "id": "notify-v",
+   "q": "This 6-letter word means to inform of something.",
+   "a": "What is notify?",
+   "tier": 2
+  },
+  {
+   "id": "stoke-v",
+   "q": "This word means to stir up or tend; of a fire.",
+   "a": "What is stoke?",
+   "tier": 2
+  },
+  {
+   "id": "metaphor-n",
+   "q": "This noun means a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity.",
+   "a": "What is metaphor?",
+   "tier": 2
+  },
+  {
+   "id": "rumor-n",
+   "q": "This 5-letter word names gossip passed around by word of mouth.",
+   "a": "What is rumor?",
+   "tier": 2
+  },
+  {
+   "id": "contention-n",
+   "q": "This noun refers to a point asserted as part of an argument.",
+   "a": "What is contention?",
+   "tier": 2
+  },
+  {
+   "id": "feasible-a",
+   "q": "This 8-letter adjective means capable of being done with means at hand and circumstances as they are.",
+   "a": "What is feasible?",
+   "tier": 2
+  },
+  {
+   "id": "almighty-a",
+   "q": "This 8-letter adjective means having unlimited power.",
+   "a": "What is almighty?",
+   "tier": 2
+  },
+  {
+   "id": "auburn-a",
+   "q": "This word, said of hair, means colored a moderate reddish-brown.",
+   "a": "What is auburn?",
+   "tier": 2
+  },
+  {
+   "id": "strive-v",
+   "q": "This 6-letter verb means to attempt by employing effort.",
+   "a": "What is strive?",
+   "tier": 2
+  },
+  {
+   "id": "plantation-n",
+   "q": "This noun means an estate where cash crops are grown on a large scale.",
+   "a": "What is plantation?",
+   "tier": 2
+  },
+  {
+   "id": "prose-n",
+   "q": "This noun refers to ordinary writing as distinguished from verse.",
+   "a": "What is prose?",
+   "tier": 2
+  },
+  {
+   "id": "insanity-n",
+   "q": "This word names relatively permanent disorder of the mind.",
+   "a": "What is insanity?",
+   "tier": 2
+  },
+  {
+   "id": "motto-n",
+   "q": "This 5-letter noun refers to a favorite saying of a sect or political group.",
+   "a": "What is motto?",
+   "tier": 2
+  },
+  {
+   "id": "ninety-a",
+   "q": "This 6-letter adjective means being ten more than eighty.",
+   "a": "What is ninety?",
+   "tier": 2
+  },
+  {
+   "id": "cubic-a",
+   "q": "This 5-letter adjective means having three dimensions.",
+   "a": "What is cubic?",
+   "tier": 2
+  },
+  {
+   "id": "illustrate-v",
+   "q": "This 10-letter verb means to clarify by giving an example of.",
+   "a": "What is illustrate?",
+   "tier": 2
+  },
+  {
+   "id": "friction-n",
+   "q": "This 8-letter noun refers to a state of conflict between persons.",
+   "a": "What is friction?",
+   "tier": 2
+  },
+  {
+   "id": "gaze-v",
+   "q": "This 4-letter word means to look at with fixed eyes.",
+   "a": "What is gaze?",
+   "tier": 2
+  },
+  {
+   "id": "delegate-v",
+   "q": "This word means to transfer power to someone.",
+   "a": "What is delegate?",
+   "tier": 2
+  },
+  {
+   "id": "indictment-n",
+   "q": "This noun means a formal document written for a prosecuting attorney charging a person with some offense.",
+   "a": "What is indictment?",
+   "tier": 2
+  },
+  {
+   "id": "apprentice-n",
+   "q": "This 10-letter noun refers to works for an expert to learn a trade.",
+   "a": "What is apprentice?",
+   "tier": 2
+  },
+  {
+   "id": "midway-a",
+   "q": "This 6-letter word means equally distant from the extremes.",
+   "a": "What is midway?",
+   "tier": 2
+  },
+  {
+   "id": "eldest-a",
+   "q": "This 6-letter word means first in order of birth.",
+   "a": "What is eldest?",
+   "tier": 2
+  },
+  {
+   "id": "retrieve-v",
+   "q": "This 8-letter word means to get or find back; recover the use of.",
+   "a": "What is retrieve?",
+   "tier": 2
+  },
+  {
+   "id": "sophomore-n",
+   "q": "This word names a second-year undergraduate.",
+   "a": "What is sophomore?",
+   "tier": 2
+  },
+  {
+   "id": "traitor-n",
+   "q": "This word names someone who betrays his country by committing treason.",
+   "a": "What is traitor?",
+   "tier": 2
+  },
+  {
+   "id": "exodus-n",
+   "q": "This noun means a journey by a large group to escape from a hostile environment.",
+   "a": "What is exodus?",
+   "tier": 2
+  },
+  {
+   "id": "monarch-n",
+   "q": "This 7-letter word names a nation's ruler or head of state usually by hereditary right.",
+   "a": "What is monarch?",
+   "tier": 2
+  },
+  {
+   "id": "diplomat-n",
+   "q": "This noun means an official engaged in international negotiations.",
+   "a": "What is diplomat?",
+   "tier": 2
+  },
+  {
+   "id": "trait-n",
+   "q": "This noun means a distinguishing feature of your personal nature.",
+   "a": "What is trait?",
+   "tier": 2
+  },
+  {
+   "id": "obese-a",
+   "q": "This 5-letter word means excessively fat.",
+   "a": "What is obese?",
+   "tier": 2
+  },
+  {
+   "id": "navigate-v",
+   "q": "This 8-letter verb means to travel on water propelled by wind or by other means.",
+   "a": "What is navigate?",
+   "tier": 2
+  },
+  {
+   "id": "manifest-v",
+   "q": "This 8-letter word means to provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.",
+   "a": "What is manifest?",
+   "tier": 2
+  },
+  {
+   "id": "chaotic-a",
+   "q": "This word means lacking a visible order or organization.",
+   "a": "What is chaotic?",
+   "tier": 2
+  },
+  {
+   "id": "cite-v",
+   "q": "This 4-letter verb means to make reference to.",
+   "a": "What is cite?",
+   "tier": 2
+  },
+  {
+   "id": "activism-n",
+   "q": "This word names a policy of taking direct and militant action to achieve a political or social goal.",
+   "a": "What is activism?",
+   "tier": 2
+  },
+  {
+   "id": "mist-n",
+   "q": "This word names a thin fog with condensation near the ground.",
+   "a": "What is mist?",
+   "tier": 2
+  },
+  {
+   "id": "bonnie-a",
+   "q": "This 6-letter adjective means very pleasing to the eye.",
+   "a": "What is bonnie?",
+   "tier": 2
+  },
+  {
+   "id": "tilt-v",
+   "q": "This 4-letter verb means to incline or bend from a vertical position.",
+   "a": "What is tilt?",
+   "tier": 2
+  },
+  {
+   "id": "circumstance-n",
+   "q": "This noun means a condition that accompanies or influences some event or activity.",
+   "a": "What is circumstance?",
+   "tier": 2
+  },
+  {
+   "id": "dependence-n",
+   "q": "This 10-letter noun means the state of relying on or being controlled by someone or something else.",
+   "a": "What is dependence?",
+   "tier": 2
+  },
+  {
+   "id": "distributor-n",
+   "q": "This noun refers to someone who markets merchandise.",
+   "a": "What is distributor?",
+   "tier": 2
+  },
+  {
+   "id": "slash-v",
+   "q": "This verb means to cut with sweeping strokes; as with an ax or machete.",
+   "a": "What is slash?",
+   "tier": 2
+  },
+  {
+   "id": "salvage-v",
+   "q": "This 7-letter word means to save from ruin, destruction, or harm.",
+   "a": "What is salvage?",
+   "tier": 2
+  },
+  {
+   "id": "standpoint-n",
+   "q": "This 10-letter noun refers to a mental position from which things are viewed.",
+   "a": "What is standpoint?",
+   "tier": 2
+  },
+  {
+   "id": "posture-n",
+   "q": "This 7-letter noun means the arrangement of the body and its limbs.",
+   "a": "What is posture?",
+   "tier": 2
+  },
+  {
+   "id": "veto-n",
+   "q": "This word names a vote that blocks a decision.",
+   "a": "What is veto?",
+   "tier": 2
+  },
+  {
+   "id": "exemption-n",
+   "q": "This 9-letter noun means immunity from an obligation or duty.",
+   "a": "What is exemption?",
+   "tier": 2
+  },
+  {
+   "id": "query-v",
+   "q": "This 5-letter word means to pose a question.",
+   "a": "What is query?",
+   "tier": 2
+  },
+  {
+   "id": "dread-v",
+   "q": "This 5-letter word means to be afraid or scared of; be frightened of.",
+   "a": "What is dread?",
+   "tier": 2
+  },
+  {
+   "id": "sonny-n",
+   "q": "This 5-letter noun refers to a male child.",
+   "a": "What is sonny?",
+   "tier": 2
+  },
+  {
+   "id": "applicant-n",
+   "q": "This noun refers to a person who requests or seeks something such as assistance or employment or admission.",
+   "a": "What is applicant?",
+   "tier": 2
+  },
+  {
+   "id": "chunk-n",
+   "q": "This 5-letter noun refers to a compact mass.",
+   "a": "What is chunk?",
+   "tier": 2
+  },
+  {
+   "id": "await-v",
+   "q": "This 5-letter verb means to look forward to the probable occurrence of.",
+   "a": "What is await?",
+   "tier": 2
+  },
+  {
+   "id": "endorse-v",
+   "q": "This 7-letter word means to be behind; approve of.",
+   "a": "What is endorse?",
+   "tier": 2
+  },
+  {
+   "id": "astronomy-n",
+   "q": "This noun means the branch of physics that studies celestial bodies and the universe as a whole.",
+   "a": "What is astronomy?",
+   "tier": 2
+  },
+  {
+   "id": "presume-v",
+   "q": "This 7-letter verb means to take to be the case or to be true; accept without verification or proof.",
+   "a": "What is presume?",
+   "tier": 2
+  },
+  {
+   "id": "fuse-v",
+   "q": "This 4-letter verb means to mix together different elements.",
+   "a": "What is fuse?",
+   "tier": 2
+  },
+  {
+   "id": "peasant-n",
+   "q": "This 7-letter word names a country person.",
+   "a": "What is peasant?",
+   "tier": 2
+  },
+  {
+   "id": "nostalgia-n",
+   "q": "This word names longing for something past.",
+   "a": "What is nostalgia?",
+   "tier": 2
+  },
+  {
+   "id": "weary-a",
+   "q": "This adjective means physically and mentally fatigued.",
+   "a": "What is weary?",
+   "tier": 2
+  },
+  {
+   "id": "proliferation-n",
+   "q": "This noun refers to growth by the rapid multiplication of parts.",
+   "a": "What is proliferation?",
+   "tier": 2
+  },
+  {
+   "id": "restless-a",
+   "q": "This 8-letter adjective means worried and uneasy.",
+   "a": "What is restless?",
+   "tier": 2
+  },
+  {
+   "id": "sarcastic-a",
+   "q": "This adjective means expressing or expressive of ridicule that wounds.",
+   "a": "What is sarcastic?",
+   "tier": 2
+  },
+  {
+   "id": "attain-v",
+   "q": "This 6-letter verb means to gain with effort.",
+   "a": "What is attain?",
+   "tier": 2
+  },
+  {
+   "id": "bloc-n",
+   "q": "This 4-letter noun means a group of countries in special alliance.",
+   "a": "What is bloc?",
+   "tier": 2
+  },
+  {
+   "id": "ventilation-n",
+   "q": "This 11-letter noun refers to the act of supplying fresh air and getting rid of foul air.",
+   "a": "What is ventilation?",
+   "tier": 2
+  },
+  {
+   "id": "authenticity-n",
+   "q": "This 12-letter noun means undisputed credibility.",
+   "a": "What is authenticity?",
+   "tier": 2
+  },
+  {
+   "id": "equilibrium-n",
+   "q": "This noun means a stable situation in which forces cancel one another.",
+   "a": "What is equilibrium?",
+   "tier": 2
+  },
+  {
+   "id": "nineteen-a",
+   "q": "This 8-letter adjective means being one more than eighteen.",
+   "a": "What is nineteen?",
+   "tier": 2
+  },
+  {
+   "id": "fluffy-a",
+   "q": "This 6-letter adjective means like down or as soft as down.",
+   "a": "What is fluffy?",
+   "tier": 2
+  },
+  {
+   "id": "duplicate-v",
+   "q": "This 9-letter word means to make or do or perform again.",
+   "a": "What is duplicate?",
+   "tier": 2
+  },
+  {
+   "id": "disrupt-v",
+   "q": "This 7-letter word means to make a break in.",
+   "a": "What is disrupt?",
+   "tier": 2
+  },
+  {
+   "id": "buff-n",
+   "q": "This 4-letter noun means an ardent follower and admirer.",
+   "a": "What is buff?",
+   "tier": 2
+  },
+  {
+   "id": "resemblance-n",
+   "q": "This word names similarity in appearance or external or superficial details.",
+   "a": "What is resemblance?",
+   "tier": 2
+  },
+  {
+   "id": "exposition-n",
+   "q": "This noun refers to a systematic interpretation or explanation of a specific topic.",
+   "a": "What is exposition?",
+   "tier": 2
+  },
+  {
+   "id": "tolerant-a",
+   "q": "This adjective means showing respect for the rights or opinions or practices of others.",
+   "a": "What is tolerant?",
+   "tier": 2
+  },
+  {
+   "id": "dictate-v",
+   "q": "This 7-letter verb means to issue commands or orders for.",
+   "a": "What is dictate?",
+   "tier": 2
+  },
+  {
+   "id": "influx-n",
+   "q": "This 6-letter noun means the process of flowing in.",
+   "a": "What is influx?",
+   "tier": 2
+  },
+  {
+   "id": "tango-n",
+   "q": "This noun refers to a ballroom dance of Latin-American origin.",
+   "a": "What is tango?",
+   "tier": 2
+  },
+  {
+   "id": "cyclist-n",
+   "q": "This 7-letter noun means a person who rides a bicycle.",
+   "a": "What is cyclist?",
+   "tier": 2
+  },
+  {
+   "id": "ambiguous-a",
+   "q": "This word means open to two or more interpretations; or of uncertain nature or significance; or intended to mislead.",
+   "a": "What is ambiguous?",
+   "tier": 2
+  },
+  {
+   "id": "intercept-v",
+   "q": "This 9-letter verb means to seize on its way.",
+   "a": "What is intercept?",
+   "tier": 2
+  },
+  {
+   "id": "nominate-v",
+   "q": "To do this means to propose as a candidate for some honor.",
+   "a": "What is nominate?",
+   "tier": 2
+  },
+  {
+   "id": "hector-v",
+   "q": "This 6-letter word means to be bossy towards.",
+   "a": "What is hector?",
+   "tier": 2
+  },
+  {
+   "id": "combustion-n",
+   "q": "This 10-letter noun means a process in which a substance reacts with oxygen to give heat and light.",
+   "a": "What is combustion?",
+   "tier": 2
+  },
+  {
+   "id": "lucrative-a",
+   "q": "This adjective means producing a sizeable profit.",
+   "a": "What is lucrative?",
+   "tier": 2
+  },
+  {
+   "id": "disturb-v",
+   "q": "This 7-letter verb means to move deeply.",
+   "a": "What is disturb?",
+   "tier": 2
+  },
+  {
+   "id": "glitter-v",
+   "q": "This 7-letter verb means to be shiny, as if wet.",
+   "a": "What is glitter?",
+   "tier": 2
+  },
+  {
+   "id": "hoover-v",
+   "q": "This 6-letter verb means to clean with a vacuum cleaner.",
+   "a": "What is hoover?",
+   "tier": 2
+  },
+  {
+   "id": "detrimental-a",
+   "q": "This 11-letter word means causing harm or injury.",
+   "a": "What is detrimental?",
+   "tier": 2
+  },
+  {
+   "id": "faux-a",
+   "q": "This 4-letter word means not genuine or real; being an imitation of the genuine article.",
+   "a": "What is faux?",
+   "tier": 2
+  },
+  {
+   "id": "summon-v",
+   "q": "This 6-letter verb means to call in an official matter, such as to attend court.",
+   "a": "What is summon?",
+   "tier": 2
+  },
+  {
+   "id": "odyssey-n",
+   "q": "This noun refers to a long wandering and eventful journey.",
+   "a": "What is odyssey?",
+   "tier": 2
+  },
+  {
+   "id": "ambush-n",
+   "q": "This 6-letter word names the act of concealing yourself and lying in wait to attack by surprise.",
+   "a": "What is ambush?",
+   "tier": 2
+  },
+  {
+   "id": "seismic-a",
+   "q": "This adjective means subject to or caused by an earthquake or earth vibration.",
+   "a": "What is seismic?",
+   "tier": 2
+  },
+  {
+   "id": "yummy-a",
+   "q": "This 5-letter adjective means extremely pleasing to the sense of taste.",
+   "a": "What is yummy?",
+   "tier": 2
+  },
+  {
+   "id": "cringe-v",
+   "q": "This 6-letter verb means to draw back, as with fear or pain.",
+   "a": "What is cringe?",
+   "tier": 2
+  },
+  {
+   "id": "screenplay-n",
+   "q": "This noun refers to a script for a film including dialogue and descriptions of characters and sets.",
+   "a": "What is screenplay?",
+   "tier": 2
+  },
+  {
+   "id": "menace-n",
+   "q": "This 6-letter word names something that is a source of danger.",
+   "a": "What is menace?",
+   "tier": 2
+  },
+  {
+   "id": "seminary-n",
+   "q": "This noun means a private place of education for the young.",
+   "a": "What is seminary?",
+   "tier": 2
+  },
+  {
+   "id": "simultaneous-a",
+   "q": "This 12-letter adjective means occurring or operating at the same time.",
+   "a": "What is simultaneous?",
+   "tier": 2
+  },
+  {
+   "id": "lite-a",
+   "q": "This 4-letter adjective means having relatively few calories.",
+   "a": "What is lite?",
+   "tier": 2
+  },
+  {
+   "id": "quirky-a",
+   "q": "This 6-letter adjective means informal terms; strikingly unconventional.",
+   "a": "What is quirky?",
+   "tier": 2
+  },
+  {
+   "id": "reap-v",
+   "q": "This 4-letter word means to gather, as of natural products.",
+   "a": "What is reap?",
+   "tier": 2
+  },
+  {
+   "id": "chevy-v",
+   "q": "This 5-letter verb means to annoy continually or chronically.",
+   "a": "What is chevy?",
+   "tier": 2
+  },
+  {
+   "id": "heroine-n",
+   "q": "This noun refers to the main good female character in a work of fiction.",
+   "a": "What is heroine?",
+   "tier": 2
+  },
+  {
+   "id": "runoff-n",
+   "q": "This 6-letter noun means the occurrence of surplus liquid exceeding the limit or capacity.",
+   "a": "What is runoff?",
+   "tier": 2
+  },
+  {
+   "id": "nordic-a",
+   "q": "This adjective means resembling peoples of Scandinavia.",
+   "a": "What is nordic?",
+   "tier": 2
+  },
+  {
+   "id": "cherish-v",
+   "q": "This 7-letter word means to be fond of; be attached to.",
+   "a": "What is cherish?",
+   "tier": 2
+  },
+  {
+   "id": "jeopardy-n",
+   "q": "This 8-letter word names a source of danger; a possibility of incurring loss or misfortune.",
+   "a": "What is jeopardy?",
+   "tier": 2
+  },
+  {
+   "id": "starvation-n",
+   "q": "This noun refers to a state of extreme hunger resulting from lack of essential nutrients over a prolonged period.",
+   "a": "What is starvation?",
+   "tier": 2
+  },
+  {
+   "id": "anterior-a",
+   "q": "This word means of or near the head end or toward the front plane of a body.",
+   "a": "What is anterior?",
+   "tier": 2
+  },
+  {
+   "id": "cheeky-a",
+   "q": "This 6-letter adjective means offensively bold.",
+   "a": "What is cheeky?",
+   "tier": 2
+  },
+  {
+   "id": "descend-v",
+   "q": "This 7-letter verb means to move downward and lower, but not necessarily all the way.",
+   "a": "What is descend?",
+   "tier": 2
+  },
+  {
+   "id": "prohibit-v",
+   "q": "This 8-letter word means to command against.",
+   "a": "What is prohibit?",
+   "tier": 2
+  },
+  {
+   "id": "discriminate-v",
+   "q": "This verb means to recognize or perceive the difference.",
+   "a": "What is discriminate?",
+   "tier": 2
+  },
+  {
+   "id": "synonymous-a",
+   "q": "This word, said of words, means meaning the same or nearly the same.",
+   "a": "What is synonymous?",
+   "tier": 2
+  },
+  {
+   "id": "equip-v",
+   "q": "This 5-letter word means to provide with usually for a specific purpose.",
+   "a": "What is equip?",
+   "tier": 2
+  },
+  {
+   "id": "pilgrimage-n",
+   "q": "This word names a journey to a sacred place.",
+   "a": "What is pilgrimage?",
+   "tier": 2
+  },
+  {
+   "id": "ancestry-n",
+   "q": "This 8-letter word names the descendants of one individual.",
+   "a": "What is ancestry?",
+   "tier": 2
+  },
+  {
+   "id": "liberalism-n",
+   "q": "This word names a political orientation that favors social progress by reform and by changing laws rather than by revolution.",
+   "a": "What is liberalism?",
+   "tier": 2
+  },
+  {
+   "id": "pragmatic-a",
+   "q": "This 9-letter adjective means concerned with practical matters.",
+   "a": "What is pragmatic?",
+   "tier": 3
+  },
+  {
+   "id": "showdown-n",
+   "q": "This 8-letter noun refers to a hostile disagreement face-to-face.",
+   "a": "What is showdown?",
+   "tier": 3
+  },
+  {
+   "id": "choreography-n",
+   "q": "This noun refers to a show involving artistic dancing.",
+   "a": "What is choreography?",
+   "tier": 3
+  },
+  {
+   "id": "squat-v",
+   "q": "This 5-letter word means to sit on one's heels.",
+   "a": "What is squat?",
+   "tier": 3
+  },
+  {
+   "id": "crossroads-n",
+   "q": "This 10-letter noun means a community of people smaller than a village.",
+   "a": "What is crossroads?",
+   "tier": 3
+  },
+  {
+   "id": "expiration-n",
+   "q": "This 10-letter noun refers to a coming to an end of a contract period.",
+   "a": "What is expiration?",
+   "tier": 3
+  },
+  {
+   "id": "grumpy-a",
+   "q": "This 6-letter word means annoyed and irritable.",
+   "a": "What is grumpy?",
+   "tier": 3
+  },
+  {
+   "id": "aspire-v",
+   "q": "This 6-letter verb means to have an ambitious plan or a lofty goal.",
+   "a": "What is aspire?",
+   "tier": 3
+  },
+  {
+   "id": "ordeal-n",
+   "q": "This word names a severe or trying experience.",
+   "a": "What is ordeal?",
+   "tier": 3
+  },
+  {
+   "id": "rodeo-n",
+   "q": "This noun refers to an exhibition of cowboy skills.",
+   "a": "What is rodeo?",
+   "tier": 3
+  },
+  {
+   "id": "espionage-n",
+   "q": "This noun means the systematic use of spies to get military or political secrets.",
+   "a": "What is espionage?",
+   "tier": 3
+  },
+  {
+   "id": "diminish-v",
+   "q": "This 8-letter word means to decrease in size, extent, or range.",
+   "a": "What is diminish?",
+   "tier": 3
+  },
+  {
+   "id": "rejoice-v",
+   "q": "This 7-letter verb means to feel happiness or joy.",
+   "a": "What is rejoice?",
+   "tier": 3
+  },
+  {
+   "id": "peck-v",
+   "q": "This 4-letter word means to hit lightly with a picking motion.",
+   "a": "What is peck?",
+   "tier": 3
+  },
+  {
+   "id": "martyr-n",
+   "q": "This 6-letter word names one who suffers for the sake of principle.",
+   "a": "What is martyr?",
+   "tier": 3
+  },
+  {
+   "id": "manpower-n",
+   "q": "This 8-letter noun means the force of workers available.",
+   "a": "What is manpower?",
+   "tier": 3
+  },
+  {
+   "id": "nostalgic-a",
+   "q": "This word means unhappy about being away and longing for familiar things or persons.",
+   "a": "What is nostalgic?",
+   "tier": 3
+  },
+  {
+   "id": "enroll-v",
+   "q": "This 6-letter word means to register formally as a participant or member.",
+   "a": "What is enroll?",
+   "tier": 3
+  },
+  {
+   "id": "contradiction-n",
+   "q": "This noun refers to opposition between two conflicting forces or ideas.",
+   "a": "What is contradiction?",
+   "tier": 3
+  },
+  {
+   "id": "lavender-a",
+   "q": "This 8-letter adjective means of a pale purple color.",
+   "a": "What is lavender?",
+   "tier": 3
+  },
+  {
+   "id": "simulate-v",
+   "q": "This 8-letter word means to reproduce someone's behavior or looks.",
+   "a": "What is simulate?",
+   "tier": 3
+  },
+  {
+   "id": "mania-n",
+   "q": "This 5-letter word names an irrational but irresistible motive for a belief or action.",
+   "a": "What is mania?",
+   "tier": 3
+  },
+  {
+   "id": "dusk-n",
+   "q": "This 4-letter noun refers to the time of day immediately following sunset.",
+   "a": "What is dusk?",
+   "tier": 3
+  },
+  {
+   "id": "posterior-a",
+   "q": "This adjective means located at or near or behind a part or near the end of a structure.",
+   "a": "What is posterior?",
+   "tier": 3
+  },
+  {
+   "id": "horrified-a",
+   "q": "This 9-letter adjective means stricken with horror.",
+   "a": "What is horrified?",
+   "tier": 3
+  },
+  {
+   "id": "abbot-n",
+   "q": "This word names the superior of an abbey of monks.",
+   "a": "What is abbot?",
+   "tier": 3
+  },
+  {
+   "id": "stride-n",
+   "q": "This 6-letter word names a step in walking or running.",
+   "a": "What is stride?",
+   "tier": 3
+  },
+  {
+   "id": "ubiquitous-a",
+   "q": "This 10-letter adjective means being present everywhere at once.",
+   "a": "What is ubiquitous?",
+   "tier": 3
+  },
+  {
+   "id": "defy-v",
+   "q": "This 4-letter verb means to resist or confront with resistance.",
+   "a": "What is defy?",
+   "tier": 3
+  },
+  {
+   "id": "conservatism-n",
+   "q": "This noun refers to a political or theological orientation advocating the preservation of the best in society and opposing radical changes.",
+   "a": "What is conservatism?",
+   "tier": 3
+  },
+  {
+   "id": "intrusion-n",
+   "q": "This 9-letter word names any entry into an area not previously occupied.",
+   "a": "What is intrusion?",
+   "tier": 3
+  },
+  {
+   "id": "psyche-n",
+   "q": "This 6-letter noun refers to that which is responsible for one's thoughts and feelings; the seat of the faculty of reason.",
+   "a": "What is psyche?",
+   "tier": 3
+  },
+  {
+   "id": "haze-n",
+   "q": "This noun means atmospheric moisture or dust or smoke that causes reduced visibility.",
+   "a": "What is haze?",
+   "tier": 3
+  },
+  {
+   "id": "crook-n",
+   "q": "This 5-letter noun means someone who has committed a crime or has been legally convicted of a crime.",
+   "a": "What is crook?",
+   "tier": 3
+  },
+  {
+   "id": "vitality-n",
+   "q": "This 8-letter noun refers to an energetic style.",
+   "a": "What is vitality?",
+   "tier": 3
+  },
+  {
+   "id": "sentinel-n",
+   "q": "This 8-letter word names a person employed to keep watch for some anticipated event.",
+   "a": "What is sentinel?",
+   "tier": 3
+  },
+  {
+   "id": "daunting-a",
+   "q": "This 8-letter adjective means discouraging through fear.",
+   "a": "What is daunting?",
+   "tier": 3
+  },
+  {
+   "id": "abandonment-n",
+   "q": "This 11-letter noun means the act of giving something up.",
+   "a": "What is abandonment?",
+   "tier": 3
+  },
+  {
+   "id": "etiquette-n",
+   "q": "This noun means rules governing socially acceptable behavior.",
+   "a": "What is etiquette?",
+   "tier": 3
+  },
+  {
+   "id": "vocalist-n",
+   "q": "This 8-letter noun means a person who sings.",
+   "a": "What is vocalist?",
+   "tier": 3
+  },
+  {
+   "id": "graceful-a",
+   "q": "This adjective means characterized by beauty of movement, style, form, or execution.",
+   "a": "What is graceful?",
+   "tier": 3
+  },
+  {
+   "id": "edgy-a",
+   "q": "This 4-letter adjective means being in a tense state.",
+   "a": "What is edgy?",
+   "tier": 3
+  },
+  {
+   "id": "sprinkle-v",
+   "q": "This 8-letter verb means to distribute loosely.",
+   "a": "What is sprinkle?",
+   "tier": 3
+  },
+  {
+   "id": "deacon-n",
+   "q": "This noun means a Protestant layman who assists the minister.",
+   "a": "What is deacon?",
+   "tier": 3
+  },
+  {
+   "id": "inscribed-a",
+   "q": "This adjective means written on or in a surface.",
+   "a": "What is inscribed?",
+   "tier": 3
+  },
+  {
+   "id": "deceive-v",
+   "q": "This word means to be false to; be dishonest with.",
+   "a": "What is deceive?",
+   "tier": 3
+  },
+  {
+   "id": "lash-v",
+   "q": "This 4-letter verb means to beat severely with a whip or rod.",
+   "a": "What is lash?",
+   "tier": 3
+  },
+  {
+   "id": "conn-v",
+   "q": "This word means to conduct or direct the steering of a ship or plane.",
+   "a": "What is conn?",
+   "tier": 3
+  },
+  {
+   "id": "imperialism-n",
+   "q": "This noun refers to a policy of extending your rule over foreign countries.",
+   "a": "What is imperialism?",
+   "tier": 3
+  },
+  {
+   "id": "disciple-n",
+   "q": "This 8-letter word names someone who believes and helps to spread the doctrine of another.",
+   "a": "What is disciple?",
+   "tier": 3
+  },
+  {
+   "id": "ecstatic-a",
+   "q": "This 8-letter adjective means feeling great rapture or delight.",
+   "a": "What is ecstatic?",
+   "tier": 3
+  },
+  {
+   "id": "eclectic-a",
+   "q": "This adjective means selecting what seems best of various styles or ideas.",
+   "a": "What is eclectic?",
+   "tier": 3
+  },
+  {
+   "id": "bipartisan-a",
+   "q": "This 10-letter adjective means supported by both sides.",
+   "a": "What is bipartisan?",
+   "tier": 3
+  },
+  {
+   "id": "stun-v",
+   "q": "This verb means to make senseless or dizzy by or as if by a blow.",
+   "a": "What is stun?",
+   "tier": 3
+  },
+  {
+   "id": "moan-v",
+   "q": "This 4-letter verb means to indicate pain, discomfort, or displeasure.",
+   "a": "What is moan?",
+   "tier": 3
+  },
+  {
+   "id": "anguish-n",
+   "q": "This 7-letter noun means extreme mental distress.",
+   "a": "What is anguish?",
+   "tier": 3
+  },
+  {
+   "id": "contour-n",
+   "q": "This word names a line drawn on a map connecting points of equal height.",
+   "a": "What is contour?",
+   "tier": 3
+  },
+  {
+   "id": "vending-n",
+   "q": "This 7-letter noun refers to the act of selling goods for a living.",
+   "a": "What is vending?",
+   "tier": 3
+  },
+  {
+   "id": "overrun-v",
+   "q": "This 7-letter verb means to invade in great numbers.",
+   "a": "What is overrun?",
+   "tier": 3
+  },
+  {
+   "id": "adolescence-n",
+   "q": "This word names the time period between the beginning of puberty and adulthood.",
+   "a": "What is adolescence?",
+   "tier": 3
+  },
+  {
+   "id": "computation-n",
+   "q": "This 11-letter noun means the procedure of calculating; determining something by mathematical or logical methods.",
+   "a": "What is computation?",
+   "tier": 3
+  },
+  {
+   "id": "prowess-n",
+   "q": "This 7-letter noun means a superior skill that you can learn by study and practice and observation.",
+   "a": "What is prowess?",
+   "tier": 3
+  },
+  {
+   "id": "undeniable-a",
+   "q": "This adjective means not possible to deny.",
+   "a": "What is undeniable?",
+   "tier": 3
+  },
+  {
+   "id": "picky-a",
+   "q": "This 5-letter adjective means exacting especially about details.",
+   "a": "What is picky?",
+   "tier": 3
+  },
+  {
+   "id": "inhibit-v",
+   "q": "This 7-letter verb means to put down by force or authority.",
+   "a": "What is inhibit?",
+   "tier": 3
+  },
+  {
+   "id": "deem-v",
+   "q": "This 4-letter verb means to keep in mind or convey as a conviction or view.",
+   "a": "What is deem?",
+   "tier": 3
+  },
+  {
+   "id": "inflict-v",
+   "q": "This 7-letter word means to impose something unpleasant.",
+   "a": "What is inflict?",
+   "tier": 3
+  },
+  {
+   "id": "classmate-n",
+   "q": "This noun refers to an acquaintance that you go to school with.",
+   "a": "What is classmate?",
+   "tier": 3
+  },
+  {
+   "id": "pharmacist-n",
+   "q": "This 10-letter noun refers to a health professional trained in the art of preparing and dispensing drugs.",
+   "a": "What is pharmacist?",
+   "tier": 3
+  },
+  {
+   "id": "originality-n",
+   "q": "This word names the ability to think and act independently.",
+   "a": "What is originality?",
+   "tier": 3
+  },
+  {
+   "id": "populace-n",
+   "q": "This 8-letter noun refers to people in general considered as a whole.",
+   "a": "What is populace?",
+   "tier": 3
+  },
+  {
+   "id": "burglar-n",
+   "q": "This word names a thief who enters a building with intent to steal.",
+   "a": "What is burglar?",
+   "tier": 3
+  },
+  {
+   "id": "hectic-a",
+   "q": "This 6-letter adjective means marked by intense agitation or emotion.",
+   "a": "What is hectic?",
+   "tier": 3
+  },
+  {
+   "id": "holistic-a",
+   "q": "This word means emphasizing the organic or functional relation between parts and the whole.",
+   "a": "What is holistic?",
+   "tier": 3
+  },
+  {
+   "id": "glide-v",
+   "q": "This word means to move smoothly and effortlessly.",
+   "a": "What is glide?",
+   "tier": 3
+  },
+  {
+   "id": "mend-v",
+   "q": "This 4-letter verb means to restore by replacing a part or putting together what is torn or broken.",
+   "a": "What is mend?",
+   "tier": 3
+  },
+  {
+   "id": "alteration-n",
+   "q": "This 10-letter noun means an event that occurs when something passes from one state or phase to another.",
+   "a": "What is alteration?",
+   "tier": 3
+  },
+  {
+   "id": "farce-n",
+   "q": "This 5-letter noun means a comedy characterized by broad satire and improbable situations.",
+   "a": "What is farce?",
+   "tier": 3
+  },
+  {
+   "id": "monsoon-n",
+   "q": "This noun refers to a seasonal wind in southern Asia; blows from the southwest in summer and from the northeast in winter.",
+   "a": "What is monsoon?",
+   "tier": 3
+  },
+  {
+   "id": "jackass-n",
+   "q": "This 7-letter noun refers to a man who is a stupid incompetent fool.",
+   "a": "What is jackass?",
+   "tier": 3
+  },
+  {
+   "id": "supervise-v",
+   "q": "This 9-letter verb means to watch and direct.",
+   "a": "What is supervise?",
+   "tier": 3
+  },
+  {
+   "id": "rendezvous-n",
+   "q": "This noun means a meeting planned at a certain time and place.",
+   "a": "What is rendezvous?",
+   "tier": 3
+  },
+  {
+   "id": "antagonist-n",
+   "q": "This 10-letter noun refers to someone who offers opposition.",
+   "a": "What is antagonist?",
+   "tier": 3
+  },
+  {
+   "id": "memorabilia-n",
+   "q": "This noun means a record of things worth remembering.",
+   "a": "What is memorabilia?",
+   "tier": 3
+  },
+  {
+   "id": "bulky-a",
+   "q": "This word means of large size for its weight.",
+   "a": "What is bulky?",
+   "tier": 3
+  },
+  {
+   "id": "gilded-a",
+   "q": "This 6-letter adjective means having the deep slightly brownish color of gold.",
+   "a": "What is gilded?",
+   "tier": 3
+  },
+  {
+   "id": "brigadier-n",
+   "q": "This noun refers to a general officer ranking below a major general.",
+   "a": "What is brigadier?",
+   "tier": 3
+  },
+  {
+   "id": "sequential-a",
+   "q": "This 10-letter adjective means in regular succession without gaps.",
+   "a": "What is sequential?",
+   "tier": 3
+  },
+  {
+   "id": "excite-v",
+   "q": "This verb means to arouse or elicit a feeling.",
+   "a": "What is excite?",
+   "tier": 3
+  },
+  {
+   "id": "eradicate-v",
+   "q": "This 9-letter word means to kill in large numbers.",
+   "a": "What is eradicate?",
+   "tier": 3
+  },
+  {
+   "id": "purification-n",
+   "q": "This noun refers to the act of cleaning by getting rid of impurities.",
+   "a": "What is purification?",
+   "tier": 3
+  },
+  {
+   "id": "roundup-n",
+   "q": "This noun means the activity of gathering livestock together so that they can be counted or branded or sold.",
+   "a": "What is roundup?",
+   "tier": 3
+  },
+  {
+   "id": "physique-n",
+   "q": "This 8-letter word names constitution of the human body.",
+   "a": "What is physique?",
+   "tier": 3
+  },
+  {
+   "id": "stationery-n",
+   "q": "This word names paper cut to an appropriate size for writing letters.",
+   "a": "What is stationery?",
+   "tier": 3
+  },
+  {
+   "id": "stung-a",
+   "q": "This 5-letter adjective means aroused to impatience or anger.",
+   "a": "What is stung?",
+   "tier": 3
+  },
+  {
+   "id": "eyesight-n",
+   "q": "This 8-letter word names normal use of the faculty of vision.",
+   "a": "What is eyesight?",
+   "tier": 3
+  },
+  {
+   "id": "squire-n",
+   "q": "This noun refers to young nobleman attendant on a knight.",
+   "a": "What is squire?",
+   "tier": 3
+  },
+  {
+   "id": "astonished-a",
+   "q": "This 10-letter adjective means filled with the emotional impact of overwhelming surprise or shock.",
+   "a": "What is astonished?",
+   "tier": 3
+  },
+  {
+   "id": "encompass-v",
+   "q": "This 9-letter verb means to include in scope; include as part of something broader; have as one's sphere or territory.",
+   "a": "What is encompass?",
+   "tier": 3
+  },
+  {
+   "id": "visualize-v",
+   "q": "This 9-letter verb means to imagine; conceive of; see in one's mind.",
+   "a": "What is visualize?",
+   "tier": 3
+  },
+  {
+   "id": "localization-n",
+   "q": "This 12-letter noun refers to a determination of the place where something is.",
+   "a": "What is localization?",
+   "tier": 3
+  },
+  {
+   "id": "impetus-n",
+   "q": "This 7-letter word names a force that moves something along.",
+   "a": "What is impetus?",
+   "tier": 3
+  },
+  {
+   "id": "monologue-n",
+   "q": "This noun means speech you make to yourself.",
+   "a": "What is monologue?",
+   "tier": 3
+  },
+  {
+   "id": "sophistication-n",
+   "q": "This word names uplifting enlightenment.",
+   "a": "What is sophistication?",
+   "tier": 3
+  },
+  {
+   "id": "convex-a",
+   "q": "This 6-letter word means curving or bulging outward.",
+   "a": "What is convex?",
+   "tier": 3
+  },
+  {
+   "id": "wiggle-v",
+   "q": "This 6-letter word means to move to and fro.",
+   "a": "What is wiggle?",
+   "tier": 3
+  },
+  {
+   "id": "liquidation-n",
+   "q": "This 11-letter noun means termination of a business operation by using its assets to discharge its liabilities.",
+   "a": "What is liquidation?",
+   "tier": 3
+  },
+  {
+   "id": "sorority-n",
+   "q": "This word names a social club for female undergraduates.",
+   "a": "What is sorority?",
+   "tier": 3
+  },
+  {
+   "id": "receptionist-n",
+   "q": "This word names a secretary whose main duty is to answer the telephone and receive visitors.",
+   "a": "What is receptionist?",
+   "tier": 3
+  },
+  {
+   "id": "concerto-n",
+   "q": "This noun refers to a composition for orchestra and a soloist.",
+   "a": "What is concerto?",
+   "tier": 3
+  },
+  {
+   "id": "foreground-n",
+   "q": "This word names the part of a scene that is near the viewer.",
+   "a": "What is foreground?",
+   "tier": 3
+  },
+  {
+   "id": "pessimistic-a",
+   "q": "This adjective means expecting the worst possible outcome.",
+   "a": "What is pessimistic?",
+   "tier": 3
+  },
+  {
+   "id": "timid-a",
+   "q": "This adjective means showing fear and lack of confidence.",
+   "a": "What is timid?",
+   "tier": 3
+  },
+  {
+   "id": "commend-v",
+   "q": "To do this means to express approval of.",
+   "a": "What is commend?",
+   "tier": 3
+  },
+  {
+   "id": "fathom-v",
+   "q": "This 6-letter verb means to come to understand.",
+   "a": "What is fathom?",
+   "tier": 3
+  },
+  {
+   "id": "appalled-a",
+   "q": "This 8-letter word means struck with fear, dread, or consternation.",
+   "a": "What is appalled?",
+   "tier": 3
+  },
+  {
+   "id": "shun-v",
+   "q": "This 4-letter word means to avoid and stay away from deliberately; stay clear of.",
+   "a": "What is shun?",
+   "tier": 3
+  },
+  {
+   "id": "volley-n",
+   "q": "This 6-letter word names rapid simultaneous discharge of firearms.",
+   "a": "What is volley?",
+   "tier": 3
+  },
+  {
+   "id": "discern-v",
+   "q": "This 7-letter verb means to detect with the senses.",
+   "a": "What is discern?",
+   "tier": 3
+  },
+  {
+   "id": "formulate-v",
+   "q": "This 9-letter word means to elaborate, as of theories and hypotheses.",
+   "a": "What is formulate?",
+   "tier": 3
+  },
+  {
+   "id": "downgrade-v",
+   "q": "This verb means to rate lower; lower in value or esteem.",
+   "a": "What is downgrade?",
+   "tier": 3
+  },
+  {
+   "id": "budge-v",
+   "q": "This 5-letter word means to move very slightly.",
+   "a": "What is budge?",
+   "tier": 3
+  },
+  {
+   "id": "narcissistic-a",
+   "q": "This 12-letter adjective means characteristic of those having an inflated idea of their own importance.",
+   "a": "What is narcissistic?",
+   "tier": 3
+  },
+  {
+   "id": "convection-n",
+   "q": "This word names the transfer of heat through a fluid caused by molecular motion.",
+   "a": "What is convection?",
+   "tier": 3
+  },
+  {
+   "id": "accomplice-n",
+   "q": "This 10-letter noun means a person who joins with another in carrying out some plan.",
+   "a": "What is accomplice?",
+   "tier": 3
+  },
+  {
+   "id": "madman-n",
+   "q": "This 6-letter noun refers to an insane person.",
+   "a": "What is madman?",
+   "tier": 3
+  },
+  {
+   "id": "eloquent-a",
+   "q": "This 8-letter adjective means expressing yourself readily, clearly, effectively.",
+   "a": "What is eloquent?",
+   "tier": 3
+  },
+  {
+   "id": "crafty-a",
+   "q": "This 6-letter adjective means marked by skill in deception.",
+   "a": "What is crafty?",
+   "tier": 3
+  },
+  {
+   "id": "symmetric-a",
+   "q": "This 9-letter adjective means having similarity in size, shape, and relative position of corresponding parts.",
+   "a": "What is symmetric?",
+   "tier": 3
+  },
+  {
+   "id": "sassy-a",
+   "q": "This 5-letter adjective means improperly forward or bold.",
+   "a": "What is sassy?",
+   "tier": 3
+  },
+  {
+   "id": "entail-v",
+   "q": "This 6-letter verb means to have as a logical consequence.",
+   "a": "What is entail?",
+   "tier": 3
+  },
+  {
+   "id": "trot-v",
+   "q": "This 4-letter verb means to run at a moderately swift pace.",
+   "a": "What is trot?",
+   "tier": 3
+  },
+  {
+   "id": "levant-v",
+   "q": "This word means to run off without paying a debt.",
+   "a": "What is levant?",
+   "tier": 3
+  },
+  {
+   "id": "vertex-n",
+   "q": "This noun means the point of intersection of lines or the point opposite the base of a figure.",
+   "a": "What is vertex?",
+   "tier": 3
+  },
+  {
+   "id": "aristocracy-n",
+   "q": "This 11-letter word names a privileged class holding hereditary titles.",
+   "a": "What is aristocracy?",
+   "tier": 3
+  },
+  {
+   "id": "absurdity-n",
+   "q": "This 9-letter noun means a message whose content is at variance with reason.",
+   "a": "What is absurdity?",
+   "tier": 3
+  },
+  {
+   "id": "conqueror-n",
+   "q": "This noun refers to someone who is victorious by force of arms.",
+   "a": "What is conqueror?",
+   "tier": 3
+  },
+  {
+   "id": "deranged-a",
+   "q": "This 8-letter adjective means driven insane.",
+   "a": "What is deranged?",
+   "tier": 3
+  },
+  {
+   "id": "defer-v",
+   "q": "This 5-letter word means to hold back to a later time.",
+   "a": "What is defer?",
+   "tier": 3
+  },
+  {
+   "id": "consort-v",
+   "q": "This 7-letter verb means to keep company with; hang out with.",
+   "a": "What is consort?",
+   "tier": 3
+  },
+  {
+   "id": "appease-v",
+   "q": "This 7-letter word means to cause to be more favorably inclined; gain the good will of.",
+   "a": "What is appease?",
+   "tier": 3
+  },
+  {
+   "id": "affirm-v",
+   "q": "This 6-letter verb means to establish or strengthen as with new evidence or facts.",
+   "a": "What is affirm?",
+   "tier": 3
+  },
+  {
+   "id": "janitor-n",
+   "q": "This word names someone employed to clean and maintain a building.",
+   "a": "What is janitor?",
+   "tier": 3
+  },
+  {
+   "id": "anecdote-n",
+   "q": "This word names short account of an incident.",
+   "a": "What is anecdote?",
+   "tier": 3
+  },
+  {
+   "id": "sensibility-n",
+   "q": "This word names mental responsiveness and awareness.",
+   "a": "What is sensibility?",
+   "tier": 3
+  },
+  {
+   "id": "demeanor-n",
+   "q": "This 8-letter noun refers to the way a person behaves toward other people.",
+   "a": "What is demeanor?",
+   "tier": 3
+  },
+  {
+   "id": "vocation-n",
+   "q": "This 8-letter noun means the particular occupation for which you are trained.",
+   "a": "What is vocation?",
+   "tier": 3
+  },
+  {
+   "id": "recurrence-n",
+   "q": "This 10-letter noun means happening again.",
+   "a": "What is recurrence?",
+   "tier": 3
+  },
+  {
+   "id": "devise-v",
+   "q": "This 6-letter verb means to come up with after a mental effort.",
+   "a": "What is devise?",
+   "tier": 3
+  },
+  {
+   "id": "companionship-n",
+   "q": "This 13-letter noun refers to the state of being with someone.",
+   "a": "What is companionship?",
+   "tier": 3
+  },
+  {
+   "id": "sewn-a",
+   "q": "This 4-letter adjective means fastened with stitches.",
+   "a": "What is sewn?",
+   "tier": 3
+  },
+  {
+   "id": "nutritious-a",
+   "q": "This 10-letter adjective means of or providing nourishment.",
+   "a": "What is nutritious?",
+   "tier": 3
+  },
+  {
+   "id": "dilute-v",
+   "q": "This 6-letter word means to lessen the strength or flavor of a solution or mixture.",
+   "a": "What is dilute?",
+   "tier": 3
+  },
+  {
+   "id": "concur-v",
+   "q": "This 6-letter verb means to be in accord; be in agreement.",
+   "a": "What is concur?",
+   "tier": 3
+  },
+  {
+   "id": "streamline-v",
+   "q": "To do this means to contour economically or efficiently.",
+   "a": "What is streamline?",
+   "tier": 3
+  },
+  {
+   "id": "posse-n",
+   "q": "This noun refers to a temporary police force.",
+   "a": "What is posse?",
+   "tier": 3
+  },
+  {
+   "id": "stereotypical-a",
+   "q": "This 13-letter adjective means lacking spontaneity or originality or individuality.",
+   "a": "What is stereotypical?",
+   "tier": 3
+  },
+  {
+   "id": "rapport-n",
+   "q": "This 7-letter noun means a relationship of mutual understanding or trust and agreement between people.",
+   "a": "What is rapport?",
+   "tier": 3
+  },
+  {
+   "id": "animosity-n",
+   "q": "This 9-letter noun means a feeling of ill will arousing active hostility.",
+   "a": "What is animosity?",
+   "tier": 3
+  },
+  {
+   "id": "amplify-v",
+   "q": "This 7-letter verb means to increase in size, volume or significance.",
+   "a": "What is amplify?",
+   "tier": 3
+  },
+  {
+   "id": "cliche-n",
+   "q": "This 6-letter noun refers to a trite or obvious remark.",
+   "a": "What is cliche?",
+   "tier": 3
+  },
+  {
+   "id": "stepmother-n",
+   "q": "This noun means the wife of your father by a subsequent marriage.",
+   "a": "What is stepmother?",
+   "tier": 3
+  },
+  {
+   "id": "uproar-n",
+   "q": "This 6-letter noun refers to a state of commotion and noise and confusion.",
+   "a": "What is uproar?",
+   "tier": 3
+  },
+  {
+   "id": "opus-n",
+   "q": "This 4-letter noun means a musical work that has been created.",
+   "a": "What is opus?",
+   "tier": 3
+  },
+  {
+   "id": "anorexia-n",
+   "q": "This word names a prolonged disorder of eating due to loss of appetite.",
+   "a": "What is anorexia?",
+   "tier": 3
+  },
+  {
+   "id": "entice-v",
+   "q": "This 6-letter verb means to provoke someone to do something through promises or persuasion.",
+   "a": "What is entice?",
+   "tier": 3
+  },
+  {
+   "id": "clique-n",
+   "q": "This 6-letter noun refers to an exclusive circle of people with a common purpose.",
+   "a": "What is clique?",
+   "tier": 3
+  },
+  {
+   "id": "skit-n",
+   "q": "This noun refers to a short theatrical episode.",
+   "a": "What is skit?",
+   "tier": 3
+  },
+  {
+   "id": "growl-v",
+   "q": "This 5-letter word means to utter or emit low dull rumbling sounds.",
+   "a": "What is growl?",
+   "tier": 3
+  },
+  {
+   "id": "furnish-v",
+   "q": "This 7-letter word means to give something useful or necessary to.",
+   "a": "What is furnish?",
+   "tier": 3
+  },
+  {
+   "id": "delve-v",
+   "q": "This 5-letter word means to turn up, loosen, or remove earth.",
+   "a": "What is delve?",
+   "tier": 3
+  },
+  {
+   "id": "periodical-n",
+   "q": "This noun means a publication that appears at fixed intervals.",
+   "a": "What is periodical?",
+   "tier": 3
+  },
+  {
+   "id": "sightseeing-n",
+   "q": "This noun means going about to look at places of interest.",
+   "a": "What is sightseeing?",
+   "tier": 3
+  },
+  {
+   "id": "jurisprudence-n",
+   "q": "This 13-letter noun means the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do.",
+   "a": "What is jurisprudence?",
+   "tier": 3
+  },
+  {
+   "id": "depletion-n",
+   "q": "This noun means the act of decreasing something markedly.",
+   "a": "What is depletion?",
+   "tier": 3
+  },
+  {
+   "id": "endearing-a",
+   "q": "This 9-letter adjective means lovable especially in a childlike or naive way.",
+   "a": "What is endearing?",
+   "tier": 3
+  },
+  {
+   "id": "blunder-n",
+   "q": "This 7-letter word names an embarrassing mistake.",
+   "a": "What is blunder?",
+   "tier": 3
+  },
+  {
+   "id": "allotment-n",
+   "q": "This 9-letter word names a share set aside for a specific purpose.",
+   "a": "What is allotment?",
+   "tier": 3
+  },
+  {
+   "id": "viscosity-n",
+   "q": "This noun refers to resistance of a liquid to shear forces.",
+   "a": "What is viscosity?",
+   "tier": 3
+  },
+  {
+   "id": "juror-n",
+   "q": "This noun refers to someone who serves on a jury.",
+   "a": "What is juror?",
+   "tier": 3
+  },
+  {
+   "id": "spotless-a",
+   "q": "This 8-letter adjective means completely neat and clean.",
+   "a": "What is spotless?",
+   "tier": 3
+  },
+  {
+   "id": "archaeologist-n",
+   "q": "This noun refers to an anthropologist who studies prehistoric people and their culture.",
+   "a": "What is archaeologist?",
+   "tier": 3
+  },
+  {
+   "id": "cyst-n",
+   "q": "This noun refers to a closed sac that develops abnormally in some body structure.",
+   "a": "What is cyst?",
+   "tier": 3
+  },
+  {
+   "id": "revel-v",
+   "q": "This 5-letter word means to take delight in.",
+   "a": "What is revel?",
+   "tier": 3
+  },
+  {
+   "id": "tenacity-n",
+   "q": "This 8-letter word names persistent determination.",
+   "a": "What is tenacity?",
+   "tier": 3
+  },
+  {
+   "id": "flurry-n",
+   "q": "This 6-letter noun means a rapid active commotion.",
+   "a": "What is flurry?",
+   "tier": 3
+  },
+  {
+   "id": "cowardice-n",
+   "q": "This noun refers to the trait of lacking courage.",
+   "a": "What is cowardice?",
+   "tier": 3
+  },
+  {
+   "id": "multilateral-a",
+   "q": "This 12-letter adjective means having many parts or sides.",
+   "a": "What is multilateral?",
+   "tier": 3
+  },
+  {
+   "id": "oblige-v",
+   "q": "This 6-letter verb means to force somebody to do something.",
+   "a": "What is oblige?",
+   "tier": 3
+  },
+  {
+   "id": "clasp-v",
+   "q": "This verb means to hold firmly and tightly.",
+   "a": "What is clasp?",
+   "tier": 3
+  },
+  {
+   "id": "transcend-v",
+   "q": "This 9-letter verb means to be greater in scope or size than some standard.",
+   "a": "What is transcend?",
+   "tier": 3
+  },
+  {
+   "id": "rebuke-v",
+   "q": "This 6-letter word means to censure severely or angrily.",
+   "a": "What is rebuke?",
+   "tier": 3
+  },
+  {
+   "id": "lurk-v",
+   "q": "This word means to lie in wait, lie in ambush, behave in a sneaky and secretive manner.",
+   "a": "What is lurk?",
+   "tier": 3
+  },
+  {
+   "id": "elasticity-n",
+   "q": "This 10-letter noun means the tendency of a body to return to its original shape after it has been stretched or compressed.",
+   "a": "What is elasticity?",
+   "tier": 3
+  },
+  {
+   "id": "fiend-n",
+   "q": "This 5-letter noun refers to a cruel wicked and inhuman person.",
+   "a": "What is fiend?",
+   "tier": 3
+  },
+  {
+   "id": "craftsmanship-n",
+   "q": "This 13-letter noun means skill in an occupation or trade.",
+   "a": "What is craftsmanship?",
+   "tier": 3
+  },
+  {
+   "id": "lexicon-n",
+   "q": "This 7-letter noun means a language user's knowledge of words.",
+   "a": "What is lexicon?",
+   "tier": 3
+  },
+  {
+   "id": "ultrasonic-a",
+   "q": "This 10-letter adjective means having frequencies above those of audible sound.",
+   "a": "What is ultrasonic?",
+   "tier": 3
+  },
+  {
+   "id": "inert-a",
+   "q": "This adjective means unable to move or resist motion.",
+   "a": "What is inert?",
+   "tier": 3
+  },
+  {
+   "id": "incapacitated-a",
+   "q": "This 13-letter adjective means lacking in or deprived of strength or power.",
+   "a": "What is incapacitated?",
+   "tier": 3
+  },
+  {
+   "id": "piety-n",
+   "q": "This noun means righteousness by virtue of being pious.",
+   "a": "What is piety?",
+   "tier": 3
+  },
+  {
+   "id": "bitchy-a",
+   "q": "This 6-letter adjective means marked by or arising from malice.",
+   "a": "What is bitchy?",
+   "tier": 3
+  },
+  {
+   "id": "lull-n",
+   "q": "This noun means a pause during which things are calm or activities are diminished.",
+   "a": "What is lull?",
+   "tier": 3
+  },
+  {
+   "id": "indignation-n",
+   "q": "This 11-letter word names a feeling of righteous anger.",
+   "a": "What is indignation?",
+   "tier": 3
+  },
+  {
+   "id": "squeaky-a",
+   "q": "This 7-letter adjective means having or making a high-pitched sound such as that made by a mouse or a rusty hinge.",
+   "a": "What is squeaky?",
+   "tier": 3
+  },
+  {
+   "id": "planar-a",
+   "q": "This 6-letter adjective means involving two dimensions.",
+   "a": "What is planar?",
+   "tier": 3
+  },
+  {
+   "id": "busty-a",
+   "q": "This 5-letter word, said of a woman's body, means having a large bosom and pleasing curves.",
+   "a": "What is busty?",
+   "tier": 3
+  },
+  {
+   "id": "omit-v",
+   "q": "This 4-letter word means to prevent from being included or considered or accepted.",
+   "a": "What is omit?",
+   "tier": 3
+  },
+  {
+   "id": "mythological-a",
+   "q": "This 12-letter word means based on or told of in traditional stories; lacking factual basis or historical validity.",
+   "a": "What is mythological?",
+   "tier": 3
+  },
+  {
+   "id": "excruciating-a",
+   "q": "This 12-letter word means extremely painful.",
+   "a": "What is excruciating?",
+   "tier": 3
+  },
+  {
+   "id": "antiquated-a",
+   "q": "This 10-letter adjective means so extremely old as seeming to belong to an earlier period.",
+   "a": "What is antiquated?",
+   "tier": 3
+  },
+  {
+   "id": "sympathize-v",
+   "q": "This 10-letter verb means to share the feelings of; understand the sentiments of.",
+   "a": "What is sympathize?",
+   "tier": 3
+  },
+  {
+   "id": "thwart-v",
+   "q": "This 6-letter word means to hinder or prevent of.",
+   "a": "What is thwart?",
+   "tier": 3
+  },
+  {
+   "id": "succumb-v",
+   "q": "This 7-letter word means to consent reluctantly.",
+   "a": "What is succumb?",
+   "tier": 3
+  },
+  {
+   "id": "deviate-v",
+   "q": "This 7-letter verb means to turn aside; turn away from.",
+   "a": "What is deviate?",
+   "tier": 3
+  },
+  {
+   "id": "pundit-n",
+   "q": "This 6-letter noun refers to someone who has been admitted to membership in a scholarly field.",
+   "a": "What is pundit?",
+   "tier": 3
+  },
+  {
+   "id": "dilapidated-a",
+   "q": "This 11-letter adjective means in deplorable condition.",
+   "a": "What is dilapidated?",
+   "tier": 3
+  },
+  {
+   "id": "desist-v",
+   "q": "This 6-letter word means to choose not to consume.",
+   "a": "What is desist?",
+   "tier": 3
+  },
+  {
+   "id": "errand-n",
+   "q": "This noun refers to a short trip that is taken in the performance of a necessary task or mission.",
+   "a": "What is errand?",
+   "tier": 3
+  },
+  {
+   "id": "melodrama-n",
+   "q": "This word names an extravagant comedy in which action is more salient than characterization.",
+   "a": "What is melodrama?",
+   "tier": 3
+  },
+  {
+   "id": "springtime-n",
+   "q": "This 10-letter noun means the season of growth.",
+   "a": "What is springtime?",
+   "tier": 3
+  },
+  {
+   "id": "tremor-n",
+   "q": "This 6-letter word names an involuntary vibration.",
+   "a": "What is tremor?",
+   "tier": 3
+  },
+  {
+   "id": "replenish-v",
+   "q": "This 9-letter verb means to fill something that had previously been emptied.",
+   "a": "What is replenish?",
+   "tier": 3
+  },
+  {
+   "id": "sociologist-n",
+   "q": "This word names a social scientist who studies the institutions and development of human society.",
+   "a": "What is sociologist?",
+   "tier": 3
+  },
+  {
+   "id": "disseminate-v",
+   "q": "This 11-letter verb means to cause to become widely known.",
+   "a": "What is disseminate?",
+   "tier": 3
+  },
+  {
+   "id": "preclude-v",
+   "q": "This 8-letter verb means to keep from happening or arising; make impossible.",
+   "a": "What is preclude?",
+   "tier": 3
+  },
+  {
+   "id": "complicity-n",
+   "q": "This noun means guilt as an accomplice in a crime or offense.",
+   "a": "What is complicity?",
+   "tier": 3
+  },
+  {
+   "id": "blot-n",
+   "q": "This 4-letter word names a blemish made by dirt.",
+   "a": "What is blot?",
+   "tier": 3
+  },
+  {
+   "id": "sumptuous-a",
+   "q": "This 9-letter adjective means rich and superior in quality.",
+   "a": "What is sumptuous?",
+   "tier": 3
+  },
+  {
+   "id": "fanatical-a",
+   "q": "This 9-letter word means marked by excessive enthusiasm for and intense devotion to a cause or idea.",
+   "a": "What is fanatical?",
+   "tier": 3
+  },
+  {
+   "id": "apprehend-v",
+   "q": "This 9-letter word means to get the meaning of something.",
+   "a": "What is apprehend?",
+   "tier": 3
+  },
+  {
+   "id": "mince-v",
+   "q": "This 5-letter verb means to make less severe or harsh.",
+   "a": "What is mince?",
+   "tier": 3
+  },
+  {
+   "id": "improvise-v",
+   "q": "This 9-letter verb means to perform without preparation.",
+   "a": "What is improvise?",
+   "tier": 3
+  },
+  {
+   "id": "typography-n",
+   "q": "This word names the craft of composing type and printing from it.",
+   "a": "What is typography?",
+   "tier": 3
+  },
+  {
+   "id": "affective-a",
+   "q": "This 9-letter word means characterized by emotion.",
+   "a": "What is affective?",
+   "tier": 3
+  },
+  {
+   "id": "yank-v",
+   "q": "This 4-letter word means to pull, or move with a sudden movement.",
+   "a": "What is yank?",
+   "tier": 3
+  },
+  {
+   "id": "stifle-v",
+   "q": "This 6-letter word means to conceal or hide.",
+   "a": "What is stifle?",
+   "tier": 3
+  },
+  {
+   "id": "quell-v",
+   "q": "This 5-letter verb means to suppress or crush completely.",
+   "a": "What is quell?",
+   "tier": 3
+  },
+  {
+   "id": "gusto-n",
+   "q": "This 5-letter word names vigorous and enthusiastic enjoyment.",
+   "a": "What is gusto?",
+   "tier": 3
+  },
+  {
+   "id": "mystique-n",
+   "q": "This noun means an aura of heightened value or interest or meaning surrounding a person or thing.",
+   "a": "What is mystique?",
+   "tier": 3
+  },
+  {
+   "id": "unscathed-a",
+   "q": "This 9-letter adjective means not injured.",
+   "a": "What is unscathed?",
+   "tier": 4
+  },
+  {
+   "id": "decapitated-a",
+   "q": "This 11-letter adjective means having had the head cut off.",
+   "a": "What is decapitated?",
+   "tier": 4
+  },
+  {
+   "id": "zealous-a",
+   "q": "This 7-letter adjective means marked by active interest and enthusiasm.",
+   "a": "What is zealous?",
+   "tier": 4
+  },
+  {
+   "id": "sprawl-v",
+   "q": "To do this means to sit or lie with one's limbs spread out.",
+   "a": "What is sprawl?",
+   "tier": 4
+  },
+  {
+   "id": "nestle-v",
+   "q": "This 6-letter verb means to move or arrange oneself in a comfortable and cozy position.",
+   "a": "What is nestle?",
+   "tier": 4
+  },
+  {
+   "id": "swivel-v",
+   "q": "This 6-letter verb means to turn on a pivot.",
+   "a": "What is swivel?",
+   "tier": 4
+  },
+  {
+   "id": "deafening-a",
+   "q": "This 9-letter word means loud enough to cause hearing loss.",
+   "a": "What is deafening?",
+   "tier": 4
+  },
+  {
+   "id": "postpartum-a",
+   "q": "This 10-letter adjective means occurring immediately after birth.",
+   "a": "What is postpartum?",
+   "tier": 4
+  },
+  {
+   "id": "promulgated-a",
+   "q": "This 11-letter adjective means formally made public.",
+   "a": "What is promulgated?",
+   "tier": 4
+  },
+  {
+   "id": "misogynistic-a",
+   "q": "This word means hating women in particular.",
+   "a": "What is misogynistic?",
+   "tier": 4
+  },
+  {
+   "id": "detonate-v",
+   "q": "This 8-letter verb means to cause to burst with a violent release of energy.",
+   "a": "What is detonate?",
+   "tier": 4
+  },
+  {
+   "id": "suitor-n",
+   "q": "This noun means a man who courts a woman.",
+   "a": "What is suitor?",
+   "tier": 4
+  },
+  {
+   "id": "amicable-a",
+   "q": "This word means characterized by friendship and good will.",
+   "a": "What is amicable?",
+   "tier": 4
+  },
+  {
+   "id": "demented-a",
+   "q": "This 8-letter adjective means affected with madness or insanity.",
+   "a": "What is demented?",
+   "tier": 4
+  },
+  {
+   "id": "pounce-v",
+   "q": "This 6-letter verb means to move down on as if in an attack.",
+   "a": "What is pounce?",
+   "tier": 4
+  },
+  {
+   "id": "deadlock-n",
+   "q": "This 8-letter noun means a situation in which no progress can be made or no advancement is possible.",
+   "a": "What is deadlock?",
+   "tier": 4
+  },
+  {
+   "id": "orientated-a",
+   "q": "This 10-letter word means adjusted or located in relation to surroundings or circumstances.",
+   "a": "What is orientated?",
+   "tier": 4
+  },
+  {
+   "id": "persevere-v",
+   "q": "This 9-letter verb means to be persistent, refuse to stop.",
+   "a": "What is persevere?",
+   "tier": 4
+  },
+  {
+   "id": "elector-n",
+   "q": "This 7-letter noun means a citizen who has a legal right to vote.",
+   "a": "What is elector?",
+   "tier": 4
+  },
+  {
+   "id": "bereavement-n",
+   "q": "This 11-letter noun means state of sorrow over the death or departure of a loved one.",
+   "a": "What is bereavement?",
+   "tier": 4
+  },
+  {
+   "id": "workman-n",
+   "q": "This noun means an employee who performs manual or industrial labor.",
+   "a": "What is workman?",
+   "tier": 4
+  },
+  {
+   "id": "plasticity-n",
+   "q": "This noun refers to the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.",
+   "a": "What is plasticity?",
+   "tier": 4
+  },
+  {
+   "id": "inhibitory-a",
+   "q": "This 10-letter adjective means restrictive of action.",
+   "a": "What is inhibitory?",
+   "tier": 4
+  },
+  {
+   "id": "hardline-a",
+   "q": "This 8-letter adjective means firm and uncompromising.",
+   "a": "What is hardline?",
+   "tier": 4
+  },
+  {
+   "id": "swerve-v",
+   "q": "This 6-letter word means to turn sharply; change direction abruptly.",
+   "a": "What is swerve?",
+   "tier": 4
+  },
+  {
+   "id": "decorator-n",
+   "q": "This 9-letter noun means a person who specializes in designing architectural interiors and their furnishings.",
+   "a": "What is decorator?",
+   "tier": 4
+  },
+  {
+   "id": "extravaganza-n",
+   "q": "This noun means any lavishly staged or spectacular entertainment.",
+   "a": "What is extravaganza?",
+   "tier": 4
+  },
+  {
+   "id": "federated-a",
+   "q": "This adjective means united under a central government.",
+   "a": "What is federated?",
+   "tier": 4
+  },
+  {
+   "id": "veracity-n",
+   "q": "This word names unwillingness to tell lies.",
+   "a": "What is veracity?",
+   "tier": 4
+  },
+  {
+   "id": "scepticism-n",
+   "q": "This 10-letter word names the disbelief in any claims of ultimate knowledge.",
+   "a": "What is scepticism?",
+   "tier": 4
+  },
+  {
+   "id": "allusion-n",
+   "q": "This noun refers to passing reference or indirect mention.",
+   "a": "What is allusion?",
+   "tier": 4
+  },
+  {
+   "id": "divulge-v",
+   "q": "This 7-letter verb means to make known to the public information that was previously known only to a few people or that was meant to be kept a secret.",
+   "a": "What is divulge?",
+   "tier": 4
+  },
+  {
+   "id": "husbandry-n",
+   "q": "This 9-letter noun means the practice of cultivating the land or raising stock.",
+   "a": "What is husbandry?",
+   "tier": 4
+  },
+  {
+   "id": "milieu-n",
+   "q": "This 6-letter noun refers to the environmental condition.",
+   "a": "What is milieu?",
+   "tier": 4
+  },
+  {
+   "id": "layman-n",
+   "q": "This 6-letter noun refers to someone who is not a clergyman or a professional person.",
+   "a": "What is layman?",
+   "tier": 4
+  },
+  {
+   "id": "cursory-a",
+   "q": "This 7-letter adjective means hasty and without attention to detail; not thorough.",
+   "a": "What is cursory?",
+   "tier": 4
+  },
+  {
+   "id": "exacerbate-v",
+   "q": "This 10-letter verb means to make worse.",
+   "a": "What is exacerbate?",
+   "tier": 4
+  },
+  {
+   "id": "commie-n",
+   "q": "This 6-letter noun refers to a socialist who advocates communism.",
+   "a": "What is commie?",
+   "tier": 4
+  },
+  {
+   "id": "fantasia-n",
+   "q": "This word names a musical composition of a free form usually incorporating several familiar themes.",
+   "a": "What is fantasia?",
+   "tier": 4
+  },
+  {
+   "id": "remand-v",
+   "q": "This 6-letter verb means to refer to another committee or authority or court for decision.",
+   "a": "What is remand?",
+   "tier": 4
+  },
+  {
+   "id": "declassified-a",
+   "q": "This word means having had security classification removed.",
+   "a": "What is declassified?",
+   "tier": 4
+  },
+  {
+   "id": "disenfranchised-a",
+   "q": "This 15-letter adjective means deprived of the rights of citizenship especially the right to vote.",
+   "a": "What is disenfranchised?",
+   "tier": 4
+  },
+  {
+   "id": "obsess-v",
+   "q": "This 6-letter word means to haunt like a ghost; pursue.",
+   "a": "What is obsess?",
+   "tier": 4
+  },
+  {
+   "id": "fortify-v",
+   "q": "This 7-letter word means to make strong or stronger.",
+   "a": "What is fortify?",
+   "tier": 4
+  },
+  {
+   "id": "reprimand-v",
+   "q": "This 9-letter verb means to rebuke formally.",
+   "a": "What is reprimand?",
+   "tier": 4
+  },
+  {
+   "id": "squeak-v",
+   "q": "This 6-letter verb means to make a high-pitched, screeching noise.",
+   "a": "What is squeak?",
+   "tier": 4
+  },
+  {
+   "id": "infatuation-n",
+   "q": "This word names a foolish and usually extravagant passion or love or admiration.",
+   "a": "What is infatuation?",
+   "tier": 4
+  },
+  {
+   "id": "ferocity-n",
+   "q": "This 8-letter word names the property of being wild or turbulent.",
+   "a": "What is ferocity?",
+   "tier": 4
+  },
+  {
+   "id": "grapevine-n",
+   "q": "This 9-letter word names gossip spread by spoken communication.",
+   "a": "What is grapevine?",
+   "tier": 4
+  },
+  {
+   "id": "wingman-n",
+   "q": "This noun means the pilot who positions his aircraft outside and behind the leader of a flying formation.",
+   "a": "What is wingman?",
+   "tier": 4
+  },
+  {
+   "id": "inevitability-n",
+   "q": "This word names the quality of being unavoidable.",
+   "a": "What is inevitability?",
+   "tier": 4
+  },
+  {
+   "id": "unfettered-a",
+   "q": "This 10-letter adjective means not bound by shackles and chains.",
+   "a": "What is unfettered?",
+   "tier": 4
+  },
+  {
+   "id": "perfectionist-n",
+   "q": "This noun refers to a person who is displeased by anything that does not meet very high standards.",
+   "a": "What is perfectionist?",
+   "tier": 4
+  },
+  {
+   "id": "epistemology-n",
+   "q": "This word names the philosophical theory of knowledge.",
+   "a": "What is epistemology?",
+   "tier": 4
+  },
+  {
+   "id": "pennant-n",
+   "q": "This 7-letter word names the award given to the champion.",
+   "a": "What is pennant?",
+   "tier": 4
+  },
+  {
+   "id": "connoisseur-n",
+   "q": "This noun refers to an expert able to appreciate a field.",
+   "a": "What is connoisseur?",
+   "tier": 4
+  },
+  {
+   "id": "radicalism-n",
+   "q": "This noun means the political orientation of those who favor revolutionary change in government and society.",
+   "a": "What is radicalism?",
+   "tier": 4
+  },
+  {
+   "id": "skeptic-n",
+   "q": "This 7-letter word names someone who habitually doubts accepted beliefs.",
+   "a": "What is skeptic?",
+   "tier": 4
+  },
+  {
+   "id": "shaven-a",
+   "q": "This 6-letter word means having the beard or hair cut off close to the skin.",
+   "a": "What is shaven?",
+   "tier": 4
+  },
+  {
+   "id": "unsubstantiated-a",
+   "q": "This word means unsupported by other evidence.",
+   "a": "What is unsubstantiated?",
+   "tier": 4
+  },
+  {
+   "id": "soulless-a",
+   "q": "This adjective means lacking sensitivity or the capacity for deep feeling.",
+   "a": "What is soulless?",
+   "tier": 4
+  },
+  {
+   "id": "defuse-v",
+   "q": "This verb means to remove the triggering device from.",
+   "a": "What is defuse?",
+   "tier": 4
+  },
+  {
+   "id": "marksman-n",
+   "q": "This 8-letter noun refers to someone skilled in shooting.",
+   "a": "What is marksman?",
+   "tier": 4
+  },
+  {
+   "id": "assessor-n",
+   "q": "This noun means an official who evaluates property for the purpose of taxing it.",
+   "a": "What is assessor?",
+   "tier": 4
+  },
+  {
+   "id": "chieftain-n",
+   "q": "This 9-letter word names the leader of a group of people.",
+   "a": "What is chieftain?",
+   "tier": 4
+  },
+  {
+   "id": "ascendancy-n",
+   "q": "This 10-letter noun refers to the state that exists when one person or group has power over another.",
+   "a": "What is ascendancy?",
+   "tier": 4
+  },
+  {
+   "id": "telepathy-n",
+   "q": "This word names apparent communication from one mind to another without using sensory perceptions.",
+   "a": "What is telepathy?",
+   "tier": 4
+  },
+  {
+   "id": "primacy-n",
+   "q": "This noun refers to the state of being first in importance.",
+   "a": "What is primacy?",
+   "tier": 4
+  },
+  {
+   "id": "reprisal-n",
+   "q": "This word names a retaliatory action against an enemy in wartime.",
+   "a": "What is reprisal?",
+   "tier": 4
+  },
+  {
+   "id": "epithet-n",
+   "q": "This 7-letter noun means a defamatory or abusive word or phrase.",
+   "a": "What is epithet?",
+   "tier": 4
+  },
+  {
+   "id": "disheartening-a",
+   "q": "This 13-letter adjective means destructive of morale and self-reliance.",
+   "a": "What is disheartening?",
+   "tier": 4
+  },
+  {
+   "id": "meditative-a",
+   "q": "This 10-letter adjective means deeply or seriously thoughtful.",
+   "a": "What is meditative?",
+   "tier": 4
+  },
+  {
+   "id": "thrifty-a",
+   "q": "This adjective means careful and diligent in the use of resources.",
+   "a": "What is thrifty?",
+   "tier": 4
+  },
+  {
+   "id": "meagre-a",
+   "q": "This 6-letter word means deficient in amount or quality or extent.",
+   "a": "What is meagre?",
+   "tier": 4
+  },
+  {
+   "id": "suffocate-v",
+   "q": "This 9-letter verb means to deprive of oxygen and prevent from breathing.",
+   "a": "What is suffocate?",
+   "tier": 4
+  },
+  {
+   "id": "coerce-v",
+   "q": "This 6-letter word means to cause to do through pressure or necessity, by physical, moral or intellectual means :.",
+   "a": "What is coerce?",
+   "tier": 4
+  },
+  {
+   "id": "quicken-v",
+   "q": "This 7-letter verb means to move faster.",
+   "a": "What is quicken?",
+   "tier": 4
+  },
+  {
+   "id": "chagrin-n",
+   "q": "This 7-letter noun means strong feelings of embarrassment.",
+   "a": "What is chagrin?",
+   "tier": 4
+  },
+  {
+   "id": "heretical-a",
+   "q": "This 9-letter adjective means characterized by departure from accepted beliefs or standards.",
+   "a": "What is heretical?",
+   "tier": 4
+  },
+  {
+   "id": "penniless-a",
+   "q": "This 9-letter adjective means not having enough money to pay for necessities.",
+   "a": "What is penniless?",
+   "tier": 4
+  },
+  {
+   "id": "adequacy-n",
+   "q": "This word names the quality of being able to meet a need satisfactorily:.",
+   "a": "What is adequacy?",
+   "tier": 4
+  },
+  {
+   "id": "desertion-n",
+   "q": "This 9-letter noun means withdrawing support or help despite allegiance or responsibility.",
+   "a": "What is desertion?",
+   "tier": 4
+  },
+  {
+   "id": "antebellum-a",
+   "q": "This adjective means belonging to a period before a war especially the American Civil War.",
+   "a": "What is antebellum?",
+   "tier": 4
+  },
+  {
+   "id": "subliminal-a",
+   "q": "This adjective means below the threshold of conscious perception.",
+   "a": "What is subliminal?",
+   "tier": 4
+  },
+  {
+   "id": "necessitate-v",
+   "q": "This 11-letter word means to require as useful, just, or proper.",
+   "a": "What is necessitate?",
+   "tier": 4
+  },
+  {
+   "id": "forego-v",
+   "q": "This 6-letter verb means to be earlier in time; go back further.",
+   "a": "What is forego?",
+   "tier": 4
+  },
+  {
+   "id": "malaise-n",
+   "q": "This 7-letter noun means physical discomfort.",
+   "a": "What is malaise?",
+   "tier": 4
+  },
+  {
+   "id": "eccentricity-n",
+   "q": "This noun means strange and unconventional behavior.",
+   "a": "What is eccentricity?",
+   "tier": 4
+  },
+  {
+   "id": "lyricist-n",
+   "q": "This noun refers to a person who writes the words for songs.",
+   "a": "What is lyricist?",
+   "tier": 4
+  },
+  {
+   "id": "intonation-n",
+   "q": "This 10-letter noun means rise and fall of the voice pitch.",
+   "a": "What is intonation?",
+   "tier": 4
+  },
+  {
+   "id": "dissociation-n",
+   "q": "This noun means the act of removing from association.",
+   "a": "What is dissociation?",
+   "tier": 4
+  },
+  {
+   "id": "contaminate-v",
+   "q": "This 11-letter word means to make impure.",
+   "a": "What is contaminate?",
+   "tier": 4
+  },
+  {
+   "id": "gobble-v",
+   "q": "This 6-letter verb means to eat hastily without proper chewing.",
+   "a": "What is gobble?",
+   "tier": 4
+  },
+  {
+   "id": "squeal-v",
+   "q": "This word means to utter a high-pitched cry, characteristic of pigs.",
+   "a": "What is squeal?",
+   "tier": 4
+  },
+  {
+   "id": "cognizant-a",
+   "q": "This 9-letter adjective means having or showing knowledge or understanding or realization or perception.",
+   "a": "What is cognizant?",
+   "tier": 4
+  },
+  {
+   "id": "serrated-a",
+   "q": "This 8-letter adjective means notched like a saw with teeth pointing toward the apex.",
+   "a": "What is serrated?",
+   "tier": 4
+  },
+  {
+   "id": "breastfeed-v",
+   "q": "This 10-letter word means to give suck to.",
+   "a": "What is breastfeed?",
+   "tier": 4
+  },
+  {
+   "id": "speckled-a",
+   "q": "This 8-letter adjective means having a pattern of dots.",
+   "a": "What is speckled?",
+   "tier": 4
+  },
+  {
+   "id": "centrifuge-v",
+   "q": "This verb means to rotate at very high speed in order to separate the liquids from the solids.",
+   "a": "What is centrifuge?",
+   "tier": 4
+  },
+  {
+   "id": "jumble-n",
+   "q": "This 6-letter noun means a confused multitude of things.",
+   "a": "What is jumble?",
+   "tier": 4
+  },
+  {
+   "id": "intensification-n",
+   "q": "This word names action that makes something stronger or more extreme.",
+   "a": "What is intensification?",
+   "tier": 4
+  },
+  {
+   "id": "consternation-n",
+   "q": "This 13-letter noun refers to fear resulting from the awareness of danger.",
+   "a": "What is consternation?",
+   "tier": 4
+  },
+  {
+   "id": "malnourished-a",
+   "q": "This word means not being provided with adequate nourishment.",
+   "a": "What is malnourished?",
+   "tier": 4
+  },
+  {
+   "id": "convergent-a",
+   "q": "This adjective means tending to come together from different directions.",
+   "a": "What is convergent?",
+   "tier": 4
+  },
+  {
+   "id": "unrivalled-a",
+   "q": "This 10-letter adjective means eminent beyond or above comparison.",
+   "a": "What is unrivalled?",
+   "tier": 4
+  },
+  {
+   "id": "microcosm-n",
+   "q": "This noun means a miniature model of something.",
+   "a": "What is microcosm?",
+   "tier": 4
+  },
+  {
+   "id": "dramatist-n",
+   "q": "This 9-letter noun refers to someone who writes plays.",
+   "a": "What is dramatist?",
+   "tier": 4
+  },
+  {
+   "id": "compatriot-n",
+   "q": "This noun means a person from your own country.",
+   "a": "What is compatriot?",
+   "tier": 4
+  },
+  {
+   "id": "newsworthy-a",
+   "q": "This word means sufficiently interesting to be reported in a newspaper.",
+   "a": "What is newsworthy?",
+   "tier": 4
+  },
+  {
+   "id": "propriety-n",
+   "q": "This word names correct or appropriate behavior.",
+   "a": "What is propriety?",
+   "tier": 4
+  },
+  {
+   "id": "doorman-n",
+   "q": "This 7-letter noun means someone who guards an entrance.",
+   "a": "What is doorman?",
+   "tier": 4
+  },
+  {
+   "id": "urchin-n",
+   "q": "This word names poor and often mischievous city child.",
+   "a": "What is urchin?",
+   "tier": 4
+  },
+  {
+   "id": "scuffle-n",
+   "q": "This 7-letter word names disorderly fighting.",
+   "a": "What is scuffle?",
+   "tier": 4
+  },
+  {
+   "id": "unrequited-a",
+   "q": "This 10-letter word means not returned in kind.",
+   "a": "What is unrequited?",
+   "tier": 4
+  },
+  {
+   "id": "annular-a",
+   "q": "This 7-letter adjective means shaped like a ring.",
+   "a": "What is annular?",
+   "tier": 4
+  },
+  {
+   "id": "enthralled-a",
+   "q": "This 10-letter adjective means filled with wonder and delight.",
+   "a": "What is enthralled?",
+   "tier": 4
+  },
+  {
+   "id": "telepathic-a",
+   "q": "This adjective means communicating without apparent physical signals.",
+   "a": "What is telepathic?",
+   "tier": 4
+  },
+  {
+   "id": "gnostic-a",
+   "q": "This adjective means possessing intellectual or esoteric knowledge of spiritual things.",
+   "a": "What is gnostic?",
+   "tier": 4
+  },
+  {
+   "id": "apolitical-a",
+   "q": "This adjective means politically neutral.",
+   "a": "What is apolitical?",
+   "tier": 4
+  },
+  {
+   "id": "mottled-a",
+   "q": "This adjective means having spots or patches of color.",
+   "a": "What is mottled?",
+   "tier": 4
+  },
+  {
+   "id": "maleficent-a",
+   "q": "This adjective means harmful or evil in intent or effect.",
+   "a": "What is maleficent?",
+   "tier": 4
+  },
+  {
+   "id": "peddle-v",
+   "q": "This 6-letter word means to sell or offer for sale from place to place.",
+   "a": "What is peddle?",
+   "tier": 4
+  },
+  {
+   "id": "accentuate-v",
+   "q": "This 10-letter verb means to stress, single out as important.",
+   "a": "What is accentuate?",
+   "tier": 4
+  },
+  {
+   "id": "instigate-v",
+   "q": "This 9-letter verb means to provoke or stir up.",
+   "a": "What is instigate?",
+   "tier": 4
+  },
+  {
+   "id": "empathize-v",
+   "q": "This 9-letter verb means to be understanding of.",
+   "a": "What is empathize?",
+   "tier": 4
+  },
+  {
+   "id": "permanence-n",
+   "q": "This noun refers to the property of being able to exist for an indefinite duration.",
+   "a": "What is permanence?",
+   "tier": 4
+  },
+  {
+   "id": "brainless-a",
+   "q": "This 9-letter adjective means not using intelligence.",
+   "a": "What is brainless?",
+   "tier": 4
+  },
+  {
+   "id": "ransacked-a",
+   "q": "This 9-letter word means wrongfully emptied or stripped of anything of value.",
+   "a": "What is ransacked?",
+   "tier": 4
+  },
+  {
+   "id": "constipated-a",
+   "q": "This adjective means have difficult or incomplete or infrequent evacuation of the bowels.",
+   "a": "What is constipated?",
+   "tier": 4
+  },
+  {
+   "id": "ascribe-v",
+   "q": "This 7-letter verb means to attribute or credit to.",
+   "a": "What is ascribe?",
+   "tier": 4
+  },
+  {
+   "id": "insolent-a",
+   "q": "This 8-letter adjective means marked by casual disrespect.",
+   "a": "What is insolent?",
+   "tier": 4
+  },
+  {
+   "id": "engrossing-a",
+   "q": "This 10-letter adjective means capable of arousing and holding the attention.",
+   "a": "What is engrossing?",
+   "tier": 4
+  },
+  {
+   "id": "pejorative-a",
+   "q": "This adjective means expressing disapproval.",
+   "a": "What is pejorative?",
+   "tier": 4
+  },
+  {
+   "id": "frisky-a",
+   "q": "This adjective means playful like a lively kitten.",
+   "a": "What is frisky?",
+   "tier": 4
+  },
+  {
+   "id": "beseech-v",
+   "q": "This 7-letter verb means to ask for or request earnestly.",
+   "a": "What is beseech?",
+   "tier": 4
+  },
+  {
+   "id": "affluence-n",
+   "q": "This 9-letter noun refers to abundant wealth.",
+   "a": "What is affluence?",
+   "tier": 4
+  },
+  {
+   "id": "petulant-a",
+   "q": "This 8-letter word means easily irritated or annoyed.",
+   "a": "What is petulant?",
+   "tier": 4
+  },
+  {
+   "id": "congratulation-n",
+   "q": "This noun means the act of acknowledging that someone has an occasion for celebration.",
+   "a": "What is congratulation?",
+   "tier": 4
+  },
+  {
+   "id": "fanaticism-n",
+   "q": "This word names excessive intolerance of opposing views.",
+   "a": "What is fanaticism?",
+   "tier": 4
+  },
+  {
+   "id": "punctuality-n",
+   "q": "This noun means the quality or habit of adhering to an appointed time.",
+   "a": "What is punctuality?",
+   "tier": 4
+  },
+  {
+   "id": "misnomer-n",
+   "q": "This noun refers to an incorrect or unsuitable name.",
+   "a": "What is misnomer?",
+   "tier": 4
+  },
+  {
+   "id": "hallucinating-a",
+   "q": "This 13-letter word means experiencing delirium.",
+   "a": "What is hallucinating?",
+   "tier": 4
+  },
+  {
+   "id": "goalless-a",
+   "q": "This 8-letter adjective means having no points scores.",
+   "a": "What is goalless?",
+   "tier": 4
+  },
+  {
+   "id": "exogenous-a",
+   "q": "This word means derived or originating externally.",
+   "a": "What is exogenous?",
+   "tier": 4
+  },
+  {
+   "id": "braised-a",
+   "q": "This word means cooked by browning in fat and then simmering in a closed container.",
+   "a": "What is braised?",
+   "tier": 4
+  },
+  {
+   "id": "effeminate-a",
+   "q": "This 10-letter adjective means having unsuitable feminine qualities.",
+   "a": "What is effeminate?",
+   "tier": 4
+  },
+  {
+   "id": "patronize-v",
+   "q": "This 9-letter verb means to assume sponsorship of.",
+   "a": "What is patronize?",
+   "tier": 4
+  },
+  {
+   "id": "emphysema-n",
+   "q": "This noun means an abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.",
+   "a": "What is emphysema?",
+   "tier": 4
+  },
+  {
+   "id": "trepidation-n",
+   "q": "This word names a feeling of alarm or dread.",
+   "a": "What is trepidation?",
+   "tier": 4
+  },
+  {
+   "id": "omniscient-a",
+   "q": "This 10-letter adjective means infinitely wise.",
+   "a": "What is omniscient?",
+   "tier": 4
+  },
+  {
+   "id": "stocky-a",
+   "q": "This 6-letter word means having a short and solid form or stature.",
+   "a": "What is stocky?",
+   "tier": 4
+  },
+  {
+   "id": "revulsion-n",
+   "q": "This 9-letter noun refers to intense aversion.",
+   "a": "What is revulsion?",
+   "tier": 4
+  },
+  {
+   "id": "outermost-a",
+   "q": "This word means situated at the farthest possible point from a center.",
+   "a": "What is outermost?",
+   "tier": 4
+  },
+  {
+   "id": "communique-n",
+   "q": "This 10-letter noun refers to an official report.",
+   "a": "What is communique?",
+   "tier": 4
+  },
+  {
+   "id": "antipathy-n",
+   "q": "This 9-letter noun means a feeling of intense dislike.",
+   "a": "What is antipathy?",
+   "tier": 4
+  },
+  {
+   "id": "headstrong-a",
+   "q": "This 10-letter adjective means habitually disposed to disobedience and opposition.",
+   "a": "What is headstrong?",
+   "tier": 4
+  },
+  {
+   "id": "velvety-a",
+   "q": "This 7-letter adjective means smooth and soft to sight or hearing or touch or taste.",
+   "a": "What is velvety?",
+   "tier": 4
+  },
+  {
+   "id": "requisition-v",
+   "q": "To do this means to make a formal request for official services.",
+   "a": "What is requisition?",
+   "tier": 4
+  },
+  {
+   "id": "despatch-v",
+   "q": "This 8-letter verb means to send away towards a designated goal.",
+   "a": "What is despatch?",
+   "tier": 4
+  },
+  {
+   "id": "dialectic-n",
+   "q": "This noun means any formal system of reasoning that arrives at the truth by the exchange of logical arguments.",
+   "a": "What is dialectic?",
+   "tier": 4
+  },
+  {
+   "id": "prostrate-a",
+   "q": "This 9-letter word means stretched out and lying at full length along the ground.",
+   "a": "What is prostrate?",
+   "tier": 4
+  },
+  {
+   "id": "indigent-a",
+   "q": "This 8-letter adjective means poor enough to need help from others.",
+   "a": "What is indigent?",
+   "tier": 4
+  },
+  {
+   "id": "intramural-a",
+   "q": "This adjective means carried on within the bounds of an institution or community.",
+   "a": "What is intramural?",
+   "tier": 4
+  },
+  {
+   "id": "supersede-v",
+   "q": "This 9-letter verb means to take the place or move into the position of.",
+   "a": "What is supersede?",
+   "tier": 4
+  },
+  {
+   "id": "underlie-v",
+   "q": "To do this means to be or form the base for.",
+   "a": "What is underlie?",
+   "tier": 4
+  },
+  {
+   "id": "decrypt-v",
+   "q": "This 7-letter verb means to convert code into ordinary language.",
+   "a": "What is decrypt?",
+   "tier": 4
+  },
+  {
+   "id": "resplendent-a",
+   "q": "This 11-letter adjective means having great beauty and splendor.",
+   "a": "What is resplendent?",
+   "tier": 4
+  },
+  {
+   "id": "downtrodden-a",
+   "q": "This word means abused or oppressed by people in power.",
+   "a": "What is downtrodden?",
+   "tier": 4
+  },
+  {
+   "id": "surmise-v",
+   "q": "This word means to infer from incomplete evidence.",
+   "a": "What is surmise?",
+   "tier": 4
+  },
+  {
+   "id": "apocryphal-a",
+   "q": "This word means being of questionable authenticity.",
+   "a": "What is apocryphal?",
+   "tier": 4
+  },
+  {
+   "id": "pedantic-a",
+   "q": "This 8-letter word means marked by a narrow focus on or display of learning especially its trivial aspects.",
+   "a": "What is pedantic?",
+   "tier": 4
+  },
+  {
+   "id": "gargantuan-a",
+   "q": "This 10-letter adjective means of great mass; huge and bulky.",
+   "a": "What is gargantuan?",
+   "tier": 4
+  },
+  {
+   "id": "redline-v",
+   "q": "This word means to discriminate in selling or renting housing in certain areas of a neighborhood.",
+   "a": "What is redline?",
+   "tier": 4
+  },
+  {
+   "id": "adjournment-n",
+   "q": "This 11-letter noun means the termination of a meeting.",
+   "a": "What is adjournment?",
+   "tier": 4
+  },
+  {
+   "id": "perturbation-n",
+   "q": "This 12-letter word names an unhappy and worried mental state.",
+   "a": "What is perturbation?",
+   "tier": 4
+  },
+  {
+   "id": "cruciate-a",
+   "q": "This adjective means shaped like a cross.",
+   "a": "What is cruciate?",
+   "tier": 4
+  },
+  {
+   "id": "confound-v",
+   "q": "This 8-letter word means to be confusing or perplexing to; cause to be unable to think clearly.",
+   "a": "What is confound?",
+   "tier": 4
+  },
+  {
+   "id": "libretto-n",
+   "q": "This word names the words of an opera or musical play.",
+   "a": "What is libretto?",
+   "tier": 4
+  },
+  {
+   "id": "premonition-n",
+   "q": "This 11-letter noun refers to a feeling of evil to come.",
+   "a": "What is premonition?",
+   "tier": 4
+  },
+  {
+   "id": "letdown-n",
+   "q": "This 7-letter noun means a feeling of dissatisfaction that results when your expectations are not realized.",
+   "a": "What is letdown?",
+   "tier": 4
+  },
+  {
+   "id": "agitate-v",
+   "q": "This verb means to try to stir up public opinion.",
+   "a": "What is agitate?",
+   "tier": 4
+  },
+  {
+   "id": "jubilant-a",
+   "q": "This 8-letter adjective means joyful and proud especially because of triumph or success.",
+   "a": "What is jubilant?",
+   "tier": 4
+  },
+  {
+   "id": "lubricated-a",
+   "q": "This 10-letter word means smeared with oil or grease to reduce friction.",
+   "a": "What is lubricated?",
+   "tier": 4
+  },
+  {
+   "id": "stoicism-n",
+   "q": "This noun refers to an indifference to pleasure or pain.",
+   "a": "What is stoicism?",
+   "tier": 4
+  },
+  {
+   "id": "uppercut-n",
+   "q": "This word names a swinging blow directed upward.",
+   "a": "What is uppercut?",
+   "tier": 4
+  },
+  {
+   "id": "bewilderment-n",
+   "q": "This 12-letter noun refers to confusion resulting from failure to understand.",
+   "a": "What is bewilderment?",
+   "tier": 4
+  },
+  {
+   "id": "tradesman-n",
+   "q": "This 9-letter noun refers to a merchant who owns or manages a shop.",
+   "a": "What is tradesman?",
+   "tier": 4
+  },
+  {
+   "id": "rheumatism-n",
+   "q": "This word names any painful disorder of the joints or muscles or connective tissues.",
+   "a": "What is rheumatism?",
+   "tier": 4
+  },
+  {
+   "id": "contrition-n",
+   "q": "This 10-letter word names sorrow for sin arising from fear of damnation.",
+   "a": "What is contrition?",
+   "tier": 4
+  },
+  {
+   "id": "circumscribed-a",
+   "q": "This 13-letter word means subject to limits or subjected to limits.",
+   "a": "What is circumscribed?",
+   "tier": 4
+  },
+  {
+   "id": "miniscule-a",
+   "q": "This 9-letter adjective means very small.",
+   "a": "What is miniscule?",
+   "tier": 4
+  },
+  {
+   "id": "exonerate-v",
+   "q": "This 9-letter verb means to pronounce not guilty of criminal charges.",
+   "a": "What is exonerate?",
+   "tier": 4
+  },
+  {
+   "id": "paucity-n",
+   "q": "This 7-letter word names an insufficient quantity or number.",
+   "a": "What is paucity?",
+   "tier": 4
+  },
+  {
+   "id": "denunciation-n",
+   "q": "This word names a public act of denouncing.",
+   "a": "What is denunciation?",
+   "tier": 4
+  },
+  {
+   "id": "garbled-a",
+   "q": "This 7-letter word means lacking orderly continuity.",
+   "a": "What is garbled?",
+   "tier": 4
+  },
+  {
+   "id": "remorseful-a",
+   "q": "This word means feeling or expressing pain or sorrow for sins or offenses.",
+   "a": "What is remorseful?",
+   "tier": 4
+  },
+  {
+   "id": "aforesaid-a",
+   "q": "This 9-letter adjective means being the one previously mentioned or spoken of.",
+   "a": "What is aforesaid?",
+   "tier": 4
+  },
+  {
+   "id": "frizzy-a",
+   "q": "This 6-letter word, said of hair, means in small tight curls.",
+   "a": "What is frizzy?",
+   "tier": 4
+  },
+  {
+   "id": "submerge-v",
+   "q": "This word means to sink below the surface; go under or as if under water.",
+   "a": "What is submerge?",
+   "tier": 4
+  },
+  {
+   "id": "postulate-v",
+   "q": "This 9-letter word means to maintain or assert.",
+   "a": "What is postulate?",
+   "tier": 4
+  },
+  {
+   "id": "letterhead-n",
+   "q": "This word names a sheet of stationery with name and address of the organization printed at the top.",
+   "a": "What is letterhead?",
+   "tier": 4
+  },
+  {
+   "id": "gratified-a",
+   "q": "This adjective means having received what was desired.",
+   "a": "What is gratified?",
+   "tier": 4
+  },
+  {
+   "id": "recherche-a",
+   "q": "This 9-letter adjective means lavishly elegant and refined.",
+   "a": "What is recherche?",
+   "tier": 4
+  },
+  {
+   "id": "unflinching-a",
+   "q": "This adjective means not shrinking from danger.",
+   "a": "What is unflinching?",
+   "tier": 4
+  },
+  {
+   "id": "sidestep-v",
+   "q": "This 8-letter verb means to avoid or try to avoid fulfilling, answering, or performing.",
+   "a": "What is sidestep?",
+   "tier": 4
+  },
+  {
+   "id": "conceptualize-v",
+   "q": "This 13-letter verb means to have the idea for.",
+   "a": "What is conceptualize?",
+   "tier": 4
+  },
+  {
+   "id": "grownup-n",
+   "q": "This 7-letter noun means a fully developed person from maturity onward.",
+   "a": "What is grownup?",
+   "tier": 4
+  },
+  {
+   "id": "irrigate-v",
+   "q": "This 8-letter verb means to supply with water, as with channels or ditches or streams.",
+   "a": "What is irrigate?",
+   "tier": 4
+  },
+  {
+   "id": "exhortation-n",
+   "q": "This noun means a communication intended to urge or persuade the recipients to take some action.",
+   "a": "What is exhortation?",
+   "tier": 4
+  },
+  {
+   "id": "orthography-n",
+   "q": "This noun refers to a method of representing the sounds of a language by written or printed symbols.",
+   "a": "What is orthography?",
+   "tier": 4
+  },
+  {
+   "id": "parallelism-n",
+   "q": "This 11-letter noun refers to similarity by virtue of corresponding.",
+   "a": "What is parallelism?",
+   "tier": 4
+  },
+  {
+   "id": "skydive-v",
+   "q": "This verb means to jump from an airplane and perform various maneuvers before opening one's parachute.",
+   "a": "What is skydive?",
+   "tier": 4
+  },
+  {
+   "id": "transmutation-n",
+   "q": "This noun means an act that changes the form or character or substance of something.",
+   "a": "What is transmutation?",
+   "tier": 4
+  },
+  {
+   "id": "hermetic-a",
+   "q": "This adjective means completely sealed; completely airtight.",
+   "a": "What is hermetic?",
+   "tier": 4
+  },
+  {
+   "id": "heartening-a",
+   "q": "This adjective means cheerfully encouraging.",
+   "a": "What is heartening?",
+   "tier": 4
+  },
+  {
+   "id": "prototypical-a",
+   "q": "This 12-letter adjective means representing or constituting an original type after which other similar things are patterned.",
+   "a": "What is prototypical?",
+   "tier": 4
+  },
+  {
+   "id": "grizzled-a",
+   "q": "This adjective means having dark hairs mixed with grey or white.",
+   "a": "What is grizzled?",
+   "tier": 4
+  },
+  {
+   "id": "claustrophobia-n",
+   "q": "This noun refers to a morbid fear of being closed in a confined space.",
+   "a": "What is claustrophobia?",
+   "tier": 4
+  },
+  {
+   "id": "incantation-n",
+   "q": "This word names a ritual recitation of words or sounds believed to have a magical effect.",
+   "a": "What is incantation?",
+   "tier": 4
+  },
+  {
+   "id": "chivalrous-a",
+   "q": "This 10-letter adjective means being attentive to women like an ideal knight.",
+   "a": "What is chivalrous?",
+   "tier": 4
+  },
+  {
+   "id": "troubleshoot-v",
+   "q": "This 12-letter verb means to solve problems.",
+   "a": "What is troubleshoot?",
+   "tier": 4
+  },
+  {
+   "id": "purveyor-n",
+   "q": "This noun means someone who supplies provisions.",
+   "a": "What is purveyor?",
+   "tier": 4
+  },
+  {
+   "id": "individualist-n",
+   "q": "This noun means a person who pursues independent thought or action.",
+   "a": "What is individualist?",
+   "tier": 4
+  },
+  {
+   "id": "psychotropic-a",
+   "q": "This 12-letter adjective means affecting the mind or mood or other mental processes.",
+   "a": "What is psychotropic?",
+   "tier": 4
+  },
+  {
+   "id": "theorize-v",
+   "q": "This 8-letter verb means to believe especially on uncertain or tentative grounds.",
+   "a": "What is theorize?",
+   "tier": 4
+  },
+  {
+   "id": "vibrancy-n",
+   "q": "This 8-letter noun refers to having the character of a loud deep sound; the quality of being resonant.",
+   "a": "What is vibrancy?",
+   "tier": 4
+  },
+  {
+   "id": "pronouncement-n",
+   "q": "This 13-letter word names an authoritative declaration.",
+   "a": "What is pronouncement?",
+   "tier": 4
+  },
+  {
+   "id": "phobic-a",
+   "q": "This word means suffering from irrational fears.",
+   "a": "What is phobic?",
+   "tier": 4
+  },
+  {
+   "id": "investigatory-a",
+   "q": "This 13-letter adjective means designed to find information or ascertain facts.",
+   "a": "What is investigatory?",
+   "tier": 4
+  },
+  {
+   "id": "sinuous-a",
+   "q": "This adjective means curved or curving in and out.",
+   "a": "What is sinuous?",
+   "tier": 4
+  },
+  {
+   "id": "choosy-a",
+   "q": "This adjective means difficult to please.",
+   "a": "What is choosy?",
+   "tier": 4
+  },
+  {
+   "id": "chequered-a",
+   "q": "This 9-letter word means patterned with alternating squares of color.",
+   "a": "What is chequered?",
+   "tier": 4
+  },
+  {
+   "id": "lethality-n",
+   "q": "This word names the quality of being deadly.",
+   "a": "What is lethality?",
+   "tier": 4
+  },
+  {
+   "id": "logarithm-n",
+   "q": "This 9-letter noun refers to the exponent required to produce a given number.",
+   "a": "What is logarithm?",
+   "tier": 4
+  },
+  {
+   "id": "incorrigible-a",
+   "q": "This word means impervious to correction by punishment.",
+   "a": "What is incorrigible?",
+   "tier": 4
+  },
+  {
+   "id": "hubbub-n",
+   "q": "This 6-letter noun means loud confused noise from many sources.",
+   "a": "What is hubbub?",
+   "tier": 4
+  },
+  {
+   "id": "boastful-a",
+   "q": "This 8-letter adjective means exhibiting self-importance.",
+   "a": "What is boastful?",
+   "tier": 4
+  },
+  {
+   "id": "isotropic-a",
+   "q": "This adjective means invariant with respect to direction.",
+   "a": "What is isotropic?",
+   "tier": 4
+  },
+  {
+   "id": "monopolistic-a",
+   "q": "This adjective means having exclusive control over a commercial activity by possession or legal grant.",
+   "a": "What is monopolistic?",
+   "tier": 4
+  },
+  {
+   "id": "capitulate-v",
+   "q": "This word means to surrender under agreed conditions.",
+   "a": "What is capitulate?",
+   "tier": 4
+  },
+  {
+   "id": "polemical-a",
+   "q": "This 9-letter adjective means of or involving dispute or controversy.",
+   "a": "What is polemical?",
+   "tier": 5
+  },
+  {
+   "id": "expound-v",
+   "q": "This 7-letter word means to add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.",
+   "a": "What is expound?",
+   "tier": 5
+  },
+  {
+   "id": "protrude-v",
+   "q": "This 8-letter word means to extend out or project in space.",
+   "a": "What is protrude?",
+   "tier": 5
+  },
+  {
+   "id": "collude-v",
+   "q": "This 7-letter word means to act in unison or agreement and in secret towards a deceitful or illegal purpose.",
+   "a": "What is collude?",
+   "tier": 5
+  },
+  {
+   "id": "satiety-n",
+   "q": "This noun refers to the state of being satisfactorily full and unable to take on more.",
+   "a": "What is satiety?",
+   "tier": 5
+  },
+  {
+   "id": "incalculable-a",
+   "q": "This word means not capable of being computed or enumerated.",
+   "a": "What is incalculable?",
+   "tier": 5
+  },
+  {
+   "id": "heritable-a",
+   "q": "This word means capable of being inherited.",
+   "a": "What is heritable?",
+   "tier": 5
+  },
+  {
+   "id": "acquiesce-v",
+   "q": "This 9-letter verb means to agree or express agreement.",
+   "a": "What is acquiesce?",
+   "tier": 5
+  },
+  {
+   "id": "eavesdrop-v",
+   "q": "To do this means to listen without the speaker's knowledge.",
+   "a": "What is eavesdrop?",
+   "tier": 5
+  },
+  {
+   "id": "demagogue-n",
+   "q": "This word names a political leader who seeks support by appealing to popular passions and prejudices.",
+   "a": "What is demagogue?",
+   "tier": 5
+  },
+  {
+   "id": "gainful-a",
+   "q": "This 7-letter word means yielding a fair profit.",
+   "a": "What is gainful?",
+   "tier": 5
+  },
+  {
+   "id": "sunder-v",
+   "q": "This verb means to break apart or in two, using violence.",
+   "a": "What is sunder?",
+   "tier": 5
+  },
+  {
+   "id": "paternalistic-a",
+   "q": "This adjective means benevolent but sometimes intrusive.",
+   "a": "What is paternalistic?",
+   "tier": 5
+  },
+  {
+   "id": "recumbent-a",
+   "q": "This word means lying down; in a position of comfort or rest.",
+   "a": "What is recumbent?",
+   "tier": 5
+  },
+  {
+   "id": "plaintive-a",
+   "q": "This 9-letter adjective means expressing sorrow.",
+   "a": "What is plaintive?",
+   "tier": 5
+  },
+  {
+   "id": "callow-a",
+   "q": "This 6-letter word means young and inexperienced.",
+   "a": "What is callow?",
+   "tier": 5
+  },
+  {
+   "id": "illiberal-a",
+   "q": "This 9-letter adjective means narrow-minded about cherished opinions.",
+   "a": "What is illiberal?",
+   "tier": 5
+  },
+  {
+   "id": "equidistant-a",
+   "q": "This adjective means the same distance apart at every point.",
+   "a": "What is equidistant?",
+   "tier": 5
+  },
+  {
+   "id": "whirring-n",
+   "q": "This word names sound of something in rapid motion.",
+   "a": "What is whirring?",
+   "tier": 5
+  },
+  {
+   "id": "aliphatic-a",
+   "q": "This adjective means having carbon atoms linked in open chains.",
+   "a": "What is aliphatic?",
+   "tier": 5
+  },
+  {
+   "id": "humorist-n",
+   "q": "This noun means someone who acts speaks or writes in an amusing way.",
+   "a": "What is humorist?",
+   "tier": 5
+  },
+  {
+   "id": "luminescent-a",
+   "q": "This adjective means emitting light not caused by heat.",
+   "a": "What is luminescent?",
+   "tier": 5
+  },
+  {
+   "id": "gleeful-a",
+   "q": "This 7-letter adjective means full of high-spirited delight.",
+   "a": "What is gleeful?",
+   "tier": 5
+  },
+  {
+   "id": "goggle-v",
+   "q": "This 6-letter verb means to look with amazement; look stupidly.",
+   "a": "What is goggle?",
+   "tier": 5
+  },
+  {
+   "id": "bipedal-a",
+   "q": "This 7-letter adjective means having two feet.",
+   "a": "What is bipedal?",
+   "tier": 5
+  },
+  {
+   "id": "squawk-v",
+   "q": "This 6-letter verb means to utter a harsh abrupt scream.",
+   "a": "What is squawk?",
+   "tier": 5
+  },
+  {
+   "id": "temerity-n",
+   "q": "This 8-letter noun refers to fearless daring.",
+   "a": "What is temerity?",
+   "tier": 5
+  },
+  {
+   "id": "reverberation-n",
+   "q": "This 13-letter noun means the repetition of a sound resulting from reflection of the sound waves.",
+   "a": "What is reverberation?",
+   "tier": 5
+  },
+  {
+   "id": "infuriate-v",
+   "q": "This 9-letter word means to make furious.",
+   "a": "What is infuriate?",
+   "tier": 5
+  },
+  {
+   "id": "situate-v",
+   "q": "This 7-letter verb means to determine or indicate the place, site, or limits of, as if by an instrument or by a survey.",
+   "a": "What is situate?",
+   "tier": 5
+  },
+  {
+   "id": "clairvoyance-n",
+   "q": "This 12-letter word names apparent power to perceive things that are not present to the senses.",
+   "a": "What is clairvoyance?",
+   "tier": 5
+  },
+  {
+   "id": "simile-n",
+   "q": "This noun means a figure of speech that expresses a resemblance between things of different kinds.",
+   "a": "What is simile?",
+   "tier": 5
+  },
+  {
+   "id": "deride-v",
+   "q": "This verb means to treat or speak of with contempt.",
+   "a": "What is deride?",
+   "tier": 5
+  },
+  {
+   "id": "trudge-v",
+   "q": "This 6-letter word means to walk heavily and firmly, as when weary, or through mud.",
+   "a": "What is trudge?",
+   "tier": 5
+  },
+  {
+   "id": "prance-v",
+   "q": "This 6-letter verb means to walk with a lofty proud gait, often in an attempt to impress others.",
+   "a": "What is prance?",
+   "tier": 5
+  },
+  {
+   "id": "beckon-v",
+   "q": "This 6-letter verb means to signal with the hands or nod.",
+   "a": "What is beckon?",
+   "tier": 5
+  },
+  {
+   "id": "foreshadow-v",
+   "q": "This 10-letter verb means to indicate by signs.",
+   "a": "What is foreshadow?",
+   "tier": 5
+  },
+  {
+   "id": "lamentation-n",
+   "q": "This 11-letter noun refers to a cry of sorrow and grief.",
+   "a": "What is lamentation?",
+   "tier": 5
+  },
+  {
+   "id": "perpetuation-n",
+   "q": "This 12-letter noun means the act of prolonging something.",
+   "a": "What is perpetuation?",
+   "tier": 5
+  },
+  {
+   "id": "sinusoidal-a",
+   "q": "This word means having a succession of waves or curves.",
+   "a": "What is sinusoidal?",
+   "tier": 5
+  },
+  {
+   "id": "defray-v",
+   "q": "This word means to bear the expenses of.",
+   "a": "What is defray?",
+   "tier": 5
+  },
+  {
+   "id": "titration-n",
+   "q": "This noun refers to a measured amount of a solution of unknown concentration is added to a known volume of a second solution until the reaction between them is just complete; the concentration of the unknown solution can then be calculated.",
+   "a": "What is titration?",
+   "tier": 5
+  },
+  {
+   "id": "fracas-n",
+   "q": "This 6-letter noun refers to noisy quarrel.",
+   "a": "What is fracas?",
+   "tier": 5
+  },
+  {
+   "id": "pachinko-n",
+   "q": "This noun means a Japanese pinball game played on a vertical board.",
+   "a": "What is pachinko?",
+   "tier": 5
+  },
+  {
+   "id": "infantryman-n",
+   "q": "This word names fights on foot with small arms.",
+   "a": "What is infantryman?",
+   "tier": 5
+  },
+  {
+   "id": "brindle-a",
+   "q": "This 7-letter word means having a grey or brown streak or a pattern or a patchy coloring.",
+   "a": "What is brindle?",
+   "tier": 5
+  },
+  {
+   "id": "psychical-a",
+   "q": "This 9-letter adjective means affecting or influenced by the human mind.",
+   "a": "What is psychical?",
+   "tier": 5
+  },
+  {
+   "id": "satiated-a",
+   "q": "This adjective means supplied to satisfaction.",
+   "a": "What is satiated?",
+   "tier": 5
+  },
+  {
+   "id": "missive-n",
+   "q": "This 7-letter noun means a written message addressed to a person or organization.",
+   "a": "What is missive?",
+   "tier": 5
+  },
+  {
+   "id": "esthetic-a",
+   "q": "This 8-letter word means concerning or characterized by an appreciation of beauty or good taste.",
+   "a": "What is esthetic?",
+   "tier": 5
+  },
+  {
+   "id": "unmolested-a",
+   "q": "This word means not interfered with, disturbed, or harmed.",
+   "a": "What is unmolested?",
+   "tier": 5
+  },
+  {
+   "id": "aplomb-n",
+   "q": "This 6-letter word names great coolness and composure under strain.",
+   "a": "What is aplomb?",
+   "tier": 5
+  },
+  {
+   "id": "apologia-n",
+   "q": "This 8-letter noun refers to a formal written defense of something you believe in strongly.",
+   "a": "What is apologia?",
+   "tier": 5
+  },
+  {
+   "id": "brawny-a",
+   "q": "This 6-letter adjective, said of a person, means possessing physical strength and weight; rugged and powerful.",
+   "a": "What is brawny?",
+   "tier": 5
+  },
+  {
+   "id": "serendipitous-a",
+   "q": "This adjective means lucky in making unexpected and fortunate discoveries.",
+   "a": "What is serendipitous?",
+   "tier": 5
+  },
+  {
+   "id": "sebaceous-a",
+   "q": "This 9-letter adjective means containing an unusual amount of grease or oil.",
+   "a": "What is sebaceous?",
+   "tier": 5
+  },
+  {
+   "id": "gunplay-n",
+   "q": "This 7-letter noun refers to a fight involving shooting small arms with the intent to kill or frighten.",
+   "a": "What is gunplay?",
+   "tier": 5
+  },
+  {
+   "id": "decedent-n",
+   "q": "This 8-letter noun means someone who is no longer alive.",
+   "a": "What is decedent?",
+   "tier": 5
+  },
+  {
+   "id": "isothermal-a",
+   "q": "This adjective means of a process or change taking place at constant temperature.",
+   "a": "What is isothermal?",
+   "tier": 5
+  },
+  {
+   "id": "maladaptive-a",
+   "q": "This adjective means showing faulty adaptation.",
+   "a": "What is maladaptive?",
+   "tier": 5
+  },
+  {
+   "id": "coddle-v",
+   "q": "This 6-letter verb means to treat with excessive indulgence.",
+   "a": "What is coddle?",
+   "tier": 5
+  },
+  {
+   "id": "construe-v",
+   "q": "This 8-letter word means to make sense of; assign a meaning to.",
+   "a": "What is construe?",
+   "tier": 5
+  },
+  {
+   "id": "quackery-n",
+   "q": "This noun refers to medical practice and advice based on observation and experience in ignorance of scientific findings.",
+   "a": "What is quackery?",
+   "tier": 5
+  },
+  {
+   "id": "perusal-n",
+   "q": "This 7-letter noun refers to reading carefully with intent to remember.",
+   "a": "What is perusal?",
+   "tier": 5
+  },
+  {
+   "id": "infirmity-n",
+   "q": "This 9-letter word names the state of being weak in health or body.",
+   "a": "What is infirmity?",
+   "tier": 5
+  },
+  {
+   "id": "dignitary-n",
+   "q": "This 9-letter noun means an important or influential person.",
+   "a": "What is dignitary?",
+   "tier": 5
+  },
+  {
+   "id": "pitiless-a",
+   "q": "This 8-letter word means without mercy or pity.",
+   "a": "What is pitiless?",
+   "tier": 5
+  },
+  {
+   "id": "expeditious-a",
+   "q": "This adjective means marked by speed and efficiency.",
+   "a": "What is expeditious?",
+   "tier": 5
+  },
+  {
+   "id": "dichotomous-a",
+   "q": "This word means divided or dividing into two sharply distinguished parts or classifications.",
+   "a": "What is dichotomous?",
+   "tier": 5
+  },
+  {
+   "id": "misappropriated-a",
+   "q": "This 15-letter adjective means taken for your own use in violation of a trust.",
+   "a": "What is misappropriated?",
+   "tier": 5
+  },
+  {
+   "id": "brokenhearted-a",
+   "q": "This 13-letter adjective means full of sorrow.",
+   "a": "What is brokenhearted?",
+   "tier": 5
+  },
+  {
+   "id": "astound-v",
+   "q": "This 7-letter verb means to affect with wonder.",
+   "a": "What is astound?",
+   "tier": 5
+  },
+  {
+   "id": "itemize-v",
+   "q": "This 7-letter verb means to specify individually.",
+   "a": "What is itemize?",
+   "tier": 5
+  },
+  {
+   "id": "embolden-v",
+   "q": "This 8-letter word means to give encouragement to.",
+   "a": "What is embolden?",
+   "tier": 5
+  },
+  {
+   "id": "profuse-a",
+   "q": "This 7-letter adjective means produced or growing in extreme abundance.",
+   "a": "What is profuse?",
+   "tier": 5
+  },
+  {
+   "id": "bemoan-v",
+   "q": "This 6-letter word means to regret strongly.",
+   "a": "What is bemoan?",
+   "tier": 5
+  },
+  {
+   "id": "miscegenation-n",
+   "q": "This noun means reproduction by parents of different races.",
+   "a": "What is miscegenation?",
+   "tier": 5
+  },
+  {
+   "id": "seasick-a",
+   "q": "This word means experiencing motion sickness.",
+   "a": "What is seasick?",
+   "tier": 5
+  },
+  {
+   "id": "grovel-v",
+   "q": "This 6-letter word means to show submission or fear.",
+   "a": "What is grovel?",
+   "tier": 5
+  },
+  {
+   "id": "obfuscate-v",
+   "q": "This word means to make obscure or unclear.",
+   "a": "What is obfuscate?",
+   "tier": 5
+  },
+  {
+   "id": "imprimatur-n",
+   "q": "This 10-letter word names formal and explicit approval.",
+   "a": "What is imprimatur?",
+   "tier": 5
+  },
+  {
+   "id": "egotism-n",
+   "q": "This 7-letter noun refers to an exaggerated opinion of your own importance.",
+   "a": "What is egotism?",
+   "tier": 5
+  },
+  {
+   "id": "coeducational-a",
+   "q": "This 13-letter adjective means attended by members of both sexes.",
+   "a": "What is coeducational?",
+   "tier": 5
+  },
+  {
+   "id": "gossipy-a",
+   "q": "This 7-letter adjective means prone to friendly informal communication.",
+   "a": "What is gossipy?",
+   "tier": 5
+  },
+  {
+   "id": "expunge-v",
+   "q": "This 7-letter verb means to remove by erasing or crossing out or as if by drawing a line.",
+   "a": "What is expunge?",
+   "tier": 5
+  },
+  {
+   "id": "stepwise-a",
+   "q": "This 8-letter adjective means one thing at a time.",
+   "a": "What is stepwise?",
+   "tier": 5
+  },
+  {
+   "id": "germinal-a",
+   "q": "This 8-letter adjective means containing seeds of later development.",
+   "a": "What is germinal?",
+   "tier": 5
+  },
+  {
+   "id": "circumnavigate-v",
+   "q": "This 14-letter word means to travel around, either by plane or ship.",
+   "a": "What is circumnavigate?",
+   "tier": 5
+  },
+  {
+   "id": "exculpatory-a",
+   "q": "This adjective means clearing of guilt or blame.",
+   "a": "What is exculpatory?",
+   "tier": 5
+  },
+  {
+   "id": "glutinous-a",
+   "q": "This 9-letter adjective means having the sticky properties of an adhesive.",
+   "a": "What is glutinous?",
+   "tier": 5
+  },
+  {
+   "id": "nubile-a",
+   "q": "This adjective means of girls or women who are eligible to marry.",
+   "a": "What is nubile?",
+   "tier": 5
+  },
+  {
+   "id": "contralateral-a",
+   "q": "This adjective means on or relating to the opposite side.",
+   "a": "What is contralateral?",
+   "tier": 5
+  },
+  {
+   "id": "ingratiate-v",
+   "q": "To do this means to gain favor with somebody by deliberate efforts.",
+   "a": "What is ingratiate?",
+   "tier": 5
+  },
+  {
+   "id": "whodunit-n",
+   "q": "This 8-letter noun refers to a story about a crime presented as a novel or play or movie.",
+   "a": "What is whodunit?",
+   "tier": 5
+  },
+  {
+   "id": "skulking-n",
+   "q": "This word names evading duty or work by pretending to be incapacitated.",
+   "a": "What is skulking?",
+   "tier": 5
+  },
+  {
+   "id": "fusiform-a",
+   "q": "This 8-letter adjective means tapering at each end.",
+   "a": "What is fusiform?",
+   "tier": 5
+  },
+  {
+   "id": "debilitated-a",
+   "q": "This adjective means lacking strength or vigor.",
+   "a": "What is debilitated?",
+   "tier": 5
+  },
+  {
+   "id": "clamber-v",
+   "q": "This 7-letter word means to climb awkwardly, as if by scrambling.",
+   "a": "What is clamber?",
+   "tier": 5
+  },
+  {
+   "id": "boatswain-n",
+   "q": "This noun refers to a petty officer on a merchant ship who controls the work of other seamen.",
+   "a": "What is boatswain?",
+   "tier": 5
+  },
+  {
+   "id": "commiserate-v",
+   "q": "This 11-letter verb means to feel or express sympathy or compassion.",
+   "a": "What is commiserate?",
+   "tier": 5
+  },
+  {
+   "id": "surmount-v",
+   "q": "This 8-letter word means to get on top of; deal with successfully.",
+   "a": "What is surmount?",
+   "tier": 5
+  },
+  {
+   "id": "deregulate-v",
+   "q": "To do this means to lift the regulations on.",
+   "a": "What is deregulate?",
+   "tier": 5
+  },
+  {
+   "id": "egoistic-a",
+   "q": "This 8-letter adjective means limited to or caring only about yourself and your own needs.",
+   "a": "What is egoistic?",
+   "tier": 5
+  },
+  {
+   "id": "apportion-v",
+   "q": "This 9-letter word means to distribute according to a plan or set apart for a special purpose.",
+   "a": "What is apportion?",
+   "tier": 5
+  },
+  {
+   "id": "soothsayer-n",
+   "q": "This 10-letter noun means someone who makes predictions of the future.",
+   "a": "What is soothsayer?",
+   "tier": 5
+  },
+  {
+   "id": "mortician-n",
+   "q": "This 9-letter word names one whose business is the management of funerals.",
+   "a": "What is mortician?",
+   "tier": 5
+  },
+  {
+   "id": "misanthrope-n",
+   "q": "This noun refers to someone who dislikes people in general.",
+   "a": "What is misanthrope?",
+   "tier": 5
+  },
+  {
+   "id": "luckless-a",
+   "q": "This 8-letter adjective means having or bringing misfortune.",
+   "a": "What is luckless?",
+   "tier": 5
+  },
+  {
+   "id": "compunction-n",
+   "q": "This 11-letter word names a feeling of deep regret.",
+   "a": "What is compunction?",
+   "tier": 5
+  },
+  {
+   "id": "remunerated-a",
+   "q": "This 11-letter adjective means receiving or eligible for compensation.",
+   "a": "What is remunerated?",
+   "tier": 5
+  },
+  {
+   "id": "cheapen-v",
+   "q": "This 7-letter verb means to lower the grade of something; reduce its worth.",
+   "a": "What is cheapen?",
+   "tier": 5
+  },
+  {
+   "id": "verisimilitude-n",
+   "q": "This word names the appearance of truth; the quality of seeming to be true.",
+   "a": "What is verisimilitude?",
+   "tier": 5
+  },
+  {
+   "id": "segregationist-n",
+   "q": "This noun refers to someone who believes the races should be kept apart.",
+   "a": "What is segregationist?",
+   "tier": 5
+  },
+  {
+   "id": "rectitude-n",
+   "q": "This noun means righteousness as a consequence of being honorable and honest.",
+   "a": "What is rectitude?",
+   "tier": 5
+  },
+  {
+   "id": "disburse-v",
+   "q": "This verb means to expend, as from a fund.",
+   "a": "What is disburse?",
+   "tier": 5
+  },
+  {
+   "id": "pervade-v",
+   "q": "This 7-letter verb means to spread or diffuse through.",
+   "a": "What is pervade?",
+   "tier": 5
+  },
+  {
+   "id": "epigram-n",
+   "q": "This 7-letter noun refers to a witty saying.",
+   "a": "What is epigram?",
+   "tier": 5
+  },
+  {
+   "id": "resinous-a",
+   "q": "This adjective means having the characteristics of pitch or tar.",
+   "a": "What is resinous?",
+   "tier": 5
+  },
+  {
+   "id": "crestfallen-a",
+   "q": "This 11-letter adjective means brought low in spirit.",
+   "a": "What is crestfallen?",
+   "tier": 5
+  },
+  {
+   "id": "impinging-n",
+   "q": "This 9-letter noun means the physical coming together of two or more things.",
+   "a": "What is impinging?",
+   "tier": 5
+  },
+  {
+   "id": "pallor-n",
+   "q": "This noun refers to unnatural lack of color in the skin.",
+   "a": "What is pallor?",
+   "tier": 5
+  },
+  {
+   "id": "rudderless-a",
+   "q": "This 10-letter adjective means aimlessly drifting.",
+   "a": "What is rudderless?",
+   "tier": 5
+  },
+  {
+   "id": "sublimated-a",
+   "q": "This word means passing or having passed from the solid to the gaseous state without becoming liquid.",
+   "a": "What is sublimated?",
+   "tier": 5
+  },
+  {
+   "id": "dejection-n",
+   "q": "This noun refers to a state of melancholy depression.",
+   "a": "What is dejection?",
+   "tier": 5
+  },
+  {
+   "id": "succor-n",
+   "q": "This 6-letter word names assistance in time of difficulty.",
+   "a": "What is succor?",
+   "tier": 5
+  },
+  {
+   "id": "coalescence-n",
+   "q": "This 11-letter noun refers to the union of diverse things into one body or form or group; the growing together of parts.",
+   "a": "What is coalescence?",
+   "tier": 5
+  },
+  {
+   "id": "sintered-a",
+   "q": "This adjective means formed into a mass by heat and pressure.",
+   "a": "What is sintered?",
+   "tier": 5
+  },
+  {
+   "id": "obsequious-a",
+   "q": "This 10-letter adjective means attempting to win favor from influential people by flattery.",
+   "a": "What is obsequious?",
+   "tier": 5
+  },
+  {
+   "id": "upmost-a",
+   "q": "This 6-letter word means at or nearest to the top.",
+   "a": "What is upmost?",
+   "tier": 5
+  },
+  {
+   "id": "umpteen-a",
+   "q": "This adjective means innumerable but many.",
+   "a": "What is umpteen?",
+   "tier": 5
+  },
+  {
+   "id": "megalomania-n",
+   "q": "This noun refers to a psychological state characterized by delusions of grandeur.",
+   "a": "What is megalomania?",
+   "tier": 5
+  },
+  {
+   "id": "nitpick-v",
+   "q": "To do this means to be overly critical; criticize minor details.",
+   "a": "What is nitpick?",
+   "tier": 5
+  },
+  {
+   "id": "sniveling-n",
+   "q": "This noun means whining in a tearful manner.",
+   "a": "What is sniveling?",
+   "tier": 5
+  },
+  {
+   "id": "accredit-v",
+   "q": "This 8-letter verb means to grant credentials to.",
+   "a": "What is accredit?",
+   "tier": 5
+  },
+  {
+   "id": "backbreaking-a",
+   "q": "This 12-letter adjective means characterized by effort to the point of exhaustion.",
+   "a": "What is backbreaking?",
+   "tier": 5
+  },
+  {
+   "id": "impugn-v",
+   "q": "This verb means to attack as false or wrong.",
+   "a": "What is impugn?",
+   "tier": 5
+  },
+  {
+   "id": "blackening-n",
+   "q": "This 10-letter noun means changing to a darker color.",
+   "a": "What is blackening?",
+   "tier": 5
+  },
+  {
+   "id": "mellifluous-a",
+   "q": "This 11-letter adjective means pleasing to the ear.",
+   "a": "What is mellifluous?",
+   "tier": 5
+  },
+  {
+   "id": "cadenza-n",
+   "q": "This word names a brilliant solo passage occurring near the end of a piece of music.",
+   "a": "What is cadenza?",
+   "tier": 5
+  },
+  {
+   "id": "indolence-n",
+   "q": "This 9-letter word names inactivity resulting from a dislike of work.",
+   "a": "What is indolence?",
+   "tier": 5
+  },
+  {
+   "id": "hygroscopic-a",
+   "q": "This adjective means absorbing moisture.",
+   "a": "What is hygroscopic?",
+   "tier": 5
+  },
+  {
+   "id": "seafarer-n",
+   "q": "This 8-letter noun refers to a man who serves as a sailor.",
+   "a": "What is seafarer?",
+   "tier": 5
+  },
+  {
+   "id": "monied-a",
+   "q": "This adjective means based on or arising from the possession of money or wealth.",
+   "a": "What is monied?",
+   "tier": 5
+  },
+  {
+   "id": "accustom-v",
+   "q": "This word means to make psychologically or physically used.",
+   "a": "What is accustom?",
+   "tier": 5
+  },
+  {
+   "id": "pilfer-v",
+   "q": "This 6-letter verb means to make off with belongings of others.",
+   "a": "What is pilfer?",
+   "tier": 5
+  },
+  {
+   "id": "betide-v",
+   "q": "This 6-letter verb means to become of; happen to.",
+   "a": "What is betide?",
+   "tier": 5
+  },
+  {
+   "id": "certitude-n",
+   "q": "This noun refers to total certainty or greater certainty than circumstances warrant.",
+   "a": "What is certitude?",
+   "tier": 5
+  },
+  {
+   "id": "nearsighted-a",
+   "q": "This 11-letter adjective means unable to see distant objects clearly.",
+   "a": "What is nearsighted?",
+   "tier": 5
+  },
+  {
+   "id": "voluble-a",
+   "q": "This word means marked by a ready flow of speech.",
+   "a": "What is voluble?",
+   "tier": 5
+  },
+  {
+   "id": "epitomize-v",
+   "q": "This word means to embody the essential characteristics of or be a typical example of.",
+   "a": "What is epitomize?",
+   "tier": 5
+  },
+  {
+   "id": "kibosh-v",
+   "q": "This 6-letter word means to stop from happening or developing.",
+   "a": "What is kibosh?",
+   "tier": 5
+  },
+  {
+   "id": "unicameral-a",
+   "q": "This word means composed of one legislative body.",
+   "a": "What is unicameral?",
+   "tier": 5
+  },
+  {
+   "id": "contort-v",
+   "q": "This 7-letter verb means to twist and press out of shape.",
+   "a": "What is contort?",
+   "tier": 5
+  },
+  {
+   "id": "busboy-n",
+   "q": "This noun means a restaurant attendant who sets tables and assists waiters and clears away dirty dishes.",
+   "a": "What is busboy?",
+   "tier": 5
+  },
+  {
+   "id": "insularity-n",
+   "q": "This 10-letter noun refers to the state of being isolated or detached.",
+   "a": "What is insularity?",
+   "tier": 5
+  },
+  {
+   "id": "bactericidal-a",
+   "q": "This 12-letter word means preventing infection by inhibiting the growth or action of microorganisms.",
+   "a": "What is bactericidal?",
+   "tier": 5
+  },
+  {
+   "id": "housebreaking-n",
+   "q": "This 13-letter word names trespassing for an unlawful purpose; illegal entrance into premises with criminal intent.",
+   "a": "What is housebreaking?",
+   "tier": 5
+  },
+  {
+   "id": "doctrinaire-a",
+   "q": "This word means stubbornly insistent on theory without regard for practicality or suitability.",
+   "a": "What is doctrinaire?",
+   "tier": 5
+  },
+  {
+   "id": "slacken-v",
+   "q": "This 7-letter word means to become slow or slower.",
+   "a": "What is slacken?",
+   "tier": 5
+  },
+  {
+   "id": "besmirch-v",
+   "q": "This 8-letter verb means to charge falsely or with malicious intent; attack the good name and reputation of someone.",
+   "a": "What is besmirch?",
+   "tier": 5
+  },
+  {
+   "id": "coterminous-a",
+   "q": "This adjective means being of equal extent or scope or duration.",
+   "a": "What is coterminous?",
+   "tier": 5
+  },
+  {
+   "id": "evince-v",
+   "q": "This 6-letter verb means to give expression to.",
+   "a": "What is evince?",
+   "tier": 5
+  },
+  {
+   "id": "cohabit-v",
+   "q": "This verb means to share living quarters.",
+   "a": "What is cohabit?",
+   "tier": 5
+  },
+  {
+   "id": "connote-v",
+   "q": "This 7-letter word means to express or state indirectly.",
+   "a": "What is connote?",
+   "tier": 5
+  },
+  {
+   "id": "whinny-v",
+   "q": "This word means to make a characteristic sound, of a horse.",
+   "a": "What is whinny?",
+   "tier": 5
+  },
+  {
+   "id": "perpetration-n",
+   "q": "This 12-letter noun refers to the act of committing a crime.",
+   "a": "What is perpetration?",
+   "tier": 5
+  },
+  {
+   "id": "proinflammatory-a",
+   "q": "This 15-letter adjective means tending to cause inflammation.",
+   "a": "What is proinflammatory?",
+   "tier": 5
+  },
+  {
+   "id": "revitalising-a",
+   "q": "This 12-letter adjective means tending to impart new life and vigor to.",
+   "a": "What is revitalising?",
+   "tier": 5
+  },
+  {
+   "id": "accost-v",
+   "q": "This 6-letter word means to speak to someone.",
+   "a": "What is accost?",
+   "tier": 5
+  },
+  {
+   "id": "straggler-n",
+   "q": "This noun means someone who strays or falls behind.",
+   "a": "What is straggler?",
+   "tier": 5
+  },
+  {
+   "id": "celerity-n",
+   "q": "This 8-letter noun refers to a rate that is rapid.",
+   "a": "What is celerity?",
+   "tier": 5
+  },
+  {
+   "id": "transonic-a",
+   "q": "This 9-letter adjective, said of speed, means having or caused by speed approximately equal to that of sound in air at sea level.",
+   "a": "What is transonic?",
+   "tier": 5
+  },
+  {
+   "id": "idiosyncrasy-n",
+   "q": "This word names a behavioral attribute that is distinctive and peculiar to an individual.",
+   "a": "What is idiosyncrasy?",
+   "tier": 5
+  },
+  {
+   "id": "wakeful-a",
+   "q": "This 7-letter word means carefully observant or attentive; on the lookout for possible danger.",
+   "a": "What is wakeful?",
+   "tier": 5
+  },
+  {
+   "id": "egotist-n",
+   "q": "This word names a conceited and self-centered person.",
+   "a": "What is egotist?",
+   "tier": 5
+  },
+  {
+   "id": "braggadocio-n",
+   "q": "This 11-letter noun refers to vain and empty boasting.",
+   "a": "What is braggadocio?",
+   "tier": 5
+  },
+  {
+   "id": "willowy-a",
+   "q": "This adjective means slender and graceful.",
+   "a": "What is willowy?",
+   "tier": 5
+  },
+  {
+   "id": "stanch-v",
+   "q": "This 6-letter verb means to stop the flow of a liquid.",
+   "a": "What is stanch?",
+   "tier": 5
+  },
+  {
+   "id": "traipse-v",
+   "q": "To do this means to walk or tramp about.",
+   "a": "What is traipse?",
+   "tier": 5
+  },
+  {
+   "id": "exultation-n",
+   "q": "This 10-letter word names a feeling of extreme joy.",
+   "a": "What is exultation?",
+   "tier": 5
+  },
+  {
+   "id": "monopolization-n",
+   "q": "This noun refers to domination to the exclusion of others.",
+   "a": "What is monopolization?",
+   "tier": 5
+  },
+  {
+   "id": "anadromous-a",
+   "q": "This adjective means migrating from the sea to fresh water to spawn.",
+   "a": "What is anadromous?",
+   "tier": 5
+  },
+  {
+   "id": "plenitude-n",
+   "q": "This 9-letter noun refers to a full supply.",
+   "a": "What is plenitude?",
+   "tier": 5
+  },
+  {
+   "id": "solicitude-n",
+   "q": "This word names a feeling of excessive concern.",
+   "a": "What is solicitude?",
+   "tier": 5
+  },
+  {
+   "id": "coplanar-a",
+   "q": "This adjective means lying in the same plane.",
+   "a": "What is coplanar?",
+   "tier": 5
+  },
+  {
+   "id": "unendurable-a",
+   "q": "This 11-letter adjective means incapable of being put up with.",
+   "a": "What is unendurable?",
+   "tier": 5
+  },
+  {
+   "id": "reniform-a",
+   "q": "This 8-letter adjective, said of a leaf or bean shape, means resembling the shape of kidney.",
+   "a": "What is reniform?",
+   "tier": 5
+  },
+  {
+   "id": "pealing-n",
+   "q": "This 7-letter noun means a deep prolonged sound.",
+   "a": "What is pealing?",
+   "tier": 5
+  },
+  {
+   "id": "overtop-v",
+   "q": "This 7-letter verb means to look down on.",
+   "a": "What is overtop?",
+   "tier": 5
+  },
+  {
+   "id": "windbag-n",
+   "q": "This noun means a boring person who talks a great deal about uninteresting topics.",
+   "a": "What is windbag?",
+   "tier": 5
+  },
+  {
+   "id": "aflutter-a",
+   "q": "This 8-letter adjective means excited in anticipation.",
+   "a": "What is aflutter?",
+   "tier": 5
+  },
+  {
+   "id": "falsifiable-a",
+   "q": "This 11-letter adjective means capable of being tested by experiment or observation.",
+   "a": "What is falsifiable?",
+   "tier": 5
+  },
+  {
+   "id": "atomistic-a",
+   "q": "This word means divided into separate and often disparate elements.",
+   "a": "What is atomistic?",
+   "tier": 5
+  },
+  {
+   "id": "poseur-n",
+   "q": "This 6-letter word names a person who habitually pretends to be something he is not.",
+   "a": "What is poseur?",
+   "tier": 5
+  },
+  {
+   "id": "catcall-n",
+   "q": "This noun refers to a cry expressing disapproval.",
+   "a": "What is catcall?",
+   "tier": 5
+  },
+  {
+   "id": "dextrous-a",
+   "q": "This 8-letter adjective means skillful in physical movements.",
+   "a": "What is dextrous?",
+   "tier": 5
+  },
+  {
+   "id": "levelheaded-a",
+   "q": "This 11-letter adjective means exercising or showing good judgment.",
+   "a": "What is levelheaded?",
+   "tier": 5
+  },
+  {
+   "id": "fantabulous-a",
+   "q": "This 11-letter adjective means very good;of the highest quality.",
+   "a": "What is fantabulous?",
+   "tier": 5
+  },
+  {
+   "id": "tattling-a",
+   "q": "This 8-letter adjective means prone to communicate confidential information.",
+   "a": "What is tattling?",
+   "tier": 5
+  },
+  {
+   "id": "embalm-v",
+   "q": "This word means to preserve a dead body.",
+   "a": "What is embalm?",
+   "tier": 5
+  },
+  {
+   "id": "foppish-a",
+   "q": "This adjective means affecting extreme elegance in dress and manner.",
+   "a": "What is foppish?",
+   "tier": 5
+  },
+  {
+   "id": "mutineer-n",
+   "q": "This noun means someone who is openly rebellious and refuses to obey authorities.",
+   "a": "What is mutineer?",
+   "tier": 5
+  },
+  {
+   "id": "remonstrance-n",
+   "q": "This 12-letter noun means the act of expressing earnest opposition or protest.",
+   "a": "What is remonstrance?",
+   "tier": 5
+  },
+  {
+   "id": "colonnaded-a",
+   "q": "This word means having a series of columns arranged at regular intervals.",
+   "a": "What is colonnaded?",
+   "tier": 5
+  },
+  {
+   "id": "bloodcurdling-a",
+   "q": "This 13-letter adjective means extremely alarming.",
+   "a": "What is bloodcurdling?",
+   "tier": 5
+  },
+  {
+   "id": "occlude-v",
+   "q": "This 7-letter word means to block passage through.",
+   "a": "What is occlude?",
+   "tier": 5
+  },
+  {
+   "id": "henpecked-a",
+   "q": "This 9-letter word means harassed by persistent nagging.",
+   "a": "What is henpecked?",
+   "tier": 5
+  },
+  {
+   "id": "aperiodic-a",
+   "q": "This adjective means not recurring at regular intervals.",
+   "a": "What is aperiodic?",
+   "tier": 5
+  },
+  {
+   "id": "wisecrack-v",
+   "q": "This word means to make a comment, usually ironic.",
+   "a": "What is wisecrack?",
+   "tier": 5
+  },
+  {
+   "id": "insouciance-n",
+   "q": "This noun means the cheerful feeling you have when nothing is troubling you.",
+   "a": "What is insouciance?",
+   "tier": 5
+  },
+  {
+   "id": "flitter-v",
+   "q": "This 7-letter verb means to move back and forth very rapidly.",
+   "a": "What is flitter?",
+   "tier": 5
+  },
+  {
+   "id": "destress-v",
+   "q": "This 8-letter verb means to reduce the emphasis.",
+   "a": "What is destress?",
+   "tier": 5
+  },
+  {
+   "id": "deglaze-v",
+   "q": "This verb means to dissolve cooking juices or solid food in by adding liquid and stirring.",
+   "a": "What is deglaze?",
+   "tier": 5
+  },
+  {
+   "id": "finagle-v",
+   "q": "This 7-letter verb means to achieve something by means of trickery or devious methods.",
+   "a": "What is finagle?",
+   "tier": 5
+  },
+  {
+   "id": "basileus-n",
+   "q": "This noun means a ruler of the eastern Roman Empire.",
+   "a": "What is basileus?",
+   "tier": 5
+  },
+  {
+   "id": "interactional-a",
+   "q": "This 13-letter word means capable of acting on or influencing each other.",
+   "a": "What is interactional?",
+   "tier": 5
+  },
+  {
+   "id": "encamp-v",
+   "q": "This 6-letter word means to live in or as if in a tent.",
+   "a": "What is encamp?",
+   "tier": 5
+  },
+  {
+   "id": "hierarchal-a",
+   "q": "This 10-letter adjective means classified according to various criteria into successive levels or layers.",
+   "a": "What is hierarchal?",
+   "tier": 5
+  },
+  {
+   "id": "hemostatic-a",
+   "q": "This adjective means tending to check bleeding by contracting the tissues or blood vessels.",
+   "a": "What is hemostatic?",
+   "tier": 5
+  },
+  {
+   "id": "skedaddle-v",
+   "q": "This word means to run away, as if in a panic.",
+   "a": "What is skedaddle?",
+   "tier": 5
+  },
+  {
+   "id": "vouchsafe-v",
+   "q": "This word means to grant in a condescending manner.",
+   "a": "What is vouchsafe?",
+   "tier": 5
+  },
+  {
+   "id": "burble-v",
+   "q": "This 6-letter verb means to flow in an irregular current with a bubbling noise.",
+   "a": "What is burble?",
+   "tier": 5
+  },
+  {
+   "id": "retrogressive-a",
+   "q": "This 13-letter adjective means going from better to worse.",
+   "a": "What is retrogressive?",
+   "tier": 5
+  },
+  {
+   "id": "lachrymose-a",
+   "q": "This 10-letter adjective means showing sorrow.",
+   "a": "What is lachrymose?",
+   "tier": 5
+  },
+  {
+   "id": "oblanceolate-a",
+   "q": "This word, said of a leaf shape, means having a broad rounded apex and a tapering base.",
+   "a": "What is oblanceolate?",
+   "tier": 5
+  },
+  {
+   "id": "discoidal-a",
+   "q": "This 9-letter adjective means having a flat circular shape.",
+   "a": "What is discoidal?",
+   "tier": 5
+  },
+  {
+   "id": "sextuple-a",
+   "q": "This 8-letter word means having six units or components.",
+   "a": "What is sextuple?",
+   "tier": 5
+  },
+  {
+   "id": "enumerable-a",
+   "q": "This 10-letter adjective means that can be counted.",
+   "a": "What is enumerable?",
+   "tier": 5
+  },
+  {
+   "id": "embroil-v",
+   "q": "This 7-letter verb means to force into some kind of situation, condition, or course of action.",
+   "a": "What is embroil?",
+   "tier": 5
+  },
+  {
+   "id": "felicitate-v",
+   "q": "This 10-letter verb means to express congratulations.",
+   "a": "What is felicitate?",
+   "tier": 5
+  },
+  {
+   "id": "jaywalk-v",
+   "q": "This word means to cross the road at a red light.",
+   "a": "What is jaywalk?",
+   "tier": 5
+  },
+  {
+   "id": "equivocate-v",
+   "q": "This verb means to be deliberately ambiguous or unclear in order to mislead or withhold information.",
+   "a": "What is equivocate?",
+   "tier": 5
+  },
+  {
+   "id": "regnant-a",
+   "q": "This 7-letter adjective means exercising power or authority.",
+   "a": "What is regnant?",
+   "tier": 5
+  },
+  {
+   "id": "fainthearted-a",
+   "q": "This 12-letter adjective means lacking conviction or boldness or courage.",
+   "a": "What is fainthearted?",
+   "tier": 5
+  },
+  {
+   "id": "lacerate-v",
+   "q": "This verb means to cut or tear irregularly.",
+   "a": "What is lacerate?",
+   "tier": 5
+  },
+  {
+   "id": "potbellied-a",
+   "q": "This adjective means having a large belly.",
+   "a": "What is potbellied?",
+   "tier": 5
+  },
+  {
+   "id": "seclude-v",
+   "q": "This 7-letter verb means to keep away from others.",
+   "a": "What is seclude?",
+   "tier": 5
+  },
+  {
+   "id": "lifehack-v",
+   "q": "This verb means to make one's day-to-day activities more efficient.",
+   "a": "What is lifehack?",
+   "tier": 5
+  },
+  {
+   "id": "hornswoggle-v",
+   "q": "This 11-letter verb means to deprive of by deceit.",
+   "a": "What is hornswoggle?",
+   "tier": 5
+  },
+  {
+   "id": "deportee-n",
+   "q": "This 8-letter noun means a person who is expelled from home or country by authority.",
+   "a": "What is deportee?",
+   "tier": 5
+  }
+ ]
+}

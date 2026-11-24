@@ -1,0 +1,308 @@
+{
+ "category": "Holidays & Celebrations",
+ "slug": "holidays",
+ "group": "Everyday Life",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "holidays-01",
+   "q": "Trick-or-treating and jack-o'-lanterns mark this October 31 holiday",
+   "a": "What is Halloween?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-02",
+   "q": "On the fourth Thursday of November, Americans gather for turkey on this holiday",
+   "a": "What is Thanksgiving?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-03",
+   "q": "Celebrated by Hindus, Sikhs and Jains, this 'festival of lights' features rows of small oil lamps called diyas",
+   "a": "What is Diwali?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-04",
+   "q": "Cards, roses and heart-shaped chocolates are exchanged on this February 14 holiday",
+   "a": "What is Valentine's Day?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-05",
+   "q": "This eight-night Jewish holiday recalls the rededication of the Temple in Jerusalem and includes lighting a menorah",
+   "a": "What is Hanukkah?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-06",
+   "q": "This Christian holiday celebrates the Resurrection of Jesus; egg hunts are a popular custom",
+   "a": "What is Easter?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-07",
+   "q": "Fireworks light up the U.S. sky on this July 4 holiday",
+   "a": "What is Independence Day?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-08",
+   "q": "This Mexican holiday in early November honors departed loved ones with ofrendas, marigolds and sugar skulls",
+   "a": "What is Día de los Muertos?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-09",
+   "q": "Also called the Spring Festival, this holiday features red envelopes of money and dragon dances",
+   "a": "What is Lunar New Year?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-10",
+   "q": "People wear green and parades fill the streets on this March 17 holiday honoring Ireland's patron saint",
+   "a": "What is St. Patrick's Day?",
+   "tier": 1
+  },
+  {
+   "id": "holidays-11",
+   "q": "During this holy month, many Muslims fast from dawn until sunset",
+   "a": "What is Ramadan?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-12",
+   "q": "At this Hindu spring festival, people celebrate by throwing brightly colored powder at each other",
+   "a": "What is Holi?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-13",
+   "q": "Its name is French for 'Fat Tuesday,' and New Orleans celebrates it with parades and beads",
+   "a": "What is Mardi Gras?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-14",
+   "q": "Celebrated on December 26 in Britain, Canada and Australia, this holiday's name has nothing to do with fighting",
+   "a": "What is Boxing Day?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-15",
+   "q": "This holiday commemorates the Mexican army's victory over French forces at the Battle of Puebla in 1862",
+   "a": "What is Cinco de Mayo?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-16",
+   "q": "Blowing the shofar, a ram's horn, is a central ritual of this Jewish New Year",
+   "a": "What is Rosh Hashanah?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-17",
+   "q": "Observed on the last Monday of May, this U.S. holiday honors military members who died in service",
+   "a": "What is Memorial Day?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-18",
+   "q": "Created in 1966, this week-long African American celebration starts December 26 and lights candles in a kinara",
+   "a": "What is Kwanzaa?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-19",
+   "q": "Each February 2, Punxsutawney Phil predicts whether winter will last six more weeks",
+   "a": "What is Groundhog Day?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-20",
+   "q": "This 40-day Christian season of fasting and prayer begins on Ash Wednesday",
+   "a": "What is Lent?",
+   "tier": 2
+  },
+  {
+   "id": "holidays-21",
+   "q": "Its name means 'festival of breaking the fast,' and it marks the end of Ramadan",
+   "a": "What is Eid al-Fitr?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-22",
+   "q": "This July 1 holiday marks the 1867 confederation that created the Dominion north of the U.S. border",
+   "a": "What is Canada Day?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-23",
+   "q": "Now a U.S. federal holiday, it marks the day in 1865 when enslaved people in Galveston, Texas, learned they were free",
+   "a": "What is Juneteenth?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-24",
+   "q": "France's national day, on July 14, commemorates the 1789 storming of a Paris fortress-prison",
+   "a": "What is Bastille Day?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-25",
+   "q": "The holiest day of the Jewish year, this Day of Atonement is observed with a 25-hour fast",
+   "a": "What is Yom Kippur?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-26",
+   "q": "At this Jewish holiday's Seder meal, families eat matzo and retell the Exodus from Egypt",
+   "a": "What is Passover?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-27",
+   "q": "On November 5, Britons light bonfires and fireworks to mark the failed Gunpowder Plot of 1605",
+   "a": "What is Guy Fawkes Night?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-28",
+   "q": "This Scottish word names the New Year's Eve celebration, famously marked in Edinburgh",
+   "a": "What is Hogmanay?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-29",
+   "q": "Celebrated January 6, this day marks the visit of the Magi; in Mexico families share a rosca cake",
+   "a": "What is Three Kings Day?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-30",
+   "q": "Families share mooncakes and admire the full moon during this harvest-moon celebration in China",
+   "a": "What is the Mid-Autumn Festival?",
+   "tier": 3
+  },
+  {
+   "id": "holidays-31",
+   "q": "Observed April 25, this day in Australia and New Zealand remembers troops who landed at Gallipoli in 1915",
+   "a": "What is Anzac Day?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-32",
+   "q": "During this Japanese summer Buddhist festival, families honor the spirits of ancestors with lanterns and bon dances",
+   "a": "What is Obon?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-33",
+   "q": "Thailand's traditional New Year in April is famous for giant countrywide water fights",
+   "a": "What is Songkran?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-34",
+   "q": "The Persian New Year, it begins at the spring equinox and is celebrated in Iran and across Central Asia",
+   "a": "What is Nowruz?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-35",
+   "q": "On this Jewish holiday, children dress in costumes, the Book of Esther is read and triangular hamantaschen are eaten",
+   "a": "What is Purim?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-36",
+   "q": "This Islamic 'Festival of the Sacrifice' falls during the Hajj pilgrimage season",
+   "a": "What is Eid al-Adha?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-37",
+   "q": "At this Hindu festival, a sister ties a sacred thread called a rakhi around her brother's wrist",
+   "a": "What is Raksha Bandhan?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-38",
+   "q": "Racing long, decorated boats and eating sticky rice zongzi honor the poet Qu Yuan on this Chinese holiday",
+   "a": "What is the Dragon Boat Festival?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-39",
+   "q": "On December 13 in Sweden, a girl in white wearing a crown of candles leads a procession on this saint's day",
+   "a": "What is St. Lucia's Day?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-40",
+   "q": "Swedes dance around a flower-covered maypole at this June celebration near the longest day of the year",
+   "a": "What is Midsummer?",
+   "tier": 4
+  },
+  {
+   "id": "holidays-41",
+   "q": "Also called Buddha Day, this festival marks the birth, enlightenment and death of the Buddha",
+   "a": "What is Vesak?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-42",
+   "q": "This Inca 'Festival of the Sun' is reenacted every June near Cusco, Peru",
+   "a": "What is Inti Raymi?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-43",
+   "q": "Held on the evening of April 30 in Germany and Scandinavia, it's linked in folklore to witches gathering",
+   "a": "What is Walpurgis Night?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-44",
+   "q": "In this Shetland fire festival, costumed 'Vikings' march through Lerwick and burn a replica longship",
+   "a": "What is Up Helly Aa?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-45",
+   "q": "Every August in the Spanish town of Buñol, thousands of people pelt each other with tomatoes at this festival",
+   "a": "What is La Tomatina?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-46",
+   "q": "At this Japanese festival before spring, people throw roasted soybeans while shouting 'Demons out, luck in!'",
+   "a": "What is Setsubun?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-47",
+   "q": "At this Hindu festival honoring Lord Murugan, huge crowds climb the steps to Malaysia's Batu Caves",
+   "a": "What is Thaipusam?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-48",
+   "q": "This New Zealand national day on February 6 marks the signing of an 1840 treaty with Māori chiefs",
+   "a": "What is Waitangi Day?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-49",
+   "q": "Pamplona's July festival, famous for its running of the bulls, honors this saint",
+   "a": "Who is San Fermín?",
+   "tier": 5
+  },
+  {
+   "id": "holidays-50",
+   "q": "In Thailand, people float small decorated baskets with candles on rivers during this November full-moon festival",
+   "a": "What is Loy Krathong?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,607 @@
+{
+ "category": "Authors",
+ "slug": "authors",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q692-lead",
+   "q": "Often called the \"Bard of Avon\", this English playwright wrote Hamlet, Macbeth and Romeo and Juliet.",
+   "a": "Who is William Shakespeare?",
+   "tier": 1
+  },
+  {
+   "id": "Q7245-lead",
+   "q": "Samuel Langhorne Clemens wrote under this pen name; William Faulkner called him \"the father of American literature\".",
+   "a": "Who is Mark Twain?",
+   "tier": 1
+  },
+  {
+   "id": "Q5686-lead",
+   "q": "Regarded by many as the greatest novelist of the Victorian era, this English writer created David Copperfield and Ebenezer Scrooge.",
+   "a": "Who is Charles Dickens?",
+   "tier": 1
+  },
+  {
+   "id": "Q34660-lead",
+   "q": "Joanne is the real first name of this British author, best known for a seven-book fantasy series about a boy wizard.",
+   "a": "Who is J. K. Rowling?",
+   "tier": 1
+  },
+  {
+   "id": "Q5673-lead",
+   "q": "This Danish writer is best remembered for 156 literary fairy tales, including The Snow Queen and The Emperor's New Clothes.",
+   "a": "Who is Hans Christian Andersen?",
+   "tier": 1
+  },
+  {
+   "id": "Q892-lead",
+   "q": "This English philologist and Oxford professor of Anglo-Saxon wrote The Silmarillion and created Middle-earth.",
+   "a": "Who is J. R. R. Tolkien?",
+   "tier": 1
+  },
+  {
+   "id": "Q16867-lead",
+   "q": "This American writer known for tales of mystery and the macabre wrote The Raven and The Tell-Tale Heart.",
+   "a": "Who is Edgar Allan Poe?",
+   "tier": 1
+  },
+  {
+   "id": "Q36322-lead",
+   "q": "This English writer's six novels, including Emma and Sense and Sensibility, comment on the English landed gentry of the late 18th century.",
+   "a": "Who is Jane Austen?",
+   "tier": 1
+  },
+  {
+   "id": "Q38082-lead",
+   "q": "This pen name was used by Charles Lutwidge Dodgson, an English mathematician who wrote the poem Jabberwocky.",
+   "a": "Who is Lewis Carroll?",
+   "tier": 1
+  },
+  {
+   "id": "Q9204-lead",
+   "q": "This British author and lay theologian, who taught at both Oxford and Cambridge, wrote The Chronicles of Narnia.",
+   "a": "Who is C. S. Lewis?",
+   "tier": 1
+  },
+  {
+   "id": "Q35064-lead",
+   "q": "This English author of 66 detective novels wrote Murder on the Orient Express and Death on the Nile.",
+   "a": "Who is Agatha Christie?",
+   "tier": 1
+  },
+  {
+   "id": "Q35610-lead",
+   "q": "This British writer and physician created the detective Sherlock Holmes and his assistant Dr. Watson.",
+   "a": "Who is (Sir) Arthur Conan Doyle?",
+   "tier": 1
+  },
+  {
+   "id": "Q33977-lead",
+   "q": "This French novelist's Voyages extraordinaires include A Journey to the Centre of the Earth and The Mysterious Island.",
+   "a": "Who is Jules Verne?",
+   "tier": 1
+  },
+  {
+   "id": "Q39829-lead",
+   "q": "Known for horror fiction, this American author of about 200 short stories wrote It, The Shining and Carrie.",
+   "a": "Who is Stephen King?",
+   "tier": 1
+  },
+  {
+   "id": "Q1512-lead",
+   "q": "This Scottish novelist and travel writer wrote Kidnapped and the poetry collection A Child's Garden of Verses.",
+   "a": "Who is Robert Louis Stevenson?",
+   "tier": 1
+  },
+  {
+   "id": "Q43423-lead",
+   "q": "No writings survive by this ancient Greek storyteller, yet countless fables have been credited to him.",
+   "a": "Who is Aesop?",
+   "tier": 1
+  },
+  {
+   "id": "Q34743-lead",
+   "q": "Born in British India, this English writer created Mowgli and the Just So Stories.",
+   "a": "Who is Rudyard Kipling?",
+   "tier": 1
+  },
+  {
+   "id": "Q47152-lead",
+   "q": "This English novelist wrote The Last Man and an 1818 Gothic novel considered an early example of science fiction.",
+   "a": "Who is Mary Shelley?",
+   "tier": 1
+  },
+  {
+   "id": "Q3335-lead",
+   "q": "Eric Arthur Blair used this pen name for works opposing totalitarianism, including Homage to Catalonia.",
+   "a": "Who is George Orwell?",
+   "tier": 1
+  },
+  {
+   "id": "Q168728-lead",
+   "q": "This American poet often wrote about rural life in New England; his collections include North of Boston and New Hampshire.",
+   "a": "Who is Robert Frost?",
+   "tier": 1
+  },
+  {
+   "id": "Q23434-lead",
+   "q": "Known for an economical, understated style, this American novelist wrote A Farewell to Arms and The Sun Also Rises.",
+   "a": "Who is Ernest Hemingway?",
+   "tier": 2
+  },
+  {
+   "id": "Q4441-lead",
+   "q": "Largely unpublished and unknown during her lifetime, this American poet from Amherst is now considered canonical.",
+   "a": "Who is Emily Dickinson?",
+   "tier": 2
+  },
+  {
+   "id": "Q7243-lead",
+   "q": "This Russian count, born Lev Nikolayevich, wrote the novels Resurrection and The Kreutzer Sonata.",
+   "a": "Who is Leo Tolstoy?",
+   "tier": 2
+  },
+  {
+   "id": "Q535-lead",
+   "q": "This French Romantic poet, playwright and politician wrote the novels The Man Who Laughs and Ninety-Three.",
+   "a": "Who is Victor Hugo?",
+   "tier": 2
+  },
+  {
+   "id": "Q5682-lead",
+   "q": "Often called the greatest writer in the Spanish language, he wrote the Exemplary Novels and a two-part work considered the first modern novel.",
+   "a": "Who is Miguel de Cervantes?",
+   "tier": 2
+  },
+  {
+   "id": "Q38337-lead",
+   "q": "This French novelist wrote Twenty Years After with help from his ghostwriter Auguste Maquet.",
+   "a": "Who is Alexandre Dumas?",
+   "tier": 2
+  },
+  {
+   "id": "Q30875-lead",
+   "q": "This Irish author and playwright wrote The Importance of Being Earnest and The Canterville Ghost.",
+   "a": "Who is Oscar Wilde?",
+   "tier": 2
+  },
+  {
+   "id": "Q42511-lead",
+   "q": "This English writer of more than forty novels wrote The Time Machine and The Invisible Man.",
+   "a": "Who is H. G. Wells?",
+   "tier": 2
+  },
+  {
+   "id": "Q45765-lead",
+   "q": "This American novelist, one of the first to earn a large fortune from writing, wrote White Fang and The Sea-Wolf.",
+   "a": "Who is Jack London?",
+   "tier": 2
+  },
+  {
+   "id": "Q39212-lead",
+   "q": "This American, winner of the 1962 Nobel Prize in Literature, wrote East of Eden.",
+   "a": "Who is John Steinbeck?",
+   "tier": 2
+  },
+  {
+   "id": "Q19526-lead",
+   "q": "This American poet and civil rights activist wrote seven autobiographies, including I Know Why the Caged Bird Sings.",
+   "a": "Who is Maya Angelou?",
+   "tier": 2
+  },
+  {
+   "id": "Q81438-lead",
+   "q": "This American poet wrote Leaves of Grass and O Captain! My Captain!",
+   "a": "Who is Walt Whitman?",
+   "tier": 2
+  },
+  {
+   "id": "Q40946-lead",
+   "q": "This English writer, journalist and spy wrote Moll Flanders and A Journal of the Plague Year.",
+   "a": "Who is Daniel Defoe?",
+   "tier": 2
+  },
+  {
+   "id": "Q41166-lead",
+   "q": "This Anglo-Irish satirist and cleric created the fictional island of Lilliput and wrote A Modest Proposal.",
+   "a": "Who is Jonathan Swift?",
+   "tier": 2
+  },
+  {
+   "id": "Q127332-lead",
+   "q": "This English novelist, the elder sister of Emily and Anne, published Jane Eyre under the pseudonym Currer Bell.",
+   "a": "Who is Charlotte Brontë?",
+   "tier": 2
+  },
+  {
+   "id": "Q80137-lead",
+   "q": "Writing as Ellis Bell, this English author published her only novel, about Heathcliff, in 1847.",
+   "a": "Who is Emily Brontë?",
+   "tier": 2
+  },
+  {
+   "id": "Q4985-lead",
+   "q": "This American Renaissance writer wrote Typee and the novella Billy Budd, Sailor.",
+   "a": "Who is Herman Melville?",
+   "tier": 2
+  },
+  {
+   "id": "Q2908-lead",
+   "q": "This French writer and aviator from Lyon wrote Night Flight and Wind, Sand and Stars.",
+   "a": "Who is Antoine de Saint-Exupéry?",
+   "tier": 2
+  },
+  {
+   "id": "Q1067-lead",
+   "q": "This Italian poet's Comedy was later called \"Divine\" by Giovanni Boccaccio.",
+   "a": "Who is Dante (Alighieri)?",
+   "tier": 2
+  },
+  {
+   "id": "Q42-lead",
+   "q": "This English humourist's most famous work began in 1978 as a BBC radio comedy and grew into a \"trilogy of five books\".",
+   "a": "Who is Douglas Adams?",
+   "tier": 2
+  },
+  {
+   "id": "Q991-lead",
+   "q": "Regarded as one of the greatest novelists in world literature, this Russian wrote The Idiot and Demons.",
+   "a": "Who is Fyodor Dostoevsky?",
+   "tier": 3
+  },
+  {
+   "id": "Q905-lead",
+   "q": "This German-language Jewish writer from Prague wrote The Castle and Lost in America.",
+   "a": "Who is Franz Kafka?",
+   "tier": 3
+  },
+  {
+   "id": "Q1398-lead",
+   "q": "This Roman poet of the Augustan period wrote the Eclogues, the Georgics and the epic Aeneid.",
+   "a": "Who is Virgil?",
+   "tier": 3
+  },
+  {
+   "id": "Q5683-lead",
+   "q": "Called the \"father of English literature\", this poet and civil servant wrote Troilus and Criseyde.",
+   "a": "Who is Geoffrey Chaucer?",
+   "tier": 3
+  },
+  {
+   "id": "Q79759-lead",
+   "q": "This English poet and polemicist wrote Areopagitica and a 1667 epic poem about the fall of man.",
+   "a": "Who is John Milton?",
+   "tier": 3
+  },
+  {
+   "id": "Q5679-lead",
+   "q": "This 6th Baron and major Romantic poet wrote the long narrative poems Don Juan and Childe Harold's Pilgrimage.",
+   "a": "Who is Lord Byron?",
+   "tier": 3
+  },
+  {
+   "id": "Q5685-lead",
+   "q": "This Russian playwright and physician wrote The Seagull, Uncle Vanya and The Cherry Orchard.",
+   "a": "Who is Anton Chekhov?",
+   "tier": 3
+  },
+  {
+   "id": "Q5879-lead",
+   "q": "This German polymath, widely regarded as the most influential writer in the German language, wrote the poem The Sorcerer's Apprentice.",
+   "a": "Who is (Johann Wolfgang von) Goethe?",
+   "tier": 3
+  },
+  {
+   "id": "Q40909-lead",
+   "q": "This English modernist who pioneered stream of consciousness narration wrote Mrs Dalloway and To the Lighthouse.",
+   "a": "Who is Virginia Woolf?",
+   "tier": 3
+  },
+  {
+   "id": "Q6882-lead",
+   "q": "This Irish modernist wrote Dubliners, Finnegans Wake and A Portrait of the Artist as a Young Man.",
+   "a": "Who is James Joyce?",
+   "tier": 3
+  },
+  {
+   "id": "Q7235-lead",
+   "q": "This ancient Greek tragedian wrote more than 120 plays, including Antigone and Electra.",
+   "a": "Who is Sophocles?",
+   "tier": 3
+  },
+  {
+   "id": "Q7198-lead",
+   "q": "This Roman poet in the reign of Augustus wrote the Metamorphoses and was later exiled to the Black Sea coast.",
+   "a": "Who is Ovid?",
+   "tier": 3
+  },
+  {
+   "id": "Q37767-lead",
+   "q": "This modernist poet and 1948 Nobel laureate wrote The Waste Land and The Hollow Men.",
+   "a": "Who is T. S. Eliot?",
+   "tier": 3
+  },
+  {
+   "id": "Q82083-lead",
+   "q": "This second-generation English Romantic poet died of tuberculosis at just 25.",
+   "a": "Who is John Keats?",
+   "tier": 3
+  },
+  {
+   "id": "Q45546-lead",
+   "q": "This English Romantic poet published Lyrical Ballads with Samuel Taylor Coleridge; his magnum opus is The Prelude.",
+   "a": "Who is William Wordsworth?",
+   "tier": 3
+  },
+  {
+   "id": "Q72334-lead",
+   "q": "This American novelist and 1993 Nobel laureate wrote The Bluest Eye, Song of Solomon and Beloved.",
+   "a": "Who is Toni Morrison?",
+   "tier": 3
+  },
+  {
+   "id": "Q5878-lead",
+   "q": "Known affectionately as Gabo, this Colombian writer wrote Love in the Time of Cholera.",
+   "a": "Who is Gabriel Garcia Marquez?",
+   "tier": 3
+  },
+  {
+   "id": "Q34981-lead",
+   "q": "This biochemistry professor, one of science fiction's \"Big Three\", wrote I, Robot and the Foundation series.",
+   "a": "Who is Isaac Asimov?",
+   "tier": 3
+  },
+  {
+   "id": "Q81447-lead",
+   "q": "This English writer and philosopher wrote The Doors of Perception and The Perennial Philosophy.",
+   "a": "Who is Aldous Huxley?",
+   "tier": 3
+  },
+  {
+   "id": "Q79025-lead",
+   "q": "This Scottish novelist known for his Waverley novels wrote Ivanhoe and Rob Roy.",
+   "a": "Who is (Sir) Walter Scott?",
+   "tier": 3
+  },
+  {
+   "id": "Q7200-lead",
+   "q": "Considered the founder of modern Russian literature, this poet wrote The Captain's Daughter and Boris Godunov.",
+   "a": "Who is Alexander Pushkin?",
+   "tier": 4
+  },
+  {
+   "id": "Q687-lead",
+   "q": "Jean-Baptiste Poquelin used this stage name; he wrote the comedies Tartuffe and The Miser.",
+   "a": "Who is Molière?",
+   "tier": 4
+  },
+  {
+   "id": "Q36661-lead",
+   "q": "Called \"the father of modern drama\", this Norwegian playwright wrote A Doll's House and Hedda Gabler.",
+   "a": "Who is Henrik Ibsen?",
+   "tier": 4
+  },
+  {
+   "id": "Q43444-lead",
+   "q": "This French novelist, a leading exponent of literary realism, wrote Sentimental Education and Salammbo.",
+   "a": "Who is Gustave Flaubert?",
+   "tier": 4
+  },
+  {
+   "id": "Q34670-lead",
+   "q": "This French philosopher, the first literature Nobel laureate born in Africa, wrote The Plague and The Myth of Sisyphus.",
+   "a": "Who is Albert Camus?",
+   "tier": 4
+  },
+  {
+   "id": "Q93343-lead",
+   "q": "This English Romantic poet, husband of the author of Frankenstein, wrote Ozymandias.",
+   "a": "Who is Percy Bysshe Shelley?",
+   "tier": 4
+  },
+  {
+   "id": "Q41513-lead",
+   "q": "This English poet, painter and printmaker created Songs of Innocence and of Experience.",
+   "a": "Who is William Blake?",
+   "tier": 4
+  },
+  {
+   "id": "Q131333-lead",
+   "q": "Mary Ann Evans used this pen name for novels including Middlemarch and Silas Marner.",
+   "a": "Who is George Eliot?",
+   "tier": 4
+  },
+  {
+   "id": "Q131149-lead",
+   "q": "This American transcendentalist wrote Walden and the essay Civil Disobedience.",
+   "a": "Who is Henry David Thoreau?",
+   "tier": 4
+  },
+  {
+   "id": "Q48226-lead",
+   "q": "This American essayist and poet led the transcendentalist movement of the mid-19th century and wrote the Concord Hymn.",
+   "a": "Who is Ralph Waldo Emerson?",
+   "tier": 4
+  },
+  {
+   "id": "Q48305-lead",
+   "q": "Along with Aeschylus and Sophocles, this tragedian of classical Athens wrote Medea and The Trojan Women.",
+   "a": "Who is Euripides?",
+   "tier": 4
+  },
+  {
+   "id": "Q37327-lead",
+   "q": "This Irish playwright who wrote in both English and French wrote Endgame and Krapp's Last Tape.",
+   "a": "Who is Samuel Beckett?",
+   "tier": 4
+  },
+  {
+   "id": "Q41223-lead",
+   "q": "This Russian poet's first book of poems was My Sister, Life; his novel about Yuri Zhivago was refused publication in the USSR.",
+   "a": "Who is Boris Pasternak?",
+   "tier": 4
+  },
+  {
+   "id": "Q34474-lead",
+   "q": "This Soviet dissident and 1970 Nobel laureate wrote The Gulag Archipelago.",
+   "a": "Who is Aleksandr Solzhenitsyn?",
+   "tier": 4
+  },
+  {
+   "id": "Q12807-lead",
+   "q": "This Italian medievalist and semiotician wrote Foucault's Pendulum.",
+   "a": "Who is Umberto Eco?",
+   "tier": 4
+  },
+  {
+   "id": "Q82925-lead",
+   "q": "This Polish-British novelist, who did not speak English fluently until his twenties, wrote Lord Jim and Nostromo.",
+   "a": "Who is Joseph Conrad?",
+   "tier": 4
+  },
+  {
+   "id": "Q38392-lead",
+   "q": "This American writer set many stories in fictional Yoknapatawpha County, Mississippi, and wrote As I Lay Dying.",
+   "a": "Who is William Faulkner?",
+   "tier": 4
+  },
+  {
+   "id": "Q17892-lead",
+   "q": "This ancient Greek lyric poet from the island of Lesbos was called the \"Tenth Muse\".",
+   "a": "Who is Sappho?",
+   "tier": 4
+  },
+  {
+   "id": "Q19185-lead",
+   "q": "This Irish playwright, who preferred to be known without his first name, wrote Pygmalion and Saint Joan.",
+   "a": "Who is George Bernard Shaw?",
+   "tier": 4
+  },
+  {
+   "id": "Q134798-lead",
+   "q": "This best-selling Japanese writer wrote Norwegian Wood, Kafka on the Shore and 1Q84.",
+   "a": "Who is Haruki Murakami?",
+   "tier": 4
+  },
+  {
+   "id": "Q81731-lead",
+   "q": "This Japanese novelist and lady-in-waiting of the Heian period wrote The Tale of Genji.",
+   "a": "Who is Murasaki Shikibu?",
+   "tier": 5
+  },
+  {
+   "id": "Q5676-lead",
+   "q": "The most famous Japanese poet of the Edo period, he wrote Oku no Hosomichi and the Frog Poem.",
+   "a": "Who is Matsuo Basho?",
+   "tier": 5
+  },
+  {
+   "id": "Q7071-lead",
+   "q": "Also known by the courtesy name Taibai, this Tang dynasty poet wrote Quiet Night Thought.",
+   "a": "Who is Li Bai (Li Po)?",
+   "tier": 5
+  },
+  {
+   "id": "Q7241-lead",
+   "q": "In 1913 this Bengali poet, author of Gitanjali, became the first non-European to win a Nobel Prize in Literature.",
+   "a": "Who is Rabindranath Tagore?",
+   "tier": 5
+  },
+  {
+   "id": "Q7176-lead",
+   "q": "This Egyptian writer of the Cairo Trilogy and Midaq Alley won the 1988 Nobel Prize in Literature.",
+   "a": "Who is Naguib Mahfouz?",
+   "tier": 5
+  },
+  {
+   "id": "Q9711-lead",
+   "q": "This French novelist's magnum opus is La Comedie humaine; it includes Pere Goriot and Eugenie Grandet.",
+   "a": "Who is Honoré de Balzac?",
+   "tier": 5
+  },
+  {
+   "id": "Q504-lead",
+   "q": "The best-known practitioner of naturalism, this French novelist wrote the open letter J'accuse...!",
+   "a": "Who is Émile Zola?",
+   "tier": 5
+  },
+  {
+   "id": "Q502-lead",
+   "q": "Marie-Henri Beyle used this pen name; he wrote The Red and the Black and The Charterhouse of Parma.",
+   "a": "Who is Stendhal?",
+   "tier": 5
+  },
+  {
+   "id": "Q43718-lead",
+   "q": "This Russian writer of Ukrainian origin wrote The Nose, The Overcoat and The Government Inspector.",
+   "a": "Who is Nikolai Gogol?",
+   "tier": 5
+  },
+  {
+   "id": "Q42831-lead",
+   "q": "This Russian novelist's first major publication was A Sportsman's Sketches; he later wrote Fathers and Sons.",
+   "a": "Who is Ivan Turgenev?",
+   "tier": 5
+  },
+  {
+   "id": "Q909-lead",
+   "q": "This Argentine short-story writer's best-known works are Ficciones and El Aleph.",
+   "a": "Who is Jorge Luis Borges?",
+   "tier": 5
+  },
+  {
+   "id": "Q7199-lead",
+   "q": "This French novelist's seven-volume masterpiece, published from 1913 to 1927, totals about 1.25 million words.",
+   "a": "Who is Marcel Proust?",
+   "tier": 5
+  },
+  {
+   "id": "Q34189-lead",
+   "q": "This Chilean poet-diplomat and 1971 Nobel laureate wrote Twenty Love Poems and a Song of Despair.",
+   "a": "Who is Pablo Neruda?",
+   "tier": 5
+  },
+  {
+   "id": "Q6240-lead",
+   "q": "This Persian lyric poet from Shiraz is so beloved that many Iranians learn his poems by heart.",
+   "a": "Who is Hafez?",
+   "tier": 5
+  },
+  {
+   "id": "Q43459-lead",
+   "q": "This Persian poet wrote the Shahnameh, one of the world's longest epic poems by a single poet.",
+   "a": "Who is Ferdowsi?",
+   "tier": 5
+  },
+  {
+   "id": "Q37030-lead",
+   "q": "This German novelist and 1929 Nobel laureate wrote Buddenbrooks, Death in Venice and The Magic Mountain.",
+   "a": "Who is Thomas Mann?",
+   "tier": 5
+  },
+  {
+   "id": "Q76483-lead",
+   "q": "This Austrian poet wrote the Duino Elegies and the Sonnets to Orpheus.",
+   "a": "Who is Rainer Maria Rilke?",
+   "tier": 5
+  },
+  {
+   "id": "Q44519-lead",
+   "q": "In 1909 this Swedish author of The Wonderful Adventures of Nils became the first woman to win the Nobel Prize in Literature.",
+   "a": "Who is Selma Lagerlöf?",
+   "tier": 5
+  },
+  {
+   "id": "Q1401-lead",
+   "q": "This Italian scholar and poet, an early Renaissance humanist, is credited with rediscovering Cicero's letters.",
+   "a": "Who is Petrarch?",
+   "tier": 5
+  },
+  {
+   "id": "Q41408-lead",
+   "q": "This Spanish poet of the Generation of '27 wrote the plays Blood Wedding and The House of Bernarda Alba.",
+   "a": "Who is Federico Garcia Lorca?",
+   "tier": 5
+  }
+ ]
+}

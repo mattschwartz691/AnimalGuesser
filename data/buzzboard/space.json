@@ -1,0 +1,308 @@
+{
+ "category": "Space",
+ "slug": "space",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "space-01",
+   "q": "This ringed planet is the sixth from the Sun",
+   "a": "What is Saturn?",
+   "tier": 1
+  },
+  {
+   "id": "space-02",
+   "q": "This gas giant is the largest planet in our solar system",
+   "a": "What is Jupiter?",
+   "tier": 1
+  },
+  {
+   "id": "space-03",
+   "q": "Its rusty, iron-oxide surface earns this planet the nickname the Red Planet",
+   "a": "What is Mars?",
+   "tier": 1
+  },
+  {
+   "id": "space-04",
+   "q": "This small, cratered planet orbits closest to the Sun",
+   "a": "What is Mercury?",
+   "tier": 1
+  },
+  {
+   "id": "space-05",
+   "q": "On July 20, 1969, this Apollo 11 astronaut became the first person to walk on the Moon",
+   "a": "Who is Neil Armstrong?",
+   "tier": 1
+  },
+  {
+   "id": "space-06",
+   "q": "Our solar system sits in one of the spiral arms of this galaxy",
+   "a": "What is the Milky Way?",
+   "tier": 1
+  },
+  {
+   "id": "space-07",
+   "q": "Discovered in 1930, this former ninth planet was reclassified as a dwarf planet in 2006",
+   "a": "What is Pluto?",
+   "tier": 1
+  },
+  {
+   "id": "space-08",
+   "q": "This region of space has gravity so strong that not even light can escape it",
+   "a": "What is a black hole?",
+   "tier": 1
+  },
+  {
+   "id": "space-09",
+   "q": "About 150 million kilometers away, this is the closest star to Earth",
+   "a": "What is the Sun?",
+   "tier": 1
+  },
+  {
+   "id": "space-10",
+   "q": "These icy bodies grow glowing tails that point away from the Sun when they get close to it",
+   "a": "What are comets?",
+   "tier": 1
+  },
+  {
+   "id": "space-11",
+   "q": "Thanks to its thick carbon dioxide atmosphere, this second planet from the Sun is the hottest planet",
+   "a": "What is Venus?",
+   "tier": 2
+  },
+  {
+   "id": "space-12",
+   "q": "This ice giant is tipped over on its side, so it rolls around the Sun like a ball, with each pole facing the Sun for decades at a time",
+   "a": "What is Uranus?",
+   "tier": 2
+  },
+  {
+   "id": "space-13",
+   "q": "Since Pluto's demotion, this blue ice giant has been the farthest planet from the Sun",
+   "a": "What is Neptune?",
+   "tier": 2
+  },
+  {
+   "id": "space-14",
+   "q": "In April 1961, this Soviet cosmonaut became the first human to travel into space",
+   "a": "Who is Yuri Gagarin?",
+   "tier": 2
+  },
+  {
+   "id": "space-15",
+   "q": "Launched by the Soviet Union in October 1957, this beeping sphere was the first artificial satellite",
+   "a": "What is Sputnik 1?",
+   "tier": 2
+  },
+  {
+   "id": "space-16",
+   "q": "This unit of distance, about 9.46 trillion kilometers, is how far a beam of light travels in a vacuum in one Julian year",
+   "a": "What is a light-year?",
+   "tier": 2
+  },
+  {
+   "id": "space-17",
+   "q": "Ceres, the largest object in this region of rocky bodies between Mars and Jupiter, is a dwarf planet",
+   "a": "What is the asteroid belt?",
+   "tier": 2
+  },
+  {
+   "id": "space-18",
+   "q": "Launched in 1990, this orbiting observatory needed a 1993 servicing mission to fix a flaw in its main mirror",
+   "a": "What is the Hubble Space Telescope?",
+   "tier": 2
+  },
+  {
+   "id": "space-19",
+   "q": "Continuously crewed since November 2000, this orbiting laboratory was built by NASA, Roscosmos, ESA, JAXA and the CSA",
+   "a": "What is the International Space Station?",
+   "tier": 2
+  },
+  {
+   "id": "space-20",
+   "q": "Charged particles from the Sun striking the upper atmosphere create these colorful light shows in far northern skies",
+   "a": "What is the aurora borealis?",
+   "tier": 2
+  },
+  {
+   "id": "space-21",
+   "q": "Orbiting Jupiter, this is the largest moon in the solar system",
+   "a": "What is Ganymede?",
+   "tier": 3
+  },
+  {
+   "id": "space-22",
+   "q": "Saturn's largest moon, it has a thick nitrogen atmosphere and lakes of liquid methane",
+   "a": "What is Titan?",
+   "tier": 3
+  },
+  {
+   "id": "space-23",
+   "q": "This Martian shield volcano stands about two and a half times as tall as Mount Everest",
+   "a": "What is Olympus Mons?",
+   "tier": 3
+  },
+  {
+   "id": "space-24",
+   "q": "This tremendous explosion of a star can briefly outshine its entire galaxy",
+   "a": "What is a supernova?",
+   "tier": 3
+  },
+  {
+   "id": "space-25",
+   "q": "This theory says the universe expanded from an extremely hot, dense state about 13.8 billion years ago",
+   "a": "What is the Big Bang?",
+   "tier": 3
+  },
+  {
+   "id": "space-26",
+   "q": "This outer atmosphere of the Sun appears as a pearly white halo during a total solar eclipse",
+   "a": "What is the corona?",
+   "tier": 3
+  },
+  {
+   "id": "space-27",
+   "q": "Planets orbit the Sun in this oval shape, with the Sun at one of its two foci",
+   "a": "What is an ellipse?",
+   "tier": 3
+  },
+  {
+   "id": "space-28",
+   "q": "This 1970 lunar mission was aborted after an oxygen tank exploded, but its three astronauts made it home safely",
+   "a": "What is Apollo 13?",
+   "tier": 3
+  },
+  {
+   "id": "space-29",
+   "q": "In 1983, this physicist became the first American woman in space, aboard the shuttle Challenger",
+   "a": "Who is Sally Ride?",
+   "tier": 3
+  },
+  {
+   "id": "space-30",
+   "q": "In 1610, this Italian astronomer used a telescope to discover Jupiter's four largest moons",
+   "a": "Who is Galileo Galilei?",
+   "tier": 3
+  },
+  {
+   "id": "space-31",
+   "q": "The larger of Mars's two moons, it is slowly spiraling inward toward the planet",
+   "a": "What is Phobos?",
+   "tier": 4
+  },
+  {
+   "id": "space-32",
+   "q": "Plumes of water ice shoot from the south pole of this small moon of Saturn",
+   "a": "What is Enceladus?",
+   "tier": 4
+  },
+  {
+   "id": "space-33",
+   "q": "This disk-shaped region of icy bodies beyond Neptune's orbit is home to Pluto",
+   "a": "What is the Kuiper Belt?",
+   "tier": 4
+  },
+  {
+   "id": "space-34",
+   "q": "Found in the constellation Canis Major, this is the brightest star in the night sky",
+   "a": "What is Sirius?",
+   "tier": 4
+  },
+  {
+   "id": "space-35",
+   "q": "This term names the point in a planet's orbit where it is closest to the Sun",
+   "a": "What is perihelion?",
+   "tier": 4
+  },
+  {
+   "id": "space-36",
+   "q": "Launched in 1977, this NASA probe is the most distant human-made object from Earth",
+   "a": "What is Voyager 1?",
+   "tier": 4
+  },
+  {
+   "id": "space-37",
+   "q": "This red supergiant marks the shoulder of the constellation Orion",
+   "a": "What is Betelgeuse?",
+   "tier": 4
+  },
+  {
+   "id": "space-38",
+   "q": "In 1963, this Soviet cosmonaut became the first woman to fly in space",
+   "a": "Who is Valentina Tereshkova?",
+   "tier": 4
+  },
+  {
+   "id": "space-39",
+   "q": "This boundary around a black hole marks the point of no return for anything that crosses it",
+   "a": "What is the event horizon?",
+   "tier": 4
+  },
+  {
+   "id": "space-40",
+   "q": "Apart from the Sun, this red dwarf about 4.2 light-years away is the nearest known star to Earth",
+   "a": "What is Proxima Centauri?",
+   "tier": 4
+  },
+  {
+   "id": "space-41",
+   "q": "At roughly 1.4 times the Sun's mass, this is the maximum mass a stable white dwarf can have",
+   "a": "What is the Chandrasekhar limit?",
+   "tier": 5
+  },
+  {
+   "id": "space-42",
+   "q": "Within this distance of a planet, tidal forces would tear apart a moon held together only by its own gravity",
+   "a": "What is the Roche limit?",
+   "tier": 5
+  },
+  {
+   "id": "space-43",
+   "q": "This distant, hypothesized shell of icy bodies surrounding the solar system is thought to be the source of long-period comets",
+   "a": "What is the Oort cloud?",
+   "tier": 5
+  },
+  {
+   "id": "space-44",
+   "q": "First detected by Jocelyn Bell Burnell in 1967, these rapidly spinning neutron stars sweep radio beams across space like lighthouses",
+   "a": "What are pulsars?",
+   "tier": 5
+  },
+  {
+   "id": "space-45",
+   "q": "The James Webb Space Telescope orbits near L2, one of these five spots where Sun and Earth gravity balance an object's orbital motion",
+   "a": "What are Lagrange points?",
+   "tier": 5
+  },
+  {
+   "id": "space-46",
+   "q": "Discovered accidentally in the 1960s by Arno Penzias and Robert Wilson, this faint radiation is the afterglow of the early universe",
+   "a": "What is the cosmic microwave background?",
+   "tier": 5
+  },
+  {
+   "id": "space-47",
+   "q": "This famous astronomy graph plots stars' luminosity against their temperature, with most stars on the main sequence",
+   "a": "What is the Hertzsprung-Russell diagram?",
+   "tier": 5
+  },
+  {
+   "id": "space-48",
+   "q": "This vast canyon system on Mars is named after the 1971 NASA orbiter that discovered it",
+   "a": "What is Valles Marineris?",
+   "tier": 5
+  },
+  {
+   "id": "space-49",
+   "q": "This dark gap separating Saturn's A and B rings is named for the 17th-century Italian-French astronomer who spotted it in 1675",
+   "a": "What is the Cassini Division?",
+   "tier": 5
+  },
+  {
+   "id": "space-50",
+   "q": "Set at 100 kilometers above sea level, this imaginary boundary is often used to mark where outer space begins",
+   "a": "What is the Karman line?",
+   "tier": 5
+  }
+ ]
+}

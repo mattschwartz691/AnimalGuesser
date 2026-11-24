@@ -1,0 +1,308 @@
+{
+ "category": "Hip-Hop & Rap",
+ "slug": "hip-hop",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "hip-hop-01",
+   "q": "This Detroit rapper's alter ego is named Slim Shady",
+   "a": "Who is Eminem?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-02",
+   "q": "This rapper's country-rap song 'Old Town Road' got a famous remix with Billy Ray Cyrus",
+   "a": "Who is Lil Nas X?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-03",
+   "q": "This Canadian rapper, a former Degrassi actor, released 'Hotline Bling' and 'God's Plan'",
+   "a": "Who is Drake?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-04",
+   "q": "This rapper-mogul co-founded Roc-A-Fella Records and is married to Beyonce",
+   "a": "Who is Jay-Z?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-05",
+   "q": "Born Calvin Broadus Jr., this laid-back rapper co-hosted a cooking show with Martha Stewart",
+   "a": "Who is Snoop Dogg?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-06",
+   "q": "This rapper of 'Super Bass' calls her devoted fans the Barbz",
+   "a": "Who is Nicki Minaj?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-07",
+   "q": "Before Hollywood fame, this actor rapped as The Fresh Prince alongside DJ Jazzy Jeff",
+   "a": "Who is Will Smith?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-08",
+   "q": "This hip-hop dance style features headspins, windmills and freezes",
+   "a": "What is breakdancing?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-09",
+   "q": "This Seattle rapper teamed up with Ryan Lewis on the bargain-hunting hit 'Thrift Shop'",
+   "a": "Who is Macklemore?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-10",
+   "q": "Lin-Manuel Miranda's hip-hop Broadway musical tells the story of this Founding Father on the $10 bill",
+   "a": "Who is Alexander Hamilton?",
+   "tier": 1
+  },
+  {
+   "id": "hip-hop-11",
+   "q": "This rapper's album DAMN. won the 2018 Pulitzer Prize for Music",
+   "a": "Who is Kendrick Lamar?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-12",
+   "q": "This N.W.A member later wrote and starred in the comedy film Friday",
+   "a": "Who is Ice Cube?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-13",
+   "q": "Andre 3000 and Big Boi make up this Atlanta duo behind 'Hey Ya!'",
+   "a": "What is OutKast?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-14",
+   "q": "This N.W.A producer co-founded Beats Electronics with Jimmy Iovine",
+   "a": "Who is Dr. Dre?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-15",
+   "q": "This New York City borough is known as the birthplace of hip-hop",
+   "a": "What is the Bronx?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-16",
+   "q": "Drake often calls his hometown, this Canadian city, 'the 6'",
+   "a": "What is Toronto?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-17",
+   "q": "This rapper of 'U Can't Touch This' was famous for his baggy parachute pants",
+   "a": "Who is MC Hammer?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-18",
+   "q": "This rapper-singer of 'Say So' and 'Kiss Me More' first went viral with a song about being a cow",
+   "a": "Who is Doja Cat?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-19",
+   "q": "This artist sang 'Sunflower' with Swae Lee for the movie Spider-Man: Into the Spider-Verse",
+   "a": "Who is Post Malone?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-20",
+   "q": "will.i.am, apl.de.ap, Taboo and Fergie formed this group behind 'I Gotta Feeling'",
+   "a": "Who are the Black Eyed Peas?",
+   "tier": 2
+  },
+  {
+   "id": "hip-hop-21",
+   "q": "Run-DMC remade 'Walk This Way' in 1986 with this rock band that originally recorded it",
+   "a": "Who is Aerosmith?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-22",
+   "q": "This 1979 Sugarhill Gang song is often called the first hip-hop hit",
+   "a": "What is 'Rapper's Delight'?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-23",
+   "q": "This Virginia rapper and producer is known for the 'trash bag' suit in her 'The Rain (Supa Dupa Fly)' video",
+   "a": "Who is Missy Elliott?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-24",
+   "q": "Born Dana Owens, this rapper and actress starred in the TV show Living Single",
+   "a": "Who is Queen Latifah?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-25",
+   "q": "Wyclef Jean, Pras and Lauryn Hill formed this trio, known for a cover of 'Killing Me Softly'",
+   "a": "Who are the Fugees?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-26",
+   "q": "Run-DMC's 1986 song paid tribute to their favorite sneakers from this brand",
+   "a": "What is Adidas?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-27",
+   "q": "Eminem's song from 8 Mile became the first rap song to win the Oscar for Best Original Song",
+   "a": "What is 'Lose Yourself'?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-28",
+   "q": "Along with DJing, MCing and breaking, this spray-paint art is called one of hip-hop's four elements",
+   "a": "What is graffiti?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-29",
+   "q": "Childish Gambino is the music name of this actor and creator of the TV show Atlanta",
+   "a": "Who is Donald Glover?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-30",
+   "q": "Rapper Ludacris plays Tej in this street-racing movie series",
+   "a": "What is the Fast & Furious franchise?",
+   "tier": 3
+  },
+  {
+   "id": "hip-hop-31",
+   "q": "The stage name of the rapper behind 'Mama Said Knock You Out' is short for this phrase",
+   "a": "What is 'Ladies Love Cool James'?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-32",
+   "q": "The Wu-Tang Clan hails from this New York City borough, which they nicknamed 'Shaolin'",
+   "a": "What is Staten Island?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-33",
+   "q": "This 1998 solo album by a Fugees singer won the Grammy for Album of the Year",
+   "a": "What is The Miseducation of Lauryn Hill?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-34",
+   "q": "This 1986 Beastie Boys album was the first rap LP to top the Billboard 200",
+   "a": "What is Licensed to Ill?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-35",
+   "q": "Nicki Minaj was born in this Caribbean country before moving to Queens",
+   "a": "What is Trinidad and Tobago?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-36",
+   "q": "Chance the Rapper's 2016 mixtape made history as the first streaming-only album to win a Grammy",
+   "a": "What is Coloring Book?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-37",
+   "q": "Lil Wayne named a series of albums after his real last name, starting with this 2004 title",
+   "a": "What is Tha Carter?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-38",
+   "q": "This Public Enemy hype man is known for wearing a giant clock around his neck",
+   "a": "Who is Flavor Flav?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-39",
+   "q": "Vanilla Ice's 'Ice Ice Baby' borrows its bass line from this Queen and David Bowie song",
+   "a": "What is 'Under Pressure'?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-40",
+   "q": "This rapper is the half of OutKast who isn't Andre 3000",
+   "a": "Who is Big Boi?",
+   "tier": 4
+  },
+  {
+   "id": "hip-hop-41",
+   "q": "This DJ's 1973 back-to-school party at 1520 Sedgwick Avenue in the Bronx is often called the birth of hip-hop",
+   "a": "Who is DJ Kool Herc?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-42",
+   "q": "In 2007, this group became the first hip-hop act inducted into the Rock and Roll Hall of Fame",
+   "a": "Who are Grandmaster Flash and the Furious Five?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-43",
+   "q": "Q-Tip and Phife Dawg fronted this Queens group known for 'Can I Kick It?'",
+   "a": "Who is A Tribe Called Quest?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-44",
+   "q": "Cheryl James and Sandra Denton led this pioneering female rap group",
+   "a": "Who is Salt-N-Pepa?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-45",
+   "q": "This MC teamed with Eric B. on the classic 1987 album Paid in Full",
+   "a": "Who is Rakim?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-46",
+   "q": "This Chicago rapper won an Oscar with John Legend for 'Glory' from the film Selma",
+   "a": "Who is Common?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-47",
+   "q": "Jay-Z's debut album, released in 1996, was this legal-sounding title",
+   "a": "What is Reasonable Doubt?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-48",
+   "q": "Known as the 'Mother of Hip-Hop', this Sugar Hill Records founder put together the Sugarhill Gang",
+   "a": "Who is Sylvia Robinson?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-49",
+   "q": "This veteran rapper has played Detective Fin Tutuola on Law & Order: Special Victims Unit",
+   "a": "Who is Ice-T?",
+   "tier": 5
+  },
+  {
+   "id": "hip-hop-50",
+   "q": "Hosted by Fab 5 Freddy, this pioneering rap video show premiered on American MTV in 1988",
+   "a": "What is Yo! MTV Raps?",
+   "tier": 5
+  }
+ ]
+}

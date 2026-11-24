@@ -1,0 +1,308 @@
+{
+ "category": "Bugs & Insects",
+ "slug": "bugs",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "bugs-01",
+   "q": "This insect starts life as a caterpillar, then rests inside a chrysalis before emerging with colorful wings",
+   "a": "What is a butterfly?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-02",
+   "q": "These buzzing social insects turn flower nectar into a sweet golden food and store it in wax combs",
+   "a": "What are honeybees?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-03",
+   "q": "An adult insect's thorax normally carries this many legs",
+   "a": "What is six?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-04",
+   "q": "These eight-legged arachnids spin silk webs to catch their prey",
+   "a": "What are spiders?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-05",
+   "q": "This beetle makes a cold light in its abdomen, flashing to attract mates on summer nights",
+   "a": "What is a firefly?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-06",
+   "q": "This round red beetle with black spots is a gardener's friend because it gobbles up aphids",
+   "a": "What is a ladybug?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-07",
+   "q": "Only the females of these whining insects bite to drink blood, which they need to produce eggs",
+   "a": "What are mosquitoes?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-08",
+   "q": "An insect's body has three main parts: the head, the thorax and this rear section",
+   "a": "What is the abdomen?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-09",
+   "q": "These social insects leave scent trails that guide their nestmates to food, and some colonies number in the millions",
+   "a": "What are ants?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-10",
+   "q": "Males of these insects 'sing' by rubbing their wings together, and their chirping speeds up in warm weather",
+   "a": "What are crickets?",
+   "tier": 1
+  },
+  {
+   "id": "bugs-11",
+   "q": "These eight-legged arachnids grab prey with pincers, carry a venomous stinger, and glow under ultraviolet light",
+   "a": "What are scorpions?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-12",
+   "q": "This word describes the transformation from egg to larva to pupa to adult",
+   "a": "What is metamorphosis?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-13",
+   "q": "Monarch caterpillars feed only on this plant, whose toxins make them taste bad to predators",
+   "a": "What is milkweed?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-14",
+   "q": "This green predator holds its front legs folded as if in prayer, and females sometimes eat their mates",
+   "a": "What is a praying mantis?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-15",
+   "q": "These small eight-legged arachnids latch onto animals to drink blood and can spread Lyme disease",
+   "a": "What are ticks?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-16",
+   "q": "These wood-eating insects build towering mounds of soil in Africa and Australia",
+   "a": "What are termites?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-17",
+   "q": "These four-winged hunters snatch prey in midair, and when resting they hold their wings flat out to the sides",
+   "a": "What are dragonflies?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-18",
+   "q": "Insects use these 'feelers' on their heads to smell, touch and sense their surroundings",
+   "a": "What are antennae?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-19",
+   "q": "This branch of zoology is the scientific study of insects",
+   "a": "What is entomology?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-20",
+   "q": "These slow-moving creatures avoid being eaten by looking almost exactly like twigs",
+   "a": "What are stick insects?",
+   "tier": 2
+  },
+  {
+   "id": "bugs-21",
+   "q": "Instead of a bony skeleton, insects have this tough outer covering made of chitin, which they must shed to grow",
+   "a": "What is an exoskeleton?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-22",
+   "q": "The female of this venomous spider is glossy and dark with a red hourglass mark on her underside",
+   "a": "What is the black widow?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-23",
+   "q": "These scarabs roll balls of animal waste, and some species use the Milky Way to steer in a straight line",
+   "a": "What are dung beetles?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-24",
+   "q": "Honeybees use this figure-eight movement to tell hivemates the direction and distance to food",
+   "a": "What is the waggle dance?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-25",
+   "q": "This huge animal phylum, with jointed legs and exoskeletons, includes insects, spiders and crustaceans",
+   "a": "What are arthropods?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-26",
+   "q": "Insects see with these large organs made of many tiny units, each with its own lens",
+   "a": "What are compound eyes?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-27",
+   "q": "Unlike millipedes, these fast, venomous hunters have just one pair of legs per body segment",
+   "a": "What are centipedes?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-28",
+   "q": "This reclusive North American spider has a dark violin-shaped mark on its back",
+   "a": "What is the brown recluse?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-29",
+   "q": "These insects carry cut pieces of leaves to their nests, not to eat but to grow fungus gardens",
+   "a": "What are leafcutter ants?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-30",
+   "q": "Some species of these loud insects spend 13 or 17 years underground as nymphs before emerging together",
+   "a": "What are cicadas?",
+   "tier": 3
+  },
+  {
+   "id": "bugs-31",
+   "q": "Often called daddy longlegs, these arachnids aren't spiders: their body is one fused oval and they don't spin silk",
+   "a": "What are harvestmen?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-32",
+   "q": "This huge Asian lepidopteran, with a wingspan often 25 to 30 cm, has wingtips said to resemble snake heads",
+   "a": "What is the atlas moth?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-33",
+   "q": "When threatened, this insect sprays a hot chemical mixture near the boiling point of water from its rear end",
+   "a": "What is the bombardier beetle?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-34",
+   "q": "This Central and South American insect's sting is rated at the top of Justin Schmidt's pain index, said to feel like being shot",
+   "a": "What is the bullet ant?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-35",
+   "q": "Insects breathe through these small openings along the sides of their bodies, which lead into air tubes",
+   "a": "What are spiracles?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-36",
+   "q": "Nicknamed 'water bears', these tiny eight-legged animals can survive drying out, extreme cold and even outer space",
+   "a": "What are tardigrades?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-37",
+   "q": "Adults of these insects, in the order Ephemeroptera, often live only a day or two, while their nymphs live in water",
+   "a": "What are mayflies?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-38",
+   "q": "Found in northern South America, this tarantula is the world's largest spider by mass",
+   "a": "What is the Goliath birdeater?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-39",
+   "q": "Insects release these chemical signals to communicate, like a female moth attracting males from far away",
+   "a": "What are pheromones?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-40",
+   "q": "With about 400,000 described species, this order of beetles is the largest order in the animal kingdom",
+   "a": "What is Coleoptera?",
+   "tier": 4
+  },
+  {
+   "id": "bugs-41",
+   "q": "Flies use these tiny knobbed structures, evolved from their second pair of wings, to keep balance in flight",
+   "a": "What are halteres?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-42",
+   "q": "Nicknamed the 'cow killer', this fuzzy red-and-black 'ant' is actually a wingless female wasp with a painful sting",
+   "a": "What is the velvet ant?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-43",
+   "q": "These blood-feeding triatomine insects often bite near people's mouths and can spread Chagas disease",
+   "a": "What are kissing bugs?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-44",
+   "q": "Spiderlings travel long distances by releasing silk threads and drifting on the wind, a behavior called this",
+   "a": "What is ballooning?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-45",
+   "q": "Many spiders and scorpions breathe using these stacked, page-like respiratory organs",
+   "a": "What are book lungs?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-46",
+   "q": "The red dye carmine, used in foods and lipsticks, comes from this scale insect that lives on prickly pear cacti",
+   "a": "What is the cochineal?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-47",
+   "q": "This term names each stage of an insect larva between one molt and the next",
+   "a": "What is an instar?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-48",
+   "q": "Insects don't have true blood; instead their open circulatory system moves this fluid",
+   "a": "What is hemolymph?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-49",
+   "q": "This huge spider wasp paralyzes a big hairy spider with its sting and drags it off as living food for its larva",
+   "a": "What is the tarantula hawk?",
+   "tier": 5
+  },
+  {
+   "id": "bugs-50",
+   "q": "This glossy wood finish, once used to make 78 rpm records, comes from a resin secreted by female lac bugs",
+   "a": "What is shellac?",
+   "tier": 5
+  }
+ ]
+}

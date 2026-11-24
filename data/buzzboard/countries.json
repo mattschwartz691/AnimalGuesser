@@ -1,0 +1,607 @@
+{
+ "category": "Countries/Territories",
+ "slug": "countries",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q142-capital",
+   "q": "The capital of this European country is Paris.",
+   "a": "What is France?",
+   "tier": 1
+  },
+  {
+   "id": "Q38-capital",
+   "q": "The capital of this European country is Rome.",
+   "a": "What is Italy?",
+   "tier": 1
+  },
+  {
+   "id": "Q29-capital",
+   "q": "The capital of this European country is Madrid.",
+   "a": "What is Spain?",
+   "tier": 1
+  },
+  {
+   "id": "Q183-capital",
+   "q": "The capital of this European country is Berlin.",
+   "a": "What is Germany?",
+   "tier": 1
+  },
+  {
+   "id": "Q17-capital",
+   "q": "The capital of this Asian country is Tokyo.",
+   "a": "What is Japan?",
+   "tier": 1
+  },
+  {
+   "id": "Q148-capital",
+   "q": "The capital of this Asian country is Beijing.",
+   "a": "What is China?",
+   "tier": 1
+  },
+  {
+   "id": "Q16-capital",
+   "q": "The capital of this North American country is Ottawa.",
+   "a": "What is Canada?",
+   "tier": 1
+  },
+  {
+   "id": "Q30-capital",
+   "q": "The capital of this country is Washington, D.C.",
+   "a": "What is the United States?",
+   "tier": 1
+  },
+  {
+   "id": "Q159-lead",
+   "q": "This country is in Eastern Europe and North Asia. It is the largest country in the world, spanning eleven time zones and sharing land borders with fourteen countries.",
+   "a": "What is Russia?",
+   "tier": 1
+  },
+  {
+   "id": "Q155-lead",
+   "q": "This is the largest country in South America and the world's fifth-largest country by area.",
+   "a": "What is Brazil?",
+   "tier": 1
+  },
+  {
+   "id": "Q145-lead",
+   "q": "This European country, located off the coast of the continental mainland, comprises England, Scotland, Wales and Northern Ireland.",
+   "a": "What is the United Kingdom?",
+   "tier": 1
+  },
+  {
+   "id": "Q79-capital",
+   "q": "The capital of this African country is Cairo.",
+   "a": "What is Egypt?",
+   "tier": 1
+  },
+  {
+   "id": "Q668-capital",
+   "q": "The capital of this Asian country is New Delhi.",
+   "a": "What is India?",
+   "tier": 1
+  },
+  {
+   "id": "Q41-capital",
+   "q": "The capital of this European country is Athens.",
+   "a": "What is Greece?",
+   "tier": 1
+  },
+  {
+   "id": "Q27-capital",
+   "q": "The capital of this European country is Dublin.",
+   "a": "What is Ireland?",
+   "tier": 1
+  },
+  {
+   "id": "Q212-capital",
+   "q": "The capital of this European country is Kyiv.",
+   "a": "What is Ukraine?",
+   "tier": 1
+  },
+  {
+   "id": "Q39-flag",
+   "q": "This country's national flag displays a white Greek cross in the centre of a red field.",
+   "a": "What is Switzerland?",
+   "tier": 1
+  },
+  {
+   "id": "Q884-capital",
+   "q": "The capital of this Asian country is Seoul.",
+   "a": "What is South Korea?",
+   "tier": 1
+  },
+  {
+   "id": "Q34-capital",
+   "q": "The capital of this European country is Stockholm.",
+   "a": "What is Sweden?",
+   "tier": 1
+  },
+  {
+   "id": "Q408-lead",
+   "q": "This country comprises the mainland of the continent that shares its name, the island of Tasmania and numerous smaller islands.",
+   "a": "What is Australia?",
+   "tier": 1
+  },
+  {
+   "id": "Q43-lead",
+   "q": "This is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe.",
+   "a": "What is Turkey?",
+   "tier": 2
+  },
+  {
+   "id": "Q96-flag",
+   "q": "This country's national flag is a vertical tricolor of green, white, and red with the national coat of arms charged in the center of the white stripe.",
+   "a": "What is Mexico?",
+   "tier": 2
+  },
+  {
+   "id": "Q664-lead",
+   "q": "This island country is in the southwestern Pacific Ocean. It comprises two main landmasses—the North Island and the South Island—and over 700 smaller islands.",
+   "a": "What is New Zealand?",
+   "tier": 2
+  },
+  {
+   "id": "Q55-capital",
+   "q": "The capital of this European country is Amsterdam.",
+   "a": "What is the Netherlands?",
+   "tier": 2
+  },
+  {
+   "id": "Q45-capital",
+   "q": "The capital of this European country is Lisbon.",
+   "a": "What is Portugal?",
+   "tier": 2
+  },
+  {
+   "id": "Q31-capital",
+   "q": "The capital of this European country is Brussels.",
+   "a": "What is Belgium?",
+   "tier": 2
+  },
+  {
+   "id": "Q40-capital",
+   "q": "The capital of this European country is Vienna.",
+   "a": "What is Austria?",
+   "tier": 2
+  },
+  {
+   "id": "Q414-capital",
+   "q": "The capital of this South American country is Buenos Aires.",
+   "a": "What is Argentina?",
+   "tier": 2
+  },
+  {
+   "id": "Q869-capital",
+   "q": "The capital of this Asian country is Bangkok.",
+   "a": "What is Thailand?",
+   "tier": 2
+  },
+  {
+   "id": "Q241-capital",
+   "q": "The capital of this North American country is Havana.",
+   "a": "What is Cuba?",
+   "tier": 2
+  },
+  {
+   "id": "Q114-capital",
+   "q": "The capital of this African country is Nairobi.",
+   "a": "What is Kenya?",
+   "tier": 2
+  },
+  {
+   "id": "Q22-capital",
+   "q": "The capital of this European country is Edinburgh.",
+   "a": "What is Scotland?",
+   "tier": 2
+  },
+  {
+   "id": "Q35-capital",
+   "q": "The capital of this European country is Copenhagen.",
+   "a": "What is Denmark?",
+   "tier": 2
+  },
+  {
+   "id": "Q28-capital",
+   "q": "The capital of this European country is Budapest.",
+   "a": "What is Hungary?",
+   "tier": 2
+  },
+  {
+   "id": "Q213-capital",
+   "q": "The capital of this European country is Prague.",
+   "a": "What is the Czech Republic?",
+   "tier": 2
+  },
+  {
+   "id": "Q419-capital",
+   "q": "The capital of this South American country is Lima.",
+   "a": "What is Peru?",
+   "tier": 2
+  },
+  {
+   "id": "Q36-capital",
+   "q": "The capital of this European country is Warsaw.",
+   "a": "What is Poland?",
+   "tier": 2
+  },
+  {
+   "id": "Q928-capital",
+   "q": "The capital of this Asian country is Manila.",
+   "a": "What is the Philippines?",
+   "tier": 2
+  },
+  {
+   "id": "Q17-highest",
+   "q": "The highest point of this Asian country is Mount Fuji, at about 3,777 meters.",
+   "a": "What is Japan?",
+   "tier": 2
+  },
+  {
+   "id": "Q79-lead",
+   "q": "This is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula.",
+   "a": "What is Egypt?",
+   "tier": 2
+  },
+  {
+   "id": "Q843-capital",
+   "q": "The capital of this Asian country is Islamabad.",
+   "a": "What is Pakistan?",
+   "tier": 3
+  },
+  {
+   "id": "Q794-capital",
+   "q": "The capital of this Asian country is Tehran.",
+   "a": "What is Iran?",
+   "tier": 3
+  },
+  {
+   "id": "Q796-lead",
+   "q": "This country is in West Asia. Located within the Middle East, it is bordered by Saudi Arabia to the south, Turkey to the north, Iran to the east, the Persian Gulf and Kuwait to the southeast, Jordan to the southwest, and Syria to the west.",
+   "a": "What is Iraq?",
+   "tier": 3
+  },
+  {
+   "id": "Q858-capital",
+   "q": "The capital of this Asian country is Damascus.",
+   "a": "What is Syria?",
+   "tier": 3
+  },
+  {
+   "id": "Q881-capital",
+   "q": "The capital of this Asian country is Hanoi.",
+   "a": "What is Vietnam?",
+   "tier": 3
+  },
+  {
+   "id": "Q423-capital",
+   "q": "The capital of this Asian country is Pyongyang.",
+   "a": "What is North Korea?",
+   "tier": 3
+  },
+  {
+   "id": "Q1033-capital",
+   "q": "The capital of this African country is Abuja.",
+   "a": "What is Nigeria?",
+   "tier": 3
+  },
+  {
+   "id": "Q889-capital",
+   "q": "The capital of this Asian country is Kabul.",
+   "a": "What is Afghanistan?",
+   "tier": 3
+  },
+  {
+   "id": "Q20-flag",
+   "q": "This country's national flag is red with a navy blue Scandinavian cross bordered in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog, the flag of Denmark.",
+   "a": "What is Norway?",
+   "tier": 3
+  },
+  {
+   "id": "Q739-capital",
+   "q": "The capital of this South American country is Bogotá.",
+   "a": "What is Colombia?",
+   "tier": 3
+  },
+  {
+   "id": "Q717-capital",
+   "q": "The capital of this South American country is Caracas.",
+   "a": "What is Venezuela?",
+   "tier": 3
+  },
+  {
+   "id": "Q298-lead",
+   "q": "This country is in the Southern Cone of southwestern South America. It is the southernmost country in the world and the closest to Antarctica, extending along a narrow strip of land between the Andes Mountains and the Pacific Ocean.",
+   "a": "What is Chile?",
+   "tier": 3
+  },
+  {
+   "id": "Q33-capital",
+   "q": "The capital of this European country is Helsinki.",
+   "a": "What is Finland?",
+   "tier": 3
+  },
+  {
+   "id": "Q189-capital",
+   "q": "The capital of this European country is Reykjavík.",
+   "a": "What is Iceland?",
+   "tier": 3
+  },
+  {
+   "id": "Q25-flag",
+   "q": "This country's flag consists of a red dragon passant on a green and white field. As with many heraldic charges, the exact representation of the dragon is not standardised in law.",
+   "a": "What is Wales?",
+   "tier": 3
+  },
+  {
+   "id": "Q8646-lead",
+   "q": "This special administrative region of China, situated on China's southern coast just south of Shenzhen, consists of an island, Kowloon, and the New Territories.",
+   "a": "What is Hong Kong?",
+   "tier": 3
+  },
+  {
+   "id": "Q252-lead",
+   "q": "This country is in Southeast Asia and Oceania, between the Indian and Pacific oceans.",
+   "a": "What is Indonesia?",
+   "tier": 3
+  },
+  {
+   "id": "Q851-capital",
+   "q": "The capital of this Asian country is Riyadh.",
+   "a": "What is Saudi Arabia?",
+   "tier": 3
+  },
+  {
+   "id": "Q902-flag",
+   "q": "This country's national flag, nicknamed the Lal–Sobuj, was adopted officially on 17 January 1972. It consists of a red circle on top of a dark green field.",
+   "a": "What is Bangladesh?",
+   "tier": 3
+  },
+  {
+   "id": "Q810-capital",
+   "q": "The capital of this Asian country is Amman.",
+   "a": "What is Jordan?",
+   "tier": 3
+  },
+  {
+   "id": "Q833-currency",
+   "q": "This Asian country uses a currency called the ringgit.",
+   "a": "What is Malaysia?",
+   "tier": 4
+  },
+  {
+   "id": "Q115-language",
+   "q": "Amharic is an official language of this African country.",
+   "a": "What is Ethiopia?",
+   "tier": 4
+  },
+  {
+   "id": "Q219-capital",
+   "q": "The capital of this European country is Sofia.",
+   "a": "What is Bulgaria?",
+   "tier": 4
+  },
+  {
+   "id": "Q117-currency",
+   "q": "This African country uses a currency called the cedi.",
+   "a": "What is Ghana?",
+   "tier": 4
+  },
+  {
+   "id": "Q237-language",
+   "q": "Latin is an official language of this European country.",
+   "a": "What is Vatican City?",
+   "tier": 4
+  },
+  {
+   "id": "Q865-capital",
+   "q": "The capital of this Asian country is Taipei.",
+   "a": "What is Taiwan?",
+   "tier": 4
+  },
+  {
+   "id": "Q1028-capital",
+   "q": "The capital of this African country is Rabat.",
+   "a": "What is Morocco?",
+   "tier": 4
+  },
+  {
+   "id": "Q424-flag",
+   "q": "This country's flag features three horizontal bands of blue, double-width red, and blue, with a white depiction of Angkor Wat centred on the red band.",
+   "a": "What is Cambodia?",
+   "tier": 4
+  },
+  {
+   "id": "Q837-flag",
+   "q": "This country's national flag is a concave pentagon of red, white, and blue.",
+   "a": "What is Nepal?",
+   "tier": 4
+  },
+  {
+   "id": "Q262-flag",
+   "q": "This country's national flag consists of two equal vertical bars, green and white, charged in the center with a red star and crescent, a symbol of Islam as the nation's prominent faith. The flag was adopted on 3 July 1962.",
+   "a": "What is Algeria?",
+   "tier": 4
+  },
+  {
+   "id": "Q1049-capital",
+   "q": "The capital of this African country is Khartoum.",
+   "a": "What is Sudan?",
+   "tier": 4
+  },
+  {
+   "id": "Q224-borders",
+   "q": "This European country's neighbors include Hungary, Serbia and Slovenia.",
+   "a": "What is Croatia?",
+   "tier": 4
+  },
+  {
+   "id": "Q399-borders",
+   "q": "This Asian country shares borders with Turkey, Iran, Georgia and Azerbaijan.",
+   "a": "What is Armenia?",
+   "tier": 4
+  },
+  {
+   "id": "Q836-borders",
+   "q": "This Asian country's neighbors include India, China and Thailand.",
+   "a": "What is Myanmar?",
+   "tier": 4
+  },
+  {
+   "id": "Q334-lead",
+   "q": "This is an island country and city-state in Southeast Asia. Its territory comprises a main island, over 60 satellite islands and islets, and one outlying islet.",
+   "a": "What is Singapore?",
+   "tier": 4
+  },
+  {
+   "id": "Q403-flag",
+   "q": "This country's flag is a tricolour of three equal horizontal bands, red on the top, blue in the middle, and white on the bottom, with the lesser coat of arms towards the hoist.",
+   "a": "What is Serbia?",
+   "tier": 4
+  },
+  {
+   "id": "Q258-capital",
+   "q": "This country has three capital cities: Cape Town, Pretoria and Bloemfontein.",
+   "a": "What is South Africa?",
+   "tier": 4
+  },
+  {
+   "id": "Q155-flag",
+   "q": "This country's national flag is a blue disc depicting a starry sky spanned by a curved band inscribed with the national motto Ordem e Progresso, within a yellow rhombus on a green field.",
+   "a": "What is Brazil?",
+   "tier": 4
+  },
+  {
+   "id": "Q114-flag",
+   "q": "This country's flag is a tricolour of black, red, and green with two white edges imposed with a red, white and black Maasai shield and two crossed spears.",
+   "a": "What is Kenya?",
+   "tier": 4
+  },
+  {
+   "id": "Q212-currency",
+   "q": "This European country uses the hryvnia as its currency.",
+   "a": "What is Ukraine?",
+   "tier": 4
+  },
+  {
+   "id": "Q96-highest",
+   "q": "The highest point of this North American country is Citlaltepetl, at about 5,636 meters.",
+   "a": "What is Mexico?",
+   "tier": 5
+  },
+  {
+   "id": "Q29-highest",
+   "q": "The highest point of this country is Teide, at about 3,715 meters.",
+   "a": "What is Spain?",
+   "tier": 5
+  },
+  {
+   "id": "Q39-highest",
+   "q": "The highest point of this European country is Dufourspitze, at about 4,634 meters.",
+   "a": "What is Switzerland?",
+   "tier": 5
+  },
+  {
+   "id": "Q55-highest",
+   "q": "The highest point of this European country is Mount Scenery, at about 870 meters.",
+   "a": "What is the Netherlands?",
+   "tier": 5
+  },
+  {
+   "id": "Q20-highest",
+   "q": "The highest point of this country is Galdhøpiggen, at about 2,469 meters.",
+   "a": "What is Norway?",
+   "tier": 5
+  },
+  {
+   "id": "Q298-highest",
+   "q": "The highest point of this country is Ojos del Salado, at about 6,893 meters.",
+   "a": "What is Chile?",
+   "tier": 5
+  },
+  {
+   "id": "Q833-highest",
+   "q": "The highest point of this Asian country is Mount Kinabalu, at about 4,095 meters.",
+   "a": "What is Malaysia?",
+   "tier": 5
+  },
+  {
+   "id": "Q928-highest",
+   "q": "The highest point of this Asian country is Mount Apo, at about 2,954 meters.",
+   "a": "What is the Philippines?",
+   "tier": 5
+  },
+  {
+   "id": "Q881-highest",
+   "q": "The highest point of this Asian country is Fansipan, at about 3,147 meters.",
+   "a": "What is Vietnam?",
+   "tier": 5
+  },
+  {
+   "id": "Q34-anthem",
+   "q": "This European country's national anthem is called \"Du gamla, du fria\".",
+   "a": "What is Sweden?",
+   "tier": 5
+  },
+  {
+   "id": "Q213-anthem",
+   "q": "This European country's national anthem is called \"Kde domov můj\".",
+   "a": "What is the Czech Republic?",
+   "tier": 5
+  },
+  {
+   "id": "Q1033-currency",
+   "q": "This African country uses the naira as its currency.",
+   "a": "What is Nigeria?",
+   "tier": 5
+  },
+  {
+   "id": "Q869-currency",
+   "q": "This Asian country uses the baht as its currency.",
+   "a": "What is Thailand?",
+   "tier": 5
+  },
+  {
+   "id": "Q252-currency",
+   "q": "This country uses the rupiah as its currency.",
+   "a": "What is Indonesia?",
+   "tier": 5
+  },
+  {
+   "id": "Q36-currency",
+   "q": "This European country uses the złoty as its currency.",
+   "a": "What is Poland?",
+   "tier": 5
+  },
+  {
+   "id": "Q28-currency",
+   "q": "This European country uses the forint as its currency.",
+   "a": "What is Hungary?",
+   "tier": 5
+  },
+  {
+   "id": "Q45-highest",
+   "q": "The highest point of this European country is Mount Pico, at about 2,351 meters.",
+   "a": "What is Portugal?",
+   "tier": 5
+  },
+  {
+   "id": "Q334-highest",
+   "q": "The highest point of this Asian country is Bukit Timah, at about 164 meters.",
+   "a": "What is Singapore?",
+   "tier": 5
+  },
+  {
+   "id": "Q31-highest",
+   "q": "The highest point of this European country is Signal de Botrange, at about 694 meters.",
+   "a": "What is Belgium?",
+   "tier": 5
+  },
+  {
+   "id": "Q1044-language",
+   "q": "Krio is an official language of this African country.",
+   "a": "What is Sierra Leone?",
+   "tier": 5
+  }
+ ]
+}

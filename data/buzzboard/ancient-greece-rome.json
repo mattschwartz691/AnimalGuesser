@@ -1,0 +1,308 @@
+{
+ "category": "Ancient Greece & Rome",
+ "slug": "ancient-greece-rome",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "ancient-greece-rome-01",
+   "q": "Opened in AD 80, this huge Roman amphitheater could seat tens of thousands of spectators",
+   "a": "What is the Colosseum?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-02",
+   "q": "Traditionally dated to 776 BC, these athletic contests were held every four years in honor of Zeus",
+   "a": "What are the Olympic Games?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-03",
+   "q": "This Roman leader was stabbed to death at a Senate meeting on the Ides of March, 44 BC",
+   "a": "Who is Julius Caesar?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-04",
+   "q": "This marble temple to Athena stands on the Acropolis",
+   "a": "What is the Parthenon?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-05",
+   "q": "This Greek city-state is often called the birthplace of democracy",
+   "a": "What is Athens?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-06",
+   "q": "This Greek city-state was famous for its tough military training of boys from about age seven",
+   "a": "What is Sparta?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-07",
+   "q": "In this number system, X stands for 10 and C stands for 100",
+   "a": "What are Roman numerals?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-08",
+   "q": "Tutored by Aristotle, this Macedonian king conquered the Persian Empire before dying at 32",
+   "a": "Who is Alexander the Great?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-09",
+   "q": "This Roman town was buried by the eruption of Mount Vesuvius in AD 79",
+   "a": "What is Pompeii?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-10",
+   "q": "These armed fighters, often slaves or prisoners, battled in Roman arenas to entertain crowds",
+   "a": "What are gladiators?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-greece-rome-11",
+   "q": "This Athenian philosopher who taught by asking questions was sentenced to death by drinking hemlock",
+   "a": "Who is Socrates?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-12",
+   "q": "Romans built these channels and arched bridges to carry water into their cities",
+   "a": "What are aqueducts?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-13",
+   "q": "Starting in AD 122, Roman soldiers built this barrier across northern Britain",
+   "a": "What is Hadrian's Wall?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-14",
+   "q": "This governing council of Roman elders gave its name to a branch of the U.S. Congress",
+   "a": "What is the Senate?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-15",
+   "q": "In 490 BC Athenians defeated the Persians at this plain, whose name is now used for a 26.2-mile race",
+   "a": "What is Marathon?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-16",
+   "q": "Formerly called Octavian, he became the first Roman emperor in 27 BC",
+   "a": "Who is Augustus?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-17",
+   "q": "Doctors still take an oath named for this Greek physician, called the 'father of medicine'",
+   "a": "Who is Hippocrates?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-18",
+   "q": "This loose woolen garment draped over the body was worn by male Roman citizens",
+   "a": "What is a toga?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-19",
+   "q": "Legend says this Greek mathematician from Syracuse shouted 'Eureka!' in his bath",
+   "a": "Who is Archimedes?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-20",
+   "q": "This Thracian gladiator led a huge slave revolt against Rome starting in 73 BC",
+   "a": "Who is Spartacus?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-greece-rome-21",
+   "q": "This Athenian statesman led the city in its golden age and championed the building program on the Acropolis",
+   "a": "Who is Pericles?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-22",
+   "q": "In 480 BC, 300 Spartans and their allies held off the Persian army for days at this narrow coastal pass",
+   "a": "What is Thermopylae?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-23",
+   "q": "This Carthaginian general crossed the Alps with war elephants to invade Italy",
+   "a": "Who is Hannibal?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-24",
+   "q": "This Roman temple still has the world's largest unreinforced concrete dome, with an open oculus at the top",
+   "a": "What is the Pantheon?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-25",
+   "q": "Lined with temples and government buildings, this open plaza was the center of public life in ancient Rome",
+   "a": "What is the Forum?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-26",
+   "q": "This Greek writer, called the 'Father of History', wrote about the wars between the Greeks and Persians",
+   "a": "Who is Herodotus?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-27",
+   "q": "This emperor was ruling when a great fire swept through Rome in AD 64",
+   "a": "Who is Nero?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-28",
+   "q": "This student of Socrates wrote 'The Republic' and founded the Academy in Athens",
+   "a": "Who is Plato?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-29",
+   "q": "Begun in 312 BC, this famous road, called the 'queen of roads', ran south from Rome",
+   "a": "What is the Appian Way?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-30",
+   "q": "This Greek mathematician of Alexandria wrote the 'Elements', the standard geometry textbook for over 2,000 years",
+   "a": "Who is Euclid?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-greece-rome-31",
+   "q": "This great orator was consul in 63 BC, when he exposed the conspiracy of Catiline",
+   "a": "Who is Cicero?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-32",
+   "q": "This Athenian reformer of 508 BC is often called the 'father of Athenian democracy'",
+   "a": "Who is Cleisthenes?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-33",
+   "q": "In 31 BC Octavian's fleet defeated Antony and Cleopatra in this naval clash off western Greece",
+   "a": "What is the Battle of Actium?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-34",
+   "q": "Athenians could exile a citizen for 10 years by scratching his name on pottery shards in this vote",
+   "a": "What is ostracism?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-35",
+   "q": "The Roman Empire reached its greatest size under this emperor, whose column in Rome shows his Dacian Wars",
+   "a": "Who is Trajan?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-36",
+   "q": "Recovered from a shipwreck in 1901, this corroded bronze gear device is called the oldest known analog computer",
+   "a": "What is the Antikythera mechanism?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-37",
+   "q": "This emperor set up a 'rule of four' and later retired to a palace in what is now Split, Croatia",
+   "a": "Who is Diocletian?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-38",
+   "q": "This Roman was named dictator to save the state, then gave up power and returned to his farm",
+   "a": "Who is Cincinnatus?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-39",
+   "q": "Wealthy Romans heated floors and baths with this system of hot air flowing under raised floors",
+   "a": "What is a hypocaust?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-40",
+   "q": "From 431 to 404 BC, this long conflict between Athens and Sparta ended in Athens' defeat",
+   "a": "What is the Peloponnesian War?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-greece-rome-41",
+   "q": "This Roman wrote two famous letters to the historian Tacitus describing the eruption of Vesuvius that killed his uncle",
+   "a": "Who is Pliny the Younger?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-42",
+   "q": "These brothers, Tiberius and Gaius, were tribunes who pushed for land reform in the 2nd century BC",
+   "a": "Who are the Gracchi?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-43",
+   "q": "This Greek scholar in Alexandria estimated Earth's circumference by comparing the sun's angle in two cities",
+   "a": "Who is Eratosthenes?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-44",
+   "q": "This 1st-century AD inventor in Egypt described the aeolipile, a spinning steam-powered sphere",
+   "a": "Who is Hero of Alexandria?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-45",
+   "q": "In AD 9, Germanic tribes led by Arminius wiped out three Roman legions under Varus in this woodland region",
+   "a": "What is the Teutoburg Forest?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-46",
+   "q": "This earliest written code of Roman law, drawn up about 450 BC, was put on public display in the Forum",
+   "a": "What are the Twelve Tables?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-47",
+   "q": "This Latin phrase, meaning 'course of offices', was the sequence of public posts an ambitious Roman politician climbed",
+   "a": "What is the cursus honorum?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-48",
+   "q": "This Roman architect and engineer wrote 'De architectura', the only major architecture treatise surviving from antiquity",
+   "a": "Who is Vitruvius?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-49",
+   "q": "At the baths, Romans and Greeks scraped oil and dirt from their skin with this curved metal tool",
+   "a": "What is a strigil?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-50",
+   "q": "This king of Epirus beat the Romans at Heraclea and Asculum, but at such cost that his name became a byword",
+   "a": "Who is Pyrrhus?",
+   "tier": 5
+  }
+ ]
+}

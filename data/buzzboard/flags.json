@@ -1,0 +1,308 @@
+{
+ "category": "Flags",
+ "slug": "flags",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "flags-01",
+   "q": "Its flag shows a red maple leaf on a white square between two red bands",
+   "a": "What is Canada?",
+   "tier": 1
+  },
+  {
+   "id": "flags-02",
+   "q": "Its flag is a simple red circle, representing the sun, centered on a white field",
+   "a": "What is Japan?",
+   "tier": 1
+  },
+  {
+   "id": "flags-03",
+   "q": "Its flag has 13 red and white stripes and 50 white stars on a blue canton",
+   "a": "What is the United States?",
+   "tier": 1
+  },
+  {
+   "id": "flags-04",
+   "q": "Its Union Jack combines the crosses of St. George, St. Andrew and St. Patrick",
+   "a": "What is the United Kingdom?",
+   "tier": 1
+  },
+  {
+   "id": "flags-05",
+   "q": "Its green flag has a yellow diamond enclosing a blue starry globe with the motto 'Ordem e Progresso'",
+   "a": "What is Brazil?",
+   "tier": 1
+  },
+  {
+   "id": "flags-06",
+   "q": "Its green, white and red vertical tricolor shows an eagle on a cactus eating a snake",
+   "a": "What is Mexico?",
+   "tier": 1
+  },
+  {
+   "id": "flags-07",
+   "q": "Its flag is a plain vertical tricolor of green, white and red, with green at the hoist",
+   "a": "What is Italy?",
+   "tier": 1
+  },
+  {
+   "id": "flags-08",
+   "q": "Its flag, the Tricolore, has vertical stripes of blue, white and red, with blue at the hoist",
+   "a": "What is France?",
+   "tier": 1
+  },
+  {
+   "id": "flags-09",
+   "q": "Its flag has three horizontal stripes: black on top, then red, then gold",
+   "a": "What is Germany?",
+   "tier": 1
+  },
+  {
+   "id": "flags-10",
+   "q": "Its red flag has five yellow stars: one large star and four smaller ones in an arc",
+   "a": "What is China?",
+   "tier": 1
+  },
+  {
+   "id": "flags-11",
+   "q": "Its white flag has a red-and-blue yin-yang circle surrounded by four black trigrams",
+   "a": "What is South Korea?",
+   "tier": 2
+  },
+  {
+   "id": "flags-12",
+   "q": "Its saffron, white and green tricolor has a navy blue 24-spoke wheel in the center",
+   "a": "What is India?",
+   "tier": 2
+  },
+  {
+   "id": "flags-13",
+   "q": "Its white flag has two horizontal blue stripes with a blue Star of David between them",
+   "a": "What is Israel?",
+   "tier": 2
+  },
+  {
+   "id": "flags-14",
+   "q": "Its square red flag has a bold white cross with equal arms that don't reach the edges",
+   "a": "What is Switzerland?",
+   "tier": 2
+  },
+  {
+   "id": "flags-15",
+   "q": "Its blue flag has the Union Jack, a large seven-pointed star and the Southern Cross in white stars",
+   "a": "What is Australia?",
+   "tier": 2
+  },
+  {
+   "id": "flags-16",
+   "q": "Its flag is a vertical tricolor of green, white and orange, with green at the hoist",
+   "a": "What is Ireland?",
+   "tier": 2
+  },
+  {
+   "id": "flags-17",
+   "q": "Its flag has light blue, white and light blue horizontal bands with a golden 'Sun of May' in the center",
+   "a": "What is Argentina?",
+   "tier": 2
+  },
+  {
+   "id": "flags-18",
+   "q": "Its plain red flag has a white crescent and a white star, set toward the hoist with no circle around them",
+   "a": "What is Turkey?",
+   "tier": 2
+  },
+  {
+   "id": "flags-19",
+   "q": "Its flag has a gold diagonal cross separating two green triangles and two black triangles",
+   "a": "What is Jamaica?",
+   "tier": 2
+  },
+  {
+   "id": "flags-20",
+   "q": "Its flag has nine blue and white horizontal stripes with a white cross in the blue canton",
+   "a": "What is Greece?",
+   "tier": 2
+  },
+  {
+   "id": "flags-21",
+   "q": "It has the only national flag that isn't a rectangle: two stacked crimson pennants",
+   "a": "What is Nepal?",
+   "tier": 3
+  },
+  {
+   "id": "flags-22",
+   "q": "Its flag has a green cedar tree on a white band between two red horizontal bands",
+   "a": "What is Lebanon?",
+   "tier": 3
+  },
+  {
+   "id": "flags-23",
+   "q": "Its white flag shows a copper-colored map of the whole island above two olive branches",
+   "a": "What is Cyprus?",
+   "tier": 3
+  },
+  {
+   "id": "flags-24",
+   "q": "Its black, red and green flag has a red-and-black Maasai shield with two crossed spears",
+   "a": "What is Kenya?",
+   "tier": 3
+  },
+  {
+   "id": "flags-25",
+   "q": "Its six-color flag has a sideways green 'Y' shape that merges into one horizontal band",
+   "a": "What is South Africa?",
+   "tier": 3
+  },
+  {
+   "id": "flags-26",
+   "q": "Its red flag with a white off-center cross, the Dannebrog, is often called the oldest national flag still in use",
+   "a": "What is Denmark?",
+   "tier": 3
+  },
+  {
+   "id": "flags-27",
+   "q": "Its blue flag has a yellow Nordic cross shifted toward the hoist",
+   "a": "What is Sweden?",
+   "tier": 3
+  },
+  {
+   "id": "flags-28",
+   "q": "Its dark green flag has a red disc set slightly toward the hoist",
+   "a": "What is Bangladesh?",
+   "tier": 3
+  },
+  {
+   "id": "flags-29",
+   "q": "Its flag is split into green and red vertical sections, with an armillary sphere and shield on the dividing line",
+   "a": "What is Portugal?",
+   "tier": 3
+  },
+  {
+   "id": "flags-30",
+   "q": "Its dark green flag has a white crescent and star, with a white vertical stripe at the hoist",
+   "a": "What is Pakistan?",
+   "tier": 3
+  },
+  {
+   "id": "flags-31",
+   "q": "Its flag is the only national flag featuring a modern assault rifle, crossed with a hoe over a book",
+   "a": "What is Mozambique?",
+   "tier": 4
+  },
+  {
+   "id": "flags-32",
+   "q": "Its flag shows a famous temple: three white towers of Angkor Wat on a red band",
+   "a": "What is Cambodia?",
+   "tier": 4
+  },
+  {
+   "id": "flags-33",
+   "q": "Its flag has a white thunder dragon across a diagonally split yellow and orange field",
+   "a": "What is Bhutan?",
+   "tier": 4
+  },
+  {
+   "id": "flags-34",
+   "q": "Its flag shows a golden lion holding a sword, with four leaves in the corners, beside green and orange stripes",
+   "a": "What is Sri Lanka?",
+   "tier": 4
+  },
+  {
+   "id": "flags-35",
+   "q": "Its flag shows a red dragon striding across horizontal bands of white and green",
+   "a": "What is Wales?",
+   "tier": 4
+  },
+  {
+   "id": "flags-36",
+   "q": "Its blue flag with red edge stripes shows two men holding tools beside a mahogany tree",
+   "a": "What is Belize?",
+   "tier": 4
+  },
+  {
+   "id": "flags-37",
+   "q": "Its green flag has the Islamic declaration of faith written in white above a horizontal sword",
+   "a": "What is Saudi Arabia?",
+   "tier": 4
+  },
+  {
+   "id": "flags-38",
+   "q": "Its flag has a black broken trident on a gold stripe between two blue stripes",
+   "a": "What is Barbados?",
+   "tier": 4
+  },
+  {
+   "id": "flags-39",
+   "q": "Its red flag shows a black double-headed eagle",
+   "a": "What is Albania?",
+   "tier": 4
+  },
+  {
+   "id": "flags-40",
+   "q": "Its flag has black, yellow and red stripes and a grey crowned crane in a white circle",
+   "a": "What is Uganda?",
+   "tier": 4
+  },
+  {
+   "id": "flags-41",
+   "q": "Its flag shows a golden frigatebird flying over a rising sun above blue and white wavy lines",
+   "a": "What is Kiribati?",
+   "tier": 5
+  },
+  {
+   "id": "flags-42",
+   "q": "Its flag shows a purple-breasted Sisserou parrot inside a red disc ringed by green stars",
+   "a": "What is Dominica?",
+   "tier": 5
+  },
+  {
+   "id": "flags-43",
+   "q": "Its red, white and blue striped flag is unusual because its front and back show different emblems",
+   "a": "What is Paraguay?",
+   "tier": 5
+  },
+  {
+   "id": "flags-44",
+   "q": "Its flag is split diagonally into red and black, with a golden bird-of-paradise and the Southern Cross",
+   "a": "What is Papua New Guinea?",
+   "tier": 5
+  },
+  {
+   "id": "flags-45",
+   "q": "Its sky-blue flag shows a golden sun above a soaring steppe eagle, with an ornamental pattern at the hoist",
+   "a": "What is Kazakhstan?",
+   "tier": 5
+  },
+  {
+   "id": "flags-46",
+   "q": "Its blue, yellow and crimson flag shows a black-and-white Nguni shield in front of two spears and a staff",
+   "a": "What is Eswatini?",
+   "tier": 5
+  },
+  {
+   "id": "flags-47",
+   "q": "Its red flag shows a yellow sun with 40 rays around the crown of a traditional yurt",
+   "a": "What is Kyrgyzstan?",
+   "tier": 5
+  },
+  {
+   "id": "flags-48",
+   "q": "Its flag is divided into white and red halves, with the George Cross in the upper hoist corner",
+   "a": "What is Malta?",
+   "tier": 5
+  },
+  {
+   "id": "flags-49",
+   "q": "Its flag has five colored bands fanning out diagonally from the bottom hoist corner",
+   "a": "What is Seychelles?",
+   "tier": 5
+  },
+  {
+   "id": "flags-50",
+   "q": "Its blue flag has a yellow triangle beside a diagonal line of white stars",
+   "a": "What is Bosnia and Herzegovina?",
+   "tier": 5
+  }
+ ]
+}

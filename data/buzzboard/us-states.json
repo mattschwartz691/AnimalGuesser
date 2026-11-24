@@ -1,0 +1,308 @@
+{
+ "category": "US States",
+ "slug": "us-states",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "us-states-01",
+   "q": "This state, made up of volcanic islands in the Pacific, joined the Union in 1959",
+   "a": "What is Hawaii?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-02",
+   "q": "Home to the Everglades and Walt Disney World, this southeastern state is mostly a long peninsula",
+   "a": "What is Florida?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-03",
+   "q": "The largest state by area, it was bought from Russia in 1867",
+   "a": "What is Alaska?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-04",
+   "q": "Nicknamed the Lone Star State, it is home to the Alamo in San Antonio",
+   "a": "What is Texas?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-05",
+   "q": "Hollywood, Yosemite and the Golden Gate Bridge are all found in this West Coast state",
+   "a": "What is California?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-06",
+   "q": "The Statue of Liberty and Niagara Falls are both found in this state",
+   "a": "What is New York?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-07",
+   "q": "The Grand Canyon is the star attraction of this southwestern state",
+   "a": "What is Arizona?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-08",
+   "q": "This is the only state named after a U.S. president",
+   "a": "What is Washington?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-09",
+   "q": "New Orleans and its famous Mardi Gras celebrations are found in this state",
+   "a": "What is Louisiana?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-10",
+   "q": "This state is made of two peninsulas, and its lower one is shaped like a mitten",
+   "a": "What is Michigan?",
+   "tier": 1
+  },
+  {
+   "id": "us-states-11",
+   "q": "The Pilgrims came ashore at Plymouth in 1620 in what is now this New England state",
+   "a": "What is Massachusetts?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-12",
+   "q": "Nashville, the home of country music, and Memphis, home of Graceland, are both in this state",
+   "a": "What is Tennessee?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-13",
+   "q": "Las Vegas, famous for its glittering Strip, is the largest city in this desert state",
+   "a": "What is Nevada?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-14",
+   "q": "The Liberty Bell and Independence Hall are in Philadelphia, the largest city of this state",
+   "a": "What is Pennsylvania?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-15",
+   "q": "This Peach State's capital, Atlanta, hosted the 1996 Summer Olympics",
+   "a": "What is Georgia?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-16",
+   "q": "The famous horse race run each May at Churchill Downs in Louisville takes place in this state",
+   "a": "What is Kentucky?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-17",
+   "q": "Salt Lake City, host of the 2002 Winter Olympics, is the capital of this state",
+   "a": "What is Utah?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-18",
+   "q": "This Pacific Northwest state lies directly between California and Washington",
+   "a": "What is Oregon?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-19",
+   "q": "Nicknamed the 'Land of 10,000 Lakes', this state is home to the giant Mall of America",
+   "a": "What is Minnesota?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-20",
+   "q": "Known as America's Dairyland, this state's football fans proudly wear foam cheesehead hats",
+   "a": "What is Wisconsin?",
+   "tier": 2
+  },
+  {
+   "id": "us-states-21",
+   "q": "This state's flag is the only state flag that isn't a rectangle; it's shaped like a swallowtail pennant",
+   "a": "What is Ohio?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-22",
+   "q": "Most of Yellowstone, the first U.S. national park, lies in this state",
+   "a": "What is Wyoming?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-23",
+   "q": "Mount Rushmore is carved into the Black Hills of this state",
+   "a": "What is South Dakota?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-24",
+   "q": "The U.S. Naval Academy is located in Annapolis, the capital of this state",
+   "a": "What is Maryland?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-25",
+   "q": "The smallest state by area, its capital is Providence",
+   "a": "What is Rhode Island?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-26",
+   "q": "This New England state, whose capital is Montpelier, produces more maple syrup than any other state",
+   "a": "What is Vermont?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-27",
+   "q": "This state is famous for its potatoes, and its capital is Boise",
+   "a": "What is Idaho?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-28",
+   "q": "The Wright brothers made the first powered airplane flights in 1903 near Kitty Hawk in this state",
+   "a": "What is North Carolina?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-29",
+   "q": "Santa Fe is the capital of this state, where Roswell is famous for a supposed 1947 UFO crash",
+   "a": "What is New Mexico?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-30",
+   "q": "Mark Twain grew up in Hannibal, a river town in this state that inspired Tom Sawyer's hometown",
+   "a": "What is Missouri?",
+   "tier": 3
+  },
+  {
+   "id": "us-states-31",
+   "q": "Abraham Lincoln's home and tomb are in Springfield, this state's capital",
+   "a": "What is Illinois?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-32",
+   "q": "This state's capital, Denver, is nicknamed the 'Mile High City'",
+   "a": "What is Colorado?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-33",
+   "q": "Eight U.S. presidents, including George Washington, were born in this state, more than any other",
+   "a": "What is Virginia?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-34",
+   "q": "On December 7, 1787, this state became the first to ratify the U.S. Constitution",
+   "a": "What is Delaware?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-35",
+   "q": "This New England state is the only one that borders exactly one other state",
+   "a": "What is Maine?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-36",
+   "q": "In The Wizard of Oz, Dorothy and Toto are swept away by a tornado from this state",
+   "a": "What is Kansas?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-37",
+   "q": "Known as the Garden State, it is home to Princeton University and the Atlantic City boardwalk",
+   "a": "What is New Jersey?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-38",
+   "q": "This state's capital, which shares its name, sprang up in a single day during the Land Run of 1889",
+   "a": "What is Oklahoma?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-39",
+   "q": "Rosa Parks's 1955 arrest sparked a bus boycott in Montgomery, this state's capital",
+   "a": "What is Alabama?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-40",
+   "q": "The Magnolia State, it shares its name with the great river that forms most of its western border",
+   "a": "What is Mississippi?",
+   "tier": 4
+  },
+  {
+   "id": "us-states-41",
+   "q": "At Crater of Diamonds State Park in this state, visitors can dig for real diamonds and keep what they find",
+   "a": "What is Arkansas?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-42",
+   "q": "Hartford is the capital of this New England state, nicknamed the Constitution State",
+   "a": "What is Connecticut?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-43",
+   "q": "The famous 500-mile auto race held each Memorial Day weekend is named after this state's capital",
+   "a": "What is Indiana?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-44",
+   "q": "Des Moines is the capital of this state, bordered by the Mississippi River on the east and the Missouri on much of the west",
+   "a": "What is Iowa?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-45",
+   "q": "Nicknamed Big Sky Country, this state has Helena as its capital",
+   "a": "What is Montana?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-46",
+   "q": "This is the only state with a unicameral, or one-house, state legislature",
+   "a": "What is Nebraska?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-47",
+   "q": "This state's official motto is 'Live Free or Die'",
+   "a": "What is New Hampshire?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-48",
+   "q": "Bismarck is the capital of this state, which borders the Canadian provinces of Saskatchewan and Manitoba",
+   "a": "What is North Dakota?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-49",
+   "q": "The first shots of the Civil War were fired at Fort Sumter, in Charleston Harbor in this state",
+   "a": "What is South Carolina?",
+   "tier": 5
+  },
+  {
+   "id": "us-states-50",
+   "q": "This state broke away from its neighbor during the Civil War and joined the Union in 1863",
+   "a": "What is West Virginia?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Star Wars",
+ "slug": "star-wars",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "star-wars-01",
+   "q": "This farm boy from Tatooine discovers he is the son of Darth Vader",
+   "a": "Who is Luke Skywalker?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-02",
+   "q": "This tall, furry Wookiee serves as Han Solo's loyal co-pilot",
+   "a": "Who is Chewbacca?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-03",
+   "q": "This golden protocol droid claims to be fluent in over six million forms of communication",
+   "a": "Who is C-3PO?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-04",
+   "q": "Princess Leia hides the stolen Death Star plans inside this beeping blue-and-white astromech droid",
+   "a": "Who is R2-D2?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-05",
+   "q": "This small green Jedi Master trains Luke on the swamp planet Dagobah",
+   "a": "Who is Yoda?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-06",
+   "q": "Jedi and Sith duel with these glowing energy-bladed weapons",
+   "a": "What are lightsabers?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-07",
+   "q": "This moon-sized Imperial battle station can destroy an entire planet with one blast",
+   "a": "What is the Death Star?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-08",
+   "q": "Han Solo boasts that this ship made the Kessel Run in less than twelve parsecs",
+   "a": "What is the Millennium Falcon?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-09",
+   "q": "In The Mandalorian, Din Djarin protects this big-eared green child fans nicknamed \"Baby Yoda\"",
+   "a": "Who is Grogu?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-10",
+   "q": "Darth Vader has this smuggler frozen in carbonite on Cloud City",
+   "a": "Who is Han Solo?",
+   "tier": 1
+  },
+  {
+   "id": "star-wars-11",
+   "q": "This Sith Lord with red-and-black facial tattoos wields a double-bladed lightsaber in The Phantom Menace",
+   "a": "Who is Darth Maul?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-12",
+   "q": "This desert planet with two suns is where Luke grows up",
+   "a": "What is Tatooine?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-13",
+   "q": "These white-armored soldiers of the Galactic Empire are famous for missing their targets",
+   "a": "What are stormtroopers?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-14",
+   "q": "This Jedi Master, played by Alec Guinness in 1977, gives Luke his father's lightsaber",
+   "a": "Who is Obi-Wan Kenobi?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-15",
+   "q": "This rolling orange-and-white ball droid belongs to pilot Poe Dameron",
+   "a": "Who is BB-8?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-16",
+   "q": "This giant slug-like crime lord keeps Princess Leia chained in his palace on Tatooine",
+   "a": "Who is Jabba the Hutt?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-17",
+   "q": "These small, furry teddy-bear-like natives of Endor's forest moon help the Rebels beat the Empire",
+   "a": "What are Ewoks?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-18",
+   "q": "This scavenger from the desert planet Jakku discovers her Force powers in The Force Awakens",
+   "a": "Who is Rey?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-19",
+   "q": "Born to Han and Leia as Ben, this masked dark warrior wields a crackling crossguard lightsaber",
+   "a": "Who is Kylo Ren?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-20",
+   "q": "The Rebels hide in Echo Base on this frozen planet at the start of The Empire Strikes Back",
+   "a": "What is Hoth?",
+   "tier": 2
+  },
+  {
+   "id": "star-wars-21",
+   "q": "This composer wrote the famous opening theme and \"Imperial March\" for the films",
+   "a": "Who is John Williams?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-22",
+   "q": "This clumsy, floppy-eared Gungan from Naboo says \"Meesa\" instead of \"I\"",
+   "a": "Who is Jar Jar Binks?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-23",
+   "q": "Before turning to the dark side, Darth Vader was this Jedi who won a podrace as a boy",
+   "a": "Who is Anakin Skywalker?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-24",
+   "q": "Also known as Darth Sidious, this schemer rises from Naboo senator to Galactic Emperor",
+   "a": "Who is Palpatine?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-25",
+   "q": "This bounty hunter in green Mandalorian armor delivers the frozen Han Solo to Jabba",
+   "a": "Who is Boba Fett?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-26",
+   "q": "\"It's a trap!\" is the famous line of this fish-faced Mon Calamari Rebel fleet commander",
+   "a": "Who is Admiral Ackbar?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-27",
+   "q": "This smooth-talking administrator of Cloud City once lost the Millennium Falcon to Han in a card game",
+   "a": "Who is Lando Calrissian?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-28",
+   "q": "In this 2016 spinoff film, Jyn Erso leads a mission to steal the Death Star plans",
+   "a": "What is Rogue One?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-29",
+   "q": "This numbered command from Palpatine makes the clone troopers turn on their Jedi generals",
+   "a": "What is Order 66?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-30",
+   "q": "Leia's peaceful home planet is blown up by the Death Star in A New Hope",
+   "a": "What is Alderaan?",
+   "tier": 3
+  },
+  {
+   "id": "star-wars-31",
+   "q": "This Jedi Master with a purple lightsaber was played by Samuel L. Jackson",
+   "a": "Who is Mace Windu?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-32",
+   "q": "This Togruta with striped head-tails was Anakin's Padawan in The Clone Wars",
+   "a": "Who is Ahsoka Tano?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-33",
+   "q": "This Sith Lord played by Christopher Lee was once a Jedi trained by Yoda",
+   "a": "Who is Count Dooku?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-34",
+   "q": "Padme Amidala served as queen and later senator of this green, watery planet",
+   "a": "What is Naboo?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-35",
+   "q": "This Jedi Master, played by Liam Neeson, discovers young Anakin on Tatooine",
+   "a": "Who is Qui-Gon Jinn?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-36",
+   "q": "This Imperial governor, played by Peter Cushing, gives the order to destroy Alderaan",
+   "a": "Who is Grand Moff Tarkin?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-37",
+   "q": "This bounty hunter served as the genetic template for the Republic's clone army",
+   "a": "Who is Jango Fett?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-38",
+   "q": "At the end of The Force Awakens, Rey finds Luke in exile on this ocean planet's rocky island",
+   "a": "What is Ahch-To?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-39",
+   "q": "Lightsabers are powered by these gems, which also fuel the Death Star's superlaser",
+   "a": "What are kyber crystals?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-40",
+   "q": "Luke loses his right hand dueling Vader in this floating mining colony above the gas giant Bespin",
+   "a": "What is Cloud City?",
+   "tier": 4
+  },
+  {
+   "id": "star-wars-41",
+   "q": "This unique black-bladed lightsaber was created by the first Mandalorian ever to join the Jedi Order",
+   "a": "What is the Darksaber?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-42",
+   "q": "This blue-skinned, red-eyed Imperial grand admiral debuted in Timothy Zahn's novel Heir to the Empire",
+   "a": "Who is Thrawn?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-43",
+   "q": "This moisture farmer, Luke's uncle, raised him on Tatooine with his wife Beru",
+   "a": "Who is Owen Lars?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-44",
+   "q": "In Rogue One, the Death Star plans are stolen from an Imperial archive on this tropical planet",
+   "a": "What is Scarif?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-45",
+   "q": "Palpatine tells Anakin \"the tragedy\" of this wise Sith Lord who was killed by his own apprentice",
+   "a": "Who is Darth Plagueis?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-46",
+   "q": "This was Luke's call sign as an X-wing pilot during the attack on the first Death Star",
+   "a": "What is Red Five?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-47",
+   "q": "Beneath a trapdoor in Jabba's throne room lurks this monster, which Luke kills with a falling gate",
+   "a": "What is the rancor?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-48",
+   "q": "This actor played the young smuggler in the 2018 film Solo: A Star Wars Story",
+   "a": "Who is Alden Ehrenreich?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-49",
+   "q": "This Imperial scientist, Jyn's father, secretly built a fatal weakness into the Death Star",
+   "a": "Who is Galen Erso?",
+   "tier": 5
+  },
+  {
+   "id": "star-wars-50",
+   "q": "Yoda fights alongside clone troopers on this forested Wookiee homeworld in Revenge of the Sith",
+   "a": "What is Kashyyyk?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Superheroes",
+ "slug": "superheroes",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "superheroes-01",
+   "q": "Peter Parker, a Queens teen with web-shooters, protects New York as this hero",
+   "a": "Who is Spider-Man?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-02",
+   "q": "Billionaire Bruce Wayne fights crime in Gotham City as this caped hero",
+   "a": "Who is Batman?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-03",
+   "q": "Born on the planet Krypton, this hero is faster than a speeding bullet but weakened by Kryptonite",
+   "a": "Who is Superman?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-04",
+   "q": "This Amazon princess from Themyscira wields the Lasso of Truth",
+   "a": "Who is Wonder Woman?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-05",
+   "q": "This Asgardian god of thunder is played by Chris Hemsworth in the Marvel movies",
+   "a": "Who is Thor?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-06",
+   "q": "This huge green hero appears whenever scientist Bruce Banner gets angry",
+   "a": "Who is the Hulk?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-07",
+   "q": "Genius billionaire Tony Stark suits up in high-tech armor as this Avenger",
+   "a": "Who is Iron Man?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-08",
+   "q": "Steve Rogers, a super-soldier from World War II, carries a red, white and blue shield as this hero",
+   "a": "Who is Captain America?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-09",
+   "q": "Batman's young crime-fighting partner is known as the Boy Wonder",
+   "a": "Who is Robin?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-10",
+   "q": "Arthur Curry is this DC hero who rules the seas and can communicate with marine life",
+   "a": "Who is Aquaman?",
+   "tier": 1
+  },
+  {
+   "id": "superheroes-11",
+   "q": "This purple Titan collected all six Infinity Stones and snapped away half of all life",
+   "a": "Who is Thanos?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-12",
+   "q": "This green-haired 'Clown Prince of Crime' is Batman's greatest enemy",
+   "a": "Who is the Joker?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-13",
+   "q": "T'Challa, king of Wakanda, wears a vibranium suit as this feline-named hero",
+   "a": "Who is Black Panther?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-14",
+   "q": "Natasha Romanoff, a former Russian spy, is the Avenger with this codename",
+   "a": "Who is Black Widow?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-15",
+   "q": "Superman hides his identity as this mild-mannered Daily Planet reporter in glasses",
+   "a": "Who is Clark Kent?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-16",
+   "q": "Professor Charles Xavier founded a school to train this team of mutants",
+   "a": "Who are the X-Men?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-17",
+   "q": "Thor's adopted brother is this Asgardian god of mischief",
+   "a": "Who is Loki?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-18",
+   "q": "This bald billionaire genius is Superman's archenemy",
+   "a": "Who is Lex Luthor?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-19",
+   "q": "Bruce Wayne's loyal butler has looked after him at Wayne Manor since childhood",
+   "a": "Who is Alfred?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-20",
+   "q": "Black Panther rules this hidden, high-tech African nation rich in vibranium",
+   "a": "What is Wakanda?",
+   "tier": 2
+  },
+  {
+   "id": "superheroes-21",
+   "q": "This ace Daily Planet reporter is Superman's longtime love interest",
+   "a": "Who is Lois Lane?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-22",
+   "q": "Clark Kent grew up on a farm in this small Kansas town",
+   "a": "What is Smallville?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-23",
+   "q": "Wanda Maximoff, who can warp reality, goes by this magical hero name",
+   "a": "Who is the Scarlet Witch?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-24",
+   "q": "In the Marvel movies, this eyepatch-wearing director of S.H.I.E.L.D. assembles the Avengers",
+   "a": "Who is Nick Fury?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-25",
+   "q": "Clint Barton is the Avenger archer known by this sharp-eyed name",
+   "a": "Who is Hawkeye?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-26",
+   "q": "Edward Nygma, a Batman villain, leaves question-mark puzzles at his crime scenes",
+   "a": "Who is the Riddler?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-27",
+   "q": "Only those deemed 'worthy' can lift this enchanted hammer of Thor",
+   "a": "What is Mjolnir?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-28",
+   "q": "Scientist Otto Octavius battles Spider-Man with four mechanical arms as this villain",
+   "a": "Who is Doctor Octopus?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-29",
+   "q": "Captain America's World War II best friend later became the brainwashed Winter Soldier",
+   "a": "Who is Bucky Barnes?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-30",
+   "q": "Called the 'deadliest woman in the galaxy', this green-skinned Guardian is Thanos's adopted daughter",
+   "a": "Who is Gamora?",
+   "tier": 3
+  },
+  {
+   "id": "superheroes-31",
+   "q": "This boy says a magic word to become the DC hero Shazam",
+   "a": "Who is Billy Batson?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-32",
+   "q": "Reed Richards, the stretchy scientist who leads Marvel's First Family, goes by this hero name",
+   "a": "Who is Mister Fantastic?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-33",
+   "q": "This mustached Daily Bugle boss constantly calls Spider-Man a menace",
+   "a": "Who is J. Jonah Jameson?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-34",
+   "q": "Superman retreats to this icy Arctic hideout",
+   "a": "What is the Fortress of Solitude?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-35",
+   "q": "Many of Batman's villains end up locked away in this Gotham psychiatric hospital",
+   "a": "What is Arkham Asylum?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-36",
+   "q": "Daredevil's secret identity is this blind lawyer from Hell's Kitchen",
+   "a": "Who is Matt Murdock?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-37",
+   "q": "Ant-Man shrinks and grows thanks to this size-changing discovery named after scientist Hank",
+   "a": "What are Pym Particles?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-38",
+   "q": "This Oscorp industrialist is the original Green Goblin",
+   "a": "Who is Norman Osborn?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-39",
+   "q": "Superman's Kryptonian birth name is this hyphenated name",
+   "a": "What is Kal-El?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-40",
+   "q": "Green Arrow's secret identity is this billionaire archer from Star City",
+   "a": "Who is Oliver Queen?",
+   "tier": 4
+  },
+  {
+   "id": "superheroes-41",
+   "q": "Superman made his first appearance in issue #1 of this comic series in 1938",
+   "a": "What is Action Comics?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-42",
+   "q": "Batman made his debut in issue #27 of this 1939 comic book, whose initials gave his publisher its name",
+   "a": "What is Detective Comics?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-43",
+   "q": "Spider-Man first swung into comics in issue #15 of this 1962 anthology title",
+   "a": "What is Amazing Fantasy?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-44",
+   "q": "Jack Kirby co-created Captain America with this writer-artist",
+   "a": "Who is Joe Simon?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-45",
+   "q": "The publisher now known as Marvel began in 1939 under this earlier name",
+   "a": "What is Timely Comics?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-46",
+   "q": "Superman creators Jerry Siegel and Joe Shuster were teenagers in this Ohio city when they came up with him",
+   "a": "What is Cleveland?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-47",
+   "q": "Doctor Doom rules this small fictional Eastern European country",
+   "a": "What is Latveria?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-48",
+   "q": "Before becoming Nightwing, this circus acrobat was the very first Boy Wonder",
+   "a": "Who is Dick Grayson?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-49",
+   "q": "In the magic word that powers Billy Batson, the S stands for the wisdom of this biblical king",
+   "a": "Who is Solomon?",
+   "tier": 5
+  },
+  {
+   "id": "superheroes-50",
+   "q": "Superman's Kryptonian scientist father sent him to Earth before Krypton exploded",
+   "a": "Who is Jor-El?",
+   "tier": 5
+  }
+ ]
+}

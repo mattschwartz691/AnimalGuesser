@@ -1,0 +1,308 @@
+{
+ "category": "Candy & Snacks",
+ "slug": "candy-snacks",
+ "group": "Everyday Life",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "candy-snacks-01",
+   "q": "These candy-coated chocolate buttons are each stamped with a small lowercase 'm'",
+   "a": "What are M&M's?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-02",
+   "q": "Their slogan invites you to 'Taste the Rainbow'",
+   "a": "What are Skittles?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-03",
+   "q": "Chester Cheetah is the cool mascot of this crunchy, cheesy snack",
+   "a": "What are Cheetos?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-04",
+   "q": "These stackable, saddle-shaped chips come in a tall can with a mustached mascot",
+   "a": "What are Pringles?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-05",
+   "q": "Its jingle goes, 'Gimme a break, break me off a piece of that'",
+   "a": "What is a Kit Kat?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-06",
+   "q": "Introduced by Nabisco in 1912, this chocolate sandwich cookie is often twisted apart and dunked in milk",
+   "a": "What is an Oreo?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-07",
+   "q": "Nacho Cheese and Cool Ranch are classic flavors of these triangle tortilla chips",
+   "a": "What are Doritos?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-08",
+   "q": "Pepperidge Farm's fish-shaped crackers are sold under this name",
+   "a": "What are Goldfish?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-09",
+   "q": "This movie-theater snack forms when corn kernels burst open from heat",
+   "a": "What is popcorn?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-10",
+   "q": "This brand's ridged chocolate cups with a nutty filling come in iconic orange packaging",
+   "a": "What is Reese's?",
+   "tier": 1
+  },
+  {
+   "id": "candy-snacks-11",
+   "q": "Mars introduced this candy bar in 1930, naming it after the family's favorite horse",
+   "a": "What is Snickers?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-12",
+   "q": "In classic ads, Mr. Owl tried to find out how many licks it takes to reach this lollipop's chewy center",
+   "a": "What is a Tootsie Pop?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-13",
+   "q": "This candy began in 1927 in Vienna, Austria, as a peppermint, and is now famous for its character-head dispensers",
+   "a": "What is PEZ?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-14",
+   "q": "President Ronald Reagan famously kept a jar of these chewy candies on his desk",
+   "a": "What are jelly beans?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-15",
+   "q": "This Pennsylvania town, named for a famous chocolate maker, has streetlights shaped like foil-wrapped candies",
+   "a": "What is Hershey?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-16",
+   "q": "These candy crystals crackle and fizz in your mouth thanks to trapped carbon dioxide",
+   "a": "What are Pop Rocks?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-17",
+   "q": "These marshmallow chicks and bunnies from the Just Born company are an Easter-basket staple",
+   "a": "What are Peeps?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-18",
+   "q": "This Italian hazelnut-cocoa spread is made by Ferrero",
+   "a": "What is Nutella?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-19",
+   "q": "Dropping these chewy mints into a bottle of Diet Coke creates a famous foamy geyser",
+   "a": "What are Mentos?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-20",
+   "q": "These red, chewy candies are named for a Scandinavian country and shaped like sea creatures",
+   "a": "What are Swedish Fish?",
+   "tier": 2
+  },
+  {
+   "id": "candy-snacks-21",
+   "q": "In the UK, these Mars fruit chews were originally sold under the name Opal Fruits",
+   "a": "What are Starburst?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-22",
+   "q": "A dentist co-invented the machine for this spun-sugar treat, introduced as 'Fairy Floss' at the 1904 World's Fair",
+   "a": "What is cotton candy?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-23",
+   "q": "Bart Simpson famously appeared in ads for this crispy, peanut-buttery candy bar",
+   "a": "What is Butterfinger?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-24",
+   "q": "This Swiss chocolate bar is shaped like a row of triangular peaks",
+   "a": "What is Toblerone?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-25",
+   "q": "Made by Glico, this Japanese snack is a thin biscuit stick dipped in chocolate",
+   "a": "What is Pocky?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-26",
+   "q": "This fluffy treat is named for a plant whose root sap was once used to make it",
+   "a": "What is a marshmallow?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-27",
+   "q": "In 'Charlie and the Chocolate Factory,' Willy Wonka invents an 'Everlasting' version of this hard candy",
+   "a": "What is a Gobstopper?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-28",
+   "q": "This caramel-coated popcorn and peanut snack is famous for its prize inside and a mention in 'Take Me Out to the Ball Game'",
+   "a": "What is Cracker Jack?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-29",
+   "q": "Called lokum in Turkey, this gel candy is what tempts Edmund in 'The Lion, the Witch and the Wardrobe'",
+   "a": "What is Turkish delight?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-30",
+   "q": "Chocolate is made from the fermented, roasted beans found in the pods of this tropical tree",
+   "a": "What is cacao?",
+   "tier": 3
+  },
+  {
+   "id": "candy-snacks-31",
+   "q": "Introduced in 1932, this candy bar originally came in three pieces: chocolate, vanilla and strawberry",
+   "a": "What is 3 Musketeers?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-32",
+   "q": "Its maker claimed this 1921 candy bar honored Grover Cleveland's daughter, not a famous baseball slugger",
+   "a": "What is Baby Ruth?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-33",
+   "q": "Frank Mars introduced this bar in 1923; despite its starry name, it was inspired by a malted milk drink",
+   "a": "What is Milky Way?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-34",
+   "q": "In the U.S. this name means chalky tablet candies sold in rolls; in Britain and Canada, it's candy-coated chocolates",
+   "a": "What are Smarties?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-35",
+   "q": "These hard candies take their name from an ice cream shop that opened in Golden, Colorado, in 1949",
+   "a": "What are Jolly Ranchers?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-36",
+   "q": "This bubble gum came with a small comic strip starring an eye-patched kid named Joe",
+   "a": "What is Bazooka?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-37",
+   "q": "This chewy black candy gets its flavor from a root extract of the plant Glycyrrhiza glabra",
+   "a": "What is licorice?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-38",
+   "q": "This Hostess snack cake was filled with banana cream until banana rationing in World War II",
+   "a": "What is a Twinkie?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-39",
+   "q": "This German gummy maker's name combines the first two letters of its founder's first name, last name and hometown",
+   "a": "What is Haribo?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-40",
+   "q": "These tiny mints in a clear flip-top box are made by Italy's Ferrero",
+   "a": "What are Tic Tacs?",
+   "tier": 4
+  },
+  {
+   "id": "candy-snacks-41",
+   "q": "According to its maker, this chocolate-covered caramel got its name because it was impossible to make the pieces perfectly round",
+   "a": "What are Milk Duds?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-42",
+   "q": "This Massachusetts candy maker, founded in 1901, made Sweethearts conversation hearts and chalky wafers in paper rolls",
+   "a": "What is Necco?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-43",
+   "q": "Charles Elmer Doolin bought the recipe for these corn chips in San Antonio in 1932 and named them after the Spanish for 'fried'",
+   "a": "What are Fritos?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-44",
+   "q": "Rodolphe Lindt invented this long stirring and grinding process in 1879, making chocolate smooth",
+   "a": "What is conching?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-45",
+   "q": "Swiss chocolatier Daniel Peter created this treat in 1875 using a condensed-dairy product from neighbor Henri Nestlé",
+   "a": "What is milk chocolate?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-46",
+   "q": "This genus name of the cacao tree comes from Greek words meaning 'food of the gods'",
+   "a": "What is Theobroma?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-47",
+   "q": "This fruity, very soft Japanese chewy candy has been made by Morinaga since 1975",
+   "a": "What is Hi-Chew?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-48",
+   "q": "This Turin specialty blends chocolate with hazelnut paste and was invented when Napoleon's blockade made cocoa scarce",
+   "a": "What is gianduja?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-49",
+   "q": "In 1928 Fleer accountant Walter Diemer invented this treat, making it pink because that was the only food coloring on hand",
+   "a": "What is bubble gum?",
+   "tier": 5
+  },
+  {
+   "id": "candy-snacks-50",
+   "q": "William Wrigley Jr. first gave away chewing gum as a free bonus with cans of this kitchen product",
+   "a": "What is baking powder?",
+   "tier": 5
+  }
+ ]
+}

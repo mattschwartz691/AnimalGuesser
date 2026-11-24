@@ -1,0 +1,308 @@
+{
+ "category": "Ocean Life",
+ "slug": "ocean-life",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "ocean-life-01",
+   "q": "The largest animal known to have ever lived, this ocean giant can weigh more than any dinosaur",
+   "a": "What is the blue whale?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-02",
+   "q": "The largest living fish, this spotted giant is a gentle filter feeder that eats plankton",
+   "a": "What is the whale shark?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-03",
+   "q": "These eight-armed mollusks can squirt ink, change color in a flash and squeeze through tiny gaps",
+   "a": "What are octopuses?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-04",
+   "q": "Orange-and-white clownfish shelter among the stinging tentacles of these animals without being hurt",
+   "a": "What are sea anemones?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-05",
+   "q": "These boneless drifters, many with stinging tentacles, are not fish at all despite their common name",
+   "a": "What are jellyfish?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-06",
+   "q": "Also called killer whales, these black-and-white hunters are actually the largest members of the dolphin family",
+   "a": "What are orcas?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-07",
+   "q": "Species like the green and the loggerhead are these marine reptiles, whose females crawl onto beaches to lay eggs",
+   "a": "What are sea turtles?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-08",
+   "q": "Fish take oxygen from the water using these feathery organs on the sides of their heads",
+   "a": "What are gills?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-09",
+   "q": "This predator, star of the 1975 movie Jaws, is the largest predatory fish in the sea",
+   "a": "What is the great white shark?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-10",
+   "q": "Dolphins and whales breathe air through this opening on the top of their heads",
+   "a": "What is a blowhole?",
+   "tier": 1
+  },
+  {
+   "id": "ocean-life-11",
+   "q": "These small shrimp-like crustaceans swarm in huge numbers and are the main food of many baleen whales",
+   "a": "What is krill?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-12",
+   "q": "In these upright fish, it's the male that carries the eggs in a pouch and gives birth",
+   "a": "What are seahorses?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-13",
+   "q": "This Arctic whale is nicknamed the 'unicorn of the sea' for the long spiral tusk on most males",
+   "a": "What is the narwhal?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-14",
+   "q": "Males of this big baleen species sing long, complex songs, and its flippers can be about a third of its body length",
+   "a": "What is the humpback whale?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-15",
+   "q": "This fish puffs itself into a spiky ball by gulping water, and many kinds carry the deadly toxin tetrodotoxin",
+   "a": "What is a pufferfish?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-16",
+   "q": "These tiny drifting organisms, from algae to larvae, form the base of ocean food webs; their name comes from Greek for 'wanderer'",
+   "a": "What is plankton?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-17",
+   "q": "Females of this deep-sea fish dangle a glowing lure from their heads to attract prey toward their toothy mouths",
+   "a": "What is the anglerfish?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-18",
+   "q": "These slow, plant-eating 'sea cows' graze in Florida's warm coastal waters and springs",
+   "a": "What are manatees?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-19",
+   "q": "These furry marine mammals float on their backs and use rocks as tools to crack open shellfish",
+   "a": "What are sea otters?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-20",
+   "q": "These spiny, ball-shaped echinoderms are eaten as a sushi delicacy called uni",
+   "a": "What are sea urchins?",
+   "tier": 2
+  },
+  {
+   "id": "ocean-life-21",
+   "q": "This term means light made by living things, like the glow of many deep-sea creatures",
+   "a": "What is bioluminescence?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-22",
+   "q": "It looks like a jellyfish, but this floating stinger with a gas-filled sail is a colony of specialized organisms called a siphonophore",
+   "a": "What is the Portuguese man o' war?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-23",
+   "q": "Known from fossils and thought long extinct, this lobe-finned 'living fossil' fish was found alive off South Africa in 1938",
+   "a": "What is the coelacanth?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-24",
+   "q": "Giant tube worms thrive around these deep-sea hot springs, fed by bacteria that use chemicals instead of sunlight",
+   "a": "What are hydrothermal vents?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-25",
+   "q": "Dolphins find prey by sending out clicks and listening for the returning echoes, a sense called this",
+   "a": "What is echolocation?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-26",
+   "q": "Some of these soft-bodied echinoderms can push out their own internal organs to distract predators, then regrow them",
+   "a": "What are sea cucumbers?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-27",
+   "q": "This fish uses a sucker-like disc on top of its head to hitch rides on sharks, whales and turtles",
+   "a": "What is a remora?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-28",
+   "q": "Instead of teeth, blue whales and humpbacks strain food from the water through plates of this bristly material",
+   "a": "What is baleen?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-29",
+   "q": "Native to the Indo-Pacific, this venomous, striped fish with frilly spines is now a damaging invader in the Caribbean",
+   "a": "What is the lionfish?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-30",
+   "q": "When heat-stressed, reef-building animals expel the colorful algae living in them and turn white in this process",
+   "a": "What is coral bleaching?",
+   "tier": 3
+  },
+  {
+   "id": "ocean-life-31",
+   "q": "This deep-diving toothed giant, hunted in Moby-Dick, has the largest brain of any animal on Earth",
+   "a": "What is the sperm whale?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-32",
+   "q": "This slow-moving Arctic predator may live for several centuries, the longest known lifespan of any vertebrate",
+   "a": "What is the Greenland shark?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-33",
+   "q": "This small blue-and-black-striped reef fish runs 'stations' where much bigger fish let it pick parasites off their bodies",
+   "a": "What is the cleaner wrasse?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-34",
+   "q": "Despite its spooky name, this deep-sea cephalopod eats drifting bits of organic debris rather than blood",
+   "a": "What is the vampire squid?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-35",
+   "q": "The heaviest reptile that isn't a crocodilian, this ocean wanderer has a leathery, ridged back instead of a hard shell and feeds mostly on jellyfish",
+   "a": "What is the leatherback sea turtle?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-36",
+   "q": "This sensory system of fluid-filled canals running along a fish's sides lets it feel vibrations and water movement",
+   "a": "What is the lateral line?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-37",
+   "q": "This small crustacean snaps an oversized claw so fast it creates a collapsing bubble with a loud crack, stunning prey",
+   "a": "What is the pistol shrimp?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-38",
+   "q": "Closer to spiders than to true crustaceans, these 'living fossils' have blue blood used to test medicines for bacterial toxins",
+   "a": "What are horseshoe crabs?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-39",
+   "q": "Among the most venomous sea creatures, this cube-shaped cnidarian has 24 eyes",
+   "a": "What is the box jellyfish?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-40",
+   "q": "This beaked reef fish bites off chunks of coral and rock, and the ground-up remains it excretes add to tropical beach sand",
+   "a": "What is the parrotfish?",
+   "tier": 4
+  },
+  {
+   "id": "ocean-life-41",
+   "q": "This Antarctic cephalopod is the heaviest known invertebrate and has the largest eyes of any documented animal",
+   "a": "What is the colossal squid?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-42",
+   "q": "Fish of this tadpole-shaped family hold the record for the deepest fish ever observed, at more than 8,300 meters",
+   "a": "What are snailfish?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-43",
+   "q": "This term describes the steady drift of dead plankton, waste and other organic particles falling into the deep ocean",
+   "a": "What is marine snow?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-44",
+   "q": "These single-celled algae living inside coral tissues give reefs much of their color and food",
+   "a": "What are zooxanthellae?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-45",
+   "q": "These jelly-filled pores around a shark's snout let it sense the weak electric fields of hidden prey",
+   "a": "What are the ampullae of Lorenzini?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-46",
+   "q": "These specialized stinging cells, each firing a tiny harpoon, give jellyfish and corals their phylum name",
+   "a": "What are cnidocytes?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-47",
+   "q": "The only named sea with no land boundaries, this part of the North Atlantic is where European and American eels are believed to spawn",
+   "a": "What is the Sargasso Sea?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-48",
+   "q": "Dark on top and pale underneath, this camouflage pattern helps many sharks, fish and penguins blend in from above and below",
+   "a": "What is countershading?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-49",
+   "q": "This relative of the manatee, the only living member of its family, grazes on seagrass and has a fluked, dolphin-like tail",
+   "a": "What is the dugong?",
+   "tier": 5
+  },
+  {
+   "id": "ocean-life-50",
+   "q": "When a giant cetacean's carcass sinks to the deep seafloor, it can feed this kind of unique ecosystem for decades",
+   "a": "What is a whale fall?",
+   "tier": 5
+  }
+ ]
+}

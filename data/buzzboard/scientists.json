@@ -1,0 +1,308 @@
+{
+ "category": "Famous Scientists",
+ "slug": "scientists",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "scientists-01",
+   "q": "This physicist introduced the mass-energy equation E = mc² in a 1905 paper",
+   "a": "Who is Albert Einstein?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-02",
+   "q": "Legend says a falling apple inspired this Englishman's theory of universal gravitation",
+   "a": "Who is Isaac Newton?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-03",
+   "q": "This naturalist sailed aboard HMS Beagle and later wrote \"On the Origin of Species\"",
+   "a": "Who is Charles Darwin?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-04",
+   "q": "She was the first woman to win a Nobel Prize, and the first person to win two",
+   "a": "Who is Marie Curie?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-05",
+   "q": "In 1610 this Italian astronomer used his telescope to discover four large moons of Jupiter",
+   "a": "Who is Galileo Galilei?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-06",
+   "q": "This British physicist who studied black holes wrote the bestseller \"A Brief History of Time\"",
+   "a": "Who is Stephen Hawking?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-07",
+   "q": "Known as the father of genetics, this Austrian monk experimented with pea plants",
+   "a": "Who is Gregor Mendel?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-08",
+   "q": "In a book published in 1543, this Polish astronomer argued that Earth orbits the Sun",
+   "a": "Who is Nicolaus Copernicus?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-09",
+   "q": "In 1928 this Scottish scientist discovered penicillin after noticing mold killing bacteria in a dish",
+   "a": "Who is Alexander Fleming?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-10",
+   "q": "In 1960 this British researcher began her famous study of wild chimpanzees at Gombe in Tanzania",
+   "a": "Who is Jane Goodall?",
+   "tier": 1
+  },
+  {
+   "id": "scientists-11",
+   "q": "This Serbian-American inventor championed alternating current; the SI unit of magnetic flux density is named for him",
+   "a": "Who is Nikola Tesla?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-12",
+   "q": "A space telescope launched in 1990 honors this American astronomer, who showed that galaxies are moving away from us",
+   "a": "Who is Edwin Hubble?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-13",
+   "q": "This French scientist developed a rabies vaccine and a heating process that kills germs in milk",
+   "a": "Who is Louis Pasteur?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-14",
+   "q": "This ancient Greek thinker supposedly shouted \"Eureka!\" after a discovery in his bathtub",
+   "a": "Who is Archimedes?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-15",
+   "q": "Born into slavery, this Tuskegee scientist promoted crop rotation and found hundreds of uses for the peanut",
+   "a": "Who is George Washington Carver?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-16",
+   "q": "This Russian chemist published a periodic table in 1869, leaving gaps for elements not yet discovered",
+   "a": "Who is Dmitri Mendeleev?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-17",
+   "q": "This Founding Father is famous for a 1752 experiment flying a kite in a thunderstorm",
+   "a": "Who is Benjamin Franklin?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-18",
+   "q": "This astronomer hosted the 1980 TV series \"Cosmos: A Personal Voyage\"",
+   "a": "Who is Carl Sagan?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-19",
+   "q": "Her 1962 book \"Silent Spring\" warned the world about the dangers of pesticides like DDT",
+   "a": "Who is Rachel Carson?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-20",
+   "q": "This Swedish chemist invented dynamite and left his fortune to fund five famous international prizes",
+   "a": "Who is Alfred Nobel?",
+   "tier": 2
+  },
+  {
+   "id": "scientists-21",
+   "q": "\"Photo 51\", an X-ray image made in her lab, was key to discovering DNA's double-helix structure",
+   "a": "Who is Rosalind Franklin?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-22",
+   "q": "This Danish physicist proposed a 1913 model of the atom in which electrons travel in fixed orbits",
+   "a": "Who is Niels Bohr?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-23",
+   "q": "This German astronomer's three laws showed that planets travel in elliptical orbits",
+   "a": "Who is Johannes Kepler?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-24",
+   "q": "In 1796 this English doctor used cowpox to protect a boy against smallpox, pioneering vaccination",
+   "a": "Who is Edward Jenner?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-25",
+   "q": "This New Zealand-born physicist's gold foil experiment revealed that atoms have a tiny, dense nucleus",
+   "a": "Who is Ernest Rutherford?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-26",
+   "q": "This English scientist discovered electromagnetic induction in 1831; the unit of capacitance is named for him",
+   "a": "Who is Michael Faraday?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-27",
+   "q": "In 1781 this German-born astronomer living in England discovered the planet Uranus",
+   "a": "Who is William Herschel?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-28",
+   "q": "Portrayed in the film \"Hidden Figures\", this NASA mathematician checked the orbital math for John Glenn's 1962 flight",
+   "a": "Who is Katherine Johnson?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-29",
+   "q": "This Swedish botanist created the two-part naming system for species, as in Homo sapiens",
+   "a": "Who is Carl Linnaeus?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-30",
+   "q": "This Austrian physicist imagined a cat in a sealed box that is somehow both alive and dead",
+   "a": "Who is Erwin Schrödinger?",
+   "tier": 3
+  },
+  {
+   "id": "scientists-31",
+   "q": "This German physicist, called the father of quantum theory, gives his name to the constant h",
+   "a": "Who is Max Planck?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-32",
+   "q": "This French chemist, called the father of modern chemistry, named the elements oxygen and hydrogen",
+   "a": "Who is Antoine Lavoisier?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-33",
+   "q": "This physicist, who helped explain nuclear fission in 1939, is honored by element 109",
+   "a": "Who is Lise Meitner?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-34",
+   "q": "This American geneticist discovered \"jumping genes\" in maize and won an unshared Nobel Prize in 1983",
+   "a": "Who is Barbara McClintock?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-35",
+   "q": "In his 1665 book \"Micrographia\", this Englishman coined the biological term \"cell\"",
+   "a": "Who is Robert Hooke?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-36",
+   "q": "This Dutch microscope maker was the first to observe bacteria, which he called \"animalcules\"",
+   "a": "Who is Antonie van Leeuwenhoek?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-37",
+   "q": "This Scottish physicist's equations unified electricity, magnetism and light",
+   "a": "Who is James Clerk Maxwell?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-38",
+   "q": "This English astronomer correctly predicted the 1758 return of the comet that now bears his name",
+   "a": "Who is Edmond Halley?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-39",
+   "q": "This Italian-born physicist led the team that built Chicago Pile-1, the first artificial nuclear reactor, in 1942",
+   "a": "Who is Enrico Fermi?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-40",
+   "q": "This German physicist is best known for the uncertainty principle of quantum mechanics",
+   "a": "Who is Werner Heisenberg?",
+   "tier": 4
+  },
+  {
+   "id": "scientists-41",
+   "q": "This German mathematician's theorem, published in 1918, links symmetries in physics to conservation laws",
+   "a": "Who is Emmy Noether?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-42",
+   "q": "This self-taught Indian mathematician is tied to 1729, the \"taxicab number\", through a famous story with G. H. Hardy",
+   "a": "Who is Srinivasa Ramanujan?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-43",
+   "q": "In 1912 this German scientist proposed that the continents slowly drift across Earth's surface",
+   "a": "Who is Alfred Wegener?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-44",
+   "q": "This Harvard \"computer\" discovered the period-luminosity relationship of Cepheid variable stars",
+   "a": "Who is Henrietta Swan Leavitt?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-45",
+   "q": "Her 1925 doctoral thesis showed that stars are made mostly of hydrogen and helium",
+   "a": "Who is Cecilia Payne-Gaposchkin?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-46",
+   "q": "This Danish astronomer, who wore a metal nose, made precise naked-eye observations later used by Kepler",
+   "a": "Who is Tycho Brahe?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-47",
+   "q": "In the 1840s this Hungarian doctor cut deaths from childbed fever by making doctors wash their hands",
+   "a": "Who is Ignaz Semmelweis?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-48",
+   "q": "This English physicist's 1928 equation for the electron led him to predict antimatter",
+   "a": "Who is Paul Dirac?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-49",
+   "q": "Nicknamed the \"First Lady of Physics\", this Chinese-American physicist showed in 1956 that parity is not conserved",
+   "a": "Who is Chien-Shiung Wu?",
+   "tier": 5
+  },
+  {
+   "id": "scientists-50",
+   "q": "This British chemist won the 1964 Nobel Prize in Chemistry for using X-rays to map molecules like penicillin and vitamin B12",
+   "a": "Who is Dorothy Hodgkin?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Dinosaurs",
+ "slug": "dinosaurs",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "dinosaurs-01",
+   "q": "This huge meat-eating dinosaur's name means 'tyrant lizard king', and its arms were famously tiny compared with its body",
+   "a": "What is Tyrannosaurus rex?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-02",
+   "q": "This plant-eating dinosaur had three facial horns and a big bony frill at the back of its head",
+   "a": "What is Triceratops?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-03",
+   "q": "This plant-eater had two rows of large bony plates along its back and sharp spikes on the end of its tail",
+   "a": "What is Stegosaurus?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-04",
+   "q": "These scientists dig up and study fossils to learn about ancient life, including dinosaurs",
+   "a": "What are paleontologists?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-05",
+   "q": "In this 1993 Steven Spielberg movie, scientists bring dinosaurs back using DNA from blood-sucking insects trapped in amber",
+   "a": "What is Jurassic Park?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-06",
+   "q": "Scientists consider these feathered, egg-laying animals living dinosaurs, descended from small meat-eating theropods",
+   "a": "What are birds?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-07",
+   "q": "Its name means 'fused lizard', and this low, tank-like armored dinosaur swung a heavy bony club at the end of its tail",
+   "a": "What is Ankylosaurus?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-08",
+   "q": "Bones, eggs and footprints preserved in rock for millions of years are all examples of these",
+   "a": "What are fossils?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-09",
+   "q": "Dinosaurs like Triceratops and Stegosaurus ate only plants, making them this kind of animal",
+   "a": "What are herbivores?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-10",
+   "q": "Many dinosaurs, especially small relatives of Velociraptor, had these body coverings, just like birds today",
+   "a": "What are feathers?",
+   "tier": 1
+  },
+  {
+   "id": "dinosaurs-11",
+   "q": "In real life this 'swift thief' was only about turkey-sized and feathered, much smaller than its movie version",
+   "a": "What is Velociraptor?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-12",
+   "q": "This long-necked sauropod's name means 'thunder lizard'; a 2015 study revived it as a separate genus from Apatosaurus",
+   "a": "What is Brontosaurus?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-13",
+   "q": "This last period of the Mesozoic Era ended about 66 million years ago with a mass extinction",
+   "a": "What is the Cretaceous?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-14",
+   "q": "This middle period of the Mesozoic is named after a mountain range on the border of France and Switzerland",
+   "a": "What is the Jurassic?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-15",
+   "q": "Flying reptiles such as Pteranodon belonged to this group, close cousins of dinosaurs but not dinosaurs themselves",
+   "a": "What are pterosaurs?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-16",
+   "q": "This giraffe-like sauropod, whose name means 'arm lizard', had front legs longer than its back legs",
+   "a": "What is Brachiosaurus?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-17",
+   "q": "This giant predator had a tall sail on its back and long, crocodile-like jaws well suited to catching fish",
+   "a": "What is Spinosaurus?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-18",
+   "q": "This group of mostly meat-eating, two-legged dinosaurs includes T. rex, Velociraptor and the ancestors of birds",
+   "a": "What are theropods?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-19",
+   "q": "Often called the 'Age of Reptiles', this era is made up of the Triassic, Jurassic and Cretaceous periods",
+   "a": "What is the Mesozoic Era?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-20",
+   "q": "This duck-billed dinosaur had a long, hollow, backward-pointing head crest that may have worked like a trumpet",
+   "a": "What is Parasaurolophus?",
+   "tier": 2
+  },
+  {
+   "id": "dinosaurs-21",
+   "q": "This impact scar, about 66 million years old and partly buried beneath Mexico's Yucatán Peninsula, is linked to the dinosaurs' extinction",
+   "a": "What is the Chicxulub crater?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-22",
+   "q": "The first dinosaurs appeared during this oldest of the three Mesozoic periods",
+   "a": "What is the Triassic?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-23",
+   "q": "These dolphin-shaped marine reptiles, whose name means 'fish lizards', gave birth to live young at sea; they were not dinosaurs",
+   "a": "What are ichthyosaurs?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-24",
+   "q": "These long-necked marine reptiles with four big flippers are often linked to Loch Ness monster legends; they were not dinosaurs",
+   "a": "What are plesiosaurs?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-25",
+   "q": "These huge sea-going lizards, like the giant in Jurassic World's lagoon, were related to today's monitor lizards and snakes",
+   "a": "What are mosasaurs?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-26",
+   "q": "This dinosaur's name means 'egg thief', but later fossils showed its relatives were actually sitting on their nests to brood them",
+   "a": "What is Oviraptor?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-27",
+   "q": "This very long Jurassic sauropod with a whip-like tail is famous for 'Dippy', a skeleton cast paid for by Andrew Carnegie",
+   "a": "What is Diplodocus?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-28",
+   "q": "This dinosaur's name means 'thick-headed lizard', for the solid bony dome on top of its skull",
+   "a": "What is Pachycephalosaurus?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-29",
+   "q": "Named in 1861 from fossils in German limestone, this animal with feathers, teeth and a bony tail is often called the first bird",
+   "a": "What is Archaeopteryx?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-30",
+   "q": "When this early-discovered dinosaur was first reconstructed, its cone-shaped thumb spike was mistakenly placed on its nose",
+   "a": "What is Iguanodon?",
+   "tier": 3
+  },
+  {
+   "id": "dinosaurs-31",
+   "q": "This self-taught fossil hunter from Lyme Regis, England, found the first correctly identified ichthyosaur skeleton when she was about 12",
+   "a": "Who is Mary Anning?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-32",
+   "q": "This American Museum of Natural History explorer led 1920s expeditions to the Gobi Desert that brought back famous fossil dinosaur eggs",
+   "a": "Who is Roy Chapman Andrews?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-33",
+   "q": "In 1842 this British anatomist coined the name Dinosauria, meaning 'terrible lizards'",
+   "a": "Who is Richard Owen?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-34",
+   "q": "This nickname describes the bitter late-1800s fossil-hunting rivalry between Edward Drinker Cope and Othniel Charles Marsh",
+   "a": "What are the Bone Wars?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-35",
+   "q": "Named in 1993 for its home country, this Patagonian titanosaur is one of the largest land animals ever, estimated at 65 to 80 tonnes",
+   "a": "What is Argentinosaurus?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-36",
+   "q": "The first non-bird dinosaur found with evidence of feathers, Sinosauropteryx, was described in 1996 from fossils found in this country",
+   "a": "What is China?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-37",
+   "q": "Often mistaken for a dinosaur, this sail-backed predator lived before the dinosaurs and was more closely related to mammals",
+   "a": "What is Dimetrodon?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-38",
+   "q": "These swallowed stones, found inside some dinosaur skeletons, may have helped grind up food, as they do in birds' gizzards",
+   "a": "What are gastroliths?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-39",
+   "q": "These fossilized droppings can reveal what dinosaurs ate",
+   "a": "What are coprolites?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-40",
+   "q": "This nickname belongs to the huge, very complete T. rex skeleton at Chicago's Field Museum, named after the woman who found it in 1990",
+   "a": "What is Sue?",
+   "tier": 4
+  },
+  {
+   "id": "dinosaurs-41",
+   "q": "Dinosaurs are classically split into 'lizard-hipped' saurischians and this 'bird-hipped' group, which, oddly, did not give rise to birds",
+   "a": "What are ornithischians?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-42",
+   "q": "Named after an Aztec feathered serpent god, this giant Texas pterosaur had a wingspan estimated at about 10 to 11 meters",
+   "a": "What is Quetzalcoatlus?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-43",
+   "q": "This small Chinese dromaeosaur had long flight feathers on both its arms and its legs, giving it four wings",
+   "a": "What is Microraptor?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-44",
+   "q": "Named by William Buckland in 1824, this English meat-eater was the first non-bird dinosaur genus to be validly named",
+   "a": "What is Megalosaurus?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-45",
+   "q": "This Mongolian theropod's name means 'scythe lizard'; its hand claws topped 50 cm, yet it was probably a plant-eater",
+   "a": "What is Therizinosaurus?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-46",
+   "q": "Named for a stream near Jordan, Montana, this rock unit has yielded T. rex, Triceratops and the end-Cretaceous boundary layer",
+   "a": "What is the Hell Creek Formation?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-47",
+   "q": "In 1980 Luis and Walter Alvarez proposed an asteroid impact after finding a worldwide clay layer rich in this rare metal",
+   "a": "What is iridium?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-48",
+   "q": "This small early dinosaur from Argentina's Ischigualasto Formation, described in 1993, has a name meaning 'dawn thief'",
+   "a": "What is Eoraptor?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-49",
+   "q": "John Ostrom's late-1960s study of this 'terrible claw' raptor sparked the 'dinosaur renaissance' and revived the bird-dinosaur link",
+   "a": "What is Deinonychus?",
+   "tier": 5
+  },
+  {
+   "id": "dinosaurs-50",
+   "q": "Hundreds of skeletons of this small Late Triassic theropod were found at Ghost Ranch, and it is New Mexico's state fossil",
+   "a": "What is Coelophysis?",
+   "tier": 5
+  }
+ ]
+}

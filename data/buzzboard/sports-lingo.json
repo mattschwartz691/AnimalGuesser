@@ -1,0 +1,308 @@
+{
+ "category": "Sports Rules & Lingo",
+ "slug": "sports-lingo",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "sports-lingo-01",
+   "q": "In tennis, this sweet-sounding word means a score of zero",
+   "a": "What is love?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-02",
+   "q": "In golf, this feathered term means finishing a hole one stroke under par",
+   "a": "What is a birdie?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-03",
+   "q": "A hockey player who scores three goals in a single game has pulled off this feat",
+   "a": "What is a hat trick?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-04",
+   "q": "In bowling, knocking down all ten pins with the first ball of a frame earns this",
+   "a": "What is a strike?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-05",
+   "q": "Worth six points, this American football score comes from carrying or catching the ball in the opponent's end zone",
+   "a": "What is a touchdown?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-06",
+   "q": "In soccer, this is the only player allowed to handle the ball with their hands inside their own penalty area",
+   "a": "What is the goalkeeper?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-07",
+   "q": "In basketball, this crowd-pleasing shot has a player jamming the ball down through the hoop from above",
+   "a": "What is a slam dunk?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-08",
+   "q": "Golfers shout this four-letter warning when a ball is flying toward people",
+   "a": "What is fore?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-09",
+   "q": "In auto racing, waving this black-and-white patterned banner signals the end of the race",
+   "a": "What is the checkered flag?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-10",
+   "q": "In golf, this term is the number of strokes an expert player is expected to need on a hole",
+   "a": "What is par?",
+   "tier": 1
+  },
+  {
+   "id": "sports-lingo-11",
+   "q": "In golf, finishing a hole two strokes under par is named after this bird",
+   "a": "What is an eagle?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-12",
+   "q": "In tennis, a game score tied at 40-40 is called this",
+   "a": "What is deuce?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-13",
+   "q": "In bowling, knocking down all the remaining pins with your second ball of a frame earns this",
+   "a": "What is a spare?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-14",
+   "q": "In baseball, a home run hit with the bases loaded, scoring four runs, is called this",
+   "a": "What is a grand slam?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-15",
+   "q": "In basketball, this violation is called when a player takes too many steps while holding the ball without dribbling",
+   "a": "What is traveling?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-16",
+   "q": "Worth three points, this American football score is a kick between the uprights",
+   "a": "What is a field goal?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-17",
+   "q": "This embarrassing basketball term describes a shot that misses the rim, net and backboard entirely",
+   "a": "What is an air ball?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-18",
+   "q": "In tennis, a legal serve that the receiver can't even touch is called this",
+   "a": "What is an ace?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-19",
+   "q": "In volleyball, this powerful attack slams the ball down sharply into the opponent's court",
+   "a": "What is a spike?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-20",
+   "q": "In American football, a ball carrier who loses possession of the ball while it's still live has committed this",
+   "a": "What is a fumble?",
+   "tier": 2
+  },
+  {
+   "id": "sports-lingo-21",
+   "q": "In golf, finishing a hole one stroke over par is called this",
+   "a": "What is a bogey?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-22",
+   "q": "In ice hockey, shooting the puck from your own half all the way past the opponent's goal line, untouched, draws this call",
+   "a": "What is icing?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-23",
+   "q": "In soccer, an attacker is ruled this if, when the ball is played to them, they're in the opponent's half and nearer the goal line than both the ball and the second-to-last defender",
+   "a": "What is offside?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-24",
+   "q": "In baseball, this is the area where relief pitchers warm up before entering the game",
+   "a": "What is the bullpen?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-25",
+   "q": "In American football, tackling the quarterback behind the line of scrimmage before he can pass is called this",
+   "a": "What is a sack?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-26",
+   "q": "In the Tour de France, the rider leading the overall standings wears a jersey of this color",
+   "a": "What is yellow?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-27",
+   "q": "Named for a prayer, this is a long, desperate pass thrown into the end zone as time runs out in American football",
+   "a": "What is a Hail Mary?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-28",
+   "q": "This slang term describes a left-handed boxer or a left-handed baseball pitcher",
+   "a": "What is a southpaw?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-29",
+   "q": "In basketball, a player who reaches 10 or more in three stat categories, like points, rebounds and assists, in one game records this",
+   "a": "What is a triple-double?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-30",
+   "q": "In bowling, rolling three strikes in a row is named after this bird",
+   "a": "What is a turkey?",
+   "tier": 3
+  },
+  {
+   "id": "sports-lingo-31",
+   "q": "In golf, scoring three under par on a single hole, also called a double eagle, is named after this large seabird",
+   "a": "What is an albatross?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-32",
+   "q": "In ice hockey, a team gets this advantage when an opponent is in the penalty box, giving it more skaters on the ice",
+   "a": "What is a power play?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-33",
+   "q": "In rugby, this formation has the forwards of both teams binding together and pushing to win the ball",
+   "a": "What is a scrum?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-34",
+   "q": "In U.S. horse racing, winning the Kentucky Derby, Preakness Stakes and Belmont Stakes in the same year earns this title",
+   "a": "What is the Triple Crown?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-35",
+   "q": "A baseball player who gets a single, double, triple and home run in one game is said to have hit for this",
+   "a": "What is the cycle?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-36",
+   "q": "Worth two points, this American football score happens when the defense tackles a ball carrier in his own end zone",
+   "a": "What is a safety?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-37",
+   "q": "In baseball, this illegal motion by the pitcher with runners on base lets every runner advance one base",
+   "a": "What is a balk?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-38",
+   "q": "This horse-riding discipline, nicknamed horse ballet, is judged on precise movements performed by horse and rider",
+   "a": "What is dressage?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-39",
+   "q": "In soccer, slipping the ball between an opponent's legs and collecting it on the other side is called this",
+   "a": "What is a nutmeg?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-40",
+   "q": "In snowboarding and skateboarding, riding with your right foot forward is called this stance",
+   "a": "What is goofy?",
+   "tier": 4
+  },
+  {
+   "id": "sports-lingo-41",
+   "q": "In polo, a match is divided into periods of play called these",
+   "a": "What are chukkers?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-42",
+   "q": "This is the highest rank a sumo wrestler can achieve",
+   "a": "What is yokozuna?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-43",
+   "q": "In darts, this is the name for the line behind which a thrower must stand",
+   "a": "What is the oche?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-44",
+   "q": "In cricket, a batter who is dismissed on the very first ball they face, without scoring, gets this shiny nickname",
+   "a": "What is a golden duck?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-45",
+   "q": "This baseball slang term describes an easy, high fly ball that drops right into a fielder's glove",
+   "a": "What is a can of corn?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-46",
+   "q": "In snooker, a perfect maximum break normally adds up to this many points",
+   "a": "What is 147?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-47",
+   "q": "In volleyball, this defensive specialist wears a different-colored jersey and can't attack the ball above the net",
+   "a": "What is the libero?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-48",
+   "q": "In cricket, this deceptive delivery from a leg-spin bowler turns the opposite way from what the batter expects",
+   "a": "What is a googly?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-49",
+   "q": "Achieved in singles only by Steffi Graf in 1988, this tennis feat adds Olympic gold to all four majors in one calendar year",
+   "a": "What is the Golden Slam?",
+   "tier": 5
+  },
+  {
+   "id": "sports-lingo-50",
+   "q": "In cycling, this French-derived word is the name for the main pack of riders in a road race",
+   "a": "What is the peloton?",
+   "tier": 5
+  }
+ ]
+}

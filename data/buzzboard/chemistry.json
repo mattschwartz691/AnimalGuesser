@@ -1,0 +1,308 @@
+{
+ "category": "Chemistry",
+ "slug": "chemistry",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "chemistry-01",
+   "q": "Its chemical formula is H2O",
+   "a": "What is water?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-02",
+   "q": "This precious metal has the chemical symbol Au",
+   "a": "What is gold?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-03",
+   "q": "Element number 8, this gas makes up about 21 percent of the air and is needed for breathing",
+   "a": "What is oxygen?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-04",
+   "q": "This compound, NaCl, is better known as table salt",
+   "a": "What is sodium chloride?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-05",
+   "q": "On the pH scale, pure water at 25 degrees Celsius has this neutral value",
+   "a": "What is 7?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-06",
+   "q": "Dmitri Mendeleev is famous for creating this chart that organizes all the chemical elements",
+   "a": "What is the periodic table?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-07",
+   "q": "With atomic number 1, this is the lightest and most abundant element in the universe",
+   "a": "What is hydrogen?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-08",
+   "q": "This noble gas glows a bright reddish-orange in classic advertising signs",
+   "a": "What is neon?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-09",
+   "q": "This gas, with formula CO2, is exhaled by animals and taken in by plants",
+   "a": "What is carbon dioxide?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-10",
+   "q": "This positively charged particle is found in the nucleus of every atom",
+   "a": "What is a proton?",
+   "tier": 1
+  },
+  {
+   "id": "chemistry-11",
+   "q": "This particle in an atom's nucleus has no electric charge",
+   "a": "What is a neutron?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-12",
+   "q": "Lighter than air, this element number 2 makes party balloons float",
+   "a": "What is helium?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-13",
+   "q": "This metal with the symbol Hg is a liquid at room temperature",
+   "a": "What is mercury?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-14",
+   "q": "Argon, krypton and xenon belong to this family of very unreactive elements in group 18",
+   "a": "What are the noble gases?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-15",
+   "q": "Its chemical name is sodium bicarbonate, and it fizzes when mixed with vinegar",
+   "a": "What is baking soda?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-16",
+   "q": "This kind of substance speeds up a chemical reaction without being used up itself",
+   "a": "What is a catalyst?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-17",
+   "q": "This gas makes up about 78 percent of Earth's atmosphere",
+   "a": "What is nitrogen?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-18",
+   "q": "Element number 6, it forms the backbone of all organic molecules",
+   "a": "What is carbon?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-19",
+   "q": "Strips of this dye-soaked paper turn red in acids and blue in bases",
+   "a": "What is litmus?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-20",
+   "q": "Its symbol Fe comes from the Latin ferrum, and it rusts when exposed to water and oxygen",
+   "a": "What is iron?",
+   "tier": 2
+  },
+  {
+   "id": "chemistry-21",
+   "q": "Dry ice does this, changing straight from a solid into a gas without melting",
+   "a": "What is sublimation?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-22",
+   "q": "Atoms of the same element with different numbers of neutrons are called these",
+   "a": "What are isotopes?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-23",
+   "q": "Marie Curie is the only person to win Nobel Prizes in two different sciences: chemistry and this one",
+   "a": "What is physics?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-24",
+   "q": "In this type of chemical link, two atoms share pairs of electrons",
+   "a": "What is a covalent bond?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-25",
+   "q": "This term describes a chemical reaction that releases heat to its surroundings",
+   "a": "What is exothermic?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-26",
+   "q": "This element, symbol Si, is the main material in computer chips",
+   "a": "What is silicon?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-27",
+   "q": "Lithium, sodium and potassium belong to this group 1 family of elements that react vigorously with water",
+   "a": "What are the alkali metals?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-28",
+   "q": "With formula CH4, this gas is the main component of natural gas",
+   "a": "What is methane?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-29",
+   "q": "Its formula is HCl, and it's the strong corrosive found in your stomach's digestive juices",
+   "a": "What is hydrochloric acid?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-30",
+   "q": "Neutralizing an acid with a base produces water and this type of compound",
+   "a": "What is a salt?",
+   "tier": 3
+  },
+  {
+   "id": "chemistry-31",
+   "q": "This SI unit for amount of substance contains about 6.022 x 10^23 particles",
+   "a": "What is a mole?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-32",
+   "q": "In chemistry, the loss of electrons by an atom or ion is called this",
+   "a": "What is oxidation?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-33",
+   "q": "Symbol W, this metal has the highest melting point of all metals",
+   "a": "What is tungsten?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-34",
+   "q": "This yellowish gas, element number 9, is the most electronegative element",
+   "a": "What is fluorine?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-35",
+   "q": "Its symbol Pb comes from the Latin plumbum, the source of the word plumber",
+   "a": "What is lead?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-36",
+   "q": "This reddish-brown element is the only nonmetal that is a liquid at room temperature",
+   "a": "What is bromine?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-37",
+   "q": "In this lab technique, a solution of known concentration is slowly added from a burette until a reaction is complete",
+   "a": "What is titration?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-38",
+   "q": "These weak attractions between water molecules explain why water has such a high boiling point for its size",
+   "a": "What are hydrogen bonds?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-39",
+   "q": "Diamond and graphite are examples of these different structural forms of the same element",
+   "a": "What are allotropes?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-40",
+   "q": "This process uses an electric current to drive a chemical reaction, such as splitting water into its two gases",
+   "a": "What is electrolysis?",
+   "tier": 4
+  },
+  {
+   "id": "chemistry-41",
+   "q": "This rule says a system at equilibrium shifts to counteract any change in concentration, temperature or pressure",
+   "a": "What is Le Chatelier's principle?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-42",
+   "q": "This soccer-ball-shaped molecule of 60 carbon atoms is named after an architect famous for geodesic domes",
+   "a": "What is buckminsterfullerene?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-43",
+   "q": "This series of 15 elements runs from atomic number 57 to 71",
+   "a": "What are the lanthanides?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-44",
+   "q": "These pairs of molecules are non-superimposable mirror images of each other, like left and right hands",
+   "a": "What are enantiomers?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-45",
+   "q": "This industrial method combines nitrogen and hydrogen under high pressure to make ammonia for fertilizer",
+   "a": "What is the Haber process?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-46",
+   "q": "Latin for royal water, this mix of nitric and hydrochloric acids can dissolve gold",
+   "a": "What is aqua regia?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-47",
+   "q": "This soft silvery metal, element 31, melts at about 30 degrees Celsius, so it can melt in your hand",
+   "a": "What is gallium?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-48",
+   "q": "This bluish-white metal, element 76, is generally considered the densest naturally occurring element",
+   "a": "What is osmium?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-49",
+   "q": "These organic compounds, made from an acid and an alcohol, are responsible for many fruity smells",
+   "a": "What are esters?",
+   "tier": 5
+  },
+  {
+   "id": "chemistry-50",
+   "q": "This branch of chemistry calculates the amounts of reactants and products in a reaction from a balanced equation",
+   "a": "What is stoichiometry?",
+   "tier": 5
+  }
+ ]
+}

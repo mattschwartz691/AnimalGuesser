@@ -1,0 +1,308 @@
+{
+ "category": "Harry Potter",
+ "slug": "harry-potter",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "harry-potter-01",
+   "q": "This half-giant gamekeeper is the one who tells Harry, \"You're a wizard\"",
+   "a": "Who is Rubeus Hagrid?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-02",
+   "q": "This snowy owl delivers Harry's mail",
+   "a": "Who is Hedwig?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-03",
+   "q": "This Hogwarts house, known for bravery, is home to Harry, Ron and Hermione",
+   "a": "What is Gryffindor?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-04",
+   "q": "In this wizarding sport played on broomsticks, the Seeker tries to catch the Golden Snitch",
+   "a": "What is Quidditch?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-05",
+   "q": "Students reach the Hogwarts Express by running through a brick barrier to this fractional location at King's Cross",
+   "a": "What is Platform Nine and Three-Quarters?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-06",
+   "q": "This brilliant Muggle-born witch is often the brains of Harry's trio",
+   "a": "Who is Hermione Granger?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-07",
+   "q": "This dark wizard is so feared that people call him \"He Who Must Not Be Named\"",
+   "a": "Who is Lord Voldemort?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-08",
+   "q": "This headmaster of Hogwarts has a long silver beard and a phoenix named Fawkes",
+   "a": "Who is Albus Dumbledore?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-09",
+   "q": "This red-haired best friend of Harry has five older brothers and one younger sister",
+   "a": "Who is Ron Weasley?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-10",
+   "q": "Harry has a lightning-bolt-shaped one of these on his forehead",
+   "a": "What is a scar?",
+   "tier": 1
+  },
+  {
+   "id": "harry-potter-11",
+   "q": "This blond Slytherin bully, son of Lucius, is Harry's school rival",
+   "a": "Who is Draco Malfoy?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-12",
+   "q": "This magical garment, inherited from Harry's father, makes the wearer completely unseen",
+   "a": "What is the Invisibility Cloak?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-13",
+   "q": "This house-elf is freed when Lucius Malfoy unknowingly hands him a sock",
+   "a": "Who is Dobby?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-14",
+   "q": "This Potions master and Head of Slytherin turns out to be secretly loyal to Dumbledore",
+   "a": "Who is Severus Snape?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-15",
+   "q": "This all-wizarding village near Hogwarts is home to Honeydukes and the Three Broomsticks",
+   "a": "What is Hogsmeade?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-16",
+   "q": "This cruel uncle of Harry runs a drill company and lives at 4 Privet Drive",
+   "a": "Who is Vernon Dursley?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-17",
+   "q": "This talking, patched piece of headwear places each first-year into a house",
+   "a": "What is the Sorting Hat?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-18",
+   "q": "This incantation conjures a silvery animal guardian that drives away Dementors",
+   "a": "What is Expecto Patronum?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-19",
+   "q": "This wizarding bank in Diagon Alley is run by goblins",
+   "a": "What is Gringotts?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-20",
+   "q": "Harry's godfather, he escaped from Azkaban and can turn into a huge shaggy dog",
+   "a": "Who is Sirius Black?",
+   "tier": 2
+  },
+  {
+   "id": "harry-potter-21",
+   "q": "Dementors guard this island prison for wizards",
+   "a": "What is Azkaban?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-22",
+   "q": "Hermione corrects Ron's pronunciation of this charm used to make a feather float",
+   "a": "What is Wingardium Leviosa?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-23",
+   "q": "This toad-like Ministry official in pink decorates her office with kitten plates",
+   "a": "Who is Dolores Umbridge?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-24",
+   "q": "This Gryffindor ghost's head is attached to his neck by only a sliver of skin",
+   "a": "Who is Nearly Headless Nick?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-25",
+   "q": "Hagrid's three-headed dog guarding the trapdoor has this cute name",
+   "a": "Who is Fluffy?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-26",
+   "q": "Ron's pet rat Scabbers turns out to be this traitor in disguise",
+   "a": "Who is Peter Pettigrew?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-27",
+   "q": "Voldemort split his soul and hid the pieces in these objects, including a diary and a locket",
+   "a": "What are Horcruxes?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-28",
+   "q": "Fred and George open this joke shop at 93 Diagon Alley",
+   "a": "What is Weasleys' Wizard Wheezes?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-29",
+   "q": "The Weasley family lives in this crooked, magically held-up house near Ottery St Catchpole",
+   "a": "What is the Burrow?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-30",
+   "q": "This Hufflepuff Triwizard champion was played by Robert Pattinson in the films",
+   "a": "Who is Cedric Diggory?",
+   "tier": 3
+  },
+  {
+   "id": "harry-potter-31",
+   "q": "This disarming spell becomes Harry's signature move",
+   "a": "What is Expelliarmus?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-32",
+   "q": "Before marrying James Potter, Harry's mother had this full name",
+   "a": "Who is Lily Evans?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-33",
+   "q": "This Ravenclaw house ghost turns out to be the daughter of the house's founder",
+   "a": "Who is the Grey Lady?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-34",
+   "q": "Hermione buys this bandy-legged, squashed-faced ginger cat in Diagon Alley",
+   "a": "Who is Crookshanks?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-35",
+   "q": "This scrawny, dust-colored cat prowls the halls for her owner, caretaker Argus Filch",
+   "a": "Who is Mrs. Norris?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-36",
+   "q": "Voldemort's birth name is Tom this Riddle, letters that help spell \"I am Lord Voldemort\"",
+   "a": "What is Marvolo?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-37",
+   "q": "Also called the Deathstick, it is the most powerful of the three Deathly Hallows",
+   "a": "What is the Elder Wand?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-38",
+   "q": "Neville Longbottom keeps losing this pet toad",
+   "a": "Who is Trevor?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-39",
+   "q": "Rita Skeeter writes for this main wizarding newspaper",
+   "a": "What is the Daily Prophet?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-40",
+   "q": "This plant's cry is fatal to hear, but stewed it cures victims who have been Petrified",
+   "a": "What is a mandrake?",
+   "tier": 4
+  },
+  {
+   "id": "harry-potter-41",
+   "q": "This Herbology professor is the Head of Hufflepuff House",
+   "a": "Who is Pomona Sprout?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-42",
+   "q": "This barman of the Hog's Head is the younger brother of the Hogwarts headmaster",
+   "a": "Who is Aberforth Dumbledore?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-43",
+   "q": "Voldemort's mother, she used a love potion to win a handsome Muggle named Tom Riddle",
+   "a": "Who is Merope Gaunt?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-44",
+   "q": "Harry's very first Hogwarts letter was addressed to him in this cramped spot at 4 Privet Drive",
+   "a": "What is the cupboard under the stairs?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-45",
+   "q": "This Marauder nickname belonged to James Potter, whose Animagus form was a stag",
+   "a": "What is Prongs?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-46",
+   "q": "Hagrid hatched this Norwegian Ridgeback dragon in his wooden hut",
+   "a": "Who is Norbert?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-47",
+   "q": "Hagrid collects the Philosopher's Stone from this numbered, high-security chamber deep inside Gringotts",
+   "a": "What is vault 713?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-48",
+   "q": "Viktor Krum attends this northern wizarding school in the Triwizard Tournament",
+   "a": "What is Durmstrang?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-49",
+   "q": "Harry wins a tiny bottle of this \"liquid luck\" potion in Slughorn's class",
+   "a": "What is Felix Felicis?",
+   "tier": 5
+  },
+  {
+   "id": "harry-potter-50",
+   "q": "This grumbling, elderly house-elf serves the Black family at 12 Grimmauld Place",
+   "a": "Who is Kreacher?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Pop Music",
+ "slug": "pop-music",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "pop-music-01",
+   "q": "This singer-songwriter has released albums titled Red, 1989 and Folklore",
+   "a": "Who is Taylor Swift?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-02",
+   "q": "This singer of 'Bad Guy' also recorded the James Bond theme 'No Time to Die'",
+   "a": "Who is Billie Eilish?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-03",
+   "q": "This former Disney actress topped the charts with 'drivers license' from her album Sour",
+   "a": "Who is Olivia Rodrigo?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-04",
+   "q": "The 'King of Pop' famously debuted his moonwalk on a 1983 TV special",
+   "a": "Who is Michael Jackson?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-05",
+   "q": "This red-haired British singer-songwriter had a giant hit with 'Shape of You'",
+   "a": "Who is Ed Sheeran?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-06",
+   "q": "This British singer of 'Rolling in the Deep' named albums after her age, like 21 and 25",
+   "a": "Who is Adele?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-07",
+   "q": "This K-pop boy band includes members RM, Jin, Suga, J-Hope, Jimin, V and Jungkook",
+   "a": "Who is BTS?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-08",
+   "q": "This Canadian singer of 'Baby' was discovered through his YouTube videos as a young teen",
+   "a": "Who is Justin Bieber?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-09",
+   "q": "This singer of 'Umbrella' and 'Diamonds' later launched the Fenty Beauty brand",
+   "a": "Who is Rihanna?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-10",
+   "q": "This singer roared onto the charts with 'Firework' and 'Roar'",
+   "a": "Who is Katy Perry?",
+   "tier": 1
+  },
+  {
+   "id": "pop-music-11",
+   "q": "Born Stefani Germanotta, this singer is known for 'Poker Face' and bold outfits",
+   "a": "Who is Lady Gaga?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-12",
+   "q": "This Swedish group was behind 'Dancing Queen' and 'Mamma Mia'",
+   "a": "Who is ABBA?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-13",
+   "q": "Born Peter Gene Hernandez, this singer of 'Just the Way You Are' took his stage name from a planet",
+   "a": "Who is Bruno Mars?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-14",
+   "q": "This Canadian singer had a massive synth-pop hit with 'Blinding Lights'",
+   "a": "Who is The Weeknd?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-15",
+   "q": "Beyonce first found fame as a member of this girl group alongside Kelly Rowland",
+   "a": "What is Destiny's Child?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-16",
+   "q": "This pop princess burst onto the scene with '...Baby One More Time'",
+   "a": "Who is Britney Spears?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-17",
+   "q": "Miley Cyrus played this secret pop star with a blonde wig on Disney Channel",
+   "a": "Who is Hannah Montana?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-18",
+   "q": "This boy band from Orlando sang 'I Want It That Way'",
+   "a": "Who are the Backstreet Boys?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-19",
+   "q": "Known as the 'Queen of Pop', she sang 'Material Girl' and 'Like a Prayer'",
+   "a": "Who is Madonna?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-20",
+   "q": "Harry Styles and Niall Horan were put together in this boy band on The X Factor",
+   "a": "What is One Direction?",
+   "tier": 2
+  },
+  {
+   "id": "pop-music-21",
+   "q": "Justin Timberlake first became famous in this boy band known for 'Bye Bye Bye'",
+   "a": "What is NSYNC?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-22",
+   "q": "This was Victoria Beckham's nickname in the girl group alongside Scary, Sporty, Baby and Ginger",
+   "a": "Who is Posh Spice?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-23",
+   "q": "This Canadian singer's 'Call Me Maybe' was one of the biggest hits of 2012",
+   "a": "Who is Carly Rae Jepsen?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-24",
+   "q": "Born Reginald Dwight, this British star sang 'Rocket Man' and 'Tiny Dancer'",
+   "a": "Who is Elton John?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-25",
+   "q": "Written by Michael Jackson and Lionel Richie, this 1985 charity single was recorded by USA for Africa",
+   "a": "What is 'We Are the World'?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-26",
+   "q": "Rihanna was born on this Caribbean island nation",
+   "a": "What is Barbados?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-27",
+   "q": "This 1996 song was the Spice Girls' debut single and a number one hit around the world",
+   "a": "What is 'Wannabe'?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-28",
+   "q": "This 2012 Psy song and horse-riding dance was the first YouTube video to reach one billion views",
+   "a": "What is 'Gangnam Style'?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-29",
+   "q": "The King of Pop started out as the young lead singer of this Motown group with his brothers",
+   "a": "Who are the Jackson 5?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-30",
+   "q": "Adele won an Oscar for this 2012 James Bond theme song",
+   "a": "What is 'Skyfall'?",
+   "tier": 3
+  },
+  {
+   "id": "pop-music-31",
+   "q": "Beyonce introduced this bold onstage alter ego on her 2008 album 'I Am...'",
+   "a": "Who is Sasha Fierce?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-32",
+   "q": "Whitney Houston's 1992 smash 'I Will Always Love You' was written and first recorded by this country star",
+   "a": "Who is Dolly Parton?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-33",
+   "q": "Britney Spears, Justin Timberlake and Christina Aguilera were all kid cast members of this 1990s Disney Channel show",
+   "a": "What is The Mickey Mouse Club?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-34",
+   "q": "Ed Sheeran's 2011 debut album was named for this math symbol",
+   "a": "What is the plus sign?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-35",
+   "q": "Lorde, who broke through with 'Royals', comes from this country",
+   "a": "What is New Zealand?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-36",
+   "q": "Lady Gaga's 2008 debut album, featuring 'Just Dance' and 'Poker Face', had this short title",
+   "a": "What is The Fame?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-37",
+   "q": "Cher's 1998 hit 'Believe' made this pitch-correction effect famous",
+   "a": "What is Auto-Tune?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-38",
+   "q": "ABBA won the 1974 Eurovision Song Contest with this song named after a famous battle",
+   "a": "What is 'Waterloo'?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-39",
+   "q": "Gwen Stefani was the lead singer of this band behind 'Don't Speak'",
+   "a": "What is No Doubt?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-40",
+   "q": "Christina Aguilera's 1999 debut single was about a magical being trapped in a container",
+   "a": "What is 'Genie in a Bottle'?",
+   "tier": 4
+  },
+  {
+   "id": "pop-music-41",
+   "q": "Madonna's full name is Madonna Louise this",
+   "a": "What is Ciccone?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-42",
+   "q": "Taylor Swift's 2006 debut single was named after this country singer",
+   "a": "Who is Tim McGraw?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-43",
+   "q": "Mariah Carey is famous for ultra-high notes in this vocal range named for a sound you make with your lips",
+   "a": "What is the whistle register?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-44",
+   "q": "This Swedish producer co-wrote '...Baby One More Time' and dozens of other number-one hits",
+   "a": "Who is Max Martin?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-45",
+   "q": "This Buggles song was the first clip ever played when MTV launched in 1981",
+   "a": "What is 'Video Killed the Radio Star'?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-46",
+   "q": "Nicknamed the 'Queen of Disco', she sang 'Hot Stuff' and 'I Feel Love'",
+   "a": "Who is Donna Summer?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-47",
+   "q": "Prince was backed by this band on his 1984 album Purple Rain",
+   "a": "Who are the Revolution?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-48",
+   "q": "Prince's full birth name was Prince Rogers this",
+   "a": "What is Nelson?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-49",
+   "q": "This lyricist has written the words to Elton John's songs for over 50 years",
+   "a": "Who is Bernie Taupin?",
+   "tier": 5
+  },
+  {
+   "id": "pop-music-50",
+   "q": "Before going solo, this singer led the Supremes on hits like 'Baby Love'",
+   "a": "Who is Diana Ross?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Islands",
+ "slug": "islands",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "islands-01",
+   "q": "This U.S. state is made up entirely of islands in the Pacific Ocean",
+   "a": "What is Hawaii?",
+   "tier": 1
+  },
+  {
+   "id": "islands-02",
+   "q": "The world's largest island, it is an autonomous territory of Denmark",
+   "a": "What is Greenland?",
+   "tier": 1
+  },
+  {
+   "id": "islands-03",
+   "q": "Lemurs are found in the wild only on this big island nation off the southeast coast of Africa",
+   "a": "What is Madagascar?",
+   "tier": 1
+  },
+  {
+   "id": "islands-04",
+   "q": "This New York City borough between the Hudson and East Rivers is home to Central Park and Times Square",
+   "a": "What is Manhattan?",
+   "tier": 1
+  },
+  {
+   "id": "islands-05",
+   "q": "This Mediterranean island just off the 'toe' of Italy's boot is home to Mount Etna",
+   "a": "What is Sicily?",
+   "tier": 1
+  },
+  {
+   "id": "islands-06",
+   "q": "Millions of immigrants were processed at this New York Harbor station between 1892 and 1954",
+   "a": "What is Ellis Island?",
+   "tier": 1
+  },
+  {
+   "id": "islands-07",
+   "q": "This East Asian country is made up of thousands of islands and has Tokyo as its capital",
+   "a": "What is Japan?",
+   "tier": 1
+  },
+  {
+   "id": "islands-08",
+   "q": "This island state of Australia, south of the mainland, gave its name to a feisty marsupial 'devil'",
+   "a": "What is Tasmania?",
+   "tier": 1
+  },
+  {
+   "id": "islands-09",
+   "q": "This Caribbean island nation, whose capital is Havana, lies about 90 miles south of Key West, Florida",
+   "a": "What is Cuba?",
+   "tier": 1
+  },
+  {
+   "id": "islands-10",
+   "q": "This island nation sits on the Mid-Atlantic Ridge; its capital is Reykjavik",
+   "a": "What is Iceland?",
+   "tier": 1
+  },
+  {
+   "id": "islands-11",
+   "q": "Nicknamed the 'Isle of Beauty', this mountainous French island in the Mediterranean has its capital at Ajaccio",
+   "a": "What is Corsica?",
+   "tier": 2
+  },
+  {
+   "id": "islands-12",
+   "q": "Giant tortoises and the finches studied by Charles Darwin live on this Ecuadorian archipelago",
+   "a": "What are the Galápagos Islands?",
+   "tier": 2
+  },
+  {
+   "id": "islands-13",
+   "q": "Called Rapa Nui by its people, this remote Chilean territory in the Pacific is famous for giant stone statues called moai",
+   "a": "What is Easter Island?",
+   "tier": 2
+  },
+  {
+   "id": "islands-14",
+   "q": "The Minoan civilization and its palace at Knossos flourished on this largest Greek island",
+   "a": "What is Crete?",
+   "tier": 2
+  },
+  {
+   "id": "islands-15",
+   "q": "Haiti and the Dominican Republic share this Caribbean island",
+   "a": "What is Hispaniola?",
+   "tier": 2
+  },
+  {
+   "id": "islands-16",
+   "q": "This Indonesian island, famous for its Hindu temples, rice terraces and beaches, is a top tourist destination",
+   "a": "What is Bali?",
+   "tier": 2
+  },
+  {
+   "id": "islands-17",
+   "q": "This island is divided between a republic with its capital in Dublin and a part of the United Kingdom",
+   "a": "What is Ireland?",
+   "tier": 2
+  },
+  {
+   "id": "islands-18",
+   "q": "This city-state at the southern tip of the Malay Peninsula is one of the world's busiest ports",
+   "a": "What is Singapore?",
+   "tier": 2
+  },
+  {
+   "id": "islands-19",
+   "q": "This rocky island in San Francisco Bay held a famous federal prison until 1963",
+   "a": "What is Alcatraz?",
+   "tier": 2
+  },
+  {
+   "id": "islands-20",
+   "q": "This Indian Ocean island nation was the only home of the dodo, a flightless bird extinct since the 1600s",
+   "a": "What is Mauritius?",
+   "tier": 2
+  },
+  {
+   "id": "islands-21",
+   "q": "This teardrop-shaped island nation south of India was called Ceylon until 1972",
+   "a": "What is Sri Lanka?",
+   "tier": 3
+  },
+  {
+   "id": "islands-22",
+   "q": "The world's third-largest island, it is divided among Indonesia, Malaysia and Brunei",
+   "a": "What is Borneo?",
+   "tier": 3
+  },
+  {
+   "id": "islands-23",
+   "q": "Napoleon died in 1821 in exile on this remote British island in the South Atlantic",
+   "a": "What is Saint Helena?",
+   "tier": 3
+  },
+  {
+   "id": "islands-24",
+   "q": "Nelson Mandela spent 18 of his 27 years in prison on this isle off Cape Town",
+   "a": "What is Robben Island?",
+   "tier": 3
+  },
+  {
+   "id": "islands-25",
+   "q": "Famous for cloves and the spice trade, this island off Tanzania was the birthplace of Queen singer Freddie Mercury",
+   "a": "What is Zanzibar?",
+   "tier": 3
+  },
+  {
+   "id": "islands-26",
+   "q": "This Mediterranean island nation, whose capital is Valletta, was awarded the George Cross for bravery in World War II",
+   "a": "What is Malta?",
+   "tier": 3
+  },
+  {
+   "id": "islands-27",
+   "q": "Tokyo, Osaka and Kyoto are all on this largest of Japan's islands",
+   "a": "What is Honshu?",
+   "tier": 3
+  },
+  {
+   "id": "islands-28",
+   "q": "This second-largest island in the Mediterranean belongs to Italy and lies just south of Corsica",
+   "a": "What is Sardinia?",
+   "tier": 3
+  },
+  {
+   "id": "islands-29",
+   "q": "The world's most populous island, this Indonesian island is home to the capital Jakarta",
+   "a": "What is Java?",
+   "tier": 3
+  },
+  {
+   "id": "islands-30",
+   "q": "Painter Paul Gauguin spent years on this largest island of French Polynesia",
+   "a": "What is Tahiti?",
+   "tier": 3
+  },
+  {
+   "id": "islands-31",
+   "q": "The world's second-largest island, it is split between Indonesia and a nation whose capital is Port Moresby",
+   "a": "What is New Guinea?",
+   "tier": 4
+  },
+  {
+   "id": "islands-32",
+   "q": "This volcanic island between Java and Sumatra blew apart in a cataclysmic 1883 eruption heard thousands of miles away",
+   "a": "What is Krakatoa?",
+   "tier": 4
+  },
+  {
+   "id": "islands-33",
+   "q": "A giant bronze statue of the sun god Helios, one of the Seven Wonders of the Ancient World, stood on this Greek island",
+   "a": "What is Rhodes?",
+   "tier": 4
+  },
+  {
+   "id": "islands-34",
+   "q": "This Norwegian Arctic archipelago is home to a 'doomsday' vault that stores seeds from around the world",
+   "a": "What is Svalbard?",
+   "tier": 4
+  },
+  {
+   "id": "islands-35",
+   "q": "This self-governing British Crown dependency in the Irish Sea hosts the famous TT motorcycle races",
+   "a": "What is the Isle of Man?",
+   "tier": 4
+  },
+  {
+   "id": "islands-36",
+   "q": "Lake Toba, in a huge volcanic crater, lies on this large Indonesian island west of Java",
+   "a": "What is Sumatra?",
+   "tier": 4
+  },
+  {
+   "id": "islands-37",
+   "q": "Sapporo, host of the 1972 Winter Olympics, is the largest city on this northernmost of Japan's main islands",
+   "a": "What is Hokkaido?",
+   "tier": 4
+  },
+  {
+   "id": "islands-38",
+   "q": "Shared by Chile and Argentina, this archipelago at the southern tip of South America has a Spanish name meaning 'Land of Fire'",
+   "a": "What is Tierra del Fuego?",
+   "tier": 4
+  },
+  {
+   "id": "islands-39",
+   "q": "Vikings built a settlement about 1,000 years ago at L'Anse aux Meadows on the northern tip of this large Canadian island",
+   "a": "What is Newfoundland?",
+   "tier": 4
+  },
+  {
+   "id": "islands-40",
+   "q": "This largest of Spain's Balearic Islands has its capital at Palma",
+   "a": "What is Majorca?",
+   "tier": 4
+  },
+  {
+   "id": "islands-41",
+   "q": "Often called the most remote inhabited archipelago, this British South Atlantic territory's only settlement is Edinburgh of the Seven Seas",
+   "a": "What is Tristan da Cunha?",
+   "tier": 5
+  },
+  {
+   "id": "islands-42",
+   "q": "This Yemeni island in the Arabian Sea is famous for its umbrella-shaped dragon's blood trees",
+   "a": "What is Socotra?",
+   "tier": 5
+  },
+  {
+   "id": "islands-43",
+   "q": "Mutineers from HMS Bounty and their Tahitian companions settled on this tiny, remote Pacific isle in 1790",
+   "a": "What is Pitcairn Island?",
+   "tier": 5
+  },
+  {
+   "id": "islands-44",
+   "q": "Canada's largest isle and the world's fifth-largest, it is part of the territory of Nunavut",
+   "a": "What is Baffin Island?",
+   "tier": 5
+  },
+  {
+   "id": "islands-45",
+   "q": "A Viking raid on the monastery of this 'Holy Island' off Northumberland in 793 is often seen as the start of the Viking Age",
+   "a": "What is Lindisfarne?",
+   "tier": 5
+  },
+  {
+   "id": "islands-46",
+   "q": "This island off Iceland's south coast was created by a volcanic eruption that began in 1963",
+   "a": "What is Surtsey?",
+   "tier": 5
+  },
+  {
+   "id": "islands-47",
+   "q": "This tiny Pacific republic, one of the world's smallest nations, has no official capital and grew rich from phosphate mining",
+   "a": "What is Nauru?",
+   "tier": 5
+  },
+  {
+   "id": "islands-48",
+   "q": "A large subspecies of brown bear is named for this big isle in the Gulf of Alaska",
+   "a": "What is Kodiak Island?",
+   "tier": 5
+  },
+  {
+   "id": "islands-49",
+   "q": "This tropical island is China's southernmost province",
+   "a": "What is Hainan?",
+   "tier": 5
+  },
+  {
+   "id": "islands-50",
+   "q": "This largest atoll of the Chagos Archipelago in the Indian Ocean hosts a major U.S.-U.K. military base",
+   "a": "What is Diego Garcia?",
+   "tier": 5
+  }
+ ]
+}

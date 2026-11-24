@@ -1,0 +1,308 @@
+{
+ "category": "Cartoons & Anime",
+ "slug": "cartoons-anime",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "cartoons-anime-01",
+   "q": "This yellow electric-type Pokemon rides on Ash Ketchum's shoulder instead of staying in a Poke Ball",
+   "a": "Who is Pikachu?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-02",
+   "q": "This square yellow sea sponge works as a fry cook at the Krusty Krab",
+   "a": "Who is SpongeBob SquarePants?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-03",
+   "q": "This Great Dane solves mysteries in the Mystery Machine with Shaggy and the gang",
+   "a": "Who is Scooby-Doo?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-04",
+   "q": "This gray rabbit greets hunters with \"Eh, what's up, Doc?\"",
+   "a": "Who is Bugs Bunny?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-05",
+   "q": "Two stepbrothers build huge projects every summer day while their pet platypus is a secret agent",
+   "a": "What is Phineas and Ferb?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-06",
+   "q": "This Blue Heeler puppy lives in Brisbane with her sister Bingo",
+   "a": "Who is Bluey?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-07",
+   "q": "This bald airbending monk with blue arrow tattoos must master all four elements",
+   "a": "Who is Aang?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-08",
+   "q": "This Disney character, Mickey's longtime sweetheart, wears a polka-dot bow",
+   "a": "Who is Minnie Mouse?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-09",
+   "q": "This cartoon cat and mouse have been chasing each other through houses since 1940",
+   "a": "What is Tom and Jerry?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-10",
+   "q": "In this anime franchise, Goku gathers seven magical orbs that summon the wish-granting Shenron",
+   "a": "What is Dragon Ball?",
+   "tier": 1
+  },
+  {
+   "id": "cartoons-anime-11",
+   "q": "Naruto Uzumaki dreams of becoming this, the leader of the Hidden Leaf Village",
+   "a": "What is the Hokage?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-12",
+   "q": "This grumpy, clarinet-playing octopus is SpongeBob's next-door neighbor",
+   "a": "Who is Squidward Tentacles?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-13",
+   "q": "Twins Dipper and Mabel spend a mysterious summer in Oregon in this Disney series",
+   "a": "What is Gravity Falls?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-14",
+   "q": "Fred and Wilma live in Bedrock as \"the modern Stone Age family\" in this classic cartoon",
+   "a": "What is The Flintstones?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-15",
+   "q": "Wile E. Coyote buys Acme products in his endless chase of this speedy bird",
+   "a": "Who is the Road Runner?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-16",
+   "q": "Ash Ketchum begins his Pokemon journey from this small Kanto hometown",
+   "a": "What is Pallet Town?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-17",
+   "q": "In this Hayao Miyazaki film, 10-year-old Chihiro works in a bathhouse for spirits",
+   "a": "What is Spirited Away?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-18",
+   "q": "This huge gray forest spirit waits with two sisters at a rainy bus stop in a 1988 Miyazaki film",
+   "a": "Who is Totoro?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-19",
+   "q": "Blossom, Bubbles and Buttercup were made from sugar, spice, everything nice and Chemical X",
+   "a": "Who are the Powerpuff Girls?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-20",
+   "q": "Tommy Pickles and his baby friends go on adventures in this Nickelodeon cartoon",
+   "a": "What is Rugrats?",
+   "tier": 2
+  },
+  {
+   "id": "cartoons-anime-21",
+   "q": "This Japanese animation legend directed Princess Mononoke and Howl's Moving Castle",
+   "a": "Who is Hayao Miyazaki?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-22",
+   "q": "Perry the Platypus constantly foils the \"-inators\" of this evil scientist",
+   "a": "Who is Dr. Heinz Doofenshmirtz?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-23",
+   "q": "Monkey D. Luffy got his stretchy rubber body by eating one of these",
+   "a": "What is a Devil Fruit?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-24",
+   "q": "This boy with a football-shaped head lives in his grandparents' boarding house",
+   "a": "Who is Arnold?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-25",
+   "q": "In Avatar: The Last Airbender, this tea-loving retired general is Prince Zuko's uncle",
+   "a": "Who is Iroh?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-26",
+   "q": "Kim Possible's sidekick Ron Stoppable carries this pet naked mole-rat in his pocket",
+   "a": "Who is Rufus?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-27",
+   "q": "Plankton is forever plotting to steal the secret formula for this burger",
+   "a": "What is the Krabby Patty?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-28",
+   "q": "In My Hero Academia, a person's superpower is given this name",
+   "a": "What is a Quirk?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-29",
+   "q": "This Pallet Town researcher gives Ash his first Pokemon",
+   "a": "Who is Professor Oak?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-30",
+   "q": "This stuttering Looney Tunes character closes many cartoons with \"Th-th-that's all, folks!\"",
+   "a": "Who is Porky Pig?",
+   "tier": 3
+  },
+  {
+   "id": "cartoons-anime-31",
+   "q": "On Animaniacs, the Warner siblings are Yakko, Wakko and this little sister",
+   "a": "Who is Dot?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-32",
+   "q": "This ballet-loving big sister constantly wrecks things in Dexter's Laboratory",
+   "a": "Who is Dee Dee?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-33",
+   "q": "Ed, Edd and Eddy constantly run scams to earn money for these giant candies",
+   "a": "What are jawbreakers?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-34",
+   "q": "Courage the Cowardly Dog lives with Muriel and Eustace in the middle of this oddly named place",
+   "a": "What is Nowhere?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-35",
+   "q": "This grass-type Pokemon is number 001 in the National Pokedex",
+   "a": "Who is Bulbasaur?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-36",
+   "q": "In Dragon Ball, this is Goku's Saiyan birth name",
+   "a": "Who is Kakarot?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-37",
+   "q": "Aang's flying, six-legged companion Appa is this kind of animal",
+   "a": "What is a sky bison?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-38",
+   "q": "In Fullmetal Alchemist, Edward and Alphonse share this last name",
+   "a": "What is Elric?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-39",
+   "q": "This one-eyed, triangle-shaped dream demon is the main villain of Gravity Falls",
+   "a": "Who is Bill Cipher?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-40",
+   "q": "In the original Japanese, this is Sailor Moon's everyday civilian name",
+   "a": "Who is Usagi Tsukino?",
+   "tier": 4
+  },
+  {
+   "id": "cartoons-anime-41",
+   "q": "This voice actor has provided SpongeBob's voice since 1999",
+   "a": "Who is Tom Kenny?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-42",
+   "q": "This co-founder of Game Freak created Pokemon, inspired by his childhood love of bug collecting",
+   "a": "Who is Satoshi Tajiri?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-43",
+   "q": "Called the \"God of Manga,\" this artist created Astro Boy",
+   "a": "Who is Osamu Tezuka?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-44",
+   "q": "Known as \"The Man of a Thousand Voices,\" he voiced Bugs Bunny, Daffy Duck and Porky Pig",
+   "a": "Who is Mel Blanc?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-45",
+   "q": "This Japanese animation company co-founded by Hayao Miyazaki takes its name from an Italian word for a hot desert wind",
+   "a": "What is Studio Ghibli?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-46",
+   "q": "Rocko, of Rocko's Modern Life, is this kind of Australian animal",
+   "a": "What is a wallaby?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-47",
+   "q": "This feisty puppy nephew of the famous Great Dane detective shouts \"Puppy Power!\"",
+   "a": "Who is Scrappy-Doo?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-48",
+   "q": "This is the true name of the Nine-Tailed Fox sealed inside Naruto",
+   "a": "Who is Kurama?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-49",
+   "q": "This shape-shifting demon of darkness sent the samurai hero into the future in Samurai Jack",
+   "a": "Who is Aku?",
+   "tier": 5
+  },
+  {
+   "id": "cartoons-anime-50",
+   "q": "This Fire Lord, Zuko's father, is the final enemy Aang must face",
+   "a": "Who is Ozai?",
+   "tier": 5
+  }
+ ]
+}

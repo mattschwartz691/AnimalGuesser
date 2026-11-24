@@ -1,0 +1,607 @@
+{
+ "category": "US History",
+ "slug": "us-history",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q23-curated",
+   "q": "This Founding Father commanded the Continental Army and served as the first U.S. president, from 1789 to 1797",
+   "a": "Who is George Washington?",
+   "tier": 1
+  },
+  {
+   "id": "Q91-curated",
+   "q": "This 16th U.S. president, born in a one-room log cabin in Kentucky, led the nation through the Civil War",
+   "a": "Who is Abraham Lincoln?",
+   "tier": 1
+  },
+  {
+   "id": "Q11812-curated",
+   "q": "This third U.S. president was the primary author of the Declaration of Independence",
+   "a": "Who is Thomas Jefferson?",
+   "tier": 1
+  },
+  {
+   "id": "Q34969-curated",
+   "q": "This Founding Father, a Philadelphia printer, inventor and physicist, became the nation's first postmaster general",
+   "a": "Who is Benjamin Franklin?",
+   "tier": 1
+  },
+  {
+   "id": "Q8027-curated",
+   "q": "This Baptist minister led the civil rights movement from 1955 until his assassination in 1968, using nonviolence against Jim Crow laws",
+   "a": "Who is Martin Luther King Jr.?",
+   "tier": 1
+  },
+  {
+   "id": "Q41921-curated",
+   "q": "In 1955 this activist refused to give up her bus seat in Montgomery, Alabama, sparking a famous boycott",
+   "a": "Who is Rosa Parks?",
+   "tier": 1
+  },
+  {
+   "id": "Q102870-curated",
+   "q": "After escaping slavery, this woman made some 13 missions to rescue about 70 enslaved people using the Underground Railroad",
+   "a": "Who is Harriet Tubman?",
+   "tier": 1
+  },
+  {
+   "id": "Q8676-curated",
+   "q": "This war pitted the Union against the Confederacy, which was formed in 1861 by Southern states that had seceded",
+   "a": "What is the American Civil War?",
+   "tier": 1
+  },
+  {
+   "id": "Q40949-curated",
+   "q": "In this war, the Continental Army commanded by George Washington defeated the British Army",
+   "a": "What is the American Revolutionary War?",
+   "tier": 1
+  },
+  {
+   "id": "Q19024-curated",
+   "q": "On December 16, 1773, the Sons of Liberty staged this famous protest against British policy in the capital of Massachusetts",
+   "a": "What is the Boston Tea Party?",
+   "tier": 1
+  },
+  {
+   "id": "Q52418-curated",
+   "q": "On December 7, 1941, Japan launched this surprise air raid on the U.S. Pacific Fleet's naval base in Hawaii",
+   "a": "What is the attack on Pearl Harbor?",
+   "tier": 1
+  },
+  {
+   "id": "Q8698-curated",
+   "q": "Marked by high unemployment and widespread bank failures, this severe economic downturn lasted from 1929 to 1939",
+   "a": "What is the Great Depression?",
+   "tier": 1
+  },
+  {
+   "id": "Q214524-curated",
+   "q": "On November 19, 1863, Abraham Lincoln delivered this famous speech at the dedication of a soldiers' cemetery in Pennsylvania",
+   "a": "What is the Gettysburg Address?",
+   "tier": 1
+  },
+  {
+   "id": "Q127912-curated",
+   "q": "Adopted on July 4, 1776, by the Second Continental Congress in Philadelphia, this is the founding document of the United States",
+   "a": "What is the Declaration of Independence?",
+   "tier": 1
+  },
+  {
+   "id": "Q193155-curated",
+   "q": "In 1803 the United States acquired this vast territory west of the Mississippi River from France",
+   "a": "What is the Louisiana Purchase?",
+   "tier": 1
+  },
+  {
+   "id": "Q43653-curated",
+   "q": "Crewed by Neil Armstrong, Michael Collins and Buzz Aldrin, this NASA spaceflight was the first to land humans on the Moon",
+   "a": "What is Apollo 11?",
+   "tier": 1
+  },
+  {
+   "id": "Q505802-curated",
+   "q": "Setting out in May 1804, the Corps of Discovery made this famous journey to explore lands gained in the Louisiana Purchase",
+   "a": "What is the Lewis and Clark Expedition?",
+   "tier": 1
+  },
+  {
+   "id": "Q8007-curated",
+   "q": "This 32nd president, the only one to serve more than two terms, led the U.S. through the Great Depression and World War II",
+   "a": "Who is Franklin D. Roosevelt?",
+   "tier": 1
+  },
+  {
+   "id": "Q9696-curated",
+   "q": "This 35th U.S. president was the youngest elected president and the first Roman Catholic president",
+   "a": "Who is John F. Kennedy?",
+   "tier": 1
+  },
+  {
+   "id": "Q391358-curated",
+   "q": "Issued by Abraham Lincoln on January 1, 1863, this order changed the legal status of enslaved people in the Confederate states to free",
+   "a": "What is the Emancipation Proclamation?",
+   "tier": 1
+  },
+  {
+   "id": "Q178903-curated",
+   "q": "This Founding Father, born on the Caribbean island of Nevis, was the first U.S. secretary of the treasury",
+   "a": "Who is Alexander Hamilton?",
+   "tier": 2
+  },
+  {
+   "id": "Q165557-curated",
+   "q": "This Confederate general led the Army of Northern Virginia from 1862 until its surrender in 1865",
+   "a": "Who is Robert E. Lee?",
+   "tier": 2
+  },
+  {
+   "id": "Q34836-curated",
+   "q": "This commanding general of the Union Army later served as the 18th U.S. president, from 1869 to 1877",
+   "a": "Who is Ulysses S. Grant?",
+   "tier": 2
+  },
+  {
+   "id": "Q215562-curated",
+   "q": "After escaping slavery in Maryland in 1838, this orator and writer became a national leader of the abolitionist movement",
+   "a": "Who is Frederick Douglass?",
+   "tier": 2
+  },
+  {
+   "id": "Q192245-curated",
+   "q": "This women's rights activist, born into a Quaker family, played a pivotal role in the women's suffrage movement",
+   "a": "Who is Susan B. Anthony?",
+   "tier": 2
+  },
+  {
+   "id": "Q238960-curated",
+   "q": "As a teenager, this Native American woman traveled thousands of miles with Lewis and Clark, from North Dakota to the Pacific Ocean",
+   "a": "Who is Sacagawea?",
+   "tier": 2
+  },
+  {
+   "id": "Q83396-curated",
+   "q": "The longest-serving first lady, this diplomat and activist largely redefined the role from 1933 to 1945",
+   "a": "Who is Eleanor Roosevelt?",
+   "tier": 2
+  },
+  {
+   "id": "Q33132-curated",
+   "q": "Fought in Pennsylvania, this battle is widely considered the turning point of the American Civil War",
+   "a": "What is the Battle of Gettysburg?",
+   "tier": 2
+  },
+  {
+   "id": "Q8740-curated",
+   "q": "In this Cold War-era conflict in Southeast Asia, the U.S. backed the South against a North supported by China and the Soviet Union",
+   "a": "What is the Vietnam War?",
+   "tier": 2
+  },
+  {
+   "id": "Q42761-curated",
+   "q": "This political affair began on June 17, 1972, when operatives tied to Richard Nixon's re-election campaign were caught burglarizing Democratic headquarters",
+   "a": "What is the Watergate scandal?",
+   "tier": 2
+  },
+  {
+   "id": "Q17550-curated",
+   "q": "Beginning January 24, 1848, when James W. Marshall made a discovery at Sutter's Mill, this event drew about 300,000 people west",
+   "a": "What is the California gold rush?",
+   "tier": 2
+  },
+  {
+   "id": "Q750448-curated",
+   "q": "This name is given to the forced removal of about 60,000 Cherokee, Muscogee, Seminole, Chickasaw and Choctaw people between 1830 and 1850",
+   "a": "What is the Trail of Tears?",
+   "tier": 2
+  },
+  {
+   "id": "Q868393-curated",
+   "q": "This secret network of routes and safe houses helped enslaved people escape to the Northern states and Canada",
+   "a": "What is the Underground Railroad?",
+   "tier": 2
+  },
+  {
+   "id": "Q875738-curated",
+   "q": "This landmark Supreme Court decision ruled that state laws segregating public schools violated the Fourteenth Amendment",
+   "a": "What is Brown v. Board of Education?",
+   "tier": 2
+  },
+  {
+   "id": "Q862765-curated",
+   "q": "This is the collective name for the first ten amendments to the U.S. Constitution, which guarantee freedoms such as free speech",
+   "a": "What is the Bill of Rights?",
+   "tier": 2
+  },
+  {
+   "id": "Q205304-curated",
+   "q": "This amendment to the U.S. Constitution, the culmination of a decades-long suffrage movement, recognized women's right to vote",
+   "a": "What is the Nineteenth Amendment?",
+   "tier": 2
+  },
+  {
+   "id": "Q327071-curated",
+   "q": "This Boston silversmith made a famous midnight ride in 1775 to warn minutemen that British troops were approaching",
+   "a": "Who is Paul Revere?",
+   "tier": 2
+  },
+  {
+   "id": "Q193406-curated",
+   "q": "This daughter of the Powhatan leader Wahunsenacawh is famous for her association with the English settlement at Jamestown, Virginia",
+   "a": "Who is Pocahontas?",
+   "tier": 2
+  },
+  {
+   "id": "Q187093-curated",
+   "q": "In 1620 this English merchant sailing ship carried the Pilgrims from England to the New World",
+   "a": "What is the Mayflower?",
+   "tier": 2
+  },
+  {
+   "id": "Q33866-curated",
+   "q": "This 26th U.S. president took office after William McKinley was assassinated and was the youngest person ever to be president",
+   "a": "Who is Theodore Roosevelt?",
+   "tier": 2
+  },
+  {
+   "id": "Q11817-curated",
+   "q": "This seventh U.S. president, who served from 1829 to 1837, first rose to fame as a U.S. Army general",
+   "a": "Who is Andrew Jackson?",
+   "tier": 3
+  },
+  {
+   "id": "Q11813-curated",
+   "q": "This fourth U.S. president is acclaimed as the \"Father of the Constitution\" for his role in drafting it and the Bill of Rights",
+   "a": "Who is James Madison?",
+   "tier": 3
+  },
+  {
+   "id": "Q11806-curated",
+   "q": "This second U.S. president served the Continental Congress as a senior diplomat in Europe during the Revolutionary War",
+   "a": "Who is John Adams?",
+   "tier": 3
+  },
+  {
+   "id": "Q43527-curated",
+   "q": "This Hunkpapa Lakota leader led his people during years of resistance against U.S. government policies",
+   "a": "Who is Sitting Bull?",
+   "tier": 3
+  },
+  {
+   "id": "Q311070-curated",
+   "q": "Called the \"King of the Wild Frontier\", this Tennessee congressman and frontiersman fought in the Texas Revolution",
+   "a": "Who is Davy Crockett?",
+   "tier": 3
+  },
+  {
+   "id": "Q316661-curated",
+   "q": "In 1775 this frontiersman blazed the Wilderness Road through the Cumberland Gap and into Kentucky",
+   "a": "Who is Daniel Boone?",
+   "tier": 3
+  },
+  {
+   "id": "Q205422-curated",
+   "q": "In this June 1876 battle in Montana Territory, Lakota, Northern Cheyenne and Arapaho forces defeated the U.S. 7th Cavalry",
+   "a": "What is the Battle of the Little Bighorn?",
+   "tier": 3
+  },
+  {
+   "id": "Q459447-curated",
+   "q": "Won by George Washington with French support in 1781, this siege was the final major land engagement of the Revolutionary War",
+   "a": "What is the Siege of Yorktown?",
+   "tier": 3
+  },
+  {
+   "id": "Q543165-curated",
+   "q": "This battle, a bombardment near Charleston, South Carolina, ended with a U.S. Army surrender and began the American Civil War",
+   "a": "What is the Battle of Fort Sumter?",
+   "tier": 3
+  },
+  {
+   "id": "Q26013-curated",
+   "q": "Ended by the Treaty of Ghent, this conflict saw the United States fight the United Kingdom during the wider Napoleonic Wars",
+   "a": "What is the War of 1812?",
+   "tier": 3
+  },
+  {
+   "id": "Q778010-curated",
+   "q": "Fought on April 19, 1775, these were the first major military actions between the British Army and Patriot militias",
+   "a": "What are the Battles of Lexington and Concord?",
+   "tier": 3
+  },
+  {
+   "id": "Q4576-curated",
+   "q": "Enacted in 1948, this American initiative sent $13.3 billion in aid to help Western Europe recover after World War II",
+   "a": "What is the Marshall Plan?",
+   "tier": 3
+  },
+  {
+   "id": "Q175613-curated",
+   "q": "Ratified in December 1865, this amendment made slavery illegal except as punishment for a crime",
+   "a": "What is the Thirteenth Amendment?",
+   "tier": 3
+  },
+  {
+   "id": "Q309029-curated",
+   "q": "In 1867 the United States bought this territory, then known as Russian America, for $7.2 million",
+   "a": "What is the Alaska Purchase?",
+   "tier": 3
+  },
+  {
+   "id": "Q128160-curated",
+   "q": "This 13-day standoff between the U.S. and the Soviet Union in October 1962 is considered the closest the Cold War came to nuclear war",
+   "a": "What is the Cuban Missile Crisis?",
+   "tier": 3
+  },
+  {
+   "id": "Q323813-curated",
+   "q": "Established in 1607 by the Virginia Company of London, this was the first permanent English settlement in the Americas",
+   "a": "What is Jamestown?",
+   "tier": 3
+  },
+  {
+   "id": "Q127050-curated",
+   "q": "This World War II research program, led by the U.S. with Britain and Canada, produced the first nuclear weapons",
+   "a": "What is the Manhattan Project?",
+   "tier": 3
+  },
+  {
+   "id": "Q102513-curated",
+   "q": "This abolitionist author wrote Uncle Tom's Cabin, a hugely popular novel about the harsh conditions of slavery",
+   "a": "Who is Harriet Beecher Stowe?",
+   "tier": 3
+  },
+  {
+   "id": "Q235344-curated",
+   "q": "After a 13-day siege in the Texas Revolution, Mexican troops under Santa Anna retook this mission near San Antonio",
+   "a": "What is the Battle of the Alamo?",
+   "tier": 3
+  },
+  {
+   "id": "Q249367-curated",
+   "q": "Beginning December 5, 1955, this Alabama protest campaign targeted racial segregation on the city's public transit system",
+   "a": "What is the Montgomery bus boycott?",
+   "tier": 3
+  },
+  {
+   "id": "Q181026-curated",
+   "q": "This U.S. foreign policy position opposes any foreign interference in the Western Hemisphere",
+   "a": "What is the Monroe Doctrine?",
+   "tier": 4
+  },
+  {
+   "id": "Q186356-curated",
+   "q": "This series of economic and social reforms under President Franklin D. Roosevelt responded to the Great Depression",
+   "a": "What is the New Deal?",
+   "tier": 4
+  },
+  {
+   "id": "Q585962-curated",
+   "q": "This landmark U.S. law outlaws discrimination based on race, color, religion, sex and national origin",
+   "a": "What is the Civil Rights Act of 1964?",
+   "tier": 4
+  },
+  {
+   "id": "Q105180-curated",
+   "q": "Born into slavery in New York, this abolitionist escaped with her infant daughter in 1826 and later won a court case to recover her son",
+   "a": "Who is Sojourner Truth?",
+   "tier": 4
+  },
+  {
+   "id": "Q690462-curated",
+   "q": "Widely considered the Supreme Court's worst decision, this case held that the Constitution did not extend citizenship to Black Americans",
+   "a": "What is Dred Scott v. Sandford?",
+   "tier": 4
+  },
+  {
+   "id": "Q727854-curated",
+   "q": "This legislation admitted Maine as a free state and banned slavery in Louisiana Purchase lands north of the 36°30′ parallel",
+   "a": "What is the Missouri Compromise?",
+   "tier": 4
+  },
+  {
+   "id": "Q334029-curated",
+   "q": "This June 17, 1775, battle during the siege of Boston is named for one Charlestown height, though most fighting was on a neighboring one",
+   "a": "What is the Battle of Bunker Hill?",
+   "tier": 4
+  },
+  {
+   "id": "Q173034-curated",
+   "q": "In June 1942, six months after Pearl Harbor, Japan's fleet suffered a decisive defeat by U.S. carriers in this Pacific naval battle",
+   "a": "What is the Battle of Midway?",
+   "tier": 4
+  },
+  {
+   "id": "Q6683-curated",
+   "q": "This war followed the 1845 U.S. annexation of Texas, which its southern neighbor still considered its own territory",
+   "a": "What is the Mexican–American War?",
+   "tier": 4
+  },
+  {
+   "id": "Q12583-curated",
+   "q": "This 1898 war began with the sinking of the USS Maine and ended with the U.S. acquiring Puerto Rico, Guam and the Philippines",
+   "a": "What is the Spanish–American War?",
+   "tier": 4
+  },
+  {
+   "id": "Q858036-curated",
+   "q": "Alexander Hamilton, James Madison and John Jay wrote these 85 essays under the pen name Publius to promote ratifying the Constitution",
+   "a": "What are the Federalist Papers?",
+   "tier": 4
+  },
+  {
+   "id": "Q179090-curated",
+   "q": "This third U.S. vice president is best remembered for killing Alexander Hamilton in a duel",
+   "a": "Who is Aaron Burr?",
+   "tier": 4
+  },
+  {
+   "id": "Q216124-curated",
+   "q": "This Confederate general played a prominent role in nearly all engagements in the Civil War's eastern theater until his death",
+   "a": "Who is Stonewall Jackson?",
+   "tier": 4
+  },
+  {
+   "id": "Q2791-curated",
+   "q": "From 1850 to 1886 this Apache military leader and medicine man fought against Mexican and U.S. military campaigns",
+   "a": "Who is Geronimo?",
+   "tier": 4
+  },
+  {
+   "id": "Q191721-curated",
+   "q": "In April 1961 this U.S.-financed landing by Cuban exiles opposed to Fidel Castro failed on Cuba's southwestern coast",
+   "a": "What is the Bay of Pigs Invasion?",
+   "tier": 4
+  },
+  {
+   "id": "Q623429-curated",
+   "q": "This period after the Civil War grappled with the abolition of slavery and the reintegration of the former Confederate states",
+   "a": "What is Reconstruction?",
+   "tier": 4
+  },
+  {
+   "id": "Q399999-curated",
+   "q": "From 1920 to 1933 this nationwide ban on alcoholic beverages was in force under the Eighteenth Amendment",
+   "a": "What is Prohibition?",
+   "tier": 4
+  },
+  {
+   "id": "Q493620-curated",
+   "q": "This agreement served as the nation's first constitution during the American Revolution, until it was superseded in 1789",
+   "a": "What are the Articles of Confederation?",
+   "tier": 4
+  },
+  {
+   "id": "Q862312-curated",
+   "q": "This 2,170-mile wagon route for emigrants ran from the Missouri River through present-day Kansas, Nebraska, Wyoming and Idaho",
+   "a": "What is the Oregon Trail?",
+   "tier": 4
+  },
+  {
+   "id": "Q726501-curated",
+   "q": "This period of severe drought and windblown soil storms damaged farmland across the High Plains, including the Oklahoma and Texas panhandles",
+   "a": "What is the Dust Bowl?",
+   "tier": 4
+  },
+  {
+   "id": "Q538242-curated",
+   "q": "This 1803 Supreme Court decision established the principle of judicial review",
+   "a": "What is Marbury v. Madison?",
+   "tier": 5
+  },
+  {
+   "id": "Q619762-curated",
+   "q": "Drafted by Senator Stephen A. Douglas and signed by Franklin Pierce in 1854, this act created two new territories",
+   "a": "What is the Kansas–Nebraska Act?",
+   "tier": 5
+  },
+  {
+   "id": "Q719252-curated",
+   "q": "Fought September 17, 1862, near Sharpsburg, Maryland, this battle pitted Robert E. Lee against Union general George McClellan",
+   "a": "What is the Battle of Antietam?",
+   "tier": 5
+  },
+  {
+   "id": "Q974556-curated",
+   "q": "Under these laws, 1.6 million settlers received more than 160 million acres of public land for free",
+   "a": "What are the Homestead Acts?",
+   "tier": 5
+  },
+  {
+   "id": "Q786008-curated",
+   "q": "Andrew Jackson signed this 1830 law providing for an exchange of lands and the relocation of tribes west of the Mississippi",
+   "a": "What is the Indian Removal Act?",
+   "tier": 5
+  },
+  {
+   "id": "Q3236296-curated",
+   "q": "In this 1920s corruption case of the Harding administration, Interior Secretary Albert B. Fall took bribes to lease government oil reserves",
+   "a": "What is the Teapot Dome scandal?",
+   "tier": 5
+  },
+  {
+   "id": "Q377542-curated",
+   "q": "From 1791 to 1794, this violent protest during Washington's presidency opposed the first federal tax on a domestic product",
+   "a": "What is the Whiskey Rebellion?",
+   "tier": 5
+  },
+  {
+   "id": "Q2736155-curated",
+   "q": "Held July 19–20, 1848, in a Wesleyan Chapel in upstate New York, this was the first women's rights gathering of its kind",
+   "a": "What is the Seneca Falls Convention?",
+   "tier": 5
+  },
+  {
+   "id": "Q622354-curated",
+   "q": "In 1858, the Republican and Democratic candidates for a U.S. Senate seat from Illinois met in this famous series of seven face-offs",
+   "a": "What are the Lincoln–Douglas debates?",
+   "tier": 5
+  },
+  {
+   "id": "Q6223430-curated",
+   "q": "In October 1859 an abolitionist and his party of 22 raided an armory in Virginia in this attempt to spark a slave revolt",
+   "a": "What is John Brown's raid on Harpers Ferry?",
+   "tier": 5
+  },
+  {
+   "id": "Q41894-curated",
+   "q": "Fought January 8, 1815, near Chalmette, Louisiana, this battle pitted Andrew Jackson's army against a British force",
+   "a": "What is the Battle of New Orleans?",
+   "tier": 5
+  },
+  {
+   "id": "Q846674-curated",
+   "q": "These 1777 clashes in New York ended with an entire British force taken captive and persuaded France to join the American side",
+   "a": "What are the Battles of Saratoga?",
+   "tier": 5
+  },
+  {
+   "id": "Q1052780-curated",
+   "q": "From November 15 to December 21, 1864, Union troops moved through Georgia from Atlanta to capture Savannah in this campaign",
+   "a": "What is Sherman's March to the Sea?",
+   "tier": 5
+  },
+  {
+   "id": "Q465335-curated",
+   "q": "This activist was the main force behind the 1848 Seneca Falls Convention and the primary author of its Declaration of Sentiments",
+   "a": "Who is Elizabeth Cady Stanton?",
+   "tier": 5
+  },
+  {
+   "id": "Q319630-curated",
+   "q": "This Kentucky statesman, the seventh Speaker of the House, ran unsuccessfully for president in 1824, 1832 and 1844",
+   "a": "Who is Henry Clay?",
+   "tier": 5
+  },
+  {
+   "id": "Q257808-curated",
+   "q": "This Shawnee chief formed a Native American confederacy and died in battle during the War of 1812",
+   "a": "Who is Tecumseh?",
+   "tier": 5
+  },
+  {
+   "id": "Q254478-curated",
+   "q": "This secretary of labor from 1933 to 1945 was the first woman ever to serve in a presidential cabinet",
+   "a": "Who is Frances Perkins?",
+   "tier": 5
+  },
+  {
+   "id": "Q232407-curated",
+   "q": "Elected to the House from Montana in 1916, this Republican was the first woman to hold federal office in the U.S.",
+   "a": "Who is Jeannette Rankin?",
+   "tier": 5
+  },
+  {
+   "id": "Q459578-curated",
+   "q": "Completed in 1825, this upstate New York waterway linked the Hudson River to the Great Lakes",
+   "a": "What is the Erie Canal?",
+   "tier": 5
+  },
+  {
+   "id": "Q217450-curated",
+   "q": "Signed September 3, 1783, this treaty officially ended the War of American Independence",
+   "a": "What is the Treaty of Paris?",
+   "tier": 5
+  }
+ ]
+}

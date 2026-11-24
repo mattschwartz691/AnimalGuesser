@@ -1,0 +1,607 @@
+{
+ "category": "Animals",
+ "slug": "animals",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q140-lead",
+   "q": "This large cat of the genus Panthera lives in sub-Saharan Africa and India; adult males have a prominent mane",
+   "a": "What is the lion?",
+   "tier": 1
+  },
+  {
+   "id": "Q19939-lead",
+   "q": "This large Asian cat has orange fur with black, mostly vertical stripes",
+   "a": "What is the tiger?",
+   "tier": 1
+  },
+  {
+   "id": "Q32789-lead",
+   "q": "These African equines have distinctive black-and-white striped coats, with a pattern unique to each individual",
+   "a": "What are zebras?",
+   "tier": 1
+  },
+  {
+   "id": "Q36101-lead",
+   "q": "Sometimes inaccurately called a bear, this tree-dwelling, plant-eating marsupial is native to Australia",
+   "a": "What is the koala?",
+   "tier": 1
+  },
+  {
+   "id": "Q33602-lead",
+   "q": "This bear species endemic to China has a white coat with black patches around the eyes, ears, legs and shoulders",
+   "a": "What is the giant panda?",
+   "tier": 1
+  },
+  {
+   "id": "Q33609-lead",
+   "q": "The largest bear and land carnivore, this white-furred animal with black skin is native to the Arctic",
+   "a": "What is the polar bear?",
+   "tier": 1
+  },
+  {
+   "id": "Q34505-lead",
+   "q": "This large semiaquatic mammal of sub-Saharan Africa gets its name from the Ancient Greek for \"river horse\"",
+   "a": "What is the hippopotamus?",
+   "tier": 1
+  },
+  {
+   "id": "Q23907-lead",
+   "q": "This spotted feline is the fastest land animal, capable of running 58 to 65 miles per hour",
+   "a": "What is the cheetah?",
+   "tier": 1
+  },
+  {
+   "id": "Q40152-lead",
+   "q": "This soft-bodied, eight-limbed mollusc can radically deform its shape to squeeze through small gaps",
+   "a": "What is an octopus?",
+   "tier": 1
+  },
+  {
+   "id": "Q42196-lead",
+   "q": "Reaching about 100 feet long, this baleen whale is the largest animal known to have ever existed",
+   "a": "What is the blue whale?",
+   "tier": 1
+  },
+  {
+   "id": "Q121439-lead",
+   "q": "This North American mammal, the largest of the procyonid family, has a grayish coat of dense underfur",
+   "a": "What is the raccoon?",
+   "tier": 1
+  },
+  {
+   "id": "Q123141-lead",
+   "q": "This freshwater fish in the carp family Cyprinidae is one of the most popular pets kept in indoor aquariums",
+   "a": "What is the goldfish?",
+   "tier": 1
+  },
+  {
+   "id": "Q47542-lead",
+   "q": "These large semiaquatic rodents have chisel-like incisors, webbed back feet and flat, scaly tails",
+   "a": "What are beavers?",
+   "tier": 1
+  },
+  {
+   "id": "Q14332-lead",
+   "q": "Often shortened to \"T. rex,\" this large theropod dinosaur lived in what is now western North America",
+   "a": "What is Tyrannosaurus?",
+   "tier": 1
+  },
+  {
+   "id": "Q1357-lead",
+   "q": "These air-breathing arthropods have eight limbs, fangs that can inject venom, and spinnerets that extrude silk",
+   "a": "What are spiders?",
+   "tier": 1
+  },
+  {
+   "id": "Q5070208-lead",
+   "q": "These marsupials, the largest being the red, are native to Australia and New Guinea",
+   "a": "What are kangaroos?",
+   "tier": 1
+  },
+  {
+   "id": "Q862089-lead",
+   "q": "These large African hoofed mammals are the tallest living land animals and the largest ruminants on Earth",
+   "a": "What are giraffes?",
+   "tier": 1
+  },
+  {
+   "id": "Q149069-lead",
+   "q": "This common toothed whale of the genus Tursiops inhabits warm and temperate seas worldwide",
+   "a": "What is the bottlenose dolphin?",
+   "tier": 1
+  },
+  {
+   "id": "Q36557-lead",
+   "q": "The largest living land animal, this species native to sub-Saharan Africa has a long trunk, large ears and curved tusks",
+   "a": "What is the African bush elephant?",
+   "tier": 1
+  },
+  {
+   "id": "Q53636-lead",
+   "q": "Members of the order Anura, these are short-bodied, tailless amphibians; rough-skinned ones are often called toads",
+   "a": "What are frogs?",
+   "tier": 1
+  },
+  {
+   "id": "Q36611-lead",
+   "q": "These large, mostly plant-eating great apes live in the tropical forests of equatorial Africa",
+   "a": "What are gorillas?",
+   "tier": 2
+  },
+  {
+   "id": "Q26843-lead",
+   "q": "Also called the killer whale, this black-and-white toothed whale is the largest member of the oceanic dolphin family",
+   "a": "What is the orca?",
+   "tier": 2
+  },
+  {
+   "id": "Q15343-lead",
+   "q": "Sometimes called \"duck-billed,\" this egg-laying semiaquatic mammal is endemic to eastern Australia",
+   "a": "What is the platypus?",
+   "tier": 2
+  },
+  {
+   "id": "Q35517-lead",
+   "q": "Also known as the elk, this is the world's tallest and heaviest species of deer, with broad, palmate antlers",
+   "a": "What is the moose?",
+   "tier": 2
+  },
+  {
+   "id": "Q40994-lead",
+   "q": "This large Arctic marine mammal is the only living species in the family Odobenidae",
+   "a": "What is the walrus?",
+   "tier": 2
+  },
+  {
+   "id": "Q35255-lead",
+   "q": "Also called puma, mountain lion and panther, this big cat is the most widely distributed wild land mammal in the Western Hemisphere",
+   "a": "What is the cougar?",
+   "tier": 2
+  },
+  {
+   "id": "Q44299-lead",
+   "q": "Also known as the prairie wolf, this North American canine is smaller than its close relative, the gray wolf",
+   "a": "What is the coyote?",
+   "tier": 2
+  },
+  {
+   "id": "Q37686-lead",
+   "q": "These highly specialized Old World lizards are best known for their color-shifting camouflage",
+   "a": "What are chameleons?",
+   "tier": 2
+  },
+  {
+   "id": "Q41692-lead",
+   "q": "This domestic hybrid is the offspring of a male donkey and a female horse",
+   "a": "What is a mule?",
+   "tier": 2
+  },
+  {
+   "id": "Q19125-lead",
+   "q": "These predatory arachnids have grasping pincers and a segmented tail that always ends with a stinger",
+   "a": "What are scorpions?",
+   "tier": 2
+  },
+  {
+   "id": "Q35694-lead",
+   "q": "This big cat is the only living member of the genus Panthera native to the Americas",
+   "a": "What is the jaguar?",
+   "tier": 2
+  },
+  {
+   "id": "Q129026-lead",
+   "q": "Closely related to the mako sharks and the porbeagle, this large shark is one of the biggest living fish, though smaller than the whale shark",
+   "a": "What is the great white shark?",
+   "tier": 2
+  },
+  {
+   "id": "Q39624-lead",
+   "q": "Also called caribou, this deer of the Arctic and subarctic is the only representative of the genus Rangifer",
+   "a": "What is the reindeer?",
+   "tier": 2
+  },
+  {
+   "id": "Q43604020-lead",
+   "q": "These New World mammals with warning coloration can spray a liquid with a strong, unpleasant scent",
+   "a": "What are skunks?",
+   "tier": 2
+  },
+  {
+   "id": "Q1223829-lead",
+   "q": "These large rodents have coats of sharp spines, or quills, made of keratin that protect them from predators",
+   "a": "What are porcupines?",
+   "tier": 2
+  },
+  {
+   "id": "Q6120-lead",
+   "q": "This spiny mammal lives in Europe, Asia and Africa; no living species of it is native to Australia or the Americas",
+   "a": "What is a hedgehog?",
+   "tier": 2
+  },
+  {
+   "id": "Q2274076-lead",
+   "q": "Noted for slow movement, the tree-dwelling species of these mammals hang upside down in Central and South American rainforests",
+   "a": "What are sloths?",
+   "tier": 2
+  },
+  {
+   "id": "Q104840543-lead",
+   "q": "These armored mammals of the Americas are related to anteaters and sloths; some species are told apart by the number of bands",
+   "a": "What are armadillos?",
+   "tier": 2
+  },
+  {
+   "id": "Q14388-lead",
+   "q": "This Late Jurassic plant-eating dinosaur had kite-shaped upright plates along its back and spikes on its tail",
+   "a": "What is Stegosaurus?",
+   "tier": 2
+  },
+  {
+   "id": "Q14384-lead",
+   "q": "Its name means \"three-horned face\"; this was one of the last non-avian dinosaurs, living until 66 million years ago",
+   "a": "What is Triceratops?",
+   "tier": 2
+  },
+  {
+   "id": "Q546583-lead",
+   "q": "Sometimes called \"white ants,\" these wood-eating social insects are actually highly derived cockroaches",
+   "a": "What are termites?",
+   "tier": 3
+  },
+  {
+   "id": "Q41960-lead",
+   "q": "Also known as the lesser panda, this small reddish-brown mammal with a ringed tail is native to the eastern Himalayas",
+   "a": "What is the red panda?",
+   "tier": 3
+  },
+  {
+   "id": "Q30197-lead",
+   "q": "This whitish-gray spotted cat has a thick, bushy tail and broad paws adapted to cold, mountainous environments",
+   "a": "What is the snow leopard?",
+   "tier": 3
+  },
+  {
+   "id": "Q14334-lead",
+   "q": "The largest land-dwelling member of the weasel family, this solitary carnivore has a reputation for ferocity out of proportion to its size",
+   "a": "What is the wolverine?",
+   "tier": 3
+  },
+  {
+   "id": "Q82738-lead",
+   "q": "Also called the white fox, polar fox or snow fox, this small canine of the far north has thick fur that camouflages it against snow in winter",
+   "a": "What is the Arctic fox?",
+   "tier": 3
+  },
+  {
+   "id": "Q46212-lead",
+   "q": "This medium-sized, burrowing, nocturnal African mammal is the only living member of the order Tubulidentata",
+   "a": "What is the aardvark?",
+   "tier": 3
+  },
+  {
+   "id": "Q4504-lead",
+   "q": "Endemic to a handful of Indonesian islands, this monitor is the largest living species of lizard",
+   "a": "What is the Komodo dragon?",
+   "tier": 3
+  },
+  {
+   "id": "Q131538-lead",
+   "q": "Native to every South American country except Chile, this semiaquatic grass-eater is the largest living rodent",
+   "a": "What is the capybara?",
+   "tier": 3
+  },
+  {
+   "id": "Q74363-lead",
+   "q": "This small marine fish of the genus Hippocampus swims with an upright posture and has a curled, grasping tail",
+   "a": "What is a seahorse?",
+   "tier": 3
+  },
+  {
+   "id": "Q36715-lead",
+   "q": "These extinct relatives of elephants had spirally twisted tusks; some species were adapted to cold environments",
+   "a": "What are mammoths?",
+   "tier": 3
+  },
+  {
+   "id": "Q42569-lead",
+   "q": "This domesticated South American camelid has been used as a meat and pack animal by Andean cultures since pre-Columbian times",
+   "a": "What is the llama?",
+   "tier": 3
+  },
+  {
+   "id": "Q159426-lead",
+   "q": "Males of this Arctic toothed whale have a spiraled tusk, actually a protruding left canine, up to about 10 feet long",
+   "a": "What is the narwhal?",
+   "tier": 3
+  },
+  {
+   "id": "Q42797-lead",
+   "q": "Sometimes known as sea cows, these large, fully aquatic, mostly plant-eating mammals have paddle-like tails",
+   "a": "What are manatees?",
+   "tier": 3
+  },
+  {
+   "id": "Q134015-lead",
+   "q": "Also called the suricate, this small mongoose of southern Africa has foreclaws adapted for digging",
+   "a": "What is the meerkat?",
+   "tier": 3
+  },
+  {
+   "id": "Q22718-lead",
+   "q": "This mole salamander reaches adulthood without metamorphosis, remaining fully aquatic with obvious external gills",
+   "a": "What is the axolotl?",
+   "tier": 3
+  },
+  {
+   "id": "Q134964-lead",
+   "q": "The size of a small dog, this black-furred marsupial became the world's largest carnivorous marsupial after the thylacine died out",
+   "a": "What is the Tasmanian devil?",
+   "tier": 3
+  },
+  {
+   "id": "Q23175-lead",
+   "q": "These short-legged, muscular marsupials of southern and eastern Australia have small, stubby tails",
+   "a": "What are wombats?",
+   "tier": 3
+  },
+  {
+   "id": "Q82037-lead",
+   "q": "Also called the forest giraffe, this striped mammal is endemic to the Democratic Republic of the Congo",
+   "a": "What is the okapi?",
+   "tier": 3
+  },
+  {
+   "id": "Q2191516-lead",
+   "q": "Also called scaly anteaters, these mammals of the order Pholidota live in Asia and sub-Saharan Africa",
+   "a": "What are pangolins?",
+   "tier": 3
+  },
+  {
+   "id": "Q14403-lead",
+   "q": "This small dromaeosaurid dinosaur lived in Asia about 75 to 71 million years ago; its type species was found in Mongolia",
+   "a": "What is Velociraptor?",
+   "tier": 3
+  },
+  {
+   "id": "Q80479-lead",
+   "q": "This small carnivorous mammal of the family Herpestidae is native to southern Europe, Africa and Asia",
+   "a": "What is a mongoose?",
+   "tier": 4
+  },
+  {
+   "id": "Q42046-lead",
+   "q": "With just four living species, the family of these African carnivores is one of the smallest in the class Mammalia",
+   "a": "What are hyenas?",
+   "tier": 4
+  },
+  {
+   "id": "Q30847-lead",
+   "q": "This wild cat of Africa and Asia has long legs, a sandy or reddish-tan coat and long, tufted ears",
+   "a": "What is the caracal?",
+   "tier": 4
+  },
+  {
+   "id": "Q25345-lead",
+   "q": "This mustelid is also called an ermine, especially in its pure white winter coat once worn by monarchs",
+   "a": "What is the stoat?",
+   "tier": 4
+  },
+  {
+   "id": "Q71516-lead",
+   "q": "Making up most of the world's camels, this tallest camel species has a long curved neck and a single hump",
+   "a": "What is the dromedary?",
+   "tier": 4
+  },
+  {
+   "id": "Q59166-lead",
+   "q": "These ancient lobe-finned fish are more closely related to lungfish and tetrapods than to ray-finned fish; one genus, Latimeria, survives",
+   "a": "What are coelacanths?",
+   "tier": 4
+  },
+  {
+   "id": "Q1329239-lead",
+   "q": "Despite the name, these arthropods of the family Limulidae are not crustaceans but relatives of spiders and scorpions",
+   "a": "What is the horseshoe crab?",
+   "tier": 4
+  },
+  {
+   "id": "Q276290-lead",
+   "q": "Also known as the sand puppy, this burrowing rodent is native to the Horn of Africa and parts of Kenya",
+   "a": "What is the naked mole-rat?",
+   "tier": 4
+  },
+  {
+   "id": "Q131564-lead",
+   "q": "The smallest fox species, this native of North African deserts has unusually large ears that shed heat",
+   "a": "What is the fennec fox?",
+   "tier": 4
+  },
+  {
+   "id": "Q186778-lead",
+   "q": "This long-fingered lemur of Madagascar has ever-growing, rodent-like teeth and a special thin middle finger for extracting grubs from tree trunks",
+   "a": "What is the aye-aye?",
+   "tier": 4
+  },
+  {
+   "id": "Q129544-lead",
+   "q": "This marine mammal is the only living member of its family; its closest modern relative, Steller's sea cow, was hunted to extinction",
+   "a": "What is the dugong?",
+   "tier": 4
+  },
+  {
+   "id": "Q1114471-lead",
+   "q": "All living species of these haplorhine primates are native to Maritime Southeast Asia, mainly Brunei, Indonesia, Malaysia and the Philippines",
+   "a": "What are tarsiers?",
+   "tier": 4
+  },
+  {
+   "id": "Q726151-lead",
+   "q": "About the size of a house cat, this plant-eating, mainly nocturnal Australian macropod is the only member of the genus Setonix",
+   "a": "What is the quokka?",
+   "tier": 4
+  },
+  {
+   "id": "Q19537-lead",
+   "q": "Historically called the pygmy chimpanzee, this is the smallest species of great ape",
+   "a": "What is the bonobo?",
+   "tier": 4
+  },
+  {
+   "id": "Q21824-lead",
+   "q": "Sometimes called spiny anteaters, these quill-covered mammals of Australia and New Guinea are, with the platypus, the only living mammals that lay eggs",
+   "a": "What are echidnas?",
+   "tier": 4
+  },
+  {
+   "id": "Q123102-lead",
+   "q": "Also known as the Tasmanian tiger or Tasmanian wolf, this extinct carnivorous marsupial once lived in Australia, Tasmania and New Guinea",
+   "a": "What is the thylacine?",
+   "tier": 4
+  },
+  {
+   "id": "Q188717-lead",
+   "q": "Commonly called the saber-toothed tiger, this extinct cat was not closely related to the tiger or other modern cats",
+   "a": "What is Smilodon?",
+   "tier": 4
+  },
+  {
+   "id": "Q187943-lead",
+   "q": "Though not an antelope, this mammal of western and central North America is colloquially called the American antelope",
+   "a": "What is the pronghorn?",
+   "tier": 4
+  },
+  {
+   "id": "Q163283-lead",
+   "q": "Endemic to New Zealand, this lizard-like reptile is the only living member of the order Rhynchocephalia; its Maori name means \"peaks on the back\"",
+   "a": "What is the tuatara?",
+   "tier": 4
+  },
+  {
+   "id": "Q207058-lead",
+   "q": "Native to the Southwestern U.S. and Sonora, Mexico, this heavy, slow-moving reptile is the only venomous lizard native to the United States",
+   "a": "What is the Gila monster?",
+   "tier": 4
+  },
+  {
+   "id": "Q122069-lead",
+   "q": "This small reddish and gray-brown deer, well adapted to cold, ranges from the Mediterranean to Scandinavia and east to northern Iran",
+   "a": "What is the roe deer?",
+   "tier": 5
+  },
+  {
+   "id": "Q334855-lead",
+   "q": "These carnivorous marine crustaceans of the order Stomatopoda, with more than 520 living species, are major predators in shallow tropical waters",
+   "a": "What is the mantis shrimp?",
+   "tier": 5
+  },
+  {
+   "id": "Q213141-lead",
+   "q": "Also known as the bearcat, this tree-dwelling viverrid of South and Southeast Asia has popcorn-scented musk glands and a prehensile tail",
+   "a": "What is the binturong?",
+   "tier": 5
+  },
+  {
+   "id": "Q254630-lead",
+   "q": "Also known as the honey bear, this tree-dwelling relative of raccoons and coatis is the only member of the genus Potos",
+   "a": "What is the kinkajou?",
+   "tier": 5
+  },
+  {
+   "id": "Q183330-lead",
+   "q": "This slender, long-tailed, cat-like carnivore of the family Eupleridae is endemic to Madagascar",
+   "a": "What is the fossa?",
+   "tier": 5
+  },
+  {
+   "id": "Q126683-lead",
+   "q": "This antelope of the Eurasian steppe once ranged across the mammoth steppe from the British Isles to Beringia during the Pleistocene",
+   "a": "What is the saiga?",
+   "tier": 5
+  },
+  {
+   "id": "Q187927-lead",
+   "q": "This large wild goat lives in the mountains where Central and South Asia meet, including the Karakoram and Himalayas",
+   "a": "What is the markhor?",
+   "tier": 5
+  },
+  {
+   "id": "Q193469-lead",
+   "q": "This large ungulate of the goat-antelope subfamily Caprinae lives in the eastern Himalayas; one subspecies is named for Bhutan",
+   "a": "What is the takin?",
+   "tier": 5
+  },
+  {
+   "id": "Q15856-lead",
+   "q": "These aquatic salamanders of the genus Proteus are the only exclusively cave-dwelling chordates in Europe",
+   "a": "What are olms?",
+   "tier": 5
+  },
+  {
+   "id": "Q369467-lead",
+   "q": "Endemic to the eastern and central United States, this aquatic giant salamander is the largest salamander in North America",
+   "a": "What is the hellbender?",
+   "tier": 5
+  },
+  {
+   "id": "Q242419-lead",
+   "q": "Also known as the noombat, this daytime-active marsupial eats almost nothing but termites",
+   "a": "What is the numbat?",
+   "tier": 5
+  },
+  {
+   "id": "Q192029-lead",
+   "q": "Endemic to Borneo's mangrove forests, this reddish-brown Old World monkey has an unusually large nose",
+   "a": "What is the proboscis monkey?",
+   "tier": 5
+  },
+  {
+   "id": "Q828079-lead",
+   "q": "These amphibious gobies can survive for long periods both in and out of water and move about on land by jumping",
+   "a": "What are mudskippers?",
+   "tier": 5
+  },
+  {
+   "id": "Q15207743-lead",
+   "q": "These tropical fish are known for \"shooting down\" insects on land with jets of water spit from their specialized mouths",
+   "a": "What are archerfish?",
+   "tier": 5
+  },
+  {
+   "id": "Q193400-lead",
+   "q": "The third-largest antelope, this forest dweller of sub-Saharan Africa has a reddish-brown coat with white-yellow stripes and spiraled horns",
+   "a": "What is the bongo?",
+   "tier": 5
+  },
+  {
+   "id": "Q166794-lead",
+   "q": "Also called the manul, this small wild cat has long, dense light-gray fur and rounded ears set low on the sides of its head",
+   "a": "What is Pallas's cat?",
+   "tier": 5
+  },
+  {
+   "id": "Q320665-lead",
+   "q": "Also called the mountain devil or moloch, this lizard endemic to Australia is the sole species in its genus",
+   "a": "What is the thorny devil?",
+   "tier": 5
+  },
+  {
+   "id": "Q725493-lead",
+   "q": "Endemic to the northern Gulf of California, this critically endangered porpoise is the smallest of all living cetaceans",
+   "a": "What is the vaquita?",
+   "tier": 5
+  },
+  {
+   "id": "Q184389-lead",
+   "q": "This large South American canine has markings like a red fox's but is neither a fox nor a wolf",
+   "a": "What is the maned wolf?",
+   "tier": 5
+  },
+  {
+   "id": "Q17134-lead",
+   "q": "Males of this long-snouted, fish-eating crocodilian have a bulb on the snout resembling an earthenware pot called a ghara",
+   "a": "What is the gharial?",
+   "tier": 5
+  }
+ ]
+}

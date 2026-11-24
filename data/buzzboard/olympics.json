@@ -1,0 +1,308 @@
+{
+ "category": "The Olympics",
+ "slug": "olympics",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "olympics-01",
+   "q": "The Olympic flag shows this many interlocking rings",
+   "a": "What is five?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-02",
+   "q": "The ancient Olympic Games were held in this country starting more than 2,700 years ago",
+   "a": "What is Greece?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-03",
+   "q": "This American swimmer won a record eight gold medals at the 2008 Beijing Games",
+   "a": "Who is Michael Phelps?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-04",
+   "q": "This Jamaican sprinter won the Olympic 100 meters three straight times, in 2008, 2012 and 2016",
+   "a": "Who is Usain Bolt?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-05",
+   "q": "Before each Games, a flame lit in Greece is passed from runner to runner on its way to the host city in this event",
+   "a": "What is the torch relay?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-06",
+   "q": "The Summer Olympics are normally held once every this many years",
+   "a": "What is four?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-07",
+   "q": "This European capital hosted the 2024 Summer Olympics, with beach volleyball near the Eiffel Tower",
+   "a": "What is Paris?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-08",
+   "q": "This American gymnast won four gold medals at the 2016 Rio Games, including the all-around",
+   "a": "Who is Simone Biles?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-09",
+   "q": "This board sport with four wheels made its Olympic debut at the Tokyo Games, with street and park events",
+   "a": "What is skateboarding?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-10",
+   "q": "This California city has been chosen to host the 2028 Summer Olympics",
+   "a": "What is Los Angeles?",
+   "tier": 1
+  },
+  {
+   "id": "olympics-11",
+   "q": "The first modern Olympic Games were held in 1896 in this city",
+   "a": "What is Athens?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-12",
+   "q": "This American sprinter and long jumper won four gold medals at the 1936 Berlin Olympics",
+   "a": "Who is Jesse Owens?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-13",
+   "q": "This nickname was given to the U.S. hockey team's stunning upset of the Soviet Union at the 1980 Winter Games",
+   "a": "What is the Miracle on Ice?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-14",
+   "q": "This two-day track and field contest for men is made up of 10 events",
+   "a": "What is the decathlon?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-15",
+   "q": "In this Winter Olympic sport, teammates sweep the ice in front of a sliding granite stone",
+   "a": "What is curling?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-16",
+   "q": "This 26.2-mile race honors the legend of a Greek messenger who ran to announce a victory over the Persians",
+   "a": "What is the marathon?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-17",
+   "q": "Featuring B-boys and B-girls, this street-dance sport made its Olympic debut at the 2024 Paris Games",
+   "a": "What is breaking?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-18",
+   "q": "Nicknamed 'The Flying Tomato,' this snowboarder won halfpipe gold in 2006, 2010 and 2018",
+   "a": "Who is Shaun White?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-19",
+   "q": "In 2016 this Brazilian city hosted the first Olympics ever held in South America",
+   "a": "What is Rio de Janeiro?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-20",
+   "q": "Its Summer Games were postponed by the COVID-19 pandemic and held in 2021 while still being called '2020'",
+   "a": "What is Tokyo?",
+   "tier": 2
+  },
+  {
+   "id": "olympics-21",
+   "q": "This French baron founded the International Olympic Committee and revived the Games in the 1890s",
+   "a": "Who is Pierre de Coubertin?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-22",
+   "q": "The Olympic motto 'Citius, Altius, Fortius' is Latin for 'Faster, Higher' and this",
+   "a": "What is Stronger?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-23",
+   "q": "At age 14, this Romanian gymnast scored the first perfect 10 in Olympic gymnastics at the 1976 Montreal Games",
+   "a": "Who is Nadia Comăneci?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-24",
+   "q": "At the 1984 Los Angeles Games, this American matched Jesse Owens by winning four track and field golds",
+   "a": "Who is Carl Lewis?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-25",
+   "q": "The debut of Jamaica's bobsled team at the 1988 Winter Games in this Canadian city inspired the movie 'Cool Runnings'",
+   "a": "What is Calgary?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-26",
+   "q": "This backward, head-first high-jump technique is named for the American who used it to win gold in 1968",
+   "a": "What is the Fosbury Flop?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-27",
+   "q": "At the 1996 Atlanta Games, this U.S. gymnast landed a vault on an injured ankle to help her team win gold",
+   "a": "Who is Kerri Strug?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-28",
+   "q": "This major international competition for athletes with disabilities is held in the same host city shortly after the Olympics",
+   "a": "What are the Paralympics?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-29",
+   "q": "Known as 'Flo-Jo,' this American sprinter won three gold medals at the 1988 Seoul Games",
+   "a": "Who is Florence Griffith Joyner?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-30",
+   "q": "In 2022 this city became the first to have hosted both the Summer and the Winter Olympics",
+   "a": "What is Beijing?",
+   "tier": 3
+  },
+  {
+   "id": "olympics-31",
+   "q": "This country led a boycott of the 1984 Los Angeles Olympics, four years after the U.S. boycotted its Games",
+   "a": "What is the Soviet Union?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-32",
+   "q": "The Summer and Winter Games were last held in the same calendar year in this year",
+   "a": "What is 1992?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-33",
+   "q": "The first Winter Olympics were held in 1924 in this French Alps town at the foot of Mont Blanc",
+   "a": "What is Chamonix?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-34",
+   "q": "At the 1968 Mexico City Games, this American long jumper smashed the world record by about 55 centimeters",
+   "a": "Who is Bob Beamon?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-35",
+   "q": "The ancient Games were held at this sanctuary of Zeus in the western Peloponnese",
+   "a": "What is Olympia?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-36",
+   "q": "Olympic 'gold' medals are actually made mostly of this metal",
+   "a": "What is silver?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-37",
+   "q": "Wearing gold-colored shoes, this American became the first man to win both the 200 and 400 meters at one Games, in 1996",
+   "a": "Who is Michael Johnson?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-38",
+   "q": "This American speed skater won all five men's speed skating events at the 1980 Winter Games",
+   "a": "Who is Eric Heiden?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-39",
+   "q": "After lighting the cauldron at the 2000 Sydney Games, this Aboriginal Australian runner won the 400 meters",
+   "a": "Who is Cathy Freeman?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-40",
+   "q": "In 1960 this Ethiopian won the Olympic marathon in Rome running barefoot",
+   "a": "Who is Abebe Bikila?",
+   "tier": 4
+  },
+  {
+   "id": "olympics-41",
+   "q": "Nicknamed 'The Flying Finn,' this distance runner won nine Olympic gold medals in the 1920s",
+   "a": "Who is Paavo Nurmi?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-42",
+   "q": "Nicknamed 'The Flying Housewife,' this Dutch mother of two won four track golds at the 1948 London Games",
+   "a": "Who is Fanny Blankers-Koen?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-43",
+   "q": "This Norwegian figure skater won three straight Olympic titles from 1928 to 1936 before becoming a Hollywood star",
+   "a": "Who is Sonja Henie?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-44",
+   "q": "Before Michael Phelps passed her in 2012, this Soviet gymnast held the record for most Olympic medals, with 18",
+   "a": "Who is Larisa Latynina?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-45",
+   "q": "At the 1900 Paris Games, this British tennis player became the first woman to win an individual Olympic title",
+   "a": "Who is Charlotte Cooper?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-46",
+   "q": "This upstate New York village hosted the Winter Olympics twice, in 1932 and 1980",
+   "a": "What is Lake Placid?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-47",
+   "q": "Introduced at the 1912 Stockholm Games, this event has combined fencing, swimming, horse riding, running and pistol shooting",
+   "a": "What is the modern pentathlon?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-48",
+   "q": "Sometimes called 'horse ballet,' this equestrian event judges a horse and rider's precise, graceful movements",
+   "a": "What is dressage?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-49",
+   "q": "In 1904 this Missouri city, also hosting a World's Fair, staged the first Olympics held in the United States",
+   "a": "What is St. Louis?",
+   "tier": 5
+  },
+  {
+   "id": "olympics-50",
+   "q": "This American discus thrower won gold at four straight Olympics, from 1956 to 1968",
+   "a": "Who is Al Oerter?",
+   "tier": 5
+  }
+ ]
+}

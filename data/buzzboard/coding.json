@@ -1,0 +1,308 @@
+{
+ "category": "Computers & Coding",
+ "slug": "coding",
+ "group": "Tech",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "coding-01",
+   "q": "This three-letter acronym names a computer's main processor, often called its brain",
+   "a": "What is the CPU?",
+   "tier": 1
+  },
+  {
+   "id": "coding-02",
+   "q": "This programming language was named after a British comedy troupe, not a snake",
+   "a": "What is Python?",
+   "tier": 1
+  },
+  {
+   "id": "coding-03",
+   "q": "This free block-based coding language from MIT has an orange cat as its mascot",
+   "a": "What is Scratch?",
+   "tier": 1
+  },
+  {
+   "id": "coding-04",
+   "q": "Computers store data in this base-2 number system, which uses only the digits 0 and 1",
+   "a": "What is binary?",
+   "tier": 1
+  },
+  {
+   "id": "coding-05",
+   "q": "This kind of short-term computer memory stands for Random Access Memory",
+   "a": "What is RAM?",
+   "tier": 1
+  },
+  {
+   "id": "coding-06",
+   "q": "On a Windows PC, this keyboard shortcut copies selected text",
+   "a": "What is Ctrl+C?",
+   "tier": 1
+  },
+  {
+   "id": "coding-07",
+   "q": "This code used to structure web pages stands for HyperText Markup Language",
+   "a": "What is HTML?",
+   "tier": 1
+  },
+  {
+   "id": "coding-08",
+   "q": "This unit of digital information is made up of 8 bits",
+   "a": "What is a byte?",
+   "tier": 1
+  },
+  {
+   "id": "coding-09",
+   "q": "In code, this is a named container that stores a value, like x in x = 5",
+   "a": "What is a variable?",
+   "tier": 1
+  },
+  {
+   "id": "coding-10",
+   "q": "This programming structure repeats a block of code, as in \"for\" or \"while\"",
+   "a": "What is a loop?",
+   "tier": 1
+  },
+  {
+   "id": "coding-11",
+   "q": "She published notes in 1843 that include what is often called the first computer program, written for the Analytical Engine",
+   "a": "Who is Ada Lovelace?",
+   "tier": 2
+  },
+  {
+   "id": "coding-12",
+   "q": "This British mathematician helped break German codes at Bletchley Park and proposed a famous test of machine intelligence",
+   "a": "Who is Alan Turing?",
+   "tier": 2
+  },
+  {
+   "id": "coding-13",
+   "q": "This open-source operating system kernel, first released in 1991, has a penguin mascot named Tux",
+   "a": "What is Linux?",
+   "tier": 2
+  },
+  {
+   "id": "coding-14",
+   "q": "Brendan Eich created this web programming language in about 10 days in 1995",
+   "a": "What is JavaScript?",
+   "tier": 2
+  },
+  {
+   "id": "coding-15",
+   "q": "This classic phrase is traditionally the output of a beginner's very first program",
+   "a": "What is \"Hello, World!\"?",
+   "tier": 2
+  },
+  {
+   "id": "coding-16",
+   "q": "This term describes software whose code is freely available for anyone to view, change and share",
+   "a": "What is open source?",
+   "tier": 2
+  },
+  {
+   "id": "coding-17",
+   "q": "This acronym on computer ports stands for Universal Serial Bus",
+   "a": "What is USB?",
+   "tier": 2
+  },
+  {
+   "id": "coding-18",
+   "q": "This word for one of the tiny dots that make up a screen image is short for \"picture element\"",
+   "a": "What is a pixel?",
+   "tier": 2
+  },
+  {
+   "id": "coding-19",
+   "q": "A moth found stuck in a relay of the Harvard Mark II computer in 1947 is a famous early example of this kind of glitch",
+   "a": "What is a bug?",
+   "tier": 2
+  },
+  {
+   "id": "coding-20",
+   "q": "This feared millennium glitch involved computers storing years with only two digits",
+   "a": "What is the Y2K problem?",
+   "tier": 2
+  },
+  {
+   "id": "coding-21",
+   "q": "This U.S. Navy rear admiral created one of the first compilers and helped shape the language COBOL",
+   "a": "Who is Grace Hopper?",
+   "tier": 3
+  },
+  {
+   "id": "coding-22",
+   "q": "Completed in 1945, this room-sized U.S. Army machine is often called the first general-purpose electronic computer",
+   "a": "What is ENIAC?",
+   "tier": 3
+  },
+  {
+   "id": "coding-23",
+   "q": "This word for a step-by-step procedure comes from the name of the 9th-century Persian mathematician al-Khwarizmi",
+   "a": "What is an algorithm?",
+   "tier": 3
+  },
+  {
+   "id": "coding-24",
+   "q": "This 1965 prediction says the number of transistors on a chip keeps doubling, about every two years",
+   "a": "What is Moore's law?",
+   "tier": 3
+  },
+  {
+   "id": "coding-25",
+   "q": "In the 1820s this English mathematician began building his Difference Engine, a mechanical calculator",
+   "a": "Who is Charles Babbage?",
+   "tier": 3
+  },
+  {
+   "id": "coding-26",
+   "q": "Linus Torvalds created this version-control system in 2005; a popular code-hosting site is named after it",
+   "a": "What is Git?",
+   "tier": 3
+  },
+  {
+   "id": "coding-27",
+   "q": "This IBM computer defeated world chess champion Garry Kasparov in a 1997 match",
+   "a": "What is Deep Blue?",
+   "tier": 3
+  },
+  {
+   "id": "coding-28",
+   "q": "This kind of program translates source code written in a language like C into machine code",
+   "a": "What is a compiler?",
+   "tier": 3
+  },
+  {
+   "id": "coding-29",
+   "q": "This technique, in which a function calls itself, is the subject of a famous search-engine joke: \"Did you mean...\"",
+   "a": "What is recursion?",
+   "tier": 3
+  },
+  {
+   "id": "coding-30",
+   "q": "Named after a 19th-century English mathematician, this data type can only be true or false",
+   "a": "What is a Boolean?",
+   "tier": 3
+  },
+  {
+   "id": "coding-31",
+   "q": "Developed by John Backus's team at IBM in the 1950s, this was one of the first high-level programming languages",
+   "a": "What is FORTRAN?",
+   "tier": 4
+  },
+  {
+   "id": "coding-32",
+   "q": "Created by Dennis Ritchie at Bell Labs in the early 1970s, this hugely influential language has a one-letter name",
+   "a": "What is C?",
+   "tier": 4
+  },
+  {
+   "id": "coding-33",
+   "q": "Ken Thompson and Dennis Ritchie began developing this operating system at Bell Labs in 1969",
+   "a": "What is Unix?",
+   "tier": 4
+  },
+  {
+   "id": "coding-34",
+   "q": "She led the team that wrote the onboard flight software for NASA's Apollo missions",
+   "a": "Who is Margaret Hamilton?",
+   "tier": 4
+  },
+  {
+   "id": "coding-35",
+   "q": "This 7-bit character code from the 1960s assigns the capital letter A the number 65",
+   "a": "What is ASCII?",
+   "tier": 4
+  },
+  {
+   "id": "coding-36",
+   "q": "This database language, often pronounced \"sequel\", is used to query and manage data in tables",
+   "a": "What is SQL?",
+   "tier": 4
+  },
+  {
+   "id": "coding-37",
+   "q": "Written like O(n log n), this describes how an algorithm's running time grows as its input gets bigger",
+   "a": "What is Big O notation?",
+   "tier": 4
+  },
+  {
+   "id": "coding-38",
+   "q": "This last-in, first-out data structure works like a pile of plates",
+   "a": "What is a stack?",
+   "tier": 4
+  },
+  {
+   "id": "coding-39",
+   "q": "This standard aims to give every character in every writing system its own code, including emoji",
+   "a": "What is Unicode?",
+   "tier": 4
+  },
+  {
+   "id": "coding-40",
+   "q": "This base-16 number system uses the digits 0 through 9 plus the letters A through F",
+   "a": "What is hexadecimal?",
+   "tier": 4
+  },
+  {
+   "id": "coding-41",
+   "q": "This memory-safe systems language, which reached version 1.0 in 2015, has an unofficial crab mascot named Ferris",
+   "a": "What is Rust?",
+   "tier": 5
+  },
+  {
+   "id": "coding-42",
+   "q": "This German engineer completed the Z3 in 1941, the first working programmable, fully automatic digital computer",
+   "a": "Who is Konrad Zuse?",
+   "tier": 5
+  },
+  {
+   "id": "coding-43",
+   "q": "Built for British codebreakers in 1943 to 1945, these machines are regarded as the first programmable, electronic, digital computers",
+   "a": "What is Colossus?",
+   "tier": 5
+  },
+  {
+   "id": "coding-44",
+   "q": "This Dutch computer scientist's famous 1956 algorithm finds the shortest path between nodes in a graph",
+   "a": "Who is Edsger Dijkstra?",
+   "tier": 5
+  },
+  {
+   "id": "coding-45",
+   "q": "This Dutch programmer created Python, first releasing it in 1991",
+   "a": "Who is Guido van Rossum?",
+   "tier": 5
+  },
+  {
+   "id": "coding-46",
+   "q": "This inventor's punched-card tabulating machines processed the 1890 U.S. Census; his company later became part of IBM",
+   "a": "Who is Herman Hollerith?",
+   "tier": 5
+  },
+  {
+   "id": "coding-47",
+   "q": "Created by John McCarthy in 1958, this language famous for its many parentheses is one of the oldest still in use",
+   "a": "What is Lisp?",
+   "tier": 5
+  },
+  {
+   "id": "coding-48",
+   "q": "This Hungarian-American mathematician names the computer design in which programs and data share the same memory",
+   "a": "Who is John von Neumann?",
+   "tier": 5
+  },
+  {
+   "id": "coding-49",
+   "q": "In 1968's \"Mother of All Demos\", this engineer showed off the computer mouse he had invented",
+   "a": "Who is Douglas Engelbart?",
+   "tier": 5
+  },
+  {
+   "id": "coding-50",
+   "q": "This computer scientist, who worked at Xerox PARC, is credited with creating cut, copy and paste",
+   "a": "Who is Larry Tesler?",
+   "tier": 5
+  }
+ ]
+}

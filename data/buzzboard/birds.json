@@ -1,0 +1,607 @@
+{
+ "category": "Birds",
+ "slug": "birds",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q780-lead",
+   "q": "Domesticated from the red junglefowl about 8,000 years ago, this is one of the most widespread domestic animals, raised for meat and eggs",
+   "a": "What is the chicken?",
+   "tier": 1
+  },
+  {
+   "id": "Q25222-lead",
+   "q": "These mostly nocturnal birds of prey have large, broad heads, binocular vision and feathers adapted for silent flight",
+   "a": "What are owls?",
+   "tier": 1
+  },
+  {
+   "id": "Q9147-lead",
+   "q": "These flightless sea birds with flippers live almost exclusively in the Southern Hemisphere",
+   "a": "What are penguins?",
+   "tier": 1
+  },
+  {
+   "id": "Q17592-lead",
+   "q": "Native to Africa, this flightless bird is the largest living species of bird",
+   "a": "What is the ostrich?",
+   "tier": 1
+  },
+  {
+   "id": "Q31431-lead",
+   "q": "These mostly tropical birds have a strong curved beak and clawed feet; one-third of their species are threatened with extinction",
+   "a": "What are parrots?",
+   "tier": 1
+  },
+  {
+   "id": "Q25439-lead",
+   "q": "Found worldwide except Australia, New Zealand, Madagascar and the polar regions, these forest birds of the family Picidae include sapsuckers",
+   "a": "What are woodpeckers?",
+   "tier": 1
+  },
+  {
+   "id": "Q43794-lead",
+   "q": "These large, heavyset birds of the Americas have a fleshy wattle called a snood hanging from the base of the bill",
+   "a": "What are turkeys?",
+   "tier": 1
+  },
+  {
+   "id": "Q19413-lead",
+   "q": "These large water birds have a long beak and a big throat pouch used for catching prey and draining water before swallowing",
+   "a": "What are pelicans?",
+   "tier": 1
+  },
+  {
+   "id": "Q25348-lead",
+   "q": "Also called the wild duck, this dabbling duck breeds throughout North America, Eurasia and North Africa",
+   "a": "What is the mallard?",
+   "tier": 1
+  },
+  {
+   "id": "Q3901583-lead",
+   "q": "These wading birds of the family Phoenicopteridae include four species in the Americas and two in Afro-Eurasia",
+   "a": "What are flamingos?",
+   "tier": 1
+  },
+  {
+   "id": "Q127216-lead",
+   "q": "This sea eagle and bird of prey found near large bodies of water in North America forms a species pair with the white-tailed eagle",
+   "a": "What is the bald eagle?",
+   "tier": 1
+  },
+  {
+   "id": "Q43624-lead",
+   "q": "These birds native to the Americas form the family Trochilidae, with around 375 species from Alaska to Tierra del Fuego",
+   "a": "What are hummingbirds?",
+   "tier": 1
+  },
+  {
+   "id": "Q61865-lead",
+   "q": "Males of this South Asian bird are called peacocks and females peahens, though both are often colloquially called peacocks",
+   "a": "What is the peafowl?",
+   "tier": 1
+  },
+  {
+   "id": "Q1325045-lead",
+   "q": "These brightly marked Neotropical birds of the family Ramphastidae have large, often colorful bills",
+   "a": "What are toucans?",
+   "tier": 1
+  },
+  {
+   "id": "Q43502-lead",
+   "q": "This extinct flightless bird was endemic to Mauritius; its closest living relative is the Nicobar pigeon",
+   "a": "What is the dodo?",
+   "tier": 1
+  },
+  {
+   "id": "Q42326-lead",
+   "q": "This wild member of the family Columbidae is the ancestor of the domesticated pigeons familiar to most people",
+   "a": "What is the rock dove?",
+   "tier": 1
+  },
+  {
+   "id": "Q43642-lead",
+   "q": "About the size of a chicken, these flightless birds endemic to New Zealand are the smallest ratites",
+   "a": "What are kiwi?",
+   "tier": 1
+  },
+  {
+   "id": "Q726389-lead",
+   "q": "Also called the red cardinal, this bird of the genus Cardinalis is found through the eastern United States south to Guatemala",
+   "a": "What is the northern cardinal?",
+   "tier": 1
+  },
+  {
+   "id": "Q93208-lead",
+   "q": "Endemic to Australia, this flightless bird is the continent's tallest native bird and the third-tallest living bird",
+   "a": "What is the emu?",
+   "tier": 1
+  },
+  {
+   "id": "Q170177-lead",
+   "q": "Also known as the polar owl, this large Arctic owl is the only owl with mainly white plumage",
+   "a": "What is the snowy owl?",
+   "tier": 1
+  },
+  {
+   "id": "Q28507-lead",
+   "q": "These large, long-legged, long-necked wading birds with long, stout bills make up the family Ciconiidae",
+   "a": "What are storks?",
+   "tier": 2
+  },
+  {
+   "id": "Q18789-lead",
+   "q": "These long-legged, long-necked birds of the family Ardeidae include species called egrets and bitterns",
+   "a": "What are herons?",
+   "tier": 2
+  },
+  {
+   "id": "Q29564928-lead",
+   "q": "The largest waterfowl, these birds of the genus Cygnus are closely related to geese and ducks",
+   "a": "What are swans?",
+   "tier": 2
+  },
+  {
+   "id": "Q25357-lead",
+   "q": "This large all-black bird is the most widely distributed corvid and the heaviest passerine",
+   "a": "What is the common raven?",
+   "tier": 2
+  },
+  {
+   "id": "Q460967-lead",
+   "q": "This migratory thrush, widespread throughout North America, was named after a European bird because of its reddish-orange breast",
+   "a": "What is the American robin?",
+   "tier": 2
+  },
+  {
+   "id": "Q634804-lead",
+   "q": "This long-legged member of the cuckoo family from the southwestern U.S. and Mexico is also called the chaparral cock",
+   "a": "What is the greater roadrunner?",
+   "tier": 2
+  },
+  {
+   "id": "Q26685-lead",
+   "q": "Also called the common puffin, this seabird of the auk family breeds from Russia and Iceland to as far south as Maine",
+   "a": "What is the Atlantic puffin?",
+   "tier": 2
+  },
+  {
+   "id": "Q824974-lead",
+   "q": "This large kingfisher with a brown eye-stripe has a distinctive call, often given by several birds at once, used as a stock jungle sound effect",
+   "a": "What is the laughing kookaburra?",
+   "tier": 2
+  },
+  {
+   "id": "Q131528250-lead",
+   "q": "These medium-sized owls of the genus Tyto have characteristic heart-shaped faces",
+   "a": "What are barn owls?",
+   "tier": 2
+  },
+  {
+   "id": "Q30535-lead",
+   "q": "This crow-sized bird of prey known for its speed has a blue-gray back and a black head; in North America it was once called the \"duck hawk\"",
+   "a": "What is the peregrine falcon?",
+   "tier": 2
+  },
+  {
+   "id": "Q26733-lead",
+   "q": "This large goose has a black head and neck, white cheeks and a brown body; it is native to North America",
+   "a": "What is the Canada goose?",
+   "tier": 2
+  },
+  {
+   "id": "Q121221-lead",
+   "q": "Also known as the common parakeet or budgie, this small, long-tailed, seed-eating parrot is naturally green and yellow",
+   "a": "What is the budgerigar?",
+   "tier": 2
+  },
+  {
+   "id": "Q31448-lead",
+   "q": "These 22 parrot species of the family Cacatuidae are native to Australasia",
+   "a": "What are cockatoos?",
+   "tier": 2
+  },
+  {
+   "id": "Q55805-lead",
+   "q": "These large seabirds of the family Diomedeidae are found mostly in the Southern Ocean and North Pacific but are absent from the North Atlantic",
+   "a": "What are albatrosses?",
+   "tier": 2
+  },
+  {
+   "id": "Q219035-lead",
+   "q": "These large, long-tailed, often colorful New World parrots are popular as companion birds",
+   "a": "What are macaws?",
+   "tier": 2
+  },
+  {
+   "id": "Q199758-lead",
+   "q": "This crested member of the crow family native to eastern North America has a white chest and a black U-shaped collar",
+   "a": "What is the blue jay?",
+   "tier": 2
+  },
+  {
+   "id": "Q25332-lead",
+   "q": "Historically called the sea hawk or fish hawk, this large fish-eating raptor is brown above and grayish on the head and underparts",
+   "a": "What is the osprey?",
+   "tier": 2
+  },
+  {
+   "id": "Q41181-lead",
+   "q": "The most widely distributed species of eagle, this dark brown raptor is one of the best-known birds of prey in the Northern Hemisphere",
+   "a": "What is the golden eagle?",
+   "tier": 2
+  },
+  {
+   "id": "Q8154335-lead",
+   "q": "These small to medium-sized, brightly colored birds of the family Alcedinidae are often found near calm ponds and small rivers",
+   "a": "What are kingfishers?",
+   "tier": 2
+  },
+  {
+   "id": "Q161829-lead",
+   "q": "Endemic to Antarctica, this is the tallest and heaviest of all living penguins, with bright-yellow ear patches",
+   "a": "What is the emperor penguin?",
+   "tier": 2
+  },
+  {
+   "id": "Q14683-lead",
+   "q": "Males of this small bird have black, white and brown markings; humans have introduced it to most parts of the world",
+   "a": "What is the house sparrow?",
+   "tier": 3
+  },
+  {
+   "id": "Q170598-lead",
+   "q": "With a wingspan up to 3.3 meters, this New World vulture of western South America is one of the largest flying birds",
+   "a": "What is the Andean condor?",
+   "tier": 3
+  },
+  {
+   "id": "Q194314-lead",
+   "q": "Extinct in the wild in 1987 but since reintroduced, this New World vulture is the largest North American land bird",
+   "a": "What is the California condor?",
+   "tier": 3
+  },
+  {
+   "id": "Q201231-lead",
+   "q": "These flightless ratites live in the tropical forests of New Guinea, the Moluccas and northeastern Australia",
+   "a": "What are cassowaries?",
+   "tier": 3
+  },
+  {
+   "id": "Q81515-lead",
+   "q": "Also called the tiger owl or hoot owl, this is the most widely distributed true owl in North America and a regular predator of skunks",
+   "a": "What is the great horned owl?",
+   "tier": 3
+  },
+  {
+   "id": "Q389664-lead",
+   "q": "The pink color of this social wading bird of the ibis family comes from its diet, like the American flamingo's",
+   "a": "What is the roseate spoonbill?",
+   "tier": 3
+  },
+  {
+   "id": "Q168748-lead",
+   "q": "This large, mostly ground-dwelling bird of prey is endemic to the grasslands and savannas of sub-Saharan Africa",
+   "a": "What is the secretarybird?",
+   "tier": 3
+  },
+  {
+   "id": "Q26773-lead",
+   "q": "These birds of Africa, Asia and Melanesia have a long, down-curved bill that sometimes bears a horny casque",
+   "a": "What are hornbills?",
+   "tier": 3
+  },
+  {
+   "id": "Q457267-lead",
+   "q": "Native to the eastern Pacific, males of this marine bird show off their brightly colored feet by lifting them while strutting before a female",
+   "a": "What is the blue-footed booby?",
+   "tier": 3
+  },
+  {
+   "id": "Q26800-lead",
+   "q": "This strongly migratory bird sees two summers each year, flying from northern breeding grounds to the Antarctic coast and back",
+   "a": "What is the Arctic tern?",
+   "tier": 3
+  },
+  {
+   "id": "Q282687-lead",
+   "q": "This small nonmigratory North American bird of the tit family, with white cheeks and a dark bib, is well known for its vocalizations",
+   "a": "What is the black-capped chickadee?",
+   "tier": 3
+  },
+  {
+   "id": "Q457471-lead",
+   "q": "One of the most common hawks in North America, this raptor is one of three U.S. species colloquially called the \"chickenhawk\"",
+   "a": "What is the red-tailed hawk?",
+   "tier": 3
+  },
+  {
+   "id": "Q214096-lead",
+   "q": "These ground-dwelling Australian birds are famous for mimicking natural and artificial sounds and for the male's huge, fanned tail",
+   "a": "What are lyrebirds?",
+   "tier": 3
+  },
+  {
+   "id": "Q191968-lead",
+   "q": "This extinct North American bird's name comes from the French for \"passing by,\" due to its migratory habits",
+   "a": "What is the passenger pigeon?",
+   "tier": 3
+  },
+  {
+   "id": "Q18700-lead",
+   "q": "Also called the whale-headed stork, this large African wading bird is named for its enormous, shoe-shaped bill",
+   "a": "What is the shoebill?",
+   "tier": 3
+  },
+  {
+   "id": "Q53745-lead",
+   "q": "This large neotropical eagle of lowland rainforests is the largest bird of prey throughout its range",
+   "a": "What is the harpy eagle?",
+   "tier": 3
+  },
+  {
+   "id": "Q100196-lead",
+   "q": "Its name means \"ancient wing\"; this feathered, bird-like dinosaur was long accepted as the oldest known bird",
+   "a": "What is Archaeopteryx?",
+   "tier": 3
+  },
+  {
+   "id": "Q245181-lead",
+   "q": "The most widespread New World vulture, this bird ranges from southern Canada to the southern tip of South America",
+   "a": "What is the turkey vulture?",
+   "tier": 3
+  },
+  {
+   "id": "Q25393-lead",
+   "q": "This small Old World bird is known for its powerful song, often described as one of the most beautiful sounds in nature",
+   "a": "What is the nightingale?",
+   "tier": 3
+  },
+  {
+   "id": "Q25429-lead",
+   "q": "The most widespread swallow in the world, this bird has blue upperparts and a long, deeply forked tail",
+   "a": "What is the barn swallow?",
+   "tier": 3
+  },
+  {
+   "id": "Q25247-lead",
+   "q": "This cinnamon-colored bird has black and white wings, a tall erectile crest, a long downcurved bill, and a soft \"oop-oop-oop\" call",
+   "a": "What is the hoopoe?",
+   "tier": 4
+  },
+  {
+   "id": "Q25334-lead",
+   "q": "Called \"redbreast\" in the British Isles, this small insect-eating bird of the Old World flycatcher family is found across Europe",
+   "a": "What is the European robin?",
+   "tier": 4
+  },
+  {
+   "id": "Q829683-lead",
+   "q": "Commonly found in North America and also in parts of the Caribbean and Hawaii, this songbird belongs to the family Mimidae",
+   "a": "What is the northern mockingbird?",
+   "tier": 4
+  },
+  {
+   "id": "Q333796-lead",
+   "q": "This large wading bird is common near shores across North and Central America; an all-white population lives in South Florida",
+   "a": "What is the great blue heron?",
+   "tier": 4
+  },
+  {
+   "id": "Q750027-lead",
+   "q": "Also called the rain dove and once the Carolina pigeon, this is one of the most abundant North American birds and a popular gamebird",
+   "a": "What is the mourning dove?",
+   "tier": 4
+  },
+  {
+   "id": "Q503804-lead",
+   "q": "This large crane of North America and northeastern Siberia uses Nebraska's central Platte River Valley as its most important stopover area",
+   "a": "What is the sandhill crane?",
+   "tier": 4
+  },
+  {
+   "id": "Q190342-lead",
+   "q": "Also called the great northern diver, breeding adults of this water bird have a black head and neck with a greenish or purplish sheen",
+   "a": "What is the common loon?",
+   "tier": 4
+  },
+  {
+   "id": "Q179959-lead",
+   "q": "Sometimes called the owl-parrot, this large, nocturnal, ground-dwelling parrot is endemic to New Zealand",
+   "a": "What is the kakapo?",
+   "tier": 4
+  },
+  {
+   "id": "Q179333-lead",
+   "q": "Found mainly in New Guinea, these passerines of the family Paradisaeidae are best known for the long, elaborate plumes of the males",
+   "a": "What are birds-of-paradise?",
+   "tier": 4
+  },
+  {
+   "id": "Q459267-lead",
+   "q": "This bird of the trogon family lives in the cloud forests of Central America and southern Mexico and mainly eats fruits of the laurel family",
+   "a": "What is the resplendent quetzal?",
+   "tier": 4
+  },
+  {
+   "id": "Q457477-lead",
+   "q": "Named for its calls, this endangered crane is the tallest North American bird; only 21 remained in the wild in 1941",
+   "a": "What is the whooping crane?",
+   "tier": 4
+  },
+  {
+   "id": "Q193337-lead",
+   "q": "This large, olive-green parrot with brilliant orange under its wings lives in the alpine regions of New Zealand's South Island",
+   "a": "What is the kea?",
+   "tier": 4
+  },
+  {
+   "id": "Q200339-lead",
+   "q": "Native to East Asia, this elaborately colored perching duck is closely related to the North American wood duck",
+   "a": "What is the mandarin duck?",
+   "tier": 4
+  },
+  {
+   "id": "Q189193-lead",
+   "q": "Driven extinct in the mid-1800s, this flightless alcid gave its old name to the Southern Hemisphere birds that resembled it",
+   "a": "What is the great auk?",
+   "tier": 4
+  },
+  {
+   "id": "Q452969-lead",
+   "q": "The largest of these extinct flightless birds of New Zealand stood about 12 feet tall with necks outstretched",
+   "a": "What are moa?",
+   "tier": 4
+  },
+  {
+   "id": "Q214508-lead",
+   "q": "These extinct flightless birds of Madagascar laid the largest eggs known for any amniote",
+   "a": "What are elephant birds?",
+   "tier": 4
+  },
+  {
+   "id": "Q467068-lead",
+   "q": "This small, long-legged owl of the open Americas nests in underground tunnels, usually ones dug by other animals",
+   "a": "What is the burrowing owl?",
+   "tier": 4
+  },
+  {
+   "id": "Q647512-lead",
+   "q": "Also called the man o' war, this seabird with a wingspan up to 2.4 meters is the largest of its family",
+   "a": "What is the magnificent frigatebird?",
+   "tier": 4
+  },
+  {
+   "id": "Q25469-lead",
+   "q": "This medium-sized passerine has glossy black plumage with a metallic sheen, speckled with white at some times of year; its bill is yellow in summer",
+   "a": "What is the starling?",
+   "tier": 4
+  },
+  {
+   "id": "Q1049642-lead",
+   "q": "This small seed-eating bird of the cardinal family often migrates by night, using the stars to navigate",
+   "a": "What is the indigo bunting?",
+   "tier": 4
+  },
+  {
+   "id": "Q25234-lead",
+   "q": "This true thrush breeds in Europe, western Asia and North Africa and has been introduced to Australia and New Zealand",
+   "a": "What is the common blackbird?",
+   "tier": 5
+  },
+  {
+   "id": "Q28358-lead",
+   "q": "This small ground-nesting game bird of the pheasant family breeds in the Palearctic and winters in Africa and southern India",
+   "a": "What is the common quail?",
+   "tier": 5
+  },
+  {
+   "id": "Q25307-lead",
+   "q": "This black-and-white member of the crow family is a resident breeding bird across northern Europe and Asia",
+   "a": "What is the Eurasian magpie?",
+   "tier": 5
+  },
+  {
+   "id": "Q188660-lead",
+   "q": "This tropical bird of Amazon and Orinoco swamps is the only living species in its order, and its relationships are still debated",
+   "a": "What is the hoatzin?",
+   "tier": 5
+  },
+  {
+   "id": "Q126167-lead",
+   "q": "Also known as the lammergeier, this large bird of prey is the only known vertebrate whose diet is 70 to 90 percent bone",
+   "a": "What is the bearded vulture?",
+   "tier": 5
+  },
+  {
+   "id": "Q469940-lead",
+   "q": "Also called the snakebird, this water bird of the Americas swims with only its neck above water, looking like a snake ready to strike",
+   "a": "What is the anhinga?",
+   "tier": 5
+  },
+  {
+   "id": "Q600880-lead",
+   "q": "This small migratory North American thrush lives in open woodlands, farmlands and orchards",
+   "a": "What is the eastern bluebird?",
+   "tier": 5
+  },
+  {
+   "id": "Q184314-lead",
+   "q": "Some wing feathers of this brown, gray and yellow North American bird have red tips resembling sealing wax",
+   "a": "What is the cedar waxwing?",
+   "tier": 5
+  },
+  {
+   "id": "Q755737-lead",
+   "q": "This large plover of the Americas has two black bands across its breast and a shrill, two-syllable call that gives it its name",
+   "a": "What is the killdeer?",
+   "tier": 5
+  },
+  {
+   "id": "Q215603-lead",
+   "q": "Males of these birds of the family Ptilonorhynchidae build a structure decorated with sticks and brightly colored objects to attract a mate",
+   "a": "What are bowerbirds?",
+   "tier": 5
+  },
+  {
+   "id": "Q644442-lead",
+   "q": "The genus name of these two African bird species, Buphagus, means \"ox eater\" in Greek",
+   "a": "What are oxpeckers?",
+   "tier": 5
+  },
+  {
+   "id": "Q214137-lead",
+   "q": "Also called indicator birds, these mostly African birds are best known for their interaction with humans",
+   "a": "What are honeyguides?",
+   "tier": 5
+  },
+  {
+   "id": "Q591831-lead",
+   "q": "Once called the \"rice bird,\" this small New World blackbird breeds in the northern U.S. and Canada and winters in southern South America",
+   "a": "What is the bobolink?",
+   "tier": 5
+  },
+  {
+   "id": "Q269896-lead",
+   "q": "Typically the heaviest eagle in the world, this dark brown Pacific raptor has white wings and tail and a yellow beak",
+   "a": "What is Steller's sea eagle?",
+   "tier": 5
+  },
+  {
+   "id": "Q926291-lead",
+   "q": "About the size of a sparrow, this tiny owl of the Southwest often nests in woodpecker holes in saguaro cacti",
+   "a": "What is the elf owl?",
+   "tier": 5
+  },
+  {
+   "id": "Q686287-lead",
+   "q": "The largest flying bird native to Africa, the male of this species may be the heaviest living animal capable of flight",
+   "a": "What is the kori bustard?",
+   "tier": 5
+  },
+  {
+   "id": "Q512737-lead",
+   "q": "Sometimes called the \"undertaker bird\" for its cloak-like wings, this large African stork often breeds near landfills",
+   "a": "What is the marabou stork?",
+   "tier": 5
+  },
+  {
+   "id": "Q1253755-lead",
+   "q": "Also called the rose-breasted cockatoo, this pink and gray bird is one of Australia's most abundant species",
+   "a": "What is the galah?",
+   "tier": 5
+  },
+  {
+   "id": "Q1809222-lead",
+   "q": "Common along Australia's eastern seaboard from northern Queensland to South Australia, this parrot lives in rainforest, coastal bush and woodland",
+   "a": "What is the rainbow lorikeet?",
+   "tier": 5
+  },
+  {
+   "id": "Q27515-lead",
+   "q": "These coastal waders of the family Haematopodidae, found worldwide except polar regions, all belong to the single genus Haematopus",
+   "a": "What are oystercatchers?",
+   "tier": 5
+  }
+ ]
+}

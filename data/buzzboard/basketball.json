@@ -1,0 +1,308 @@
+{
+ "category": "Basketball",
+ "slug": "basketball",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "basketball-01",
+   "q": "In basketball, a shot made from beyond this curved arc is worth three points",
+   "a": "What is the three-point line?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-02",
+   "q": "Led by Michael Jordan, this NBA team won six championships in the 1990s",
+   "a": "What are the Chicago Bulls?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-03",
+   "q": "Worth one point each, these unguarded shots are taken after a foul from a line 15 feet from the basket",
+   "a": "What are free throws?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-04",
+   "q": "This crowd-pleasing shot has a player jam the ball straight down through the rim from above",
+   "a": "What is a dunk (slam dunk)?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-05",
+   "q": "Taking too many steps while holding the ball without dribbling is this violation",
+   "a": "What is traveling?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-06",
+   "q": "Nicknamed 'The King,' this Akron, Ohio, native went first overall in the 2003 NBA Draft straight out of high school",
+   "a": "Who is LeBron James?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-07",
+   "q": "This Golden State guard changed the game with his long-range shooting and won his first NBA title in 2015",
+   "a": "Who is Stephen Curry?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-08",
+   "q": "A basketball team has this many players on the court at one time",
+   "a": "What is five?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-09",
+   "q": "This exhibition team, famous for comedy, trick passes and the whistled tune 'Sweet Georgia Brown,' was founded in the 1920s",
+   "a": "What are the Harlem Globetrotters?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-10",
+   "q": "Nicknamed the 'Black Mamba,' this guard played all 20 of his NBA seasons with a single franchise, winning five championships",
+   "a": "Who is Kobe Bryant?",
+   "tier": 1
+  },
+  {
+   "id": "basketball-11",
+   "q": "This nickname describes the NCAA's huge single-elimination college basketball tournament held each spring",
+   "a": "What is March Madness?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-12",
+   "q": "This Canadian-born physical education teacher invented basketball in 1891 using peach baskets as goals",
+   "a": "Who is James Naismith?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-13",
+   "q": "Bouncing the ball with both hands at once, or stopping and then bouncing it again, is this violation",
+   "a": "What is a double dribble?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-14",
+   "q": "Usually filled by a team's tallest player, this position was played by Shaquille O'Neal and Kareem Abdul-Jabbar",
+   "a": "What is center?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-15",
+   "q": "This NBA team kept its name, which made more sense in Minnesota, the 'Land of 10,000 Lakes,' after moving west in 1960",
+   "a": "What are the Los Angeles Lakers?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-16",
+   "q": "A player records this stat line by reaching double digits in three categories, such as points, rebounds and assists, in one game",
+   "a": "What is a triple-double?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-17",
+   "q": "This nickname was given to the 1992 U.S. Olympic squad featuring Michael Jordan, Magic Johnson and Larry Bird",
+   "a": "What is the Dream Team?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-18",
+   "q": "This Boston Celtics forward from French Lick, Indiana, won three straight NBA MVP awards from 1984 to 1986",
+   "a": "Who is Larry Bird?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-19",
+   "q": "Fans love this sound-effect word for a shot that drops through the net without touching the rim or backboard",
+   "a": "What is a swish?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-20",
+   "q": "In this defensive scheme, each player guards an area of the floor rather than one specific opponent",
+   "a": "What is a zone defense?",
+   "tier": 2
+  },
+  {
+   "id": "basketball-21",
+   "q": "On March 2, 1962, this Philadelphia Warriors center scored 100 points in a single NBA game",
+   "a": "Who is Wilt Chamberlain?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-22",
+   "q": "This Boston Celtics center won 11 NBA championships in his 13 seasons as a player",
+   "a": "Who is Bill Russell?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-23",
+   "q": "This center, famous for his unstoppable 'skyhook,' was named Lew Alcindor when he starred at UCLA",
+   "a": "Who is Kareem Abdul-Jabbar?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-24",
+   "q": "This women's professional basketball league played its first season in 1997",
+   "a": "What is the WNBA?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-25",
+   "q": "Born Earvin, this Lakers rookie filled in at center and scored 42 points to clinch the 1980 NBA Finals",
+   "a": "Who is Magic Johnson?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-26",
+   "q": "An offensive player who lingers in the painted lane too long commits this infraction, named for its time limit",
+   "a": "What is a three-second violation?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-27",
+   "q": "A favorite of John Stockton and Karl Malone, this play has a teammate set a screen and then cut toward the basket",
+   "a": "What is the pick-and-roll?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-28",
+   "q": "Nicknamed 'The Big Fundamental,' this power forward won five NBA titles with the San Antonio Spurs",
+   "a": "Who is Tim Duncan?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-29",
+   "q": "Nicknamed 'Dr. J,' this high-flying forward starred in both the ABA and the NBA",
+   "a": "Who is Julius Erving?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-30",
+   "q": "Called the 'Wizard of Westwood,' this coach led UCLA to 10 NCAA championships in 12 seasons",
+   "a": "Who is John Wooden?",
+   "tier": 3
+  },
+  {
+   "id": "basketball-31",
+   "q": "Syracuse Nationals owner Danny Biasone pushed the NBA to adopt this 24-second timer in 1954 to speed up play",
+   "a": "What is the shot clock?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-32",
+   "q": "Hakeem Olajuwon's signature low-post move, a dizzying flurry of fakes and pivots, was known by this name",
+   "a": "What is the Dream Shake?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-33",
+   "q": "This 7-foot German forward was named NBA Finals MVP in 2011 when the Dallas Mavericks beat the Miami Heat",
+   "a": "Who is Dirk Nowitzki?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-34",
+   "q": "Known for its red, white and blue ball, this rival league merged four of its teams into the NBA in 1976",
+   "a": "What is the ABA (American Basketball Association)?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-35",
+   "q": "In 1950 this Washington Capitols forward became the first African American to play in an NBA game",
+   "a": "Who is Earl Lloyd?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-36",
+   "q": "The first overall pick in 2002, this 7-foot-6 center from Shanghai became an eight-time All-Star with the Houston Rockets",
+   "a": "Who is Yao Ming?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-37",
+   "q": "Michael Jordan's buzzer-beater known as 'The Shot' eliminated this team from the 1989 playoffs",
+   "a": "What are the Cleveland Cavaliers?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-38",
+   "q": "This Boston Celtics coach famously lit a victory cigar on the bench when a win was locked up",
+   "a": "Who is Red Auerbach?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-39",
+   "q": "The Naismith Memorial Basketball Hall of Fame is located in this Massachusetts city, where the sport was invented",
+   "a": "What is Springfield?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-40",
+   "q": "Nicknamed 'Coach K,' this Duke coach retired in 2022 after leading the Blue Devils to five NCAA titles",
+   "a": "Who is Mike Krzyzewski?",
+   "tier": 4
+  },
+  {
+   "id": "basketball-41",
+   "q": "In 1936 basketball debuted as an Olympic medal sport in this city, with the final played outdoors in the rain",
+   "a": "What is Berlin?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-42",
+   "q": "Nicknamed 'Pistol,' this floppy-socked guard averaged 44.2 points per game in his college career at LSU",
+   "a": "Who is Pete Maravich?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-43",
+   "q": "In 1985 this team won the NBA's first-ever draft lottery and used the top pick on Georgetown center Patrick Ewing",
+   "a": "What are the New York Knicks?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-44",
+   "q": "This Knicks captain limped onto the court before Game 7 of the 1970 NBA Finals, inspiring a championship win",
+   "a": "Who is Willis Reed?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-45",
+   "q": "Nicknamed the 'Houdini of the Hardwood,' this Celtics point guard dazzled fans with no-look passes in the 1950s",
+   "a": "Who is Bob Cousy?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-46",
+   "q": "In 1966 this school, coached by Don Haskins, became the first NCAA champion with an all-Black starting five",
+   "a": "What is Texas Western (now UTEP)?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-47",
+   "q": "The NBA's first dominant big man, this bespectacled Minneapolis Lakers center led the league to widen the lane",
+   "a": "Who is George Mikan?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-48",
+   "q": "Oscar Robertson averaged a triple-double for an entire NBA season for the first time in this season",
+   "a": "What is 1961-62?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-49",
+   "q": "Before his long career as a U.S. senator from New Jersey, this Princeton star won two NBA titles with the Knicks",
+   "a": "Who is Bill Bradley?",
+   "tier": 5
+  },
+  {
+   "id": "basketball-50",
+   "q": "This Detroit Pistons team, known for its rough, physical play, won back-to-back NBA titles in 1989 and 1990",
+   "a": "What are the Bad Boys?",
+   "tier": 5
+  }
+ ]
+}

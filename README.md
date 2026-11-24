@@ -14,6 +14,30 @@ Opens <http://localhost:8765/web/>. Ctrl-C to stop.
 (It needs to be served over HTTP rather than opened as a `file://` path, because
 the game fetches its data file. The photos themselves stream from the internet.)
 
+## Buzzboard
+
+A third game at `web/buzzboard.html`: a quiz board for a living room. The
+switcher at the top right (Animals · Things · Buzzboard) moves between all three.
+
+- **Title screen:** pick 1–10 teams and name them, then pick 5 of 61 categories.
+  The order you pick them is the order of the columns.
+- **Board:** 5 columns × 200/400/600/800/1000, harder as the points go up. A square
+  shows only its value; click it for the clue. **Space** shows the answer
+  ("What is…?"), **Esc** goes back to the board.
+- **Scoring:** each team's − and + take away or give the value of the last
+  square opened. The host decides who got it.
+- **No repeats:** clues already shown are remembered in the browser and skipped
+  until a category runs out; one answer never appears twice on the same board.
+
+| Questions | Where they come from |
+|---|---|
+| 11 original categories (Countries & Territories, US History, World History, Literature, Authors, Animals, Myths, Movies, Actors, Birds: 100 each; Word Meanings: 1,200) | Adapted from English Wikipedia leads (CC BY-SA 4.0) and Wikidata (CC0); word meanings from WordNet, tiered by word frequency |
+| 50 teen-friendly categories, 50 each (Video Games, Star Wars, Basketball, Space, Flags, Presidents, Candy & Snacks, Art & Artists, …) | Written for Buzzboard; dates and numbers spot-checked against Wikipedia where its API allowed |
+
+The questions live in `data/buzzboard/` (one JSON file per category plus
+`index.json`). They are built in a separate project and copied here by its
+`export_to_guesser.py`.
+
 ## Things Guesser
 
 A second game at `web/things.html`, linked from the top right of the animal

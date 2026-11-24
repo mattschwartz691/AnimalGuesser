@@ -1,0 +1,308 @@
+{
+ "category": "Fairy Tales & Fables",
+ "slug": "fairy-tales",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "fairy-tales-01",
+   "q": "On the way to her grandmother's house, this girl in a red cape meets a sly wolf",
+   "a": "Who is Little Red Riding Hood?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-02",
+   "q": "This girl leaves behind a glass slipper as she rushes away from the prince's ball at midnight",
+   "a": "Who is Cinderella?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-03",
+   "q": "In this Aesop fable, a boastful speedy animal naps during a race and loses to a slow, steady one",
+   "a": "What is The Tortoise and the Hare?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-04",
+   "q": "This golden-haired girl tries out three bowls of porridge, three chairs and three beds in a bears' cottage",
+   "a": "Who is Goldilocks?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-05",
+   "q": "These brothers build homes of straw, sticks and bricks, and only one survives the wolf's huffing and puffing",
+   "a": "Who are the Three Little Pigs?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-06",
+   "q": "This wooden puppet carved by Geppetto finds his nose growing whenever he tells a lie",
+   "a": "Who is Pinocchio?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-07",
+   "q": "In a Grimm tale, this slimy creature fetches a princess's golden ball from a well and later turns out to be royalty",
+   "a": "Who is the Frog Prince?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-08",
+   "q": "In this Aesop fable, a shepherd boy's false alarms mean nobody believes him when danger really arrives",
+   "a": "What is The Boy Who Cried Wolf?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-09",
+   "q": "After pricking her finger on a spindle, this princess falls into an enchanted sleep",
+   "a": "Who is Sleeping Beauty?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-10",
+   "q": "This princess who lives with seven dwarfs bites a poisoned apple from her disguised stepmother",
+   "a": "Who is Snow White?",
+   "tier": 1
+  },
+  {
+   "id": "fairy-tales-11",
+   "q": "Locked in a tower with no door, this girl lets down her very long hair so visitors can climb up",
+   "a": "Who is Rapunzel?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-12",
+   "q": "These two siblings, lost in the woods, find a house made of bread, cake and sweets belonging to a witch",
+   "a": "Who are Hansel and Gretel?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-13",
+   "q": "This boy trades his family's cow for magic beans and climbs to a giant's castle in the clouds",
+   "a": "Who is Jack?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-14",
+   "q": "In Hans Christian Andersen's tale, the sea king's youngest daughter gives up her voice for a chance at human legs",
+   "a": "Who is the Little Mermaid?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-15",
+   "q": "In this Andersen story, a vain ruler parades through town in an invisible outfit until a child points out the truth",
+   "a": "What is The Emperor's New Clothes?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-16",
+   "q": "In Aesop's fable, this hardworking insect stores food all summer while the grasshopper sings and plays",
+   "a": "Who is the ant?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-17",
+   "q": "In this tale, a merchant's daughter named Belle goes to live in a castle with a cursed creature to save her father",
+   "a": "What is Beauty and the Beast?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-18",
+   "q": "This strange little man spins straw into gold and makes the queen guess his name to keep her baby",
+   "a": "Who is Rumpelstiltskin?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-19",
+   "q": "In this Andersen tale, a bird mocked by the barnyard for its looks grows up to be a beautiful swan",
+   "a": "What is The Ugly Duckling?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-20",
+   "q": "In this Andersen tale, a single legume under a towering pile of mattresses proves a girl is truly royal",
+   "a": "What is The Princess and the Pea?",
+   "tier": 2
+  },
+  {
+   "id": "fairy-tales-21",
+   "q": "German siblings Jacob and Wilhelm first published their 'Children's and Household Tales' in 1812",
+   "a": "Who are the Brothers Grimm?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-22",
+   "q": "This Danish author wrote 'The Snow Queen', 'The Little Match Girl' and 'The Tinderbox'",
+   "a": "Who is Hans Christian Andersen?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-23",
+   "q": "Traditionally said to have been an enslaved storyteller in ancient Greece, he is credited with 'The Fox and the Grapes'",
+   "a": "Who is Aesop?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-24",
+   "q": "This Frenchman's 1697 collection, subtitled 'Tales of Mother Goose', included 'Puss in Boots' and 'Cinderella'",
+   "a": "Who is Charles Perrault?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-25",
+   "q": "The town of Hamelin first hires the Pied Piper to lure away these pests",
+   "a": "What are rats?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-26",
+   "q": "In 'Jack and the Beanstalk', the giant owns a magical hen that lays these",
+   "a": "What are golden eggs?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-27",
+   "q": "In 'Puss in Boots', the clever cat tricks an ogre into turning into this small animal, then gobbles him up",
+   "a": "What is a mouse?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-28",
+   "q": "Andersen's Little Match Girl tries to keep warm by striking her matches on the cold night of this holiday",
+   "a": "What is New Year's Eve?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-29",
+   "q": "In Andersen's tale, this tiny girl born from a flower is kidnapped by a toad who wants her to marry his son",
+   "a": "Who is Thumbelina?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-30",
+   "q": "The first time Hansel and Gretel are abandoned in the forest, Hansel finds the way home by following a trail of these",
+   "a": "What are pebbles?",
+   "tier": 3
+  },
+  {
+   "id": "fairy-tales-31",
+   "q": "In the Grimm tale of the Bremen Town Musicians, a donkey, a dog and a cat are joined by this bird",
+   "a": "What is a rooster?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-32",
+   "q": "This Russian folklore witch lives in a hut that stands on chicken legs",
+   "a": "Who is Baba Yaga?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-33",
+   "q": "In a Grimm tale, twelve princesses locked in their room each night are found to have worn holes in these by morning",
+   "a": "What are shoes?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-34",
+   "q": "In Aesop's fable, a tiny mouse repays this animal's mercy by gnawing through a hunter's net",
+   "a": "What is a lion?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-35",
+   "q": "In the 'Arabian Nights', this poor woodcutter overhears the words 'Open sesame' and finds a cave full of thieves' treasure",
+   "a": "Who is Ali Baba?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-36",
+   "q": "In Perrault's grim tale, this wealthy man with an oddly colored beard forbids his new wife to open one small room",
+   "a": "Who is Bluebeard?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-37",
+   "q": "In Andersen's 'The Nightingale', the emperor of this country prefers a jeweled mechanical bird to the real one",
+   "a": "What is China?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-38",
+   "q": "In Aesop's fable, this rival of the North Wind wins a contest to make a traveler take off his cloak",
+   "a": "What is the Sun?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-39",
+   "q": "This animal in a manger won't eat the hay itself but won't let the hungry ox eat it either",
+   "a": "What is a dog?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-40",
+   "q": "Andersen's Steadfast Tin Soldier is missing this body part because the tin ran out when he was cast",
+   "a": "What is a leg?",
+   "tier": 4
+  },
+  {
+   "id": "fairy-tales-41",
+   "q": "This French writer's 1756 version of 'Beauty and the Beast', written for young readers, is the one most retold today",
+   "a": "Who is Jeanne-Marie Leprince de Beaumont?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-42",
+   "q": "In the Grimm tale, Rapunzel is named after this leafy plant her pregnant mother craved from the witch's garden",
+   "a": "What is rampion?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-43",
+   "q": "This 17th-century French poet retold Aesop's fables in verse, including 'The Cicada and the Ant'",
+   "a": "Who is Jean de La Fontaine?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-44",
+   "q": "In Andersen's 'The Snow Queen', this brave girl journeys far to rescue her friend Kai",
+   "a": "Who is Gerda?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-45",
+   "q": "This Neapolitan author's 'Pentamerone' contains some of the earliest written versions of Cinderella and Sleeping Beauty",
+   "a": "Who is Giambattista Basile?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-46",
+   "q": "In the Grimm tale 'The Goose Girl', this is the name of the princess's loyal talking horse",
+   "a": "What is Falada?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-47",
+   "q": "In Perrault's 'The Sleeping Beauty in the Wood', the princess's enchanted sleep lasts this long",
+   "a": "What is 100 years?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-48",
+   "q": "This ancient Indian collection of animal fables, credited to Vishnu Sharma, was meant to teach princes wise conduct",
+   "a": "What is the Panchatantra?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-49",
+   "q": "In 'Puss in Boots', the cat introduces his poor young master to the king under this made-up noble title",
+   "a": "What is the Marquis of Carabas?",
+   "tier": 5
+  },
+  {
+   "id": "fairy-tales-50",
+   "q": "In the Grimm tale 'The Fisherman and His Wife', the fisherman catches this enchanted wish-granting fish",
+   "a": "What is a flounder?",
+   "tier": 5
+  }
+ ]
+}

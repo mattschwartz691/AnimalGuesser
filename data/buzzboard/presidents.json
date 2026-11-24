@@ -1,0 +1,308 @@
+{
+ "category": "Presidents",
+ "slug": "presidents",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "presidents-01",
+   "q": "This 16th president's face is on the U.S. penny",
+   "a": "Who is Abraham Lincoln?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-02",
+   "q": "This commander of the Continental Army became the first president of the United States in 1789",
+   "a": "Who is George Washington?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-03",
+   "q": "The main author of the Declaration of Independence, this third president appears on the nickel",
+   "a": "Who is Thomas Jefferson?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-04",
+   "q": "The teddy bear was named after this 'Rough Rider' president",
+   "a": "Who is Theodore Roosevelt?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-05",
+   "q": "Born in Hawaii, this 44th president was the first African American to hold the office",
+   "a": "Who is Barack Obama?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-06",
+   "q": "This president, known by his initials, was assassinated in Dallas in November 1963",
+   "a": "Who is John F. Kennedy?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-07",
+   "q": "This official home of the president sits at 1600 Pennsylvania Avenue in Washington, D.C.",
+   "a": "What is the White House?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-08",
+   "q": "This South Dakota mountain carving shows the faces of four presidents",
+   "a": "What is Mount Rushmore?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-09",
+   "q": "The only president elected four times, he led the nation through the Great Depression and most of World War II",
+   "a": "Who is Franklin D. Roosevelt?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-10",
+   "q": "This is the call sign of any U.S. military aircraft carrying the president, usually a customized Boeing 747",
+   "a": "What is Air Force One?",
+   "tier": 1
+  },
+  {
+   "id": "presidents-11",
+   "q": "After the Watergate scandal, this president became the only one to resign from office, in 1974",
+   "a": "Who is Richard Nixon?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-12",
+   "q": "Before entering politics, this 40th president was a Hollywood actor and president of the Screen Actors Guild",
+   "a": "Who is Ronald Reagan?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-13",
+   "q": "This top Union general of the Civil War went on to become the 18th president",
+   "a": "Who is Ulysses S. Grant?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-14",
+   "q": "A sign on this Missouri president's desk read 'The Buck Stops Here'",
+   "a": "Who is Harry S. Truman?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-15",
+   "q": "Nicknamed 'Ike,' this president had been Supreme Allied Commander in Europe during World War II",
+   "a": "Who is Dwight D. Eisenhower?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-16",
+   "q": "Before becoming the 39th president, this Georgian ran his family's peanut farm",
+   "a": "Who is Jimmy Carter?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-17",
+   "q": "A former governor of Texas, he was president during the September 11, 2001, attacks",
+   "a": "Who is George W. Bush?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-18",
+   "q": "In 1803 the U.S. bought this huge territory from France, roughly doubling the size of the country",
+   "a": "What is the Louisiana Purchase?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-19",
+   "q": "Nicknamed 'Old Hickory,' this president was the hero of the 1815 Battle of New Orleans",
+   "a": "Who is Andrew Jackson?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-20",
+   "q": "A Rhodes Scholar and governor of Arkansas, he became the 42nd president in 1993",
+   "a": "Who is Bill Clinton?",
+   "tier": 2
+  },
+  {
+   "id": "presidents-21",
+   "q": "He is counted twice in the official numbering, as both the 22nd and the 24th president",
+   "a": "Who is Grover Cleveland?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-22",
+   "q": "This president had the shortest time in office, dying about a month after his 1841 inauguration",
+   "a": "Who is William Henry Harrison?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-23",
+   "q": "The 15th president, he is the only one who never married",
+   "a": "Who is James Buchanan?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-24",
+   "q": "This 38th president was never elected to either the presidency or the vice presidency",
+   "a": "Who is Gerald Ford?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-25",
+   "q": "Famous for saying very little, 'Silent Cal' was president for most of the 1920s",
+   "a": "Who is Calvin Coolidge?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-26",
+   "q": "This fifth president's 1823 doctrine warned European powers against new colonization in the Americas",
+   "a": "Who is James Monroe?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-27",
+   "q": "This Texan took the oath of office aboard Air Force One after the 1963 assassination in Dallas",
+   "a": "Who is Lyndon B. Johnson?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-28",
+   "q": "The second president, he was the father of the sixth",
+   "a": "Who is John Adams?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-29",
+   "q": "Called the 'Father of the Constitution,' this fourth president led the country during the War of 1812",
+   "a": "Who is James Madison?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-30",
+   "q": "Named by Eisenhower after his grandson, this presidential retreat sits in Maryland's Catoctin Mountains",
+   "a": "What is Camp David?",
+   "tier": 3
+  },
+  {
+   "id": "presidents-31",
+   "q": "This 11th president oversaw the Mexican-American War, which brought California into the United States",
+   "a": "Who is James K. Polk?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-32",
+   "q": "The only person to serve as both president and Chief Justice of the United States",
+   "a": "Who is William Howard Taft?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-33",
+   "q": "Critics called him 'His Accidency' after he became the first vice president to take over on a president's death",
+   "a": "Who is John Tyler?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-34",
+   "q": "The eighth president, this New Yorker grew up speaking Dutch as his first language",
+   "a": "Who is Martin Van Buren?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-35",
+   "q": "This 28th president proposed the League of Nations and won the 1919 Nobel Peace Prize",
+   "a": "Who is Woodrow Wilson?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-36",
+   "q": "He won the bitterly disputed election of 1876 to become the 19th president",
+   "a": "Who is Rutherford B. Hayes?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-37",
+   "q": "Succeeding Lincoln in 1865, he became the first president to be impeached",
+   "a": "Who is Andrew Johnson?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-38",
+   "q": "This vice president took over in 1881 after James Garfield died from an assassin's bullet",
+   "a": "Who is Chester A. Arthur?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-39",
+   "q": "Nicknamed 'Old Rough and Ready,' this general-turned-president died in office in 1850",
+   "a": "Who is Zachary Taylor?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-40",
+   "q": "Before becoming the 41st president, he served as director of the CIA",
+   "a": "Who is George H. W. Bush?",
+   "tier": 4
+  },
+  {
+   "id": "presidents-41",
+   "q": "This 14th president from New Hampshire signed the 1854 Kansas-Nebraska Act",
+   "a": "Who is Franklin Pierce?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-42",
+   "q": "This 20th president was shot in July 1881, only four months after his inauguration",
+   "a": "Who is James A. Garfield?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-43",
+   "q": "The Teapot Dome bribery scandal stained the administration of this 29th president",
+   "a": "Who is Warren G. Harding?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-44",
+   "q": "After leaving the White House, he spent 17 years in the House of Representatives, the only ex-president to do so",
+   "a": "Who is John Quincy Adams?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-45",
+   "q": "This 25th president was assassinated while visiting the Pan-American Exposition in Buffalo in 1901",
+   "a": "Who is William McKinley?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-46",
+   "q": "A mining engineer, this future president led food relief for occupied Belgium during World War I",
+   "a": "Who is Herbert Hoover?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-47",
+   "q": "This 23rd president was the grandson of the ninth president",
+   "a": "Who is Benjamin Harrison?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-48",
+   "q": "This 13th president sent Commodore Matthew Perry to open trade relations with Japan",
+   "a": "Who is Millard Fillmore?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-49",
+   "q": "Ratified in 1951, this constitutional change limits a person to being elected president no more than twice",
+   "a": "What is the 22nd Amendment?",
+   "tier": 5
+  },
+  {
+   "id": "presidents-50",
+   "q": "Ratified in 1967, this constitutional change explains how to fill a vice-presidential vacancy and handle presidential disability",
+   "a": "What is the 25th Amendment?",
+   "tier": 5
+  }
+ ]
+}

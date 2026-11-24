@@ -1,0 +1,308 @@
+{
+ "category": "Money & Currency",
+ "slug": "money",
+ "group": "Everyday Life",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "money-01",
+   "q": "Worth 10 cents, this is the smallest U.S. coin in size",
+   "a": "What is a dime?",
+   "tier": 1
+  },
+  {
+   "id": "money-02",
+   "q": "This is the currency of Japan",
+   "a": "What is the yen?",
+   "tier": 1
+  },
+  {
+   "id": "money-03",
+   "q": "Introduced in 1999 and put into circulation as cash in 2002, this currency is shared by many EU countries",
+   "a": "What is the euro?",
+   "tier": 1
+  },
+  {
+   "id": "money-04",
+   "q": "Worth 25 cents, this U.S. coin is a favorite for laundromats and arcades",
+   "a": "What is a quarter?",
+   "tier": 1
+  },
+  {
+   "id": "money-05",
+   "q": "This is the money a bank pays you for keeping funds in a savings account",
+   "a": "What is interest?",
+   "tier": 1
+  },
+  {
+   "id": "money-06",
+   "q": "In this classic board game, players collect $200 for passing GO",
+   "a": "What is Monopoly?",
+   "tier": 1
+  },
+  {
+   "id": "money-07",
+   "q": "This machine lets you withdraw cash from your bank account at any hour",
+   "a": "What is an ATM?",
+   "tier": 1
+  },
+  {
+   "id": "money-08",
+   "q": "This is the currency of Mexico",
+   "a": "What is the peso?",
+   "tier": 1
+  },
+  {
+   "id": "money-09",
+   "q": "This plastic payment tool lets you buy now and pay the bank back later, maybe with interest",
+   "a": "What is a credit card?",
+   "tier": 1
+  },
+  {
+   "id": "money-10",
+   "q": "Launched in 2009, this was the first decentralized cryptocurrency",
+   "a": "What is Bitcoin?",
+   "tier": 1
+  },
+  {
+   "id": "money-11",
+   "q": "The currency of the United Kingdom, its symbol is £",
+   "a": "What is the pound sterling?",
+   "tier": 2
+  },
+  {
+   "id": "money-12",
+   "q": "This is the currency of India",
+   "a": "What is the rupee?",
+   "tier": 2
+  },
+  {
+   "id": "money-13",
+   "q": "This federal agency makes America's coins at facilities including Philadelphia and Denver",
+   "a": "What is the United States Mint?",
+   "tier": 2
+  },
+  {
+   "id": "money-14",
+   "q": "This economic term describes a general rise in prices over time",
+   "a": "What is inflation?",
+   "tier": 2
+  },
+  {
+   "id": "money-15",
+   "q": "This is the currency of Russia",
+   "a": "What is the ruble?",
+   "tier": 2
+  },
+  {
+   "id": "money-16",
+   "q": "This currency of China is also known as the renminbi",
+   "a": "What is the yuan?",
+   "tier": 2
+  },
+  {
+   "id": "money-17",
+   "q": "This slang word for a dollar is thought to come from deerskins once used in frontier trade",
+   "a": "What is a buck?",
+   "tier": 2
+  },
+  {
+   "id": "money-18",
+   "q": "A rising stock market is named for this animal; a falling one is named for a bear",
+   "a": "What is a bull?",
+   "tier": 2
+  },
+  {
+   "id": "money-19",
+   "q": "This is the currency of Switzerland",
+   "a": "What is the Swiss franc?",
+   "tier": 2
+  },
+  {
+   "id": "money-20",
+   "q": "This Lower Manhattan thoroughfare is a nickname for the entire U.S. financial industry",
+   "a": "What is Wall Street?",
+   "tier": 2
+  },
+  {
+   "id": "money-21",
+   "q": "U.S. pennies made since 1982 are mostly this metal, with only a thin copper coating",
+   "a": "What is zinc?",
+   "tier": 3
+  },
+  {
+   "id": "money-22",
+   "q": "This country's currency is the rand",
+   "a": "What is South Africa?",
+   "tier": 3
+  },
+  {
+   "id": "money-23",
+   "q": "Brazil's currency shares its name with a word meaning 'royal'",
+   "a": "What is the real?",
+   "tier": 3
+  },
+  {
+   "id": "money-24",
+   "q": "Before adopting the euro, Italy used this currency",
+   "a": "What is the lira?",
+   "tier": 3
+  },
+  {
+   "id": "money-25",
+   "q": "Created in 1913, this is the central banking system of the United States",
+   "a": "What is the Federal Reserve?",
+   "tier": 3
+  },
+  {
+   "id": "money-26",
+   "q": "The U.S. Secret Service was created in 1865 to fight this crime",
+   "a": "What is counterfeiting?",
+   "tier": 3
+  },
+  {
+   "id": "money-27",
+   "q": "This is a share of a company's profits paid out to its shareholders",
+   "a": "What is a dividend?",
+   "tier": 3
+  },
+  {
+   "id": "money-28",
+   "q": "In 1971 the U.S. stopped letting foreign governments convert dollars into this metal",
+   "a": "What is gold?",
+   "tier": 3
+  },
+  {
+   "id": "money-29",
+   "q": "Canada's $1 coin got this nickname from the bird on its reverse",
+   "a": "What is the loonie?",
+   "tier": 3
+  },
+  {
+   "id": "money-30",
+   "q": "This term means trading goods or services directly without using money",
+   "a": "What is barter?",
+   "tier": 3
+  },
+  {
+   "id": "money-31",
+   "q": "Greece's currency before the euro, it shared its name with an ancient Greek coin",
+   "a": "What is the drachma?",
+   "tier": 4
+  },
+  {
+   "id": "money-32",
+   "q": "Created in 1933, this U.S. agency insures bank deposits",
+   "a": "What is the FDIC?",
+   "tier": 4
+  },
+  {
+   "id": "money-33",
+   "q": "This term names the study or collecting of coins, paper money and medals",
+   "a": "What is numismatics?",
+   "tier": 4
+  },
+  {
+   "id": "money-34",
+   "q": "A company's first sale of stock to outside investors is called this, abbreviated IPO",
+   "a": "What is an initial public offering?",
+   "tier": 4
+  },
+  {
+   "id": "money-35",
+   "q": "Used in Kuwait, Jordan and Serbia, this currency's name comes from the Roman denarius",
+   "a": "What is the dinar?",
+   "tier": 4
+  },
+  {
+   "id": "money-36",
+   "q": "Pirates' 'pieces of eight' were silver coins minted by this European empire",
+   "a": "What is Spain?",
+   "tier": 4
+  },
+  {
+   "id": "money-37",
+   "q": "The Medici family's powerful banking empire was based in this Italian city",
+   "a": "What is Florence?",
+   "tier": 4
+  },
+  {
+   "id": "money-38",
+   "q": "Named after Bitcoin's pseudonymous creator, it is the smallest unit of Bitcoin: one hundred-millionth of a coin",
+   "a": "What is a satoshi?",
+   "tier": 4
+  },
+  {
+   "id": "money-39",
+   "q": "In 2009 this African country issued a 100-trillion-dollar banknote during runaway hyperinflation",
+   "a": "What is Zimbabwe?",
+   "tier": 4
+  },
+  {
+   "id": "money-40",
+   "q": "This is the currency of Thailand",
+   "a": "What is the baht?",
+   "tier": 4
+  },
+  {
+   "id": "money-41",
+   "q": "On this Pacific island, huge carved stone disks called rai served as money",
+   "a": "What is Yap?",
+   "tier": 5
+  },
+  {
+   "id": "money-42",
+   "q": "This 1944 conference in New Hampshire created the International Monetary Fund and the World Bank",
+   "a": "What is Bretton Woods?",
+   "tier": 5
+  },
+  {
+   "id": "money-43",
+   "q": "This is the term for the grooved ridges on the edges of coins like the dime and quarter",
+   "a": "What is reeding?",
+   "tier": 5
+  },
+  {
+   "id": "money-44",
+   "q": "According to Herodotus, this ancient kingdom in modern Turkey was the first to use gold and silver coins",
+   "a": "What is Lydia?",
+   "tier": 5
+  },
+  {
+   "id": "money-45",
+   "q": "First minted in 1967, this South African gold coin features a springbok and Paul Kruger",
+   "a": "What is the Krugerrand?",
+   "tier": 5
+  },
+  {
+   "id": "money-46",
+   "q": "Poland's currency, its name means 'golden'",
+   "a": "What is the złoty?",
+   "tier": 5
+  },
+  {
+   "id": "money-47",
+   "q": "This is the currency of Malaysia",
+   "a": "What is the ringgit?",
+   "tier": 5
+  },
+  {
+   "id": "money-48",
+   "q": "This is the term for the 'heads' side of a coin",
+   "a": "What is the obverse?",
+   "tier": 5
+  },
+  {
+   "id": "money-49",
+   "q": "Founded in 1694 to lend money to the government of William III, this institution on Threadneedle Street is the UK's central monetary authority",
+   "a": "What is the Bank of England?",
+   "tier": 5
+  },
+  {
+   "id": "money-50",
+   "q": "This economic principle is often summarized as 'bad money drives out good'",
+   "a": "What is Gresham's law?",
+   "tier": 5
+  }
+ ]
+}

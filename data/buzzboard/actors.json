@@ -1,0 +1,607 @@
+{
+ "category": "Actors",
+ "slug": "actors",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q2263-credits",
+   "q": "This American actor and filmmaker appeared in Forrest Gump, Toy Story and Cast Away.",
+   "a": "Who is Tom Hanks?",
+   "tier": 1
+  },
+  {
+   "id": "Q40096-credits",
+   "q": "This American actor, rapper, and film producer appeared in The Fresh Prince of Bel-Air, I Am Legend and The Pursuit of Happyness.",
+   "a": "Who is Will Smith?",
+   "tier": 1
+  },
+  {
+   "id": "Q10738-credits",
+   "q": "This American actor and professional wrestler appeared in Moana, Jumanji: The Next Level and Fast Five.",
+   "a": "Who is Dwayne Johnson?",
+   "tier": 1
+  },
+  {
+   "id": "Q40504-credits",
+   "q": "This Canadian and American actor, comedian, and visual artist appeared in Dumb and Dumber, Bruce Almighty and Sonic the Hedgehog.",
+   "a": "Who is Jim Carrey?",
+   "tier": 1
+  },
+  {
+   "id": "Q165219-credits",
+   "q": "This American actor and producer appeared in Iron Man, Sherlock Holmes and Tropic Thunder.",
+   "a": "Who is Robert Downey Jr.?",
+   "tier": 1
+  },
+  {
+   "id": "Q34436-credits",
+   "q": "This American actress, singer, producer, and director appeared in Black Widow, Lost in Translation and Jojo Rabbit.",
+   "a": "Who is Scarlett Johansson?",
+   "tier": 1
+  },
+  {
+   "id": "Q189489-credits",
+   "q": "This American actress and singer appeared in Shake It Up, The Greatest Showman and Dune.",
+   "a": "Who is Zendaya?",
+   "tier": 1
+  },
+  {
+   "id": "Q2023710-credits",
+   "q": "This British actor appeared in Spider-Man: Homecoming, Uncharted and The Impossible.",
+   "a": "Who is Tom Holland?",
+   "tier": 1
+  },
+  {
+   "id": "Q39476-credits",
+   "q": "This English actress appeared in Harry Potter and the Philosopher's Stone, Little Women and The Perks of Being a Wallflower.",
+   "a": "Who is Emma Watson?",
+   "tier": 1
+  },
+  {
+   "id": "Q38119-credits",
+   "q": "This English actor appeared in Harry Potter and the Philosopher's Stone, The Woman in Black and Swiss Army Man.",
+   "a": "Who is Daniel Radcliffe?",
+   "tier": 1
+  },
+  {
+   "id": "Q37175-credits",
+   "q": "This American actor, musician, and filmmaker appeared in Pirates of the Caribbean: The Curse of the Black Pearl, Edward Scissorhands and Charlie and the Chocolate Factory.",
+   "a": "Who is Johnny Depp?",
+   "tier": 1
+  },
+  {
+   "id": "Q83287-credits",
+   "q": "This American actress, singer, songwriter, businesswoman, and producer appeared in Wizards of Waverly Place, Only Murders in the Building and Spy Kids 3-D: Game Over.",
+   "a": "Who is Selena Gomez?",
+   "tier": 1
+  },
+  {
+   "id": "Q4235-credits",
+   "q": "This American singer, songwriter, and actress appeared in Hannah Montana, The Last Song and Big Fish.",
+   "a": "Who is Miley Cyrus?",
+   "tier": 1
+  },
+  {
+   "id": "Q43874-credits",
+   "q": "This American comedian, actor, and singer appeared in Shrek, Coming to America and Dr. Dolittle.",
+   "a": "Who is Eddie Murphy?",
+   "tier": 1
+  },
+  {
+   "id": "Q83338-credits",
+   "q": "This American actor and comedian appeared in Aladdin, Jumanji and Hook.",
+   "a": "Who is Robin Williams?",
+   "tier": 1
+  },
+  {
+   "id": "Q189490-credits",
+   "q": "This American actress and producer appeared in The Hunger Games, Passengers and Don't Look Up.",
+   "a": "Who is Jennifer Lawrence?",
+   "tier": 1
+  },
+  {
+   "id": "Q503706-credits",
+   "q": "This American actor and producer appeared in Guardians of the Galaxy, Parks and Recreation and Passengers.",
+   "a": "Who is Chris Pratt?",
+   "tier": 1
+  },
+  {
+   "id": "Q43416-credits",
+   "q": "This Canadian actor and musician appeared in The Matrix, Speed and John Wick: Chapter 2.",
+   "a": "Who is Keanu Reeves?",
+   "tier": 1
+  },
+  {
+   "id": "Q38111-credits",
+   "q": "This American actor and film producer appeared in Titanic, Inception and Django Unchained.",
+   "a": "Who is Leonardo DiCaprio?",
+   "tier": 1
+  },
+  {
+   "id": "Q48337-credits",
+   "q": "This American actor, producer, and narrator appeared in The Shawshank Redemption, Bruce Almighty and Invictus.",
+   "a": "Who is Morgan Freeman?",
+   "tier": 1
+  },
+  {
+   "id": "Q35332-credits",
+   "q": "This American actor and film producer appeared in Fight Club, Inglourious Basterds and Seven Years in Tibet.",
+   "a": "Who is Brad Pitt?",
+   "tier": 2
+  },
+  {
+   "id": "Q37079-credits",
+   "q": "This American actor and film producer appeared in Top Gun, Jerry Maguire and Mission: Impossible.",
+   "a": "Who is Tom Cruise?",
+   "tier": 2
+  },
+  {
+   "id": "Q81328-credits",
+   "q": "This American actor appeared in Raiders of the Lost Ark, Blade Runner and The Fugitive.",
+   "a": "Who is Harrison Ford?",
+   "tier": 2
+  },
+  {
+   "id": "Q2685-credits",
+   "q": "This Austrian and American actor, businessman and former politician appeared in The Terminator, Conan the Barbarian and The Running Man.",
+   "a": "Who is Arnold Schwarzenegger?",
+   "tier": 2
+  },
+  {
+   "id": "Q40026-credits",
+   "q": "This American actor and filmmaker appeared in Rocky, First Blood and The Expendables.",
+   "a": "Who is Sylvester Stallone?",
+   "tier": 2
+  },
+  {
+   "id": "Q13909-credits",
+   "q": "This American actress, filmmaker, and humanitarian appeared in Maleficent, Lara Croft: Tomb Raider and Salt.",
+   "a": "Who is Angelina Jolie?",
+   "tier": 2
+  },
+  {
+   "id": "Q40791-credits",
+   "q": "This German-American actress and film producer appeared in Speed, The Proposal and The Blind Side.",
+   "a": "Who is Sandra Bullock?",
+   "tier": 2
+  },
+  {
+   "id": "Q40523-credits",
+   "q": "This American actress appeared in Notting Hill, My Best Friend's Wedding and Runaway Bride.",
+   "a": "Who is Julia Roberts?",
+   "tier": 2
+  },
+  {
+   "id": "Q873-credits",
+   "q": "This American actress appeared in The Devil Wears Prada, Mamma Mia! and Kramer vs. Kramer.",
+   "a": "Who is Meryl Streep?",
+   "tier": 2
+  },
+  {
+   "id": "Q36301-credits",
+   "q": "This American actress appeared in The Princess Diaries, The Devil Wears Prada and Interstellar.",
+   "a": "Who is Anne Hathaway?",
+   "tier": 2
+  },
+  {
+   "id": "Q147077-credits",
+   "q": "This American actress and film producer appeared in Cruella, The Amazing Spider-Man and Poor Things.",
+   "a": "Who is Emma Stone?",
+   "tier": 2
+  },
+  {
+   "id": "Q129591-credits",
+   "q": "This Australian and British actor, singer, and producer appeared in The Greatest Showman, Les Misérables and Deadpool & Wolverine.",
+   "a": "Who is Hugh Jackman?",
+   "tier": 2
+  },
+  {
+   "id": "Q178166-credits",
+   "q": "This American actor and filmmaker appeared in The Fast and the Furious, xXx and Saving Private Ryan.",
+   "a": "Who is Vin Diesel?",
+   "tier": 2
+  },
+  {
+   "id": "Q175535-credits",
+   "q": "This American actor, film producer, and screenwriter appeared in The Martian, The Bourne Identity and Ford v Ferrari.",
+   "a": "Who is Matt Damon?",
+   "tier": 2
+  },
+  {
+   "id": "Q42101-credits",
+   "q": "This American actor and film producer appeared in Training Day, Glory and The Equalizer.",
+   "a": "Who is Denzel Washington?",
+   "tier": 2
+  },
+  {
+   "id": "Q32522-credits",
+   "q": "This American actress appeared in Friends, Bruce Almighty and Marley & Me.",
+   "a": "Who is Jennifer Aniston?",
+   "tier": 2
+  },
+  {
+   "id": "Q126599-credits",
+   "q": "This American actress and filmmaker appeared in Twilight, Panic Room and Snow White and the Huntsman.",
+   "a": "Who is Kristen Stewart?",
+   "tier": 2
+  },
+  {
+   "id": "Q151892-credits",
+   "q": "This American singer, songwriter, and actress appeared in Victorious, Sam & Cat and Wicked.",
+   "a": "Who is Ariana Grande?",
+   "tier": 2
+  },
+  {
+   "id": "Q882-credits",
+   "q": "This English comic actor, filmmaker, singer, film editor and composer appeared in The Great Dictator, Modern Times and The Kid.",
+   "a": "Who is Charlie Chaplin?",
+   "tier": 2
+  },
+  {
+   "id": "Q23760-credits",
+   "q": "This English actor, comedian, and writer appeared in Mr. Bean, Love Actually and Four Weddings and a Funeral.",
+   "a": "Who is Rowan Atkinson?",
+   "tier": 2
+  },
+  {
+   "id": "Q34012-credits",
+   "q": "This American actor appeared in The Godfather, On the Waterfront and A Streetcar Named Desire.",
+   "a": "Who is Marlon Brando?",
+   "tier": 3
+  },
+  {
+   "id": "Q41163-credits",
+   "q": "This American actor appeared in The Godfather, Scarface and Serpico.",
+   "a": "Who is Al Pacino?",
+   "tier": 3
+  },
+  {
+   "id": "Q36949-credits",
+   "q": "This American actor and producer appeared in The Godfather Part II, Joker and Meet the Fockers.",
+   "a": "Who is Robert De Niro?",
+   "tier": 3
+  },
+  {
+   "id": "Q43203-credits",
+   "q": "This American actor and filmmaker appeared in The Good, the Bad and the Ugly, Dirty Harry and Gran Torino.",
+   "a": "Who is Clint Eastwood?",
+   "tier": 3
+  },
+  {
+   "id": "Q39792-credits",
+   "q": "This American actor and filmmaker appeared in Batman, Chinatown and A Few Good Men.",
+   "a": "Who is Jack Nicholson?",
+   "tier": 3
+  },
+  {
+   "id": "Q65932-credits",
+   "q": "This Welsh actor appeared in The Silence of the Lambs, Hannibal and The Father.",
+   "a": "Who is Anthony Hopkins?",
+   "tier": 3
+  },
+  {
+   "id": "Q37459-credits",
+   "q": "This Australian and American actress and producer appeared in Paddington, The Hours and Aquaman.",
+   "a": "Who is Nicole Kidman?",
+   "tier": 3
+  },
+  {
+   "id": "Q202765-credits",
+   "q": "This English actress appeared in Titanic, The Reader and The Holiday.",
+   "a": "Who is Kate Winslet?",
+   "tier": 3
+  },
+  {
+   "id": "Q37876-credits",
+   "q": "This actress and filmmaker with dual Israeli and American citizenship appeared in Star Wars: Episode I – The Phantom Menace, Black Swan and V for Vendetta.",
+   "a": "Who is Natalie Portman?",
+   "tier": 3
+  },
+  {
+   "id": "Q2680-credits",
+   "q": "This American actor appeared in Die Hard, The Sixth Sense and Armageddon.",
+   "a": "Who is Bruce Willis?",
+   "tier": 3
+  },
+  {
+   "id": "Q80938-credits",
+   "q": "This American actor appeared in Saturday Night Fever, Face/Off and Hairspray.",
+   "a": "Who is John Travolta?",
+   "tier": 3
+  },
+  {
+   "id": "Q4573-credits",
+   "q": "This Scottish actor and film producer appeared in Dr. No, From Russia with Love and Indiana Jones and the Last Crusade.",
+   "a": "Who is Sean Connery?",
+   "tier": 3
+  },
+  {
+   "id": "Q4547-credits",
+   "q": "This English actor appeared in Casino Royale, No Time to Die and Knives Out.",
+   "a": "Who is Daniel Craig?",
+   "tier": 3
+  },
+  {
+   "id": "Q42229-credits",
+   "q": "This American actor and filmmaker appeared in Braveheart, Signs and Maverick.",
+   "a": "Who is Mel Gibson?",
+   "tier": 3
+  },
+  {
+   "id": "Q129817-credits",
+   "q": "This New Zealand–born actor and film director appeared in Gladiator, Robin Hood and Les Misérables.",
+   "a": "Who is Russell Crowe?",
+   "tier": 3
+  },
+  {
+   "id": "Q45772-credits",
+   "q": "This English actor appeared in The Fighter, Ford v Ferrari and Vice.",
+   "a": "Who is Christian Bale?",
+   "tier": 3
+  },
+  {
+   "id": "Q123351-credits",
+   "q": "This English actor appeared in Inception, Interstellar and The Cider House Rules.",
+   "a": "Who is Michael Caine?",
+   "tier": 3
+  },
+  {
+   "id": "Q1033016-credits",
+   "q": "This American actress appeared in Monster's Ball, Catwoman and Swordfish.",
+   "a": "Who is Halle Berry?",
+   "tier": 3
+  },
+  {
+   "id": "Q44063-credits",
+   "q": "This American actress and producer appeared in Legally Blonde, Walk the Line and Sweet Home Alabama.",
+   "a": "Who is Reese Witherspoon?",
+   "tier": 3
+  },
+  {
+   "id": "Q34460-credits",
+   "q": "This American actress and businesswoman appeared in Iron Man 2, Shallow Hal and Sliding Doors.",
+   "a": "Who is Gwyneth Paltrow?",
+   "tier": 3
+  },
+  {
+   "id": "Q42786-credits",
+   "q": "This British actress and humanitarian appeared in Roman Holiday, My Fair Lady and Charade.",
+   "a": "Who is Audrey Hepburn?",
+   "tier": 4
+  },
+  {
+   "id": "Q11637-credits",
+   "q": "This American actress, singer, and vaudevillian appeared in Meet Me in St. Louis, A Star Is Born and Easter Parade.",
+   "a": "Who is Judy Garland?",
+   "tier": 4
+  },
+  {
+   "id": "Q16390-credits",
+   "q": "This American actor appeared in Casablanca, The Maltese Falcon and The African Queen.",
+   "a": "Who is Humphrey Bogart?",
+   "tier": 4
+  },
+  {
+   "id": "Q40531-credits",
+   "q": "This American actor appeared in Stagecoach, The Searchers and True Grit.",
+   "a": "Who is John Wayne?",
+   "tier": 4
+  },
+  {
+   "id": "Q83359-credits",
+   "q": "This American actor appeared in Rebel Without a Cause, East of Eden and Giant.",
+   "a": "Who is James Dean?",
+   "tier": 4
+  },
+  {
+   "id": "Q34851-credits",
+   "q": "This British and American actress appeared in Cleopatra, Cat on a Hot Tin Roof and National Velvet.",
+   "a": "Who is Elizabeth Taylor?",
+   "tier": 4
+  },
+  {
+   "id": "Q83410-credits",
+   "q": "This British-American actor appeared in North by Northwest, Notorious and Charade.",
+   "a": "Who is Cary Grant?",
+   "tier": 4
+  },
+  {
+   "id": "Q43247-credits",
+   "q": "This Swedish actress appeared in Casablanca, Notorious and Gaslight.",
+   "a": "Who is Ingrid Bergman?",
+   "tier": 4
+  },
+  {
+   "id": "Q56016-credits",
+   "q": "This American actress appeared in The African Queen, On Golden Pond and The Philadelphia Story.",
+   "a": "Who is Katharine Hepburn?",
+   "tier": 4
+  },
+  {
+   "id": "Q191966-credits",
+   "q": "This American actor, comedian, writer and filmmaker appeared in Willy Wonka & the Chocolate Factory, Young Frankenstein and Blazing Saddles.",
+   "a": "Who is Gene Wilder?",
+   "tier": 4
+  },
+  {
+   "id": "Q104049-credits",
+   "q": "This Bahamian-American actor, film director, activist, and diplomat appeared in In the Heat of the Night, Guess Who's Coming to Dinner and Lilies of the Field.",
+   "a": "Who is Sidney Poitier?",
+   "tier": 4
+  },
+  {
+   "id": "Q42930-credits",
+   "q": "This American actor and filmmaker appeared in The Graduate, Kramer vs. Kramer and Hook.",
+   "a": "Who is Dustin Hoffman?",
+   "tier": 4
+  },
+  {
+   "id": "Q41351-credits",
+   "q": "This American actress and filmmaker appeared in The Silence of the Lambs, Panic Room and Nim's Island.",
+   "a": "Who is Jodie Foster?",
+   "tier": 4
+  },
+  {
+   "id": "Q102124-credits",
+   "q": "This American actress appeared in Avatar, Ghostbusters and Galaxy Quest.",
+   "a": "Who is Sigourney Weaver?",
+   "tier": 4
+  },
+  {
+   "id": "Q83492-credits",
+   "q": "This English actor and filmmaker appeared in Léon: The Professional, The Fifth Element and Darkest Hour.",
+   "a": "Who is Gary Oldman?",
+   "tier": 4
+  },
+  {
+   "id": "Q40572-credits",
+   "q": "This Australian actor appeared in Brokeback Mountain, A Knight's Tale and The Brothers Grimm.",
+   "a": "Who is Heath Ledger?",
+   "tier": 4
+  },
+  {
+   "id": "Q80046-credits",
+   "q": "This South African and American actress and producer appeared in Mad Max: Fury Road, Monster and Snow White and the Huntsman.",
+   "a": "Who is Charlize Theron?",
+   "tier": 4
+  },
+  {
+   "id": "Q80966-credits",
+   "q": "This Australian actor and producer appeared in Elizabeth, Blue Jasmine and Cinderella.",
+   "a": "Who is Cate Blanchett?",
+   "tier": 4
+  },
+  {
+   "id": "Q41871-credits",
+   "q": "This American actor, filmmaker, racecar driver, philanthropist, and entrepreneur appeared in Cars, Butch Cassidy and the Sundance Kid and Cool Hand Luke.",
+   "a": "Who is Paul Newman?",
+   "tier": 4
+  },
+  {
+   "id": "Q108941-credits",
+   "q": "This American actress and writer appeared in When Harry Met Sally, Hook and Shampoo.",
+   "a": "Who is Carrie Fisher?",
+   "tier": 4
+  },
+  {
+   "id": "Q16397-credits",
+   "q": "This Hong Kong and American martial artist, actor, filmmaker, and philosopher appeared in Enter the Dragon, Fist of Fury and The Big Boss.",
+   "a": "Who is Bruce Lee?",
+   "tier": 5
+  },
+  {
+   "id": "Q5443-credits",
+   "q": "This Swedish and American film actress appeared in Grand Hotel, Ninotchka and Queen Christina.",
+   "a": "Who is Greta Garbo?",
+   "tier": 5
+  },
+  {
+   "id": "Q4612-credits",
+   "q": "This German and American actress and singer appeared in The Blue Angel, Shanghai Express and Witness for the Prosecution.",
+   "a": "Who is Marlene Dietrich?",
+   "tier": 5
+  },
+  {
+   "id": "Q71206-credits",
+   "q": "This American actress of film, television, and theater appeared in All About Eve, Jezebel and Dark Victory.",
+   "a": "Who is Bette Davis?",
+   "tier": 5
+  },
+  {
+   "id": "Q71243-credits",
+   "q": "This American actor appeared in It Happened One Night, Mutiny on the Bounty and The Misfits.",
+   "a": "Who is Clark Gable?",
+   "tier": 5
+  },
+  {
+   "id": "Q100937-credits",
+   "q": "This American dancer, actor, singer, musician, choreographer, and presenter appeared in Top Hat, Swing Time and Holiday Inn.",
+   "a": "Who is Fred Astaire?",
+   "tier": 5
+  },
+  {
+   "id": "Q103949-credits",
+   "q": "This American actor, comedian and filmmaker appeared in The General, Steamboat Bill Jr. and The Navigator.",
+   "a": "Who is Buster Keaton?",
+   "tier": 5
+  },
+  {
+   "id": "Q104027-credits",
+   "q": "This American actor and filmmaker appeared in Spartacus, Paths of Glory and Lust for Life.",
+   "a": "Who is Kirk Douglas?",
+   "tier": 5
+  },
+  {
+   "id": "Q19155-credits",
+   "q": "This American actor appeared in The Grapes of Wrath, On Golden Pond and My Darling Clementine.",
+   "a": "Who is Henry Fonda?",
+   "tier": 5
+  },
+  {
+   "id": "Q24829-credits",
+   "q": "This American actor and filmmaker appeared in Citizen Kane, The Third Man and Touch of Evil.",
+   "a": "Who is Orson Welles?",
+   "tier": 5
+  },
+  {
+   "id": "Q37001-credits",
+   "q": "This Japanese actor and producer appeared in Seven Samurai, Rashomon and Yojimbo.",
+   "a": "Who is Toshiro Mifune?",
+   "tier": 5
+  },
+  {
+   "id": "Q43252-credits",
+   "q": "This Italian actress appeared in Two Women, Marriage Italian-Style and El Cid.",
+   "a": "Who is Sophia Loren?",
+   "tier": 5
+  },
+  {
+   "id": "Q166389-credits",
+   "q": "This English actor appeared in My Left Foot, The Last of the Mohicans and Phantom Thread.",
+   "a": "Who is Daniel Day-Lewis?",
+   "tier": 5
+  },
+  {
+   "id": "Q103876-credits",
+   "q": "This English and Irish actor appeared in Lawrence of Arabia, The Lion in Winter and Becket.",
+   "a": "Who is Peter O'Toole?",
+   "tier": 5
+  },
+  {
+   "id": "Q129429-credits",
+   "q": "This British actress appeared in A Streetcar Named Desire, Waterloo Bridge and Anna Karenina.",
+   "a": "Who is Vivien Leigh?",
+   "tier": 5
+  },
+  {
+   "id": "Q190523-credits",
+   "q": "This Canadian actor appeared in The Sound of Music, Knives Out and Beginners.",
+   "a": "Who is Christopher Plummer?",
+   "tier": 5
+  },
+  {
+   "id": "Q104372-credits",
+   "q": "This American actress and singer appeared in Pillow Talk, Calamity Jane and The Man Who Knew Too Much.",
+   "a": "Who is Doris Day?",
+   "tier": 5
+  },
+  {
+   "id": "Q42745-credits",
+   "q": "This American actress, dancer and pin-up girl appeared in Gilda, The Lady from Shanghai and Cover Girl.",
+   "a": "Who is Rita Hayworth?",
+   "tier": 5
+  },
+  {
+   "id": "Q40475-credits",
+   "q": "This American actress appeared in Mildred Pierce, Johnny Guitar and Grand Hotel.",
+   "a": "Who is Joan Crawford?",
+   "tier": 5
+  },
+  {
+   "id": "Q102642-credits",
+   "q": "This American actress appeared in Reds, Manhattan and Father of the Bride.",
+   "a": "Who is Diane Keaton?",
+   "tier": 5
+  }
+ ]
+}

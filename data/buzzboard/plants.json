@@ -1,0 +1,308 @@
+{
+ "category": "Plants",
+ "slug": "plants",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "plants-01",
+   "q": "Plants use sunlight, water and carbon dioxide to make sugar and oxygen in this process",
+   "a": "What is photosynthesis?",
+   "tier": 1
+  },
+  {
+   "id": "plants-02",
+   "q": "This green pigment in leaves absorbs the light that plants need to make food",
+   "a": "What is chlorophyll?",
+   "tier": 1
+  },
+  {
+   "id": "plants-03",
+   "q": "This northern California tree species includes Hyperion, the tallest known living tree on Earth",
+   "a": "What is the coast redwood?",
+   "tier": 1
+  },
+  {
+   "id": "plants-04",
+   "q": "This spiny desert plant stores water in its thick, fleshy stem",
+   "a": "What is a cactus?",
+   "tier": 1
+  },
+  {
+   "id": "plants-05",
+   "q": "This carnivorous plant from the Carolinas snaps its hinged leaves shut on insects",
+   "a": "What is the Venus flytrap?",
+   "tier": 1
+  },
+  {
+   "id": "plants-06",
+   "q": "Acorns are the nuts of this tree",
+   "a": "What is the oak?",
+   "tier": 1
+  },
+  {
+   "id": "plants-07",
+   "q": "This part of a plant anchors it in the soil and absorbs water and minerals",
+   "a": "What are roots?",
+   "tier": 1
+  },
+  {
+   "id": "plants-08",
+   "q": "Bees carry this yellow, powdery dust from flower to flower, helping plants make seeds",
+   "a": "What is pollen?",
+   "tier": 1
+  },
+  {
+   "id": "plants-09",
+   "q": "Canada's flag shows a leaf of this tree, whose sap is boiled down into a sweet syrup",
+   "a": "What is the maple?",
+   "tier": 1
+  },
+  {
+   "id": "plants-10",
+   "q": "Young heads of this tall, yellow-petaled plant turn to follow the sun across the sky",
+   "a": "What is the sunflower?",
+   "tier": 1
+  },
+  {
+   "id": "plants-11",
+   "q": "This giant grass, the giant panda's main food, includes some of the fastest-growing plants in the world",
+   "a": "What is bamboo?",
+   "tier": 2
+  },
+  {
+   "id": "plants-12",
+   "q": "Plants take in carbon dioxide and release oxygen through these tiny pores, mostly on the undersides of leaves",
+   "a": "What are stomata?",
+   "tier": 2
+  },
+  {
+   "id": "plants-13",
+   "q": "This word describes trees, like maples and oaks, that drop all their leaves each autumn",
+   "a": "What is deciduous?",
+   "tier": 2
+  },
+  {
+   "id": "plants-14",
+   "q": "Botanically, a tomato is one of these, because it develops from a flower and contains seeds",
+   "a": "What is a fruit?",
+   "tier": 2
+  },
+  {
+   "id": "plants-15",
+   "q": "These ancient, non-flowering plants with feathery fronds reproduce using spores instead of seeds",
+   "a": "What are ferns?",
+   "tier": 2
+  },
+  {
+   "id": "plants-16",
+   "q": "This is the process of a seed sprouting and beginning to grow",
+   "a": "What is germination?",
+   "tier": 2
+  },
+  {
+   "id": "plants-17",
+   "q": "'Leaves of three, let it be' warns hikers about this plant, whose oil causes an itchy rash",
+   "a": "What is poison ivy?",
+   "tier": 2
+  },
+  {
+   "id": "plants-18",
+   "q": "Pines, spruces and firs belong to this group of mostly evergreen, cone-bearing trees",
+   "a": "What are conifers?",
+   "tier": 2
+  },
+  {
+   "id": "plants-19",
+   "q": "Photosynthesis takes place inside these green organelles in plant cells",
+   "a": "What are chloroplasts?",
+   "tier": 2
+  },
+  {
+   "id": "plants-20",
+   "q": "Despite its name, this snack is a legume that grows underground, not a true nut",
+   "a": "What is the peanut?",
+   "tier": 2
+  },
+  {
+   "id": "plants-21",
+   "q": "This plant tissue of tiny tubes carries water up from the roots to the leaves",
+   "a": "What is xylem?",
+   "tier": 3
+  },
+  {
+   "id": "plants-22",
+   "q": "In the 1630s Dutch Republic, bulbs of this flower sold for fortunes before prices crashed in 1637",
+   "a": "What are tulips?",
+   "tier": 3
+  },
+  {
+   "id": "plants-23",
+   "q": "Nicknamed the corpse flower, this Sumatran plant blooms rarely, smells like rotting meat, and sends up a flower spike that can top 3 meters",
+   "a": "What is the titan arum?",
+   "tier": 3
+  },
+  {
+   "id": "plants-24",
+   "q": "This 19th-century monk founded the science of genetics through careful experiments on pea plants",
+   "a": "Who is Gregor Mendel?",
+   "tier": 3
+  },
+  {
+   "id": "plants-25",
+   "q": "The General Sherman tree, the largest single-trunk tree on Earth by volume, is one of these",
+   "a": "What is a giant sequoia?",
+   "tier": 3
+  },
+  {
+   "id": "plants-26",
+   "q": "These carnivorous species trap insects in deep, slippery, liquid-filled leaves shaped like jugs",
+   "a": "What are pitcher plants?",
+   "tier": 3
+  },
+  {
+   "id": "plants-27",
+   "q": "This tough carbohydrate makes up plant cell walls and is the main ingredient of paper and cotton",
+   "a": "What is cellulose?",
+   "tier": 3
+  },
+  {
+   "id": "plants-28",
+   "q": "This 18th-century Swedish botanist created the two-part scientific naming system, like Homo sapiens",
+   "a": "Who is Carl Linnaeus?",
+   "tier": 3
+  },
+  {
+   "id": "plants-29",
+   "q": "This is the process by which plants lose water vapor through their leaves",
+   "a": "What is transpiration?",
+   "tier": 3
+  },
+  {
+   "id": "plants-30",
+   "q": "The tall plants that grow this fruit aren't trees but giant herbs, and botanically the fruit is a berry",
+   "a": "What are bananas?",
+   "tier": 3
+  },
+  {
+   "id": "plants-31",
+   "q": "This parasitic plant of Southeast Asian rainforests produces the largest individual flower on Earth, which smells like rotting flesh",
+   "a": "What is Rafflesia?",
+   "tier": 4
+  },
+  {
+   "id": "plants-32",
+   "q": "This African tree with a massive water-storing trunk is nicknamed the 'upside-down tree' for its root-like branches",
+   "a": "What is the baobab?",
+   "tier": 4
+  },
+  {
+   "id": "plants-33",
+   "q": "Nicknamed the sensitive plant, this tropical legume folds up its leaves within seconds when touched",
+   "a": "What is Mimosa pudica?",
+   "tier": 4
+  },
+  {
+   "id": "plants-34",
+   "q": "Methuselah, a tree in California's White Mountains more than 4,800 years old, is one of these",
+   "a": "What is a Great Basin bristlecone pine?",
+   "tier": 4
+  },
+  {
+   "id": "plants-35",
+   "q": "This pricey spice is made from the dried red stigmas of a crocus flower, harvested by hand",
+   "a": "What is saffron?",
+   "tier": 4
+  },
+  {
+   "id": "plants-36",
+   "q": "This popular flavoring comes from the cured seed pods of a climbing orchid",
+   "a": "What is vanilla?",
+   "tier": 4
+  },
+  {
+   "id": "plants-37",
+   "q": "Bacteria in root nodules of peas, beans and clover turn this gas from the air into a form plants can use",
+   "a": "What is nitrogen?",
+   "tier": 4
+  },
+  {
+   "id": "plants-38",
+   "q": "The last living species of an order over 290 million years old, this 'living fossil' tree has fan-shaped leaves",
+   "a": "What is the ginkgo?",
+   "tier": 4
+  },
+  {
+   "id": "plants-39",
+   "q": "Brought to the US from Asia, this fast-growing vine is nicknamed 'the vine that ate the South'",
+   "a": "What is kudzu?",
+   "tier": 4
+  },
+  {
+   "id": "plants-40",
+   "q": "This science dates past events and climates by counting and comparing the yearly growth rings in trees",
+   "a": "What is dendrochronology?",
+   "tier": 4
+  },
+  {
+   "id": "plants-41",
+   "q": "Found only in the Namib Desert region, this plant grows just two strap-like leaves for its whole life, which can last centuries",
+   "a": "What is Welwitschia?",
+   "tier": 5
+  },
+  {
+   "id": "plants-42",
+   "q": "Considered the world's heaviest tree, this Utah aspen grove is one male tree linked by a single root system",
+   "a": "What is Pando?",
+   "tier": 5
+  },
+  {
+   "id": "plants-43",
+   "q": "Unknown to science until 1994, this 'living fossil' conifer was found in remote gorges about 150 km northwest of Sydney",
+   "a": "What is the Wollemi pine?",
+   "tier": 5
+  },
+  {
+   "id": "plants-44",
+   "q": "This Seychelles palm produces the largest seed in the plant kingdom",
+   "a": "What is the coco de mer?",
+   "tier": 5
+  },
+  {
+   "id": "plants-45",
+   "q": "Many trees, like oaks and pines, partner with these root-dwelling fungi that swap minerals and water for sugar",
+   "a": "What are mycorrhizae?",
+   "tier": 5
+  },
+  {
+   "id": "plants-46",
+   "q": "This plant hormone gas, given off by ripening bananas, can speed the ripening of nearby fruit",
+   "a": "What is ethylene?",
+   "tier": 5
+  },
+  {
+   "id": "plants-47",
+   "q": "This plant hormone collects on the shaded side of a stem and makes it bend toward light",
+   "a": "What is auxin?",
+   "tier": 5
+  },
+  {
+   "id": "plants-48",
+   "q": "Starting life on a branch of another tree, this rainforest fig wraps roots around its host and can eventually kill it",
+   "a": "What is the strangler fig?",
+   "tier": 5
+  },
+  {
+   "id": "plants-49",
+   "q": "Pines, ginkgoes and cycads belong to this group whose name means 'naked seeds', since their seeds aren't enclosed in fruit",
+   "a": "What are gymnosperms?",
+   "tier": 5
+  },
+  {
+   "id": "plants-50",
+   "q": "This leafless, stringy parasitic vine of the genus Cuscuta finds host plants by sensing the chemicals they give off",
+   "a": "What is dodder?",
+   "tier": 5
+  }
+ ]
+}

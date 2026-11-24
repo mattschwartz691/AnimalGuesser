@@ -1,0 +1,308 @@
+{
+ "category": "Famous Landmarks",
+ "slug": "landmarks",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "landmarks-01",
+   "q": "This wrought-iron Paris landmark was built for the 1889 World's Fair",
+   "a": "What is the Eiffel Tower?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-02",
+   "q": "A gift from France, this torch-holding copper lady in New York Harbor was dedicated in 1886",
+   "a": "What is the Statue of Liberty?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-03",
+   "q": "Built over many centuries to keep out northern invaders, its most visited section is at Badaling near Beijing",
+   "a": "What is the Great Wall of China?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-04",
+   "q": "Mughal emperor Shah Jahan built this white marble mausoleum in Agra for his beloved wife",
+   "a": "What is the Taj Mahal?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-05",
+   "q": "Gladiators once fought before roaring crowds in this ancient Roman amphitheater",
+   "a": "What is the Colosseum?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-06",
+   "q": "The oldest of the Seven Wonders of the Ancient World, it's the only one still largely standing",
+   "a": "What is the Great Pyramid of Giza?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-07",
+   "q": "Construction of this Italian campanile began in 1173, and it started to tilt before it was even finished",
+   "a": "What is the Leaning Tower of Pisa?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-08",
+   "q": "This International Orange suspension span across the mouth of San Francisco Bay opened in 1937",
+   "a": "What is the Golden Gate Bridge?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-09",
+   "q": "Strictly speaking, this famous nickname belongs to the great bell inside the clock tower at London's Houses of Parliament",
+   "a": "What is Big Ben?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-10",
+   "q": "Its white, sail-like roof shells make this performing arts venue on Bennelong Point Australia's most famous building",
+   "a": "What is the Sydney Opera House?",
+   "tier": 1
+  },
+  {
+   "id": "landmarks-11",
+   "q": "This 15th-century Inca citadel sits high on a ridge in Peru's Andes",
+   "a": "What is Machu Picchu?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-12",
+   "q": "This Art Deco statue with outstretched arms looks down on Rio de Janeiro from Corcovado mountain",
+   "a": "What is Christ the Redeemer?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-13",
+   "q": "This prehistoric ring of standing stones rises from Salisbury Plain in England",
+   "a": "What is Stonehenge?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-14",
+   "q": "Nicknamed the 'Rose City', this ancient site in Jordan has buildings carved directly into sandstone cliffs",
+   "a": "What is Petra?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-15",
+   "q": "This temple to the goddess Athena crowns the Acropolis",
+   "a": "What is the Parthenon?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-16",
+   "q": "This South Dakota monument features the 60-foot faces of four U.S. presidents",
+   "a": "What is Mount Rushmore?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-17",
+   "q": "Designed by Antoni Gaudí, construction of this Barcelona basilica began in 1882 and has stretched on for well over a century",
+   "a": "What is the Sagrada Família?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-18",
+   "q": "The step pyramid called El Castillo is the centerpiece of this Maya city on the Yucatán Peninsula",
+   "a": "What is Chichén Itzá?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-19",
+   "q": "This Dubai skyscraper became the world's tallest building when it opened in 2010",
+   "a": "What is the Burj Khalifa?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-20",
+   "q": "This 12th-century temple complex in Cambodia is so iconic that it appears on the national flag",
+   "a": "What is Angkor Wat?",
+   "tier": 2
+  },
+  {
+   "id": "landmarks-21",
+   "q": "This fairy-tale Bavarian palace, built for King Ludwig II, helped inspire the centerpiece of Disneyland",
+   "a": "What is Neuschwanstein Castle?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-22",
+   "q": "This Moorish palace and fortress complex overlooks the city of Granada, Spain",
+   "a": "What is the Alhambra?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-23",
+   "q": "Completed in 537 as a cathedral under Emperor Justinian, this Istanbul landmark later became a mosque",
+   "a": "What is Hagia Sophia?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-24",
+   "q": "With its swirling, colorful onion domes, this 16th-century church stands on Moscow's Red Square",
+   "a": "What is St. Basil's Cathedral?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-25",
+   "q": "Napoleon commissioned this huge Paris arch at the western end of the Champs-Élysées",
+   "a": "What is the Arc de Triomphe?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-26",
+   "q": "This medieval abbey crowns a rocky tidal island off the coast of Normandy",
+   "a": "What is Mont-Saint-Michel?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-27",
+   "q": "This walled palace complex in Beijing was home to Chinese emperors from the Ming dynasty to the end of the Qing",
+   "a": "What is the Forbidden City?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-28",
+   "q": "Built for the 1962 World's Fair, this flying-saucer-topped observation tower is Seattle's best-known landmark",
+   "a": "What is the Space Needle?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-29",
+   "q": "These giant stone human figures were carved by the Rapa Nui people on Easter Island",
+   "a": "What are the moai?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-30",
+   "q": "This former federal prison on an island in San Francisco Bay once held Al Capone",
+   "a": "What is Alcatraz?",
+   "tier": 3
+  },
+  {
+   "id": "landmarks-31",
+   "q": "At 630 feet, this stainless steel monument on the St. Louis riverfront is the tallest of its kind in the world",
+   "a": "What is the Gateway Arch?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-32",
+   "q": "This 9th-century temple on the Indonesian island of Java is the world's largest Buddhist temple",
+   "a": "What is Borobudur?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-33",
+   "q": "Covered in gilded copper, this shrine in Amritsar, India, is the holiest site in Sikhism",
+   "a": "What is the Golden Temple?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-34",
+   "q": "This towering white-and-red fortress in Lhasa was the winter home of the Dalai Lamas",
+   "a": "What is the Potala Palace?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-35",
+   "q": "Popes are elected in this Vatican room, whose ceiling Michelangelo painted between 1508 and 1512",
+   "a": "What is the Sistine Chapel?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-36",
+   "q": "These 88-story twin skyscrapers in Kuala Lumpur were the world's tallest buildings from 1998 to 2004",
+   "a": "What are the Petronas Towers?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-37",
+   "q": "This 553-meter concrete communications spire dominates the Toronto skyline",
+   "a": "What is the CN Tower?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-38",
+   "q": "Louis XIV turned a hunting lodge outside Paris into this lavish royal residence with a Hall of Mirrors",
+   "a": "What is the Palace of Versailles?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-39",
+   "q": "This huge sandstone monolith in Australia's Northern Territory is sacred to the Anangu people",
+   "a": "What is Uluru?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-40",
+   "q": "Thousands of life-size clay soldiers were buried near Xi'an to guard the tomb of China's first emperor",
+   "a": "What is the Terracotta Army?",
+   "tier": 4
+  },
+  {
+   "id": "landmarks-41",
+   "q": "Shaped like an iron crystal magnified 165 billion times, this Brussels structure was built for Expo 58",
+   "a": "What is the Atomium?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-42",
+   "q": "This three-tiered ancient Roman aqueduct bridge crosses a river near Nîmes in southern France",
+   "a": "What is the Pont du Gard?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-43",
+   "q": "This gilded stupa, covered in gold and jewels, dominates the skyline of Yangon, Myanmar",
+   "a": "What is the Shwedagon Pagoda?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-44",
+   "q": "Rebuilt in 1907, this house of worship in Mali is the largest mud-brick structure in the world",
+   "a": "What is the Great Mosque of Djenné?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-45",
+   "q": "This Ethiopian town is famous for 11 medieval churches carved downward into solid rock",
+   "a": "What is Lalibela?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-46",
+   "q": "Greek Orthodox monasteries perch atop towering rock pillars at this site in central Greece",
+   "a": "What is Meteora?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-47",
+   "q": "Topped with a stainless-steel crown, this Art Deco Manhattan tower was the world's tallest for about a year after its 1930 completion",
+   "a": "What is the Chrysler Building?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-48",
+   "q": "This ceremonial capital of the Achaemenid Empire in Iran was burned by Alexander the Great",
+   "a": "What is Persepolis?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-49",
+   "q": "The top two floors of this Zen temple in Kyoto are covered in gold leaf",
+   "a": "What is Kinkaku-ji?",
+   "tier": 5
+  },
+  {
+   "id": "landmarks-50",
+   "q": "This fortified clay village in Morocco's Atlas foothills has appeared in films like Gladiator",
+   "a": "What is Aït Benhaddou?",
+   "tier": 5
+  }
+ ]
+}

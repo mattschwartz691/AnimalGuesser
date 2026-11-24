@@ -1,0 +1,308 @@
+{
+ "category": "TV Shows",
+ "slug": "tv-shows",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "tv-shows-01",
+   "q": "This yellow-skinned animated family lives at 742 Evergreen Terrace in Springfield",
+   "a": "What is The Simpsons?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-02",
+   "q": "Ross, Rachel, Monica, Chandler, Joey and Phoebe are the six pals of this NBC sitcom",
+   "a": "What is Friends?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-03",
+   "q": "In this Netflix series, kids from Hawkins, Indiana battle monsters from the Upside Down",
+   "a": "What is Stranger Things?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-04",
+   "q": "This singing competition's original judges were Simon Cowell, Paula Abdul and Randy Jackson",
+   "a": "What is American Idol?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-05",
+   "q": "Michael Scott manages the Scranton branch of Dunder Mifflin in this mockumentary sitcom",
+   "a": "What is The Office?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-06",
+   "q": "In this sitcom, widower Danny Tanner raises three daughters in San Francisco with help from Jesse and Joey",
+   "a": "What is Full House?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-07",
+   "q": "In this reality show, castaways are voted out at Tribal Council until one is left to win a million dollars",
+   "a": "What is Survivor?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-08",
+   "q": "Home bakers compete in a big white tent in the English countryside on this competition show",
+   "a": "What is The Great British Bake Off?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-09",
+   "q": "On this Disney Channel series, Miley Stewart secretly lives a double life as a blonde pop star",
+   "a": "What is Hannah Montana?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-10",
+   "q": "Sheldon, Leonard, Howard and Raj are scientist friends in this CBS sitcom",
+   "a": "What is The Big Bang Theory?",
+   "tier": 1
+  },
+  {
+   "id": "tv-shows-11",
+   "q": "Celebrities and their professional ballroom partners compete for the Mirrorball Trophy on this show",
+   "a": "What is Dancing with the Stars?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-12",
+   "q": "The Pritchett, Dunphy and Tucker-Pritchett households are filmed mockumentary-style in this sitcom",
+   "a": "What is Modern Family?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-13",
+   "q": "Nerdy neighbor Steve Urkel constantly asks \"Did I do that?\" on this sitcom",
+   "a": "What is Family Matters?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-14",
+   "q": "Will Smith moves from West Philadelphia to live with his wealthy aunt and uncle in this sitcom",
+   "a": "What is The Fresh Prince of Bel-Air?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-15",
+   "q": "In this sitcom, Ted Mosby tells his kids a very long story about how he met their mom",
+   "a": "What is How I Met Your Mother?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-16",
+   "q": "This British sci-fi hero travels through time and space in a TARDIS that looks like a police box",
+   "a": "What is Doctor Who?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-17",
+   "q": "Detective Jake Peralta solves cases at the 99th Precinct in this cop comedy",
+   "a": "What is Brooklyn Nine-Nine?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-18",
+   "q": "This Disney Channel show follows twin brothers who live in Boston's Tipton Hotel",
+   "a": "What is The Suite Life of Zack & Cody?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-19",
+   "q": "Leslie Knope works for the local government of Pawnee, Indiana in this mockumentary sitcom",
+   "a": "What is Parks and Recreation?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-20",
+   "q": "Zack Morris can freeze time and talk to the camera at Bayside High in this teen sitcom",
+   "a": "What is Saved by the Bell?",
+   "tier": 2
+  },
+  {
+   "id": "tv-shows-21",
+   "q": "The Friends gang hangs out on the orange couch at this Manhattan coffee shop",
+   "a": "What is Central Perk?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-22",
+   "q": "Dwight Schrute grows this red root vegetable on his family farm",
+   "a": "What are beets?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-23",
+   "q": "Jerry, George, Elaine and Kramer star in this famous \"show about nothing\"",
+   "a": "What is Seinfeld?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-24",
+   "q": "Lorelai and Rory live in this quirky Connecticut town on Gilmore Girls",
+   "a": "What is Stars Hollow?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-25",
+   "q": "Sam and Freddie help their best friend host a comedy web show from a Seattle loft in this Nickelodeon sitcom",
+   "a": "What is iCarly?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-26",
+   "q": "This Canadian-born host presented the quiz show Jeopardy! for more than 35 years",
+   "a": "Who is Alex Trebek?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-27",
+   "q": "Since the early 1980s, this co-host has revealed the letters on Wheel of Fortune",
+   "a": "Who is Vanna White?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-28",
+   "q": "Frankie Muniz plays a genius kid stuck between his brothers in this 2000s family sitcom",
+   "a": "What is Malcolm in the Middle?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-29",
+   "q": "This Springfield neighbor of Homer greets everyone with \"Hi-diddly-ho!\"",
+   "a": "Who is Ned Flanders?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-30",
+   "q": "Athletes try to conquer the towering Mount Midoriyama on this NBC obstacle-course show based on Japan's Sasuke",
+   "a": "What is American Ninja Warrior?",
+   "tier": 3
+  },
+  {
+   "id": "tv-shows-31",
+   "q": "Jerry's wacky neighbor on Seinfeld, his rarely used first name is Cosmo",
+   "a": "Who is Kramer?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-32",
+   "q": "Henry Winkler played this leather-jacketed cool guy on Happy Days",
+   "a": "Who is the Fonz?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-33",
+   "q": "Lucille Ball and Desi Arnaz starred as a zany wife and her bandleader husband in this 1950s sitcom",
+   "a": "What is I Love Lucy?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-34",
+   "q": "This PBS host changed into a cardigan and sneakers at the start of each show and visited the Neighborhood of Make-Believe",
+   "a": "Who is Fred Rogers?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-35",
+   "q": "This housekeeper in a blue uniform takes care of the blended family on The Brady Bunch",
+   "a": "Who is Alice?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-36",
+   "q": "Surgeon Hawkeye Pierce cracks jokes during the Korean War in this long-running sitcom",
+   "a": "What is M*A*S*H?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-37",
+   "q": "This Boston bar is the place \"where everybody knows your name\"",
+   "a": "What is Cheers?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-38",
+   "q": "This longtime Survivor host tells voted-out players, \"The tribe has spoken\"",
+   "a": "Who is Jeff Probst?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-39",
+   "q": "A handshake from this blue-eyed judge is the highest praise on The Great British Bake Off",
+   "a": "Who is Paul Hollywood?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-40",
+   "q": "Andre Braugher played this stern, deadpan captain on Brooklyn Nine-Nine",
+   "a": "Who is Raymond Holt?",
+   "tier": 4
+  },
+  {
+   "id": "tv-shows-41",
+   "q": "Michael Scott hosts this yearly awards ceremony, handing out trophies to his Scranton staff",
+   "a": "What are the Dundies?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-42",
+   "q": "Phoebe's signature coffeehouse song asks this pet \"What are they feeding you?\"",
+   "a": "What is Smelly Cat?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-43",
+   "q": "Frank Costanza invented this December holiday featuring an aluminum pole and the Airing of Grievances",
+   "a": "What is Festivus?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-44",
+   "q": "When Sheldon is sick, he insists that Penny sing him this short lullaby about a purring little ball of fur",
+   "a": "What is \"Soft Kitty\"?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-45",
+   "q": "Pawnee residents adore this miniature horse, honored with the song \"5,000 Candles in the Wind\"",
+   "a": "Who is Li'l Sebastian?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-46",
+   "q": "Each October 31st, Jake and his squad compete in this yearly contest to steal a prized object",
+   "a": "What is the Halloween Heist?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-47",
+   "q": "These metal-encased Doctor Who villains shriek \"Exterminate!\"",
+   "a": "What are the Daleks?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-48",
+   "q": "Robin Williams first played an alien from the planet Ork on Happy Days before getting this spinoff",
+   "a": "What is Mork & Mindy?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-49",
+   "q": "This flannel-wearing diner owner pours Lorelai's coffee on Gilmore Girls",
+   "a": "Who is Luke Danes?",
+   "tier": 5
+  },
+  {
+   "id": "tv-shows-50",
+   "q": "Krusty the Clown's original sidekick, this man with a towering red hairdo keeps scheming against Bart",
+   "a": "Who is Sideshow Bob?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Inventions",
+ "slug": "inventions",
+ "group": "Tech",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "inventions-01",
+   "q": "Alexander Graham Bell received a famous 1876 patent for this device",
+   "a": "What is the telephone?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-02",
+   "q": "In 1903 the Wright brothers made their famous flights near Kitty Hawk, North Carolina, in this type of machine",
+   "a": "What is the airplane?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-03",
+   "q": "Around 1440, Johannes Gutenberg developed a movable-type version of this machine",
+   "a": "What is the printing press?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-04",
+   "q": "In 1879 Thomas Edison's lab demonstrated a long-lasting carbon-filament version of this glowing invention",
+   "a": "What is the light bulb?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-05",
+   "q": "Karl Benz's three-wheeled 1886 Motorwagen is often called the first practical one of these",
+   "a": "What is the automobile?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-06",
+   "q": "Engineer Percy Spencer got the idea for this kitchen appliance when radar equipment melted a candy bar in his pocket",
+   "a": "What is the microwave oven?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-07",
+   "q": "In 1905 young Frank Epperson left a drink with a stirring stick outside on a cold night, creating an early version of this treat",
+   "a": "What is the Popsicle?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-08",
+   "q": "This puzzle with six colored faces was invented in 1974 by a Hungarian architecture professor",
+   "a": "What is the Rubik's Cube?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-09",
+   "q": "James Watt's improvements to this machine, including a separate condenser, helped power the Industrial Revolution",
+   "a": "What is the steam engine?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-10",
+   "q": "Galileo didn't invent it, but in 1609 he built an improved version of this Dutch device and pointed it at the sky",
+   "a": "What is the telescope?",
+   "tier": 1
+  },
+  {
+   "id": "inventions-11",
+   "q": "Thomas Edison invented this machine in 1877; it recorded sound on tinfoil wrapped around a cylinder",
+   "a": "What is the phonograph?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-12",
+   "q": "Swiss engineer George de Mestral invented this hook-and-loop fastener after studying burrs stuck to his dog",
+   "a": "What is Velcro?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-13",
+   "q": "Engineer Lonnie Johnson, who worked on NASA projects, invented this powerful pump-action water gun",
+   "a": "What is the Super Soaker?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-14",
+   "q": "Ruth Wakefield created this baked treat at the Toll House Inn in Massachusetts in the 1930s",
+   "a": "What is the chocolate chip cookie?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-15",
+   "q": "3M scientist Spencer Silver's weak, reusable adhesive led to these little sticky paper squares",
+   "a": "What are Post-it Notes?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-16",
+   "q": "This giant ride designed by a Pittsburgh engineer was the star of the 1893 Chicago World's Fair",
+   "a": "What is the Ferris wheel?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-17",
+   "q": "Blinded as a child, a French teenager developed this raised-dot reading system in the 1820s",
+   "a": "What is braille?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-18",
+   "q": "In 1844 Samuel Morse sent the message \"What hath God wrought\" between Washington and Baltimore using this",
+   "a": "What is the telegraph?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-19",
+   "q": "Eli Whitney patented this machine in 1794 to quickly separate fibers from their seeds",
+   "a": "What is the cotton gin?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-20",
+   "q": "Naval engineer Richard James invented this metal spring toy that can \"walk\" down stairs",
+   "a": "What is the Slinky?",
+   "tier": 2
+  },
+  {
+   "id": "inventions-21",
+   "q": "This tiny semiconductor switch, invented at Bell Labs in 1947, replaced bulky vacuum tubes in electronics",
+   "a": "What is the transistor?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-22",
+   "q": "Engineers Alfred Fielding and Marc Chavannes created this poppable packing material in 1957",
+   "a": "What is Bubble Wrap?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-23",
+   "q": "Before it became a kids' modeling compound, this squishy product was sold as a wallpaper cleaner",
+   "a": "What is Play-Doh?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-24",
+   "q": "DuPont chemist Stephanie Kwolek invented this super-strong fiber used in bulletproof vests",
+   "a": "What is Kevlar?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-25",
+   "q": "Mary Anderson received a 1903 patent for this device after watching a streetcar driver struggle to see in the snow",
+   "a": "What is the windshield wiper?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-26",
+   "q": "Josephine Cochrane received an 1886 patent for a hand-operated version of this kitchen machine",
+   "a": "What is the dishwasher?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-27",
+   "q": "Momofuku Ando introduced this quick meal, sold as \"Chicken Ramen\", in Japan in 1958",
+   "a": "What are instant noodles?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-28",
+   "q": "The first untethered human flight, in 1783 in Paris, was made in this type of craft built by the Montgolfier brothers",
+   "a": "What is the hot air balloon?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-29",
+   "q": "Theodore Maiman built the first working one of these in 1960, using a ruby crystal",
+   "a": "What is the laser?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-30",
+   "q": "In 1948 Edwin Land's Polaroid company began selling this kind of picture-taker, which produced a finished print in about a minute",
+   "a": "What is the instant camera?",
+   "tier": 3
+  },
+  {
+   "id": "inventions-31",
+   "q": "French doctor René Laennec invented this listening device in 1816, starting with a rolled-up paper tube",
+   "a": "What is the stethoscope?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-32",
+   "q": "Charles Goodyear received an 1844 patent for this heat-and-sulfur process that made rubber durable",
+   "a": "What is vulcanization?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-33",
+   "q": "Norman Joseph Woodland and Bernard Silver patented a bullseye-shaped version of this product code in 1952",
+   "a": "What is the barcode?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-34",
+   "q": "At an 1854 New York exhibition, Elisha Otis dramatically had the rope cut to show off his safety brake for this machine",
+   "a": "What is the elevator?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-35",
+   "q": "James Hargreaves' 1760s machine of this name let one worker make thread on eight spindles at once",
+   "a": "What is the spinning jenny?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-36",
+   "q": "Frank Whittle in Britain and Hans von Ohain in Germany independently developed this type of aircraft power plant in the 1930s",
+   "a": "What is the jet engine?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-37",
+   "q": "Cyrus McCormick patented this horse-drawn harvesting machine in 1834",
+   "a": "What is the mechanical reaper?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-38",
+   "q": "This French weaving machine from the early 1800s used chains of punched cards to control complex patterns",
+   "a": "What is the Jacquard loom?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-39",
+   "q": "Humphry Davy's 1815 invention protected coal workers from igniting explosive firedamp gas underground",
+   "a": "What is the miners' safety lamp?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-40",
+   "q": "Christopher Latham Sholes co-invented this machine, which introduced the QWERTY keyboard layout",
+   "a": "What is the typewriter?",
+   "tier": 4
+  },
+  {
+   "id": "inventions-41",
+   "q": "Alessandro Volta's 1800 stack of zinc and copper discs separated by brine-soaked cloth was the first true one of these",
+   "a": "What is the electric battery?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-42",
+   "q": "Found in a Greek shipwreck, this ancient geared device for predicting eclipses is often called the first analog computer",
+   "a": "What is the Antikythera mechanism?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-43",
+   "q": "Invented by a Russian physicist around 1920, this electronic instrument is played without being touched",
+   "a": "What is the theremin?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-44",
+   "q": "Ernest Lawrence won the 1939 Nobel Prize in Physics for inventing this circular particle accelerator",
+   "a": "What is the cyclotron?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-45",
+   "q": "In 1934 Englishman Percy Shaw patented these reflective studs that mark the middle of the road at night",
+   "a": "What are cat's eyes?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-46",
+   "q": "Invented in the 1740s, this glass container coated with metal foil was an early device for storing static electricity",
+   "a": "What is the Leyden jar?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-47",
+   "q": "Announced in France in 1839, this early photographic process made images on silver-coated copper plates",
+   "a": "What is the daguerreotype?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-48",
+   "q": "Developed in Thomas Edison's lab, this 1890s peephole cabinet let one person at a time watch a moving picture",
+   "a": "What is the Kinetoscope?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-49",
+   "q": "This 1820s French design of concentric glass prisms made lighthouse beams visible from much farther away",
+   "a": "What is the Fresnel lens?",
+   "tier": 5
+  },
+  {
+   "id": "inventions-50",
+   "q": "This 1850s British method made steel cheaply by blowing air through molten pig iron",
+   "a": "What is the Bessemer process?",
+   "tier": 5
+  }
+ ]
+}

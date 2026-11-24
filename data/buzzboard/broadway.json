@@ -1,0 +1,308 @@
+{
+ "category": "Broadway Musicals",
+ "slug": "broadway",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "broadway-01",
+   "q": "Lin-Manuel Miranda's hip-hop musical tells the story of the Founding Father on the $10 bill",
+   "a": "What is Hamilton?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-02",
+   "q": "Simba, Mufasa and Scar come to life with masks and puppets in this Disney Broadway hit",
+   "a": "What is The Lion King?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-03",
+   "q": "Elphaba and Glinda become unlikely friends in this musical about the witches of Oz",
+   "a": "What is Wicked?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-04",
+   "q": "In this Andrew Lloyd Webber show, a masked genius haunts a grand Paris theater from his lair beneath it",
+   "a": "What is The Phantom of the Opera?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-05",
+   "q": "This red-haired orphan sings \"Tomorrow\" and is adopted by Daddy Warbucks",
+   "a": "Who is Annie?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-06",
+   "q": "Maria teaches the von Trapp children \"Do-Re-Mi\" in this Rodgers and Hammerstein classic",
+   "a": "What is The Sound of Music?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-07",
+   "q": "Danny and Sandy fall in love at Rydell High in this 1950s-set musical",
+   "a": "What is Grease?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-08",
+   "q": "Ex-convict Jean Valjean, prisoner 24601, is the hero of this musical set in France",
+   "a": "What is Les Misérables?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-09",
+   "q": "Elsa belts \"Let It Go\" in the Broadway version of this 2013 Disney movie",
+   "a": "What is Frozen?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-10",
+   "q": "Built on ABBA songs, this musical follows a bride trying to find out which of three men is her dad",
+   "a": "What is Mamma Mia!?",
+   "tier": 1
+  },
+  {
+   "id": "broadway-11",
+   "q": "Based on T. S. Eliot poems, this Andrew Lloyd Webber musical features the song \"Memory\"",
+   "a": "What is Cats?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-12",
+   "q": "A lonely high schooler writes letters to himself on his therapist's advice in this Tony-winning musical",
+   "a": "What is Dear Evan Hansen?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-13",
+   "q": "Lin-Manuel Miranda's first Broadway show is set in a Latino neighborhood of upper Manhattan",
+   "a": "What is In the Heights?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-14",
+   "q": "This green-skinned witch sings \"Defying Gravity\" at the end of Wicked's first act",
+   "a": "Who is Elphaba?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-15",
+   "q": "In Hamilton, this vice president shoots Alexander in a famous duel",
+   "a": "Who is Aaron Burr?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-16",
+   "q": "The Jets and the Sharks are rival gangs in this Romeo-and-Juliet-inspired musical",
+   "a": "What is West Side Story?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-17",
+   "q": "In this pop-concert musical, the wives of Henry VIII compete to see who suffered most",
+   "a": "What is Six?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-18",
+   "q": "Andrew Lloyd Webber adapted this Jack Black movie about a fake substitute teacher who forms a kids' band",
+   "a": "What is School of Rock?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-19",
+   "q": "Stephen Sondheim mixes Cinderella, Jack and Little Red Riding Hood in this fairy-tale musical",
+   "a": "What is Into the Woods?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-20",
+   "q": "Teen Tracy Turnblad dreams of dancing on a TV show in 1962 Baltimore in this musical",
+   "a": "What is Hairspray?",
+   "tier": 2
+  },
+  {
+   "id": "broadway-21",
+   "q": "The Tony Awards are named for this actress and director, a co-founder of the American Theatre Wing",
+   "a": "Who is Antoinette Perry?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-22",
+   "q": "This British composer wrote Cats, Evita and Jesus Christ Superstar",
+   "a": "Who is Andrew Lloyd Webber?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-23",
+   "q": "\"Don't Cry for Me Argentina\" comes from this musical about Eva Perón",
+   "a": "What is Evita?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-24",
+   "q": "Tevye the dairyman sings \"If I Were a Rich Man\" in this musical",
+   "a": "What is Fiddler on the Roof?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-25",
+   "q": "Opening with \"Oh, What a Beautiful Mornin',\" this 1943 show was Rodgers and Hammerstein's first musical together",
+   "a": "What is Oklahoma!?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-26",
+   "q": "Singing candlesticks and dancing dinnerware perform \"Be Our Guest\" in this Disney stage musical",
+   "a": "What is Beauty and the Beast?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-27",
+   "q": "The Phantom secretly tutors this young soprano in The Phantom of the Opera",
+   "a": "Who is Christine Daaé?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-28",
+   "q": "This relentless police inspector hunts Jean Valjean for years",
+   "a": "Who is Javert?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-29",
+   "q": "A brilliant girl with telekinetic powers outwits headmistress Miss Trunchbull in this Roald Dahl musical",
+   "a": "What is Matilda?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-30",
+   "q": "Annie's loyal, scruffy dog has this name",
+   "a": "Who is Sandy?",
+   "tier": 3
+  },
+  {
+   "id": "broadway-31",
+   "q": "Professor Henry Higgins teaches Cockney flower seller Eliza Doolittle to speak \"properly\" in this show",
+   "a": "What is My Fair Lady?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-32",
+   "q": "Con man Harold Hill sells band instruments in River City, Iowa in this Meredith Willson musical",
+   "a": "What is The Music Man?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-33",
+   "q": "This songwriting duo wrote the songs for Dear Evan Hansen and the movie The Greatest Showman",
+   "a": "Who are Pasek and Paul?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-34",
+   "q": "In Hamilton, the Schuyler sisters are Angelica, Eliza and this often-forgotten third sister",
+   "a": "Who is Peggy?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-35",
+   "q": "Wicked is based on a 1995 novel by this author",
+   "a": "Who is Gregory Maguire?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-36",
+   "q": "This gravel-voiced actor won a Tony for playing Tracy's mother, Edna, in Hairspray",
+   "a": "Who is Harvey Fierstein?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-37",
+   "q": "In Cats, this faded \"Glamour Cat\" sings \"Memory\"",
+   "a": "Who is Grizabella?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-38",
+   "q": "Gamblers Sky Masterson and Nathan Detroit chase bets and romance in this classic musical",
+   "a": "What is Guys and Dolls?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-39",
+   "q": "A British schoolteacher, Anna, tutors the royal children of Siam in this Rodgers and Hammerstein musical",
+   "a": "What is The King and I?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-40",
+   "q": "This actress, later the voice of Elsa, originated the role of Elphaba",
+   "a": "Who is Idina Menzel?",
+   "tier": 4
+  },
+  {
+   "id": "broadway-41",
+   "q": "This actor won a Tony for originating the role of Aaron Burr in Hamilton",
+   "a": "Who is Leslie Odom Jr.?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-42",
+   "q": "In Les Misérables, Fantine sings this heartbreaking ballad, later made famous by Susan Boyle",
+   "a": "What is \"I Dreamed a Dream\"?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-43",
+   "q": "This Stephen Sondheim musical imagines painter Georges Seurat creating his famous dotted masterpiece of an island",
+   "a": "What is Sunday in the Park with George?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-44",
+   "q": "This Mel Brooks musical starring Nathan Lane and Matthew Broderick won a record 12 Tony Awards",
+   "a": "What is The Producers?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-45",
+   "q": "\"Some Enchanted Evening\" and \"Bali Ha'i\" are songs from this Rodgers and Hammerstein musical",
+   "a": "What is South Pacific?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-46",
+   "q": "Tevye and his family live in this small village in Fiddler on the Roof",
+   "a": "What is Anatevka?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-47",
+   "q": "This director won Tony Awards for both her direction and her costume design of The Lion King",
+   "a": "Who is Julie Taymor?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-48",
+   "q": "This actor originated the role of George Washington in Hamilton",
+   "a": "Who is Christopher Jackson?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-49",
+   "q": "This French composer wrote the music for Les Misérables and Miss Saigon",
+   "a": "Who is Claude-Michel Schönberg?",
+   "tier": 5
+  },
+  {
+   "id": "broadway-50",
+   "q": "This bloodthirsty, singing alien plant is named after a flower shop clerk in Little Shop of Horrors",
+   "a": "Who is Audrey II?",
+   "tier": 5
+  }
+ ]
+}

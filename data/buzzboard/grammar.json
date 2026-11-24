@@ -1,0 +1,308 @@
+{
+ "category": "Spelling & Grammar",
+ "slug": "grammar",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "grammar-01",
+   "q": "This part of speech names a person, place, thing or idea",
+   "a": "What is a noun?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-02",
+   "q": "This part of speech expresses an action like 'run' or 'jump' or a state of being like 'is'",
+   "a": "What is a verb?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-03",
+   "q": "This part of speech describes a noun, as 'blue' or 'happy' do",
+   "a": "What is an adjective?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-04",
+   "q": "This curvy punctuation symbol ends a sentence like 'Are you okay'",
+   "a": "What is the question mark?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-05",
+   "q": "This raised punctuation mark shows possession in 'Sam's dog' and replaces missing letters in 'don't'",
+   "a": "What is the apostrophe?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-06",
+   "q": "This part of speech, like 'she', 'it' or 'they', takes the place of a noun",
+   "a": "What is a pronoun?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-07",
+   "q": "This soundalike of 'there' and 'their' is a contraction meaning 'they are'",
+   "a": "What is they're?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-08",
+   "q": "The old spelling rhyme says 'I before E, except after' this letter",
+   "a": "What is C?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-09",
+   "q": "'Big' and 'large' are examples of these words with the same or nearly the same meaning",
+   "a": "What are synonyms?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-10",
+   "q": "'Hot' and 'cold' are examples of these words with opposite meanings",
+   "a": "What are antonyms?",
+   "tier": 1
+  },
+  {
+   "id": "grammar-11",
+   "q": "This part of speech, like 'quickly' or 'very', often ends in -ly and modifies a verb or adjective",
+   "a": "What is an adverb?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-12",
+   "q": "This two-word contraction is often confused with 'its', the possessive form",
+   "a": "What is it's?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-13",
+   "q": "This punctuation mark, made of two dots stacked vertically, often introduces a list",
+   "a": "What is the colon?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-14",
+   "q": "Small joining words like 'and', 'but' and 'or' belong to this part of speech",
+   "a": "What is a conjunction?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-15",
+   "q": "Words like 'in', 'under' and 'between' that show how a noun relates to the rest of the sentence are this part of speech",
+   "a": "What is a preposition?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-16",
+   "q": "This soundalike of 'to' and 'two' means 'also' or 'more than enough'",
+   "a": "What is too?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-17",
+   "q": "'Pair' and 'pear' are an example of these words that sound alike but differ in spelling and meaning",
+   "a": "What are homophones?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-18",
+   "q": "This punctuation mark, a dot over a comma, can join two closely related complete sentences",
+   "a": "What is the semicolon?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-19",
+   "q": "'Don't', 'can't' and 'I'm' are examples of this shortened form of two words",
+   "a": "What is a contraction?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-20",
+   "q": "This part of speech, like 'wow', 'oops' or 'ouch', expresses sudden emotion",
+   "a": "What is an interjection?",
+   "tier": 2
+  },
+  {
+   "id": "grammar-21",
+   "q": "This group of words with its own subject and verb can stand alone as a complete sentence",
+   "a": "What is an independent clause?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-22",
+   "q": "Writing 'I love pizza, it is delicious' commits this error of joining two sentences with only a light punctuation mark",
+   "a": "What is a comma splice?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-23",
+   "q": "This -ing verb form acts as a noun, as 'swimming' does in 'Swimming is fun'",
+   "a": "What is a gerund?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-24",
+   "q": "In 'The dog chased the ball', 'the ball' plays this role, receiving the action of the verb",
+   "a": "What is the direct object?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-25",
+   "q": "'The cake was eaten by Sam' is written in this construction, which makes the receiver of the action the subject",
+   "a": "What is the passive voice?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-26",
+   "q": "Named after an English university, it's the optional punctuation mark before 'and' in 'red, white, and blue'",
+   "a": "What is the Oxford comma?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-27",
+   "q": "This verb usually means 'to influence', while its soundalike is usually a noun meaning 'a result'",
+   "a": "What is affect?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-28",
+   "q": "Three dots in a row signal left-out words or a trailing thought; this is the name of the mark",
+   "a": "What is an ellipsis?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-29",
+   "q": "'Buzz', 'sizzle' and 'kaboom' are examples of these words that imitate the sounds they describe",
+   "a": "What is onomatopoeia?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-30",
+   "q": "NASA, scuba and laser are examples of this kind of word, formed from initial letters and pronounced as a word",
+   "a": "What is an acronym?",
+   "tier": 3
+  },
+  {
+   "id": "grammar-31",
+   "q": "'Walking to school, the rain soaked my shoes' contains this error, where an opening phrase has nothing sensible to describe",
+   "a": "What is a dangling modifier?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-32",
+   "q": "This verb mood, used in 'If I were you' and 'I wish it were Friday', expresses wishes and hypotheticals",
+   "a": "What is the subjunctive?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-33",
+   "q": "Grammar sticklers say a supermarket sign reading '10 items or less' should use this word instead",
+   "a": "What is fewer?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-34",
+   "q": "Longer than a hyphen, this punctuation mark is named after the width of a capital letter in old printing",
+   "a": "What is the em dash?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-35",
+   "q": "Not to be confused with 'principle', this word names the head of a school",
+   "a": "What is principal?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-36",
+   "q": "This part of a sentence tells something about the subject and always contains the main verb",
+   "a": "What is the predicate?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-37",
+   "q": "Not to be confused with 'stationary', meaning not moving, this word means writing paper and envelopes",
+   "a": "What is stationery?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-38",
+   "q": "This structure has at least two independent clauses and at least one dependent clause",
+   "a": "What is a compound-complex sentence?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-39",
+   "q": "This verb tense, as in 'I have eaten', combines 'have' or 'has' with a past participle",
+   "a": "What is the present perfect?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-40",
+   "q": "In 'I gave her the book', 'her' plays this role, naming who receives the book",
+   "a": "What is the indirect object?",
+   "tier": 4
+  },
+  {
+   "id": "grammar-41",
+   "q": "This mark of two dots over a vowel, as in 'naïve', shows the vowel is pronounced separately from the one before",
+   "a": "What is a diaeresis?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-42",
+   "q": "'To boldly go' is a famous example of this construction that puts a word between 'to' and its verb",
+   "a": "What is a split infinitive?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-43",
+   "q": "This rare punctuation mark, ‽, combines a question mark and an exclamation point",
+   "a": "What is the interrobang?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-44",
+   "q": "Named for Mrs. Malaprop in Sheridan's 'The Rivals', it's the comic misuse of a soundalike word",
+   "a": "What is a malapropism?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-45",
+   "q": "In 'Tom, my older brother, is tall', 'my older brother' is this kind of noun phrase that renames the noun beside it",
+   "a": "What is an appositive?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-46",
+   "q": "This term for a misheard phrase that still sort of makes sense, like 'for all intensive purposes', comes from someone writing 'acorn' oddly",
+   "a": "What is an eggcorn?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-47",
+   "q": "This symbol's name comes from schoolchildren reciting '& per se and' at the end of the alphabet",
+   "a": "What is the ampersand?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-48",
+   "q": "The paragraph mark ¶ goes by this odd name",
+   "a": "What is the pilcrow?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-49",
+   "q": "In 'a broken vase', 'broken' is this verb form, which also follows 'have' in perfect tenses",
+   "a": "What is the past participle?",
+   "tier": 5
+  },
+  {
+   "id": "grammar-50",
+   "q": "Using a plural-looking pronoun for one person, as in 'Someone left their umbrella', is known as this",
+   "a": "What is singular they?",
+   "tier": 5
+  }
+ ]
+}

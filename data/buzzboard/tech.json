@@ -1,0 +1,308 @@
+{
+ "category": "Gadgets & Tech Companies",
+ "slug": "tech",
+ "group": "Tech",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "tech-01",
+   "q": "Steve Jobs, Steve Wozniak and Ronald Wayne founded this company in 1976",
+   "a": "What is Apple?",
+   "tier": 1
+  },
+  {
+   "id": "tech-02",
+   "q": "Steve Jobs unveiled this touchscreen phone in January 2007",
+   "a": "What is the iPhone?",
+   "tier": 1
+  },
+  {
+   "id": "tech-03",
+   "q": "Bill Gates and Paul Allen founded this software company in 1975",
+   "a": "What is Microsoft?",
+   "tier": 1
+  },
+  {
+   "id": "tech-04",
+   "q": "This Japanese video game company, home of Mario, started out in 1889 making playing cards",
+   "a": "What is Nintendo?",
+   "tier": 1
+  },
+  {
+   "id": "tech-05",
+   "q": "Jeff Bezos started this company in 1994; it began as an online bookstore",
+   "a": "What is Amazon?",
+   "tier": 1
+  },
+  {
+   "id": "tech-06",
+   "q": "Sony released the first version of this video game console in Japan in 1994",
+   "a": "What is the PlayStation?",
+   "tier": 1
+  },
+  {
+   "id": "tech-07",
+   "q": "This South Korean company makes the Galaxy line of smartphones",
+   "a": "What is Samsung?",
+   "tier": 1
+  },
+  {
+   "id": "tech-08",
+   "q": "Microsoft entered the video game console business with this system in 2001",
+   "a": "What is the Xbox?",
+   "tier": 1
+  },
+  {
+   "id": "tech-09",
+   "q": "This video game company's mascot is a speedy blue hedgehog",
+   "a": "What is Sega?",
+   "tier": 1
+  },
+  {
+   "id": "tech-10",
+   "q": "Founded in 1997, this company first became known for mailing DVDs to customers in red envelopes",
+   "a": "What is Netflix?",
+   "tier": 1
+  },
+  {
+   "id": "tech-11",
+   "q": "Nintendo's 1989 handheld console came bundled with Tetris in North America",
+   "a": "What is the Game Boy?",
+   "tier": 2
+  },
+  {
+   "id": "tech-12",
+   "q": "Apple launched this music player in 2001 with the slogan \"1,000 songs in your pocket\"",
+   "a": "What is the iPod?",
+   "tier": 2
+  },
+  {
+   "id": "tech-13",
+   "q": "This 2006 Nintendo console was famous for its motion-sensing remote",
+   "a": "What is the Wii?",
+   "tier": 2
+  },
+  {
+   "id": "tech-14",
+   "q": "Amazon launched this e-reader in 2007",
+   "a": "What is the Kindle?",
+   "tier": 2
+  },
+  {
+   "id": "tech-15",
+   "q": "Google bought this mobile operating system's startup in 2005; many early versions were named after desserts",
+   "a": "What is Android?",
+   "tier": 2
+  },
+  {
+   "id": "tech-16",
+   "q": "Apple's voice assistant debuted on the iPhone 4S in 2011",
+   "a": "What is Siri?",
+   "tier": 2
+  },
+  {
+   "id": "tech-17",
+   "q": "This egg-shaped digital pet from Bandai was a 1990s craze",
+   "a": "What is the Tamagotchi?",
+   "tier": 2
+  },
+  {
+   "id": "tech-18",
+   "q": "This music streaming service launched in Sweden in 2008",
+   "a": "What is Spotify?",
+   "tier": 2
+  },
+  {
+   "id": "tech-19",
+   "q": "This U.S.-run satellite navigation system helps map apps figure out where you are",
+   "a": "What is GPS?",
+   "tier": 2
+  },
+  {
+   "id": "tech-20",
+   "q": "This Dallas-based company is known for graphing calculators like the TI-84",
+   "a": "What is Texas Instruments?",
+   "tier": 2
+  },
+  {
+   "id": "tech-21",
+   "q": "Sony launched this portable cassette player in 1979",
+   "a": "What is the Walkman?",
+   "tier": 3
+  },
+  {
+   "id": "tech-22",
+   "q": "This wireless technology is named after a 10th-century Danish king",
+   "a": "What is Bluetooth?",
+   "tier": 3
+  },
+  {
+   "id": "tech-23",
+   "q": "This company released the arcade hit Pong in 1972",
+   "a": "What is Atari?",
+   "tier": 3
+  },
+  {
+   "id": "tech-24",
+   "q": "Nicknamed \"Big Blue\", this company's initials stand for International Business Machines",
+   "a": "What is IBM?",
+   "tier": 3
+  },
+  {
+   "id": "tech-25",
+   "q": "This company, co-founded by Jensen Huang in 1993, makes GeForce graphics cards",
+   "a": "What is Nvidia?",
+   "tier": 3
+  },
+  {
+   "id": "tech-26",
+   "q": "Founded in Tokyo in 1946, this company has a name inspired by the Latin word \"sonus\", meaning sound",
+   "a": "What is Sony?",
+   "tier": 3
+  },
+  {
+   "id": "tech-27",
+   "q": "This credit-card-sized computer from a British charity launched in 2012 to help people learn to code",
+   "a": "What is the Raspberry Pi?",
+   "tier": 3
+  },
+  {
+   "id": "tech-28",
+   "q": "This Canadian company's phones with built-in QWERTY keyboards were a 2000s status symbol for business people",
+   "a": "What is BlackBerry?",
+   "tier": 3
+  },
+  {
+   "id": "tech-29",
+   "q": "This Finnish company's famously sturdy 3310 phone came with a version of the game Snake",
+   "a": "What is Nokia?",
+   "tier": 3
+  },
+  {
+   "id": "tech-30",
+   "q": "Apple introduced this computer in 1984, advertised with a famous Super Bowl commercial",
+   "a": "What is the Macintosh?",
+   "tier": 3
+  },
+  {
+   "id": "tech-31",
+   "q": "Gordon Moore and Robert Noyce founded this chipmaker in 1968",
+   "a": "What is Intel?",
+   "tier": 4
+  },
+  {
+   "id": "tech-32",
+   "q": "In 1984 a University of Texas student started this computer company from his dorm room",
+   "a": "What is Dell?",
+   "tier": 4
+  },
+  {
+   "id": "tech-33",
+   "q": "Bill Hewlett and David Packard started this company in a Palo Alto garage in 1939",
+   "a": "What is HP?",
+   "tier": 4
+  },
+  {
+   "id": "tech-34",
+   "q": "This company's DynaTAC 8000X, released in 1983, was the first commercial handheld cell phone",
+   "a": "What is Motorola?",
+   "tier": 4
+  },
+  {
+   "id": "tech-35",
+   "q": "This copier company's Palo Alto research center developed an early graphical user interface that inspired Apple",
+   "a": "What is Xerox?",
+   "tier": 4
+  },
+  {
+   "id": "tech-36",
+   "q": "In 1975 this photography company's engineer Steven Sasson built the first self-contained digital camera",
+   "a": "What is Kodak?",
+   "tier": 4
+  },
+  {
+   "id": "tech-37",
+   "q": "Dean Kamen's self-balancing two-wheeled personal transporter was unveiled in 2001",
+   "a": "What is the Segway?",
+   "tier": 4
+  },
+  {
+   "id": "tech-38",
+   "q": "This Chinese company bought IBM's personal computer business, including ThinkPad, in 2005",
+   "a": "What is Lenovo?",
+   "tier": 4
+  },
+  {
+   "id": "tech-39",
+   "q": "Sony's 1975 home videotape format lost a famous format war to VHS",
+   "a": "What is Betamax?",
+   "tier": 4
+  },
+  {
+   "id": "tech-40",
+   "q": "These square barcodes were invented in 1994 by Japan's Denso Wave to track car parts",
+   "a": "What are QR codes?",
+   "tier": 4
+  },
+  {
+   "id": "tech-41",
+   "q": "Launched in 1982, this home computer is often listed as the best-selling single computer model ever",
+   "a": "What is the Commodore 64?",
+   "tier": 5
+  },
+  {
+   "id": "tech-42",
+   "q": "Released in 1972, this was the first commercial home video game console",
+   "a": "What is the Magnavox Odyssey?",
+   "tier": 5
+  },
+  {
+   "id": "tech-43",
+   "q": "In 1957 the \"traitorous eight\" left William Shockley's lab to found this Silicon Valley company",
+   "a": "What is Fairchild Semiconductor?",
+   "tier": 5
+  },
+  {
+   "id": "tech-44",
+   "q": "This 4-bit chip, released in 1971, was the first commercially available microprocessor",
+   "a": "What is the Intel 4004?",
+   "tier": 5
+  },
+  {
+   "id": "tech-45",
+   "q": "Released in 1981, this roughly 24-pound machine is considered the first commercially successful portable computer",
+   "a": "What is the Osborne 1?",
+   "tier": 5
+  },
+  {
+   "id": "tech-46",
+   "q": "Released by IBM in 1994, this touchscreen device is often called the first smartphone",
+   "a": "What is the Simon Personal Communicator?",
+   "tier": 5
+  },
+  {
+   "id": "tech-47",
+   "q": "Apple's 1993 handheld MessagePad ran on this platform, whose handwriting recognition was widely mocked",
+   "a": "What is the Newton?",
+   "tier": 5
+  },
+  {
+   "id": "tech-48",
+   "q": "This 1996 handheld organizer used a stylus and a simplified alphabet called Graffiti",
+   "a": "What is the PalmPilot?",
+   "tier": 5
+  },
+  {
+   "id": "tech-49",
+   "q": "This 1975 microcomputer kit featured on the cover of Popular Electronics inspired Microsoft's first product",
+   "a": "What is the Altair 8800?",
+   "tier": 5
+  },
+  {
+   "id": "tech-50",
+   "q": "Sony introduced this robotic dog in 1999",
+   "a": "What is AIBO?",
+   "tier": 5
+  }
+ ]
+}

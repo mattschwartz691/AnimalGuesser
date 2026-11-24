@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Buzzboard</title>
+<script>window.BUZZ_DATA = "../data/buzzboard/";</script>
+</head>
+<body>
+<style>
+/* Layout: title screen (teams + categories) → full-width 5×5 board with the team bar pinned along the bottom;
+   a clue takes over the board area so scores stay in reach. Palette and controls follow the family's
+   Animal Guesser game so the two feel like siblings. */
+:root {
+  --bg: #11151c; --panel: #1b212b; --panel-2: #222a36; --line: #2c3542;
+  --ink: #eef2f7; --dim: #93a0b3; --accent: #4a9eff; --gold: #ffcf5a;
+  --green: #2ecc71; --red: #ff3b30;
+  --ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --clue: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--ui); }
+button { font: inherit; cursor: pointer; }
+button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.app { min-height: 100%; display: flex; flex-direction: column; }
+
+/* ---------- title screen ---------- */
+.title { flex: 1; width: 100%; max-width: 860px; margin: 0 auto; padding-inline: 16px; padding-block: 36px 40px;
+  display: flex; flex-direction: column; align-items: center; gap: 14px; text-align: center; }
+.bigtitle { margin: 0; font-size: clamp(2.2rem, 7vw, 3.4rem); font-weight: 900; letter-spacing: .04em; line-height: 1; }
+.bigtitle span { color: var(--accent); }
+.tagline { margin: 0; color: var(--dim); font-size: .95rem; }
+.step { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 10px; padding-top: 14px; border-top: 1px solid var(--line); }
+.step h2 { margin: 0; font-size: 1.25rem; font-weight: 800; }
+.step .sub { margin: -6px 0 0; color: var(--dim); font-size: .9rem; }
+#teampick { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 420px; }
+.numbtn { width: 58px; height: 52px; font-size: 18px; font-weight: 700; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 11px; }
+.numbtn:hover { border-color: var(--accent); }
+.numbtn.on { background: var(--accent); color: #06101f; border-color: var(--accent); }
+.names { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; width: 100%; max-width: 760px; }
+.names input { flex: 0 1 170px; min-width: 0; padding: 9px 10px; font: 600 .95rem var(--ui); text-align: center; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 9px; }
+.names input:focus { border-color: var(--accent); outline: none; }
+.cats { display: flex; flex-direction: column; gap: 8px; width: 100%; text-align: left; }
+.catgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; width: 100%; }
+.group { margin: 10px 0 0; font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; color: var(--dim); font-weight: 800; }
+.catbtn { position: relative; padding: 14px 14px 14px 52px; text-align: left; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 12px;
+  font-weight: 700; display: flex; flex-direction: column; gap: 2px; min-height: 64px; justify-content: center; }
+.catbtn > span:last-child { overflow-wrap: break-word; min-width: 0; }
+.catbtn small { color: var(--dim); font-weight: 500; font-size: .78rem; }
+.catbtn .badge { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); width: 28px; height: 28px; border-radius: 50%;
+  border: 2px solid var(--line); display: grid; place-items: center; font-weight: 800; font-size: .9rem; color: transparent; }
+.catbtn:hover:not(:disabled) { border-color: var(--accent); }
+.catbtn.on { border-color: var(--accent); background: #1d2a3d; }
+.catbtn.on .badge { background: var(--accent); border-color: var(--accent); color: #06101f; }
+.catbtn:disabled { opacity: .4; cursor: not-allowed; }
+.order { display: flex; gap: 6px; flex-wrap: wrap; justify-content: center; min-height: 34px; align-items: center; }
+.order span { background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 4px 10px; font-size: .85rem; font-weight: 700; }
+.order span b { color: var(--accent); margin-right: 4px; }
+.order .empty { background: none; border: 0; color: var(--dim); font-weight: 500; }
+.setupbtns { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin-top: 6px; }
+.setupbtns button { padding: 12px 30px; font-size: 15px; font-weight: 600; background: transparent; color: var(--dim); border: 1px solid var(--line); border-radius: 11px; }
+.setupbtns button:hover:not(:disabled) { color: var(--ink); border-color: var(--accent); }
+.setupbtns .go { background: var(--accent); color: #06101f; border-color: var(--accent); font-weight: 800; }
+.setupbtns .go:disabled { opacity: .45; cursor: not-allowed; }
+.credit { color: var(--dim); font-size: .78rem; margin: 10px 0 0; max-width: 60ch; }
+
+/* ---------- board ---------- */
+.play { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.topbar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 10px 16px; }
+.topbar .logo { font-weight: 900; letter-spacing: .04em; font-size: 1.2rem; }
+.topbar .logo span { color: var(--accent); }
+.topbar .spacer { flex: 1; }
+.topbar .hint { color: var(--dim); font-size: .85rem; }
+.tb { padding: 7px 14px; font-size: .88rem; font-weight: 600; background: transparent; color: var(--dim); border: 1px solid var(--line); border-radius: 9px; }
+.tb:hover { color: var(--ink); border-color: var(--accent); }
+.stage { flex: 1; padding-inline: 16px; padding-block: 0 14px; display: flex; min-height: 0; }
+.board { flex: 1; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); grid-template-rows: auto repeat(5, minmax(56px, 1fr)); gap: 8px; }
+.head { background: var(--accent); color: #06101f; border-radius: 10px; padding: 10px 8px; display: flex; align-items: center; justify-content: center; text-align: center;
+  font-weight: 900; text-transform: uppercase; letter-spacing: .03em; font-size: clamp(.78rem, 1.5vw, 1.15rem); line-height: 1.15; min-height: 64px; text-wrap: balance; }
+.cell { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; color: var(--ink); font-weight: 900; font-size: clamp(1.4rem, 4vw, 3.2rem);
+  font-variant-numeric: tabular-nums; display: flex; align-items: center; justify-content: center; transition: border-color .12s, transform .12s; }
+.cell:hover:not(:disabled) { border-color: var(--accent); color: var(--gold); transform: translateY(-2px); }
+.cell:disabled { background: #141921; border-color: #1d242f; color: transparent; cursor: default; }
+.cell.last:disabled { border-color: var(--accent); border-style: dashed; }
+
+/* ---------- clue ---------- */
+.clue { flex: 1; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: clamp(18px, 4vw, 48px);
+  display: flex; flex-direction: column; gap: 18px; min-height: 0; overflow: auto; }
+.clue .meta { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; color: var(--dim); font-weight: 800; text-transform: uppercase; letter-spacing: .06em; font-size: .95rem; }
+.clue .meta .v { color: var(--gold); }
+.clue .q { flex: 1; display: flex; align-items: center; justify-content: center; text-align: center; margin: 0;
+  font-family: var(--clue); font-size: clamp(1.5rem, 4.2vw, 3.4rem); line-height: 1.2; text-wrap: balance; }
+.clue .a { text-align: center; font-size: clamp(1.3rem, 3.4vw, 2.6rem); font-weight: 800; color: var(--green); min-height: 1.3em; }
+.clue .keys { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.keybtn { padding: 10px 18px; background: transparent; color: var(--dim); border: 1px solid var(--line); border-radius: 10px; font-weight: 600; }
+.keybtn:hover { color: var(--ink); border-color: var(--accent); }
+kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 1px 6px; margin-right: 6px; color: var(--ink); }
+
+/* ---------- team bar (bottom) ---------- */
+#teambar { width: 100%; padding: 12px 16px 16px; display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; align-items: stretch;
+  background: var(--panel); border-top: 1px solid var(--line); }
+.worth { flex: 0 1 150px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: var(--dim); font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; }
+.worth b { color: var(--gold); font-size: 1.7rem; letter-spacing: 0; font-variant-numeric: tabular-nums; }
+.team { flex: 0 1 190px; min-width: 150px; padding: 10px 12px 12px; background: #151a22; border: 1px solid var(--line); border-radius: 12px;
+  display: flex; flex-direction: column; gap: 8px; align-items: center; }
+.teamname { width: 100%; padding: 6px 9px; font-size: 14.5px; font-weight: 600; text-align: center; background: transparent; color: var(--ink); border: 1px solid transparent; border-radius: 8px; outline: none; }
+.teamname:hover { border-color: var(--line); }
+.teamname:focus { border-color: var(--accent); background: var(--bg); }
+.teamscore { display: flex; align-items: center; gap: 10px; width: 100%; justify-content: center; }
+.teamscore button { width: 38px; height: 38px; flex: none; font-size: 20px; font-weight: 700; line-height: 1; background: transparent; color: var(--dim); border: 1px solid var(--line); border-radius: 9px; }
+.teamscore button:hover { color: var(--ink); border-color: var(--accent); }
+.teamscore .minus:hover { border-color: var(--red); color: var(--red); }
+.teamscore .plus:hover { border-color: var(--green); color: var(--green); }
+.scorenum { flex: 1; font-size: 24px; font-weight: 800; text-align: center; font-variant-numeric: tabular-nums; color: var(--accent); min-width: 0; }
+.scorenum.neg { color: var(--red); }
+
+.loading { flex: 1; display: grid; place-items: center; color: var(--dim); text-align: center; padding: 16px; }
+.done { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; text-align: center; }
+.done h2 { margin: 0; font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 900; }
+.done .rank { display: flex; flex-direction: column; gap: 6px; width: min(420px, 100%); }
+.done .rank div { display: flex; justify-content: space-between; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 14px; font-weight: 700; }
+.done .rank div:first-child { border-color: var(--gold); }
+.done .rank b { font-variant-numeric: tabular-nums; }
+
+@media (max-width: 640px) {
+  .board { gap: 5px; grid-template-rows: auto repeat(5, minmax(48px, 1fr)); }
+  .head { font-size: .62rem; padding: 6px 3px; min-height: 52px; letter-spacing: 0; }
+  .cell { font-size: 1.05rem; border-radius: 7px; }
+  .stage { padding-inline: 8px; }
+  .team { flex-basis: 140px; min-width: 130px; }
+}
+@media (prefers-reduced-motion: reduce) { .cell { transition: none; } .cell:hover:not(:disabled) { transform: none; } }
+</style>
+
+<div class="app">
+  <!-- ================= title screen ================= -->
+  <section class="title" id="title">
+    <nav id="games" aria-label="Games"><a href="index.html">Animals</a><a href="things.html">Things</a><a href="buzzboard.html" aria-current="page">Buzzboard</a></nav>
+    <h1 class="bigtitle">BUZZ<span>BOARD</span></h1>
+    <p class="tagline">Pick your teams and five categories. Every board gets new questions.</p>
+
+    <div class="step">
+      <h2>How many teams?</h2>
+      <div id="teampick"></div>
+      <div class="names" id="names"></div>
+    </div>
+
+    <div class="step">
+      <h2>Pick 5 categories</h2>
+      <p class="sub">The order you pick them is the order of the columns, left to right. Click one again to take it off.</p>
+      <div class="cats" id="cats"></div>
+      <div class="order" id="order"></div>
+    </div>
+
+    <div class="setupbtns">
+      <button type="button" id="randomcats">Pick 5 for me</button>
+      <button type="button" id="clearcats">Clear</button>
+      <button type="button" class="go" id="play" disabled>Play</button>
+    </div>
+    <p class="credit" id="credit">Clues are adapted from Wikipedia (CC BY-SA 4.0) and Wikidata; word meanings from WordNet. Questions you've seen are remembered on this device so they don't come back.</p>
+  </section>
+
+  <!-- ================= game ================= -->
+  <section class="play" id="play-view" hidden>
+    <div class="topbar">
+      <div class="logo">BUZZ<span>BOARD</span></div>
+      <span class="hint" id="left"></span>
+      <div class="spacer"></div>
+      <button class="tb" id="newboard" type="button">New board</button>
+      <button class="tb" id="fullscreen" type="button">Full screen</button>
+      <button class="tb" id="totitle" type="button">Title screen</button>
+    </div>
+    <div class="stage" id="stage"></div>
+  </section>
+
+  <div id="teambar" hidden></div>
+</div>
+
+<script>
+/* ------------------------------------------------------------------ setup data */
+let CATEGORIES = [];          // loaded from data/index.json: {slug, name, group, count, perTier}
+const VALUES = [200, 400, 600, 800, 1000];
+const DATA_DIR = window.BUZZ_DATA || "data/";   // the Animal Guesser repo serves the questions from ../data/buzzboard/
+const $ = id => document.getElementById(id);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+/* ------------------------------------------------------------------ state */
+let G = {
+  teamCount: 2,
+  names: Array(10).fill("Unnamed"),
+  picked: [],                 // category slugs in column order
+  teams: [],                  // {name, score}
+  board: null,                // [{slug, name, clues: [clue x5]}]
+  used: {},                   // "col-row" → true for squares already opened
+  lastValue: 0, lastKey: null,
+  view: "title",              // title | board | clue | done
+  open: null,                 // {c, r, shown}
+};
+const DATA = {};              // slug → {clues: [...] grouped by tier}
+let seen = store.get("buzzboard-seen", {});   // slug → [clue ids] already shown on this device
+
+async function loadCategory(slug) {
+  if (DATA[slug]) return DATA[slug];
+  const res = await fetch(`${DATA_DIR}${slug}.json`);
+  if (!res.ok) throw new Error(`Couldn't load ${slug} (${res.status})`);
+  const json = await res.json();
+  const tiers = [[], [], [], [], []];
+  for (const c of json.clues) if (c.tier >= 1 && c.tier <= 5) tiers[c.tier - 1].push(c);
+  DATA[slug] = { tiers, total: json.clues.length };
+  return DATA[slug];
+}
+// Pick an unseen clue of this tier; when a tier runs out, it starts over.
+// "Who is Abraham Lincoln?" → "abraham lincoln", so one answer never shows up twice on a board
+const answerKey = a => a.replace(/^(what|who|where|when) (is|are|was|were) (the |a |an )?/i, "").replace(/\s*\(.*?\)/g, "").replace(/[?.!]+$/, "").trim().toLowerCase();
+function drawClue(slug, tier, avoidAnswers) {
+  const pool = DATA[slug].tiers[tier];
+  const seenSet = new Set(seen[slug] || []);
+  const ok = c => !avoidAnswers.has(answerKey(c.a));
+  let fresh = pool.filter(c => !seenSet.has(c.id) && ok(c));
+  if (!fresh.length) {
+    seen[slug] = (seen[slug] || []).filter(id => !pool.some(c => c.id === id));
+    store.set("buzzboard-seen", seen);
+    fresh = pool.filter(ok);
+    if (!fresh.length) fresh = pool;
+  }
+  return fresh[Math.floor(Math.random() * fresh.length)];
+}
+function markSeen(slug, id) {
+  (seen[slug] = seen[slug] || []).push(id);
+  store.set("buzzboard-seen", seen);
+}
+
+/* ------------------------------------------------------------------ title screen */
+function renderTitle() {
+  const tp = $("teampick");
+  tp.textContent = "";
+  for (let n = 1; n <= 10; n++) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "numbtn" + (n === G.teamCount ? " on" : ""); b.textContent = n;
+    b.setAttribute("aria-pressed", n === G.teamCount);
+    b.onclick = () => { G.teamCount = n; renderTitle(); };
+    tp.append(b);
+  }
+  const names = $("names");
+  names.textContent = "";
+  for (let i = 0; i < G.teamCount; i++) {
+    const inp = document.createElement("input");
+    inp.id = `name-${i}`; inp.maxLength = 20; inp.value = G.names[i];
+    inp.setAttribute("aria-label", `Team ${i + 1} name`);
+    inp.addEventListener("focus", () => { if (inp.value === "Unnamed") inp.select(); });
+    inp.addEventListener("input", () => { G.names[i] = inp.value; });
+    inp.addEventListener("blur", () => { if (!inp.value.trim()) { inp.value = "Unnamed"; G.names[i] = "Unnamed"; } });
+    names.append(inp);
+  }
+  const cats = $("cats");
+  cats.textContent = "";
+  if (!CATEGORIES.length) cats.innerHTML = `<p class="sub">Loading categories…</p>`;
+  let group = null, grid = null;
+  for (const c of CATEGORIES) {
+    if (c.group !== group) {
+      group = c.group;
+      const h = document.createElement("h3");
+      h.className = "group"; h.textContent = group;
+      grid = document.createElement("div"); grid.className = "catgrid";
+      cats.append(h, grid);
+    }
+    const pos = G.picked.indexOf(c.slug);
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "catbtn" + (pos >= 0 ? " on" : "");
+    b.disabled = pos < 0 && G.picked.length >= 5;
+    b.setAttribute("aria-pressed", pos >= 0);
+    b.innerHTML = `<span class="badge">${pos >= 0 ? pos + 1 : ""}</span><span></span>`;
+    b.lastChild.textContent = c.name;
+    b.title = `${c.count.toLocaleString()} questions`;
+    b.onclick = () => {
+      if (pos >= 0) G.picked.splice(pos, 1); else if (G.picked.length < 5) G.picked.push(c.slug);
+      renderTitle();
+    };
+    grid.append(b);
+  }
+  const order = $("order");
+  order.textContent = "";
+  if (!G.picked.length) order.innerHTML = `<span class="empty">Columns: none picked yet</span>`;
+  G.picked.forEach((s, i) => {
+    const span = document.createElement("span");
+    span.innerHTML = `<b>${i + 1}</b>`;
+    span.append((CATEGORIES.find(c => c.slug === s) || {name: s}).name);
+    order.append(span);
+  });
+  $("play").disabled = G.picked.length !== 5;
+  $("play").textContent = G.picked.length === 5 ? "Play" : `Pick ${5 - G.picked.length} more`;
+  save();
+}
+
+/* ------------------------------------------------------------------ game */
+async function startGame(keepScores) {
+  if (!keepScores) G.teams = Array.from({ length: G.teamCount }, (_, i) => ({ name: (G.names[i] || "").trim() || "Unnamed", score: 0 }));
+  G.view = "board"; G.used = {}; G.lastValue = 0; G.lastKey = null; G.open = null;
+  showPlay();
+  const stage = $("stage");
+  stage.innerHTML = `<div class="loading">Shuffling the questions…</div>`;
+  try {
+    await Promise.all(G.picked.map(loadCategory));
+  } catch (e) {
+    stage.innerHTML = `<div class="loading">The questions didn't load. Check your connection and click New board to try again.</div>`;
+    return;
+  }
+  const avoid = new Set();       // answers already on this board, across all columns
+  G.board = G.picked.map(slug => {
+    const clues = VALUES.map((_, r) => { const c = drawClue(slug, r, avoid); avoid.add(answerKey(c.a)); return c; });
+    return { slug, name: (CATEGORIES.find(c => c.slug === slug) || {name: slug}).name, clues };
+  });
+  renderAll();
+}
+function showPlay() {
+  $("title").hidden = true; $("play-view").hidden = false; $("teambar").hidden = false;
+  renderTeams();
+}
+function renderAll() {
+  if (G.view === "title") { $("title").hidden = false; $("play-view").hidden = true; $("teambar").hidden = true; renderTitle(); return; }
+  showPlay();
+  if (G.view === "clue" && G.open) renderClue(); else if (G.view === "done") renderDone(); else renderBoard();
+}
+function squaresLeft() { return G.board ? 25 - Object.keys(G.used).length : 0; }
+function renderBoard() {
+  G.view = "board";
+  const stage = $("stage");
+  stage.textContent = "";
+  const board = document.createElement("div");
+  board.className = "board";
+  G.board.forEach(col => {
+    const h = document.createElement("div");
+    h.className = "head"; h.textContent = col.name;
+    board.append(h);
+  });
+  VALUES.forEach((v, r) => G.board.forEach((col, c) => {
+    const key = `${c}-${r}`;
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "cell" + (G.lastKey === key ? " last" : "");
+    b.textContent = v; b.disabled = !!G.used[key];
+    b.setAttribute("aria-label", `${col.name} for ${v}${G.used[key] ? ", played" : ""}`);
+    b.onclick = () => openClue(c, r);
+    board.append(b);
+  }));
+  stage.append(board);
+  const left = squaresLeft();
+  $("left").textContent = left ? `${left} square${left === 1 ? "" : "s"} left · Space shows the answer · Esc goes back` : "";
+  if (!left) renderDone();
+  save();
+}
+function openClue(c, r) {
+  G.open = { c, r, shown: false };
+  G.lastValue = VALUES[r]; G.lastKey = `${c}-${r}`;
+  G.used[G.lastKey] = true;
+  const clue = G.board[c].clues[r];
+  markSeen(G.board[c].slug, clue.id);
+  G.view = "clue";
+  renderClue(); renderWorth();
+}
+function renderClue() {
+  const { c, r, shown } = G.open, col = G.board[c], clue = col.clues[r];
+  const stage = $("stage");
+  stage.innerHTML = `
+    <div class="clue" role="dialog" aria-label="Clue">
+      <div class="meta"><span></span><span class="v">${VALUES[r]}</span></div>
+      <p class="q"></p>
+      <div class="a" aria-live="polite"></div>
+      <div class="keys">
+        <button class="keybtn" type="button" id="reveal"><kbd>Space</kbd>${shown ? "Hide answer" : "Show answer"}</button>
+        <button class="keybtn" type="button" id="back"><kbd>Esc</kbd>Back to board</button>
+      </div>
+    </div>`;
+  stage.querySelector(".meta span").textContent = col.name;
+  stage.querySelector(".q").textContent = clue.q;
+  stage.querySelector(".a").textContent = shown ? clue.a : "";
+  $("reveal").onclick = toggleAnswer;
+  $("back").onclick = closeClue;
+  $("left").textContent = "Space shows the answer · Esc goes back";
+  save();
+}
+function toggleAnswer() { if (G.view !== "clue") return; G.open.shown = !G.open.shown; renderClue(); }
+function closeClue() { if (G.view !== "clue") return; G.open = null; renderBoard(); }
+function renderDone() {
+  G.view = "done";
+  const stage = $("stage");
+  const order = G.teams.map(t => t).sort((a, b) => b.score - a.score);
+  const top = order.length ? order[0].score : 0, winners = order.filter(t => t.score === top);
+  stage.innerHTML = `<div class="done"><h2></h2><div class="rank"></div>
+    <div class="setupbtns"><button type="button" class="go" id="again">New board, same teams</button><button type="button" id="again-title">Title screen</button></div></div>`;
+  stage.querySelector("h2").textContent = !order.length ? "Board cleared!" : winners.length > 1 ? "It's a tie!" : `${winners[0].name} wins!`;
+  const rank = stage.querySelector(".rank");
+  order.forEach(t => { const d = document.createElement("div"); d.innerHTML = "<span></span><b></b>"; d.firstChild.textContent = t.name; d.lastChild.textContent = t.score.toLocaleString(); rank.append(d); });
+  $("again").onclick = () => startGame(true);
+  $("again-title").onclick = toTitle;
+  $("left").textContent = "Board cleared";
+  save();
+}
+
+/* ------------------------------------------------------------------ teams */
+function renderWorth() {
+  const w = document.querySelector("#teambar .worth b");
+  if (w) w.textContent = G.lastValue ? G.lastValue : "—";
+}
+function renderTeams() {
+  const bar = $("teambar");
+  bar.textContent = "";
+  const worth = document.createElement("div");
+  worth.className = "worth";
+  worth.innerHTML = `<span>+ / − gives</span><b></b><span>last square</span>`;
+  bar.append(worth);
+  renderWorth();
+  G.teams.forEach((t, i) => {
+    const card = document.createElement("div");
+    card.className = "team";
+    const name = document.createElement("input");
+    name.className = "teamname"; name.value = t.name; name.maxLength = 20; name.id = `teamname-${i}`;
+    name.setAttribute("aria-label", `Team ${i + 1} name`);
+    name.addEventListener("focus", () => { if (name.value === "Unnamed") name.select(); });
+    name.addEventListener("input", () => { t.name = name.value; save(); });
+    name.addEventListener("blur", () => { if (!name.value.trim()) { name.value = "Unnamed"; t.name = "Unnamed"; save(); } });
+    const row = document.createElement("div");
+    row.className = "teamscore";
+    const minus = document.createElement("button"), plus = document.createElement("button"), num = document.createElement("span");
+    minus.type = plus.type = "button";
+    minus.className = "minus"; minus.textContent = "−"; plus.className = "plus"; plus.textContent = "+";
+    num.className = "scorenum";
+    const paint = () => { num.textContent = t.score.toLocaleString(); num.classList.toggle("neg", t.score < 0); };
+    minus.setAttribute("aria-label", `Take the last square's points from team ${i + 1}`);
+    plus.setAttribute("aria-label", `Give the last square's points to team ${i + 1}`);
+    minus.onclick = () => { t.score -= G.lastValue; paint(); save(); };
+    plus.onclick = () => { t.score += G.lastValue; paint(); save(); };
+    paint();
+    row.append(minus, num, plus);
+    card.append(name, row);
+    bar.append(card);
+  });
+}
+
+/* ------------------------------------------------------------------ wiring */
+function toTitle() { G.view = "title"; G.open = null; renderAll(); }
+function save() { store.set("buzzboard-game", G); }
+$("play").onclick = () => startGame(false);
+$("randomcats").onclick = () => { G.picked = shuffle(CATEGORIES.map(c => c.slug)).slice(0, 5); renderTitle(); };
+$("clearcats").onclick = () => { G.picked = []; renderTitle(); };
+$("newboard").onclick = () => startGame(true);
+$("totitle").onclick = toTitle;
+$("fullscreen").onclick = () => {
+  try {
+    if (document.fullscreenElement) document.exitFullscreen();
+    else document.documentElement.requestFullscreen?.().catch(() => {});
+  } catch (e) {}
+};
+document.addEventListener("keydown", e => {
+  if (e.target.matches?.("input, textarea")) return;
+  if (G.view !== "clue") return;
+  if (e.code === "Space" || e.key === " ") { e.preventDefault(); toggleAnswer(); }
+  else if (e.key === "Escape") { e.preventDefault(); closeClue(); }
+});
+
+async function loadIndex() {
+  try {
+    const res = await fetch(`${DATA_DIR}index.json`);
+    CATEGORIES = (await res.json()).categories;
+  } catch (e) {
+    $("cats").innerHTML = `<p class="sub">The category list didn't load. Check your connection and reload the page.</p>`;
+    return false;
+  }
+  return true;
+}
+async function start(hot) {
+  const ok = await loadIndex();
+  const saved = (hot && hot.G) || store.get("buzzboard-game", null);
+  if (saved && saved.teams && Array.isArray(saved.picked)) G = Object.assign(G, saved);
+  G.picked = G.picked.filter(s => CATEGORIES.some(c => c.slug === s));
+  if (!ok) return;
+  if (G.view !== "title" && G.board) {
+    try { await Promise.all(G.picked.map(loadCategory)); } catch (e) {}
+  } else G.view = "title";
+  renderAll();
+}
+window.claude?.hot?.snapshot?.(() => ({ G }));
+window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {});
+</script>
+<style>
+#games { position: absolute; top: 14px; right: 14px; z-index: 30; display: flex; gap: 2px; padding: 4px; border-radius: 22px; background: var(--panel); border: 1px solid var(--line); }
+#games a { height: 34px; padding: 0 13px; border-radius: 17px; display: flex; align-items: center; text-decoration: none; color: var(--dim); font-size: 13.5px; font-weight: 600; letter-spacing: .3px; }
+#games a:hover { color: var(--ink); }
+#games a[aria-current="page"] { background: var(--accent); color: #06101f; }
+.title { position: relative; padding-top: 70px; }
+@media (max-width: 560px) { #games a { padding: 0 9px; font-size: 12.5px; height: 30px; } }
+</style>
+</body>
+</html>

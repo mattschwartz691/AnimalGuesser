@@ -1,0 +1,308 @@
+{
+ "category": "Physics",
+ "slug": "physics",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "physics-01",
+   "q": "Legend says a falling apple inspired this English scientist's theory of gravity",
+   "a": "Who is Isaac Newton?",
+   "tier": 1
+  },
+  {
+   "id": "physics-02",
+   "q": "This force keeps the Moon in orbit and makes dropped objects fall",
+   "a": "What is gravity?",
+   "tier": 1
+  },
+  {
+   "id": "physics-03",
+   "q": "This physicist, famous for E = mc^2, developed the theory of relativity",
+   "a": "Who is Albert Einstein?",
+   "tier": 1
+  },
+  {
+   "id": "physics-04",
+   "q": "This force opposes motion when two surfaces rub against each other",
+   "a": "What is friction?",
+   "tier": 1
+  },
+  {
+   "id": "physics-05",
+   "q": "Like poles of these objects repel each other, while opposite poles attract",
+   "a": "What are magnets?",
+   "tier": 1
+  },
+  {
+   "id": "physics-06",
+   "q": "This is a sound you hear again after it bounces off a distant surface like a canyon wall",
+   "a": "What is an echo?",
+   "tier": 1
+  },
+  {
+   "id": "physics-07",
+   "q": "Solid, liquid and gas are the three most familiar of these",
+   "a": "What are the states of matter?",
+   "tier": 1
+  },
+  {
+   "id": "physics-08",
+   "q": "A seesaw is an example of this simple machine that pivots on a fulcrum",
+   "a": "What is a lever?",
+   "tier": 1
+  },
+  {
+   "id": "physics-09",
+   "q": "A glass prism splits white light into this band of colors",
+   "a": "What is a spectrum (rainbow)?",
+   "tier": 1
+  },
+  {
+   "id": "physics-10",
+   "q": "Measured in kilograms, this amount of matter in an object stays the same on the Moon even though its weight changes",
+   "a": "What is mass?",
+   "tier": 1
+  },
+  {
+   "id": "physics-11",
+   "q": "Nothing with mass can reach this ultimate cosmic limit, about 300,000 kilometers per second in a vacuum",
+   "a": "What is the speed of light?",
+   "tier": 2
+  },
+  {
+   "id": "physics-12",
+   "q": "Sound cannot travel through this, a space completely empty of matter",
+   "a": "What is a vacuum?",
+   "tier": 2
+  },
+  {
+   "id": "physics-13",
+   "q": "This law of electricity is written V = IR",
+   "a": "What is Ohm's law?",
+   "tier": 2
+  },
+  {
+   "id": "physics-14",
+   "q": "Named after a Scottish steam-engine inventor, this unit measures power, as on a light bulb",
+   "a": "What is a watt?",
+   "tier": 2
+  },
+  {
+   "id": "physics-15",
+   "q": "Equal to one-half mass times velocity squared, this is what an object has because it is moving",
+   "a": "What is kinetic energy?",
+   "tier": 2
+  },
+  {
+   "id": "physics-16",
+   "q": "This coldest possible temperature is 0 kelvin, or -273.15 degrees Celsius",
+   "a": "What is absolute zero?",
+   "tier": 2
+  },
+  {
+   "id": "physics-17",
+   "q": "Ignoring air resistance, a falling object near Earth's surface speeds up by about this many meters per second every second",
+   "a": "What is 9.8?",
+   "tier": 2
+  },
+  {
+   "id": "physics-18",
+   "q": "This invisible light, just beyond violet on the spectrum, is what gives you a sunburn",
+   "a": "What is ultraviolet?",
+   "tier": 2
+  },
+  {
+   "id": "physics-19",
+   "q": "Calculated as mass times velocity, this quantity is conserved when billiard balls collide",
+   "a": "What is momentum?",
+   "tier": 2
+  },
+  {
+   "id": "physics-20",
+   "q": "This unit measures how loud a sound is; a rock concert can top 110 of them",
+   "a": "What is the decibel?",
+   "tier": 2
+  },
+  {
+   "id": "physics-21",
+   "q": "This process splits a heavy atomic nucleus like uranium-235 into smaller pieces, releasing energy",
+   "a": "What is nuclear fission?",
+   "tier": 3
+  },
+  {
+   "id": "physics-22",
+   "q": "This process powers the Sun by smashing hydrogen nuclei together to form helium",
+   "a": "What is nuclear fusion?",
+   "tier": 3
+  },
+  {
+   "id": "physics-23",
+   "q": "This phenomenon explains why an ambulance siren sounds higher-pitched as it approaches and lower as it moves away",
+   "a": "What is the Doppler effect?",
+   "tier": 3
+  },
+  {
+   "id": "physics-24",
+   "q": "This bending of light as it passes from air into water makes a straw look broken in a glass",
+   "a": "What is refraction?",
+   "tier": 3
+  },
+  {
+   "id": "physics-25",
+   "q": "Newton's first law describes this tendency of an object to resist any change in its motion",
+   "a": "What is inertia?",
+   "tier": 3
+  },
+  {
+   "id": "physics-26",
+   "q": "This ancient Greek supposedly shouted Eureka after realizing how to measure volume by water displacement",
+   "a": "Who is Archimedes?",
+   "tier": 3
+  },
+  {
+   "id": "physics-27",
+   "q": "This unit of frequency equals one cycle per second",
+   "a": "What is the hertz?",
+   "tier": 3
+  },
+  {
+   "id": "physics-28",
+   "q": "This Serbian-American inventor championed alternating current, and the SI unit of magnetic flux density bears his name",
+   "a": "Who is Nikola Tesla?",
+   "tier": 3
+  },
+  {
+   "id": "physics-29",
+   "q": "This center-seeking push or pull keeps a ball on a string moving in a circle",
+   "a": "What is centripetal force?",
+   "tier": 3
+  },
+  {
+   "id": "physics-30",
+   "q": "A skydiver reaches this when air resistance balances gravity and they stop speeding up",
+   "a": "What is terminal velocity?",
+   "tier": 3
+  },
+  {
+   "id": "physics-31",
+   "q": "This idea from quantum mechanics says you can't know both the exact position and exact momentum of a particle at once",
+   "a": "What is the Heisenberg uncertainty principle?",
+   "tier": 4
+  },
+  {
+   "id": "physics-32",
+   "q": "This famous 1935 thought experiment imagines an animal in a sealed box that is both alive and dead until observed",
+   "a": "What is Schrodinger's cat?",
+   "tier": 4
+  },
+  {
+   "id": "physics-33",
+   "q": "The second law of thermodynamics says this measure of disorder in an isolated system never decreases",
+   "a": "What is entropy?",
+   "tier": 4
+  },
+  {
+   "id": "physics-34",
+   "q": "This is the time it takes for half of the atoms in a radioactive sample to decay",
+   "a": "What is half-life?",
+   "tier": 4
+  },
+  {
+   "id": "physics-35",
+   "q": "Found at CERN's Large Hadron Collider in 2012, this particle is linked to the field that gives others their mass",
+   "a": "What is the Higgs boson?",
+   "tier": 4
+  },
+  {
+   "id": "physics-36",
+   "q": "This English scientist discovered electromagnetic induction in 1831, and a metal shielding cage is named for him",
+   "a": "Who is Michael Faraday?",
+   "tier": 4
+  },
+  {
+   "id": "physics-37",
+   "q": "Some materials cooled to very low temperatures show this property of conducting electricity with zero resistance",
+   "a": "What is superconductivity?",
+   "tier": 4
+  },
+  {
+   "id": "physics-38",
+   "q": "This rule says that as a fluid's speed increases, its pressure decreases, helping explain airplane lift",
+   "a": "What is Bernoulli's principle?",
+   "tier": 4
+  },
+  {
+   "id": "physics-39",
+   "q": "This law says the force needed to stretch or compress a spring is proportional to the distance it's stretched",
+   "a": "What is Hooke's law?",
+   "tier": 4
+  },
+  {
+   "id": "physics-40",
+   "q": "Protons and neutrons are each made of three of these particles, named from a line in Finnegans Wake",
+   "a": "What are quarks?",
+   "tier": 4
+  },
+  {
+   "id": "physics-41",
+   "q": "Albert Einstein's 1921 Nobel Prize was awarded for explaining this phenomenon, in which light knocks electrons off a metal",
+   "a": "What is the photoelectric effect?",
+   "tier": 5
+  },
+  {
+   "id": "physics-42",
+   "q": "This rule states that no two electrons in an atom can have the same set of four quantum numbers",
+   "a": "What is the Pauli exclusion principle?",
+   "tier": 5
+  },
+  {
+   "id": "physics-43",
+   "q": "Exactly 6.62607015 x 10^-34 joule-seconds, this fixed value relates a photon's energy to its frequency",
+   "a": "What is Planck's constant?",
+   "tier": 5
+  },
+  {
+   "id": "physics-44",
+   "q": "This 1887 test found no evidence of the luminiferous ether, paving the way for relativity",
+   "a": "What is the Michelson-Morley experiment?",
+   "tier": 5
+  },
+  {
+   "id": "physics-45",
+   "q": "In the 1860s, this Scottish physicist wrote the equations unifying electricity, magnetism and light",
+   "a": "Who is James Clerk Maxwell?",
+   "tier": 5
+  },
+  {
+   "id": "physics-46",
+   "q": "Nearly massless and electrically neutral, trillions of these ghostly particles from the Sun pass through your body every second",
+   "a": "What are neutrinos?",
+   "tier": 5
+  },
+  {
+   "id": "physics-47",
+   "q": "This apparent deflection of moving objects due to Earth's rotation makes hurricanes spin counterclockwise in the Northern Hemisphere",
+   "a": "What is the Coriolis effect?",
+   "tier": 5
+  },
+  {
+   "id": "physics-48",
+   "q": "First created in a lab in 1995, this state of matter forms when certain atoms are cooled to within a hair of absolute zero",
+   "a": "What is a Bose-Einstein condensate?",
+   "tier": 5
+  },
+  {
+   "id": "physics-49",
+   "q": "This law relates the angles of incidence and refraction to the refractive indices of two materials",
+   "a": "What is Snell's law?",
+   "tier": 5
+  },
+  {
+   "id": "physics-50",
+   "q": "This bongo-playing physicist dunked an O-ring in ice water to explain the Challenger disaster",
+   "a": "Who is Richard Feynman?",
+   "tier": 5
+  }
+ ]
+}

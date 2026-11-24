@@ -1,0 +1,308 @@
+{
+ "category": "Video Games",
+ "slug": "video-games",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "video-games-01",
+   "q": "This mustachioed plumber in a red cap and overalls is Nintendo's best-known mascot",
+   "a": "Who is Mario?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-02",
+   "q": "In this sandbox game, players mine blocks, craft tools and try not to get blown up by hissing green Creepers",
+   "a": "What is Minecraft?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-03",
+   "q": "Sega's speedy blue mascot collects golden rings and battles a mad scientist",
+   "a": "Who is Sonic?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-04",
+   "q": "Epic Games' hugely popular battle royale lets players build walls and ramps and show off dance emotes",
+   "a": "What is Fortnite?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-05",
+   "q": "This yellow Electric-type Pokemon with red cheeks is Ash Ketchum's partner",
+   "a": "Who is Pikachu?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-06",
+   "q": "In this 2018 party game, crewmates complete tasks on a spaceship while impostors secretly sabotage them",
+   "a": "What is Among Us?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-07",
+   "q": "This round yellow arcade hero munches dots and power pellets while fleeing ghosts in a maze",
+   "a": "Who is Pac-Man?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-08",
+   "q": "Created by Alexey Pajitnov in the Soviet Union, this puzzle game has you clear lines of falling blocks",
+   "a": "What is Tetris?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-09",
+   "q": "This 2017 hybrid console with detachable Joy-Con controllers can be played on a TV or as a handheld",
+   "a": "What is the Nintendo Switch?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-10",
+   "q": "On this online platform, players spend Robux and play user-made games like Adopt Me! and Brookhaven",
+   "a": "What is Roblox?",
+   "tier": 1
+  },
+  {
+   "id": "video-games-11",
+   "q": "Mario's taller younger brother wears green and stars in his own ghost-busting Mansion games",
+   "a": "Who is Luigi?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-12",
+   "q": "This spiky-shelled King of the Koopas keeps kidnapping Princess Peach",
+   "a": "Who is Bowser?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-13",
+   "q": "In this Nintendo series, you move to a village or island and pay off your home loans to Tom Nook",
+   "a": "What is Animal Crossing?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-14",
+   "q": "This round pink Nintendo hero from Dream Land can inhale enemies and copy their powers",
+   "a": "Who is Kirby?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-15",
+   "q": "In this Nintendo shooter, colorful squid kids win matches by covering the most ground with ink",
+   "a": "What is Splatoon?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-16",
+   "q": "In this Nintendo racing series, a spiny blue shell hunts down whoever is in first place",
+   "a": "What is Mario Kart?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-17",
+   "q": "Master Chief battles the alien Covenant in this Xbox shooter series",
+   "a": "What is Halo?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-18",
+   "q": "Nintendo's 2006 console got whole families swinging motion-sensing remotes to play bowling and tennis",
+   "a": "What is the Wii?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-19",
+   "q": "Mario's greedy rival dresses in yellow and purple and wears a cap with an upside-down M",
+   "a": "Who is Wario?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-20",
+   "q": "Mario often rides this friendly green dinosaur, who gobbles enemies with his long tongue",
+   "a": "Who is Yoshi?",
+   "tier": 2
+  },
+  {
+   "id": "video-games-21",
+   "q": "Many players mistakenly call the green-clad hero by her name, but she's actually the princess of Hyrule",
+   "a": "Who is Zelda?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-22",
+   "q": "Microsoft's first home console launched in 2001 with Halo: Combat Evolved as a launch title",
+   "a": "What is the Xbox?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-23",
+   "q": "Sonic's two-tailed fox buddy Miles Prower is better known by this nickname",
+   "a": "Who is Tails?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-24",
+   "q": "In this Nintendo fighting series, you win by knocking characters off the stage instead of draining a health bar",
+   "a": "What is Super Smash Bros.?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-25",
+   "q": "This Grass/Poison type is number 001 in the National Pokedex",
+   "a": "Who is Bulbasaur?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-26",
+   "q": "This Nintendo handheld came out in 1989 and was bundled with Tetris in North America",
+   "a": "What is the Game Boy?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-27",
+   "q": "In this Eric Barone indie game, you inherit your grandfather's old farm near Pelican Town",
+   "a": "What is Stardew Valley?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-28",
+   "q": "In Zelda games, this golden relic is made of three triangles representing Power, Wisdom and Courage",
+   "a": "What is the Triforce?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-29",
+   "q": "This Nintendo series stars Samus Aran, a bounty hunter in a powered suit exploring alien planets",
+   "a": "What is Metroid?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-30",
+   "q": "Released by Atari in 1972, this arcade game simulates table tennis with two paddles and a ball",
+   "a": "What is Pong?",
+   "tier": 3
+  },
+  {
+   "id": "video-games-31",
+   "q": "In the 1981 arcade game Donkey Kong, Mario was originally known by this name",
+   "a": "Who is Jumpman?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-32",
+   "q": "Founded in Kyoto in 1889, this company originally made hanafuda playing cards",
+   "a": "What is Nintendo?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-33",
+   "q": "Pac-Man's ghosts are Blinky, Pinky, Inky and this orange one",
+   "a": "Who is Clyde?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-34",
+   "q": "In this 2015 indie RPG by Toby Fox, you can get through the whole game without killing a single monster",
+   "a": "What is Undertale?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-35",
+   "q": "This 16-bit console, Sonic's original home, was called the Mega Drive outside North America",
+   "a": "What is the Sega Genesis?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-36",
+   "q": "This Gerudo King of Thieves is the recurring villain of the Zelda series and holds the Triforce of Power",
+   "a": "Who is Ganondorf?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-37",
+   "q": "In this Valve puzzle game, test subject Chell uses a special gun to make linked holes in walls while the AI GLaDOS taunts her",
+   "a": "What is Portal?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-38",
+   "q": "Up, Up, Down, Down, Left, Right, Left, Right, B, A is this famous cheat, named for the company behind Contra",
+   "a": "What is the Konami Code?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-39",
+   "q": "In Ocarina of Time, this fairy companion is famous for shouting 'Hey! Listen!'",
+   "a": "Who is Navi?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-40",
+   "q": "In the original Pokemon Red and Blue, this Mythical Psychic-type was number 151",
+   "a": "Who is Mew?",
+   "tier": 4
+  },
+  {
+   "id": "video-games-41",
+   "q": "Made by physicist William Higinbotham in 1958 on an oscilloscope, this game is one of the earliest video games",
+   "a": "What is Tennis for Two?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-42",
+   "q": "Developed at MIT in 1962 for the PDP-1 computer, this two-player game pits spaceships against each other around a star",
+   "a": "What is Spacewar!?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-43",
+   "q": "This Nintendo designer created Mario, Donkey Kong and The Legend of Zelda",
+   "a": "Who is Shigeru Miyamoto?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-44",
+   "q": "This Game Freak founder created Pokemon, inspired by his childhood hobby of insect collecting",
+   "a": "Who is Satoshi Tajiri?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-45",
+   "q": "Thousands of unsold cartridges of this 1982 Atari 2600 movie tie-in were famously buried in a New Mexico landfill",
+   "a": "What is E.T. the Extra-Terrestrial?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-46",
+   "q": "Nintendo's NES was released in Japan under this name, short for 'Family Computer'",
+   "a": "What is the Famicom?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-47",
+   "q": "This Atari co-founder also started the Chuck E. Cheese pizza restaurant chain",
+   "a": "Who is Nolan Bushnell?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-48",
+   "q": "This Namco designer created Pac-Man",
+   "a": "Who is Toru Iwatani?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-49",
+   "q": "Designed by Ralph Baer, this 1972 machine was the first commercial home video game console",
+   "a": "What is the Magnavox Odyssey?",
+   "tier": 5
+  },
+  {
+   "id": "video-games-50",
+   "q": "This silent, crowbar-wielding MIT-educated physicist is the hero of Half-Life",
+   "a": "Who is Gordon Freeman?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Explorers",
+ "slug": "explorers",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "explorers-01",
+   "q": "In 1969 this astronaut became the first person to walk on the Moon",
+   "a": "Who is Neil Armstrong?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-02",
+   "q": "In 1492 this navigator sailing for Spain reached the Caribbean with the Niña, the Pinta and the Santa María",
+   "a": "Who is Christopher Columbus?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-03",
+   "q": "This Venetian traveled to China and served at the court of Kublai Khan",
+   "a": "Who is Marco Polo?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-04",
+   "q": "He led the first expedition to sail around the world but was killed in the Philippines in 1521",
+   "a": "Who is Ferdinand Magellan?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-05",
+   "q": "This pair led the Corps of Discovery from the St. Louis area to the Pacific Ocean and back from 1804 to 1806",
+   "a": "Who are Lewis and Clark?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-06",
+   "q": "In December 1911 this Norwegian led the first expedition to reach the South Pole",
+   "a": "Who is Roald Amundsen?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-07",
+   "q": "This New Zealander and Tenzing Norgay were the first confirmed climbers to reach the top of Mount Everest, in 1953",
+   "a": "Who is Edmund Hillary?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-08",
+   "q": "This Norse explorer reached North America about 500 years before Columbus",
+   "a": "Who is Leif Erikson?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-09",
+   "q": "In 1498 this Portuguese navigator became the first European to reach India by sailing around Africa",
+   "a": "Who is Vasco da Gama?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-10",
+   "q": "In 1961 this Soviet cosmonaut became the first human to travel into space",
+   "a": "Who is Yuri Gagarin?",
+   "tier": 1
+  },
+  {
+   "id": "explorers-11",
+   "q": "This British navigator charted New Zealand and Australia's east coast and was killed in Hawaii in 1779",
+   "a": "Who is James Cook?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-12",
+   "q": "This Spanish conquistador conquered the Aztec Empire and its capital Tenochtitlan in 1521",
+   "a": "Who is Hernán Cortés?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-13",
+   "q": "This Spanish conquistador captured the Inca emperor Atahualpa in 1532",
+   "a": "Who is Francisco Pizarro?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-14",
+   "q": "A river, a bay and a strait in North America are named for this English navigator, set adrift by his mutinous crew in 1611",
+   "a": "Who is Henry Hudson?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-15",
+   "q": "His ship Endurance was crushed by Antarctic ice in 1915, yet every member of its crew survived",
+   "a": "Who is Ernest Shackleton?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-16",
+   "q": "This Frenchman co-invented the Aqua-Lung and made famous undersea films from his ship Calypso",
+   "a": "Who is Jacques Cousteau?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-17",
+   "q": "Aboard the Golden Hind, this Englishman completed a voyage around the world in 1580",
+   "a": "Who is Francis Drake?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-18",
+   "q": "This Spanish explorer named Florida in 1513; legend links him to a search for the Fountain of Youth",
+   "a": "Who is Juan Ponce de León?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-19",
+   "q": "The Americas are named after this Italian navigator, who argued that the lands Columbus reached were a 'New World'",
+   "a": "Who is Amerigo Vespucci?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-20",
+   "q": "This French explorer sailed up the St. Lawrence River in the 1530s and claimed the region for France",
+   "a": "Who is Jacques Cartier?",
+   "tier": 2
+  },
+  {
+   "id": "explorers-21",
+   "q": "This Moroccan scholar spent about 30 years in the 14th century traveling across Africa, the Middle East and Asia",
+   "a": "Who is Ibn Battuta?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-22",
+   "q": "This British naval officer reached the South Pole in January 1912, weeks after his rival, and died on the return trek",
+   "a": "Who is Robert Falcon Scott?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-23",
+   "q": "This Ming dynasty admiral led seven huge 'treasure fleet' voyages across the Indian Ocean in the early 1400s",
+   "a": "Who is Zheng He?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-24",
+   "q": "In 1488 this Portuguese captain became the first European to sail around the southern tip of Africa",
+   "a": "Who is Bartolomeu Dias?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-25",
+   "q": "Called the 'Father of New France', this explorer founded Quebec City in 1608",
+   "a": "Who is Samuel de Champlain?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-26",
+   "q": "In 1871 journalist Henry Morton Stanley found this long-missing Scottish missionary-explorer at Ujiji near Lake Tanganyika",
+   "a": "Who is David Livingstone?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-27",
+   "q": "Sailing for England in 1497, this Italian navigator reached the coast of North America, probably Newfoundland",
+   "a": "Who is John Cabot?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-28",
+   "q": "This Spanish conquistador led the first documented European crossing of the Mississippi River, in 1541",
+   "a": "Who is Hernando de Soto?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-29",
+   "q": "This U.S. Navy officer claimed to have reached the North Pole in 1909, a claim still disputed",
+   "a": "Who is Robert Peary?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-30",
+   "q": "This Spaniard became the first European to see the Pacific Ocean from the Americas, after crossing Panama in 1513",
+   "a": "Who is Vasco Núñez de Balboa?",
+   "tier": 3
+  },
+  {
+   "id": "explorers-31",
+   "q": "This Danish-born navigator in Russian service has the strait between Asia and North America named after him",
+   "a": "Who is Vitus Bering?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-32",
+   "q": "In 1642 this Dutch navigator became the first known European to reach New Zealand and the island now named for him",
+   "a": "Who is Abel Tasman?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-33",
+   "q": "This Scottish explorer described his journey to the Niger River in 'Travels in the Interior Districts of Africa'",
+   "a": "Who is Mungo Park?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-34",
+   "q": "This Basque captain eventually took command of Magellan's expedition and brought the Victoria home to Spain in 1522",
+   "a": "Who is Juan Sebastián Elcano?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-35",
+   "q": "In 1500 this Portuguese navigator, bound for India, landed on the coast of Brazil and claimed it for Portugal",
+   "a": "Who is Pedro Álvares Cabral?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-36",
+   "q": "In 1858 this British explorer reached a great African lake that he correctly identified as the source of the Nile",
+   "a": "Who is John Hanning Speke?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-37",
+   "q": "This Norwegian crossed Greenland in 1888, let his ship Fram drift across the Arctic, and later won the Nobel Peace Prize",
+   "a": "Who is Fridtjof Nansen?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-38",
+   "q": "This Prussian naturalist explored South America around 1800; a cold Pacific current is named for him",
+   "a": "Who is Alexander von Humboldt?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-39",
+   "q": "A famous Colorado peak bears the name of this U.S. Army officer, who explored the Southwest on an 1806 expedition",
+   "a": "Who is Zebulon Pike?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-40",
+   "q": "Sailing for Spain in 1542, this navigator led the first European expedition to explore the coast of present-day California",
+   "a": "Who is Juan Rodríguez Cabrillo?",
+   "tier": 4
+  },
+  {
+   "id": "explorers-41",
+   "q": "This Irish policeman and English surveyor led the ill-fated 1860-61 expedition that first crossed Australia from south to north",
+   "a": "Who are Burke and Wills?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-42",
+   "q": "In 1673 this Jesuit priest and a French-Canadian fur trader canoed down the Mississippi River as far as the Arkansas River",
+   "a": "Who are Marquette and Jolliet?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-43",
+   "q": "This 7th-century Chinese Buddhist monk journeyed to India and returned with hundreds of sacred texts",
+   "a": "Who is Xuanzang?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-44",
+   "q": "This British writer and archaeologist traveled across Arabia and played a major role in creating the modern state of Iraq",
+   "a": "Who is Gertrude Bell?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-45",
+   "q": "In the 4th century BC this Greek from Massalia sailed to Britain and described a far northern land called Thule",
+   "a": "Who is Pytheas?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-46",
+   "q": "This Victorian traveler wrote 'A Lady's Life in the Rocky Mountains' and was the first woman elected to the Royal Geographical Society",
+   "a": "Who is Isabella Bird?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-47",
+   "q": "Shipwrecked in 1528, this Spaniard wandered for about eight years across what is now Texas and northern Mexico",
+   "a": "Who is Álvar Núñez Cabeza de Vaca?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-48",
+   "q": "This Dutch navigator, who has an Arctic sea named for him, died in 1597 after his crew wintered on Novaya Zemlya",
+   "a": "Who is Willem Barentsz?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-49",
+   "q": "A flowering vine and a Pacific island are named for this first Frenchman to sail around the world, from 1766 to 1769",
+   "a": "Who is Louis-Antoine de Bougainville?",
+   "tier": 5
+  },
+  {
+   "id": "explorers-50",
+   "q": "In the 920s this envoy of the Abbasid caliph traveled to the Volga and wrote a vivid account of the Rus",
+   "a": "Who is Ahmad ibn Fadlan?",
+   "tier": 5
+  }
+ ]
+}

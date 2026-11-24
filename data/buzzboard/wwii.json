@@ -1,0 +1,308 @@
+{
+ "category": "World War II",
+ "slug": "wwii",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "wwii-01",
+   "q": "On December 7, 1941, Japan launched a surprise attack on this U.S. naval base in Hawaii",
+   "a": "What is Pearl Harbor?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-02",
+   "q": "This military term refers to June 6, 1944, when Allied troops landed on the beaches of Normandy",
+   "a": "What is D-Day?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-03",
+   "q": "This Jewish teenager kept a famous diary while hiding from the Nazis in a secret annex in Amsterdam",
+   "a": "Who is Anne Frank?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-04",
+   "q": "This British prime minister vowed in 1940, 'We shall fight on the beaches... we shall never surrender'",
+   "a": "Who is Winston Churchill?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-05",
+   "q": "This Austrian-born dictator led Nazi Germany from 1933 to 1945",
+   "a": "Who is Adolf Hitler?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-06",
+   "q": "This U.S. president, elected four times, led the country from the Great Depression into World War II",
+   "a": "Who is Franklin D. Roosevelt?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-07",
+   "q": "On August 6, 1945, this Japanese city became the first ever struck by an atomic bomb",
+   "a": "What is Hiroshima?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-08",
+   "q": "Germany, Italy and Japan were the main members of this alliance",
+   "a": "What are the Axis powers?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-09",
+   "q": "This name was given to the German bombing campaign against London and other British cities in 1940 and 1941",
+   "a": "What is the Blitz?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-10",
+   "q": "Germany's invasion of this country on September 1, 1939, is usually seen as the start of the war in Europe",
+   "a": "What is Poland?",
+   "tier": 1
+  },
+  {
+   "id": "wwii-11",
+   "q": "In 1940 hundreds of small civilian boats helped evacuate over 300,000 Allied troops from the beaches of this French port",
+   "a": "What is Dunkirk?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-12",
+   "q": "In this 1940 air campaign over southern England, the Royal Air Force fought off the German Luftwaffe",
+   "a": "What is the Battle of Britain?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-13",
+   "q": "The Soviet defense of this city on the Volga in 1942-43 was a major turning point on the Eastern Front",
+   "a": "What is Stalingrad?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-14",
+   "q": "This American general was Supreme Allied Commander for the invasion of Normandy and later became U.S. president",
+   "a": "Who is Dwight D. Eisenhower?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-15",
+   "q": "Known as 'Il Duce', this Fascist dictator led Italy into the war on Germany's side",
+   "a": "Who is Benito Mussolini?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-16",
+   "q": "Codebreakers at Bletchley Park cracked messages sent with this German cipher machine",
+   "a": "What is Enigma?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-17",
+   "q": "In June 1942 the U.S. Navy sank four Japanese aircraft carriers near this Pacific atoll, turning the tide in the Pacific",
+   "a": "What is Midway?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-18",
+   "q": "This top-secret U.S. program, with a key lab at Los Alamos, built the first atomic bombs",
+   "a": "What is the Manhattan Project?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-19",
+   "q": "This bandanna-wearing figure became a symbol of American women working in wartime factories",
+   "a": "Who is Rosie the Riveter?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-20",
+   "q": "Forced to leave the Philippines in 1942, this American general promised, 'I shall return'",
+   "a": "Who is Douglas MacArthur?",
+   "tier": 2
+  },
+  {
+   "id": "wwii-21",
+   "q": "This German field marshal earned the nickname 'the Desert Fox' for his campaigns in North Africa",
+   "a": "Who is Erwin Rommel?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-22",
+   "q": "Under this 1941 program, the U.S. supplied Britain, the Soviet Union and other Allies with war materials",
+   "a": "What is Lend-Lease?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-23",
+   "q": "These Native American Marines used their own language to send messages the Japanese never broke",
+   "a": "Who are the Navajo code talkers?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-24",
+   "q": "A famous photo shows U.S. Marines raising the flag on Mount Suribachi on this island in February 1945",
+   "a": "What is Iwo Jima?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-25",
+   "q": "This Japanese word, meaning 'divine wind', was used for pilots who deliberately crashed their planes into Allied ships",
+   "a": "What is kamikaze?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-26",
+   "q": "Returning from Munich in 1938, this British prime minister claimed he had secured 'peace for our time'",
+   "a": "Who is Neville Chamberlain?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-27",
+   "q": "Roosevelt, Churchill and Stalin met at this Crimean resort in February 1945 to plan postwar Europe",
+   "a": "What is Yalta?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-28",
+   "q": "Trained in Alabama, these pilots were the U.S. Army's first African American military aviators",
+   "a": "Who are the Tuskegee Airmen?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-29",
+   "q": "This French general led the Free French from London after France fell in 1940",
+   "a": "Who is Charles de Gaulle?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-30",
+   "q": "Germany's surprise December 1944 offensive through the Ardennes forest is best known by this nickname",
+   "a": "What is the Battle of the Bulge?",
+   "tier": 3
+  },
+  {
+   "id": "wwii-31",
+   "q": "This code name was given to Germany's invasion of the Soviet Union on June 22, 1941",
+   "a": "What is Operation Barbarossa?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-32",
+   "q": "Bernard Montgomery's 1942 victory at this Egyptian railway stop turned the tide in North Africa",
+   "a": "What is El Alamein?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-33",
+   "q": "After France's defeat in 1940, its collaborationist government was based in this spa town",
+   "a": "What is Vichy?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-34",
+   "q": "This Japanese admiral planned the attack on Pearl Harbor",
+   "a": "Who is Isoroku Yamamoto?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-35",
+   "q": "This army general served as Japan's prime minister from 1941 to 1944",
+   "a": "Who is Hideki Tojo?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-36",
+   "q": "This Swedish diplomat in Budapest saved thousands of Hungarian Jews in 1944 by issuing protective passports",
+   "a": "Who is Raoul Wallenberg?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-37",
+   "q": "The book and film 'A Bridge Too Far' tell the story of this failed Allied airborne assault in the Netherlands in September 1944",
+   "a": "What is Operation Market Garden?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-38",
+   "q": "In August 1942 U.S. Marines landed on this island in the Solomons, starting a six-month campaign",
+   "a": "What is Guadalcanal?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-39",
+   "q": "Truman, Stalin and Churchill (replaced partway by Attlee) met at this summit near Berlin in July 1945",
+   "a": "What is the Potsdam Conference?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-40",
+   "q": "Germany bypassed this heavily fortified French defensive barrier along the German border in 1940",
+   "a": "What is the Maginot Line?",
+   "tier": 4
+  },
+  {
+   "id": "wwii-41",
+   "q": "While serving in Lithuania in 1940, this Japanese diplomat issued thousands of transit visas to Jewish refugees",
+   "a": "Who is Chiune Sugihara?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-42",
+   "q": "This was the code name for Germany's planned 1940 invasion of Britain, which was never carried out",
+   "a": "What is Operation Sea Lion?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-43",
+   "q": "Finland fought this conflict against the Soviet Union from November 1939 to March 1940",
+   "a": "What is the Winter War?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-44",
+   "q": "Fought in the summer of 1943 in western Russia, this clash included one of the largest tank engagements in history",
+   "a": "What is the Battle of Kursk?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-45",
+   "q": "Mostly Canadian troops took part in this disastrous Allied assault on a French port in August 1942",
+   "a": "What is the Dieppe Raid?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-46",
+   "q": "This was the code name for the Allied landings in French North Africa in November 1942",
+   "a": "What is Operation Torch?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-47",
+   "q": "Fought in October 1944 in the Philippines, this is often called the largest sea fight of the war",
+   "a": "What is the Battle of Leyte Gulf?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-48",
+   "q": "In August 1944 Poland's Home Army rose against the German occupiers of the capital, holding out for 63 days",
+   "a": "What is the Warsaw Uprising?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-49",
+   "q": "This Japanese officer kept fighting in the Philippine jungle until 1974, when his former commander ordered him to stand down",
+   "a": "Who is Hiroo Onoda?",
+   "tier": 5
+  },
+  {
+   "id": "wwii-50",
+   "q": "This Norwegian collaborator's name became a word for 'traitor' in English",
+   "a": "Who is Vidkun Quisling?",
+   "tier": 5
+  }
+ ]
+}

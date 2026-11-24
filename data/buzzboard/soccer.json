@@ -1,0 +1,308 @@
+{
+ "category": "Soccer",
+ "slug": "soccer",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "soccer-01",
+   "q": "In soccer, this is the only player allowed to handle the ball, and only inside their own penalty area",
+   "a": "What is the goalkeeper?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-02",
+   "q": "Held every four years, this tournament crowns the global champion of men's national soccer teams",
+   "a": "What is the FIFA World Cup?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-03",
+   "q": "Scoring three goals in a single game earns a player this",
+   "a": "What is a hat trick?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-04",
+   "q": "This Argentine forward captained his country to the 2022 World Cup title in Qatar",
+   "a": "Who is Lionel Messi?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-05",
+   "q": "Known by the brand name 'CR7,' this Portuguese forward captained his country to the Euro 2016 title",
+   "a": "Who is Cristiano Ronaldo?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-06",
+   "q": "This Brazilian legend, born Edson Arantes do Nascimento, won three World Cups",
+   "a": "Who is Pelé?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-07",
+   "q": "A referee holds up a card of this color to send a player off the field",
+   "a": "What is red?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-08",
+   "q": "A regulation soccer match has two halves of this many minutes each",
+   "a": "What is 45?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-09",
+   "q": "Awarded for a foul in the box, this shot is taken from a spot 12 yards from the goal with only the keeper to beat",
+   "a": "What is a penalty kick?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-10",
+   "q": "This English midfielder, famous for curling free kicks, inspired the title of a 2002 movie about a soccer-loving teenager",
+   "a": "Who is David Beckham?",
+   "tier": 1
+  },
+  {
+   "id": "soccer-11",
+   "q": "Nicknamed the 'Red Devils,' this English club plays its home games at Old Trafford",
+   "a": "What is Manchester United?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-12",
+   "q": "A player is in this position if nearer the goal line than both the ball and the second-to-last defender when a teammate passes",
+   "a": "What is offside?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-13",
+   "q": "In 2002 this country won a record fifth men's World Cup, beating Germany in the final",
+   "a": "What is Brazil?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-14",
+   "q": "This French forward scored a hat trick in the 2022 World Cup final but ended up on the losing side",
+   "a": "Who is Kylian Mbappé?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-15",
+   "q": "This U.S. forward, who retired in 2004, won Women's World Cups in 1991 and 1999 and Olympic gold in 1996 and 2004",
+   "a": "Who is Mia Hamm?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-16",
+   "q": "In this acrobatic move, a player in midair kicks the ball backward over their own head",
+   "a": "What is a bicycle kick?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-17",
+   "q": "This Spanish nickname refers to any match between rivals Real Madrid and FC Barcelona",
+   "a": "What is El Clásico?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-18",
+   "q": "This is the name of Italy's top professional soccer league",
+   "a": "What is Serie A?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-19",
+   "q": "Used at the men's World Cup since 2018, this three-letter replay system helps referees review key decisions",
+   "a": "What is VAR (video assistant referee)?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-20",
+   "q": "The referee adds these extra minutes at the end of each half to make up for injuries and delays",
+   "a": "What is stoppage time?",
+   "tier": 2
+  },
+  {
+   "id": "soccer-21",
+   "q": "Diego Maradona scored both the 'Hand of God' goal and the 'Goal of the Century' against England in this year's World Cup",
+   "a": "What is 1986?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-22",
+   "q": "This country hosted and won the very first World Cup, in 1930",
+   "a": "What is Uruguay?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-23",
+   "q": "England won its only men's World Cup in this year, beating West Germany at Wembley",
+   "a": "What is 1966?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-24",
+   "q": "This French midfielder headed in two goals in the 1998 World Cup final against Brazil",
+   "a": "Who is Zinedine Zidane?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-25",
+   "q": "Its name French for 'golden ball,' this award for the world's best player was first given by France Football magazine in 1956",
+   "a": "What is the Ballon d'Or?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-26",
+   "q": "Formerly called the European Cup, this top club competition was relaunched under a new name in 1992",
+   "a": "What is the UEFA Champions League?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-27",
+   "q": "This Turin club is nicknamed 'La Vecchia Signora,' or 'The Old Lady'",
+   "a": "What is Juventus?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-28",
+   "q": "This Dutch star of the 1970s has a famous dribbling turn named after him",
+   "a": "Who is Johan Cruyff?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-29",
+   "q": "A goalkeeper or team that allows zero goals in a match is said to keep this",
+   "a": "What is a clean sheet?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-30",
+   "q": "England's top division was rebranded as the Premier League in this year",
+   "a": "What is 1992?",
+   "tier": 3
+  },
+  {
+   "id": "soccer-31",
+   "q": "Starting the season as 5,000-to-1 long shots, this club stunned the sports world by winning the 2015-16 Premier League",
+   "a": "What is Leicester City?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-32",
+   "q": "This short-passing style was the trademark of Pep Guardiola's Barcelona and Spain's 2010 World Cup champions",
+   "a": "What is tiki-taka?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-33",
+   "q": "In the 2005 Champions League final in Istanbul, this English club came back from 3-0 down to beat AC Milan",
+   "a": "What is Liverpool?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-34",
+   "q": "This U.S. defender scored the winning penalty in the 1999 Women's World Cup final shootout and celebrated by whipping off her jersey",
+   "a": "Who is Brandi Chastain?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-35",
+   "q": "The 1994 men's World Cup final, the first decided by a penalty shootout, saw Brazil beat this country",
+   "a": "What is Italy?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-36",
+   "q": "FIFA's award for the year's most beautiful goal is named after this Hungarian star of the 1950s",
+   "a": "Who is Ferenc Puskás?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-37",
+   "q": "In this 1970s Dutch tactical system, any outfield player could swap in and take over another's role",
+   "a": "What is Total Football?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-38",
+   "q": "In the 2003-04 season this London club went unbeaten in the Premier League, earning the nickname 'The Invincibles'",
+   "a": "What is Arsenal?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-39",
+   "q": "In the 2015 Women's World Cup final against Japan, this American scored a hat trick in the first 16 minutes",
+   "a": "Who is Carli Lloyd?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-40",
+   "q": "The 1991 Women's World Cup, the first ever, was hosted in this country",
+   "a": "What is China?",
+   "tier": 4
+  },
+  {
+   "id": "soccer-41",
+   "q": "Founded in 1857, this English club is recognized by FIFA as the oldest soccer club in the world",
+   "a": "What is Sheffield FC?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-42",
+   "q": "First contested in 1871-72, this English knockout tournament is the oldest national soccer competition in the world",
+   "a": "What is the FA Cup?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-43",
+   "q": "This softly chipped penalty kick down the middle is named for the Czechoslovak player who used it to win Euro 1976",
+   "a": "What is a Panenka?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-44",
+   "q": "Nicknamed the 'Black Spider,' this Soviet goalkeeper won the 1963 Ballon d'Or",
+   "a": "Who is Lev Yashin?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-45",
+   "q": "Nicknamed the 'Black Panther,' this Portugal forward was the top scorer at the 1966 World Cup",
+   "a": "Who is Eusébio?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-46",
+   "q": "Brazil was allowed to keep this original World Cup prize for good after winning its third title in 1970",
+   "a": "What is the Jules Rimet Trophy?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-47",
+   "q": "This Liberian striker won the 1995 Ballon d'Or and later became his country's president",
+   "a": "Who is George Weah?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-48",
+   "q": "Nicknamed 'Der Bomber,' this West German striker scored the winning goal in the 1974 World Cup final",
+   "a": "Who is Gerd Müller?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-49",
+   "q": "This Italian goalkeeper captained his country to the 1982 World Cup title at age 40",
+   "a": "Who is Dino Zoff?",
+   "tier": 5
+  },
+  {
+   "id": "soccer-50",
+   "q": "This Northern Irish winger scored in the 1968 European Cup final as Manchester United became the first English club to win it",
+   "a": "Who is George Best?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Food Around the World",
+ "slug": "world-food",
+ "group": "Everyday Life",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "world-food-01",
+   "q": "This Italian dish of baked flatbread topped with tomato sauce and cheese got its modern form in Naples",
+   "a": "What is pizza?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-02",
+   "q": "This Japanese dish pairs vinegared rice with raw fish or vegetables, often with soy sauce and wasabi",
+   "a": "What is sushi?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-03",
+   "q": "These folded corn or flour tortillas with fillings are a Mexican street-food staple",
+   "a": "What are tacos?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-04",
+   "q": "This crescent-shaped, buttery, flaky pastry is a classic French breakfast",
+   "a": "What is a croissant?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-05",
+   "q": "This Japanese noodle soup became a dorm-room favorite in instant form",
+   "a": "What is ramen?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-06",
+   "q": "This Mexican dip is made from mashed avocado, lime, onion and chili",
+   "a": "What is guacamole?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-07",
+   "q": "Denser than American ice cream, this Italian frozen dessert is sold in scoops from colorful display cases",
+   "a": "What is gelato?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-08",
+   "q": "This Middle Eastern dip is made of blended chickpeas, tahini, lemon juice and garlic",
+   "a": "What is hummus?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-09",
+   "q": "This very thin French pancake can be filled with anything from ham and cheese to Nutella",
+   "a": "What is a crêpe?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-10",
+   "q": "Its name is Spanish for 'little donkey,' and it's a big flour tortilla wrapped around fillings",
+   "a": "What is a burrito?",
+   "tier": 1
+  },
+  {
+   "id": "world-food-11",
+   "q": "These deep-fried balls of ground chickpeas or fava beans are often stuffed into pita bread",
+   "a": "What is falafel?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-12",
+   "q": "This rice dish from Valencia, Spain, is cooked in a wide shallow pan and colored with saffron",
+   "a": "What is paella?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-13",
+   "q": "This Greek favorite of meat roasted on a vertical spit is wrapped in pita with tzatziki",
+   "a": "What is a gyro?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-14",
+   "q": "This spicy Korean side dish is made of fermented napa cabbage",
+   "a": "What is kimchi?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-15",
+   "q": "This Italian dessert layers coffee-soaked ladyfingers with mascarpone cream and cocoa",
+   "a": "What is tiramisu?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-16",
+   "q": "This Quebec creation tops French fries with cheese curds and brown gravy",
+   "a": "What is poutine?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-17",
+   "q": "Pronounced roughly 'fuh,' this Vietnamese soup features rice noodles in a fragrant beef broth",
+   "a": "What is pho?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-18",
+   "q": "A national dish of Thailand, this stir-fried rice noodle dish is often garnished with crushed peanuts and lime",
+   "a": "What is pad thai?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-19",
+   "q": "In this Swiss dish, diners dip bread on long forks into a shared pot of melted cheese",
+   "a": "What is fondue?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-20",
+   "q": "These ridged sticks of fried dough are dipped in thick hot chocolate in Spain",
+   "a": "What are churros?",
+   "tier": 2
+  },
+  {
+   "id": "world-food-21",
+   "q": "Scotland's national dish, it's sheep's heart, liver and lungs mixed with oatmeal and spices",
+   "a": "What is haggis?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-22",
+   "q": "This Hungarian stew of beef and vegetables gets its deep red color from paprika",
+   "a": "What is goulash?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-23",
+   "q": "This Spanish soup made of raw blended tomatoes, peppers and cucumber is served cold",
+   "a": "What is gazpacho?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-24",
+   "q": "These Polish dumplings are often filled with potato and cheese, sauerkraut or meat",
+   "a": "What are pierogi?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-25",
+   "q": "This Eastern European soup gets its vivid red-purple color from beets",
+   "a": "What is borscht?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-26",
+   "q": "In this Latin American dish, raw fish is 'cooked' by marinating it in lime or lemon juice",
+   "a": "What is ceviche?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-27",
+   "q": "This sweet pastry is made of layers of filo dough, chopped nuts and honey or syrup",
+   "a": "What is baklava?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-28",
+   "q": "Japanese cooks may have learned this light batter-frying technique from Portuguese missionaries",
+   "a": "What is tempura?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-29",
+   "q": "This creamy Italian dish is made by slowly stirring hot broth into arborio rice",
+   "a": "What is risotto?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-30",
+   "q": "This layered South Asian rice dish, cooked with meat and spices, has a famous Hyderabadi version",
+   "a": "What is biryani?",
+   "tier": 3
+  },
+  {
+   "id": "world-food-31",
+   "q": "This spongy, sour Ethiopian flatbread is made from the tiny grain teff and doubles as a utensil",
+   "a": "What is injera?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-32",
+   "q": "This Japanese savory pancake's name roughly means 'grilled as you like it'",
+   "a": "What is okonomiyaki?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-33",
+   "q": "Often called Brazil's national dish, it's a hearty stew of black beans and pork",
+   "a": "What is feijoada?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-34",
+   "q": "A Filipino favorite, this dish stews meat in vinegar, soy sauce, garlic and bay leaves",
+   "a": "What is adobo?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-35",
+   "q": "This Jamaican seasoning style uses allspice and Scotch bonnet peppers, especially on chicken",
+   "a": "What is jerk?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-36",
+   "q": "Its Korean name means 'mixed rice,' and it's served topped with vegetables, egg and gochujang",
+   "a": "What is bibimbap?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-37",
+   "q": "This rich Mexican sauce often blends dried chilies with chocolate, especially in Puebla",
+   "a": "What is mole?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-38",
+   "q": "This Venezuelan and Colombian cornmeal cake is split open and stuffed with cheese, meat or beans",
+   "a": "What is an arepa?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-39",
+   "q": "This Japanese breakfast food of fermented soybeans is famous for its sticky strings and strong smell",
+   "a": "What is natto?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-40",
+   "q": "This clay oven gives its name to India's famous red-tinted roasted chicken",
+   "a": "What is a tandoor?",
+   "tier": 4
+  },
+  {
+   "id": "world-food-41",
+   "q": "This boat-shaped cheese bread from the country of Georgia is often topped with a raw egg and butter",
+   "a": "What is khachapuri?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-42",
+   "q": "This Icelandic delicacy is fermented, then hung-dried Greenland shark",
+   "a": "What is hákarl?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-43",
+   "q": "This Swedish canned Baltic herring is so pungently fermented it's often opened outdoors",
+   "a": "What is surströmming?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-44",
+   "q": "This North African dish is named for the cone-lidded clay pot it slow-cooks in",
+   "a": "What is a tagine?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-45",
+   "q": "This Sardinian sheep's-milk cheese is deliberately made with live insect larvae inside",
+   "a": "What is casu marzu?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-46",
+   "q": "This South African dried, cured meat snack is similar to jerky",
+   "a": "What is biltong?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-47",
+   "q": "From the Minangkabau people of Indonesia, this beef dish is slow-cooked in coconut milk and spices until nearly dry",
+   "a": "What is rendang?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-48",
+   "q": "This thin, crispy South Indian crepe is made from a fermented batter of rice and lentils",
+   "a": "What is a dosa?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-49",
+   "q": "This Portuguese custard tart is famously associated with the Lisbon district of Belém",
+   "a": "What is a pastel de nata?",
+   "tier": 5
+  },
+  {
+   "id": "world-food-50",
+   "q": "This Danish open-faced sandwich on buttered rye bread is a lunchtime tradition",
+   "a": "What is smørrebrød?",
+   "tier": 5
+  }
+ ]
+}

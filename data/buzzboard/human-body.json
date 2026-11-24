@@ -1,0 +1,308 @@
+{
+ "category": "Human Body",
+ "slug": "human-body",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "human-body-01",
+   "q": "This fist-sized muscular organ pumps blood through your body",
+   "a": "What is the heart?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-02",
+   "q": "Covering you from head to toe, this is the largest organ of the human body",
+   "a": "What is the skin?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-03",
+   "q": "This pair of spongy organs in your chest takes in oxygen with every breath",
+   "a": "What are the lungs?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-04",
+   "q": "Protected by the skull, this organ is the control center of the nervous system",
+   "a": "What is the brain?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-05",
+   "q": "The thigh bone, this is the longest bone in the human body",
+   "a": "What is the femur?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-06",
+   "q": "This molecule, shaped like a double helix, carries your genetic instructions",
+   "a": "What is DNA?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-07",
+   "q": "This colored ring of muscle in the eye gives you blue, brown or green eyes",
+   "a": "What is the iris?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-08",
+   "q": "This J-shaped organ churns swallowed food with strong acid",
+   "a": "What is the stomach?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-09",
+   "q": "Called the powerhouse of the cell, these organelles produce most of a cell's energy",
+   "a": "What are mitochondria?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-10",
+   "q": "This pair of bean-shaped organs filters waste out of your blood and makes urine",
+   "a": "What are the kidneys?",
+   "tier": 1
+  },
+  {
+   "id": "human-body-11",
+   "q": "A typical adult human skeleton contains this many bones",
+   "a": "What is 206?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-12",
+   "q": "This muscular tube carries food from your throat down to your stomach",
+   "a": "What is the esophagus?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-13",
+   "q": "These tiny blood vessels, often only one cell thick, connect arteries to veins",
+   "a": "What are capillaries?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-14",
+   "q": "This organ tucked behind the stomach produces insulin",
+   "a": "What is the pancreas?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-15",
+   "q": "This largest internal organ processes nutrients, makes bile and can regrow after part of it is removed",
+   "a": "What is the liver?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-16",
+   "q": "This small pouch attached to the large intestine sometimes becomes inflamed and must be removed in an emergency",
+   "a": "What is the appendix?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-17",
+   "q": "This dome-shaped muscle below the lungs powers breathing, and its sudden spasms cause hiccups",
+   "a": "What is the diaphragm?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-18",
+   "q": "This tube, also called the windpipe, carries air from the larynx to the lungs",
+   "a": "What is the trachea?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-19",
+   "q": "Packed with hemoglobin, these disc-shaped carriers ferry oxygen from your lungs to every tissue",
+   "a": "What are red blood cells?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-20",
+   "q": "Most nutrient absorption happens in this coiled section of the digestive tract that comes right after the stomach",
+   "a": "What is the small intestine?",
+   "tier": 2
+  },
+  {
+   "id": "human-body-21",
+   "q": "Hitting your funny bone actually means bumping this, which carries signals to your ring and little fingers",
+   "a": "What is the ulnar nerve?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-22",
+   "q": "Named after a Greek hero with a vulnerable heel, this cord connects the calf muscles to the heel bone",
+   "a": "What is the Achilles tendon?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-23",
+   "q": "This clear, dome-shaped front surface of the eye is the target of LASIK surgery",
+   "a": "What is the cornea?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-24",
+   "q": "These tiny cell fragments in the blood rush to a cut to help form a clot",
+   "a": "What are platelets?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-25",
+   "q": "Millions of these tiny air sacs in the lungs are where oxygen passes into the blood",
+   "a": "What are alveoli?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-26",
+   "q": "Latin for little brain, this region at the back of the brain coordinates balance and movement",
+   "a": "What is the cerebellum?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-27",
+   "q": "This pigment determines the color of your skin and hair and helps protect against UV light",
+   "a": "What is melanin?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-28",
+   "q": "This butterfly-shaped gland in the neck makes hormones that control metabolism",
+   "a": "What is the thyroid?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-29",
+   "q": "This fleshy teardrop hangs down at the back of the throat",
+   "a": "What is the uvula?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-30",
+   "q": "This small, pear-shaped organ under the liver stores bile",
+   "a": "What is the gallbladder?",
+   "tier": 3
+  },
+  {
+   "id": "human-body-31",
+   "q": "Often called the master of the endocrine system, this pea-sized structure at the base of the brain directs many hormones",
+   "a": "What is the pituitary gland?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-32",
+   "q": "Named for its seahorse shape, this brain structure is vital for forming new memories",
+   "a": "What is the hippocampus?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-33",
+   "q": "Part of the brainstem, this structure controls automatic functions like breathing and heart rate",
+   "a": "What is the medulla oblongata?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-34",
+   "q": "Sitting on top of the kidneys, these small organs release epinephrine in a fight-or-flight moment",
+   "a": "What are the adrenal glands?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-35",
+   "q": "This blood type is known as the universal donor for red blood cell transfusions",
+   "a": "What is O negative?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-36",
+   "q": "This fist-sized organ in the upper left abdomen filters blood and removes worn-out red cells",
+   "a": "What is the spleen?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-37",
+   "q": "This flap of cartilage covers the windpipe when you swallow so food goes down the right way",
+   "a": "What is the epiglottis?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-38",
+   "q": "This fluid-filled, snail-shaped part of the inner ear turns sound vibrations into nerve signals",
+   "a": "What is the cochlea?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-39",
+   "q": "These millions of finger-like projections line the small intestine and greatly increase its surface area",
+   "a": "What are villi?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-40",
+   "q": "Located in the middle ear, this stirrup-shaped bone is the smallest bone in the human body",
+   "a": "What is the stapes?",
+   "tier": 4
+  },
+  {
+   "id": "human-body-41",
+   "q": "These clusters of cells in the pancreas, named for a German scientist, contain the insulin-making beta cells",
+   "a": "What are the islets of Langerhans?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-42",
+   "q": "This U-shaped piece of the skeleton in the neck supports the tongue and doesn't form a joint with any other skeletal part",
+   "a": "What is the hyoid bone?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-43",
+   "q": "This hairpin-shaped section of a kidney nephron helps concentrate urine",
+   "a": "What is the loop of Henle?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-44",
+   "q": "This cluster of cells in the right atrium acts as the heart's natural pacemaker",
+   "a": "What is the sinoatrial node?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-45",
+   "q": "Running from the cheekbone to the lower jaw, this thick muscle is one of the main muscles used for chewing",
+   "a": "What is the masseter?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-46",
+   "q": "Running diagonally across the front of the thigh, this is the longest muscle in the human body",
+   "a": "What is the sartorius?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-47",
+   "q": "This fatty insulating layer wraps around many nerve fibers and speeds up their signals",
+   "a": "What is the myelin sheath?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-48",
+   "q": "This ring of connected arteries at the base of the brain is named for a 17th-century English doctor",
+   "a": "What is the circle of Willis?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-49",
+   "q": "These soft spots on a newborn baby's skull let it squeeze through the birth canal",
+   "a": "What are fontanelles?",
+   "tier": 5
+  },
+  {
+   "id": "human-body-50",
+   "q": "This thick band of nerve fibers links the left and right hemispheres of the brain",
+   "a": "What is the corpus callosum?",
+   "tier": 5
+  }
+ ]
+}

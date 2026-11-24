@@ -1,0 +1,308 @@
+{
+ "category": "Animated Movies",
+ "slug": "animated-movies",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "animated-movies-01",
+   "q": "In this 2013 Disney film, Queen Elsa's icy powers trap her kingdom in eternal winter",
+   "a": "What is Frozen?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-02",
+   "q": "This 1995 Pixar film about Woody and his fellow playthings was the first fully computer-animated feature film",
+   "a": "What is Toy Story?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-03",
+   "q": "This grumpy green ogre just wants his swamp back in a 2001 DreamWorks hit",
+   "a": "Who is Shrek?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-04",
+   "q": "In this 2003 Pixar film, a worried clownfish dad crosses the ocean to find his son",
+   "a": "What is Finding Nemo?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-05",
+   "q": "This space ranger action figure's catchphrase is 'To infinity and beyond!'",
+   "a": "Who is Buzz Lightyear?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-06",
+   "q": "Simba learns 'Hakuna Matata' and the Circle of Life in this 1994 Disney film",
+   "a": "What is The Lion King?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-07",
+   "q": "In this 2016 Disney film, a Polynesian girl sails across the ocean with the demigod Maui",
+   "a": "What is Moana?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-08",
+   "q": "In this 2017 Pixar film, a Mexican boy named Miguel ends up in the Land of the Dead on Dia de Muertos",
+   "a": "What is Coco?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-09",
+   "q": "These little yellow henchmen in goggles serve Gru in Despicable Me",
+   "a": "Who are the Minions?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-10",
+   "q": "This snowman from Frozen says he likes warm hugs",
+   "a": "Who is Olaf?",
+   "tier": 1
+  },
+  {
+   "id": "animated-movies-11",
+   "q": "In this Pixar film, a girl named Riley is guided by emotions like Joy, Sadness and Anger",
+   "a": "What is Inside Out?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-12",
+   "q": "This big blue furry monster with purple spots is Mike Wazowski's best friend and Monsters, Inc.'s top scarer",
+   "a": "Who is Sulley?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-13",
+   "q": "In this 2009 Pixar film, Carl Fredricksen ties thousands of balloons to his house and flies away",
+   "a": "What is Up?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-14",
+   "q": "This lonely trash-compacting robot falls for a sleek probe named EVE",
+   "a": "Who is WALL-E?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-15",
+   "q": "Disney's 2010 take on Rapunzel, featuring Flynn Rider and a frying pan, has this title",
+   "a": "What is Tangled?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-16",
+   "q": "Bob Parr and his super-powered family hide in the suburbs in this 2004 Pixar film",
+   "a": "What is The Incredibles?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-17",
+   "q": "In this Pixar film, a rat named Remy dreams of becoming a chef in Paris",
+   "a": "What is Ratatouille?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-18",
+   "q": "This Disney heroine disguises herself as a man to take her father's place in the army",
+   "a": "Who is Mulan?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-19",
+   "q": "This black Night Fury dragon is Hiccup's best friend in How to Train Your Dragon",
+   "a": "Who is Toothless?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-20",
+   "q": "This sea witch trades Ariel a pair of legs for her voice in The Little Mermaid",
+   "a": "Who is Ursula?",
+   "tier": 2
+  },
+  {
+   "id": "animated-movies-21",
+   "q": "Hayao Miyazaki co-founded this Japanese animation house, whose logo features Totoro",
+   "a": "What is Studio Ghibli?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-22",
+   "q": "Released in 1937, this was Walt Disney's first full-length animated feature film",
+   "a": "What is Snow White and the Seven Dwarfs?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-23",
+   "q": "In Up, this talking golden retriever announces 'I have just met you, and I love you'",
+   "a": "Who is Dug?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-24",
+   "q": "In Toy Story, the three-eyed aliens at Pizza Planet worship this machine",
+   "a": "What is the Claw?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-25",
+   "q": "In The Little Mermaid, this Jamaican-accented crab sings 'Under the Sea'",
+   "a": "Who is Sebastian?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-26",
+   "q": "In Frozen, Kristoff's loyal reindeer companion has this name",
+   "a": "Who is Sven?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-27",
+   "q": "Voiced by Eddie Murphy, this small red dragon is Mulan's guardian",
+   "a": "Who is Mushu?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-28",
+   "q": "Moana's not-so-bright rooster sidekick goes by this name",
+   "a": "Who is Heihei?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-29",
+   "q": "This candelabra in Beauty and the Beast leads the song 'Be Our Guest'",
+   "a": "Who is Lumiere?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-30",
+   "q": "In The Princess and the Frog, this New Orleans waitress dreams of opening her own restaurant",
+   "a": "Who is Tiana?",
+   "tier": 3
+  },
+  {
+   "id": "animated-movies-31",
+   "q": "This 2001 Hayao Miyazaki film about a girl named Chihiro won the Oscar for Best Animated Feature",
+   "a": "What is Spirited Away?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-32",
+   "q": "This 1991 Disney film was the first animated feature nominated for the Oscar for Best Picture",
+   "a": "What is Beauty and the Beast?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-33",
+   "q": "Voiced by Danny DeVito, this satyr trains a young demigod in Disney's Hercules",
+   "a": "Who is Phil?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-34",
+   "q": "In Wreck-It Ralph, this glitchy racer from Sugar Rush becomes Ralph's best friend",
+   "a": "Who is Vanellope von Schweetz?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-35",
+   "q": "In Toy Story 2, this is the name of Woody's trusty toy horse",
+   "a": "Who is Bullseye?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-36",
+   "q": "In Inside Out, Riley's forgotten imaginary friend is part elephant, part cotton candy",
+   "a": "Who is Bing Bong?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-37",
+   "q": "In Coco, Miguel idolizes this legendary musician and movie star",
+   "a": "Who is Ernesto de la Cruz?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-38",
+   "q": "In this 1940 Disney film set to classical music, Mickey Mouse plays the Sorcerer's Apprentice",
+   "a": "What is Fantasia?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-39",
+   "q": "Before he was named Stitch, Jumba's illegal genetic creation was known by this designation",
+   "a": "What is Experiment 626?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-40",
+   "q": "This 1928 cartoon with synchronized sound is generally considered Mickey Mouse's debut",
+   "a": "What is Steamboat Willie?",
+   "tier": 4
+  },
+  {
+   "id": "animated-movies-41",
+   "q": "This British studio created Wallace & Gromit and Chicken Run",
+   "a": "What is Aardman Animations?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-42",
+   "q": "This Oregon stop-motion studio made Coraline, ParaNorman and Kubo and the Two Strings",
+   "a": "What is Laika?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-43",
+   "q": "This director made The Iron Giant before going to Pixar to direct The Incredibles and Ratatouille",
+   "a": "Who is Brad Bird?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-44",
+   "q": "Named after a CalArts classroom, this code is hidden as an Easter egg in many Pixar films",
+   "a": "What is A113?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-45",
+   "q": "This 2023 Hayao Miyazaki film, called How Do You Live? in Japan, won the Oscar for Best Animated Feature",
+   "a": "What is The Boy and the Heron?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-46",
+   "q": "This married songwriting duo wrote 'Let It Go' for Frozen and 'Remember Me' for Coco",
+   "a": "Who are Kristen Anderson-Lopez and Robert Lopez?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-47",
+   "q": "Pixar's hopping desk lamp mascot comes from this 1986 short film",
+   "a": "What is Luxo Jr.?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-48",
+   "q": "In Ratatouille, this gloomy food critic is won over by a simple vegetable dish",
+   "a": "Who is Anton Ego?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-49",
+   "q": "Lightning McQueen races with this number on his side",
+   "a": "What is 95?",
+   "tier": 5
+  },
+  {
+   "id": "animated-movies-50",
+   "q": "This animator worked with Walt Disney to create Mickey Mouse and Oswald the Lucky Rabbit",
+   "a": "Who is Ub Iwerks?",
+   "tier": 5
+  }
+ ]
+}

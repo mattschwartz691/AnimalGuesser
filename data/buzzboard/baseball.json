@@ -1,0 +1,308 @@
+{
+ "category": "Baseball",
+ "slug": "baseball",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "baseball-01",
+   "q": "A batter who gets three strikes is out by this, recorded with a 'K' on scorecards",
+   "a": "What is a strikeout?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-02",
+   "q": "This hit, also called a 'dinger,' usually sails over the outfield fence in fair territory",
+   "a": "What is a home run?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-03",
+   "q": "A regulation Major League Baseball game lasts this many innings",
+   "a": "What is nine?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-04",
+   "q": "Nicknamed 'The Bambino,' this New York Yankees slugger hit 60 home runs in 1927",
+   "a": "Who is Babe Ruth?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-05",
+   "q": "First played in 1903, this fall championship pits the American League champion against the National League champion",
+   "a": "What is the World Series?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-06",
+   "q": "A batter is awarded first base on a walk after this many balls",
+   "a": "What is four?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-07",
+   "q": "This raised dirt hill in the center of the infield is where the pitcher stands",
+   "a": "What is the mound?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-08",
+   "q": "This kind of home run, hit with the bases loaded, drives in four runs at once",
+   "a": "What is a grand slam?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-09",
+   "q": "This Japanese star won the 2021 American League MVP award while both pitching and hitting for the Angels",
+   "a": "Who is Shohei Ohtani?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-10",
+   "q": "Fans traditionally sing this 1908 song during the seventh-inning stretch",
+   "a": "What is 'Take Me Out to the Ball Game'?",
+   "tier": 1
+  },
+  {
+   "id": "baseball-11",
+   "q": "In 1947 this Brooklyn infielder broke Major League Baseball's color barrier",
+   "a": "Who is Jackie Robinson?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-12",
+   "q": "The towering left-field wall called the 'Green Monster' stands in this Boston ballpark, opened in 1912",
+   "a": "What is Fenway Park?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-13",
+   "q": "In 2016 this team won its first World Series since 1908, ending the longest title drought in North American sports",
+   "a": "What are the Chicago Cubs?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-14",
+   "q": "Instead of swinging away, a batter may do this, holding the bat out to tap the ball softly into the infield",
+   "a": "What is a bunt?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-15",
+   "q": "Relief pitchers warm up in this area, usually beyond the outfield fence",
+   "a": "What is the bullpen?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-16",
+   "q": "This infield position is played between second base and third base",
+   "a": "What is shortstop?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-17",
+   "q": "A pitcher throws one of these rare gems when not a single opposing batter reaches base from the first pitch to the last",
+   "a": "What is a perfect game?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-18",
+   "q": "This team ended the 86-year 'Curse of the Bambino' by winning the 2004 World Series",
+   "a": "What are the Boston Red Sox?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-19",
+   "q": "This term describes a game-ending hit by the home team in its last turn at bat, sending everyone off the field",
+   "a": "What is a walk-off?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-20",
+   "q": "This slow, fluttering pitch is thrown with almost no spin, making it hard to hit and even hard to catch",
+   "a": "What is a knuckleball?",
+   "tier": 2
+  },
+  {
+   "id": "baseball-21",
+   "q": "In 1995 this Baltimore Orioles shortstop broke Lou Gehrig's record for consecutive games played",
+   "a": "Who is Cal Ripken Jr.?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-22",
+   "q": "In 1974 this Atlanta Braves slugger hit his 715th home run, passing Babe Ruth",
+   "a": "Who is Hank Aaron?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-23",
+   "q": "Baseball's annual award for the best pitcher in each league is named after this hurler, who won 511 games",
+   "a": "Who is Cy Young?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-24",
+   "q": "This 1888 poem ends with the line 'there is no joy in Mudville'",
+   "a": "What is 'Casey at the Bat'?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-25",
+   "q": "This 2003 Michael Lewis book about Billy Beane's Oakland A's became a Brad Pitt movie",
+   "a": "What is Moneyball?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-26",
+   "q": "The National Baseball Hall of Fame and Museum is in this village in upstate New York",
+   "a": "What is Cooperstown?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-27",
+   "q": "In 1941 this Yankees center fielder hit safely in 56 consecutive games",
+   "a": "Who is Joe DiMaggio?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-28",
+   "q": "A batter achieves this feat with a single, double, triple and home run in the same game",
+   "a": "What is hitting for the cycle?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-29",
+   "q": "Introduced in Major League Baseball in 2023, this countdown timer limits how long a pitcher can take between pitches",
+   "a": "What is the pitch clock?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-30",
+   "q": "This franchise moved from Brooklyn to Los Angeles after the 1957 season",
+   "a": "What are the Dodgers?",
+   "tier": 3
+  },
+  {
+   "id": "baseball-31",
+   "q": "In 1941 this Boston Red Sox slugger finished the season with a .406 batting average",
+   "a": "Who is Ted Williams?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-32",
+   "q": "This Yankees catcher, famous for sayings like 'It ain't over till it's over,' won 10 World Series titles as a player",
+   "a": "Who is Yogi Berra?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-33",
+   "q": "This Negro Leagues pitching legend made his MLB debut in 1948 at age 42, the oldest rookie in big-league history",
+   "a": "Who is Satchel Paige?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-34",
+   "q": "This Oakland A's speedster broke Lou Brock's career stolen-base record in 1991",
+   "a": "Who is Rickey Henderson?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-35",
+   "q": "This flamethrowing Texan threw a record seven no-hitters, the last in 1991 at age 44",
+   "a": "Who is Nolan Ryan?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-36",
+   "q": "The American League adopted this rule in 1973, letting a batter take the pitcher's turns at the plate",
+   "a": "What is the designated hitter?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-37",
+   "q": "In Game 5 of the 1956 World Series, this Yankees pitcher threw a perfect game against Brooklyn",
+   "a": "Who is Don Larsen?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-38",
+   "q": "In 1992 this team became the first based outside the United States to win the World Series",
+   "a": "What are the Toronto Blue Jays?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-39",
+   "q": "This slugger earned the nickname 'Mr. October' by hitting three home runs in Game 6 of the 1977 World Series",
+   "a": "Who is Reggie Jackson?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-40",
+   "q": "In 2019 this Yankees closer became the first player elected unanimously to the Baseball Hall of Fame",
+   "a": "Who is Mariano Rivera?",
+   "tier": 4
+  },
+  {
+   "id": "baseball-41",
+   "q": "A long-debunked legend credited this Civil War general with inventing baseball in Cooperstown in 1839",
+   "a": "Who is Abner Doubleday?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-42",
+   "q": "In 1869 this Ohio team became the first openly all-professional baseball club",
+   "a": "What are the Cincinnati Red Stockings?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-43",
+   "q": "In 1960 this Pittsburgh second baseman ended the World Series with a walk-off home run in Game 7",
+   "a": "Who is Bill Mazeroski?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-44",
+   "q": "In 1938 this Cincinnati Reds pitcher threw no-hitters in back-to-back starts",
+   "a": "Who is Johnny Vander Meer?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-45",
+   "q": "This old-time slang phrase describes an easy, lazy fly ball that's simple to catch",
+   "a": "What is a can of corn?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-46",
+   "q": "Named after a light-hitting 1970s shortstop, this slang term marks a batting average of .200",
+   "a": "What is the Mendoza Line?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-47",
+   "q": "In baseball slang, the pitcher and catcher together are known by this word",
+   "a": "What is the battery?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-48",
+   "q": "In 2004 this Seattle Mariners star collected 262 hits, breaking a single-season record set by George Sisler in 1920",
+   "a": "Who is Ichiro Suzuki?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-49",
+   "q": "The Little League World Series is held each August in this Pennsylvania area",
+   "a": "What is Williamsport?",
+   "tier": 5
+  },
+  {
+   "id": "baseball-50",
+   "q": "In 1951 this New York Giants outfielder won the pennant with a homer called the 'Shot Heard 'Round the World'",
+   "a": "Who is Bobby Thomson?",
+   "tier": 5
+  }
+ ]
+}

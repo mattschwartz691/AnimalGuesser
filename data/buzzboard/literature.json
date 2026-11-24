@@ -1,0 +1,607 @@
+{
+ "category": "Literature",
+ "slug": "literature",
+ "source": "Clues adapted from Wikipedia (CC BY-SA 4.0) and Wikidata (CC0)",
+ "clues": [
+  {
+   "id": "Q74287-lead",
+   "q": "This 1937 children's fantasy novel by J. R. R. Tolkien was subtitled There and Back Again.",
+   "a": "What is The Hobbit?",
+   "tier": 1
+  },
+  {
+   "id": "Q43361-lead",
+   "q": "In J. K. Rowling's debut novel, a young wizard receives a letter of acceptance from Hogwarts on his eleventh birthday.",
+   "a": "What is Harry Potter and the Philosopher's Stone (Sorcerer's Stone)?",
+   "tier": 1
+  },
+  {
+   "id": "Q92640-lead",
+   "q": "In this 1865 Lewis Carroll novel, a little girl falls through a rabbit hole into a fantasy world.",
+   "a": "What is Alice's Adventures in Wonderland?",
+   "tier": 1
+  },
+  {
+   "id": "Q15228-lead",
+   "q": "Set in Middle-earth, this high fantasy epic by J. R. R. Tolkien began as a sequel to his 1937 children's book.",
+   "a": "What is The Lord of the Rings?",
+   "tier": 1
+  },
+  {
+   "id": "Q45735-lead",
+   "q": "In this E. B. White book, a barn spider writes messages like \"Some Pig\" and \"Terrific\" to save a pig named Wilbur.",
+   "a": "What is Charlotte's Web?",
+   "tier": 1
+  },
+  {
+   "id": "Q130295-lead",
+   "q": "In this 1900 L. Frank Baum novel, a Kansas farm girl and her dog Toto are swept away by a cyclone to a magical land.",
+   "a": "What is The Wonderful Wizard of Oz?",
+   "tier": 1
+  },
+  {
+   "id": "Q62879-lead",
+   "q": "In this 1843 Dickens novella, the miser Ebenezer Scrooge is visited by the ghost of Jacob Marley and three spirits.",
+   "a": "What is A Christmas Carol?",
+   "tier": 1
+  },
+  {
+   "id": "Q185118-lead",
+   "q": "Robert Louis Stevenson's 1883 adventure novel tells a story of \"buccaneers and buried gold\"; its working title was The Sea Cook.",
+   "a": "What is Treasure Island?",
+   "tier": 1
+  },
+  {
+   "id": "Q485093-lead",
+   "q": "This 1950 C. S. Lewis fantasy was the first published of the seven novels in The Chronicles of Narnia.",
+   "a": "What is The Lion, the Witch and the Wardrobe?",
+   "tier": 1
+  },
+  {
+   "id": "Q466605-lead",
+   "q": "In this 1964 Roald Dahl novel, a boy surnamed Bucket gets to go inside the works of an eccentric chocolatier named Willy Wonka.",
+   "a": "What is Charlie and the Chocolate Factory?",
+   "tier": 1
+  },
+  {
+   "id": "Q326914-lead",
+   "q": "This 1876 Mark Twain novel about a boy growing up along the Mississippi River is set in the fictional town of St. Petersburg.",
+   "a": "What is The Adventures of Tom Sawyer?",
+   "tier": 1
+  },
+  {
+   "id": "Q11859-lead",
+   "q": "In this 1837 Hans Christian Andersen fairy tale, a young sea princess is willing to give up her life in the sea to gain a human soul.",
+   "a": "What is The Little Mermaid?",
+   "tier": 1
+  },
+  {
+   "id": "Q11831-lead",
+   "q": "This Grimm fairy tale features a magic mirror, a poisoned apple, a glass coffin, an Evil Queen and seven dwarfs.",
+   "a": "What is Snow White?",
+   "tier": 1
+  },
+  {
+   "id": "Q11829-lead",
+   "q": "In this Grimm fairy tale, two abandoned siblings find a witch's house made of bread, cake and sugar, and the sister pushes the witch into her own oven.",
+   "a": "What is Hansel and Gretel?",
+   "tier": 1
+  },
+  {
+   "id": "Q322188-lead",
+   "q": "In this 1812 Brothers Grimm fairy tale, an imp spins straw into gold in exchange for a woman's firstborn child.",
+   "a": "Who is Rumpelstiltskin?",
+   "tier": 1
+  },
+  {
+   "id": "Q651532-lead",
+   "q": "In this fable, a Big Bad Wolf blows down houses of straw and sticks but cannot destroy one made of bricks.",
+   "a": "What is The Three Little Pigs?",
+   "tier": 1
+  },
+  {
+   "id": "Q189509-lead",
+   "q": "This 1894 Rudyard Kipling story collection features Shere Khan the tiger, Baloo the bear, and Mowgli, a \"man-cub\" raised by wolves.",
+   "a": "What is The Jungle Book?",
+   "tier": 1
+  },
+  {
+   "id": "Q483034-lead",
+   "q": "This 1719 Daniel Defoe adventure novel about a castaway has been described as the first novel in English.",
+   "a": "What is Robinson Crusoe?",
+   "tier": 1
+  },
+  {
+   "id": "Q11678-lead",
+   "q": "In this 2008 Suzanne Collins novel, Katniss Everdeen of Panem takes her sister Primrose's place in a deadly annual event.",
+   "a": "What is The Hunger Games?",
+   "tier": 1
+  },
+  {
+   "id": "Q8065468-lead",
+   "q": "Carlo Collodi's 1883 Italian novel follows a mischievous marionette whose heart's desire is to become a real boy.",
+   "a": "What is The Adventures of Pinocchio?",
+   "tier": 1
+  },
+  {
+   "id": "Q35160-lead",
+   "q": "This Homeric epic follows the king of Ithaca on his ten-year journey home after the Trojan War.",
+   "a": "What is The Odyssey?",
+   "tier": 2
+  },
+  {
+   "id": "Q8275-lead",
+   "q": "Often called the first substantial piece of European literature, this Greek epic poem attributed to Homer has 24 books and 15,693 lines.",
+   "a": "What is The Iliad?",
+   "tier": 2
+  },
+  {
+   "id": "Q208460-lead",
+   "q": "George Orwell's final completed book, published in 1949, centres on totalitarianism and mass surveillance.",
+   "a": "What is Nineteen Eighty-Four (1984)?",
+   "tier": 2
+  },
+  {
+   "id": "Q1396889-lead",
+   "q": "In this 1945 Orwell novella, mistreated animals rebel against their human master, only to end up under the dictatorship of the pigs.",
+   "a": "What is Animal Farm?",
+   "tier": 2
+  },
+  {
+   "id": "Q170583-lead",
+   "q": "This 1813 Jane Austen novel of manners follows Elizabeth Bennet, who learns the repercussions of hasty judgments.",
+   "a": "What is Pride and Prejudice?",
+   "tier": 2
+  },
+  {
+   "id": "Q150827-lead",
+   "q": "Subtitled The Modern Prometheus, this 1818 Gothic novel was begun by its author when she was just 18.",
+   "a": "What is Frankenstein?",
+   "tier": 2
+  },
+  {
+   "id": "Q41542-lead",
+   "q": "Bram Stoker's 1897 Gothic horror novel opens with Jonathan Harker visiting the castle of a Transylvanian nobleman.",
+   "a": "What is Dracula?",
+   "tier": 2
+  },
+  {
+   "id": "Q174596-lead",
+   "q": "In this 1851 Herman Melville novel, narrated by Ishmael, Captain Ahab of the Pequod seeks revenge on a giant white whale.",
+   "a": "What is Moby-Dick?",
+   "tier": 2
+  },
+  {
+   "id": "Q212340-lead",
+   "q": "Harper Lee's 1960 Southern Gothic novel won the Pulitzer Prize and is widely read in American middle and high schools.",
+   "a": "What is To Kill a Mockingbird?",
+   "tier": 2
+  },
+  {
+   "id": "Q25338-lead",
+   "q": "Written and illustrated by a French aviator and published in 1943, this novella follows a young royal who visits various planets, including Earth.",
+   "a": "What is The Little Prince?",
+   "tier": 2
+  },
+  {
+   "id": "Q181488-lead",
+   "q": "Jonathan Swift's 1726 satirical prose novel popularised the fictional island of Lilliput.",
+   "a": "What is Gulliver's Travels?",
+   "tier": 2
+  },
+  {
+   "id": "Q1219561-lead",
+   "q": "In this 1872 Jules Verne novel, Phileas Fogg and his valet Passepartout race the clock on a wager of 20,000 pounds.",
+   "a": "What is Around the World in Eighty Days?",
+   "tier": 2
+  },
+  {
+   "id": "Q183565-lead",
+   "q": "Serialised from 1869 to 1870, this Jules Verne science fiction adventure is set aboard Captain Nemo's submarine, the Nautilus.",
+   "a": "What is Twenty Thousand Leagues Under the Seas?",
+   "tier": 2
+  },
+  {
+   "id": "Q523076-lead",
+   "q": "Louisa May Alcott's 1868 coming-of-age novel follows the four March sisters: Meg, Jo, Beth, and Amy.",
+   "a": "What is Little Women?",
+   "tier": 2
+  },
+  {
+   "id": "Q164974-lead",
+   "q": "In Charles Dickens's second novel, an orphan escapes a workhouse to London and meets a gang of pickpockets led by Fagin.",
+   "a": "What is Oliver Twist?",
+   "tier": 2
+  },
+  {
+   "id": "Q6911-lead",
+   "q": "This book collects the writings of a Jewish teenager who hid with her family for two years during the Nazi occupation of the Netherlands.",
+   "a": "What is The Diary of a Young Girl (The Diary of Anne Frank)?",
+   "tier": 2
+  },
+  {
+   "id": "Q565911-lead",
+   "q": "In this 1908 Canadian novel by Lucy Maud Montgomery, siblings Matthew and Marilla Cuthbert get an 11-year-old orphan girl by mistake instead of a boy.",
+   "a": "What is Anne of Green Gables?",
+   "tier": 2
+  },
+  {
+   "id": "Q271697-lead",
+   "q": "This 1880s Johanna Spyri novel follows a five-year-old girl in her grandfather's care in the Swiss Alps.",
+   "a": "What is Heidi?",
+   "tier": 2
+  },
+  {
+   "id": "Q220331-lead",
+   "q": "This 1871 Lewis Carroll sequel sends its young heroine on a new adventure whose theme is chess.",
+   "a": "What is Through the Looking-Glass?",
+   "tier": 2
+  },
+  {
+   "id": "Q476871-lead",
+   "q": "Jack London's 1903 novel follows Buck, a dog stolen from California and sold as a sled dog during the Klondike Gold Rush.",
+   "a": "What is The Call of the Wild?",
+   "tier": 2
+  },
+  {
+   "id": "Q480-lead",
+   "q": "Published in two parts in 1605 and 1615, this Cervantes novel about a hidalgo from La Mancha is called the first modern novel.",
+   "a": "What is Don Quixote?",
+   "tier": 3
+  },
+  {
+   "id": "Q214371-lead",
+   "q": "In this 1925 F. Scott Fitzgerald novel set in the Jazz Age on Long Island, narrator Nick Carraway meets a mysterious millionaire.",
+   "a": "What is The Great Gatsby?",
+   "tier": 3
+  },
+  {
+   "id": "Q215410-lead",
+   "q": "This 1884 Mark Twain novel, a direct sequel to the story of Tom Sawyer, is often named among the Great American Novels.",
+   "a": "What is Adventures of Huckleberry Finn?",
+   "tier": 3
+  },
+  {
+   "id": "Q140527-lead",
+   "q": "This 1844 Alexandre Dumas swashbuckler, set between 1625 and 1628, is the first of his d'Artagnan Romances.",
+   "a": "What is The Three Musketeers?",
+   "tier": 3
+  },
+  {
+   "id": "Q191838-lead",
+   "q": "In this Alexandre Dumas adventure novel, the young sailor Edmond Dantes is falsely accused of treason and imprisoned in the Chateau d'If.",
+   "a": "What is The Count of Monte Cristo?",
+   "tier": 3
+  },
+  {
+   "id": "Q180736-lead",
+   "q": "This 1862 French epic historical novel by Victor Hugo has been adapted many times, including as a stage musical.",
+   "a": "What is Les Misérables?",
+   "tier": 3
+  },
+  {
+   "id": "Q161531-lead",
+   "q": "Set during the Napoleonic Wars, this epic novel by Leo Tolstoy mixes a fictional story with chapters on history and philosophy.",
+   "a": "What is War and Peace?",
+   "tier": 3
+  },
+  {
+   "id": "Q182961-lead",
+   "q": "Published in 1847 under the pen name \"Currer Bell\", this Charlotte Bronte bildungsroman follows its heroine's love for the brooding Mr Rochester.",
+   "a": "What is Jane Eyre?",
+   "tier": 3
+  },
+  {
+   "id": "Q202975-lead",
+   "q": "Emily Bronte's only novel concerns the Earnshaw and Linton families on the Yorkshire moors and the foster son Heathcliff.",
+   "a": "What is Wuthering Heights?",
+   "tier": 3
+  },
+  {
+   "id": "Q219552-lead",
+   "q": "Dickens's thirteenth novel is a bildungsroman narrated by an orphan nicknamed Pip.",
+   "a": "What is Great Expectations?",
+   "tier": 3
+  },
+  {
+   "id": "Q217352-lead",
+   "q": "In this 1886 Robert Louis Stevenson novella, the lawyer Utterson investigates a respected doctor's link to a murderous criminal.",
+   "a": "What is (Strange Case of) Dr Jekyll and Mr Hyde?",
+   "tier": 3
+  },
+  {
+   "id": "Q45192-lead",
+   "q": "Set on Dartmoor, this third Sherlock Holmes novel has Holmes and Watson investigating the legend of a fearsome supernatural dog.",
+   "a": "What is The Hound of the Baskervilles?",
+   "tier": 3
+  },
+  {
+   "id": "Q271764-lead",
+   "q": "William Golding's 1954 debut novel follows a group of British boys stranded on an uninhabited island who descend into savagery.",
+   "a": "What is Lord of the Flies?",
+   "tier": 3
+  },
+  {
+   "id": "Q183883-lead",
+   "q": "Originally intended for adults, this 1951 J. D. Salinger coming-of-age novel is often read by teens for its themes of angst and alienation.",
+   "a": "What is The Catcher in the Rye?",
+   "tier": 3
+  },
+  {
+   "id": "Q202009-lead",
+   "q": "In this 1953 Ray Bradbury novel, books are outlawed and \"firemen\" like Guy Montag burn any that are found.",
+   "a": "What is Fahrenheit 451?",
+   "tier": 3
+  },
+  {
+   "id": "Q191949-lead",
+   "q": "Aldous Huxley's 1932 dystopian novel is set largely in a futuristic global state whose citizens are engineered into a social hierarchy.",
+   "a": "What is Brave New World?",
+   "tier": 3
+  },
+  {
+   "id": "Q26505-lead",
+   "q": "Ernest Hemingway's 1952 novella tells of Santiago, an aging fisherman, and his long struggle to catch a giant marlin.",
+   "a": "What is The Old Man and the Sea?",
+   "tier": 3
+  },
+  {
+   "id": "Q457977-lead",
+   "q": "John Steinbeck's 1937 novella follows George Milton and Lennie Small, migrant ranch workers in California during the Great Depression.",
+   "a": "What is Of Mice and Men?",
+   "tier": 3
+  },
+  {
+   "id": "Q213019-lead",
+   "q": "H. G. Wells's science fiction novel is about an attempted invasion of Earth by beings from Mars.",
+   "a": "What is The War of the Worlds?",
+   "tier": 3
+  },
+  {
+   "id": "Q48328-lead",
+   "q": "This Old English epic poem of 3,182 alliterative lines survives in a single manuscript, the Nowell Codex.",
+   "a": "What is Beowulf?",
+   "tier": 3
+  },
+  {
+   "id": "Q40185-lead",
+   "q": "Completed around 1321, this Italian narrative poem by Dante Alighieri presents an imaginative vision of the afterlife.",
+   "a": "What is The Divine Comedy?",
+   "tier": 4
+  },
+  {
+   "id": "Q60220-lead",
+   "q": "Virgil's Latin epic poem tells of a Trojan who fled the fall of Troy and travelled to Italy, becoming the ancestor of the Romans.",
+   "a": "What is The Aeneid?",
+   "tier": 4
+  },
+  {
+   "id": "Q28754-lead",
+   "q": "John Milton's epic poem in blank verse concerns the temptation of Adam and Eve by Satan and their expulsion from the Garden of Eden.",
+   "a": "What is Paradise Lost?",
+   "tier": 4
+  },
+  {
+   "id": "Q191663-lead",
+   "q": "Geoffrey Chaucer's Middle English anthology is framed as a storytelling contest among pilgrims travelling to the shrine of Thomas Becket.",
+   "a": "What is The Canterbury Tales?",
+   "tier": 4
+  },
+  {
+   "id": "Q165318-lead",
+   "q": "This Dostoevsky novel first appeared in The Russian Messenger in twelve monthly installments during 1866.",
+   "a": "What is Crime and Punishment?",
+   "tier": 4
+  },
+  {
+   "id": "Q147787-lead",
+   "q": "Leo Tolstoy called this novel, serialised from 1875 to 1877, his first true novel.",
+   "a": "What is Anna Karenina?",
+   "tier": 4
+  },
+  {
+   "id": "Q178869-lead",
+   "q": "Gabriel Garcia Marquez's 1967 novel tells the multi-generational story of the Buendia family of the fictitious town of Macondo.",
+   "a": "What is One Hundred Years of Solitude?",
+   "tier": 4
+  },
+  {
+   "id": "Q184222-lead",
+   "q": "In this 1915 Franz Kafka novella, salesman Gregor Samsa wakes up to find himself transformed into a huge insect.",
+   "a": "What is The Metamorphosis?",
+   "tier": 4
+  },
+  {
+   "id": "Q193417-lead",
+   "q": "Gustave Flaubert's debut novel follows Emma, who lives beyond her means to escape the boredom of provincial life.",
+   "a": "What is Madame Bovary?",
+   "tier": 4
+  },
+  {
+   "id": "Q191380-lead",
+   "q": "Victor Hugo's 1831 Gothic novel set in 15th-century Paris features Quasimodo and the street dancer Esmeralda.",
+   "a": "What is The Hunchback of Notre-Dame?",
+   "tier": 4
+  },
+  {
+   "id": "Q19871-lead",
+   "q": "Samuel Beckett subtitled this play, first written and performed in French, \"a tragicomedy in two acts\".",
+   "a": "What is Waiting for Godot?",
+   "tier": 4
+  },
+  {
+   "id": "Q8272-lead",
+   "q": "This ancient Mesopotamian poem about a king of Uruk is the world's oldest surviving example of narrative literature.",
+   "a": "What is The Epic of Gilgamesh?",
+   "tier": 4
+  },
+  {
+   "id": "Q82464-lead",
+   "q": "This 1890 philosophical and Gothic horror novel is the only novel written by Oscar Wilde.",
+   "a": "What is The Picture of Dorian Gray?",
+   "tier": 4
+  },
+  {
+   "id": "Q129778-lead",
+   "q": "In this 1899 Joseph Conrad novella, the sailor Charles Marlow tells of serving as a steamer captain in the African interior.",
+   "a": "What is Heart of Darkness?",
+   "tier": 4
+  },
+  {
+   "id": "Q278208-lead",
+   "q": "Joseph Heller's 1961 debut is a satirical war novel told out of sequence from the points of view of different characters.",
+   "a": "What is Catch-22?",
+   "tier": 4
+  },
+  {
+   "id": "Q215983-lead",
+   "q": "John Steinbeck's 1939 Pulitzer-winning novel follows the Joads, tenant farmers driven from their Oklahoma home during the Great Depression.",
+   "a": "What is The Grapes of Wrath?",
+   "tier": 4
+  },
+  {
+   "id": "Q206400-lead",
+   "q": "In this Shakespeare play, Antonio defaults on a large loan from the moneylender Shylock, with seemingly fatal consequences.",
+   "a": "What is The Merchant of Venice?",
+   "tier": 4
+  },
+  {
+   "id": "Q214132-lead",
+   "q": "With over 100 million copies sold, this 1939 Agatha Christie novel is the world's best-selling mystery novel.",
+   "a": "What is And Then There Were None?",
+   "tier": 4
+  },
+  {
+   "id": "Q493574-lead",
+   "q": "This 1826 James Fenimore Cooper novel, the second of the Leatherstocking Tales, is set in 1757 during the French and Indian War.",
+   "a": "What is The Last of the Mohicans?",
+   "tier": 4
+  },
+  {
+   "id": "Q190192-lead",
+   "q": "Frank Herbert's 1965 epic science fiction novel won the first Nebula Award for Best Novel.",
+   "a": "What is Dune?",
+   "tier": 4
+  },
+  {
+   "id": "Q29478-lead",
+   "q": "Goethe's two-part tragic play, based on a German folk legend, is often called his magnum opus.",
+   "a": "What is Faust?",
+   "tier": 5
+  },
+  {
+   "id": "Q183157-lead",
+   "q": "Dostoevsky's final novel was serialised in The Russian Messenger from 1879 to 1880; he died less than four months after it was published.",
+   "a": "What is The Brothers Karamazov?",
+   "tier": 5
+  },
+  {
+   "id": "Q6511-lead",
+   "q": "This modernist novel by James Joyce was published in Paris by Sylvia Beach in 1922, on the author's fortieth birthday.",
+   "a": "What is Ulysses?",
+   "tier": 5
+  },
+  {
+   "id": "Q163297-lead",
+   "q": "Albert Camus's first published novel follows Meursault, an indifferent man in French Algeria.",
+   "a": "What is The Stranger (The Outsider)?",
+   "tier": 5
+  },
+  {
+   "id": "Q215894-lead",
+   "q": "In this 1759 Voltaire satire, a sheltered young man is taught optimism by his mentor, Professor Pangloss.",
+   "a": "What is Candide?",
+   "tier": 5
+  },
+  {
+   "id": "Q184742-lead",
+   "q": "Ovid's Latin narrative poem in 15 books chronicles the world from its creation to the deification of Julius Caesar through over 250 myths.",
+   "a": "What is the Metamorphoses?",
+   "tier": 5
+  },
+  {
+   "id": "Q8269-lead",
+   "q": "Written by the lady-in-waiting Murasaki Shikibu in the early 11th century, this Japanese classic is sometimes called the world's first novel.",
+   "a": "What is The Tale of Genji?",
+   "tier": 5
+  },
+  {
+   "id": "Q50948-lead",
+   "q": "This \"novel in verse\" by Alexander Pushkin, published serially from 1825 to 1832, is a classic of Russian literature.",
+   "a": "What is Eugene Onegin?",
+   "tier": 5
+  },
+  {
+   "id": "Q36097-lead",
+   "q": "In this posthumously published Kafka novel, bank official Josef K. is arrested and prosecuted without ever learning his crime.",
+   "a": "What is The Trial?",
+   "tier": 5
+  },
+  {
+   "id": "Q464928-lead",
+   "q": "Marcel Proust's novel in seven volumes is known for its length and its theme of involuntary memory.",
+   "a": "What is In Search of Lost Time (Remembrance of Things Past)?",
+   "tier": 5
+  },
+  {
+   "id": "Q151883-lead",
+   "q": "Goethe wrote this 1774 epistolary novel of the Sturm und Drang period in just five and a half weeks at age 24.",
+   "a": "What is The Sorrows of Young Werther?",
+   "tier": 5
+  },
+  {
+   "id": "Q647379-lead",
+   "q": "This 1842 Nikolai Gogol novel follows the travels of Pavel Ivanovich Chichikov; Gogol called it an \"epic poem in prose\".",
+   "a": "What is Dead Souls?",
+   "tier": 5
+  },
+  {
+   "id": "Q188538-lead",
+   "q": "Mikhail Bulgakov wrote this novel in the Soviet Union between 1928 and 1940; a censored version was published after his death.",
+   "a": "What is The Master and Margarita?",
+   "tier": 5
+  },
+  {
+   "id": "Q172850-lead",
+   "q": "Umberto Eco's 1980 debut novel is a historical murder mystery set in an Italian monastery in 1327.",
+   "a": "What is The Name of the Rose?",
+   "tier": 5
+  },
+  {
+   "id": "Q206870-lead",
+   "q": "Refused publication in the USSR, this Boris Pasternak novel about a physician and poet was first published in Italy in 1957.",
+   "a": "What is Doctor Zhivago?",
+   "tier": 5
+  },
+  {
+   "id": "Q16438-lead",
+   "q": "In this 14th-century Boccaccio work, seven young women and three young men shelter in a villa outside Florence and tell 100 tales.",
+   "a": "What is The Decameron?",
+   "tier": 5
+  },
+  {
+   "id": "Q185427-lead",
+   "q": "This 11th-century chanson de geste about the Battle of Roncevaux Pass is the oldest surviving major work of French literature.",
+   "a": "What is The Song of Roland?",
+   "tier": 5
+  },
+  {
+   "id": "Q131554-lead",
+   "q": "This epic poem written around 1200 in Middle High German is based on Germanic heroic legend; its anonymous poet was likely from Passau.",
+   "a": "What is the Nibelungenlied?",
+   "tier": 5
+  },
+  {
+   "id": "Q70784-lead",
+   "q": "This 16th-century Ming dynasty Chinese novel was known in English through Arthur Waley's 1942 abridged translation titled Monkey.",
+   "a": "What is Journey to the West?",
+   "tier": 5
+  },
+  {
+   "id": "Q457289-lead",
+   "q": "Hermann Hesse's 1922 novel recounts one man's spiritual journey of self-discovery during the time of the Gautama Buddha.",
+   "a": "What is Siddhartha?",
+   "tier": 5
+  }
+ ]
+}

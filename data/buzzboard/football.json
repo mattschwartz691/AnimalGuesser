@@ -1,0 +1,308 @@
+{
+ "category": "Football",
+ "slug": "football",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "football-01",
+   "q": "In American football, crossing the goal line with the ball for this score is worth six points",
+   "a": "What is a touchdown?",
+   "tier": 1
+  },
+  {
+   "id": "football-02",
+   "q": "First played in January 1967, this NFL championship game is usually the most-watched TV broadcast in the U.S. each year",
+   "a": "What is the Super Bowl?",
+   "tier": 1
+  },
+  {
+   "id": "football-03",
+   "q": "This player takes the snap from the center and throws most of the team's passes",
+   "a": "What is the quarterback?",
+   "tier": 1
+  },
+  {
+   "id": "football-04",
+   "q": "Worth three points, this kick sails between the uprights during regular play",
+   "a": "What is a field goal?",
+   "tier": 1
+  },
+  {
+   "id": "football-05",
+   "q": "This quarterback won seven Super Bowls: six with the New England Patriots and one with Tampa Bay",
+   "a": "Who is Tom Brady?",
+   "tier": 1
+  },
+  {
+   "id": "football-06",
+   "q": "A team gets this many downs to gain 10 yards and earn a fresh set",
+   "a": "What is four?",
+   "tier": 1
+  },
+  {
+   "id": "football-07",
+   "q": "Fans of this NFL team, the only one owned by its community, proudly wear foam 'cheesehead' hats",
+   "a": "What are the Green Bay Packers?",
+   "tier": 1
+  },
+  {
+   "id": "football-08",
+   "q": "Footballs have long been nicknamed this, even though they are usually made of cowhide",
+   "a": "What is a pigskin?",
+   "tier": 1
+  },
+  {
+   "id": "football-09",
+   "q": "Before kickoff, team captains meet at midfield for this to decide who gets the ball first",
+   "a": "What is the coin toss?",
+   "tier": 1
+  },
+  {
+   "id": "football-10",
+   "q": "This defensive play happens when the quarterback is tackled behind the line of scrimmage before he can throw",
+   "a": "What is a sack?",
+   "tier": 1
+  },
+  {
+   "id": "football-11",
+   "q": "The Super Bowl trophy is named for this legendary Green Bay coach who won the first two Super Bowls",
+   "a": "Who is Vince Lombardi?",
+   "tier": 2
+  },
+  {
+   "id": "football-12",
+   "q": "An offensive lineman who flinches or moves before the snap is penalized five yards for this foul",
+   "a": "What is a false start?",
+   "tier": 2
+  },
+  {
+   "id": "football-13",
+   "q": "Named after a prayer, this long, desperate heave into the end zone usually comes as time runs out",
+   "a": "What is a Hail Mary?",
+   "tier": 2
+  },
+  {
+   "id": "football-14",
+   "q": "This award is given each year to the most outstanding player in college football",
+   "a": "What is the Heisman Trophy?",
+   "tier": 2
+  },
+  {
+   "id": "football-15",
+   "q": "These quarterback brothers, sons of Archie, each won two Super Bowls",
+   "a": "Who are Peyton and Eli Manning?",
+   "tier": 2
+  },
+  {
+   "id": "football-16",
+   "q": "Nicknamed 'America's Team,' this NFL franchise plays its home games in Arlington, Texas",
+   "a": "What are the Dallas Cowboys?",
+   "tier": 2
+  },
+  {
+   "id": "football-17",
+   "q": "This short, tricky kickoff is meant to travel just over 10 yards so the kicking team can try to recover it",
+   "a": "What is an onside kick?",
+   "tier": 2
+  },
+  {
+   "id": "football-18",
+   "q": "In 1972 this team went 17-0 to complete the NFL's only perfect season capped by a Super Bowl win",
+   "a": "What are the Miami Dolphins?",
+   "tier": 2
+  },
+  {
+   "id": "football-19",
+   "q": "This slang term describes an interception that the defender returns all the way for a touchdown",
+   "a": "What is a pick-six?",
+   "tier": 2
+  },
+  {
+   "id": "football-20",
+   "q": "A punt returner waves one arm over his head to signal this, meaning he will not run with the ball",
+   "a": "What is a fair catch?",
+   "tier": 2
+  },
+  {
+   "id": "football-21",
+   "q": "Nicknamed 'Sweetness,' this Chicago Bears running back was one of the most beloved players of the 1970s and '80s",
+   "a": "Who is Walter Payton?",
+   "tier": 3
+  },
+  {
+   "id": "football-22",
+   "q": "This San Francisco 49ers wide receiver retired as the NFL's career leader in catches, receiving yards and touchdown receptions",
+   "a": "Who is Jerry Rice?",
+   "tier": 3
+  },
+  {
+   "id": "football-23",
+   "q": "This New York Jets quarterback famously guaranteed a win in Super Bowl III, then delivered it",
+   "a": "Who is Joe Namath?",
+   "tier": 3
+  },
+  {
+   "id": "football-24",
+   "q": "The Pro Football Hall of Fame is in this Ohio city, where the league that became the NFL was organized in 1920",
+   "a": "What is Canton?",
+   "tier": 3
+  },
+  {
+   "id": "football-25",
+   "q": "Nicknamed 'Joe Cool,' this quarterback won four Super Bowls with San Francisco without throwing an interception in any of them",
+   "a": "Who is Joe Montana?",
+   "tier": 3
+  },
+  {
+   "id": "football-26",
+   "q": "First played in 1890, this rivalry matchup between two military academies is traditionally held in December",
+   "a": "What is the Army-Navy Game?",
+   "tier": 3
+  },
+  {
+   "id": "football-27",
+   "q": "Nicknamed 'Prime Time,' this cornerback is the only man to play in both a Super Bowl and a World Series",
+   "a": "Who is Deion Sanders?",
+   "tier": 3
+  },
+  {
+   "id": "football-28",
+   "q": "This annual college postseason game in Pasadena, California, is nicknamed 'The Granddaddy of Them All'",
+   "a": "What is the Rose Bowl?",
+   "tier": 3
+  },
+  {
+   "id": "football-29",
+   "q": "This sports drink was developed in 1965 by University of Florida researchers to help the school's football players",
+   "a": "What is Gatorade?",
+   "tier": 3
+  },
+  {
+   "id": "football-30",
+   "q": "In 1934 this team began its long tradition of hosting a football game on Thanksgiving Day",
+   "a": "What are the Detroit Lions?",
+   "tier": 3
+  },
+  {
+   "id": "football-31",
+   "q": "Franco Harris scooped up a deflected pass just before it hit the ground in this famous 1972 playoff play",
+   "a": "What is the Immaculate Reception?",
+   "tier": 4
+  },
+  {
+   "id": "football-32",
+   "q": "This Cleveland Browns fullback led the NFL in rushing in eight of his nine seasons before retiring in 1966",
+   "a": "Who is Jim Brown?",
+   "tier": 4
+  },
+  {
+   "id": "football-33",
+   "q": "This Green Bay quarterback was named MVP of both Super Bowl I and Super Bowl II",
+   "a": "Who is Bart Starr?",
+   "tier": 4
+  },
+  {
+   "id": "football-34",
+   "q": "Knute Rockne's 'Four Horsemen' backfield of the 1920s played for this Indiana university",
+   "a": "What is Notre Dame?",
+   "tier": 4
+  },
+  {
+   "id": "football-35",
+   "q": "This nickname is given to the very last player chosen in each year's NFL Draft",
+   "a": "What is Mr. Irrelevant?",
+   "tier": 4
+  },
+  {
+   "id": "football-36",
+   "q": "This elusive Detroit running back rushed for 2,053 yards in 1997, then shocked fans by retiring in 1999",
+   "a": "Who is Barry Sanders?",
+   "tier": 4
+  },
+  {
+   "id": "football-37",
+   "q": "Nicknamed 'Papa Bear,' this man founded, owned and coached the Chicago Bears for decades",
+   "a": "Who is George Halas?",
+   "tier": 4
+  },
+  {
+   "id": "football-38",
+   "q": "This position lines up beside an offensive tackle and can either block or run out to catch passes",
+   "a": "What is tight end?",
+   "tier": 4
+  },
+  {
+   "id": "football-39",
+   "q": "In the NFL, after a touchdown a team may run or pass from the 2-yard line to try for this, instead of kicking",
+   "a": "What is a two-point conversion?",
+   "tier": 4
+  },
+  {
+   "id": "football-40",
+   "q": "Undersized at 5-foot-10, this Boston College quarterback beat Miami with a last-second 1984 heave and won the Heisman",
+   "a": "Who is Doug Flutie?",
+   "tier": 4
+  },
+  {
+   "id": "football-41",
+   "q": "The 1967 NFL Championship Game in Green Bay, played in about minus-15 degrees Fahrenheit, is remembered by this nickname",
+   "a": "What is the Ice Bowl?",
+   "tier": 5
+  },
+  {
+   "id": "football-42",
+   "q": "A kickoff-return lateral by this team beat Buffalo in a January 2000 playoff game called the 'Music City Miracle'",
+   "a": "What are the Tennessee Titans?",
+   "tier": 5
+  },
+  {
+   "id": "football-43",
+   "q": "In the NFC title game of January 1982, this 49ers receiver leaped to snag a Joe Montana pass in a play called 'The Catch'",
+   "a": "Who is Dwight Clark?",
+   "tier": 5
+  },
+  {
+   "id": "football-44",
+   "q": "This Olympic champion served as the first president of the league that became the NFL",
+   "a": "Who is Jim Thorpe?",
+   "tier": 5
+  },
+  {
+   "id": "football-45",
+   "q": "Cleveland's NFL team was named for this coach, who later founded the Cincinnati Bengals",
+   "a": "Who is Paul Brown?",
+   "tier": 5
+  },
+  {
+   "id": "football-46",
+   "q": "College football legalized the forward pass in this year, after a push for safer rules",
+   "a": "What is 1906?",
+   "tier": 5
+  },
+  {
+   "id": "football-47",
+   "q": "The first Super Bowl, in January 1967, was played in this historic stadium that also hosted the 1932 and 1984 Summer Olympics",
+   "a": "What is the Los Angeles Memorial Coliseum?",
+   "tier": 5
+  },
+  {
+   "id": "football-48",
+   "q": "Led by Terry Bradshaw and a fearsome defense, this team won four Super Bowls in the six seasons from 1974 to 1979",
+   "a": "What are the Pittsburgh Steelers?",
+   "tier": 5
+  },
+  {
+   "id": "football-49",
+   "q": "The award given each year to the nation's top college linebacker is named for this ferocious Chicago Bears Hall of Famer",
+   "a": "Who is Dick Butkus?",
+   "tier": 5
+  },
+  {
+   "id": "football-50",
+   "q": "Nicknamed 'The Bus,' this Pittsburgh running back won a Super Bowl in his hometown of Detroit in the final game of his career",
+   "a": "Who is Jerome Bettis?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Mountains, Rivers & Deserts",
+ "slug": "physical-geography",
+ "group": "Geography",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "physical-geography-01",
+   "q": "Straddling the Nepal-China border, this is the highest mountain above sea level on Earth",
+   "a": "What is Mount Everest?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-02",
+   "q": "This is the largest hot desert in the world, covering much of North Africa",
+   "a": "What is the Sahara?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-03",
+   "q": "This great river flows north through Egypt and empties into the Mediterranean",
+   "a": "What is the Nile?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-04",
+   "q": "This South American river carries more water than any other river on Earth",
+   "a": "What is the Amazon?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-05",
+   "q": "The Colorado River carved this mile-deep gorge in northern Arizona",
+   "a": "What is the Grand Canyon?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-06",
+   "q": "This range forms the rugged backbone of western North America, stretching from Canada to New Mexico",
+   "a": "What are the Rocky Mountains?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-07",
+   "q": "Flowing south from Minnesota past St. Louis, Memphis and New Orleans, this is America's most famous river",
+   "a": "What is the Mississippi?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-08",
+   "q": "Home to Mount Everest, this range separates the plains of India from the Tibetan Plateau",
+   "a": "What are the Himalayas?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-09",
+   "q": "Mont Blanc is the highest peak of this great European range",
+   "a": "What are the Alps?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-10",
+   "q": "This snow-capped, near-perfect volcanic cone is Japan's highest mountain",
+   "a": "What is Mount Fuji?",
+   "tier": 1
+  },
+  {
+   "id": "physical-geography-11",
+   "q": "This is the longest continental mountain range in the world, running down South America's western edge",
+   "a": "What are the Andes?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-12",
+   "q": "Africa's highest mountain, this dormant volcano rises from the plains of Tanzania",
+   "a": "What is Mount Kilimanjaro?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-13",
+   "q": "This cold desert spans southern Mongolia and northern China",
+   "a": "What is the Gobi?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-14",
+   "q": "Asia's longest river, it is spanned by China's enormous Three Gorges Dam",
+   "a": "What is the Yangtze?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-15",
+   "q": "This river flows through the heart of London, past the Houses of Parliament",
+   "a": "What is the Thames?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-16",
+   "q": "This river flows through four national capitals: Vienna, Bratislava, Budapest and Belgrade",
+   "a": "What is the Danube?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-17",
+   "q": "These thundering cascades on the U.S.-Canada border include a famous horseshoe-shaped section",
+   "a": "What is Niagara Falls?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-18",
+   "q": "This volcano near Naples buried the Roman town of Pompeii in AD 79",
+   "a": "What is Mount Vesuvius?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-19",
+   "q": "Death Valley and the city of Las Vegas both lie in this North American desert",
+   "a": "What is the Mojave?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-20",
+   "q": "A famous hiking trail of about 2,200 miles runs along this old, worn-down range in the eastern U.S.",
+   "a": "What are the Appalachian Mountains?",
+   "tier": 2
+  },
+  {
+   "id": "physical-geography-21",
+   "q": "This high desert in northern Chile is one of the driest places on Earth",
+   "a": "What is the Atacama?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-22",
+   "q": "Flowing from the Swiss Alps to the North Sea, this river passes the legendary Lorelei rock in Germany",
+   "a": "What is the Rhine?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-23",
+   "q": "Sacred to Hindus, this river flows past the holy city of Varanasi",
+   "a": "What is the Ganges?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-24",
+   "q": "This pyramid-shaped peak on the Swiss-Italian border towers above the town of Zermatt",
+   "a": "What is the Matterhorn?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-25",
+   "q": "This sandy, semi-arid region covers much of Botswana and stretches into Namibia and South Africa",
+   "a": "What is the Kalahari?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-26",
+   "q": "This river flows from the Tibetan Plateau through six countries to a vast delta in Vietnam",
+   "a": "What is the Mekong?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-27",
+   "q": "North America's highest peak, it stands in Alaska",
+   "a": "What is Denali?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-28",
+   "q": "Europe's longest river, it flows through Russia into the Caspian Sea",
+   "a": "What is the Volga?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-29",
+   "q": "Locals call this Zambezi River waterfall 'The Smoke That Thunders'",
+   "a": "What is Victoria Falls?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-30",
+   "q": "This towering volcano on the island of Sicily is one of the most active in the world",
+   "a": "What is Mount Etna?",
+   "tier": 3
+  },
+  {
+   "id": "physical-geography-31",
+   "q": "The highest mountain outside Asia, it rises in the Andes of Argentina",
+   "a": "What is Aconcagua?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-32",
+   "q": "The world's second-highest mountain, it lies in the Karakoram range on the Pakistan-China border",
+   "a": "What is K2?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-33",
+   "q": "The world's tallest uninterrupted waterfall plunges off a flat-topped tepui in Venezuela",
+   "a": "What is Angel Falls?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-34",
+   "q": "Often listed as Europe's highest peak, this dormant volcano rises in Russia's Caucasus Mountains",
+   "a": "What is Mount Elbrus?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-35",
+   "q": "Thought to be the world's oldest desert, this coastal one has towering red dunes at Sossusvlei",
+   "a": "What is the Namib?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-36",
+   "q": "The Kariba and Cahora Bassa dams hold back this African river, which forms much of the Zambia-Zimbabwe border",
+   "a": "What is the Zambezi?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-37",
+   "q": "Mainland Australia's highest peak, it is named after a Polish-born freedom fighter",
+   "a": "What is Mount Kosciuszko?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-38",
+   "q": "This volcano in Washington State blew its top in a deadly eruption on May 18, 1980",
+   "a": "What is Mount St. Helens?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-39",
+   "q": "Pakistan's longest river, it gave its name to the country of India",
+   "a": "What is the Indus?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-40",
+   "q": "Greece's highest mountain, it was the mythical home of Zeus and the other gods",
+   "a": "What is Mount Olympus?",
+   "tier": 4
+  },
+  {
+   "id": "physical-geography-41",
+   "q": "Called the 'Empty Quarter', it is the largest continuous sand desert in the world, covering much of the Arabian Peninsula",
+   "a": "What is the Rub' al Khali?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-42",
+   "q": "The highest active volcano in the world, it straddles the Chile-Argentina border",
+   "a": "What is Ojos del Salado?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-43",
+   "q": "Crossed by Silk Road caravans, this desert fills the Tarim Basin in China's Xinjiang region",
+   "a": "What is the Taklamakan?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-44",
+   "q": "Traditionally linked to Noah's Ark, this snow-capped peak in Turkey is a national symbol of Armenia",
+   "a": "What is Mount Ararat?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-45",
+   "q": "This river never reaches the sea; it spreads into a huge inland delta in Botswana",
+   "a": "What is the Okavango?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-46",
+   "q": "Measured from its base on the ocean floor, this Hawaiian volcano is taller than Mount Everest",
+   "a": "What is Mauna Kea?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-47",
+   "q": "Australia's longest river, it reaches the sea in South Australia",
+   "a": "What is the Murray?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-48",
+   "q": "Christopher Columbus sighted the mouth of this great Venezuelan river in 1498",
+   "a": "What is the Orinoco?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-49",
+   "q": "This North African range separates the Mediterranean coast from the Sahara and peaks at Toubkal in Morocco",
+   "a": "What are the Atlas Mountains?",
+   "tier": 5
+  },
+  {
+   "id": "physical-geography-50",
+   "q": "Canada's highest mountain, it rises in the Saint Elias range in Yukon",
+   "a": "What is Mount Logan?",
+   "tier": 5
+  }
+ ]
+}

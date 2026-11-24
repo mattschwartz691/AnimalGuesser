@@ -1,0 +1,308 @@
+{
+ "category": "Languages of the World",
+ "slug": "languages",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "languages-01",
+   "q": "This is the main language of Brazil, the largest country in South America",
+   "a": "What is Portuguese?",
+   "tier": 1
+  },
+  {
+   "id": "languages-02",
+   "q": "'Bonjour', 'merci' and 'au revoir' are everyday words in this language",
+   "a": "What is French?",
+   "tier": 1
+  },
+  {
+   "id": "languages-03",
+   "q": "'Hola', 'gracias' and 'adiós' are everyday words in this language",
+   "a": "What is Spanish?",
+   "tier": 1
+  },
+  {
+   "id": "languages-04",
+   "q": "'Konnichiwa' and 'arigato' are polite greetings and thanks in this language",
+   "a": "What is Japanese?",
+   "tier": 1
+  },
+  {
+   "id": "languages-05",
+   "q": "'Guten Tag' and 'danke schön' are everyday phrases in this language",
+   "a": "What is German?",
+   "tier": 1
+  },
+  {
+   "id": "languages-06",
+   "q": "This language of ancient Rome gave English phrases like 'et cetera' and 'versus'",
+   "a": "What is Latin?",
+   "tier": 1
+  },
+  {
+   "id": "languages-07",
+   "q": "'Buongiorno', 'grazie' and 'arrivederci' are everyday words in this language",
+   "a": "What is Italian?",
+   "tier": 1
+  },
+  {
+   "id": "languages-08",
+   "q": "'Ni hao' is the standard greeting in this official language of China",
+   "a": "What is Mandarin Chinese?",
+   "tier": 1
+  },
+  {
+   "id": "languages-09",
+   "q": "This language of Moscow is written in the Cyrillic alphabet",
+   "a": "What is Russian?",
+   "tier": 1
+  },
+  {
+   "id": "languages-10",
+   "q": "Many deaf people in the United States communicate with this visual system of handshapes and facial expressions",
+   "a": "What is American Sign Language?",
+   "tier": 1
+  },
+  {
+   "id": "languages-11",
+   "q": "Hangul is the alphabet created for this language",
+   "a": "What is Korean?",
+   "tier": 2
+  },
+  {
+   "id": "languages-12",
+   "q": "Written from right to left, this language of the Quran is spoken across North Africa and the Middle East",
+   "a": "What is Arabic?",
+   "tier": 2
+  },
+  {
+   "id": "languages-13",
+   "q": "Revived as an everyday spoken tongue in modern times, this ancient language is the main language of Israel",
+   "a": "What is Hebrew?",
+   "tier": 2
+  },
+  {
+   "id": "languages-14",
+   "q": "'Jambo' and 'hakuna matata' come from this widely spoken East African language",
+   "a": "What is Swahili?",
+   "tier": 2
+  },
+  {
+   "id": "languages-15",
+   "q": "English words like 'democracy' and 'telephone' are built from roots in this language of Athens",
+   "a": "What is Greek?",
+   "tier": 2
+  },
+  {
+   "id": "languages-16",
+   "q": "Written in the Devanagari script, this language spoken mostly in northern India greets people with 'namaste'",
+   "a": "What is Hindi?",
+   "tier": 2
+  },
+  {
+   "id": "languages-17",
+   "q": "This constructed language from 'Star Trek' was given a grammar and dictionary for a warrior alien race",
+   "a": "What is Klingon?",
+   "tier": 2
+  },
+  {
+   "id": "languages-18",
+   "q": "Created by L. L. Zamenhof in 1887, this is the best-known constructed language meant for international use",
+   "a": "What is Esperanto?",
+   "tier": 2
+  },
+  {
+   "id": "languages-19",
+   "q": "English got the words 'cookie', 'yacht' and 'boss' from this language of the Netherlands",
+   "a": "What is Dutch?",
+   "tier": 2
+  },
+  {
+   "id": "languages-20",
+   "q": "This Celtic language of Cardiff is famous for its double Ls and very long place names",
+   "a": "What is Welsh?",
+   "tier": 2
+  },
+  {
+   "id": "languages-21",
+   "q": "In 1928, this language of Ankara switched from the Arabic script to a Latin-based alphabet",
+   "a": "What is Turkish?",
+   "tier": 3
+  },
+  {
+   "id": "languages-22",
+   "q": "This language of Copenhagen uses the extra letters æ, ø and å",
+   "a": "What is Danish?",
+   "tier": 3
+  },
+  {
+   "id": "languages-23",
+   "q": "This Celtic language is named as the first official language in Ireland's constitution",
+   "a": "What is Irish?",
+   "tier": 3
+  },
+  {
+   "id": "languages-24",
+   "q": "The main language of Iran, it is also known as Farsi",
+   "a": "What is Persian?",
+   "tier": 3
+  },
+  {
+   "id": "languages-25",
+   "q": "This script, used for Hindi and Sanskrit, hangs its letters from a horizontal line along the top",
+   "a": "What is Devanagari?",
+   "tier": 3
+  },
+  {
+   "id": "languages-26",
+   "q": "The Rosetta Stone, carrying one decree in three scripts, helped scholars decode these ancient Egyptian picture symbols",
+   "a": "What are hieroglyphs?",
+   "tier": 3
+  },
+  {
+   "id": "languages-27",
+   "q": "The national language of Pakistan, it is closely related to Hindi but written in a Perso-Arabic script",
+   "a": "What is Urdu?",
+   "tier": 3
+  },
+  {
+   "id": "languages-28",
+   "q": "English, Hindi, Russian and Persian all belong to this huge language family",
+   "a": "What is Indo-European?",
+   "tier": 3
+  },
+  {
+   "id": "languages-29",
+   "q": "This Pacific island language's alphabet has just 13 letters, including the 'okina, a glottal stop",
+   "a": "What is Hawaiian?",
+   "tier": 3
+  },
+  {
+   "id": "languages-30",
+   "q": "Spoken in Helsinki, this language is related to Estonian rather than to its neighbor Swedish",
+   "a": "What is Finnish?",
+   "tier": 3
+  },
+  {
+   "id": "languages-31",
+   "q": "This language, the basis of the national language Filipino, is spoken widely around Manila",
+   "a": "What is Tagalog?",
+   "tier": 4
+  },
+  {
+   "id": "languages-32",
+   "q": "Spoken in parts of northern Spain and southwestern France, this language isolate has no known living relatives",
+   "a": "What is Basque?",
+   "tier": 4
+  },
+  {
+   "id": "languages-33",
+   "q": "Speakers of this language of Reykjavik can read the medieval sagas with relatively little difficulty",
+   "a": "What is Icelandic?",
+   "tier": 4
+  },
+  {
+   "id": "languages-34",
+   "q": "Descended from the Dutch of 17th-century settlers, this language is one of South Africa's official languages",
+   "a": "What is Afrikaans?",
+   "tier": 4
+  },
+  {
+   "id": "languages-35",
+   "q": "In World War II, the U.S. Marines used code talkers who spoke this Native American language",
+   "a": "What is Navajo?",
+   "tier": 4
+  },
+  {
+   "id": "languages-36",
+   "q": "Japanese writing uses these characters borrowed from Chinese alongside hiragana and katakana",
+   "a": "What are kanji?",
+   "tier": 4
+  },
+  {
+   "id": "languages-37",
+   "q": "Quechua was the main language of this Andean state, whose capital was Cusco",
+   "a": "What is the Inca Empire?",
+   "tier": 4
+  },
+  {
+   "id": "languages-38",
+   "q": "This main language of Addis Ababa, Ethiopia's capital, is written in the Ge'ez script",
+   "a": "What is Amharic?",
+   "tier": 4
+  },
+  {
+   "id": "languages-39",
+   "q": "This official language of Kyiv is written in the Cyrillic alphabet and includes the letters ї and є",
+   "a": "What is Ukrainian?",
+   "tier": 4
+  },
+  {
+   "id": "languages-40",
+   "q": "This tonal language of Hanoi is written in the Latin alphabet with many accent marks",
+   "a": "What is Vietnamese?",
+   "tier": 4
+  },
+  {
+   "id": "languages-41",
+   "q": "This Celtic language of Brittany in northwestern France is most closely related to Cornish",
+   "a": "What is Breton?",
+   "tier": 5
+  },
+  {
+   "id": "languages-42",
+   "q": "This classical language of ancient India is the sacred language of the Vedas and Hindu ritual",
+   "a": "What is Sanskrit?",
+   "tier": 5
+  },
+  {
+   "id": "languages-43",
+   "q": "Nelson Mandela's mother tongue, this South African language is famous for its click consonants",
+   "a": "What is Xhosa?",
+   "tier": 5
+  },
+  {
+   "id": "languages-44",
+   "q": "Dolly Pentreath, who died in 1777, is traditionally called the last native speaker of this revived Celtic language",
+   "a": "What is Cornish?",
+   "tier": 5
+  },
+  {
+   "id": "languages-45",
+   "q": "This Semitic language, widely believed to have been Jesus's everyday tongue, was once the common language of the Near East",
+   "a": "What is Aramaic?",
+   "tier": 5
+  },
+  {
+   "id": "languages-46",
+   "q": "This Italian term for a common language used between speakers of different native tongues came from an old Mediterranean trade pidgin",
+   "a": "What is lingua franca?",
+   "tier": 5
+  },
+  {
+   "id": "languages-47",
+   "q": "This Cherokee man created a syllabary for his people's language in the early 1820s without being able to read any other language",
+   "a": "Who is Sequoyah?",
+   "tier": 5
+  },
+  {
+   "id": "languages-48",
+   "q": "A standardized form of Malay, this is the official language of the country whose capital is Jakarta",
+   "a": "What is Indonesian?",
+   "tier": 5
+  },
+  {
+   "id": "languages-49",
+   "q": "Named for its first six letters, this is the name of the runic alphabet of early Germanic peoples",
+   "a": "What is futhark?",
+   "tier": 5
+  },
+  {
+   "id": "languages-50",
+   "q": "Speakers of this Polynesian language of New Zealand call it 'te reo'; it became an official language in 1987",
+   "a": "What is Māori?",
+   "tier": 5
+  }
+ ]
+}
