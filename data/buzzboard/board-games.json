@@ -1,0 +1,308 @@
+{
+ "category": "Board & Card Games",
+ "slug": "board-games",
+ "group": "Everyday Life",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "board-games-01",
+   "q": "In chess, these pieces move in an L shape and are usually carved as horse heads",
+   "a": "What are knights?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-02",
+   "q": "In the classic U.S. edition of Monopoly, this dark blue property is the most expensive",
+   "a": "What is Boardwalk?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-03",
+   "q": "In this card game, you must call out its name when you're down to your last card",
+   "a": "What is Uno?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-04",
+   "q": "A standard deck of playing cards, without jokers, has this many cards",
+   "a": "What is 52?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-05",
+   "q": "In this mystery game, you might accuse Colonel Mustard in the library with the candlestick",
+   "a": "What is Clue (Cluedo)?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-06",
+   "q": "In this children's game, lucky squares send you climbing up and unlucky ones send you sliding back down",
+   "a": "What is Chutes and Ladders (Snakes and Ladders)?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-07",
+   "q": "In this game, rolling five dice of the same number earns its name and 50 points",
+   "a": "What is Yahtzee?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-08",
+   "q": "In this game, players call out grid spots like \"B-4\" to find and sink a hidden enemy fleet",
+   "a": "What is Battleship?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-09",
+   "q": "In this stacking game, players pull wooden blocks from a tower and place them on top until it topples",
+   "a": "What is Jenga?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-10",
+   "q": "In this game, players use tweezers to remove ailments from Cavity Sam without setting off a buzzer",
+   "a": "What is Operation?",
+   "tier": 1
+  },
+  {
+   "id": "board-games-11",
+   "q": "In this word game, players place lettered tiles on a 15-by-15 board to build crossword-style words",
+   "a": "What is Scrabble?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-12",
+   "q": "In chess, this special move lets the king and a rook move in the same turn",
+   "a": "What is castling?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-13",
+   "q": "In Britain this game is called draughts, and pieces that reach the far row get crowned",
+   "a": "What is checkers?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-14",
+   "q": "In poker, this hand is five cards all of the same suit, not in sequence",
+   "a": "What is a flush?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-15",
+   "q": "In this kids' card game, you ask an opponent for a rank and, if they don't have it, they tell you to draw",
+   "a": "What is Go Fish?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-16",
+   "q": "This one-player card game, the Klondike version most famous, came preinstalled on Windows computers",
+   "a": "What is solitaire?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-17",
+   "q": "Formerly known as Settlers, in this game players trade brick, wool, ore, grain and lumber",
+   "a": "What is Catan?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-18",
+   "q": "This strategy game of world conquest is played on a map with 42 territories grouped into six continents",
+   "a": "What is Risk?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-19",
+   "q": "In this game, players drop colored discs into a vertical grid, trying to make a horizontal, vertical or diagonal line",
+   "a": "What is Connect Four?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-20",
+   "q": "A huge 2015 Kickstarter hit, in this card game drawing a feline bomb card knocks you out",
+   "a": "What is Exploding Kittens?",
+   "tier": 2
+  },
+  {
+   "id": "board-games-21",
+   "q": "This Chinese game uses tiles with suits like bamboo, characters and dots, plus winds and dragons",
+   "a": "What is mahjong?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-22",
+   "q": "In this ancient race game, each player has 15 checkers, and a doubling cube can raise the stakes",
+   "a": "What is backgammon?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-23",
+   "q": "In this four-player partnership card game, players bid a contract and one hand is laid face up as the dummy",
+   "a": "What is bridge?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-24",
+   "q": "This East Asian strategy game uses black and white stones placed on the lines of a 19-by-19 grid",
+   "a": "What is Go?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-25",
+   "q": "In this game designed by Alan R. Moon, players collect colored cards to claim railway routes",
+   "a": "What is Ticket to Ride?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-26",
+   "q": "In poker, this hand combines three of a kind with a pair",
+   "a": "What is a full house?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-27",
+   "q": "Designed by Richard Garfield and released in 1993, this collectible card game has players casting spells with mana",
+   "a": "What is Magic: The Gathering?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-28",
+   "q": "In this Canadian game, players earn plastic wedges for their round playing pieces by answering questions",
+   "a": "What is Trivial Pursuit?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-29",
+   "q": "A standard double-six set of these spotted tiles has 28 pieces",
+   "a": "What are dominoes?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-30",
+   "q": "In this game on an 8-by-8 board, trapping your rival's discs in a line flips them to your color",
+   "a": "What is Othello (Reversi)?",
+   "tier": 3
+  },
+  {
+   "id": "board-games-31",
+   "q": "This card game uses a pegboard for scoring, and cards adding up to 15 earn points",
+   "a": "What is cribbage?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-32",
+   "q": "In this cooperative 2008 game, players work together to find cures for four diseases spreading across the world",
+   "a": "What is Pandemic?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-33",
+   "q": "In this game of hidden ranks, players try to capture the enemy's flag, and the lowly Spy can defeat the Marshal by attacking it",
+   "a": "What is Stratego?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-34",
+   "q": "This trick-taking game, popular in the U.S. Midwest, is credited with introducing the joker to card decks",
+   "a": "What is euchre?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-35",
+   "q": "In this card game family, players try to form melds of sets and runs, with a gin version among the best known",
+   "a": "What is rummy?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-36",
+   "q": "This brand-name American board game is an adaptation of the Indian cross-and-circle game pachisi",
+   "a": "What is Parcheesi?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-37",
+   "q": "In this trick-taking card game, taking every penalty card is called shooting the moon",
+   "a": "What is Hearts?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-38",
+   "q": "This 2000 tile-laying game is named for a walled medieval city in southern France",
+   "a": "What is Carcassonne?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-39",
+   "q": "This German award, whose name means \"Game of the Year\", went to The Settlers of Catan in 1995",
+   "a": "What is the Spiel des Jahres?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-40",
+   "q": "In 1997 this IBM computer won a six-game match against world chess champion Garry Kasparov",
+   "a": "What is Deep Blue?",
+   "tier": 4
+  },
+  {
+   "id": "board-games-41",
+   "q": "Patented by Elizabeth Magie in 1904 to teach about land and taxes, this pastime inspired Monopoly",
+   "a": "What is The Landlord's Game?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-42",
+   "q": "Leonard Woolley dug up boards for this Mesopotamian race contest in a Sumerian city's ancient cemetery",
+   "a": "What is the Royal Game of Ur?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-43",
+   "q": "Played on a board of 30 squares, this was a favorite board game of ancient Egypt",
+   "a": "What is senet?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-44",
+   "q": "Chess players' skill numbers are calculated with this method named for a Hungarian-American physics professor and chess master",
+   "a": "What is the Elo rating system?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-45",
+   "q": "\"According to\" this 18th-century English writer on card games means \"strictly by the rules\"",
+   "a": "Who is Edmond Hoyle?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-46",
+   "q": "In this Japanese chess game, captured pieces can be returned to the board on your side",
+   "a": "What is shogi?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-47",
+   "q": "In this Chinese chess game, a river divides the board and a cannon must jump over a piece to capture",
+   "a": "What is xiangqi?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-48",
+   "q": "In this ancient game, also called mill, players try to line up three pieces in a row on a board of nested squares",
+   "a": "What is nine men's morris?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-49",
+   "q": "This rummy-family card game, whose name is Spanish for \"basket\", was invented in Montevideo, Uruguay, in 1939",
+   "a": "What is canasta?",
+   "tier": 5
+  },
+  {
+   "id": "board-games-50",
+   "q": "Recorded in India by the sixth century AD, this game named for the four divisions of an army is seen as the ancestor of chess",
+   "a": "What is chaturanga?",
+   "tier": 5
+  }
+ ]
+}

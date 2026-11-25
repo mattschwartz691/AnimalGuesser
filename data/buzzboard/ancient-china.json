@@ -1,0 +1,308 @@
+{
+ "category": "Ancient China",
+ "slug": "ancient-china",
+ "group": "History",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "ancient-china-01",
+   "q": "This enormous defensive barrier stretches across northern China and was built and rebuilt over many centuries",
+   "a": "What is the Great Wall?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-02",
+   "q": "Discovered by farmers in 1974, these thousands of life-size clay soldiers guard the tomb of China's first emperor",
+   "a": "What is the Terracotta Army?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-03",
+   "q": "This writing material, made from plant fibers, was developed in China during the Han dynasty",
+   "a": "What is paper?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-04",
+   "q": "This network of trade routes linking China to the Mediterranean is named for a luxury fabric",
+   "a": "What is the Silk Road?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-05",
+   "q": "Called China's Sorrow because of its deadly floods, this waterway is named for the color of its silt-filled water",
+   "a": "What is the Yellow River (Huang He)?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-06",
+   "q": "This philosopher's teachings on respect for family, ritual and good government shaped China for 2,000 years",
+   "a": "Who is Confucius?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-07",
+   "q": "This explosive mixture, invented in China, was used in fireworks long before it powered guns",
+   "a": "What is gunpowder?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-08",
+   "q": "Legend says the god-king Shennong discovered this drink when leaves landed in his pot of boiling water",
+   "a": "What is tea?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-09",
+   "q": "Chinese history is divided into these periods of rule by one family, such as the Han and the Tang",
+   "a": "What are dynasties?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-10",
+   "q": "China is credited with inventing these flying objects of silk or paper, flown on long strings",
+   "a": "What are kites?",
+   "tier": 1
+  },
+  {
+   "id": "ancient-china-11",
+   "q": "By 221 BC this ruler of Qin had conquered his rivals and declared himself China's first emperor",
+   "a": "Who is Qin Shi Huang?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-12",
+   "q": "This sage is traditionally credited with writing the Tao Te Ching, the founding text of Daoism",
+   "a": "Who is Laozi?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-13",
+   "q": "This symbol of two swirling halves, one dark and one light, represents opposite forces in balance",
+   "a": "What is yin and yang?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-14",
+   "q": "Chinese rulers claimed this divine approval to govern, which they could lose by ruling badly",
+   "a": "What is the Mandate of Heaven?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-15",
+   "q": "Early versions of this navigation tool used a spoon of magnetic lodestone that pointed south",
+   "a": "What is the compass?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-16",
+   "q": "This general is credited with The Art of War, a book on strategy still read by leaders today",
+   "a": "Who is Sun Tzu?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-17",
+   "q": "China's largest ethnic group takes its name from this ruling house, which held power from 202 BC to AD 220",
+   "a": "What is the Han dynasty?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-18",
+   "q": "The Chinese zodiac cycles through this many animals, beginning with the rat",
+   "a": "What is twelve?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-19",
+   "q": "This fine white ceramic is so linked to China that in English it's often simply called china",
+   "a": "What is porcelain?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-20",
+   "q": "In a famous folk ballad, this heroine disguises herself as a man to take her aging father's place in the army",
+   "a": "Who is Hua Mulan?",
+   "tier": 2
+  },
+  {
+   "id": "ancient-china-21",
+   "q": "This ruling house, the earliest firmly supported by archaeology, carved questions to its gods on oracle bones",
+   "a": "What is the Shang dynasty?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-22",
+   "q": "Lasting about 790 years, this was the longest-ruling royal house in Chinese history, overthrowing the Shang",
+   "a": "What is the Zhou dynasty?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-23",
+   "q": "Completed under Emperor Yang of the Sui dynasty, this is the longest artificial waterway in the world",
+   "a": "What is the Grand Canal?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-24",
+   "q": "This era of rival kingdoms fighting for control ended in 221 BC when the state of Qin unified China",
+   "a": "What is the Warring States period?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-25",
+   "q": "Compiled by his followers, this book of sayings records the teachings of Confucius",
+   "a": "What are the Analects?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-26",
+   "q": "This capital of the Han and Tang, whose name means \"Perpetual Peace,\" was the Silk Road's eastern end",
+   "a": "What is Chang'an (Xi'an)?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-27",
+   "q": "This ruling house, in power from 618 to 907, is remembered as a golden age of poetry with poets like Li Bai",
+   "a": "What is the Tang dynasty?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-28",
+   "q": "She was the only woman to rule China as emperor in her own right, from 690 to 705",
+   "a": "Who is Wu Zetian?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-29",
+   "q": "Han royalty were sometimes buried in suits made of thousands of pieces of this green stone, sewn with gold thread",
+   "a": "What is jade?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-30",
+   "q": "FIFA cites this ancient Chinese kicking game as one of the earliest documented forms of football",
+   "a": "What is cuju?",
+   "tier": 3
+  },
+  {
+   "id": "ancient-china-31",
+   "q": "Associated with Han Fei and Shang Yang, this philosophy of strict laws and harsh punishments guided the Qin state",
+   "a": "What is Legalism?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-32",
+   "q": "Called the Second Sage, this Confucian thinker taught that human nature is basically good",
+   "a": "Who is Mencius?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-33",
+   "q": "Born into a peasant family, this rebel leader founded the Han dynasty and became Emperor Gaozu",
+   "a": "Who is Liu Bang?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-34",
+   "q": "Traditional histories name this ruling house, said to come before the Shang, as China's first; many link it to the Erlitou culture",
+   "a": "What is the Xia dynasty?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-35",
+   "q": "Called the father of Chinese history, this Han scholar wrote the Records of the Grand Historian",
+   "a": "Who is Sima Qian?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-36",
+   "q": "This ancient divination text, also called the Book of Changes, is built around 64 hexagrams",
+   "a": "What is the I Ching?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-37",
+   "q": "This phrase describes the many rival philosophies, including Confucianism and Mohism, of the Warring States era",
+   "a": "What are the Hundred Schools of Thought?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-38",
+   "q": "This nomadic confederation from the northern steppe was a major threat to the Qin and Han dynasties",
+   "a": "Who are the Xiongnu?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-39",
+   "q": "This Han ruler, who reigned for 54 years from 141 to 87 BC, greatly expanded China's territory",
+   "a": "Who is Emperor Wu of Han?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-40",
+   "q": "Fu Hao, a Shang general and priestess whose tomb was found intact in 1976, was a wife of this king",
+   "a": "Who is Wu Ding?",
+   "tier": 4
+  },
+  {
+   "id": "ancient-china-41",
+   "q": "This Han envoy's journeys to Central Asia in the 2nd century BC helped open the Silk Road",
+   "a": "Who is Zhang Qian?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-42",
+   "q": "These ancient bronze cauldrons, round with three legs or square with four, were symbols of power and ritual",
+   "a": "What are ding?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-43",
+   "q": "In AD 132 this Han scientist built a seismoscope that dropped a bronze ball from a dragon's mouth into a toad's",
+   "a": "Who is Zhang Heng?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-44",
+   "q": "Founded by a thinker named Mozi, this school preached impartial love for all people and opposed aggressive war",
+   "a": "What is Mohism?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-45",
+   "q": "This Sichuan site, linked to the ancient Shu kingdom, yielded bronze masks with bulging eyes and a giant bronze tree",
+   "a": "What is Sanxingdui?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-46",
+   "q": "This legendary sage-king is credited with taming China's devastating floods and founding the first dynasty",
+   "a": "Who is Yu the Great?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-47",
+   "q": "As chancellor to the First Emperor, this official made small seal script the imperial standard for writing",
+   "a": "Who is Li Si?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-48",
+   "q": "Containing 305 works, this is the oldest existing collection of Chinese verse, also called the Book of Songs",
+   "a": "What is the Classic of Poetry (Shijing)?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-49",
+   "q": "This era of Chinese history, from about 770 to 481 BC, is named after a chronicle of the state of Lu",
+   "a": "What is the Spring and Autumn period?",
+   "tier": 5
+  },
+  {
+   "id": "ancient-china-50",
+   "q": "Shang kings ruled from this capital site near modern Anyang, where thousands of oracle bones were excavated",
+   "a": "What is Yinxu?",
+   "tier": 5
+  }
+ ]
+}

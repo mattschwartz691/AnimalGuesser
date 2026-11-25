@@ -1,0 +1,308 @@
+{
+ "category": "Pop Culture",
+ "slug": "pop-culture",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "pop-culture-01",
+   "q": "This handheld toy with a ball-bearing center, spun between the fingers, was a huge fad in 2017",
+   "a": "What is a fidget spinner?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-02",
+   "q": "These foam clogs with ventilation holes are often decorated with charms called Jibbitz",
+   "a": "What are Crocs?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-03",
+   "q": "This pink battery mascot in sunglasses beats a drum and keeps going and going and going",
+   "a": "Who is the Energizer Bunny?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-04",
+   "q": "This green lizard with a Cockney accent sells car insurance in TV ads",
+   "a": "Who is the GEICO Gecko?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-05",
+   "q": "This cartoon cereal mascot in a red bandanna roars 'They're Gr-r-reat!' about Frosted Flakes",
+   "a": "Who is Tony the Tiger?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-06",
+   "q": "This three-word Nike slogan was introduced in 1988",
+   "a": "What is \"Just Do It\"?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-07",
+   "q": "Winners of these top film honors receive a gold-plated statuette of a knight standing on a reel of film",
+   "a": "What are the Oscars (Academy Awards)?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-08",
+   "q": "Celebrities are honored with brass-and-terrazzo stars embedded in the sidewalks of this Los Angeles attraction",
+   "a": "What is the Hollywood Walk of Fame?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-09",
+   "q": "This red-haired clown has been the mascot of the Golden Arches burger chain since 1963",
+   "a": "Who is Ronald McDonald?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-10",
+   "q": "At this Nickelodeon award show, where kids vote for the winners, celebrities often get doused in green slime",
+   "a": "What are the Kids' Choice Awards?",
+   "tier": 1
+  },
+  {
+   "id": "pop-culture-11",
+   "q": "Wham-O turned this plastic ring that you twirl around your waist into a massive fad in 1958",
+   "a": "What is the hula hoop?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-12",
+   "q": "This furry, owl-like talking toy was the must-have gift of 1998 and seemed to learn English as it was played with",
+   "a": "What is a Furby?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-13",
+   "q": "Collectors in the 1990s went wild for these small bean-filled plush animals made by Ty, kept safe with their heart-shaped tags",
+   "a": "What are Beanie Babies?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-14",
+   "q": "According to this 2005 Christmas book and toy, an elf sent by Santa watches children and flies to the North Pole each night to report",
+   "a": "What is The Elf on the Shelf?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-15",
+   "q": "This nickname went to the July 21, 2023, same-day release of a pink doll comedy and a dark film about the atomic bomb",
+   "a": "What is Barbenheimer?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-16",
+   "q": "Held on the first Monday in May in New York, this fashion fundraiser for the Costume Institute is famed for wild outfits",
+   "a": "What is the Met Gala?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-17",
+   "q": "In this daily web puzzle created by Josh Wardle and bought by The New York Times in 2022, you get six tries to guess a five-letter word",
+   "a": "What is Wordle?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-18",
+   "q": "This white baking mascot with a chef's hat chuckles when someone pokes his belly",
+   "a": "Who is the Pillsbury Doughboy?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-19",
+   "q": "This giant, grinning pitcher of red drink is known for bursting through walls and shouting 'Oh yeah!'",
+   "a": "Who is the Kool-Aid Man?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-20",
+   "q": "Los del Río's 1990s hit inspired this worldwide dance craze in which you place your hands on your arms, head and hips",
+   "a": "What is the Macarena?",
+   "tier": 2
+  },
+  {
+   "id": "pop-culture-21",
+   "q": "In 1975 Gary Dahl sold ordinary stones in cardboard 'carriers' with air holes and straw bedding as this joke",
+   "a": "What is the Pet Rock?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-22",
+   "q": "Shoppers fought over these soft-faced dolls, which came with birth certificates and adoption papers, during the 1983 holiday season",
+   "a": "What are Cabbage Patch Kids?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-23",
+   "q": "This giggling Sesame Street plush that shakes when squeezed was 1996's must-have holiday toy",
+   "a": "What is Tickle Me Elmo?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-24",
+   "q": "This legume mascot for Planters wears a monocle, a top hat and white gloves",
+   "a": "Who is Mr. Peanut?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-25",
+   "q": "Launched in 1993, this dairy slogan later ran with print ads of celebrities sporting white 'mustaches'",
+   "a": "What is \"Got Milk\"?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-26",
+   "q": "Probably short for charisma, this slang word for charm or style was Oxford's Word of the Year for 2023",
+   "a": "What is rizz?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-27",
+   "q": "This four-letter acronym describes the rare stars who have won an Emmy, a Grammy, an Oscar and a Tony",
+   "a": "What is an EGOT?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-28",
+   "q": "Nicknamed the Razzies, these mock honors 'celebrate' the worst movies and performances of the year",
+   "a": "What are the Golden Raspberry Awards?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-29",
+   "q": "This kit of plastic pegs and tiny colorful rubber bands sparked a bracelet-making craze among kids around 2013",
+   "a": "What is the Rainbow Loom?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-30",
+   "q": "This shaggy orange, googly-eyed mascot of the Philadelphia Flyers became an internet sensation after his 2018 debut",
+   "a": "Who is Gritty?",
+   "tier": 3
+  },
+  {
+   "id": "pop-culture-31",
+   "q": "Elderly actress Clara Peller demanded to know this, peering at a tiny patty on a huge bun, in a 1984 Wendy's ad",
+   "a": "What is \"Where's the beef\"?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-32",
+   "q": "Directed by Ridley Scott, this Super Bowl ad introduced the Macintosh with a woman hurling a hammer at a giant screen",
+   "a": "What is Apple's \"1984\" ad?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-33",
+   "q": "This 1990s schoolyard game used cardboard milk caps that players flipped by smacking a stack with a heavier 'slammer'",
+   "a": "What are pogs?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-34",
+   "q": "This mascot built from a stack of white tires is officially named Bibendum",
+   "a": "Who is the Michelin Man?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-35",
+   "q": "These thin steel strips wrapped in fabric curled around your wrist with a whack and were banned by some schools",
+   "a": "What are slap bracelets?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-36",
+   "q": "Launched by Ganz in 2005, these plush pets came with a secret code to adopt and care for a virtual twin online",
+   "a": "What are Webkinz?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-37",
+   "q": "Introduced by Starbucks in 2003, this autumn espresso drink flavored with cinnamon, nutmeg and clove became a fall icon",
+   "a": "What is the pumpkin spice latte?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-38",
+   "q": "Whispering and tapping videos aim to trigger this tingling sensation, known by a four-letter abbreviation",
+   "a": "What is ASMR?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-39",
+   "q": "Ads for these terracotta figurines that sprout green 'fur' feature the jingle 'Ch-ch-ch-...'",
+   "a": "What is a Chia Pet?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-40",
+   "q": "This social app, a hit in 2022, alerts all users at a random moment each day to post a photo within two minutes",
+   "a": "What is BeReal?",
+   "tier": 4
+  },
+  {
+   "id": "pop-culture-41",
+   "q": "This animatronic storytelling bear, one of the best-selling toys of 1985 and 1986, moved his eyes and mouth in time with cassette tapes",
+   "a": "Who is Teddy Ruxpin?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-42",
+   "q": "Pastry chef Dominique Ansel created this croissant-doughnut hybrid at his New York bakery in 2013",
+   "a": "What is the Cronut?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-43",
+   "q": "These wild-haired good-luck figures were first carved by Danish woodcutter Thomas Dam",
+   "a": "What are troll dolls?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-44",
+   "q": "Alvin 'Shipwreck' Kelly became famous in the 1920s for this endurance fad performed high above the street",
+   "a": "What is flagpole sitting?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-45",
+   "q": "College students in 1959 competed to see how many people they could cram into this sidewalk structure",
+   "a": "What is phone booth stuffing?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-46",
+   "q": "This chihuahua became famous in the late 1990s for saying 'Yo quiero Taco Bell' in the chain's ads",
+   "a": "Who is Gidget?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-47",
+   "q": "Debuting in 1978, this electronic game with four colored buttons challenges players to repeat ever-longer patterns of lights and tones",
+   "a": "What is Simon?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-48",
+   "q": "This gadget's catchy ads promised 'Clap on! Clap off!' to control lamps by sound",
+   "a": "What is the Clapper?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-49",
+   "q": "This online trend from South Korea features hosts eating huge amounts of food while chatting with viewers",
+   "a": "What is mukbang?",
+   "tier": 5
+  },
+  {
+   "id": "pop-culture-50",
+   "q": "This squishy toy made of about 2,000 rubber filaments was invented by Scott Stillinger in the 1980s",
+   "a": "What is a Koosh ball?",
+   "tier": 5
+  }
+ ]
+}

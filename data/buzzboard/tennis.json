@@ -1,0 +1,308 @@
+{
+ "category": "Tennis",
+ "slug": "tennis",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "tennis-01",
+   "q": "In tennis scoring, this word means a score of zero",
+   "a": "What is love?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-02",
+   "q": "This Grand Slam tournament is played on grass in a suburb of London",
+   "a": "What is Wimbledon?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-03",
+   "q": "This is the term for a game score tied at 40-40",
+   "a": "What is deuce?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-04",
+   "q": "This is a serve so good the opponent can't even touch it with the racket",
+   "a": "What is an ace?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-05",
+   "q": "The French Open is famously played on this slow, reddish surface",
+   "a": "What is clay?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-06",
+   "q": "Held in New York City each summer, this is the last Grand Slam event of the year",
+   "a": "What is the US Open?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-07",
+   "q": "This Swiss star won eight Wimbledon men's singles titles",
+   "a": "Who is Roger Federer?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-08",
+   "q": "Venus and Serena, these American siblings, each won multiple Wimbledon singles titles",
+   "a": "Who are the Williams sisters?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-09",
+   "q": "Held in Melbourne, this is the first Grand Slam tournament of each calendar year",
+   "a": "What is the Australian Open?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-10",
+   "q": "Wimbledon's strict dress code requires players to wear almost entirely this color",
+   "a": "What is white?",
+   "tier": 1
+  },
+  {
+   "id": "tennis-11",
+   "q": "Nicknamed the King of Clay, this Spaniard won the French Open 14 times",
+   "a": "Who is Rafael Nadal?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-12",
+   "q": "This shot is hit before the ball bounces, often by a player rushing the net",
+   "a": "What is a volley?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-13",
+   "q": "This high, arcing shot sails over the head of an opponent standing at the net",
+   "a": "What is a lob?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-14",
+   "q": "Missing both your first and second serves on a point is called this",
+   "a": "What is a double fault?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-15",
+   "q": "This fruity dessert pairing is a classic snack for Wimbledon spectators",
+   "a": "What is strawberries and cream?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-16",
+   "q": "In 1973's Battle of the Sexes at the Houston Astrodome, she defeated Bobby Riggs",
+   "a": "Who is Billie Jean King?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-17",
+   "q": "After deuce, the player who wins the next point is said to have this",
+   "a": "What is advantage?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-18",
+   "q": "This Serbian star won his first Olympic singles gold at the 2024 Paris Games",
+   "a": "Who is Novak Djokovic?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-19",
+   "q": "Naomi Osaka became the first player from this country to win a Grand Slam singles title",
+   "a": "What is Japan?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-20",
+   "q": "This ball-tracking camera system, named for a sharp-sighted bird, lets players challenge line calls",
+   "a": "What is Hawk-Eye?",
+   "tier": 2
+  },
+  {
+   "id": "tennis-21",
+   "q": "The French Open is often called by the name of this WWI fighter pilot, first to fly nonstop across the Mediterranean",
+   "a": "Who is Roland Garros?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-22",
+   "q": "In 1988 this German became the first player to win all four majors plus Olympic gold in one year",
+   "a": "Who is Steffi Graf?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-23",
+   "q": "This men's international team competition began in 1900 as a challenge between the U.S. and Great Britain",
+   "a": "What is the Davis Cup?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-24",
+   "q": "This backspin shot makes the ball skid and stay low after it bounces",
+   "a": "What is a slice?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-25",
+   "q": "This fiery American lefty is famous for shouting \"You cannot be serious!\" at an umpire",
+   "a": "Who is John McEnroe?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-26",
+   "q": "This Czech-American won a record nine Wimbledon singles titles",
+   "a": "Who is Martina Navratilova?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-27",
+   "q": "This calm Swede won five Wimbledon titles in a row from 1976 to 1980",
+   "a": "Who is Bjorn Borg?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-28",
+   "q": "In 2013 this Scot became the first British man in 77 years to win the Wimbledon singles title",
+   "a": "Who is Andy Murray?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-29",
+   "q": "The only Black man to win Wimbledon singles, he has the US Open's main stadium named for him",
+   "a": "Who is Arthur Ashe?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-30",
+   "q": "This Spaniard won the 2022 US Open and became the Open Era's youngest men's world No. 1 at age 19",
+   "a": "Who is Carlos Alcaraz?",
+   "tier": 3
+  },
+  {
+   "id": "tennis-31",
+   "q": "Winning a set 6-0 is nicknamed giving your opponent this round breakfast food",
+   "a": "What is a bagel?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-32",
+   "q": "This Australian won the calendar-year Grand Slam twice, in 1962 and 1969",
+   "a": "Who is Rod Laver?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-33",
+   "q": "Modern tennis descends from this French game whose name means \"palm game\", first played without rackets",
+   "a": "What is jeu de paume?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-34",
+   "q": "Wimbledon is hosted by this private members' organization, whose full name also mentions croquet",
+   "a": "What is the All England Club?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-35",
+   "q": "This American woman won seven French Open singles titles between 1974 and 1986",
+   "a": "Who is Chris Evert?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-36",
+   "q": "The Open Era, when professionals were first allowed into the major tournaments, began in this year",
+   "a": "What is 1968?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-37",
+   "q": "This American won seven Wimbledon singles titles between 1993 and 2000 with a booming serve",
+   "a": "Who is Pete Sampras?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-38",
+   "q": "This Las Vegas native won Olympic singles gold at the 1996 Atlanta Games and eight major titles",
+   "a": "Who is Andre Agassi?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-39",
+   "q": "In 1956 she became the first Black player to win a Grand Slam title, taking the French Championships",
+   "a": "Who is Althea Gibson?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-40",
+   "q": "This way of holding the racket, named for a landmass rather than a compass direction, is common for serves and volleys",
+   "a": "What is the Continental grip?",
+   "tier": 4
+  },
+  {
+   "id": "tennis-41",
+   "q": "In 1874 Major Walter Wingfield patented a lawn game and gave it this tongue-twisting Greek name",
+   "a": "What is sphairistike?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-42",
+   "q": "This Englishman won the very first Wimbledon championship, in 1877",
+   "a": "Who is Spencer Gore?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-43",
+   "q": "Before 1978 the US Open was held at the West Side Tennis Club in this Queens neighborhood",
+   "a": "What is Forest Hills?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-44",
+   "q": "A three-time Wimbledon champion from 1934 to 1936, he also lent his name to a laurel-logo clothing brand",
+   "a": "Who is Fred Perry?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-45",
+   "q": "This Australian won 24 major singles titles, including 11 at her home Grand Slam",
+   "a": "Who is Margaret Court?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-46",
+   "q": "In 1938 this American became the first player to win all four majors in one calendar year",
+   "a": "Who is Don Budge?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-47",
+   "q": "Nicknamed Little Mo, in 1953 she became the first woman to win the calendar-year Grand Slam",
+   "a": "Who is Maureen Connolly?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-48",
+   "q": "Wimbledon kept using white balls until switching to yellow ones in this decade",
+   "a": "What is the 1980s?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-49",
+   "q": "This French star of the amateur era won five straight Wimbledon singles titles from 1919 to 1923",
+   "a": "Who is Suzanne Lenglen?",
+   "tier": 5
+  },
+  {
+   "id": "tennis-50",
+   "q": "In 1887 she won Wimbledon at age 15, still the youngest ladies' singles champion",
+   "a": "Who is Lottie Dod?",
+   "tier": 5
+  }
+ ]
+}

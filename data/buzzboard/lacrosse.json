@@ -1,0 +1,308 @@
+{
+ "category": "Lacrosse",
+ "slug": "lacrosse",
+ "group": "Sports",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "lacrosse-01",
+   "q": "Players carry, catch and pass the ball using this long-handled tool with a netted pocket on top",
+   "a": "What is a stick (crosse)?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-02",
+   "q": "A lacrosse ball is small, hard and made of this solid, bouncy material",
+   "a": "What is rubber?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-03",
+   "q": "This player guards the net and tries to block shots, often using a stick with an extra-wide head",
+   "a": "Who is the goalie (goalkeeper)?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-04",
+   "q": "By a 1994 law, lacrosse is the official national summer sport of this country, with hockey the winter one",
+   "a": "What is Canada?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-05",
+   "q": "A men's field lacrosse team has this many players on the field at once, including the goalie",
+   "a": "What is ten?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-06",
+   "q": "This indoor version of the sport is often played on a hockey rink after the ice is removed or covered",
+   "a": "What is box lacrosse?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-07",
+   "q": "Men's field players must wear this hard protective headgear with a face mask",
+   "a": "What is a helmet?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-08",
+   "q": "Centuries before Europeans arrived, lacrosse was already being played by these original inhabitants of North America",
+   "a": "Who are Indigenous peoples (Native Americans)?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-09",
+   "q": "In men's field lacrosse, this target that players shoot at is 6 feet wide and 6 feet tall",
+   "a": "What is the goal (net)?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-10",
+   "q": "Men's players wear these padded hand protectors that let them grip the stick and absorb checks",
+   "a": "What are gloves?",
+   "tier": 1
+  },
+  {
+   "id": "lacrosse-11",
+   "q": "Men's games restart after each goal with this, where two players crouch at midfield and battle for the ball",
+   "a": "What is a face-off?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-12",
+   "q": "Often called middies, these players run the whole field and play both offense and defense",
+   "a": "What are midfielders?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-13",
+   "q": "Offensive players may not step into this circle around the goal, where the goalie has special protection",
+   "a": "What is the crease?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-14",
+   "q": "This rocking motion of the wrists and arms keeps the ball snug in the pocket while running",
+   "a": "What is cradling?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-15",
+   "q": "The NCAA Division I men's lacrosse championship game is traditionally played on this U.S. holiday",
+   "a": "What is Memorial Day?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-16",
+   "q": "In men's field lacrosse, these three players stay on the offensive end and do much of the scoring",
+   "a": "Who are attackmen?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-17",
+   "q": "A player who commits a personal foul must sit in this area for a set time, leaving his team a player short",
+   "a": "What is the penalty box?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-18",
+   "q": "Scooping a loose rubber sphere off the turf is credited in the stats as one of these",
+   "a": "What is a ground ball?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-19",
+   "q": "This top part of the stick, usually made of plastic, holds the strung pocket",
+   "a": "What is the head?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-20",
+   "q": "Lacrosse is scheduled to be a medal sport again at the 2028 Summer Olympics in this city",
+   "a": "What is Los Angeles?",
+   "tier": 2
+  },
+  {
+   "id": "lacrosse-21",
+   "q": "Made up of the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora, this alliance is closely tied to the sport's origins",
+   "a": "What is the Iroquois Confederacy (Haudenosaunee)?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-22",
+   "q": "Reflecting its spiritual meaning, Haudenosaunee people often call lacrosse by this name, honoring its maker",
+   "a": "What is the Creator's Game?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-23",
+   "q": "The Premier Lacrosse League's MVP award is named for this NFL legend, also a star lacrosse player at Syracuse",
+   "a": "Who is Jim Brown?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-24",
+   "q": "The sport's modern name comes from this language, used by missionaries who described the game in the 1600s",
+   "a": "What is French?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-25",
+   "q": "Instead of a face-off, women's games start with this, as two players hold their sticks back to back",
+   "a": "What is the draw?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-26",
+   "q": "Instead of full helmets, women's field players are required to wear this protective eyewear",
+   "a": "What are goggles?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-27",
+   "q": "This pro circuit, abbreviated with three letters, plays the indoor game in winter and spring, with teams in both the U.S. and Canada",
+   "a": "What is the National Lacrosse League (NLL)?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-28",
+   "q": "In men's field lacrosse, this violation is called if a team has fewer than four players on its defensive half",
+   "a": "What is offside?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-29",
+   "q": "Traditional wooden sticks are usually carved and steam-bent from this strong hardwood",
+   "a": "What is hickory?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-30",
+   "q": "In U.S. high school and college women's lacrosse, each team has this many players on the field",
+   "a": "What is twelve?",
+   "tier": 3
+  },
+  {
+   "id": "lacrosse-31",
+   "q": "Box lacrosse teams have this many runners on the floor, plus a goalie",
+   "a": "What is five?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-32",
+   "q": "Canada won Olympic lacrosse gold at the 1904 St. Louis Games and again at the 1908 Games in this city",
+   "a": "What is London?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-33",
+   "q": "Created in 2021 for the Olympics, this short-field format has a 30-second shot clock",
+   "a": "What is sixes (lacrosse sixes)?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-34",
+   "q": "A former Johns Hopkins star, he co-founded the Premier Lacrosse League with his brother Mike",
+   "a": "Who is Paul Rabil?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-35",
+   "q": "This four-letter acronym names a midfielder who specializes in face-offs and then quickly subs out",
+   "a": "What is a FOGO?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-36",
+   "q": "Formed in a 2008 merger of the men's and women's international bodies, this governing organization took its current name in 2019",
+   "a": "What is World Lacrosse?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-37",
+   "q": "This Baltimore school's lacrosse team, known as the Blue Jays, is one of the sport's most storied programs",
+   "a": "What is Johns Hopkins University?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-38",
+   "q": "Men's defensemen may carry this stick, from 52 up to 72 inches in length",
+   "a": "What is a long pole (long crosse)?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-39",
+   "q": "In NCAA women's lacrosse, fouls inside this semicircle around the goal can award a free position shot",
+   "a": "What is the 8-meter arc?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-40",
+   "q": "Woven nylon in diamond patterns, this material largely replaced traditional leather stringing in stick pockets",
+   "a": "What is mesh?",
+   "tier": 4
+  },
+  {
+   "id": "lacrosse-41",
+   "q": "Popularized at Syracuse in the late 1980s, this move has a player leap from behind the goal and dunk a shot",
+   "a": "What is the Air Gait?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-42",
+   "q": "College lacrosse's top player award, often compared to the Heisman, is named with this Mohawk word for the game",
+   "a": "What is the Tewaaraton?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-43",
+   "q": "In 1763, during Pontiac's War, Ojibwe players used a ball game as a ruse to enter this British outpost in Michigan",
+   "a": "What is Fort Michilimackinac?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-44",
+   "q": "This Canadian dentist, called the father of modern lacrosse, founded the Montreal Lacrosse Club in 1856",
+   "a": "Who is William George Beers?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-45",
+   "q": "Made of solid gold, this trophy goes to Canada's senior men's box lacrosse champions",
+   "a": "What is the Mann Cup?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-46",
+   "q": "These Onondaga siblings, Lyle and Miles, shared college lacrosse's top individual award in 2014",
+   "a": "Who are the Thompson brothers?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-47",
+   "q": "This French Jesuit missionary wrote about Wendat (Huron) people playing the game in 1637",
+   "a": "Who is Jean de Brébeuf?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-48",
+   "q": "An Onondaga Faithkeeper and former Syracuse player, he founded the Haudenosaunee national team",
+   "a": "Who is Oren Lyons?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-49",
+   "q": "This Ivy League school beat Maryland to win the first NCAA men's lacrosse tournament in 1971",
+   "a": "What is Cornell University?",
+   "tier": 5
+  },
+  {
+   "id": "lacrosse-50",
+   "q": "The indoor box version of the sport was developed in Canada during this decade",
+   "a": "What is the 1930s?",
+   "tier": 5
+  }
+ ]
+}

@@ -113,6 +113,20 @@
    "perTier": 10
   },
   {
+   "slug": "memes",
+   "name": "Memes",
+   "group": "Entertainment",
+   "count": 50,
+   "perTier": 10
+  },
+  {
+   "slug": "pop-culture",
+   "name": "Pop Culture",
+   "group": "Entertainment",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "pop-music",
    "name": "Pop Music",
    "group": "Entertainment",
@@ -169,6 +183,13 @@
    "perTier": 10
   },
   {
+   "slug": "lacrosse",
+   "name": "Lacrosse",
+   "group": "Sports",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "soccer",
    "name": "Soccer",
    "group": "Sports",
@@ -183,6 +204,13 @@
    "perTier": 10
   },
   {
+   "slug": "tennis",
+   "name": "Tennis",
+   "group": "Sports",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "olympics",
    "name": "The Olympics",
    "group": "Sports",
@@ -192,6 +220,13 @@
   {
    "slug": "bugs",
    "name": "Bugs & Insects",
+   "group": "Science",
+   "count": 50,
+   "perTier": 10
+  },
+  {
+   "slug": "cats",
+   "name": "Cats",
    "group": "Science",
    "count": 50,
    "perTier": 10
@@ -220,6 +255,13 @@
   {
    "slug": "human-body",
    "name": "Human Body",
+   "group": "Science",
+   "count": 50,
+   "perTier": 10
+  },
+  {
+   "slug": "invertebrates",
+   "name": "Invertebrates",
    "group": "Science",
    "count": 50,
    "perTier": 10
@@ -330,6 +372,13 @@
    "perTier": 10
   },
   {
+   "slug": "ancient-china",
+   "name": "Ancient China",
+   "group": "History",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "ancient-egypt",
    "name": "Ancient Egypt",
    "group": "History",
@@ -365,6 +414,13 @@
    "perTier": 10
   },
   {
+   "slug": "board-games",
+   "name": "Board & Card Games",
+   "group": "Everyday Life",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "candy-snacks",
    "name": "Candy & Snacks",
    "group": "Everyday Life",
@@ -393,6 +449,13 @@
    "perTier": 10
   },
   {
+   "slug": "architecture",
+   "name": "Architecture",
+   "group": "Arts & Language",
+   "count": 50,
+   "perTier": 10
+  },
+  {
    "slug": "art",
    "name": "Art & Artists",
    "group": "Arts & Language",
@@ -409,6 +472,13 @@
   {
    "slug": "languages",
    "name": "Languages of the World",
+   "group": "Arts & Language",
+   "count": 50,
+   "perTier": 10
+  },
+  {
+   "slug": "literary-characters",
+   "name": "Literary Characters",
    "group": "Arts & Language",
    "count": 50,
    "perTier": 10

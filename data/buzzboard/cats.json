@@ -1,0 +1,308 @@
+{
+ "category": "Cats",
+ "slug": "cats",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "cats-01",
+   "q": "This big cat is the only one that commonly lives in social groups, called prides",
+   "a": "What is the lion?",
+   "tier": 1
+  },
+  {
+   "id": "cats-02",
+   "q": "This largest of all wild cat species has an orange coat with black stripes, and its Bengal subspecies is India's national animal",
+   "a": "What is the tiger?",
+   "tier": 1
+  },
+  {
+   "id": "cats-03",
+   "q": "This spotted African cat is the fastest land animal, able to sprint at roughly 100 km/h",
+   "a": "What is the cheetah?",
+   "tier": 1
+  },
+  {
+   "id": "cats-04",
+   "q": "This lasagna-loving orange comic-strip cat, created by Jim Davis in 1978, famously hates Mondays",
+   "a": "Who is Garfield?",
+   "tier": 1
+  },
+  {
+   "id": "cats-05",
+   "q": "In 'Alice's Adventures in Wonderland,' this grinning cat can vanish until only its smile remains",
+   "a": "Who is the Cheshire Cat?",
+   "tier": 1
+  },
+  {
+   "id": "cats-06",
+   "q": "This low, rumbling sound cats make, often when content, can also happen when they are hurt or stressed",
+   "a": "What is purring?",
+   "tier": 1
+  },
+  {
+   "id": "cats-07",
+   "q": "These long, stiff, sensitive hairs on a cat's face help it sense its surroundings in the dark",
+   "a": "What are whiskers?",
+   "tier": 1
+  },
+  {
+   "id": "cats-08",
+   "q": "This nearly hairless, wrinkly cat breed was developed in Canada but is named after a famous Egyptian statue",
+   "a": "What is the Sphynx?",
+   "tier": 1
+  },
+  {
+   "id": "cats-09",
+   "q": "In classic cartoons this gray-and-white cat endlessly chases a clever brown mouse named Jerry",
+   "a": "Who is Tom?",
+   "tier": 1
+  },
+  {
+   "id": "cats-10",
+   "q": "This mint-family plant contains nepetalactone, which makes many cats roll, rub and act silly",
+   "a": "What is catnip?",
+   "tier": 1
+  },
+  {
+   "id": "cats-11",
+   "q": "This vocal breed from Thailand has blue eyes and a pale body with dark 'points' on its face, ears, paws and tail",
+   "a": "What is the Siamese?",
+   "tier": 2
+  },
+  {
+   "id": "cats-12",
+   "q": "The largest cat in the Americas, this spotted big cat kills prey with a bite that can pierce skulls and turtle shells",
+   "a": "What is the jaguar?",
+   "tier": 2
+  },
+  {
+   "id": "cats-13",
+   "q": "This sword-fighting feline in a feathered hat joined the Shrek films in 2004, voiced by Antonio Banderas",
+   "a": "Who is Puss in Boots?",
+   "tier": 2
+  },
+  {
+   "id": "cats-14",
+   "q": "This big, shaggy, tufted-eared breed is one of the largest domestic cats and is the official state cat of the state it is named for",
+   "a": "What is the Maine Coon?",
+   "tier": 2
+  },
+  {
+   "id": "cats-15",
+   "q": "This long-haired breed with a flat face and round head takes its name from the old name for Iran",
+   "a": "What is the Persian?",
+   "tier": 2
+  },
+  {
+   "id": "cats-16",
+   "q": "Cats push their paws in and out on soft blankets or laps in this behavior, a habit that starts when nursing kittens",
+   "a": "What is kneading?",
+   "tier": 2
+  },
+  {
+   "id": "cats-17",
+   "q": "This common coat pattern of stripes, swirls or spots often includes an 'M' shape on the forehead and is not a breed",
+   "a": "What is tabby?",
+   "tier": 2
+  },
+  {
+   "id": "cats-18",
+   "q": "This spotted big cat of Africa and Asia is the one usually called a 'black panther' there when born with a dark coat",
+   "a": "What is the leopard?",
+   "tier": 2
+  },
+  {
+   "id": "cats-19",
+   "q": "This North American wild cat, about twice the size of a house cat, is named for its short, stubby tail",
+   "a": "What is the bobcat?",
+   "tier": 2
+  },
+  {
+   "id": "cats-20",
+   "q": "Known as a puma, mountain lion or catamount, this cat has the most extensive range of any wild land animal in the Americas, from Yukon to the Andes",
+   "a": "What is the cougar?",
+   "tier": 2
+  },
+  {
+   "id": "cats-21",
+   "q": "This breed from an island in the Irish Sea is famous for being born with no tail or just a short stub",
+   "a": "What is the Manx?",
+   "tier": 3
+  },
+  {
+   "id": "cats-22",
+   "q": "Every cat of this breed with folded-down ears traces back to Susie, a white barn cat found on a farm near Coupar Angus in 1961",
+   "a": "What is the Scottish Fold?",
+   "tier": 3
+  },
+  {
+   "id": "cats-23",
+   "q": "Because the genes for orange and black fur sit on the X chromosome, calico and tortoiseshell cats are nearly always this sex",
+   "a": "What is female?",
+   "tier": 3
+  },
+  {
+   "id": "cats-24",
+   "q": "This internet-famous cat, whose real name was Tardar Sauce, became a meme thanks to her permanently frowning face",
+   "a": "Who is Grumpy Cat?",
+   "tier": 3
+  },
+  {
+   "id": "cats-25",
+   "q": "This big cat of Central Asia's high mountains uses its long, thick tail like a blanket over its face when sleeping, yet cannot roar",
+   "a": "What is the snow leopard?",
+   "tier": 3
+  },
+  {
+   "id": "cats-26",
+   "q": "Ancient Egyptians worshipped this goddess, often shown as a woman with the head of a cat",
+   "a": "Who is Bastet?",
+   "tier": 3
+  },
+  {
+   "id": "cats-27",
+   "q": "This large, blue-eyed breed got its name from its habit of going limp and relaxed when picked up",
+   "a": "What is the Ragdoll?",
+   "tier": 3
+  },
+  {
+   "id": "cats-28",
+   "q": "This wild cat of Canada and northern Eurasia has black ear tufts and huge furry paws that work like snowshoes",
+   "a": "What is the lynx?",
+   "tier": 3
+  },
+  {
+   "id": "cats-29",
+   "q": "Based on poems by T. S. Eliot, this Andrew Lloyd Webber musical features the song 'Memory'",
+   "a": "What is 'Cats'?",
+   "tier": 3
+  },
+  {
+   "id": "cats-30",
+   "q": "This hybrid of a male lion and a female tiger is the largest known living cat",
+   "a": "What is a liger?",
+   "tier": 3
+  },
+  {
+   "id": "cats-31",
+   "q": "This reflective layer behind the retina bounces light back through the eye, making a cat's eyes glow in headlights",
+   "a": "What is the tapetum lucidum?",
+   "tier": 4
+  },
+  {
+   "id": "cats-32",
+   "q": "Cats cannot make enough of this amino acid themselves, so they need it from meat; lacking it can cause blindness and heart disease",
+   "a": "What is taurine?",
+   "tier": 4
+  },
+  {
+   "id": "cats-33",
+   "q": "This sleek breed with a 'ticked' agouti coat is named for the old name of Ethiopia",
+   "a": "What is the Abyssinian?",
+   "tier": 4
+  },
+  {
+   "id": "cats-34",
+   "q": "Lions, tigers, cheetahs and house cats all belong to this biological family",
+   "a": "What is Felidae?",
+   "tier": 4
+  },
+  {
+   "id": "cats-35",
+   "q": "Legend says the many six-toed cats at this author's former home in Key West descend from Snow White, a gift from a sea captain",
+   "a": "Who is Ernest Hemingway?",
+   "tier": 4
+  },
+  {
+   "id": "cats-36",
+   "q": "Since 2011 a tabby named Larry has held this official British title at 10 Downing Street",
+   "a": "What is Chief Mouser to the Cabinet Office?",
+   "tier": 4
+  },
+  {
+   "id": "cats-37",
+   "q": "This instinct lets a falling cat twist its body in midair so that it turns feet-down",
+   "a": "What is the righting reflex?",
+   "tier": 4
+  },
+  {
+   "id": "cats-38",
+   "q": "Cats are mostly active at dawn and dusk, making them this kind of animal rather than strictly nocturnal",
+   "a": "What is crepuscular?",
+   "tier": 4
+  },
+  {
+   "id": "cats-39",
+   "q": "This spotted breed was developed by crossing domestic cats with the Asian leopard cat",
+   "a": "What is the Bengal?",
+   "tier": 4
+  },
+  {
+   "id": "cats-40",
+   "q": "This extinct saber-toothed predator, often wrongly called a 'tiger,' is the state fossil of California",
+   "a": "What is Smilodon?",
+   "tier": 4
+  },
+  {
+   "id": "cats-41",
+   "q": "A cat curling back its lips with an open-mouthed grimace to draw scents toward its vomeronasal organ is showing this behavior",
+   "a": "What is the flehmen response?",
+   "tier": 5
+  },
+  {
+   "id": "cats-42",
+   "q": "A cat buried alongside a person about 9,500 years ago on this Mediterranean island is early evidence of cats living with humans",
+   "a": "What is Cyprus?",
+   "tier": 5
+  },
+  {
+   "id": "cats-43",
+   "q": "In 1963 this French cat became the first cat launched into space; her capsule was recovered safely after the flight",
+   "a": "Who is Félicette?",
+   "tier": 5
+  },
+  {
+   "id": "cats-44",
+   "q": "This curly-coated breed with big ears began in the 1950s with a curly-coated kitten named Kallibunker, born on a farm in southwest England",
+   "a": "What is the Cornish Rex?",
+   "tier": 5
+  },
+  {
+   "id": "cats-45",
+   "q": "Also called the manul, this stocky, fluffy wild cat of the Central Asian steppes has round pupils and a famously grumpy look",
+   "a": "What is Pallas's cat?",
+   "tier": 5
+  },
+  {
+   "id": "cats-46",
+   "q": "This long-legged wild cat with black-tufted ears takes its name from Turkish words meaning 'black ear'",
+   "a": "What is the caracal?",
+   "tier": 5
+  },
+  {
+   "id": "cats-47",
+   "q": "Africa's smallest wild cat, this tiny southern African hunter has dark soles on its feet",
+   "a": "What is the black-footed cat?",
+   "tier": 5
+  },
+  {
+   "id": "cats-48",
+   "q": "This small spotted cat of Central and South American forests can rotate its ankles to climb down trees headfirst",
+   "a": "What is the margay?",
+   "tier": 5
+  },
+  {
+   "id": "cats-49",
+   "q": "The domestic cat descends from this wild cat, Felis lybica, of the Near East and Africa",
+   "a": "What is the African wildcat?",
+   "tier": 5
+  },
+  {
+   "id": "cats-50",
+   "q": "This Asian rainforest cat has the longest canine teeth relative to body size of any living cat",
+   "a": "What is the clouded leopard?",
+   "tier": 5
+  }
+ ]
+}

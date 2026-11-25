@@ -1,0 +1,308 @@
+{
+ "category": "Architecture",
+ "slug": "architecture",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "architecture-01",
+   "q": "This American architect designed Fallingwater, a Pennsylvania house built right over a waterfall",
+   "a": "Who is Frank Lloyd Wright?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-02",
+   "q": "This curved structure, used by the Romans in bridges and aqueducts, spans an opening and carries the weight above it",
+   "a": "What is an arch?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-03",
+   "q": "These tall upright supports, often round, line the outside of ancient Greek temples like the Parthenon",
+   "a": "What are columns?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-04",
+   "q": "This rounded roof, shaped like half a sphere, crowns the U.S. Capitol and St. Peter's Basilica",
+   "a": "What is a dome?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-05",
+   "q": "These carved stone monsters on Gothic cathedrals are actually rain spouts that throw water away from the walls",
+   "a": "What are gargoyles?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-06",
+   "q": "This medieval style of pointed arches, ribbed vaults and huge stained-glass windows fills cathedrals like Notre-Dame de Paris",
+   "a": "What is Gothic?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-07",
+   "q": "This kind of very tall, many-storied building is often said to have been born in Chicago in the 1880s",
+   "a": "What is a skyscraper?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-08",
+   "q": "These technical drawings of building plans got their name from a copying process that made white lines on a blue background",
+   "a": "What are blueprints?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-09",
+   "q": "This room or space right under the roof of a house is often used for storage",
+   "a": "What is an attic?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-10",
+   "q": "Inuit hunters traditionally built this dome-shaped shelter out of blocks of snow",
+   "a": "What is an igloo?",
+   "tier": 1
+  },
+  {
+   "id": "architecture-11",
+   "q": "This Chinese-American architect designed the glass pyramid entrance of the Louvre in Paris",
+   "a": "Who is I. M. Pei?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-12",
+   "q": "This triangular section of wall sits at the end of a pitched roof, between the two sloping sides",
+   "a": "What is a gable?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-13",
+   "q": "These external arched supports carry the push of a cathedral's vaults out to piers, letting Gothic walls rise tall and thin",
+   "a": "What are flying buttresses?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-14",
+   "q": "This simplest Greek column order has a plain, cushion-like capital and, in Greece, no base",
+   "a": "What is Doric?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-15",
+   "q": "Named after a 1925 Paris exhibition, this sleek, geometric style shows up in New York's Chrysler Building",
+   "a": "What is Art Deco?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-16",
+   "q": "This slender tower of a mosque was traditionally where the call to prayer was given",
+   "a": "What is a minaret?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-17",
+   "q": "This Catalan architect's Sagrada Família in Barcelona has been under construction since 1882",
+   "a": "Who is Antoni Gaudí?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-18",
+   "q": "This wedge-shaped stone at the very top of an arch locks all the others into place",
+   "a": "What is a keystone?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-19",
+   "q": "This word, borrowed from French, names the front or main outside face of a building",
+   "a": "What is a facade?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-20",
+   "q": "This building material of sun-dried mud mixed with straw is used in the pueblos of the American Southwest",
+   "a": "What is adobe?",
+   "tier": 2
+  },
+  {
+   "id": "architecture-21",
+   "q": "Inspired by ancient Greece and Rome, this 18th- and 19th-century style is seen in the U.S. Capitol and the White House",
+   "a": "What is neoclassical?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-22",
+   "q": "This most ornate classical column order has a capital decorated with carved acanthus leaves",
+   "a": "What is Corinthian?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-23",
+   "q": "In 2004 this Iraqi-British architect, known for flowing curved buildings, became the first woman to win the Pritzker Prize",
+   "a": "Who is Zaha Hadid?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-24",
+   "q": "Founded by Walter Gropius in Germany in 1919, this design school gave its name to a clean, functional modernist look",
+   "a": "What is the Bauhaus?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-25",
+   "q": "This beam or structure is anchored at only one end, like a balcony sticking out with no posts beneath it",
+   "a": "What is a cantilever?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-26",
+   "q": "This Canadian-born architect designed the swooping, titanium-clad Guggenheim Museum in Bilbao, Spain",
+   "a": "Who is Frank Gehry?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-27",
+   "q": "This style of massive, blocky buildings with rough exposed concrete takes its name partly from the French 'béton brut'",
+   "a": "What is Brutalism?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-28",
+   "q": "After the Great Fire of London in 1666, this architect designed the new St Paul's Cathedral",
+   "a": "Who is Christopher Wren?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-29",
+   "q": "This long central part of a church, where the congregation sits, gets its name from the Latin word for 'ship'",
+   "a": "What is the nave?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-30",
+   "q": "Bernini's sweeping colonnade at St. Peter's Square is a showpiece of this dramatic, curvy 17th-century style",
+   "a": "What is Baroque?",
+   "tier": 3
+  },
+  {
+   "id": "architecture-31",
+   "q": "In the post-and-beam system, this horizontal block or beam spans the top of a door or window opening",
+   "a": "What is a lintel?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-32",
+   "q": "This Swiss-French architect, born Charles-Édouard Jeanneret, called a house 'a machine for living in'",
+   "a": "Who is Le Corbusier?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-33",
+   "q": "This German-American modernist, the last director of the Bauhaus, is linked to the motto 'less is more'",
+   "a": "Who is Ludwig Mies van der Rohe?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-34",
+   "q": "This Renaissance architect engineered the enormous brick dome of Florence Cathedral without a full wooden support frame",
+   "a": "Who is Filippo Brunelleschi?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-35",
+   "q": "Often called the first architect known by name, this Egyptian official is credited with Pharaoh Djoser's Step Pyramid",
+   "a": "Who is Imhotep?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-36",
+   "q": "This round opening at the top of a dome, from the Latin for 'eye,' lets light pour into Rome's Pantheon",
+   "a": "What is an oculus?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-37",
+   "q": "Often called a 'father of skyscrapers,' this Chicago architect coined the phrase 'form follows function'",
+   "a": "Who is Louis Sullivan?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-38",
+   "q": "This medieval style that came before Gothic is known for thick walls, round arches and sturdy piers",
+   "a": "What is Romanesque?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-39",
+   "q": "Often called architecture's Nobel, this annual award was established in 1979 and is sponsored by the Hyatt Foundation",
+   "a": "What is the Pritzker Prize?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-40",
+   "q": "This Danish architect won the 1957 competition to design the Sydney Opera House but quit the project before it was finished",
+   "a": "Who is Jørn Utzon?",
+   "tier": 4
+  },
+  {
+   "id": "architecture-41",
+   "q": "This Roman architect wrote 'De architectura,' which says good buildings need strength, usefulness and beauty",
+   "a": "Who is Vitruvius?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-42",
+   "q": "This upper row of windows, set above the roofs of a church's side aisles, lets daylight into the nave",
+   "a": "What is the clerestory?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-43",
+   "q": "This flat, rectangular column projects only slightly from a wall and is mostly decorative",
+   "a": "What is a pilaster?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-44",
+   "q": "In classical architecture, this horizontal band resting on top of the columns is made of the architrave, frieze and cornice",
+   "a": "What is the entablature?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-45",
+   "q": "Reacting against the plain glass boxes of the International Style, this movement brought back playful ornament; Robert Venturi quipped 'less is a bore'",
+   "a": "What is postmodernism?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-46",
+   "q": "Led by Frank Lloyd Wright, this style of low, horizontal houses with wide overhanging eaves was meant to echo the flat Midwest landscape",
+   "a": "What is the Prairie School?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-47",
+   "q": "This four-sided, double-sloped design, steeper below and shallower above, is named after a 17th-century French architect and tops many Paris buildings",
+   "a": "What is a mansard roof?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-48",
+   "q": "This self-taught Japanese architect, a former boxer, is known for smooth concrete buildings like the Church of the Light",
+   "a": "Who is Tadao Ando?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-49",
+   "q": "The first woman licensed as an architect in California, she designed William Randolph Hearst's castle at San Simeon",
+   "a": "Who is Julia Morgan?",
+   "tier": 5
+  },
+  {
+   "id": "architecture-50",
+   "q": "This 16th-century Italian architect wrote 'The Four Books of Architecture,' and his villas near Venice inspired a style named for him",
+   "a": "Who is Andrea Palladio?",
+   "tier": 5
+  }
+ ]
+}

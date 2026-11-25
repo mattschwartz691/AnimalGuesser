@@ -1,0 +1,308 @@
+{
+ "category": "Memes",
+ "slug": "memes",
+ "group": "Entertainment",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "memes-01",
+   "q": "Tricking someone into clicking a disguised link that leads to the music video for 'Never Gonna Give You Up' is called this",
+   "a": "What is Rickrolling?",
+   "tier": 1
+  },
+  {
+   "id": "memes-02",
+   "q": "This frowning feline, real name Tardar Sauce, became an internet star after her photos were posted to Reddit in 2012",
+   "a": "Who is Grumpy Cat?",
+   "tier": 1
+  },
+  {
+   "id": "memes-03",
+   "q": "This meme pairs a Shiba Inu's sideways glance with broken phrases like 'such wow' and 'very amaze' in colorful Comic Sans",
+   "a": "What is Doge?",
+   "tier": 1
+  },
+  {
+   "id": "memes-04",
+   "q": "In this 2014 viral fad, people doused themselves with freezing water on camera to raise awareness of ALS",
+   "a": "What is the Ice Bucket Challenge?",
+   "tier": 1
+  },
+  {
+   "id": "memes-05",
+   "q": "This 2011 animated GIF shows a feline with a Pop-Tart body flying through space, trailing a rainbow",
+   "a": "What is Nyan Cat?",
+   "tier": 1
+  },
+  {
+   "id": "memes-06",
+   "q": "In this 2013 webcomic panel turned meme, a cartoon dog in a hat sits calmly with a mug while the room around him is on fire",
+   "a": "What is \"This is fine\"?",
+   "tier": 1
+  },
+  {
+   "id": "memes-07",
+   "q": "In this photo fad that peaked in 2011, people lay face-down, stiff as a board, with arms at their sides in odd places",
+   "a": "What is planking?",
+   "tier": 1
+  },
+  {
+   "id": "memes-08",
+   "q": "In this 2013 video craze, one masked person dances alone until the bass drops, then a whole crowd goes wild in costumes",
+   "a": "What is the Harlem Shake?",
+   "tier": 1
+  },
+  {
+   "id": "memes-09",
+   "q": "In 2015 the internet argued over whether this piece of clothing in a viral photo was white and gold or blue and black",
+   "a": "What is the dress?",
+   "tier": 1
+  },
+  {
+   "id": "memes-10",
+   "q": "In this 2016 video trend, groups froze perfectly still in action poses while a camera moved among them",
+   "a": "What is the Mannequin Challenge?",
+   "tier": 1
+  },
+  {
+   "id": "memes-11",
+   "q": "In this 2017 stock-photo meme, a man turns to check out a passing woman while his girlfriend glares at him in disbelief",
+   "a": "What is Distracted Boyfriend?",
+   "tier": 2
+  },
+  {
+   "id": "memes-12",
+   "q": "This reaction meme uses a still of a yellow electric Pokémon with its mouth hanging open in shock",
+   "a": "What is Surprised Pikachu?",
+   "tier": 2
+  },
+  {
+   "id": "memes-13",
+   "q": "This 2017 meme shows a hunched, chicken-like Bikini Bottom sponge next to text in aLtErNaTiNg CaPiTaLs",
+   "a": "What is Mocking SpongeBob?",
+   "tier": 2
+  },
+  {
+   "id": "memes-14",
+   "q": "This 2019 meme pairs a tearful 'Real Housewives' star pointing angrily with a white feline frowning behind a plate of vegetables",
+   "a": "What is \"Woman Yelling at a Cat\"?",
+   "tier": 2
+  },
+  {
+   "id": "memes-15",
+   "q": "This two-panel image macro shows a Canadian rapper in a puffy jacket rejecting one thing with his hand, then pointing at another",
+   "a": "What is Drakeposting (the 'Hotline Bling' format)?",
+   "tier": 2
+  },
+  {
+   "id": "memes-16",
+   "q": "This feline in a blue shirt 'plays' a synthesizer in a video used to 'play off' people's online fails",
+   "a": "Who is Keyboard Cat?",
+   "tier": 2
+  },
+  {
+   "id": "memes-17",
+   "q": "This mischievous grinning face, drawn in Microsoft Paint in 2008, became the symbol of internet pranksters",
+   "a": "What is Trollface?",
+   "tier": 2
+  },
+  {
+   "id": "memes-18",
+   "q": "In this 2016 fad, people tossed a partly filled plastic water container so it spun in the air and landed upright",
+   "a": "What is bottle flipping?",
+   "tier": 2
+  },
+  {
+   "id": "memes-19",
+   "q": "In 2018 people fought over whether a short audio clip of a robotic voice said this name or that one",
+   "a": "What is Yanny or Laurel?",
+   "tier": 2
+  },
+  {
+   "id": "memes-20",
+   "q": "From a 1960s cartoon, this meme shows a web-slinging hero and his identical impostor gesturing accusingly at each other",
+   "a": "What is Spider-Man pointing at Spider-Man?",
+   "tier": 2
+  },
+  {
+   "id": "memes-21",
+   "q": "This 'World of Warcraft' player became a legend by yelling his own name and charging in, ruining his team's careful plan",
+   "a": "Who is Leeroy Jenkins?",
+   "tier": 3
+  },
+  {
+   "id": "memes-22",
+   "q": "This name went to a chubby version of Bugs Bunny from a 1941 cartoon, which became a meme in 2018",
+   "a": "What is Big Chungus?",
+   "tier": 3
+  },
+  {
+   "id": "memes-23",
+   "q": "This five-second 2007 clip shows a rodent, actually a prairie dog, whipping its head toward the camera to ominous music",
+   "a": "What is Dramatic Chipmunk?",
+   "tier": 3
+  },
+  {
+   "id": "memes-24",
+   "q": "These funny feline photos with misspelled captions inspired the website 'I Can Has Cheezburger?'",
+   "a": "What are lolcats?",
+   "tier": 3
+  },
+  {
+   "id": "memes-25",
+   "q": "These satirical claims about a martial-arts action star include the claim that he can divide by zero",
+   "a": "What are Chuck Norris facts?",
+   "tier": 3
+  },
+  {
+   "id": "memes-26",
+   "q": "This meme quotes Sean Bean's Boromir in 'The Fellowship of the Ring' warning that entering Sauron's realm is not easy",
+   "a": "What is \"One does not simply walk into Mordor\"?",
+   "tier": 3
+  },
+  {
+   "id": "memes-27",
+   "q": "This meme shows a determined toddler on a beach clenching a fist full of sand, used to celebrate small victories",
+   "a": "What is Success Kid?",
+   "tier": 3
+  },
+  {
+   "id": "memes-28",
+   "q": "Guards in 'Skyrim' say 'I used to be an adventurer like you' before blaming their retirement on this injury",
+   "a": "What is an arrow in the knee?",
+   "tier": 3
+  },
+  {
+   "id": "memes-29",
+   "q": "This meme ranks ideas from dull to 'enlightened' alongside drawings of a human head glowing brighter and bigger",
+   "a": "What is Expanding Brain?",
+   "tier": 3
+  },
+  {
+   "id": "memes-30",
+   "q": "This 2018 animated meme shows a simple white cartoon feline tapping its paws on a desk or drums in time to music",
+   "a": "What is Bongo Cat?",
+   "tier": 3
+  },
+  {
+   "id": "memes-31",
+   "q": "This mangled English line from the European Sega Mega Drive version of 'Zero Wing' became an early internet catchphrase",
+   "a": "What is \"All your base are belong to us\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-32",
+   "q": "This 3D-animated diapered infant doing the cha-cha became one of the first viral videos and appeared on 'Ally McBeal'",
+   "a": "What is the Dancing Baby?",
+   "tier": 4
+  },
+  {
+   "id": "memes-33",
+   "q": "In the English dub of 'Dragon Ball Z,' Vegeta crushes his scouter while shouting this about Goku's power level",
+   "a": "What is \"It's over 9000!\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-34",
+   "q": "This advice from Peppy Hare in 'Star Fox 64' became a meme, and typing it into Google makes the results page spin",
+   "a": "What is \"Do a barrel roll\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-35",
+   "q": "This phrase from the 2007 game 'Portal' refers to a dessert promised to the player as a reward",
+   "a": "What is \"The cake is a lie\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-36",
+   "q": "A 2014 'Call of Duty: Advanced Warfare' funeral scene that told players to hit a key to show sympathy spawned this meme",
+   "a": "What is \"Press F to pay respects\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-37",
+   "q": "In this meme from the 1991 anime 'The Brave Fighter of Sun Fighbird,' the bespectacled hero points at a butterfly and misidentifies it",
+   "a": "What is \"Is this a pigeon\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-38",
+   "q": "This cryptocurrency, created in 2013 as a joke, uses the Shiba Inu from a famous meme as its logo",
+   "a": "What is Dogecoin?",
+   "tier": 4
+  },
+  {
+   "id": "memes-39",
+   "q": "A bald 3D-rendered head called Meme Man stands in front of a stock-market chart in this deliberately misspelled meme",
+   "a": "What is Stonks?",
+   "tier": 4
+  },
+  {
+   "id": "memes-40",
+   "q": "Tay Zonday's deep-voiced 2007 YouTube hit came with the caption 'I move away from the mic to breathe in'",
+   "a": "What is \"Chocolate Rain\"?",
+   "tier": 4
+  },
+  {
+   "id": "memes-41",
+   "q": "This late-1990s web page featured rows of animated rodent GIFs bopping to a sped-up clip of a Disney 'Robin Hood' song",
+   "a": "What is the Hampster Dance?",
+   "tier": 5
+  },
+  {
+   "id": "memes-42",
+   "q": "In this 2003 looping Flash animation by Weebl, a chant is interrupted by cries of 'Mushroom, mushroom!' and 'A snake!'",
+   "a": "What is Badger Badger Badger?",
+   "tier": 5
+  },
+  {
+   "id": "memes-43",
+   "q": "This 2002 Flash-era hit featured a pixelated dancing banana grooving to a Buckwheat Boyz song",
+   "a": "What is Peanut Butter Jelly Time?",
+   "tier": 5
+  },
+  {
+   "id": "memes-44",
+   "q": "This nickname went to Sergey Stepanov of Moldova's SunStroke Project after his solo at Eurovision 2010",
+   "a": "Who is Epic Sax Guy?",
+   "tier": 5
+  },
+  {
+   "id": "memes-45",
+   "q": "This nickname for a wordless song sung by Soviet baritone Eduard Khil went viral in 2010",
+   "a": "What is Trololo?",
+   "tier": 5
+  },
+  {
+   "id": "memes-46",
+   "q": "This Shiba Inu, owned by Japanese kindergarten teacher Atsuko Sato, became the face of the Doge meme",
+   "a": "Who is Kabosu?",
+   "tier": 5
+  },
+  {
+   "id": "memes-47",
+   "q": "Equations float around Brazilian actress Renata Sorrah's puzzled face in this meme taken from a 2004 telenovela",
+   "a": "What is Math Lady?",
+   "tier": 5
+  },
+  {
+   "id": "memes-48",
+   "q": "In this group's 2007 viral video 'The Mysterious Ticking Noise,' Hogwarts characters sing their own names, starting with 'Snape, Snape, Severus Snape'",
+   "a": "What are the Potter Puppet Pals?",
+   "tier": 5
+  },
+  {
+   "id": "memes-49",
+   "q": "In this 2005 animated short by Jason Steele, a horned hero is lured to Candy Mountain and loses a kidney",
+   "a": "Who is Charlie the Unicorn?",
+   "tier": 5
+  },
+  {
+   "id": "memes-50",
+   "q": "In this 2006 looping animation, Orihime from the anime 'Bleach' twirls a vegetable to a Finnish quartet's scat singing",
+   "a": "What is Leekspin (Loituma Girl)?",
+   "tier": 5
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "category": "Literary Characters",
+ "slug": "literary-characters",
+ "group": "Arts & Language",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "literary-characters-01",
+   "q": "This girl from District 12 volunteers to take her younger sister Prim's place in a deadly televised contest",
+   "a": "Who is Katniss Everdeen?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-02",
+   "q": "In Rick Riordan's 'The Lightning Thief,' this 12-year-old learns he is a demigod son of Poseidon",
+   "a": "Who is Percy Jackson?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-03",
+   "q": "Jeff Kinney's middle-schooler who keeps a journal, not a diary, alongside his best friend Rowley",
+   "a": "Who is Greg Heffley?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-04",
+   "q": "In a Roald Dahl novel, this poor boy finds the last Golden Ticket and wins a tour of Willy Wonka's factory",
+   "a": "Who is Charlie Bucket?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-05",
+   "q": "This pipe-smoking detective lives at 221B Baker Street with his friend Dr. Watson",
+   "a": "Who is Sherlock Holmes?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-06",
+   "q": "This miser who grumbles 'Bah! Humbug!' is visited by the ghost of Jacob Marley and three Christmas spirits",
+   "a": "Who is Ebenezer Scrooge?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-07",
+   "q": "A. A. Milne's honey-loving 'bear of very little brain' lives in the Hundred Acre Wood with Piglet",
+   "a": "Who is Winnie-the-Pooh?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-08",
+   "q": "This green Dr. Seuss grump lives above Whoville and has a heart 'two sizes too small'",
+   "a": "Who is the Grinch?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-09",
+   "q": "This boy who refuses to grow up whisks Wendy Darling and her brothers off to Neverland",
+   "a": "Who is Peter Pan?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-10",
+   "q": "In Shakespeare's tragedy set in Verona, this young Montague falls for the daughter of his family's enemies",
+   "a": "Who is Romeo?",
+   "tier": 1
+  },
+  {
+   "id": "literary-characters-11",
+   "q": "This brilliant girl who loves books develops telekinetic powers and outwits the headmistress Miss Trunchbull",
+   "a": "Who is Matilda Wormwood?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-12",
+   "q": "Gandalf recruits this comfortable hobbit of Bag End to help thirteen dwarves reclaim their treasure from Smaug",
+   "a": "Who is Bilbo Baggins?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-13",
+   "q": "A cyclone carries this Kansas girl and her dog Toto to the Land of Oz",
+   "a": "Who is Dorothy Gale?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-14",
+   "q": "Alice meets this grinning feline who can vanish until only his smile remains",
+   "a": "Who is the Cheshire Cat?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-15",
+   "q": "In C. S. Lewis's Narnia books, this great lion is the true king who defeats the White Witch",
+   "a": "Who is Aslan?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-16",
+   "q": "In E. B. White's novel, this clever spider writes 'Some Pig' in her web to save Wilbur",
+   "a": "Who is Charlotte?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-17",
+   "q": "In Rudyard Kipling's stories, this 'man-cub' is raised by wolves and taught by Baloo the bear",
+   "a": "Who is Mowgli?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-18",
+   "q": "This boy with a palindromic name is sent to Camp Green Lake to dig holes in Louis Sachar's novel",
+   "a": "Who is Stanley Yelnats?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-19",
+   "q": "Mark Twain's mischievous boy from St. Petersburg, Missouri, tricks his friends into whitewashing a fence for him",
+   "a": "Who is Tom Sawyer?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-20",
+   "q": "This marmalade-loving creature from 'darkest Peru' in a duffle coat is found at a London railway station",
+   "a": "Who is Paddington Bear?",
+   "tier": 2
+  },
+  {
+   "id": "literary-characters-21",
+   "q": "In Harper Lee's novel, this lawyer in Maycomb, Alabama, defends an innocent Black man and raises Scout and Jem",
+   "a": "Who is Atticus Finch?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-22",
+   "q": "This peg-legged commander of the Pequod is obsessed with hunting the white whale that took his leg",
+   "a": "Who is Captain Ahab?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-23",
+   "q": "This mysterious millionaire throws lavish parties at his West Egg mansion and gazes at a green light across the bay",
+   "a": "Who is Jay Gatsby?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-24",
+   "q": "The second of five sisters, this witty heroine first rejects the proud Mr. Darcy in a Jane Austen novel",
+   "a": "Who is Elizabeth Bennet?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-25",
+   "q": "Expelled from Pencey Prep, this teen in a red hunting hat wanders New York City in J. D. Salinger's novel",
+   "a": "Who is Holden Caulfield?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-26",
+   "q": "In Mary Shelley's novel, this Swiss scientist brings a creature to life and then flees from his creation",
+   "a": "Who is Victor Frankenstein?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-27",
+   "q": "The tomboyish, book-writing second of the four sisters in Louisa May Alcott's 'Little Women'",
+   "a": "Who is Jo March?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-28",
+   "q": "This one-legged ship's cook with a parrot named Captain Flint leads a pirate mutiny in Robert Louis Stevenson's novel",
+   "a": "Who is Long John Silver?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-29",
+   "q": "In Lois Lowry's 'The Giver,' this 12-year-old is chosen as the community's new Receiver of Memory",
+   "a": "Who is Jonas?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-30",
+   "q": "In S. E. Hinton's novel, this 14-year-old Greaser narrator is told to 'stay gold' by his friend Johnny",
+   "a": "Who is Ponyboy Curtis?",
+   "tier": 3
+  },
+  {
+   "id": "literary-characters-31",
+   "q": "In Nathaniel Hawthorne's novel, this woman in Puritan Boston is forced to wear a red letter A on her dress",
+   "a": "Who is Hester Prynne?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-32",
+   "q": "Imprisoned for stealing bread, this ex-convict known as prisoner 24601 is pursued by Inspector Javert",
+   "a": "Who is Jean Valjean?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-33",
+   "q": "Victor Hugo's deaf, hunchbacked bell-ringer of Notre-Dame Cathedral loves the dancer Esmeralda",
+   "a": "Who is Quasimodo?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-34",
+   "q": "This precise English gentleman bets his fellow Reform Club members he can circle the globe in 80 days",
+   "a": "Who is Phileas Fogg?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-35",
+   "q": "This Scottish noblewoman urges her husband to murder King Duncan, then sleepwalks trying to wash away imaginary blood",
+   "a": "Who is Lady Macbeth?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-36",
+   "q": "In Washington Irving's tale, this lanky schoolteacher is chased by the Headless Horseman",
+   "a": "Who is Ichabod Crane?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-37",
+   "q": "In Emily Brontë's novel, this brooding foundling is taken in by the Earnshaws and loves Catherine",
+   "a": "Who is Heathcliff?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-38",
+   "q": "Jilted on her wedding day, this wealthy recluse in 'Great Expectations' still wears her bridal gown and has stopped every clock",
+   "a": "Who is Miss Havisham?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-39",
+   "q": "In George Orwell's '1984,' this Ministry of Truth worker secretly keeps a diary and rebels against Big Brother",
+   "a": "Who is Winston Smith?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-40",
+   "q": "In 'The Hitchhiker's Guide to the Galaxy,' this Englishman in a dressing gown escapes Earth's demolition with Ford Prefect",
+   "a": "Who is Arthur Dent?",
+   "tier": 4
+  },
+  {
+   "id": "literary-characters-41",
+   "q": "In Franz Kafka's novella 'The Metamorphosis,' this traveling salesman wakes up transformed into a giant insect",
+   "a": "Who is Gregor Samsa?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-42",
+   "q": "Wrongly jailed in the Château d'If, this sailor escapes and reinvents himself as the Count of Monte Cristo",
+   "a": "Who is Edmond Dantès?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-43",
+   "q": "In 'Crime and Punishment,' this poor former student in St. Petersburg commits a murder and is tormented by guilt",
+   "a": "Who is Rodion Raskolnikov?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-44",
+   "q": "Gustave Flaubert's restless doctor's wife whose romantic daydreams lead her into ruinous debt",
+   "a": "Who is Emma Bovary?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-45",
+   "q": "Herman Melville's Wall Street copyist answers his boss's requests with 'I would prefer not to'",
+   "a": "Who is Bartleby?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-46",
+   "q": "This World War II bombardier in Joseph Heller's satire keeps trying to get out of flying more missions",
+   "a": "Who is Yossarian?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-47",
+   "q": "In Chinua Achebe's 'Things Fall Apart,' this proud Igbo wrestler and leader of Umuofia fears being seen as weak",
+   "a": "Who is Okonkwo?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-48",
+   "q": "In Edmond Rostand's 1897 play, this swordsman-poet with an enormous nose writes love letters to Roxane for another man",
+   "a": "Who is Cyrano de Bergerac?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-49",
+   "q": "In E. L. Konigsburg's novel, this girl runs away with her brother Jamie to live in the Metropolitan Museum of Art",
+   "a": "Who is Claudia Kincaid?",
+   "tier": 5
+  },
+  {
+   "id": "literary-characters-50",
+   "q": "In Philip Pullman's 'Northern Lights,' this Oxford girl reads the truth-telling alethiometer with her daemon Pantalaimon",
+   "a": "Who is Lyra Belacqua?",
+   "tier": 5
+  }
+ ]
+}

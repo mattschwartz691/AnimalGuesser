@@ -19,7 +19,7 @@ the game fetches its data file. The photos themselves stream from the internet.)
 A third game at `web/buzzboard.html`: a quiz board for a living room. The
 switcher at the top right (Animals · Things · Buzzboard) moves between all three.
 
-- **Title screen:** pick 1–10 teams and name them, then pick 5 of 61 categories.
+- **Title screen:** pick 1–10 teams and name them, then pick 5 of 71 categories.
   The order you pick them is the order of the columns.
 - **Board:** 5 columns × 200/400/600/800/1000, harder as the points go up. A square
   shows only its value; click it for the clue. **Space** shows the answer
@@ -69,7 +69,7 @@ The code is in `web/buzzboard-live.js`.
 | Questions | Where they come from |
 |---|---|
 | 11 original categories (Countries & Territories, US History, World History, Literature, Authors, Animals, Myths, Movies, Actors, Birds: 100 each; Word Meanings: 1,200) | Adapted from English Wikipedia leads (CC BY-SA 4.0) and Wikidata (CC0); word meanings from WordNet, tiered by word frequency |
-| 50 teen-friendly categories, 50 each (Video Games, Star Wars, Basketball, Space, Flags, Presidents, Candy & Snacks, Art & Artists, …) | Written for Buzzboard; dates and numbers spot-checked against Wikipedia where its API allowed |
+| 60 teen-friendly categories, 50 each (Video Games, Star Wars, Basketball, Lacrosse, Space, Cats, Invertebrates, Flags, Presidents, Memes, Literary Characters, Candy & Snacks, Art & Artists, …) | Written for Buzzboard; dates and numbers spot-checked against Wikipedia where its API allowed |
 
 The questions live in `data/buzzboard/` (one JSON file per category plus
 `index.json`). They are built in a separate project and copied here by its

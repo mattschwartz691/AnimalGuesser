@@ -1,0 +1,308 @@
+{
+ "category": "Invertebrates",
+ "slug": "invertebrates",
+ "group": "Science",
+ "source": "Written for Buzzboard",
+ "clues": [
+  {
+   "id": "invertebrates-01",
+   "q": "This soft-bodied sea animal, whose name comes from Greek for 'eight feet,' can squirt ink and squeeze through tiny gaps",
+   "a": "What is an octopus?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-02",
+   "q": "These eight-legged arachnids spin silk to build webs that trap their prey",
+   "a": "What are spiders?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-03",
+   "q": "This insect begins life as a caterpillar and forms a chrysalis before emerging with colorful, scaly wings",
+   "a": "What is a butterfly?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-04",
+   "q": "These brainless, bell-shaped drifters trail stinging tentacles and are mostly water",
+   "a": "What are jellyfish?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-05",
+   "q": "This slimy, shell-less land mollusk is often a pest that munches on garden lettuce",
+   "a": "What is a slug?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-06",
+   "q": "This echinoderm, usually with five arms, can regrow lost limbs and eats clams by pushing its stomach out of its body",
+   "a": "What is a starfish (sea star)?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-07",
+   "q": "These social insects make honey and beeswax in hives that are run by a single queen",
+   "a": "What are honeybees?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-08",
+   "q": "This big-clawed crustacean, famous on menus in Maine, turns bright red when it is cooked",
+   "a": "What is a lobster?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-09",
+   "q": "Charles Darwin wrote a whole book about how these legless, segmented burrowers turn over and enrich soil",
+   "a": "What are earthworms?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-10",
+   "q": "This ten-legged crustacean, with two front claws and a wide flat shell, is famous for scuttling sideways",
+   "a": "What is a crab?",
+   "tier": 1
+  },
+  {
+   "id": "invertebrates-11",
+   "q": "This slow-moving mollusk carries a coiled shell on its back and glides on a trail of mucus",
+   "a": "What is a snail?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-12",
+   "q": "Once mistaken for plants, these sea animals live as colonies of tiny polyps and build reefs such as Australia's Great Barrier Reef",
+   "a": "What are corals?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-13",
+   "q": "This fast-swimming cephalopod has eight arms plus two long feeding tentacles, and its rings are fried and served as calamari",
+   "a": "What is a squid?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-14",
+   "q": "This beetle, also called a lightning bug, flashes light from its abdomen to attract mates",
+   "a": "What is a firefly?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-15",
+   "q": "These simple animals have no organs, nerves or muscles and live by pumping water through the pores in their bodies",
+   "a": "What are sponges?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-16",
+   "q": "The female of this venomous spider is glossy and dark with a red hourglass mark on her underside",
+   "a": "What is a black widow?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-17",
+   "q": "For centuries doctors used this bloodsucking segmented worm for bloodletting, and some surgeons still use it today",
+   "a": "What is a leech?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-18",
+   "q": "These arachnids have grasping pincers and a curled tail tipped with a stinger, and they glow under ultraviolet light",
+   "a": "What are scorpions?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-19",
+   "q": "This shelled mollusk, often eaten raw on the half shell, can form a pearl around an irritant inside it",
+   "a": "What is an oyster?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-20",
+   "q": "This spiny, ball-shaped echinoderm grazes on kelp, and its gonads are eaten as 'uni' in sushi",
+   "a": "What is a sea urchin?",
+   "tier": 2
+  },
+  {
+   "id": "invertebrates-21",
+   "q": "This fast, venomous arthropod has one pair of legs per body segment and, because it always has an odd number of pairs, never exactly 100 legs",
+   "a": "What is a centipede?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-22",
+   "q": "This slow arthropod has two pairs of legs on most body segments and coils into a tight spiral when threatened",
+   "a": "What is a millipede?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-23",
+   "q": "This small cephalopod of the Pacific and Indian oceans flashes glowing circles when alarmed and carries deadly tetrodotoxin",
+   "a": "What is the blue-ringed octopus?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-24",
+   "q": "Sometimes called a 'sea wasp,' this cube-shaped cnidarian has eyes and is among the most venomous animals on Earth",
+   "a": "What is the box jellyfish?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-25",
+   "q": "Nicknamed 'water bears' or 'moss piglets,' these microscopic eight-legged animals have survived exposure to outer space",
+   "a": "What are tardigrades?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-26",
+   "q": "These small shrimplike crustaceans swarm in the Southern Ocean and are a main food of blue whales",
+   "a": "What is krill?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-27",
+   "q": "This crustacean protects its soft abdomen inside an empty snail shell and moves into a bigger one as it grows",
+   "a": "What is a hermit crab?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-28",
+   "q": "This insect ambushes prey with spiny, folded front legs and can swivel its triangular head to look over its 'shoulder'",
+   "a": "What is a praying mantis?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-29",
+   "q": "This tiny blood-feeding arachnid can transmit Lyme disease to people who walk through tall grass",
+   "a": "What is a tick?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-30",
+   "q": "Each fall, millions of these orange-and-black insects fly thousands of kilometers to spend the winter in the mountains of central Mexico",
+   "a": "What is the monarch butterfly?",
+   "tier": 3
+  },
+  {
+   "id": "invertebrates-31",
+   "q": "This group, whose name means 'spiny skin,' includes sea stars, sea urchins and sea cucumbers",
+   "a": "What are echinoderms?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-32",
+   "q": "These often brilliantly colored, shell-less sea slugs can store the stinging cells of the prey they eat for their own defense",
+   "a": "What are nudibranchs?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-33",
+   "q": "The heaviest invertebrate known, this Southern Ocean cephalopod can top 450 kg and has the largest eyes in the animal kingdom",
+   "a": "What is the colossal squid?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-34",
+   "q": "More closely related to spiders than to the crustaceans it resembles, this 'living fossil' has blue blood used to test medicines for bacterial toxins",
+   "a": "What is the horseshoe crab?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-35",
+   "q": "This drifting stinger with a gas-filled float looks like a jellyfish but is a siphonophore, a colony of many specialized zooids",
+   "a": "What is the Portuguese man o' war?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-36",
+   "q": "This colorful crustacean, with some of the most complex eyes known, smashes snails with club-like limbs so fast that the water forms cavitation bubbles",
+   "a": "What is the mantis shrimp?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-37",
+   "q": "These red-plumed animals at deep-sea hydrothermal vents have no mouth or gut and rely on bacteria living inside them for food",
+   "a": "What are giant tube worms?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-38",
+   "q": "This sausage-shaped seafloor echinoderm can expel some of its internal organs to distract predators, then regrow them",
+   "a": "What is a sea cucumber?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-39",
+   "q": "This cephalopod with a W-shaped pupil has an internal shell, or 'bone,' that is often hung in birdcages",
+   "a": "What is a cuttlefish?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-40",
+   "q": "This 'living fossil' cephalopod lives in a coiled, chambered outer shell and controls its buoyancy with gas in those chambers",
+   "a": "What is the nautilus?",
+   "tier": 4
+  },
+  {
+   "id": "invertebrates-41",
+   "q": "In 1998 this tiny transparent roundworm, a favorite lab animal, became the first multicellular organism to have its whole genome sequenced",
+   "a": "What is Caenorhabditis elegans?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-42",
+   "q": "These flatworms can regrow a complete animal, head and all, from just a small fragment of their body",
+   "a": "What are planarians?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-43",
+   "q": "These specialized cells of jellyfish, corals and sea anemones fire a harpoon-like thread to sting prey",
+   "a": "What are cnidocytes (nematocysts)?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-44",
+   "q": "The tiny hydrozoan Turritopsis dohrnii has earned this nickname because adults can revert to the polyp stage",
+   "a": "What is the immortal jellyfish?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-45",
+   "q": "This tongue-like ribbon covered in rows of tiny teeth lets snails and other mollusks scrape up food",
+   "a": "What is the radula?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-46",
+   "q": "These pigment-filled skin cells, opened and closed by muscles, let squid and octopuses change color in a split second",
+   "a": "What are chromatophores?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-47",
+   "q": "This copper-containing protein carries oxygen in the blood of many mollusks and arthropods and turns blue when oxygenated",
+   "a": "What is hemocyanin?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-48",
+   "q": "Sponges make up this animal phylum, whose name means 'pore bearer'",
+   "a": "What is Porifera?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-49",
+   "q": "These soft-bodied forest animals of the phylum Onychophora catch prey by squirting sticky slime from their heads",
+   "a": "What are velvet worms?",
+   "tier": 5
+  },
+  {
+   "id": "invertebrates-50",
+   "q": "Snails and slugs belong to this largest class of mollusks, whose name means 'stomach foot'",
+   "a": "What are gastropods?",
+   "tier": 5
+  }
+ ]
+}

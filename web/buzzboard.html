@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Buzzboard</title>
-<script>window.BUZZ_DATA = "../data/buzzboard/";</script>
+<script>window.BUZZ_DATA = "../data/buzzboard/"; window.BUZZ_MEDIA = true;</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/5.10.1/mqtt.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
@@ -161,6 +161,15 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 .final .q { margin: 0; text-align: center; font-family: var(--clue); font-size: clamp(1.4rem, 3.6vw, 2.8rem); line-height: 1.2; text-wrap: balance; }
 .final .a { text-align: center; font-size: clamp(1.2rem, 3vw, 2.2rem); font-weight: 800; color: var(--green); min-height: 1.3em; }
 .modebtn2 { min-width: 230px; }
+.mediawrap { display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 0; }
+.media { display: flex; justify-content: center; min-height: 0; width: 100%; }
+.media img, .media video { max-width: 100%; max-height: 46vh; border-radius: 10px; object-fit: contain; background: #000; }
+.media audio { width: min(560px, 100%); }
+.media.failed { color: var(--dim); padding: 20px; }
+.credit-line { color: var(--dim); font-size: .72rem; text-decoration: none; text-align: center; max-width: 90%; overflow-wrap: anywhere; }
+.credit-line:hover { color: var(--ink); text-decoration: underline; }
+.clue.withmedia .q { flex: 0 0 auto; font-size: clamp(1.15rem, 2.6vw, 2.1rem); }
+.clue.withmedia { gap: 12px; }
 #joinphone { margin-top: 2px; }
 .bet .fans { color: var(--ink); font-style: italic; margin-top: 2px; }
 .dd-splash { margin: 0; text-align: center; font-size: clamp(2.6rem, 9vw, 6rem); font-weight: 900; letter-spacing: .04em; color: var(--gold); line-height: 1; animation: ddpop .5s ease-out; }
@@ -251,7 +260,9 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 /* ------------------------------------------------------------------ setup data */
 let CATEGORIES = [];          // loaded from data/index.json: {slug, name, group, count, perTier}
 const VALUES = [200, 400, 600, 800, 1000];
-const DATA_DIR = window.BUZZ_DATA || "data/";   // the Animal Guesser repo serves the questions from ../data/buzzboard/
+const DATA_DIR = window.BUZZ_DATA || "data/";
+// Picture / sound / video clues load from Wikimedia Commons, which the GitHub copy can reach (the artifact can't).
+const MEDIA_ON = !!window.BUZZ_MEDIA;   // the Animal Guesser repo serves the questions from ../data/buzzboard/
 const $ = id => document.getElementById(id);
 // Competitive mode (phones as buzzers) lives in live.js, which only the GitHub copy loads.
 const isLive = () => !!(window.LIVE && window.LIVE.hosting());
@@ -290,16 +301,20 @@ async function loadCategory(slug) {
   const res = await fetch(`${DATA_DIR}${slug}.json`);
   if (!res.ok) throw new Error(`Couldn't load ${slug} (${res.status})`);
   const json = await res.json();
-  const tiers = [[], [], [], [], []];
-  for (const c of json.clues) if (c.tier >= 1 && c.tier <= 5) tiers[c.tier - 1].push(c);
-  DATA[slug] = { tiers, total: json.clues.length };
+  const tiers = [[], [], [], [], []], media = [[], [], [], [], []];
+  for (const c of json.clues) {
+    if (!(c.tier >= 1 && c.tier <= 5)) continue;
+    if (c.media) { if (MEDIA_ON) media[c.tier - 1].push(c); }
+    else tiers[c.tier - 1].push(c);
+  }
+  DATA[slug] = { tiers, media, total: json.clues.length };
   return DATA[slug];
 }
 // Pick an unseen clue of this tier; when a tier runs out, it starts over.
 // "Who is Abraham Lincoln?" → "abraham lincoln", so one answer never shows up twice on a board
 const answerKey = a => a.replace(/^(what|who|where|when) (is|are|was|were) (the |a |an )?/i, "").replace(/\s*\(.*?\)/g, "").replace(/[?.!]+$/, "").trim().toLowerCase();
-function drawClue(slug, tier, avoidAnswers) {
-  const pool = DATA[slug].tiers[tier];
+function drawClue(slug, tier, avoidAnswers, kind) {
+  const pool = (kind === "media" ? DATA[slug].media : DATA[slug].tiers)[tier];
   const seenSet = new Set(seen[slug] || []);
   const ok = c => !avoidAnswers.has(answerKey(c.a));
   let fresh = pool.filter(c => !seenSet.has(c.id) && ok(c));
@@ -420,7 +435,10 @@ async function startGame(keepScores) {
   }
   const avoid = new Set();       // answers already on this board, across all columns
   G.board = G.picked.map(slug => {
-    const clues = VALUES.map((_, r) => { const c = drawClue(slug, r, avoid); avoid.add(answerKey(c.a)); return c; });
+    // one picture / sound / video clue per column, in a random row that has some
+    const rows = [0, 1, 2, 3, 4].filter(r => DATA[slug].media[r].length);
+    const mediaRow = rows.length ? rows[Math.floor(Math.random() * rows.length)] : -1;
+    const clues = VALUES.map((_, r) => { const c = drawClue(slug, r, avoid, r === mediaRow ? "media" : "text"); avoid.add(answerKey(c.a)); return c; });
     return { slug, name: (CATEGORIES.find(c => c.slug === slug) || {name: slug}).name, clues };
   });
   // two Double Downs, in different columns, never in the 200 row
@@ -497,11 +515,45 @@ function openClue(c, r) {
   if (isLive()) window.LIVE.clueOpened();
   renderClue(); renderTeams();
 }
+function mediaBlock(m) {
+  const box = document.createElement("div");
+  box.className = "media";
+  let el;
+  if (m.type === "image") {
+    el = document.createElement("img");
+    el.alt = "Picture clue"; el.src = m.url; el.decoding = "async";
+  } else {
+    el = document.createElement(m.type === "video" ? "video" : "audio");
+    el.controls = true; el.preload = "auto"; el.src = m.url;
+    if (m.type === "video") el.playsInline = true;
+    // try to start it; browsers may refuse until someone clicks, so the controls stay visible
+    setTimeout(() => { const p = el.play && el.play(); if (p && p.catch) p.catch(() => {}); }, 300);
+  }
+  el.addEventListener("error", () => { box.textContent = "The picture or sound didn't load. Check the connection."; box.classList.add("failed"); });
+  box.append(el);
+  const credit = document.createElement("a");
+  credit.className = "credit-line"; credit.href = m.page; credit.target = "_blank"; credit.rel = "noopener";
+  credit.textContent = `${m.type === "image" ? "Photo" : m.type === "audio" ? "Audio" : "Video"}: ${m.credit} · ${m.license} · Wikimedia Commons`;
+  const wrap = document.createElement("div");
+  wrap.className = "mediawrap";
+  wrap.append(box, credit);
+  return wrap;
+}
 function renderClue() {
   const { c, r, shown } = G.open, col = G.board[c], clue = col.clues[r];
   const stage = $("stage");
+  const same = stage.querySelector(".clue") && stage.querySelector(".clue").dataset.id === clue.id;
+  if (same) {                        // same clue again (answer shown, judged…): keep the media playing
+    stage.querySelector(".a").textContent = shown ? clue.a : "";
+    $("reveal").innerHTML = `<kbd>Space</kbd>${shown ? "Hide answer" : "Show answer"}`;
+    $("cluev").textContent = G.open.dd ? `Double Down · ${G.teams[G.open.dd.team].name} bets ${G.open.dd.bet.toLocaleString()}` : VALUES[r];
+    runTimer(G.open, G.timerSecs);
+    if (isLive()) window.LIVE.renderPanel($("livepanel"));
+    save();
+    return;
+  }
   stage.innerHTML = `
-    <div class="clue" role="dialog" aria-label="Clue">
+    <div class="clue${clue.media ? " withmedia" : ""}" role="dialog" aria-label="Clue">
       <div class="meta"><span></span><span class="v${G.open.dd ? " dd" : ""}" id="cluev"></span></div>
       ${G.open.deadline ? `<div class="timer" id="timer"><div class="tbar"><div></div></div><span class="tnum"></span></div>` : ""}
       <p class="q"></p>
@@ -515,6 +567,8 @@ function renderClue() {
   stage.querySelector(".meta span").textContent = col.name;
   $("cluev").textContent = G.open.dd ? `Double Down · ${G.teams[G.open.dd.team].name} bets ${G.open.dd.bet.toLocaleString()}` : VALUES[r];
   stage.querySelector(".q").textContent = clue.q;
+  stage.querySelector(".clue").dataset.id = clue.id;
+  if (clue.media) stage.querySelector(".q").before(mediaBlock(clue.media));
   stage.querySelector(".a").textContent = shown ? clue.a : "";
   $("reveal").onclick = toggleAnswer;
   $("back").onclick = closeClue;
@@ -656,8 +710,8 @@ function startFinal() {
   const onBoard = new Set(G.board.flatMap(col => col.clues.map(cl => answerKey(cl.a))));
   const c = Math.floor(Math.random() * G.board.length), slug = G.board[c].slug;
   // a hard clue (1000 row) from one of this board's categories, not already on the board
-  let clue = drawClue(slug, 4, onBoard);
-  if (onBoard.has(answerKey(clue.a))) clue = drawClue(slug, 3, onBoard);
+  let clue = drawClue(slug, 4, onBoard, "text");
+  if (onBoard.has(answerKey(clue.a))) clue = drawClue(slug, 3, onBoard, "text");
   markSeen(slug, clue.id);
   G.final = { c, clue, phase: "bet", bets: G.teams.map(() => 0), judged: G.teams.map(() => null),
               base: G.teams.map(t => t.score), shown: false, deadline: 0, stopped: false };
