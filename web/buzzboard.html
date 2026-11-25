@@ -158,6 +158,16 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 .bet .judge .w.on { background: var(--red); border-color: var(--red); color: #fff; }
 .final .q { margin: 0; text-align: center; font-family: var(--clue); font-size: clamp(1.4rem, 3.6vw, 2.8rem); line-height: 1.2; text-wrap: balance; }
 .final .a { text-align: center; font-size: clamp(1.2rem, 3vw, 2.2rem); font-weight: 800; color: var(--green); min-height: 1.3em; }
+.dd-splash { margin: 0; text-align: center; font-size: clamp(2.6rem, 9vw, 6rem); font-weight: 900; letter-spacing: .04em; color: var(--gold); line-height: 1; animation: ddpop .5s ease-out; }
+@keyframes ddpop { from { transform: scale(.6); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .dd-splash { animation: none; } }
+.ddteams { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.ddteams button { padding: 9px 16px; font-weight: 700; background: #151a22; color: var(--ink); border: 1px solid var(--line); border-radius: 10px; }
+.ddteams button.on { background: var(--gold); color: #06101f; border-color: var(--gold); }
+.ddbet { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.ddbet input { width: min(260px, 100%); padding: 10px 12px; text-align: center; font: 800 1.6rem var(--ui); background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; font-variant-numeric: tabular-nums; }
+.ddbet input:focus { border-color: var(--gold); outline: none; }
+.clue .meta .dd { color: var(--gold); }
 .final .go { align-self: center; padding: 12px 28px; font-weight: 800; background: var(--accent); color: #06101f; border: 1px solid var(--accent); border-radius: 11px; }
 .final .go:disabled { opacity: .45; cursor: not-allowed; }
 @media (max-width: 640px) {
@@ -252,6 +262,8 @@ let G = {
   timerOn: true, timerSecs: 10,
   rotate: true, picker: 0,    // whose turn it is to pick a square
   final: null,                // {c, clue, phase: "bet"|"clue"|"over", bets, judged, base, shown, deadline}
+  doubles: [],                // two hidden "col-row" keys where the picking team bets
+  dd: null,                   // Double Down being set up: {c, r, team, bet}
 };
 const TIMER_CHOICES = [5, 10, 15, 20, 30, 45, 60];
 const FINAL_SECS = 30;
@@ -365,7 +377,7 @@ function renderTitle() {
 /* ------------------------------------------------------------------ game */
 async function startGame(keepScores) {
   if (!keepScores) G.teams = Array.from({ length: G.teamCount }, (_, i) => ({ name: (G.names[i] || "").trim() || "Unnamed", score: 0 }));
-  G.view = "board"; G.used = {}; G.lastValue = 0; G.lastKey = null; G.open = null; G.final = null;
+  G.view = "board"; G.used = {}; G.lastValue = 0; G.lastKey = null; G.open = null; G.final = null; G.dd = null;
   if (!keepScores) G.picker = 0;
   showPlay();
   const stage = $("stage");
@@ -381,6 +393,9 @@ async function startGame(keepScores) {
     const clues = VALUES.map((_, r) => { const c = drawClue(slug, r, avoid); avoid.add(answerKey(c.a)); return c; });
     return { slug, name: (CATEGORIES.find(c => c.slug === slug) || {name: slug}).name, clues };
   });
+  // two Double Downs, in different columns, never in the 200 row
+  const cols = shuffle([0, 1, 2, 3, 4]).slice(0, 2);
+  G.doubles = cols.map(c => `${c}-${1 + Math.floor(Math.random() * 4)}`);
   renderAll();
 }
 function showPlay() {
@@ -390,7 +405,8 @@ function showPlay() {
 function renderAll() {
   if (G.view === "title") { $("title").hidden = false; $("play-view").hidden = true; $("teambar").hidden = true; renderTitle(); return; }
   showPlay();
-  if (G.view === "clue" && G.open) renderClue();
+  if (G.view === "dd" && G.dd) renderDD();
+  else if (G.view === "clue" && G.open) renderClue();
   else if (G.view === "final" && G.final) renderFinal();
   else if (G.view === "done") renderDone();
   else renderBoard();
@@ -431,7 +447,15 @@ function renderBoard() {
   if (!left) renderDone();
   save();
 }
+const isDouble = key => (G.doubles || []).includes(key);
+const ddMax = i => Math.max(G.teams[i].score, 1000);
 function openClue(c, r) {
+  if (isDouble(`${c}-${r}`) && !G.used[`${c}-${r}`] && G.teams.length) {
+    G.dd = { c, r, team: pickerOn() ? G.picker : 0, bet: null };
+    G.lastKey = `${c}-${r}`; G.used[G.lastKey] = true;
+    renderDD(); beepUp();
+    return;
+  }
   G.open = { c, r, shown: false, deadline: G.timerOn ? Date.now() + G.timerSecs * 1000 : 0, stopped: false };
   G.lastValue = VALUES[r]; G.lastKey = `${c}-${r}`;
   G.used[G.lastKey] = true;
@@ -445,7 +469,7 @@ function renderClue() {
   const stage = $("stage");
   stage.innerHTML = `
     <div class="clue" role="dialog" aria-label="Clue">
-      <div class="meta"><span></span><span class="v">${VALUES[r]}</span></div>
+      <div class="meta"><span></span><span class="v${G.open.dd ? " dd" : ""}" id="cluev"></span></div>
       ${G.open.deadline ? `<div class="timer" id="timer"><div class="tbar"><div></div></div><span class="tnum"></span></div>` : ""}
       <p class="q"></p>
       <div class="a" aria-live="polite"></div>
@@ -455,6 +479,7 @@ function renderClue() {
       </div>
     </div>`;
   stage.querySelector(".meta span").textContent = col.name;
+  $("cluev").textContent = G.open.dd ? `Double Down · ${G.teams[G.open.dd.team].name} bets ${G.open.dd.bet.toLocaleString()}` : VALUES[r];
   stage.querySelector(".q").textContent = clue.q;
   stage.querySelector(".a").textContent = shown ? clue.a : "";
   $("reveal").onclick = toggleAnswer;
@@ -511,6 +536,76 @@ function runTimer(slot, seconds) {
   };
   step();
   if (!slot.stopped) timerTick = setInterval(step, 100);
+}
+
+/* ------------------------------------------------------------------ Double Down */
+function beepUp() {
+  try {
+    audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+    const t = audio.currentTime;
+    [523, 659, 784, 1047].forEach((f, k) => {
+      const o = audio.createOscillator(), g = audio.createGain();
+      o.type = "triangle"; o.frequency.value = f;
+      g.gain.setValueAtTime(.1, t + k * .09); g.gain.exponentialRampToValueAtTime(.0001, t + k * .09 + .2);
+      o.connect(g).connect(audio.destination); o.start(t + k * .09); o.stop(t + k * .09 + .21);
+    });
+  } catch (e) {}
+}
+function renderDD() {
+  G.view = "dd";
+  const D = G.dd, col = G.board[D.c], stage = $("stage");
+  stage.textContent = "";
+  const box = document.createElement("div");
+  box.className = "final";
+  const meta = document.createElement("div");
+  meta.className = "eyebrow"; meta.textContent = `${col.name} · ${VALUES[D.r]}`;
+  const splash = document.createElement("h2");
+  splash.className = "dd-splash"; splash.textContent = "DOUBLE DOWN!";
+  const note = document.createElement("p");
+  note.className = "note";
+  box.append(meta, splash, note);
+  if (G.teams.length > 1) {
+    const teams = document.createElement("div");
+    teams.className = "ddteams";
+    G.teams.forEach((t, i) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.textContent = t.name; b.className = i === D.team ? "on" : "";
+      b.setAttribute("aria-pressed", i === D.team);
+      b.onclick = () => { D.team = i; D.bet = D.bet == null ? null : Math.min(D.bet, ddMax(i)); renderDD(); };
+      teams.append(b);
+    });
+    box.append(teams);
+  }
+  const t = G.teams[D.team], max = ddMax(D.team);
+  note.textContent = `Only ${t.name} answers this one. Bet anything from 0 to ${max.toLocaleString()} (your score, or 1,000 if that's more).`;
+  const bet = document.createElement("div");
+  bet.className = "ddbet";
+  const lab = document.createElement("label");
+  lab.htmlFor = "ddbet"; lab.textContent = `${t.name}'s bet`;
+  const inp = document.createElement("input");
+  inp.type = "number"; inp.id = "ddbet"; inp.min = 0; inp.max = max; inp.step = 100; inp.inputMode = "numeric"; inp.placeholder = "0";
+  inp.value = D.bet == null ? "" : D.bet;
+  inp.addEventListener("input", () => { D.bet = inp.value === "" ? null : Math.max(0, Math.min(max, Math.round(+inp.value || 0))); save(); });
+  inp.addEventListener("blur", () => { inp.value = D.bet == null ? "" : D.bet; });
+  inp.addEventListener("keydown", e => { if (e.key === "Enter") go.click(); });
+  bet.append(lab, inp);
+  const go = document.createElement("button");
+  go.type = "button"; go.className = "btn go keybtn"; go.textContent = "Show the question";
+  go.onclick = () => {
+    const amount = D.bet == null ? 0 : D.bet;
+    const clue = G.board[D.c].clues[D.r];
+    markSeen(G.board[D.c].slug, clue.id);
+    G.open = { c: D.c, r: D.r, shown: false, deadline: G.timerOn ? Date.now() + G.timerSecs * 1000 : 0, stopped: false,
+               dd: { team: D.team, bet: amount } };
+    G.lastValue = amount; G.dd = null; G.view = "clue";
+    renderClue(); renderTeams();
+  };
+  box.append(bet, go);
+  stage.append(box);
+  $("left").textContent = "Double Down: pick the bet, then show the question";
+  renderTeams();
+  inp.focus();
+  save();
 }
 
 /* ------------------------------------------------------------------ final round */
@@ -650,7 +745,9 @@ function renderDone() {
 /* ------------------------------------------------------------------ teams */
 function renderWorth() {
   const w = document.querySelector("#teambar .worth b");
-  if (w) w.textContent = G.lastValue ? G.lastValue : "—";
+  if (w) w.textContent = G.lastValue ? G.lastValue.toLocaleString() : (G.open && G.open.dd ? "0" : "—");
+  const lab = document.querySelector("#teambar .worth span:last-child");
+  if (lab) lab.textContent = G.open && G.open.dd ? "Double Down bet" : "last square";
 }
 function renderTeams() {
   const bar = $("teambar");

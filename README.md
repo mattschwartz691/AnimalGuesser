@@ -30,6 +30,9 @@ switcher at the top right (Animals · Things · Buzzboard) moves between all thr
   opens and buzzes at zero. Showing the answer stops it.
 - **Take turns picking** (on by default): the team whose turn it is to pick is
   highlighted, and the turn passes to the next team after every square.
+- **Double Down:** two hidden squares per board (different columns, never the 200
+  row). The team whose turn it is bets up to its score, or 1,000 if that's more,
+  then answers alone; + / − give or take the bet instead of the square's value.
 - **Final round:** after the board (or any time, from the top bar) one of the five
   categories is drawn. Each team bets up to its score (0 if it's at or below zero),
   everyone answers the same hard clue (30 s on the timer), and the host marks each
