@@ -5,10 +5,27 @@
 (function () {
   const BROKERS = ["wss://broker.emqx.io:8084/mqtt", "wss://broker.hivemq.com:8884/mqtt"];
   const TOPIC_ROOT = "buzzboard-q8w3/v1/";
-  const VERSION = "2026-11-24a";
-  const CODE_WORDS = ["BUZZ", "QUIZ", "FROG", "MOON", "TACO", "LAMP", "BIKE", "DUCK", "FISH", "CAKE", "ROCK", "STAR", "TREE", "BEAR",
-    "GOLF", "JAZZ", "KIWI", "LIME", "MILK", "NEST", "PEAR", "RAIN", "SOCK", "TOAD", "WAVE", "YETI", "ZOOM", "CORN", "FERN", "GLOW",
-    "HOOT", "LEAF", "MINT", "PINE", "SALT", "TUBA", "WOLF", "SOUP", "OWLS", "HAWK"];
+  const VERSION = "2026-11-25a";
+  // ~300 common, family-friendly English words (no names, nothing rude or scary)
+  const CODE_WORDS = [
+    "ABLE", "ACRE", "AIRY", "ALOE", "APEX", "ARCH", "AXLE", "BAKE", "BALL", "BAND", "BARK", "BARN", "BATH", "BEAD", "BEAK", "BEAM", "BEAN", "BEAR", "BELL", "BELT",
+    "BIKE", "BIRD", "BLUE", "BOAR", "BOAT", "BOLT", "BONE", "BOOK", "BOOM", "BOOT", "BOWL", "BULB", "BUNK", "BUOY", "BURP", "BUSH", "BUZZ", "CAFE", "CAKE", "CALF",
+    "CALM", "CAMP", "CANE", "CAPE", "CARD", "CART", "CAVE", "CHEF", "CHIP", "CITY", "CLAM", "CLAP", "CLAY", "CLUB", "CLUE", "COAT", "CODE", "COIN", "COLT", "COMB",
+    "CONE", "COOK", "COOL", "CORD", "CORN", "COVE", "COZY", "CRAB", "CROW", "CUBE", "CURL", "CUTE", "DART", "DASH", "DAWN", "DEER", "DESK", "DICE", "DIME", "DISH",
+    "DIVE", "DOCK", "DOLL", "DOME", "DOOR", "DOVE", "DRUM", "DUCK", "DUET", "DUNE", "DUSK", "ECHO", "EDGE", "EPIC", "FARM", "FAWN", "FERN", "FIGS", "FISH", "FIVE",
+    "FLAG", "FLAP", "FLEA", "FLIP", "FOAM", "FOIL", "FOLK", "FOOD", "FORK", "FORT", "FOUR", "FROG", "FUEL", "FUZZ", "GAME", "GATE", "GEAR", "GEMS", "GIFT", "GLOW",
+    "GLUE", "GOAT", "GOLD", "GOLF", "GONG", "GOWN", "GRAM", "GRIN", "GULL", "HAIL", "HALO", "HAND", "HARP", "HAWK", "HAZE", "HEAT", "HERB", "HERO", "HIKE", "HILL",
+    "HIVE", "HOOK", "HOOP", "HOOT", "HOPE", "HORN", "HULA", "HUSH", "ICON", "IDEA", "INCH", "INKY", "IRIS", "IRON", "ISLE", "JADE", "JAMS", "JAZZ", "JEEP", "JEST",
+    "JOKE", "JUMP", "KALE", "KELP", "KIND", "KING", "KITE", "KIWI", "KNOT", "LACE", "LAKE", "LAMB", "LAMP", "LANE", "LAVA", "LAWN", "LEAF", "LIME", "LION", "LOAF",
+    "LOFT", "LOGS", "LOOP", "LUAU", "LUCK", "MANE", "MAPS", "MASK", "MAZE", "MEAL", "MELT", "MENU", "MESA", "MICE", "MILK", "MINK", "MINT", "MIST", "MOAT", "MOLE",
+    "MOON", "MOSS", "MOTH", "MULE", "MUSE", "NAPS", "NEST", "NOON", "NOVA", "NUTS", "OAKS", "OARS", "OATS", "OBOE", "OPAL", "OVAL", "OWLS", "PAGE", "PALM", "PARK",
+    "PATH", "PAWS", "PEAK", "PEAR", "PEAS", "PIER", "PINE", "PINK", "PIPE", "PITA", "PLAY", "PLUM", "POEM", "POET", "POLO", "POND", "PONY", "POOL", "PORT", "PUFF",
+    "PUMA", "QUIZ", "RACE", "RAFT", "RAIN", "RAKE", "RAMP", "REED", "REEF", "RICE", "RING", "ROAD", "ROBE", "ROCK", "ROLL", "ROOF", "ROPE", "ROSE", "RUBY", "SAGE",
+    "SAIL", "SALT", "SAND", "SEAL", "SEAS", "SEED", "SHED", "SHIP", "SHOE", "SILK", "SING", "SKIS", "SLED", "SNAP", "SNOW", "SOAP", "SOCK", "SODA", "SOFA", "SOUP",
+    "SPUD", "STAR", "STEM", "STEW", "SUMO", "SWAN", "SWIM", "TACO", "TAIL", "TAPE", "TEAL", "TEAM", "TENT", "TIDE", "TILE", "TOAD", "TOFU", "TOGA", "TOTE", "TOWN",
+    "TOYS", "TRAM", "TRAY", "TREE", "TRIO", "TUBA", "TUBE", "TUNA", "TUNE", "TWIG", "TWIN", "VASE", "VEST", "VINE", "WAND", "WASP", "WAVE", "WHEY", "WICK", "WIND",
+    "WING", "WISH", "WOLF", "WOOD", "WOOL", "WORM", "YAKS", "YARD", "YARN", "YAWN", "YELP", "YETI", "YOGA", "YOLK", "YOYO", "ZANY", "ZEST", "ZINC", "ZONE", "ZOOM",
+  ];
   const ANSWER_SECS = 5;        // after buzzing in, this long to start answering
   const GATHER_MS = 300;        // after the first buzz arrives, wait this long for faster reactions on slower connections
   const ONLINE_MS = 15000;
@@ -44,8 +61,10 @@
     return {
       get connected() { return !!c && c.connected; },
       on(ev, f) { handlers[ev].push(f); },
+      off(f) { for (const k in handlers) handlers[k] = handlers[k].filter(h => h !== f); },
       subscribe(t, opts) { subs.set(t, opts); if (c && c.connected) c.subscribe(t, opts); },
-      publish(t, msg, opts) { if (c && c.connected) c.publish(t, msg, opts); },
+      unsubscribe(t) { subs.delete(t); if (c && c.connected) c.unsubscribe(t); },
+      publish(t, msg, opts, cb) { if (c && c.connected) c.publish(t, msg, opts, cb); else if (cb) cb(); },
       end() { drop(); clearTimeout(timer); },
     };
   }
@@ -57,37 +76,68 @@
   const teamIdx = id => G.teams.findIndex(t => t.id === id);
   const Q = () => G.live && G.live.q;
 
-  function hosting() { return G.mode === "live" && !!G.live && !!G.live.code && role !== "phone"; }
+  function hosting() { return G.mode === "live" && !!G.live && role !== "phone"; }
+  const hid = rid();            // this big screen, so it can tell its own room announcements from another's
+  const pickWord = () => CODE_WORDS[Math.floor(Math.random() * CODE_WORDS.length)];
+  // Announce the room (kept by the relay) so a new room never reuses a code that's in use.
+  function beat() { if (client && G.live && G.live.code) client.publish(topic(G.live.code, "host"), JSON.stringify({ t: Date.now(), hid }), { qos: 0, retain: true }); }
+  // Is another big screen using this code? Listen briefly for its recent announcement.
+  function isTaken(code, cb) {
+    const t = topic(code, "host");
+    let taken = false;
+    const onMsg = (tp, m) => { if (tp === t) { const d = parse(m); if (d && d.hid !== hid && Date.now() - d.t < 60000) taken = true; } };
+    client.on("message", onMsg);
+    client.subscribe(t, { qos: 1 });
+    setTimeout(() => { client.unsubscribe(t); client.off(onMsg); cb(taken); }, 1500);
+  }
+  function pickCode(done, tries = 0) {
+    const code = pickWord();
+    isTaken(code, taken => (taken && tries < 20 ? pickCode(done, tries + 1) : done(code)));
+  }
 
   function connectMaster() {
     if (client) client.end();
     status = "Connecting…";
     client = connectBroker();
-    client.on("connect", () => {
+    const listen = () => {
       status = "";
       client.subscribe(topic(G.live.code, "up"), { qos: 1 });
-      sync(true); refreshLobby();
+      beat(); sync(true);
+      if (G.view === "lobby") renderLobby();
+    };
+    client.on("connect", () => {
+      if (G.live.code) return listen();
+      status = "Finding a free room code…"; refreshLobby();
+      pickCode(code => { G.live.code = code; save(); listen(); });
     });
-    client.on("message", (t, m) => { if (t === topic(G.live.code, "up")) { const msg = parse(m); if (msg && typeof msg.from === "string") receive(msg); } });
+    client.on("message", (t, m) => { if (G.live && G.live.code && t === topic(G.live.code, "up")) { const msg = parse(m); if (msg && typeof msg.from === "string") receive(msg); } });
     client.on("offline", () => { status = "Can't reach the relay. Retrying…"; refreshLobby(); });
     client.on("down", () => { status = "The relay server is down. Try again later."; refreshLobby(); });
     clearInterval(beatTimer);
-    beatTimer = setInterval(() => { sync(true); if (G.view === "lobby") refreshLobby(); else renderTeamsOnline(); }, 3000);
+    beatTimer = setInterval(() => { beat(); sync(true); if (G.view === "lobby") refreshLobby(); else renderTeamsOnline(); }, 3000);
   }
 
   function openRoom() {
     G.mode = "live";
-    G.live = { code: CODE_WORDS[Math.floor(Math.random() * CODE_WORDS.length)] + "", seq: 0, q: null };
+    G.live = { code: null, seq: 0, q: null };        // the code is picked once the relay answers
     G.teams = []; G.picker = 0; G.board = null; G.open = null; G.final = null; G.dd = null;
     G.view = "lobby";
     connectMaster();
     renderAll();
   }
-  function resume() { if (G.live && G.live.code) { connectMaster(); if (G.view === "clue" && G.live.q) startTick(); } }
+  function resume() { if (G.live) { connectMaster(); if (G.view === "clue" && G.live.q) startTick(); } }
   function closeRoom() {
-    if (client && G.live) client.publish(topic(G.live.code, "all"), JSON.stringify({ v: VERSION, view: "closed" }), { qos: 1 });
-    if (client) client.end();
-    client = null; clearInterval(beatTimer); clearInterval(tick);
+    clearInterval(beatTimer); clearInterval(tick);
+    const old = client;
+    if (old && G.live && G.live.code) {
+      old.publish(topic(G.live.code, "all"), JSON.stringify({ v: VERSION, view: "closed" }), { qos: 1 });
+      // free the code, then hang up once the relay has it (or after a second either way)
+      let done = false;
+      const hangUp = () => { if (!done) { done = true; old.end(); } };
+      old.publish(topic(G.live.code, "host"), "", { qos: 1, retain: true }, hangUp);
+      setTimeout(hangUp, 1500);
+    } else if (old) old.end();
+    client = null;
     G.mode = "live"; G.live = null;
   }
 
@@ -95,11 +145,18 @@
     G.view = "lobby";
     $("title").hidden = true; $("play-view").hidden = false; $("teambar").hidden = false;
     $("finalbtn").hidden = true;
-    $("left").textContent = `Room ${G.live.code}`;
+    $("left").textContent = G.live.code ? `Room ${G.live.code}` : "Opening a room…";
     const stage = $("stage");
     stage.textContent = "";
     const box = el("div", "final lobby");
     box.append(el("div", "eyebrow", "Competitive · join on your phone"));
+    if (!G.live.code) {
+      box.append(el("p", "roomcode", "····"));
+      const st = el("p", "note", status || "Connecting…"); st.id = "lobbystatus";
+      box.append(st);
+      stage.append(box); renderTeams();
+      return;
+    }
     const row = el("div", "lobbyrow");
     const qr = el("div", "qr"); qr.id = "lobbyqr";
     const info = el("div", "joininfo");
@@ -123,7 +180,7 @@
   function refreshLobby() {
     if (G.view !== "lobby") return;
     const list = $("lobbyplayers"), st = $("lobbystatus"), go = $("lobbygo");
-    if (!list) return;
+    if (!list) { if (st) st.textContent = status || "Connecting…"; return; }
     list.textContent = "";
     if (!G.teams.length) list.append(el("p", "note", "No one has joined yet."));
     G.teams.forEach((t, i) => {
@@ -150,7 +207,7 @@
   }
 
   // ---- messages from phones
-  function send(id, msg) { if (client) client.publish(topic(G.live.code, "down/" + id), JSON.stringify({ ...msg, v: VERSION }), { qos: 1 }); }
+  function send(id, msg) { if (client && G.live.code) client.publish(topic(G.live.code, "down/" + id), JSON.stringify({ ...msg, v: VERSION }), { qos: 1 }); }
   function receive(msg) {
     const id = msg.from;
     seen[id] = Date.now();
@@ -354,7 +411,7 @@
     return s;
   }
   function sync(now) {
-    if (!client || !G.live) return;
+    if (!client || !G.live || !G.live.code) return;
     if (now) { syncQueued = false; client.publish(topic(G.live.code, "all"), JSON.stringify(publicState()), { qos: 0 }); return; }
     if (syncQueued) return;
     syncQueued = true;
@@ -659,5 +716,6 @@
     hosting, openRoom, resume, closeRoom, renderLobby, sync,
     clueOpened, clueClosed, renderPanel, judge, answerShown,
     phoneEntry,
+    isTaken: (code, cb) => (client ? isTaken(code, cb) : cb(false)),   // used by the tests
   };
 })();
