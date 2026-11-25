@@ -303,6 +303,253 @@
    "q": "Krusty the Clown's original sidekick, this man with a towering red hairdo keeps scheming against Bart",
    "a": "Who is Sideshow Bob?",
    "tier": 5
+  },
+  {
+   "id": "tv-shows-m01",
+   "tier": 1,
+   "q": "Name this tall yellow Muppet from Sesame Street, shown visiting comedian Flip Wilson",
+   "a": "Who is Big Bird?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flip_Wilson_and_Big_Bird.jpg/960px-Flip_Wilson_and_Big_Bird.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flip_Wilson_and_Big_Bird.jpg",
+    "credit": "Larry Bessel, Los Angeles Times",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tv-shows-m02",
+   "tier": 1,
+   "q": "Name this actress who played Eleven in Stranger Things",
+   "a": "Who is Millie Bobby Brown?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Millie_Bobby_Brown_C2E2_2017_1.jpg/960px-Millie_Bobby_Brown_C2E2_2017_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Millie_Bobby_Brown_C2E2_2017_1.jpg",
+    "credit": "Chris Roth 1",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tv-shows-m03",
+   "tier": 1,
+   "q": "These green numbered tracksuits are costumes from which deadly Korean Netflix survival series?",
+   "a": "What is Squid Game?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Squid_Game_player_cosplay%2C_Shibuya_Halloween_2021_%28October_31%29.jpg/960px-Squid_Game_player_cosplay%2C_Shibuya_Halloween_2021_%28October_31%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Squid_Game_player_cosplay,_Shibuya_Halloween_2021_(October_31).jpg",
+    "credit": "Dick Thomas Johnson",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "tv-shows-m04",
+   "tier": 1,
+   "q": "Name this actress who plays the deadpan title role in Netflix's Wednesday",
+   "a": "Who is Jenna Ortega?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jenna_Ortega_2022_%28cropped%29.jpg/330px-Jenna_Ortega_2022_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jenna_Ortega_2022_(cropped).jpg",
+    "credit": "StayTunedNBC:",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m05",
+   "tier": 2,
+   "q": "Name this cardigan-wearing PBS host who asked \"Won't you be my neighbor?\"",
+   "a": "Who is Mister Rogers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fred_Rogers%2C_late_1960s.jpg/250px-Fred_Rogers%2C_late_1960s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fred_Rogers,_late_1960s.jpg",
+    "credit": "KUHT",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "tv-shows-m06",
+   "tier": 2,
+   "q": "This blue police box is a time machine in which long-running British sci-fi series?",
+   "a": "What is Doctor Who?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TARDIS.jpg/960px-TARDIS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TARDIS.jpg",
+    "credit": "The original uploader was Electriccynic at English Wikipedia.",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "tv-shows-m07",
+   "tier": 2,
+   "q": "Name this actress who played Rachel Green on Friends",
+   "a": "Who is Jennifer Aniston?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/500px-JenniferAnistonHWoFFeb2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JenniferAnistonHWoFFeb2012.jpg",
+    "credit": "Angela George",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m08",
+   "tier": 2,
+   "q": "Name this actor who starred in The Mandalorian and The Last of Us",
+   "a": "Who is Pedro Pascal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pedro_Pascal_by_Gage_Skidmore.jpg/960px-Pedro_Pascal_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pedro_Pascal_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m09",
+   "tier": 2,
+   "q": "Name this pointy-eared Vulcan science officer of the starship Enterprise",
+   "a": "Who is Spock?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Leonard_Nimoy_Spock_1967.jpg/500px-Leonard_Nimoy_Spock_1967.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_Spock_1967.jpg",
+    "credit": "NBC Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tv-shows-m10",
+   "tier": 3,
+   "q": "Name this actor who played chemistry teacher Walter White in Breaking Bad",
+   "a": "Who is Bryan Cranston?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bryan_Cranston_at_the_2018_Berlin_Film_Festival_%282%29.jpg/960px-Bryan_Cranston_at_the_2018_Berlin_Film_Festival_%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bryan_Cranston_at_the_2018_Berlin_Film_Festival_(2).jpg",
+    "credit": "Martin Kraft",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m11",
+   "tier": 3,
+   "q": "This English country house is the setting of which period drama about the Crawley family?",
+   "a": "What is Downton Abbey?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Highclere_Castle.jpg/960px-Highclere_Castle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Highclere_Castle.jpg",
+    "credit": "JB + UK_Planet",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "tv-shows-m12",
+   "tier": 3,
+   "q": "This avenue of beech trees in Northern Ireland was the Kingsroad in which HBO fantasy series?",
+   "a": "What is Game of Thrones?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Dark_Hedges.jpg/960px-The_Dark_Hedges.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Dark_Hedges.jpg",
+    "credit": "Jriley17",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "tv-shows-m13",
+   "tier": 4,
+   "q": "This Manhattan diner's exterior was Monk's Café in which 1990s \"show about nothing\"?",
+   "a": "What is Seinfeld?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tom%27s_Restaurant%2C_NYC.jpg/960px-Tom%27s_Restaurant%2C_NYC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom%27s_Restaurant,_NYC.jpg",
+    "credit": "Rick Dikeman (en:User:Rdikeman)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m14",
+   "tier": 4,
+   "q": "Name this leather-jacketed character from Happy Days who said \"Ayyy!\"",
+   "a": "Who is the Fonz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henry_Winkler_Fonzie_1977.JPG/500px-Henry_Winkler_Fonzie_1977.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Henry_Winkler_Fonzie_1977.JPG",
+    "credit": "ABC Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tv-shows-m15",
+   "tier": 4,
+   "q": "This walled Croatian city played King's Landing in Game of Thrones. Name it",
+   "a": "What is Dubrovnik?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dubrovnik_Stadtmauer.jpg/960px-Dubrovnik_Stadtmauer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dubrovnik_Stadtmauer.jpg",
+    "credit": "JSB",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m16",
+   "tier": 4,
+   "q": "Name this \"creepy and kooky\" 1964 sitcom clan",
+   "a": "What is The Addams Family?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Addams_Family_main_cast_1964.JPG/500px-Addams_Family_main_cast_1964.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Addams_Family_main_cast_1964.JPG",
+    "credit": "ABC Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tv-shows-m17",
+   "tier": 5,
+   "q": "This actor's character Archie Bunker led which 1970s Norman Lear sitcom?",
+   "a": "What is All in the Family?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Carrol_O%27Connor_as_Archie_Bunker.JPG/500px-Carrol_O%27Connor_as_Archie_Bunker.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Carrol_O%27Connor_as_Archie_Bunker.JPG",
+    "credit": "CBS Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tv-shows-m18",
+   "tier": 5,
+   "q": "This Washington waterfall appears in the opening credits of which David Lynch mystery series?",
+   "a": "What is Twin Peaks?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Snoqualmie_Falls%2C_Snoqualmie%2C_WA.jpeg/960px-Snoqualmie_Falls%2C_Snoqualmie%2C_WA.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snoqualmie_Falls,_Snoqualmie,_WA.jpeg",
+    "credit": "Meher Anand Kasam",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tv-shows-m19",
+   "tier": 5,
+   "q": "Name this 1964 sitcom about a Frankenstein-like dad and his monster family on Mockingbird Lane",
+   "a": "What is The Munsters?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Munsters_cast_1964.JPG/500px-Munsters_cast_1964.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Munsters_cast_1964.JPG",
+    "credit": "CBS Television",
+    "license": "Public domain"
+   }
   }
  ]
 }

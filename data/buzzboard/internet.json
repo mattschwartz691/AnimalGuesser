@@ -303,6 +303,266 @@
    "q": "Founded by Jonathan Abrams, this early-2000s social network was a forerunner of Myspace and Facebook",
    "a": "What is Friendster?",
    "tier": 5
+  },
+  {
+   "id": "internet-m01",
+   "tier": 1,
+   "q": "This globe of jigsaw pieces is the logo of which free online encyclopedia?",
+   "a": "What is Wikipedia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/960px-Wikipedia-logo-v2.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg",
+    "credit": "Nohat (concept by Paullusmagnus); Wikimedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "internet-m02",
+   "tier": 1,
+   "q": "Name this kind of square, scannable barcode, read by phone cameras",
+   "a": "What is a QR code?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/960px-QR_code_for_mobile_English_Wikipedia.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:QR_code_for_mobile_English_Wikipedia.svg",
+    "credit": "Brdall",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "internet-m03",
+   "tier": 1,
+   "q": "This frowning feline became one of the internet's most famous memes. What was her nickname?",
+   "a": "What is Grumpy Cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grumpy_Cat_(14556024763)_(cropped).jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "internet-m04",
+   "tier": 1,
+   "q": "Name this simple face, which people type in text as :-)",
+   "a": "What is a smiley (emoticon)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smiley_Face_Emoticon.svg/960px-Smiley_Face_Emoticon.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Smiley_Face_Emoticon.svg",
+    "credit": "Harringstars",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "internet-m05",
+   "tier": 2,
+   "q": "This singer's 1987 hit 'Never Gonna Give You Up' gave its name to which internet bait-and-switch prank?",
+   "a": "What is Rickrolling?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg/960px-Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glasto2023_(149_of_468)_(53009108914)_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "internet-m06",
+   "tier": 2,
+   "q": "Name this British computer scientist who invented the World Wide Web in 1989",
+   "a": "Who is Tim Berners-Lee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/960px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Berners-Lee_at_the_2025_Web_Summit_(Cropped).jpg",
+    "credit": "Web Summit",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "internet-m07",
+   "tier": 2,
+   "q": "Watch: this 19-second clip at the elephant enclosure, posted in April 2005, was the first video on which website?",
+   "a": "What is YouTube?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Me_at_the_zoo.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm",
+    "credit": "Jawed Karim and Yakov Lapitsky",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "internet-m08",
+   "tier": 2,
+   "q": "This Shiba Inu meme, with captions like 'such wow' in Comic Sans, is known by what misspelled name?",
+   "a": "What is Doge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Doge_meme_example.jpg/960px-Doge_meme_example.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doge_meme_example.jpg",
+    "credit": "likeaduck",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "internet-m09",
+   "tier": 3,
+   "q": "A computer like this hosted the world's first website in 1990-91, at which European physics lab?",
+   "a": "What is CERN?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NeXTcube.jpg/960px-NeXTcube.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NeXTcube.jpg",
+    "credit": "Wilhelminenzwerg",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "internet-m10",
+   "tier": 3,
+   "q": "This logo belongs to which cryptocurrency, launched in 2009 by the pseudonymous Satoshi Nakamoto?",
+   "a": "What is Bitcoin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/960px-Bitcoin.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Bitcoin.svg",
+    "credit": "Grayliptrot",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "internet-m11",
+   "tier": 3,
+   "q": "Name this internet entrepreneur who co-founded Wikipedia in 2001",
+   "a": "Who is Jimmy Wales?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jimmy_Wales_by_Philip_Romano_%283x4_cropped%29.jpg/960px-Jimmy_Wales_by_Philip_Romano_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jimmy_Wales_by_Philip_Romano_(3x4_cropped).jpg",
+    "credit": "Philip Romano",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "internet-m12",
+   "tier": 3,
+   "q": "Name the wired networking standard that uses this RJ45 plug",
+   "a": "What is Ethernet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ethernet_connector.webp/960px-Ethernet_connector.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Ethernet_connector.webp",
+    "credit": "Wikideas1",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "internet-m13",
+   "tier": 4,
+   "q": "Early modems sent data through a phone handset pressed into rubber cups like these. Name this device.",
+   "a": "What is an acoustic coupler?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Acoustic_coupler_20041015_175456_1.jpg/960px-Acoustic_coupler_20041015_175456_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Acoustic_coupler_20041015_175456_1.jpg",
+    "credit": "G. Edward Johnson",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "internet-m14",
+   "tier": 4,
+   "q": "Name this 'father of the Internet', later Google's chief internet evangelist, who co-designed the TCP/IP protocols",
+   "a": "Who is Vint Cerf?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dr_Vint_Cerf_ForMemRS_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dr_Vint_Cerf_ForMemRS_(cropped).jpg",
+    "credit": "Duncan Hull",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "internet-m15",
+   "tier": 4,
+   "q": "Name this engineer who sent the first networked email in 1971 and chose @ for addresses",
+   "a": "Who is Ray Tomlinson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ray_Tomlinson.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ray_Tomlinson.jpg",
+    "credit": "Andreu Veà",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "internet-m16",
+   "tier": 4,
+   "q": "Name this co-founder of YouTube, who appears in the site's very first video",
+   "a": "Who is Jawed Karim?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jawed_Karim_2008.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jawed_Karim_2008.jpg",
+    "credit": "Robin Brown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "internet-m17",
+   "tier": 5,
+   "q": "Name this co-author of the Mosaic web browser who went on to co-found Netscape",
+   "a": "Who is Marc Andreessen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Marc_Andreessen-9_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marc_Andreessen-9_(cropped).jpg",
+    "credit": "JD Lasica",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "internet-m18",
+   "tier": 5,
+   "q": "Name this engineer who co-invented TCP/IP with Vint Cerf in 1974 and led DARPA's networking research",
+   "a": "Who is Bob Kahn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kahn.jpg/960px-Bob_Kahn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Kahn.jpg",
+    "credit": "Veni Markovski",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "internet-m19",
+   "tier": 5,
+   "q": "Name this co-founder of the photo-sharing app Instagram",
+   "a": "Who is Kevin Systrom?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kevin_Systrom_2018_%2840980041741%29_%28cropped%29.jpg/960px-Kevin_Systrom_2018_%2840980041741%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_Systrom_2018_(40980041741)_(cropped).jpg",
+    "credit": "Christopher Michel",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "internet-m20",
+   "tier": 5,
+   "q": "This cross-section shows the armored layers of what kind of line that carries internet data along the ocean floor?",
+   "a": "What is a submarine (undersea) cable?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Submarine_cable_cross-section_3D_plain.svg/960px-Submarine_cable_cross-section_3D_plain.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Submarine_cable_cross-section_3D_plain.svg",
+    "credit": "Oona Räisänen (Mysid)",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -303,6 +303,279 @@
    "q": "This animator worked with Walt Disney to create Mickey Mouse and Oswald the Lucky Rabbit",
    "a": "Who is Ub Iwerks?",
    "tier": 5
+  },
+  {
+   "id": "animated-movies-m01",
+   "tier": 1,
+   "q": "A lost fish of this species is searched for by his dad in which 2003 Pixar film?",
+   "a": "What is Finding Nemo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Clownfisch_%28Amphiprion_ocellaris%29.jpg/960px-Clownfisch_%28Amphiprion_ocellaris%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clownfisch_(Amphiprion_ocellaris).jpg",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m02",
+   "tier": 1,
+   "q": "Name the forgetful Pixar fish of this species, voiced by Ellen DeGeneres",
+   "a": "Who is Dory?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Blue_tang_%28Paracanthurus_hepatus%29_02.jpg/960px-Blue_tang_%28Paracanthurus_hepatus%29_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_tang_(Paracanthurus_hepatus)_02.jpg",
+    "credit": "Tewy",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "animated-movies-m03",
+   "tier": 1,
+   "q": "This castle at Florida's Magic Kingdom is named for which glass-slippered princess?",
+   "a": "Who is Cinderella?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cinderella_Castle_January_2021.jpg/960px-Cinderella_Castle_January_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021.jpg",
+    "credit": "Backattaxk251",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m04",
+   "tier": 1,
+   "q": "Name this space ranger who promises \"To infinity and beyond!\"",
+   "a": "Who is Buzz Lightyear?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai.jpg/960px-Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai.jpg",
+    "credit": "Edo-biscuit",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m05",
+   "tier": 1,
+   "q": "Name this green ogre (shown with Gingy) from a 2001 DreamWorks film",
+   "a": "Who is Shrek?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Shrek_Madame_Tussauds_London.jpg/960px-Shrek_Madame_Tussauds_London.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shrek_Madame_Tussauds_London.jpg",
+    "credit": "Hubert555",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m06",
+   "tier": 2,
+   "q": "Name the wisecracking Lion King character who is this kind of animal",
+   "a": "Who is Timon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Meerkat_%28Suricata_suricatta%29.jpg/960px-Meerkat_%28Suricata_suricatta%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta).jpg",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m07",
+   "tier": 2,
+   "q": "In which 2022 Pixar film does 13-year-old Mei transform into a giant animal like this?",
+   "a": "What is Turning Red?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/960px-Red_Panda_%2824986761703%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg",
+    "credit": "Mathias Appel",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "animated-movies-m08",
+   "tier": 2,
+   "q": "This French vegetable stew gives its name to a 2007 Pixar film. Name the film's rat chef",
+   "a": "Who is Remy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ratatouille.jpg/960px-Ratatouille.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ratatouille.jpg",
+    "credit": "Marcus Guimarães",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animated-movies-m09",
+   "tier": 2,
+   "q": "Name this animation pioneer, shown in 1946, who co-created Mickey Mouse",
+   "a": "Who is Walt Disney?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walt_Disney_1946.JPG/330px-Walt_Disney_1946.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_1946.JPG",
+    "credit": "Boy Scouts of America",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animated-movies-m10",
+   "tier": 2,
+   "q": "Flash, the slowpoke DMV clerk in Zootopia, is what kind of animal?",
+   "a": "What is a sloth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/960px-Bradypus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bradypus.jpg",
+    "credit": "Stefan Laube (Tauchgurke)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animated-movies-m11",
+   "tier": 3,
+   "q": "Name the wise Lion King baboon character often drawn with a mandrill's colorful face",
+   "a": "Who is Rafiki?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandrill_at_san_francisco_zoo.jpg/960px-Mandrill_at_san_francisco_zoo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mandrill_at_san_francisco_zoo.jpg",
+    "credit": "((brian)) from Sebastopol, CA, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animated-movies-m12",
+   "tier": 3,
+   "q": "This pink castle at California's Disneyland is named for which 1959 Disney film?",
+   "a": "What is Sleeping Beauty?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sleeping_Beauty_Castle_2019.jpg/960px-Sleeping_Beauty_Castle_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_2019.jpg",
+    "credit": "CrispyCream27",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m13",
+   "tier": 3,
+   "q": "Name this Studio Ghibli director of Spirited Away and My Neighbor Totoro",
+   "a": "Who is Hayao Miyazaki?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HayaoMiyazakiCCJuly09.jpg/330px-HayaoMiyazakiCCJuly09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HayaoMiyazakiCCJuly09.jpg",
+    "credit": "Natasha Baucas at https://www.flickr.com/photos/sdnatasha/",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animated-movies-m14",
+   "tier": 3,
+   "q": "Name Mickey's sweetheart, shown here in her 1928 debut",
+   "a": "Who is Minnie Mouse?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Minnie_Mouse_Steamboat_Willie.jpg/250px-Minnie_Mouse_Steamboat_Willie.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Minnie_Mouse_Steamboat_Willie.jpg",
+    "credit": "Walt Disney / Ub Iwerks",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animated-movies-m15",
+   "tier": 3,
+   "q": "Blu, hero of a 2011 film set in Brazil, is this rare blue parrot. Name the film",
+   "a": "What is Rio?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Spixara.jpg/500px-Spixara.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spixara.jpg",
+    "credit": "The original uploader was Robert01 at German Wikipedia. (Original text: Robert01",
+    "license": "CC BY-SA 2.0 de"
+   }
+  },
+  {
+   "id": "animated-movies-m16",
+   "tier": 4,
+   "q": "Name this Pixar co-founder who directed the first computer-animated feature, Toy Story",
+   "a": "Who is John Lasseter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JohnLasseterOct2011.jpg/500px-JohnLasseterOct2011.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JohnLasseterOct2011.jpg",
+    "credit": "Vanessa Lua",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animated-movies-m17",
+   "tier": 4,
+   "q": "Name this 1928 short, the first Mickey Mouse cartoon released with synchronized sound",
+   "a": "What is Steamboat Willie?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Steamboat_Willie_%281928%29_by_Walt_Disney.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Steamboat_Willie_(1928)_by_Walt_Disney.webm",
+    "credit": "Walt Disney / Ub Iwerks / Johnny Cannon / Les Clark / Wilfred Jackson / Bert Lew",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animated-movies-m18",
+   "tier": 4,
+   "q": "Name this big cat villain, Mickey's oldest enemy, shown here as a riverboat captain",
+   "a": "Who is Pete?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Earlypete.jpg/960px-Earlypete.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Earlypete.jpg",
+    "credit": "Walt Disney / Ub Iwerks",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animated-movies-m19",
+   "tier": 4,
+   "q": "Finnick, Nick Wilde's tiny partner in Zootopia, is this big-eared desert animal. Name it",
+   "a": "What is a fennec fox?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fennec_Fox_Peek.jpg/960px-Fennec_Fox_Peek.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg",
+    "credit": "Anass ERRIHANI",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animated-movies-m20",
+   "tier": 5,
+   "q": "Name this Pixar director of Monsters, Inc., Up and Inside Out",
+   "a": "Who is Pete Docter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pete_Docter_Cannes_2015.jpg/500px-Pete_Docter_Cannes_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pete_Docter_Cannes_2015.jpg",
+    "credit": "Georges Biard",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "animated-movies-m21",
+   "tier": 5,
+   "q": "Name this animator, Disney's 1930s rival, whose studio made Betty Boop and 1939's Gulliver's Travels",
+   "a": "Who is Max Fleischer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Max_Fleischer_1934.jpg/500px-Max_Fleischer_1934.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Max_Fleischer_1934.jpg",
+    "credit": "Fleischer Studios",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -253,9 +253,9 @@
     G.live.seq = (G.live.seq || 0) + 1;
     G.live.q = {
       seq: G.live.seq, state: dd ? "answering" : "open",
-      deadline: !dd && G.timerOn ? now + G.timerSecs * 1000 : 0,
+      deadline: !dd && G.timerOn ? now + clueSecs(openClueObj()) * 1000 : 0,
       remaining: 0, locked: [], answering: dd ? dd.team : null,
-      answerDeadline: dd ? now + Math.max(G.timerSecs, ANSWER_SECS) * 1000 : 0,
+      answerDeadline: dd ? now + Math.max(clueSecs(openClueObj()), ANSWER_SECS) * 1000 : 0,
       results: [], pending: [],
     };
     startTick();
@@ -363,7 +363,7 @@
     const answering = q.state === "answering";
     const end = answering ? q.answerDeadline : q.deadline;
     if (!end) { clock.hidden = true; return; }
-    const total = answering ? (G.open.dd ? Math.max(G.timerSecs, ANSWER_SECS) : ANSWER_SECS) : G.timerSecs;
+    const total = answering ? (G.open.dd ? Math.max(clueSecs(openClueObj()), ANSWER_SECS) : ANSWER_SECS) : clueSecs(openClueObj());
     const left = Math.max(0, (end - Date.now()) / 1000);
     clock.querySelector(".tbar > div").style.transform = `scaleX(${Math.min(1, left / total)})`;
     clock.querySelector(".tnum").textContent = left > 0 ? Math.ceil(left) : "Time!";

@@ -303,6 +303,266 @@
    "q": "This traditional Indonesian ensemble of gongs and bronze metallophones is associated with Java and Bali",
    "a": "What is the gamelan?",
    "tier": 5
+  },
+  {
+   "id": "instruments-m01",
+   "tier": 1,
+   "q": "Listen: a Scottish band plays the 'Skye Boat Song' on what droning instrument?",
+   "a": "What are the bagpipes?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/Skye_Boat_Song.ogg/Skye_Boat_Song.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Skye_Boat_Song.ogg",
+    "credit": "Clan Stewart Pipe Band",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "instruments-m02",
+   "tier": 1,
+   "q": "Listen: name the bowed string instrument, the smallest and highest-pitched of its family, playing this Bach solo",
+   "a": "What is the violin?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/J._S._Bach_%E2%80%93_Violin_Sonata_No.1_in_G_minor%2C_BWV_1001%2C_I._Adagio.ogg/J._S._Bach_%E2%80%93_Violin_Sonata_No.1_in_G_minor%2C_BWV_1001%2C_I._Adagio.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:J._S._Bach_%E2%80%93_Violin_Sonata_No.1_in_G_minor,_BWV_1001,_I._Adagio.ogg",
+    "credit": "Unknown performer (recorded at Goodenough College, London)",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "instruments-m03",
+   "tier": 1,
+   "q": "Listen: name the small four-stringed instrument, strongly associated with Hawaii, being strummed here",
+   "a": "What is the ukulele?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Ukulele_playing.ogg/Ukulele_playing.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Ukulele_playing.ogg",
+    "credit": "Cassa342",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "instruments-m04",
+   "tier": 1,
+   "q": "Name the large instrument with a triangular frame that this musician plays by plucking its many strings",
+   "a": "What is the harp?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lavinia_Meijer_playing_the_harp%2C_2011.jpg/960px-Lavinia_Meijer_playing_the_harp%2C_2011.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lavinia_Meijer_playing_the_harp,_2011.jpg",
+    "credit": "Fred Ernst",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "instruments-m05",
+   "tier": 2,
+   "q": "Listen: Pablo Casals plays Bach's famous Suite No. 1 on what large bowed instrument, held between the knees?",
+   "a": "What is the cello?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Bach_-_Cello_Suite_no._1_in_G_major%2C_BWV_1007_-_I._Pr%C3%A9lude.ogg/Bach_-_Cello_Suite_no._1_in_G_major%2C_BWV_1007_-_I._Pr%C3%A9lude.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach_-_Cello_Suite_no._1_in_G_major,_BWV_1007_-_I._Pr%C3%A9lude.ogg",
+    "credit": "Pablo Casals (performer)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "instruments-m06",
+   "tier": 2,
+   "q": "Listen: name this long wooden drone instrument developed by Aboriginal Australians",
+   "a": "What is the didgeridoo?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Didgeridoo_sound.ogg/Didgeridoo_sound.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Didgeridoo_sound.ogg",
+    "credit": "Cassa342",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "instruments-m07",
+   "tier": 2,
+   "q": "Listen: name the 'squeezebox' instrument, with bellows and keys or buttons, playing these chords",
+   "a": "What is the accordion?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Accordion_chords-01.ogg/Accordion_chords-01.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Accordion_chords-01.ogg",
+    "credit": "Clngre",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "instruments-m08",
+   "tier": 2,
+   "q": "Listen: this Scarlatti piece is played on what keyboard instrument whose strings are plucked, not hammered?",
+   "a": "What is the harpsichord?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/Domenico_Scarlatti_-_Allegretto_-_D_minor.ogg/Domenico_Scarlatti_-_Allegretto_-_D_minor.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Domenico_Scarlatti_-_Allegretto_-_D_minor.ogg",
+    "credit": "Martha Goldstein (performer)",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "instruments-m09",
+   "tier": 3,
+   "q": "Listen: the player never touches this electronic instrument; hand positions near two antennas control pitch and volume",
+   "a": "What is the theremin?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Epro_theremin_middle_bach.ogg/Epro_theremin_middle_bach.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Epro_theremin_middle_bach.ogg",
+    "credit": "Fabio Pesce (performer), Effebit",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "instruments-m10",
+   "tier": 3,
+   "q": "Listen: name the low double-reed woodwind playing this passage from Beethoven's 4th Symphony",
+   "a": "What is the bassoon?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/Bassoon_beethoven.ogg/Bassoon_beethoven.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Bassoon_beethoven.ogg",
+    "credit": "Mezzofortist",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "instruments-m11",
+   "tier": 3,
+   "q": "Listen: name the small, egg-shaped vessel flute playing 'Carnival of Venice'",
+   "a": "What is the ocarina?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/Carnival_of_Venice_-_ocarina_played_by_Mos%C3%A9_Tapiero.flac/Carnival_of_Venice_-_ocarina_played_by_Mos%C3%A9_Tapiero.flac.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Carnival_of_Venice_-_ocarina_played_by_Mos%C3%A9_Tapiero.flac",
+    "credit": "Mosé Tapiero (performer)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "instruments-m12",
+   "tier": 3,
+   "q": "Name this long-necked Indian string instrument, made famous in the West by Ravi Shankar",
+   "a": "What is the sitar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sitar_MET_MIDP89.4.190.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sitar_MET_MIDP89.4.190.jpg",
+    "credit": "The Metropolitan Museum of Art",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "instruments-m13",
+   "tier": 4,
+   "q": "Listen: a crank-turned rosined wheel bows the strings of this droning medieval instrument. Name it.",
+   "a": "What is the hurdy-gurdy?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/HurdySample.ogg/HurdySample.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:HurdySample.ogg",
+    "credit": "Fenevad",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "instruments-m14",
+   "tier": 4,
+   "q": "Listen: name the fretless, pear-shaped lute of the Arab world playing this Umm Kulthum melody",
+   "a": "What is the oud?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/OUD.ogg/OUD.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:OUD.ogg",
+    "credit": "Houssem bettaibi",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "instruments-m15",
+   "tier": 4,
+   "q": "Listen: name the Japanese end-blown bamboo flute, traditionally played by Zen monks, heard here",
+   "a": "What is the shakuhachi?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/Shikanotoone_new.ogg/Shikanotoone_new.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Shikanotoone_new.ogg",
+    "credit": "Victor 13029 recording (public domain)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "instruments-m16",
+   "tier": 4,
+   "q": "Listen: name this African 'thumb piano', whose metal tines are plucked",
+   "a": "What is the kalimba (mbira)?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Kalimba_Katsanzaira.ogg/Kalimba_Katsanzaira.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Kalimba_Katsanzaira.ogg",
+    "credit": "ClawisJM",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "instruments-m17",
+   "tier": 5,
+   "q": "Listen: name the seven-string Chinese zither, an instrument of scholars for about 3,000 years",
+   "a": "What is the guqin?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Guqin-Yangguan_Sandie.ogg/Guqin-Yangguan_Sandie.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Guqin-Yangguan_Sandie.ogg",
+    "credit": "Charlie Huang",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "instruments-m18",
+   "tier": 5,
+   "q": "Listen: name the two-stringed Chinese bowed fiddle playing this folk tune",
+   "a": "What is the erhu?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/%E6%B1%9F%E6%B2%B3%E6%B0%B4.ogg/%E6%B1%9F%E6%B2%B3%E6%B0%B4.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B2%B3%E6%B0%B4.ogg",
+    "credit": "David290",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "instruments-m19",
+   "tier": 5,
+   "q": "Listen: this UFO-shaped steel instrument, played with the hands, was created in Bern, Switzerland in 2000. Name it.",
+   "a": "What is the Hang drum?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/Hang_2005_horizontal.ogg/Hang_2005_horizontal.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Hang_2005_horizontal.ogg",
+    "credit": "Michael Paschko (Ixkeys)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "instruments-m20",
+   "tier": 5,
+   "q": "Benjamin Franklin invented this instrument of spinning nested bowls, played with wet fingertips. Name it.",
+   "a": "What is the glass armonica?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Glassarmonica.jpg/960px-Glassarmonica.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glassarmonica.jpg",
+    "credit": "Vince Flango",
+    "license": "Public domain"
+   }
   }
  ]
 }

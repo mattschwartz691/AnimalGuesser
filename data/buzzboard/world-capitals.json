@@ -303,6 +303,266 @@
    "q": "Namibia's capital, this city sits on a central plateau between the Namib and Kalahari deserts",
    "a": "What is Windhoek?",
    "tier": 5
+  },
+  {
+   "id": "world-capitals-m01",
+   "tier": 1,
+   "q": "Name the capital city where this building and clock tower stand",
+   "a": "What is London?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg/1280px-Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg",
+    "credit": "ThatsTheBoss",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "world-capitals-m02",
+   "tier": 1,
+   "q": "Name the capital city where this tower stands",
+   "a": "What is Paris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/1280px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "credit": "Benh LIEU SONG",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-capitals-m03",
+   "tier": 1,
+   "q": "Name the capital city where this domed building stands",
+   "a": "What is Washington, D.C.?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/1280px-US_Capitol_east_side.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
+    "credit": "Martin Falbisoner",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m04",
+   "tier": 1,
+   "q": "Name the capital city where this colorful cathedral stands",
+   "a": "What is Moscow?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/1280px-Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint_Basil's_Cathedral_in_Moscow.jpg",
+    "credit": "Tsy1980",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m05",
+   "tier": 2,
+   "q": "Name the capital city where this vast imperial palace complex stands",
+   "a": "What is Beijing?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/1280px-The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "credit": "Pixelflake",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m06",
+   "tier": 2,
+   "q": "Name the capital city where this gate stands",
+   "a": "What is Berlin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/1280px-Brandenburger_Tor_abends.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+    "credit": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m07",
+   "tier": 2,
+   "q": "Name the capital city where this ancient hilltop citadel stands",
+   "a": "What is Athens?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/1280px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m08",
+   "tier": 2,
+   "q": "Name the capital city where these Gothic Revival parliament buildings stand",
+   "a": "What is Ottawa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/1280px-Ottawa_-_ON_-_Stadtansicht.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_Stadtansicht.jpg",
+    "credit": "Wladyslaw",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m09",
+   "tier": 3,
+   "q": "Name the capital city where this parliament house stands",
+   "a": "What is Canberra?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Parliament_House_at_dusk%2C_Canberra_ACT.jpg/1280px-Parliament_House_at_dusk%2C_Canberra_ACT.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Parliament_House_at_dusk,_Canberra_ACT.jpg",
+    "credit": "Thennicke",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m10",
+   "tier": 3,
+   "q": "Name the capital city where this obelisk stands on Avenida 9 de Julio",
+   "a": "What is Buenos Aires?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Panorama_Obelisco_de_Buenos_Aires_2019.jpg/1280px-Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+    "credit": "Luis Santos",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "world-capitals-m11",
+   "tier": 3,
+   "q": "Name the capital city where this parliament building stands on the Danube",
+   "a": "What is Budapest?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg/1280px-Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "credit": "Kilyann Le Hen",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m12",
+   "tier": 3,
+   "q": "Name the capital city where these twin skyscrapers stand",
+   "a": "What is Kuala Lumpur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Petronas_Twin_Towers%2C_Kuala_Lumpur.jpg/1280px-Petronas_Twin_Towers%2C_Kuala_Lumpur.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Petronas_Twin_Towers,_Kuala_Lumpur.jpg",
+    "credit": "Shiva Kumar Khanal",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m13",
+   "tier": 4,
+   "q": "Name the capital city where this hyperboloid cathedral by Oscar Niemeyer stands",
+   "a": "What is Brasilia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Catedral_Metropolitana_de_Brasilia.jpg/1280px-Catedral_Metropolitana_de_Brasilia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Brasilia.jpg",
+    "credit": "Tissiana de A. de Souza",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m14",
+   "tier": 4,
+   "q": "Name the capital city where this 'Beehive' government building stands",
+   "a": "What is Wellington?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Beehive%2C_Wellington%2C_New_Zealand.jpg/1280px-Beehive%2C_Wellington%2C_New_Zealand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beehive,_Wellington,_New_Zealand.jpg",
+    "credit": "Ulrich Lange, Bochum, Germany",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m15",
+   "tier": 4,
+   "q": "Name the capital city where this church stands",
+   "a": "What is Reykjavik?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hallgrimskirkja_mai_2026.jpg/1280px-Hallgrimskirkja_mai_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hallgrimskirkja_mai_2026.jpg",
+    "credit": "Steinninn",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m16",
+   "tier": 4,
+   "q": "Name the capital city where this 16th-century riverside fort stands",
+   "a": "What is Lisbon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/1280px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-capitals-m17",
+   "tier": 5,
+   "q": "Name the capital city where this tower stands beside the Nile",
+   "a": "What is Cairo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cairo_Tower_%2814795997855%29.jpg/1280px-Cairo_Tower_%2814795997855%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cairo_Tower_(14795997855).jpg",
+    "credit": "Jorge Láscar from Melbourne, Australia",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-capitals-m18",
+   "tier": 5,
+   "q": "Name the capital city where this square, with a statue of Genghis Khan, lies",
+   "a": "What is Ulaanbaatar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chinggis_Square.jpg/1280px-Chinggis_Square.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinggis_Square.jpg",
+    "credit": "Zazaa Mongolia",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m19",
+   "tier": 5,
+   "q": "Name this Caucasus capital city, seen here below its hilltop fortress",
+   "a": "What is Tbilisi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tbilisi_IMG_8846_1920.jpg/1280px-Tbilisi_IMG_8846_1920.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tbilisi_IMG_8846_1920.jpg",
+    "credit": "Alexxx1979",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-capitals-m20",
+   "tier": 5,
+   "q": "Name the Himalayan capital city where this hilltop stupa, nicknamed the Monkey Temple, stands",
+   "a": "What is Kathmandu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Swayambhunath_2018.jpg/1280px-Swayambhunath_2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Swayambhunath_2018.jpg",
+    "credit": "Nabin K. Sapkota",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

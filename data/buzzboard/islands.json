@@ -303,6 +303,266 @@
    "q": "This largest atoll of the Chagos Archipelago in the Indian Ocean hosts a major U.S.-U.K. military base",
    "a": "What is Diego Garcia?",
    "tier": 5
+  },
+  {
+   "id": "islands-m01",
+   "tier": 1,
+   "q": "Name this large island off the coast of Africa, seen from space",
+   "a": "What is Madagascar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Satellite_image_of_Madagascar_in_September_2003.jpg/1280px-Satellite_image_of_Madagascar_in_September_2003.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Madagascar_in_September_2003.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m02",
+   "tier": 1,
+   "q": "Name this snowy North Atlantic island nation, seen from space",
+   "a": "What is Iceland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Iceland_satellite.jpg/1280px-Iceland_satellite.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iceland_satellite.jpg",
+    "credit": "Jeff Schmaltz",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m03",
+   "tier": 1,
+   "q": "Name the world's largest island, highlighted in this satellite view",
+   "a": "What is Greenland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Greenland_42.74746W_71.57394N.jpg/960px-Greenland_42.74746W_71.57394N.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greenland_42.74746W_71.57394N.jpg",
+    "credit": "NASA / Ames Research Center",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m04",
+   "tier": 1,
+   "q": "Name this Mediterranean island, the 'football' kicked by Italy's boot",
+   "a": "What is Sicily?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Satellite_image_Sicily.jpg/1280px-Satellite_image_Sicily.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Satellite_image_Sicily.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m05",
+   "tier": 2,
+   "q": "Name this 'Emerald Isle', seen from space",
+   "a": "What is Ireland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ireland_%28MODIS%29.jpg/1280px-Ireland_%28MODIS%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ireland_(MODIS).jpg",
+    "credit": "Jeff Schmaltz",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m06",
+   "tier": 2,
+   "q": "Name the long Caribbean island stretching across this satellite image",
+   "a": "What is Cuba?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cuba_Nasa.jpg/1280px-Cuba_Nasa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cuba_Nasa.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m07",
+   "tier": 2,
+   "q": "Name this island, home to England, Scotland and Wales",
+   "a": "What is Great Britain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_(cropped).jpg",
+    "credit": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC (Goddard Space Flight Center)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m08",
+   "tier": 2,
+   "q": "Name this volcanic Pacific landmass, the largest in its US island chain",
+   "a": "What is Hawaii?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Island_of_Hawai%27i_-_Landsat_mosaic.jpg/1280px-Island_of_Hawai%27i_-_Landsat_mosaic.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Island_of_Hawai'i_-_Landsat_mosaic.jpg",
+    "credit": "Hawaii Land Cover Analysis project, NOAA Coastal Services Center",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m09",
+   "tier": 3,
+   "q": "Name this Greek island, largest in its country, photographed from the ISS",
+   "a": "What is Crete?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/1280px-Island_of_Crete%2C_Greece.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
+    "credit": "ISS Expedition 28 crew",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m10",
+   "tier": 3,
+   "q": "Name this Indonesian island, a famous tourist destination, seen by satellite",
+   "a": "What is Bali?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BaliLandsat001.jpg/500px-BaliLandsat001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BaliLandsat001.jpg",
+    "credit": "Global Land Cover Facility (GLCF)、っ at Japanese Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "islands-m11",
+   "tier": 3,
+   "q": "Name this mountainous French island, Napoleon's birthplace",
+   "a": "What is Corsica?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Mountainous_Spine_of_Corsica.jpeg/1280px-The_Mountainous_Spine_of_Corsica.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Mountainous_Spine_of_Corsica.jpeg",
+    "credit": "NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.S....",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m12",
+   "tier": 3,
+   "q": "Name this Australian island state, seen from space",
+   "a": "What is Tasmania?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tasmania-satellite.jpg/1280px-Tasmania-satellite.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tasmania-satellite.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m13",
+   "tier": 4,
+   "q": "Name this northernmost of Japan's main islands",
+   "a": "What is Hokkaido?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Satellite_image_of_Hokkaido%2C_Japan_in_May_2001.jpg/1280px-Satellite_image_of_Hokkaido%2C_Japan_in_May_2001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Hokkaido,_Japan_in_May_2001.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m14",
+   "tier": 4,
+   "q": "Name this Italian island west of the mainland, seen from space",
+   "a": "What is Sardinia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sardinia_satellite.jpg/960px-Sardinia_satellite.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sardinia_satellite.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m15",
+   "tier": 4,
+   "q": "Name the main island of this small Mediterranean nation, with Gozo at upper left",
+   "a": "What is Malta?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Satellite_image_of_Malta_in_March_2003.jpg/120px-Satellite_image_of_Malta_in_March_2003.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Malta_in_March_2003.jpg",
+    "credit": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m16",
+   "tier": 4,
+   "q": "Listen: this is the national anthem of which Caribbean island nation?",
+   "a": "What is Jamaica?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/%22Jamaica%2C_Land_We_Love%22%2C_performed_by_the_United_States_Navy_Band.oga/%22Jamaica%2C_Land_We_Love%22%2C_performed_by_the_United_States_Navy_Band.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Jamaica,_Land_We_Love%22,_performed_by_the_United_States_Navy_Band.oga",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m17",
+   "tier": 5,
+   "q": "Name this Yemeni island famous for its dragon's blood trees",
+   "a": "What is Socotra?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/960px-Socotra_satview.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Socotra_satview.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m18",
+   "tier": 5,
+   "q": "Name this volcanic South Atlantic island, the most remote inhabited one on Earth",
+   "a": "What is Tristan da Cunha?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tristanfromspace.jpg/1280px-Tristanfromspace.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tristanfromspace.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m19",
+   "tier": 5,
+   "q": "Name this large Canadian island at the mouth of the Gulf of St. Lawrence",
+   "a": "What is Newfoundland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Newfoundland_NASA.jpg/1280px-Newfoundland_NASA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Newfoundland_NASA.jpg",
+    "credit": "created by Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "islands-m20",
+   "tier": 5,
+   "q": "Name this long, narrow Russian island north of Japan, shown in this relief map",
+   "a": "What is Sakhalin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sakhalin_%28detail%29.PNG/500px-Sakhalin_%28detail%29.PNG",
+    "page": "https://commons.wikimedia.org/wiki/File:Sakhalin_(detail).PNG",
+    "credit": "edited by M.Minderhoud",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -602,6 +602,266 @@
    "q": "This American actress appeared in Reds, Manhattan and Father of the Bride.",
    "a": "Who is Diane Keaton?",
    "tier": 5
+  },
+  {
+   "id": "actors-m01",
+   "tier": 1,
+   "q": "Who is this silent-film star, famous for playing 'The Tramp' with a bowler hat and cane?",
+   "a": "Who is Charlie Chaplin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+    "credit": "Strauss-Peyton Studio",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m02",
+   "tier": 1,
+   "q": "Who is this actor, star of 'Forrest Gump' and the voice of Woody in 'Toy Story'?",
+   "a": "Who is Tom Hanks?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TomHanksPrincEdw031223_(11_of_41)_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "actors-m03",
+   "tier": 1,
+   "q": "Who is this actress, a 1950s icon who starred in 'Some Like It Hot'?",
+   "a": "Who is Marilyn Monroe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/960px-Monroecirca1953.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monroecirca1953.jpg",
+    "credit": "Bert Parry",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m04",
+   "tier": 1,
+   "q": "Who is this actor, who played Jack in 'Titanic'?",
+   "a": "Who is Leonardo DiCaprio?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LeoPTABFI191125-28_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "actors-m05",
+   "tier": 2,
+   "q": "Who is this actress, star of 'Breakfast at Tiffany's' and 'Roman Holiday'?",
+   "a": "Who is Audrey Hepburn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/AudreyKHepburn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AudreyKHepburn.jpg",
+    "credit": "Bud Fraker (1916-2002)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m06",
+   "tier": 2,
+   "q": "Who is this actress, who sang 'Over the Rainbow' as Dorothy in 1939?",
+   "a": "Who is Judy Garland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Judy_Garland_publicity_photo.png/960px-Judy_Garland_publicity_photo.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Judy_Garland_publicity_photo.png",
+    "credit": "Eric Carpenter for en:Metro-Goldwyn-Mayer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m07",
+   "tier": 2,
+   "q": "Who is this actor, who played Han Solo and Indiana Jones?",
+   "a": "Who is Harrison Ford?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/960px-Harrison_Ford_-_Televerse_2025-03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-03.jpg",
+    "credit": "Kevin Paul",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "actors-m08",
+   "tier": 2,
+   "q": "Who is this actress, who has received more Oscar nominations than any other performer?",
+   "a": "Who is Meryl Streep?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg/960px-Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_(cropped1).jpg",
+    "credit": "Ministry of culture, sports and Tourism- Lee Jeong-woo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "actors-m09",
+   "tier": 3,
+   "q": "Who is this actor, who starred in 'Casablanca' as Rick Blaine?",
+   "a": "Who is Humphrey Bogart?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Humphrey_Bogart_by_Elmer_Fryer_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Humphrey_Bogart_by_Elmer_Fryer_(cropped).jpg",
+    "credit": "Elmer Fryer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m10",
+   "tier": 3,
+   "q": "Who is this actor, who played Rhett Butler in 'Gone with the Wind'?",
+   "a": "Who is Clark Gable?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Clark_Gable_Publicity_Photo%2C_1945.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clark_Gable_Publicity_Photo,_1945.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m11",
+   "tier": 3,
+   "q": "Who is this actress, a Hitchcock star who became Princess of Monaco?",
+   "a": "Who is Grace Kelly?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Grace_Kelly_1956_%28cropped%29.jpg/960px-Grace_Kelly_1956_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grace_Kelly_1956_(cropped).jpg",
+    "credit": "Los Angeles Times",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "actors-m12",
+   "tier": 3,
+   "q": "Who is this child star of the 1930s, famous for curls and 'On the Good Ship Lollipop'?",
+   "a": "Who is Shirley Temple?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Shirleytemple.jpg/960px-Shirleytemple.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shirleytemple.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m13",
+   "tier": 4,
+   "q": "Who is this silent comedian nicknamed 'The Great Stone Face', star of 'The General'?",
+   "a": "Who is Buster Keaton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/960px-Busterkeaton_edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Busterkeaton_edit.jpg",
+    "credit": "Bain News Service",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m14",
+   "tier": 4,
+   "q": "Who is this actor, who played George Bailey in 'It's a Wonderful Life'?",
+   "a": "Who is James Stewart?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg/960px-Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Annex_-_Stewart,_James_(Call_Northside_777)_01.jpg",
+    "credit": "Studio publicity still",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m15",
+   "tier": 4,
+   "q": "Who is this actor, who won an Oscar as Atticus Finch in 'To Kill a Mockingbird'?",
+   "a": "Who is Gregory Peck?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gregory_Peck_1948.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gregory_Peck_1948.jpg",
+    "credit": "Studio",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m16",
+   "tier": 4,
+   "q": "Who is this actress, who holds the record of four Best Actress Oscars?",
+   "a": "Who is Katharine Hepburn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/960px-Katharine_Hepburn_publicity_photograph.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Katharine_Hepburn_publicity_photograph.jpg",
+    "credit": "Metro-Goldwyn-Mayer Studios; Restored by Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m17",
+   "tier": 5,
+   "q": "Who is this 'Latin lover' of silent film, star of 'The Sheik', who died in 1926?",
+   "a": "Who is Rudolph Valentino?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rudolph-Valentino-by-Donald-Biddle-Keyes-1922.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Rudolph-Valentino-by-Donald-Biddle-Keyes-1922.png",
+    "credit": "Donald Biddle Keyes",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m18",
+   "tier": 5,
+   "q": "Who is this silent-era star, 'America's Sweetheart' and a co-founder of United Artists?",
+   "a": "Who is Mary Pickford?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mary_Pickford_cph.3c17995u.jpg/960px-Mary_Pickford_cph.3c17995u.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mary_Pickford_cph.3c17995u.jpg",
+    "credit": "Rufus Porter Moody",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m19",
+   "tier": 5,
+   "q": "Who is this actress, the first Black performer to win an Oscar, for 'Gone with the Wind'?",
+   "a": "Who is Hattie McDaniel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Studio_publicity_Hattie_McDaniel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Studio_publicity_Hattie_McDaniel.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "actors-m20",
+   "tier": 5,
+   "q": "Who is this Swedish star of 'Ninotchka', famous for wanting to be left alone?",
+   "a": "Who is Greta Garbo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Garbo_in_Inspiration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Garbo_in_Inspiration.jpg",
+    "credit": "Metro-Goldwyn-Mayer (work for hire)",
+    "license": "Public domain"
+   }
   }
  ]
 }

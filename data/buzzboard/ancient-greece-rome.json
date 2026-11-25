@@ -303,6 +303,266 @@
    "q": "This king of Epirus beat the Romans at Heraclea and Asculum, but at such cost that his name became a byword",
    "a": "Who is Pyrrhus?",
    "tier": 5
+  },
+  {
+   "id": "ancient-greece-rome-m01",
+   "tier": 1,
+   "q": "Name this temple to Athena on the Acropolis",
+   "a": "What is the Parthenon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/960px-The_Parthenon_in_Athens.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "credit": "Steve Swayne",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m02",
+   "tier": 1,
+   "q": "Name this Roman amphitheater, where gladiators fought",
+   "a": "What is the Colosseum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "credit": "FeaturedPics",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m03",
+   "tier": 1,
+   "q": "Name this Roman city, buried in AD 79 by the volcano behind it",
+   "a": "What is Pompeii?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "credit": "Carsten Steger",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m04",
+   "tier": 1,
+   "q": "The Pont du Gard in France is an example of what Roman water-carrying structure?",
+   "a": "What is an aqueduct?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/1280px-Pont_du_Gard_BLS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+    "credit": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m05",
+   "tier": 2,
+   "q": "This Roman general crossed the Rubicon and was assassinated on the Ides of March. Name him",
+   "a": "Who is Julius Caesar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1280px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+    "credit": "Ángel M. Felicísimo from Mérida, España",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m06",
+   "tier": 2,
+   "q": "Name this Roman frontier barrier built across northern Britain from AD 122",
+   "a": "What is Hadrian's Wall?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hadrians_Wall_from_Housesteads1_crop.jpg/1280px-Hadrians_Wall_from_Housesteads1_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hadrians_Wall_from_Housesteads1_crop.jpg",
+    "credit": "Jamesflomonosoff at English Wikipedia; cropped by Beyond My Ken 08:49, 4 May 2010 (UTC)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m07",
+   "tier": 2,
+   "q": "Name this ruined plaza, the heart of political life in ancient Rome",
+   "a": "What is the Roman Forum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1280px-Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "credit": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please...",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m08",
+   "tier": 2,
+   "q": "This Pompeii mosaic shows which Macedonian king battling Darius III?",
+   "a": "Who is Alexander the Great?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg/1280px-Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m09",
+   "tier": 3,
+   "q": "This marble statue from Prima Porta depicts which first Roman emperor?",
+   "a": "Who is Augustus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/1280px-Statue-Augustus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg",
+    "credit": "Till Niermann",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m10",
+   "tier": 3,
+   "q": "Name this Roman temple with the world's largest unreinforced concrete dome",
+   "a": "What is the Pantheon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/1280px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "credit": "NikonZ7II",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m11",
+   "tier": 3,
+   "q": "Name this kind of Greek warship with three banks of oars",
+   "a": "What is a trireme?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Greek_Galleys.jpg/330px-Greek_Galleys.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greek_Galleys.jpg",
+    "credit": "Tungsten",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m12",
+   "tier": 3,
+   "q": "This mountain sanctuary was home to the most famous oracle of ancient Greece. Name it",
+   "a": "What is Delphi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphi%2C_Greece_-_panoramio.jpg/1280px-Delphi%2C_Greece_-_panoramio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Delphi,_Greece_-_panoramio.jpg",
+    "credit": "tamara semina",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m13",
+   "tier": 4,
+   "q": "This 4th-century BC theater, famous for its acoustics, is at which Greek site?",
+   "a": "What is Epidaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg/1280px-The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_great_theater_of_Epidaurus,_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC,_Sanctuary_of_Asklepeios_at_Epidaurus,_Greece_(14015010416).jpg",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m14",
+   "tier": 4,
+   "q": "This spiral-relief column in Rome celebrates Trajan's conquest of which people, in today's Romania?",
+   "a": "Who are the Dacians?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trajan%27s_Column_HD.jpg/1280px-Trajan%27s_Column_HD.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Trajan's_Column_HD.jpg",
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m15",
+   "tier": 4,
+   "q": "Name this corroded bronze gear device, an ancient Greek astronomical calculator",
+   "a": "What is the Antikythera mechanism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antikythera_Fragment_A_%28Front%29.webp/1280px-Antikythera_Fragment_A_%28Front%29.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_(Front).webp",
+    "credit": "Logg Tandy",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m16",
+   "tier": 4,
+   "q": "These huge public baths in Rome are named for which emperor?",
+   "a": "Who is Caracalla?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Baths_of_Caracalla%2C_facing_Caldarium.jpg/1280px-Baths_of_Caracalla%2C_facing_Caldarium.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baths_of_Caracalla,_facing_Caldarium.jpg",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m17",
+   "tier": 5,
+   "q": "This library facade stands in which ancient city in modern Turkey?",
+   "a": "What is Ephesus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/1280px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+    "credit": "Benh LIEU SONG",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m18",
+   "tier": 5,
+   "q": "This bronze equestrian statue depicts which philosopher-emperor?",
+   "a": "Who is Marcus Aurelius?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg/1280px-Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Equestrian_statue_of_Marcus_Aurelius_(Rome).jpg",
+    "credit": "Merulana",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m19",
+   "tier": 5,
+   "q": "These massive 5th-century land walls defended which great city, capital of the Eastern Roman Empire?",
+   "a": "What is Constantinople?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Theodosian_Walls_of_Constantinople.jpg/1280px-Theodosian_Walls_of_Constantinople.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople.jpg",
+    "credit": "Apaleutos25",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-greece-rome-m20",
+   "tier": 5,
+   "q": "This well-preserved Doric temple overlooks the Athenian Agora. Which god of the forge was it for?",
+   "a": "Who is Hephaestus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Temple_of_Hephaestus_viewed_from_the_Stoa_of_Attalos_in_Athens%2C_Greece.jpg/1280px-Temple_of_Hephaestus_viewed_from_the_Stoa_of_Attalos_in_Athens%2C_Greece.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Hephaestus_viewed_from_the_Stoa_of_Attalos_in_Athens,_Greece.jpg",
+    "credit": "Julian Lupyan",
+    "license": "CC0"
+   }
   }
  ]
 }

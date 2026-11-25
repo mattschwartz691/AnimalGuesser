@@ -303,6 +303,266 @@
    "q": "This American discus thrower won gold at four straight Olympics, from 1956 to 1968",
    "a": "Who is Al Oerter?",
    "tier": 5
+  },
+  {
+   "id": "olympics-m01",
+   "tier": 1,
+   "q": "These five interlocking rings, one for each inhabited continent, are the symbol of which sporting event?",
+   "a": "What are the Olympic Games?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1280px-Olympic_rings_without_rims.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Olympic_rings_without_rims.svg",
+    "credit": "Pierre de Coubertin",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "olympics-m02",
+   "tier": 4,
+   "q": "This Jamaican sprinter set the 100 m world record at the 2009 Berlin championships, shown here. What was his time?",
+   "a": "What is 9.58 seconds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Usain_Bolt_smiling_Berlin_2009.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_smiling_Berlin_2009.JPG",
+    "credit": "Erik van Leeuwen",
+    "license": "GFDL"
+   }
+  },
+  {
+   "id": "olympics-m03",
+   "tier": 1,
+   "q": "Name this American swimmer, winner of a record 23 gold medals, pictured at the 2016 Rio Games.",
+   "a": "Who is Michael Phelps?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg",
+    "credit": "Agência Brasil Fotografias",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "olympics-m04",
+   "tier": 1,
+   "q": "Name this American gymnast, the most decorated in history, with a vault and floor moves named for her.",
+   "a": "Who is Simone Biles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/1280px-Simone_Biles_National_Team_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Simone_Biles_National_Team_2024.jpg",
+    "credit": "Ocoudis",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "olympics-m05",
+   "tier": 1,
+   "q": "Name this winter sliding sport, shown at the 2014 Games, in which Jamaica's team inspired the film 'Cool Runnings'.",
+   "a": "What is bobsleigh?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Two-man_bobsleigh%2C_2014_winter_Olympics%2C_Jamaica.jpg/1280px-Two-man_bobsleigh%2C_2014_winter_Olympics%2C_Jamaica.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Two-man_bobsleigh,_2014_winter_Olympics,_Jamaica.jpg",
+    "credit": "M. Smelter",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "olympics-m06",
+   "tier": 2,
+   "q": "Name this winter sport in which granite stones slide toward a target as teammates sweep the ice.",
+   "a": "What is curling?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Curling%2C_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton%2C_Canada.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Curling,_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton,_Canada.jpg",
+    "credit": "Glenlarson",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "olympics-m07",
+   "tier": 2,
+   "q": "By its nickname, name this Beijing stadium of woven steel, centerpiece of the 2008 Summer Games.",
+   "a": "What is the Bird's Nest?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Beijing_China_Beijing-National-Stadium-01.jpg/1280px-Beijing_China_Beijing-National-Stadium-01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-01.jpg",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "olympics-m08",
+   "tier": 2,
+   "q": "Name this American sprinter and long jumper who won four gold medals at the 1936 Berlin Games.",
+   "a": "Who is Jesse Owens?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jesse_Owens_1936.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jesse_Owens_1936.jpg",
+    "credit": "Acme News Photos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "olympics-m09",
+   "tier": 3,
+   "q": "Name this marble arena in Athens, main venue of the first modern Games in 1896.",
+   "a": "What is the Panathenaic Stadium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Panathenaic_Stadium_-_panoramio_%281%29.jpg/1280px-Panathenaic_Stadium_-_panoramio_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Panathenaic_Stadium_-_panoramio_(1).jpg",
+    "credit": "Mister No",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "olympics-m10",
+   "tier": 3,
+   "q": "Name this Romanian gymnast, pictured in 2026, who scored the first perfect 10 at the 1976 Montreal Games.",
+   "a": "Who is Nadia Comăneci?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg/1280px-Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
+    "credit": "Nuță Lucian",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "olympics-m11",
+   "tier": 2,
+   "q": "Name this sliding sport, shown in doubles, in which athletes ride a sled feet-first, lying on their backs.",
+   "a": "What is luge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mortensen_and_Griffall.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mortensen_and_Griffall.jpg",
+    "credit": "The U.S. Army",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "olympics-m12",
+   "tier": 3,
+   "q": "Name this sliding sport, shown here, in which athletes race down an icy track head-first on a small sled.",
+   "a": "What is skeleton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D%C3%A9part_de_skeleton_Amy_Williams.jpg/1280px-D%C3%A9part_de_skeleton_Amy_Williams.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9part_de_skeleton_Amy_Williams.jpg",
+    "credit": "jonwick04",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "olympics-m13",
+   "tier": 3,
+   "q": "Name this American swimmer who won the 800 m freestyle at four straight Games, 2012 to 2024.",
+   "a": "Who is Katie Ledecky?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Katie_Ledecky_at_the_2023_Golden_Goggle_Awards_%28cropped%29.jpg/1280px-Katie_Ledecky_at_the_2023_Golden_Goggle_Awards_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Katie_Ledecky_at_the_2023_Golden_Goggle_Awards_(cropped).jpg",
+    "credit": "Mledecky",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "olympics-m14",
+   "tier": 4,
+   "q": "Name this French baron who founded the International Olympic Committee in 1894.",
+   "a": "Who is Pierre de Coubertin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pierre_de_Coubertin_Anefo.jpg/1280px-Pierre_de_Coubertin_Anefo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierre_de_Coubertin_Anefo.jpg",
+    "credit": "Unknown author",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "olympics-m15",
+   "tier": 4,
+   "q": "Name this famous ancient Greek statue of an athlete about to throw, originally by the sculptor Myron.",
+   "a": "What is the Discobolus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg/1280px-Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos,_2nd_century_CE_(Glyptothek_Munich).jpg",
+    "credit": "MatthiasKabel",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "olympics-m16",
+   "tier": 4,
+   "q": "What nickname was given to this 1980 Lake Placid hockey upset of the Soviet Union by U.S. college players?",
+   "a": "What is the Miracle on Ice?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/USA_-_Soviet_Union_1980_match.jpg/1280px-USA_-_Soviet_Union_1980_match.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:USA_-_Soviet_Union_1980_match.jpg",
+    "credit": "Henry Zbyszynski",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "olympics-m17",
+   "tier": 5,
+   "q": "Name this Ethiopian who won the 1960 Rome marathon running barefoot.",
+   "a": "Who is Abebe Bikila?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Abebe_Bikila_1968_%28b_retouched%29.jpg/1280px-Abebe_Bikila_1968_%28b_retouched%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abebe_Bikila_1968_(b_retouched).jpg",
+    "credit": "Anefo Derivative work MagentaGreen",
+    "license": "CC BY-SA 3.0 nl"
+   }
+  },
+  {
+   "id": "olympics-m18",
+   "tier": 5,
+   "q": "Name this Greek water carrier, pictured, who won the first modern marathon in 1896.",
+   "a": "Who is Spyridon Louis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Spyridon_Louis_1896.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spyridon_Louis_1896.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "olympics-m19",
+   "tier": 5,
+   "q": "Name this Norwegian figure skater, pictured in 1936, who won three straight golds and became a Hollywood star.",
+   "a": "Who is Sonja Henie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sonja_Henie_1936.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sonja_Henie_1936.jpg",
+    "credit": "Unknown (IOC Olympic Museum, Switzerland)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "olympics-m20",
+   "tier": 5,
+   "q": "Name this American speed skater, pictured here, who won all five men's speed skating golds at the 1980 Games.",
+   "a": "Who is Eric Heiden?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eric_Heiden_%28Verenigde_Staten%29_bij_de_start_van_zijn_rit_op_de_500_meter%2C_Bestanddeelnr_930-1361.jpg/1280px-Eric_Heiden_%28Verenigde_Staten%29_bij_de_start_van_zijn_rit_op_de_500_meter%2C_Bestanddeelnr_930-1361.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eric_Heiden_(Verenigde_Staten)_bij_de_start_van_zijn_rit_op_de_500_meter,_Bestanddeelnr_930-1361.jpg",
+    "credit": "Koen Suyk / Anefo",
+    "license": "CC0"
+   }
   }
  ]
 }

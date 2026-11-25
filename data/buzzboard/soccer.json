@@ -303,6 +303,266 @@
    "q": "This Northern Irish winger scored in the 1968 European Cup final as Manchester United became the first English club to win it",
    "a": "Who is George Best?",
    "tier": 5
+  },
+  {
+   "id": "soccer-m01",
+   "tier": 1,
+   "q": "Name this Argentine forward, an eight-time Ballon d'Or winner who won the 2022 World Cup.",
+   "a": "Who is Lionel Messi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/1280px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "credit": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "soccer-m02",
+   "tier": 1,
+   "q": "Name this Portuguese forward, nicknamed CR7, the all-time top scorer in men's international football.",
+   "a": "Who is Cristiano Ronaldo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+    "credit": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "soccer-m03",
+   "tier": 1,
+   "q": "Which tournament, held every four years, awards this golden trophy to its champion?",
+   "a": "What is the FIFA World Cup?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg",
+    "credit": "Djuradj Vujcic",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "soccer-m04",
+   "tier": 1,
+   "q": "Name the restart this player is taking, with both hands over his head, after the ball crossed the sideline.",
+   "a": "What is a throw-in?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Soccer_throw_in_nch.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Soccer_throw_in_nch.jpg",
+    "credit": "Rick Dikeman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "soccer-m05",
+   "tier": 2,
+   "q": "Name this Brazilian legend, the only player to win three World Cups (1958, 1962, 1970).",
+   "a": "Who is Pelé?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "soccer-m06",
+   "tier": 2,
+   "q": "Name this French forward who scored a hat-trick in the 2022 World Cup final.",
+   "a": "Who is Kylian Mbappé?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/1280px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+    "credit": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "soccer-m07",
+   "tier": 2,
+   "q": "Name this London venue, famous for its giant white arch, home of England's national team.",
+   "a": "What is Wembley Stadium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/London_Wembley.jpg/1280px-London_Wembley.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:London_Wembley.jpg",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "soccer-m08",
+   "tier": 2,
+   "q": "This assistant referee is raising his flag to signal which rule violation?",
+   "a": "What is offside?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clemens_Sch%C3%BCttengruber%2C_Fu%C3%9Fballschiedsrichter_%2803%29.jpg/1280px-Clemens_Sch%C3%BCttengruber%2C_Fu%C3%9Fballschiedsrichter_%2803%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clemens_Sch%C3%BCttengruber,_Fu%C3%9Fballschiedsrichter_(03).jpg",
+    "credit": "Steindy",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "soccer-m09",
+   "tier": 3,
+   "q": "Name this stadium of FC Barcelona, the largest in Europe.",
+   "a": "What is Camp Nou?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/1280px-Camp_Nou_aerial.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg",
+    "credit": "Oh-Barcelona.com from Barcelona, Spain",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "soccer-m10",
+   "tier": 3,
+   "q": "Name this Rio de Janeiro stadium that hosted the World Cup finals of 1950 and 2014.",
+   "a": "What is the Maracanã?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/1280px-Maracana_2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "soccer-m11",
+   "tier": 3,
+   "q": "Name this French midfielder who headed two goals in the 1998 World Cup final, later Real Madrid's coach.",
+   "a": "Who is Zinedine Zidane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg",
+    "credit": "Hadi Abyar",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "soccer-m12",
+   "tier": 3,
+   "q": "Name this golden award, given each year by France Football to the world's best player.",
+   "a": "What is the Ballon d'Or?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2016_Ballon_dOr_CR7Museum.jpg/1280px-2016_Ballon_dOr_CR7Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Ballon_dOr_CR7Museum.jpg",
+    "credit": "Tkotw12",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "soccer-m13",
+   "tier": 4,
+   "q": "Name this Dutch star, pictured in 1974, famous for a 'turn' named after him and 'Total Football'.",
+   "a": "Who is Johan Cruyff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/1280px-Johan_Cruijff_%281974%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Johan_Cruijff_(1974).jpg",
+    "credit": "Rob Mieremet / Anefo",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "soccer-m14",
+   "tier": 4,
+   "q": "Name this Northern Irish winger, pictured in 1976, Manchester United's 1960s superstar.",
+   "a": "Who is George Best?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/George_best_1976.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_best_1976.jpg",
+    "credit": "Bert Verhoeff for Anefo , NL-HaNA, ANEFO",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "soccer-m15",
+   "tier": 4,
+   "q": "Name this Manchester United and England great, pictured in 1966, the year England won the World Cup.",
+   "a": "Who is Bobby Charlton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
+    "credit": "ANEFO",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "soccer-m16",
+   "tier": 4,
+   "q": "Which German club, the record Bundesliga champion, plays in this stadium whose outer panels can glow red?",
+   "a": "What is Bayern Munich?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Allianz_Arena_2008-02-09.jpg/1280px-Allianz_Arena_2008-02-09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Allianz_Arena_2008-02-09.jpg",
+    "credit": "2015 Michael 2015",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "soccer-m17",
+   "tier": 5,
+   "q": "Name this Soviet 'Black Spider', the only goalkeeper ever to win the Ballon d'Or (1963).",
+   "a": "Who is Lev Yashin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LevYashin.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:LevYashin.JPG",
+    "credit": "Kroon, Ron for Anefo",
+    "license": "CC BY-SA 3.0 nl"
+   }
+  },
+  {
+   "id": "soccer-m18",
+   "tier": 5,
+   "q": "Name this Argentine-born forward, shown at River Plate, who led Real Madrid to five straight European Cups.",
+   "a": "Who is Alfredo Di Stéfano?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alfredo_Di_Stefano_River_Plate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alfredo_Di_Stefano_River_Plate.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "soccer-m19",
+   "tier": 5,
+   "q": "Name this trick kick, where the kicking leg wraps behind the standing leg.",
+   "a": "What is a rabona?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alex_Oxlade-Chamberlain_rabona_%28cropped%29.jpg/1280px-Alex_Oxlade-Chamberlain_rabona_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alex_Oxlade-Chamberlain_rabona_(cropped).jpg",
+    "credit": "Kieran Clarke",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "soccer-m20",
+   "tier": 5,
+   "q": "Name this Benfica striker, 'The Black Panther', top scorer of the 1966 World Cup for Portugal.",
+   "a": "Who is Eusébio?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Eusebio_en_1973.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eusebio_en_1973.jpg",
+    "credit": "Panini",
+    "license": "Public domain"
+   }
   }
  ]
 }

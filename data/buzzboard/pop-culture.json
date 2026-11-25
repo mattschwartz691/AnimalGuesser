@@ -303,6 +303,279 @@
    "q": "This squishy toy made of about 2,000 rubber filaments was invented by Scott Stillinger in the 1980s",
    "a": "What is a Koosh ball?",
    "tier": 5
+  },
+  {
+   "id": "pop-culture-m01",
+   "tier": 1,
+   "q": "Name this ball-bearing toy that kids twirled between their fingers in 2017",
+   "a": "What is a fidget spinner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fidget_spinner_red%2C_cropped.jpg/960px-Fidget_spinner_red%2C_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fidget_spinner_red,_cropped.jpg",
+    "credit": "Árni Dagur",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "pop-culture-m02",
+   "tier": 1,
+   "q": "Name this metal coil toy that can \"walk\" down a flight of stairs",
+   "a": "What is a Slinky?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2006-02-04_Metal_spiral.jpg/960px-2006-02-04_Metal_spiral.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2006-02-04_Metal_spiral.jpg",
+    "credit": "Roger McLassus",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m03",
+   "tier": 1,
+   "q": "Name this brand of chunky, holey foam clogs, often decorated with charms",
+   "a": "What are Crocs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Crocs_sandals.jpg/960px-Crocs_sandals.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crocs_sandals.jpg",
+    "credit": "Zhou Yuji1028",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "pop-culture-m04",
+   "tier": 1,
+   "q": "Name this spud-shaped toy with mix-and-match facial features, shown as a giant statue",
+   "a": "Who is Mr. Potato Head?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg/960px-Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
+    "credit": "Kenneth C. Zirkel",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "pop-culture-m05",
+   "tier": 1,
+   "q": "Name this colorful 3x3x3 twisty puzzle from 1974",
+   "a": "What is a Rubik's Cube?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/330px-Rubik%27s_cube.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubik%27s_cube.svg",
+    "credit": "This image was created by me, Booyabazooka",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m06",
+   "tier": 2,
+   "q": "Name this egg-shaped Japanese digital pet that had to be fed and cleaned up after",
+   "a": "What is a Tamagotchi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tamagotchi_0124_ubt.jpeg/500px-Tamagotchi_0124_ubt.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tamagotchi_0124_ubt.jpeg",
+    "credit": "Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com]",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m07",
+   "tier": 2,
+   "q": "Name this fortune-telling toy you shake to get answers like \"Ask again later\"",
+   "a": "What is a Magic 8 Ball?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Magic8ball.jpg/330px-Magic8ball.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magic8ball.jpg",
+    "credit": "ChristianHeldt",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "pop-culture-m08",
+   "tier": 2,
+   "q": "This crystal ball drops at midnight every New Year's Eve above which New York City plaza?",
+   "a": "What is Times Square?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Seventh_Times_Square_Ball.jpg/960px-Seventh_Times_Square_Ball.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seventh_Times_Square_Ball.jpg",
+    "credit": "Jtalvy",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "pop-culture-m09",
+   "tier": 2,
+   "q": "Name the 2014 viral charity stunt for ALS, shown here, that involved a cold drenching",
+   "a": "What is the Ice Bucket Challenge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Doing_the_ALS_Ice_Bucket_Challenge_%2814927191426%29.jpg/960px-Doing_the_ALS_Ice_Bucket_Challenge_%2814927191426%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doing_the_ALS_Ice_Bucket_Challenge_(14927191426).jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-culture-m10",
+   "tier": 2,
+   "q": "This Los Angeles sidewalk honors celebrities with more than 2,700 pink stars. Name it",
+   "a": "What is the Hollywood Walk of Fame?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hollywood_Walk_of_Fame.jpg/960px-Hollywood_Walk_of_Fame.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hollywood_Walk_of_Fame.jpg",
+    "credit": "Owen Lloyd",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "pop-culture-m11",
+   "tier": 3,
+   "q": "Name this talk-show queen famous for shouting \"You get a car! You get a car!\"",
+   "a": "Who is Oprah Winfrey?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/960px-Oprah_in_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oprah_in_2014.jpg",
+    "credit": "https://www.flickr.com/photos/aphrodite-in-nyc",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-culture-m12",
+   "tier": 3,
+   "q": "Name this 1970s jewelry fad whose stone supposedly changed color with your emotions",
+   "a": "What is a mood ring?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Original_Mood_Stone_ring.jpg/960px-Original_Mood_Stone_ring.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Original_Mood_Stone_ring.jpg",
+    "credit": "Moodman001",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "pop-culture-m13",
+   "tier": 3,
+   "q": "Name this brand of sneakers with a wheel hidden in the heel",
+   "a": "What are Heelys?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heelys.jpg/960px-Heelys.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Heelys.jpg",
+    "credit": "Celardore at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m14",
+   "tier": 3,
+   "q": "Name this plastic ring that became a massive 1958 craze, twirled around the waist",
+   "a": "What is a hula hoop?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Girl_twirling_Hula_Hoop%2C_1958.jpg/500px-Girl_twirling_Hula_Hoop%2C_1958.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Girl_twirling_Hula_Hoop,_1958.jpg",
+    "credit": "GeorgeLouis",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m15",
+   "tier": 3,
+   "q": "Name this 1960s groovy light where blobs of wax rise and fall",
+   "a": "What is a lava lamp?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lava_lamp_operating.jpg/960px-Lava_lamp_operating.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lava_lamp_operating.jpg",
+    "credit": "TheMexican",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "pop-culture-m16",
+   "tier": 4,
+   "q": "These plastic bricks were invented by a toy company in which European country?",
+   "a": "What is Denmark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lego_bricks.jpg/960px-Lego_bricks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lego_bricks.jpg",
+    "credit": "Benjamin D. Esham (bdesham)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "pop-culture-m17",
+   "tier": 4,
+   "q": "Name these animal-shaped rubber bracelets that kids traded around 2010",
+   "a": "What are Silly Bandz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Silly_Bandz_2009.jpg/960px-Silly_Bandz_2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Silly_Bandz_2009.jpg",
+    "credit": "Melinda Shelton",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-culture-m18",
+   "tier": 4,
+   "q": "Name this stereoscopic viewer that showed 3D pictures on round paper reels",
+   "a": "What is a View-Master?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/View_Master_-_Model_G_Red.jpg/960px-View_Master_-_Model_G_Red.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:View_Master_-_Model_G_Red.jpg",
+    "credit": "L'Ospite Inatteso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "pop-culture-m19",
+   "tier": 4,
+   "q": "In 1975, millions bought one of these in a cardboard box with air holes, as a no-care \"pet.\" Name it",
+   "a": "What is a Pet Rock?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pet_rock.jpg/960px-Pet_rock.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pet_rock.jpg",
+    "credit": "Owner of Pet Rock Net",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m20",
+   "tier": 5,
+   "q": "Name this 1990s milk-cap game, named after a passion-orange-guava juice",
+   "a": "What are Pogs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kids_playing_pogs.jpeg/500px-Kids_playing_pogs.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kids_playing_pogs.jpeg",
+    "credit": "Jewel457",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-culture-m21",
+   "tier": 5,
+   "q": "Name this Hungarian architect, shown here, who invented a best-selling 1974 puzzle",
+   "a": "Who is Ernő Rubik?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ErnoRubik_01.jpg/500px-ErnoRubik_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ErnoRubik_01.jpg",
+    "credit": "fdecomite",
+    "license": "CC BY 2.0"
+   }
   }
  ]
 }

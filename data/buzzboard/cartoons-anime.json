@@ -303,6 +303,253 @@
    "q": "This Fire Lord, Zuko's father, is the final enemy Aang must face",
    "a": "Who is Ozai?",
    "tier": 5
+  },
+  {
+   "id": "cartoons-anime-m01",
+   "tier": 1,
+   "q": "This cosplayer is dressed as which spiky-haired Saiyan hero of Dragon Ball?",
+   "a": "Who is Goku?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Japan_Expo_2024_-_Cosplay_of_Goku.jpg/960px-Japan_Expo_2024_-_Cosplay_of_Goku.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Japan_Expo_2024_-_Cosplay_of_Goku.jpg",
+    "credit": "Miguel Discart / Kiri Karma",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m02",
+   "tier": 1,
+   "q": "Name this square yellow sea sponge who lives in a pineapple under the sea",
+   "a": "Who is SpongeBob SquarePants?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bob_esponga_en_la_Fiesta_patronal_Acatl%C3%A1n_2023.jpg/960px-Bob_esponga_en_la_Fiesta_patronal_Acatl%C3%A1n_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_esponga_en_la_Fiesta_patronal_Acatl%C3%A1n_2023.jpg",
+    "credit": "Koffermejia",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m03",
+   "tier": 1,
+   "q": "This groovy van carries which cartoon Great Dane and his mystery-solving friends?",
+   "a": "Who is Scooby-Doo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Scooby_Doo_Mystery_Machine_van_2.jpg/960px-Scooby_Doo_Mystery_Machine_van_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scooby_Doo_Mystery_Machine_van_2.jpg",
+    "credit": "James St. John",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m04",
+   "tier": 1,
+   "q": "Name this carrot-chomping Looney Tunes rabbit who asks \"What's up, Doc?\"",
+   "a": "Who is Bugs Bunny?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bugs_Bunny_Statue_Leicester_Square.jpg/960px-Bugs_Bunny_Statue_Leicester_Square.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugs_Bunny_Statue_Leicester_Square.jpg",
+    "credit": "Tony Hisgett",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m05",
+   "tier": 1,
+   "q": "Name this pipe-smoking, spinach-eating sailor man",
+   "a": "Who is Popeye?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Popeye_transparent.png/960px-Popeye_transparent.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Popeye_transparent.png",
+    "credit": "Bela Zaboly for King Features Syndicate, Inc.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cartoons-anime-m06",
+   "tier": 2,
+   "q": "This cosplayer portrays which straw-hat-wearing pirate captain of One Piece?",
+   "a": "Who is Luffy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cosplay_of_Monkey_D._Luffy_at_Anime_Boston_2026_-_20260404_1125AM.jpg/960px-Cosplay_of_Monkey_D._Luffy_at_Anime_Boston_2026_-_20260404_1125AM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_at_Anime_Boston_2026_-_20260404_1125AM.jpg",
+    "credit": "Abzeronow",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m07",
+   "tier": 2,
+   "q": "Name this earless blue robot cat from the 22nd century, a Japanese icon",
+   "a": "Who is Doraemon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Doraemon_at_National_Museum_of_Singapore..jpg/960px-Doraemon_at_National_Museum_of_Singapore..jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doraemon_at_National_Museum_of_Singapore..jpg",
+    "credit": "ScribblingGeek",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m08",
+   "tier": 2,
+   "q": "This cosplayer is dressed as which bald, arrow-tattooed young Avatar?",
+   "a": "Who is Aang?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Japan_Expo_2024_-_Cosplay_of_Aang.jpg/960px-Japan_Expo_2024_-_Cosplay_of_Aang.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Japan_Expo_2024_-_Cosplay_of_Aang.jpg",
+    "credit": "Miguel Discart / Kiri Karma",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m09",
+   "tier": 2,
+   "q": "This orange-sweatered cosplayer portrays which bespectacled Mystery Inc. sleuth?",
+   "a": "Who is Velma?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Velma_Cosplayer_at_Animate%21_Miami_2014.jpg/960px-Velma_Cosplayer_at_Animate%21_Miami_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Velma_Cosplayer_at_Animate!_Miami_2014.jpg",
+    "credit": "Bob B. Brown",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m10",
+   "tier": 3,
+   "q": "Name this cartoonist who created The Simpsons and Futurama",
+   "a": "Who is Matt Groening?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Matt_Groening_by_Gage_Skidmore_2.jpg/960px-Matt_Groening_by_Gage_Skidmore_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Matt_Groening_by_Gage_Skidmore_2.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m11",
+   "tier": 3,
+   "q": "These cosplayers portray the outer Guardians from which 1990s magical-girl anime?",
+   "a": "What is Sailor Moon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cosplay_of_Sailor_Pluto%2C_Sailor_Neptune_and_Sailor_Uranus_at_Katsucon_2015.jpg/960px-Cosplay_of_Sailor_Pluto%2C_Sailor_Neptune_and_Sailor_Uranus_at_Katsucon_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Sailor_Pluto,_Sailor_Neptune_and_Sailor_Uranus_at_Katsucon_2015.jpg",
+    "credit": "peyj_turner",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m12",
+   "tier": 3,
+   "q": "This cosplayer portrays Sasuke Uchiha, rival of which orange-clad ninja title character?",
+   "a": "Who is Naruto?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sasuke_Uchiha_cosplayer_at_FanimeCon_2010-05-30.JPG/960px-Sasuke_Uchiha_cosplayer_at_FanimeCon_2010-05-30.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Sasuke_Uchiha_cosplayer_at_FanimeCon_2010-05-30.JPG",
+    "credit": "BrokenSphere",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m13",
+   "tier": 3,
+   "q": "These cosplayers dress as characters from which Cartoon Network show set in the Land of Ooo?",
+   "a": "What is Adventure Time?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/FInn_and_Feona_%289642147056%29.jpg/960px-FInn_and_Feona_%289642147056%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FInn_and_Feona_(9642147056).jpg",
+    "credit": "Dave Monk from Seattle, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m14",
+   "tier": 4,
+   "q": "Name this rocket-booted robot boy, star of a famous 1950s manga and 1963 anime",
+   "a": "Who is Astro Boy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Astro_Boy_01.jpg/960px-Astro_Boy_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Astro_Boy_01.jpg",
+    "credit": "LIFEBOOK6300",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m15",
+   "tier": 4,
+   "q": "Name this marine-biologist-turned-animator who created a Nickelodeon show set in Bikini Bottom",
+   "a": "Who is Stephen Hillenburg?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stephen_Hillenburg_by_Carlos_Cazurro.jpg/960px-Stephen_Hillenburg_by_Carlos_Cazurro.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Hillenburg_by_Carlos_Cazurro.jpg",
+    "credit": "Carlos Cazurro Burgos (http://www.cazurro.com/)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m16",
+   "tier": 4,
+   "q": "This green cloak with the \"Wings of Freedom\" crest belongs to the Survey Corps in which anime?",
+   "a": "What is Attack on Titan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Soldier%27s_Cloak_from_Attack_on_Titan_The_Final_Exhibition.jpg/960px-Soldier%27s_Cloak_from_Attack_on_Titan_The_Final_Exhibition.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Soldier%27s_Cloak_from_Attack_on_Titan_The_Final_Exhibition.jpg",
+    "credit": "VulcanSphere",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "cartoons-anime-m17",
+   "tier": 4,
+   "q": "Name the grinning black cartoon cat, a silent-era superstar, who stars in this 1936 short",
+   "a": "Who is Felix the Cat?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bold_King_Cole_%281936%29_Features_Felix_The_Cat.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Bold_King_Cole_(1936)_Features_Felix_The_Cat.webm",
+    "credit": "Van Beuren Studios",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cartoons-anime-m18",
+   "tier": 5,
+   "q": "Name this \"God of Manga,\" shown in 1951, who created Kimba the White Lion and Black Jack",
+   "a": "Who is Osamu Tezuka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osamu_Tezuka_1951_Scan10008-2.JPG/500px-Osamu_Tezuka_1951_Scan10008-2.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Osamu_Tezuka_1951_Scan10008-2.JPG",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cartoons-anime-m19",
+   "tier": 5,
+   "q": "Name the lanky girlfriend of the spinach-eating sailor, shown here in an early comic strip",
+   "a": "Who is Olive Oyl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Olive_Oyl_threatens_Popeye.png/330px-Olive_Oyl_threatens_Popeye.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Olive_Oyl_threatens_Popeye.png",
+    "credit": "E. C. Segar",
+    "license": "Public domain"
+   }
   }
  ]
 }

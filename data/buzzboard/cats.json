@@ -303,6 +303,279 @@
    "q": "This Asian rainforest cat has the longest canine teeth relative to body size of any living cat",
    "a": "What is the clouded leopard?",
    "tier": 5
+  },
+  {
+   "id": "cats-m01",
+   "tier": 1,
+   "q": "Name this big cat, the largest cat species, with orange fur and black stripes",
+   "a": "What is a tiger?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg/960px-Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m02",
+   "tier": 1,
+   "q": "Name this big cat, the fastest land animal",
+   "a": "What is a cheetah?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/960px-Male_cheetah_facing_left_in_South_Africa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Male_cheetah_facing_left_in_South_Africa.jpg",
+    "credit": "AfricanConservation",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m03",
+   "tier": 1,
+   "q": "Listen: name the big cat, the 'King of Beasts', making this sound",
+   "a": "What is a lion?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/Lionroar.wav/Lionroar.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Lionroar.wav",
+    "credit": "Jonathan Growcott, Alex Lobora, Andrew Markham, Charlotte E. Searle, Johan Wahlström,...",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "cats-m04",
+   "tier": 1,
+   "q": "Listen: what sound is this house cat making?",
+   "a": "What is purring?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Purring_cat.oga/Purring_cat.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Purring_cat.oga",
+    "credit": "Mysid",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cats-m05",
+   "tier": 2,
+   "q": "Name this cat breed from Thailand with blue eyes and dark 'points' on its face, ears, paws and tail",
+   "a": "What is the Siamese cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Siamese_cat_Vaillante.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Siamese_cat_Vaillante.JPG",
+    "credit": "Meekahoo",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cats-m06",
+   "tier": 2,
+   "q": "Name this big cat of the high mountains of Central Asia",
+   "a": "What is the snow leopard?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/960px-Irbis4.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Irbis4.JPG",
+    "credit": "Irbis1983",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cats-m07",
+   "tier": 2,
+   "q": "Name this long-haired cat breed with a flat face",
+   "a": "What is the Persian cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Persialainen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Persialainen.jpg",
+    "credit": "The original uploader was Lajoma at Finnish Wikipedia.",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cats-m08",
+   "tier": 2,
+   "q": "Name this mostly hairless cat breed",
+   "a": "What is the Sphynx?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sphynx_-_cat._img_031.jpg/960px-Sphynx_-_cat._img_031.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sphynx_-_cat._img_031.jpg",
+    "credit": "Dmitry Makeev",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m09",
+   "tier": 3,
+   "q": "Name this big cat of the Americas with rosettes on its coat, the largest cat in the New World",
+   "a": "What is the jaguar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Standing_jaguar.jpg",
+    "credit": "USFWS",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "cats-m10",
+   "tier": 3,
+   "q": "Name this wild cat of Africa and Asia with long black ear tufts",
+   "a": "What is the caracal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg/960px-Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Caracal_on_the_road,_early_morning_in_Kgalagadi_(36173878220)_(cropped).jpg",
+    "credit": "Derek Keats",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "cats-m11",
+   "tier": 3,
+   "q": "Name this African wild cat with very long legs and big ears",
+   "a": "What is the serval?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Servalcropped.png/960px-Servalcropped.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Servalcropped.png",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m12",
+   "tier": 3,
+   "q": "Name this cat breed whose ears bend forward and down",
+   "a": "What is the Scottish Fold?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Scottish_Fold_-_CFF_cat_show_Heinola_2008-05-03_IMG_7882.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Scottish_Fold_-_CFF_cat_show_Heinola_2008-05-03_IMG_7882.JPG",
+    "credit": "Heikki Siltala",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "cats-m13",
+   "tier": 3,
+   "q": "Name this large, shaggy North American cat breed, the official state cat of a New England state",
+   "a": "What is the Maine Coon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mâle_Black_Silver_Blotched_Tabby.jpeg",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m14",
+   "tier": 4,
+   "q": "Name this wild cat of Central Asia with a flat face and round pupils",
+   "a": "What is Pallas's cat (manul)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manoel.jpg/960px-Manoel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Manoel.jpg",
+    "credit": "Sander van der Wel",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "cats-m15",
+   "tier": 4,
+   "q": "Name this Asian wild cat with cloud-shaped markings and the longest canines for its size of any cat",
+   "a": "What is the clouded leopard?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neofelis_nebulosa%2C_Clouded_leopard.jpg/960px-Neofelis_nebulosa%2C_Clouded_leopard.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Neofelis_nebulosa,_Clouded_leopard.jpg",
+    "credit": "Rushenb",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m16",
+   "tier": 4,
+   "q": "Name this small wild cat of the Sahara and Arabian deserts",
+   "a": "What is the sand cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Persian_sand_CAT.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Persian_sand_CAT.jpg",
+    "credit": "Payman sazesh",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "cats-m17",
+   "tier": 4,
+   "q": "Name this spotted wild cat of the Americas, a former pet of Salvador Dalí",
+   "a": "What is the ocelot?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m18",
+   "tier": 5,
+   "q": "Name this tree-dwelling cat of the Americas that can climb down trees head-first",
+   "a": "What is the margay?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Margay_in_Costa_Rica.jpg/960px-Margay_in_Costa_Rica.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Margay_in_Costa_Rica.jpg",
+    "credit": "Supreet Sahoo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cats-m19",
+   "tier": 5,
+   "q": "Name this smallest wild cat of the Americas, native to Chile and Argentina",
+   "a": "What is the kodkod?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Leopardus_guigna.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leopardus_guigna.jpeg",
+    "credit": "Mauro Tammone",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "cats-m20",
+   "tier": 5,
+   "q": "Name this long, low-bodied wild cat of the Americas that looks a bit like a weasel",
+   "a": "What is the jaguarundi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Puma_yagouaroundi.jpg/960px-Puma_yagouaroundi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puma_yagouaroundi.jpg",
+    "credit": "Vassil",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "cats-m21",
+   "tier": 5,
+   "q": "Name this cat breed with a 'ticked' coat, said to resemble cats of ancient Egypt",
+   "a": "What is the Abyssinian?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gustav_chocolate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gustav_chocolate.jpg",
+    "credit": "Karin Langner-Bahmann",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "This 16th-century Italian architect wrote 'The Four Books of Architecture,' and his villas near Venice inspired a style named for him",
    "a": "Who is Andrea Palladio?",
    "tier": 5
+  },
+  {
+   "id": "architecture-m01",
+   "tier": 1,
+   "q": "Name this Art Deco skyscraper, New York's tallest from 1931 to 1970",
+   "a": "What is the Empire State Building?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/500px-Empire_State_Building_%28aerial_view%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+    "credit": "Sam Valadi",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "architecture-m02",
+   "tier": 1,
+   "q": "This glass pyramid is the entrance to which Paris museum?",
+   "a": "What is the Louvre?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg",
+    "credit": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "architecture-m03",
+   "tier": 1,
+   "q": "Name the world's tallest building, towering over Dubai",
+   "a": "What is the Burj Khalifa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/1280px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg",
+    "credit": "imran shahabuddin",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "architecture-m04",
+   "tier": 1,
+   "q": "Name this Paris cathedral, famously damaged by fire in 2019",
+   "a": "What is Notre-Dame?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/1280px-Notre-Dame_de_Paris%2C_4_October_2017.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+    "credit": "Ali Sabbagh",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "architecture-m05",
+   "tier": 2,
+   "q": "Name this type of tiered tower, here at Horyu-ji in Japan",
+   "a": "What is a pagoda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Horyu-ji09s3200.jpg/1280px-Horyu-ji09s3200.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Horyu-ji09s3200.jpg",
+    "credit": "663highland",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "architecture-m06",
+   "tier": 2,
+   "q": "Pointed arches and soaring spires, as at Cologne Cathedral, mark which medieval style?",
+   "a": "What is Gothic?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/1280px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "architecture-m07",
+   "tier": 2,
+   "q": "Name this 1930s house in Pennsylvania, built right over a waterfall",
+   "a": "What is Fallingwater?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/1280px-Fallingwater3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg",
+    "credit": "lachrimae72",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "architecture-m08",
+   "tier": 2,
+   "q": "Name this titanium-clad art gallery in Spain, opened in 1997",
+   "a": "What is the Guggenheim Museum Bilbao?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg/1280px-Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg",
+    "credit": "Naotake Murayama",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "architecture-m09",
+   "tier": 3,
+   "q": "The Chrysler Building is a classic of which 1920s-30s style?",
+   "a": "What is Art Deco?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chrysler_Building_1_%284684845155%29.jpg/1280px-Chrysler_Building_1_%284684845155%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_1_(4684845155).jpg",
+    "credit": "Tony Hisgett from Birmingham, UK",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "architecture-m10",
+   "tier": 3,
+   "q": "Built as a church in 537, later a mosque, name this Istanbul landmark",
+   "a": "What is Hagia Sophia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1280px-Hagia_Sophia_%28228968325%29.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+    "credit": "Adli Wahid",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "architecture-m11",
+   "tier": 3,
+   "q": "Name these external arched supports that hold up Gothic church walls",
+   "a": "What are flying buttresses?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg/1280px-L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg",
+    "credit": "Photo: Andreas Praefcke",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "architecture-m12",
+   "tier": 3,
+   "q": "Name this simplest of the classical column styles, seen on the Parthenon",
+   "a": "What is the Doric order?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DoricParthenon.jpg/250px-DoricParthenon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DoricParthenon.jpg",
+    "credit": "unknown engraver",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "architecture-m13",
+   "tier": 4,
+   "q": "Boston City Hall is a famous example of which raw-concrete style?",
+   "a": "What is Brutalism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Boston_City_Hall_%2854958978424%29.jpg/1280px-Boston_City_Hall_%2854958978424%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_(54958978424).jpg",
+    "credit": "ajay_suresh",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "architecture-m14",
+   "tier": 4,
+   "q": "Who engineered the great dome of Florence Cathedral, completed in 1436?",
+   "a": "Who is Filippo Brunelleschi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/1280px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "credit": "Gary Campbell-Hall",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "architecture-m15",
+   "tier": 4,
+   "q": "Which Catalan architect designed Casa Batllo in Barcelona?",
+   "a": "Who is Antoni Gaudi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg/1280px-Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "credit": "ChristianSchd",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "architecture-m16",
+   "tier": 4,
+   "q": "These leafy column capitals at Baalbek belong to which classical column style?",
+   "a": "What is the Corinthian order?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Bacchus_at_Baalbek.jpg/1280px-Temple_of_Bacchus_at_Baalbek.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus_at_Baalbek.jpg",
+    "credit": "Alexandre Mounayer",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "architecture-m17",
+   "tier": 5,
+   "q": "Which 'less is more' architect designed this 1929 pavilion in Barcelona?",
+   "a": "Who is Ludwig Mies van der Rohe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg/1280px-The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion,_Barcelona,_2010.jpg",
+    "credit": "Ashley Pomeroy at English Wikipedia",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "architecture-m18",
+   "tier": 5,
+   "q": "Which architect designed this steel-clad Los Angeles concert hall?",
+   "a": "Who is Frank Gehry?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/1280px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_Concert_Hall,_LA,_CA,_jjron_22.03.2012.jpg",
+    "credit": "jjron",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "architecture-m19",
+   "tier": 5,
+   "q": "This colorful Vienna apartment block is named for which artist-architect?",
+   "a": "Who is Friedensreich Hundertwasser?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wien_-_Hundertwasserhaus_%2803%29.JPG/1280px-Wien_-_Hundertwasserhaus_%2803%29.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Wien_-_Hundertwasserhaus_(03).JPG",
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "architecture-m20",
+   "tier": 5,
+   "q": "Name this type of stepped Mesopotamian temple tower, here at Ur",
+   "a": "What is a ziggurat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ziggarat_of_Ur_001.jpg/1280px-Ziggarat_of_Ur_001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg",
+    "credit": "Tla2006 at English Wikipedia",
+    "license": "Public domain"
+   }
   }
  ]
 }

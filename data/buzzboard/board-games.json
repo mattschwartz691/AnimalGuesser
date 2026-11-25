@@ -303,6 +303,279 @@
    "q": "Recorded in India by the sixth century AD, this game named for the four divisions of an army is seen as the ancestor of chess",
    "a": "What is chaturanga?",
    "tier": 5
+  },
+  {
+   "id": "board-games-m01",
+   "tier": 1,
+   "q": "Name the game played with these pieces: king, rook, queen, pawn, knight and bishop.",
+   "a": "What is chess?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
+    "credit": "Alan Light",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "board-games-m02",
+   "tier": 1,
+   "q": "Name this game in which pieces jump diagonally over opponents and get 'kinged' on the far row.",
+   "a": "What is checkers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CheckersStandard.jpg/1280px-CheckersStandard.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CheckersStandard.jpg",
+    "credit": "Jud McCranie",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "board-games-m03",
+   "tier": 1,
+   "q": "Name this crossword-style game in which players score points by placing lettered tiles on a board.",
+   "a": "What is Scrabble?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Scrabble_game_in_progress.jpg/1280px-Scrabble_game_in_progress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scrabble_game_in_progress.jpg",
+    "credit": "thebarrowboy",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "board-games-m04",
+   "tier": 4,
+   "q": "Name this tabletop game from South Asia in which players flick a striker to knock discs into corner pockets.",
+   "a": "What is carrom?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Carrom.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Carrom.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "board-games-m05",
+   "tier": 2,
+   "q": "In chess, what is it called when the king is attacked and has no escape, ending the game as shown?",
+   "a": "What is checkmate?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CheckmateProper.jpg/1280px-CheckmateProper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CheckmateProper.jpg",
+    "credit": "Bubba73 at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "board-games-m06",
+   "tier": 2,
+   "q": "Name this ancient dice game where each player races 15 checkers around 24 triangular points.",
+   "a": "What is backgammon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/1280px-Backgammon_lg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Backgammon_lg.png",
+    "credit": "Ptkfgs",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "board-games-m07",
+   "tier": 1,
+   "q": "Name this game of rectangular tiles marked with dots, matched end to end.",
+   "a": "What are dominoes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dominospiel.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dominospiel.JPG",
+    "credit": "Peng",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "board-games-m08",
+   "tier": 2,
+   "q": "Name this game, despite its name invented in Germany, played with marbles on a six-pointed star.",
+   "a": "What is Chinese checkers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ChineseCheckersboard.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:ChineseCheckersboard.jpeg",
+    "credit": "Hephaestos",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "board-games-m09",
+   "tier": 3,
+   "q": "Name this Chinese game for four players, using tiles in suits such as bamboo, characters and dots.",
+   "a": "What is mahjong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mahjong_game.jpg/1280px-Mahjong_game.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahjong_game.jpg",
+    "credit": "yui*",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "board-games-m10",
+   "tier": 3,
+   "q": "Name this ancient East Asian strategy game of black and white stones placed on the lines of a grid.",
+   "a": "What is Go?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/FloorGoban.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:FloorGoban.JPG",
+    "credit": "Goban1",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "board-games-m11",
+   "tier": 3,
+   "q": "Name this Norwegian chess world champion (2013-2023) who holds the highest rating in history.",
+   "a": "Who is Magnus Carlsen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg",
+    "credit": "Frans Peeters Photography",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "board-games-m12",
+   "tier": 3,
+   "q": "Name this game in which black-and-white discs flip to the other color when they are outflanked.",
+   "a": "What is Othello (Reversi)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Othello_Spielbrett.jpg/1280px-Othello_Spielbrett.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Othello_Spielbrett.jpg",
+    "credit": "Neuhaus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "board-games-m13",
+   "tier": 4,
+   "q": "Name this American, pictured in 1972, the year he beat Boris Spassky in Reykjavik for the world chess title.",
+   "a": "Who is Bobby Fischer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/1280px-Bobby_Fischer_1972.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_1972.jpg",
+    "credit": "Bert Verhoeff for Anefo",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "board-games-m14",
+   "tier": 4,
+   "q": "Name this Russian world chess champion who famously lost a 1997 match to IBM's Deep Blue.",
+   "a": "Who is Garry Kasparov?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg/1280px-Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Garri_Kasparow_(18776605665)_(cropped)_2.jpg",
+    "credit": "Fryta 73 from Strzegom",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "board-games-m15",
+   "tier": 4,
+   "q": "Name this Japanese chess variant in which captured pieces can be dropped back into play.",
+   "a": "What is shogi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shogi_board_pieces_and_komadai.jpg/1280px-Shogi_board_pieces_and_komadai.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shogi_board_pieces_and_komadai.jpg",
+    "credit": "Oliver Orschiedt",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "board-games-m16",
+   "tier": 2,
+   "q": "Name this card game, scored by moving pegs along a holed wooden board.",
+   "a": "What is cribbage?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Afternoon_cribbage_on_the_patio._%2850002851016%29.jpg/1280px-Afternoon_cribbage_on_the_patio._%2850002851016%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Afternoon_cribbage_on_the_patio._(50002851016).jpg",
+    "credit": "J Wynia from Minneapolis, United States",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "board-games-m17",
+   "tier": 5,
+   "q": "Name this 4,500-year-old board for a two-player race, found in tombs of ancient Mesopotamia and now in the British Museum.",
+   "a": "What is the Royal Game of Ur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/British_Museum_Royal_Game_of_Ur.jpg/1280px-British_Museum_Royal_Game_of_Ur.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Royal_Game_of_Ur.jpg",
+    "credit": "BabelStone",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "board-games-m18",
+   "tier": 5,
+   "q": "This 19th-century Jain board game about virtue and vice is an ancestor of which children's game?",
+   "a": "What is Snakes and Ladders?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Snakes_and_Ladders.jpg/1280px-Snakes_and_Ladders.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snakes_and_Ladders.jpg",
+    "credit": "Jain Miniature",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "board-games-m19",
+   "tier": 5,
+   "q": "Name this Viking board game in which a king tries to escape to a corner while the other side tries to capture him.",
+   "a": "What is hnefatafl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/ZHNEFA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ZHNEFA.jpg",
+    "credit": "Andreas Zautner",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "board-games-m20",
+   "tier": 5,
+   "q": "Name these Japanese 'flower cards': 48 cards in 12 suits, one for each month.",
+   "a": "What are hanafuda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hanafuda_Koi-Koi_Setup_1.jpg/1280px-Hanafuda_Koi-Koi_Setup_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+    "credit": "Marcus Richert",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "board-games-m21",
+   "tier": 5,
+   "q": "Played here in Malawi, this game of sowing seeds into pits belongs to which family of count-and-capture games?",
+   "a": "What is mancala?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yao_People_Playing_%22Bawo%22.jpg/1280px-Yao_People_Playing_%22Bawo%22.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yao_People_Playing_%22Bawo%22.jpg",
+    "credit": "MozMozJ",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

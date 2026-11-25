@@ -303,6 +303,279 @@
    "q": "In 1802 this British amateur meteorologist proposed the Latin cloud names cumulus, stratus and cirrus that we still use",
    "a": "Who is Luke Howard?",
    "tier": 5
+  },
+  {
+   "id": "weather-m01",
+   "tier": 1,
+   "q": "Name this colorful arc that appears when sunlight shines through raindrops",
+   "a": "What is a rainbow?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+    "credit": "Eric Rolph at English Wikipedia",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "weather-m02",
+   "tier": 1,
+   "q": "Name this violently rotating column of air reaching down from a thunderstorm",
+   "a": "What is a tornado?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F5_tornado_Elie_Manitoba_2007.jpg/960px-F5_tornado_Elie_Manitoba_2007.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:F5_tornado_Elie_Manitoba_2007.jpg",
+    "credit": "Justin Hobson (Justin1569 at English Wikipedia)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "weather-m03",
+   "tier": 1,
+   "q": "Name this six-sided ice crystal, shown magnified",
+   "a": "What is a snowflake?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowflake_%28lumehelves%29.jpg/960px-Snowflake_%28lumehelves%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+    "credit": "Janek Lass",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "weather-m04",
+   "tier": 1,
+   "q": "Watch (in slow motion): name this giant electrical spark in the sky",
+   "a": "What is lightning?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/LightningStrike240FPS.webm/LightningStrike240FPS.webm.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:LightningStrike240FPS.webm",
+    "credit": "GalaxyDoge72",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m05",
+   "tier": 1,
+   "q": "Listen: name this sound caused by a lightning bolt",
+   "a": "What is thunder?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Thunder_crack_2B.ogg/Thunder_crack_2B.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Thunder_crack_2B.ogg",
+    "credit": "Jud McCranie",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m06",
+   "tier": 2,
+   "q": "Name this storm, seen from space, with a clear eye at its center (Atlantic name)",
+   "a": "What is a hurricane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg",
+    "credit": "NASA/Goddard Space Flight Center",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "weather-m07",
+   "tier": 2,
+   "q": "Name these balls or lumps of ice that fall from thunderstorms",
+   "a": "What is hail?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Granizo.jpg/960px-Granizo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Granizo.jpg",
+    "credit": "nssl0001, National Severe Storms Laboratory (NSSL) Collection",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "weather-m08",
+   "tier": 2,
+   "q": "Name this towering type of thunderstorm cloud with an anvil-shaped top",
+   "a": "What is cumulonimbus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cumulonimbus_incus_over_Warsaw%2C_Poland.jpg/960px-Cumulonimbus_incus_over_Warsaw%2C_Poland.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_incus_over_Warsaw,_Poland.jpg",
+    "credit": "Kamil Nowacki",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m09",
+   "tier": 2,
+   "q": "Name this glowing display of light in the sky near the poles",
+   "a": "What is an aurora (northern/southern lights)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/960px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg",
+    "credit": "United States Air Force photo by Senior Airman Joshua Strang",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "weather-m10",
+   "tier": 3,
+   "q": "Name this type of pouch-like cloud that hangs from the underside of a storm cloud",
+   "a": "What are mammatus clouds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mammatus_clouds_in_the_Nepal_Himalayas.jpg/960px-Mammatus_clouds_in_the_Nepal_Himalayas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mammatus_clouds_in_the_Nepal_Himalayas.jpg",
+    "credit": "Anton Yankovyi",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m11",
+   "tier": 3,
+   "q": "Name this type of lens- or saucer-shaped formation over mountains, often mistaken for a UFO",
+   "a": "What is a lenticular cloud?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lenticular_Cloud_over_Harold%27s_Cross_Dublin_Ireland_30-6-15.jpg/960px-Lenticular_Cloud_over_Harold%27s_Cross_Dublin_Ireland_30-6-15.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lenticular_Cloud_over_Harold's_Cross_Dublin_Ireland_30-6-15.jpg",
+    "credit": "Omnisource5",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m12",
+   "tier": 3,
+   "q": "Name this tornado-like vortex that forms over a lake or sea",
+   "a": "What is a waterspout?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20292-water_spout_%2833100811810%29.jpg/960px-20292-water_spout_%2833100811810%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20292-water_spout_(33100811810).jpg",
+    "credit": "oliver.dodd",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "weather-m13",
+   "tier": 3,
+   "q": "Name this wall of blowing dust that sweeps across deserts like the Sahara and Sudan",
+   "a": "What is a haboob?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Haboob_Ransom_Canyon_Texas_2009.jpg/960px-Haboob_Ransom_Canyon_Texas_2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Haboob_Ransom_Canyon_Texas_2009.jpg",
+    "credit": "Leaflet",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "weather-m14",
+   "tier": 4,
+   "q": "Name this optical effect: bright spots of light on either side of the Sun",
+   "a": "What is a sun dog (parhelion)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fargo_Sundogs_2_18_09.jpg/960px-Fargo_Sundogs_2_18_09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fargo_Sundogs_2_18_09.jpg",
+    "credit": "Gopherboy6956",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "weather-m15",
+   "tier": 4,
+   "q": "Name this low, wedge-shaped formation on the leading edge of a thunderstorm",
+   "a": "What is a shelf cloud?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Charlton_shelf_cloud.jpg/960px-Charlton_shelf_cloud.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Charlton_shelf_cloud.jpg",
+    "credit": "Will y theweatherguy473737",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m16",
+   "tier": 4,
+   "q": "Name these wave-shaped formations in the sky, named for two 19th-century physicists",
+   "a": "What are Kelvin-Helmholtz clouds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Wavecloudsduval.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wavecloudsduval.jpg",
+    "credit": "GRAHAMUK, user of the English language Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "weather-m17",
+   "tier": 4,
+   "q": "Name these glowing high-altitude wisps seen at twilight in summer",
+   "a": "What are noctilucent clouds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Noctilucent-clouds-msu-6817.jpg/960px-Noctilucent-clouds-msu-6817.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Noctilucent-clouds-msu-6817.jpg",
+    "credit": "Matthias Süßen",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m18",
+   "tier": 5,
+   "q": "Name this rare roll-shaped formation over Queensland's Gulf of Carpentaria, ridden by glider pilots",
+   "a": "What is the Morning Glory cloud?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MorningGloryCloudBurketownFromPlane.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MorningGloryCloudBurketownFromPlane.jpg",
+    "credit": "Mick Petroff",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "weather-m19",
+   "tier": 5,
+   "q": "Name this circular gap in a cloud layer, caused by ice crystals falling out",
+   "a": "What is a fallstreak hole?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/HolePunchCloud.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HolePunchCloud.jpg",
+    "credit": "H. Raab (User:Vesta)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "weather-m20",
+   "tier": 5,
+   "q": "Name these wisps of rain that evaporate before reaching the ground",
+   "a": "What is virga?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%92%D0%B8%D1%80%D0%B3%D0%B0_%D0%B2_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B5_23.04.2020%D0%B3.jpg/960px-%D0%92%D0%B8%D1%80%D0%B3%D0%B0_%D0%B2_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B5_23.04.2020%D0%B3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Вирга_в_Саратове_23.04.2020г.jpg",
+    "credit": "Виктор Алексеев",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "weather-m21",
+   "tier": 5,
+   "q": "Name this small, smooth 'cap' sitting on top of a growing cumulus",
+   "a": "What is a pileus cloud?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cumulus_pileus.jpg/960px-Cumulus_pileus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cumulus_pileus.jpg",
+    "credit": "User:Dhaluza",
+    "license": "CC BY 2.5"
+   }
   }
  ]
 }

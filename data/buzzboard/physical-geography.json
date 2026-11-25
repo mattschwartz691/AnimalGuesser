@@ -303,6 +303,266 @@
    "q": "Canada's highest mountain, it rises in the Saint Elias range in Yukon",
    "a": "What is Mount Logan?",
    "tier": 5
+  },
+  {
+   "id": "physical-geography-m01",
+   "tier": 1,
+   "q": "Name this highest mountain on Earth",
+   "a": "What is Mount Everest?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/960px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "credit": "Rdevany",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physical-geography-m02",
+   "tier": 1,
+   "q": "Name this huge gorge carved by the Colorado River in Arizona",
+   "a": "What is the Grand Canyon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/960px-Canyon_River_Tree_%28165872763%29.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+    "credit": "Lennart Sikkema",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "physical-geography-m03",
+   "tier": 1,
+   "q": "Name this snow-capped volcano, the tallest mountain in Japan",
+   "a": "What is Mount Fuji?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/960px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_Ōwakudani_20211202.jpg",
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m04",
+   "tier": 1,
+   "q": "Name these famous waterfalls on the border of the US and Canada",
+   "a": "What is Niagara Falls?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/960px-3Falls_Niagara.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+    "credit": "Saffron Blaze",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physical-geography-m05",
+   "tier": 2,
+   "q": "Name this huge sandstone monolith in the Australian outback, sacred to the Anangu",
+   "a": "What is Uluru (Ayers Rock)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/960px-ULURU.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+    "credit": "Ek2030372672",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m06",
+   "tier": 2,
+   "q": "Name this pyramid-shaped Alpine peak on the Swiss–Italian border",
+   "a": "What is the Matterhorn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg/960px-Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domhütte_-_2.jpg",
+    "credit": "Photo: chil, on Camptocamp.org Derivative work:Zacharie Grossen",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physical-geography-m07",
+   "tier": 2,
+   "q": "Name this highest mountain in Africa, a volcano in Tanzania",
+   "a": "What is Mount Kilimanjaro?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/960px-Kilimanjaro_from_Amboseli.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+    "credit": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m08",
+   "tier": 2,
+   "q": "Name this waterfall on the Zambezi River, called 'The Smoke That Thunders'",
+   "a": "What is Victoria Falls?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/960px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m09",
+   "tier": 3,
+   "q": "Name this world's highest uninterrupted waterfall, in Venezuela",
+   "a": "What is Angel Falls?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SaltoAngel1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg",
+    "credit": "Rich Childs",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "physical-geography-m10",
+   "tier": 3,
+   "q": "Name this massive set of waterfalls on the border of Argentina and Brazil",
+   "a": "What are Iguazu Falls?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg/960px-Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Iguaçu_26_Nov_2005.jpg",
+    "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m11",
+   "tier": 3,
+   "q": "Name this world's largest salt flat, in Bolivia",
+   "a": "What is the Salar de Uyuni?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/960px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reflection_on_the_Salar_de_Uyuni,_bolivia.jpg",
+    "credit": "Christopher Crouzet",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m12",
+   "tier": 3,
+   "q": "Name this Wyoming butte made of rock columns, the first US National Monument",
+   "a": "What is Devils Tower?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Columnar-jointed_porphyritic_phonolite_%28Eocene%2C_49_Ma%3B_Devils_Tower%2C_Wyoming%2C_USA%29_48.jpg/960px-Columnar-jointed_porphyritic_phonolite_%28Eocene%2C_49_Ma%3B_Devils_Tower%2C_Wyoming%2C_USA%29_48.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Columnar-jointed_porphyritic_phonolite_(Eocene,_49_Ma;_Devils_Tower,_Wyoming,_USA)_48.jpg",
+    "credit": "James St. John",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m13",
+   "tier": 4,
+   "q": "Name this second-highest mountain on Earth, on the Pakistan–China border",
+   "a": "What is K2?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chogori.jpg/960px-Chogori.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chogori.jpg",
+    "credit": "Zacharie Grossen",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m14",
+   "tier": 4,
+   "q": "Name this flat-topped peak overlooking Cape Town",
+   "a": "What is Table Mountain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/960px-Table_Mountain_DanieVDM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+    "credit": "Danie van der Merwe from Cape Town, South Africa",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "physical-geography-m15",
+   "tier": 4,
+   "q": "Name this highest peak in North America, in Alaska",
+   "a": "What is Denali (Mount McKinley)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonder_Lake_and_Denali.jpg/960px-Wonder_Lake_and_Denali.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wonder_Lake_and_Denali.jpg",
+    "credit": "Denali National Park and Preserve",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physical-geography-m16",
+   "tier": 4,
+   "q": "Name this highest mountain in the Americas, in Argentina",
+   "a": "What is Aconcagua?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/960px-Aconcagua2016.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg",
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m17",
+   "tier": 5,
+   "q": "Name this flat-topped tepui on the Venezuela–Brazil–Guyana border, inspiration for 'The Lost World'",
+   "a": "What is Mount Roraima?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Roraima3_%2879%29.JPG/960px-Roraima3_%2879%29.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Roraima3_(79).JPG",
+    "credit": "Paolo Costa Baldi",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physical-geography-m18",
+   "tier": 5,
+   "q": "Name this circular 'Eye of the Sahara' rock formation in Mauritania",
+   "a": "What is the Richat Structure?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Richat_Structure_ISS030-E-12516.jpg/960px-Richat_Structure_ISS030-E-12516.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Richat_Structure_ISS030-E-12516.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physical-geography-m19",
+   "tier": 5,
+   "q": "Name this granite peak in Patagonia, on the Argentina–Chile border, whose silhouette inspired a clothing logo",
+   "a": "What is Fitz Roy (Cerro Chaltén)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fitz_Roy_y_laguna_Capri.JPG/960px-Fitz_Roy_y_laguna_Capri.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Fitz_Roy_y_laguna_Capri.JPG",
+    "credit": "Alejandro Dau",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physical-geography-m20",
+   "tier": 5,
+   "q": "Name this Jordanian desert valley of red sand, called the 'Valley of the Moon'",
+   "a": "What is Wadi Rum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/960px-Mountain_in_Wadi_Rum%2C_Jordan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

@@ -303,6 +303,279 @@
    "q": "This grumbling, elderly house-elf serves the Black family at 12 Grimmauld Place",
    "a": "Who is Kreacher?",
    "tier": 5
+  },
+  {
+   "id": "harry-potter-m01",
+   "tier": 1,
+   "q": "Name this actor, shown in 2014, who played the Boy Who Lived in all eight films",
+   "a": "Who is Daniel Radcliffe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Daniel_Radcliffe_SDCC_2014.jpg/960px-Daniel_Radcliffe_SDCC_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Daniel_Radcliffe_SDCC_2014.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m02",
+   "tier": 1,
+   "q": "Name this actress who played Hermione Granger",
+   "a": "Who is Emma Watson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/330px-Emma_Watson_2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Emma_Watson_2013.jpg",
+    "credit": "Georges Biard",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m03",
+   "tier": 1,
+   "q": "This castle at Universal Orlando recreates which school of witchcraft and wizardry?",
+   "a": "What is Hogwarts?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Wizarding_World_of_Harry_Potter_Castle.jpg/960px-Wizarding_World_of_Harry_Potter_Castle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_Castle.jpg",
+    "credit": "Carlos Cruz",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m04",
+   "tier": 1,
+   "q": "Name this author, shown reading at the White House in 2010, who wrote the seven books",
+   "a": "Who is J. K. Rowling?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/960px-J._K._Rowling_2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:J._K._Rowling_2010.jpg",
+    "credit": "Daniel Ogren",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m05",
+   "tier": 1,
+   "q": "Harry's loyal pet owl was this species. What was her name?",
+   "a": "Who is Hedwig?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bubo_scandiacus_male_Muskegon.jpg/960px-Bubo_scandiacus_male_Muskegon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bubo_scandiacus_male_Muskegon.jpg",
+    "credit": "Bill Bouton from San Luis Obispo, CA, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m06",
+   "tier": 2,
+   "q": "Real-life players use these goal hoops for a sport adapted from which broomstick game?",
+   "a": "What is Quidditch?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terrain_quidditch.jpg/500px-Terrain_quidditch.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Terrain_quidditch.jpg",
+    "credit": "Domaina",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m07",
+   "tier": 2,
+   "q": "Name this actor who played Ron Weasley",
+   "a": "Who is Rupert Grint?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RupertGrint2018.jpg/960px-RupertGrint2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:RupertGrint2018.jpg",
+    "credit": "Sidewalks Entertainment",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m08",
+   "tier": 2,
+   "q": "Name this actor who played Harry's school rival, Draco Malfoy",
+   "a": "Who is Tom Felton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tom_Felton_-_German_Comic_Con_2023.jpg/500px-Tom_Felton_-_German_Comic_Con_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Felton_-_German_Comic_Con_2023.jpg",
+    "credit": "German Film & Comic Con",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m09",
+   "tier": 2,
+   "q": "Students are sorted into houses in this candlelit dining room set. Name the room",
+   "a": "What is the Great Hall?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hogwart%E2%80%98s_Great_Hall%2C_Warner_Bros_Harry_Potter_Studios_01.jpg/960px-Hogwart%E2%80%98s_Great_Hall%2C_Warner_Bros_Harry_Potter_Studios_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hogwart%E2%80%98s_Great_Hall,_Warner_Bros_Harry_Potter_Studios_01.jpg",
+    "credit": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "harry-potter-m10",
+   "tier": 2,
+   "q": "Wizards buy wands at Ollivanders on this cobbled London street set. Name it",
+   "a": "What is Diagon Alley?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Diagon_Alley%2C_The_making_of_Harry_Potter_%28Ank_Kumar%2C_Infosys%29_03.jpg/960px-Diagon_Alley%2C_The_making_of_Harry_Potter_%28Ank_Kumar%2C_Infosys%29_03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Diagon_Alley,_The_making_of_Harry_Potter_(Ank_Kumar,_Infosys)_03.jpg",
+    "credit": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "harry-potter-m11",
+   "tier": 3,
+   "q": "Name this actor who played Potions master Severus Snape",
+   "a": "Who is Alan Rickman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alan_Rickman_2011.jpg/960px-Alan_Rickman_2011.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alan_Rickman_2011.jpg",
+    "credit": "Joella Marano at https://www.flickr.com/photos/ellasportfolio/",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m12",
+   "tier": 3,
+   "q": "Name this Scottish actor who played the half-giant gamekeeper Hagrid",
+   "a": "Who is Robbie Coltrane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Robbie_Coltrane_%28actor%2C_comedian%2C_born_1950%29.jpg/330px-Robbie_Coltrane_%28actor%2C_comedian%2C_born_1950%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Robbie_Coltrane_(actor,_comedian,_born_1950).jpg",
+    "credit": "David Forbes",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m13",
+   "tier": 3,
+   "q": "Name this actor who played the noseless Dark Lord, Voldemort",
+   "a": "Who is Ralph Fiennes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ralph_Fiennes_2013.jpg/330px-Ralph_Fiennes_2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ralph_Fiennes_2013.jpg",
+    "credit": "Christopher William Adach from London, UK",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m14",
+   "tier": 3,
+   "q": "This luggage trolley disappears into a wall at which London railway station?",
+   "a": "What is King's Cross?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Platform_9_3-4_%28King%27s_Cross_station%2C_London%2C_2014%29.jpg/960px-Platform_9_3-4_%28King%27s_Cross_station%2C_London%2C_2014%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Platform_9_3-4_(King%27s_Cross_station,_London,_2014).jpg",
+    "credit": "Bert Seghers",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "harry-potter-m15",
+   "tier": 4,
+   "q": "Harry first learned to fly a broomstick on the grounds of this Northumberland fortress. Name it",
+   "a": "What is Alnwick Castle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alnwick_Castle_2011.JPG/960px-Alnwick_Castle_2011.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Alnwick_Castle_2011.JPG",
+    "credit": "Dr.Haus",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "harry-potter-m16",
+   "tier": 4,
+   "q": "The Hogwarts Express crosses this curving 21-arch Scottish railway bridge in the films. Name it",
+   "a": "What is the Glenfinnan Viaduct?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glenfinnan_Viaduct.jpg/960px-Glenfinnan_Viaduct.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct.jpg",
+    "credit": "de:Benutzer:Nicolas17",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "harry-potter-m17",
+   "tier": 4,
+   "q": "This 1:24 scale castle model is displayed at the studio tour in which English village near Watford?",
+   "a": "What is Leavesden?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Studio_model_of_Hogwarts_at_Leavesden_Studios.jpg/960px-Studio_model_of_Hogwarts_at_Leavesden_Studios.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Studio_model_of_Hogwarts_at_Leavesden_Studios.jpg",
+    "credit": "CapStudio - Clementp.fr",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "harry-potter-m18",
+   "tier": 4,
+   "q": "Name this Irish actress who played dreamy Ravenclaw Luna Lovegood",
+   "a": "Who is Evanna Lynch?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evanna_Lynch_%2851693246964%29.jpg/960px-Evanna_Lynch_%2851693246964%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Evanna_Lynch_(51693246964).jpg",
+    "credit": "Miguel Discart",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "harry-potter-m19",
+   "tier": 5,
+   "q": "This actress, shown around 1970, later played Transfiguration professor Minerva McGonagall. Name her",
+   "a": "Who is Maggie Smith?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Maggie_Smith_-_Vintage_%28trim%29.jpg/960px-Maggie_Smith_-_Vintage_%28trim%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maggie_Smith_-_Vintage_(trim).jpg",
+    "credit": "N/A studio",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "harry-potter-m20",
+   "tier": 5,
+   "q": "This Victorian London market appeared as the area around which wizarding pub's entrance in the first film?",
+   "a": "What is the Leaky Cauldron?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leadenhall_Market_In_London_-_Feb_2006.jpg/960px-Leadenhall_Market_In_London_-_Feb_2006.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006.jpg",
+    "credit": "Diliff",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "harry-potter-m21",
+   "tier": 5,
+   "q": "These medieval cloisters in Wiltshire doubled as Hogwarts corridors. Name this former nunnery",
+   "a": "What is Lacock Abbey?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lacock_Abbey_cloister.jpg/960px-Lacock_Abbey_cloister.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lacock_Abbey_cloister.jpg",
+    "credit": "John Chapman",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

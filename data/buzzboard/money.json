@@ -303,6 +303,292 @@
    "q": "This economic principle is often summarized as 'bad money drives out good'",
    "a": "What is Gresham's law?",
    "tier": 5
+  },
+  {
+   "id": "money-m01",
+   "tier": 1,
+   "q": "Whose face is on this U.S. bill, the lowest-value paper note in everyday use?",
+   "a": "Who is George Washington?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg/1280px-Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Obverse_of_the_series_2021_$1_Federal_Reserve_Note.jpg",
+    "credit": "Aisrotkev8000",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m02",
+   "tier": 1,
+   "q": "Which president appears on the front of this U.S. one-cent coin?",
+   "a": "Who is Abraham Lincoln?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/US_One_Cent_Obv.png/1280px-US_One_Cent_Obv.png",
+    "page": "https://commons.wikimedia.org/wiki/File:US_One_Cent_Obv.png",
+    "credit": "United States Mint",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m03",
+   "tier": 1,
+   "q": "Name the precious metal cast into this 12.5-kilogram bar owned by Poland's national bank.",
+   "a": "What is gold?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gold_bullion_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_bullion_2.jpg",
+    "credit": "Szaaman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m04",
+   "tier": 1,
+   "q": "Name this animal-shaped container where kids drop their spare coins.",
+   "a": "What is a piggy bank?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sparschwein_Haspa02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sparschwein_Haspa02.jpg",
+    "credit": "GeorgHH",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m05",
+   "tier": 2,
+   "q": "Which Founding Father, a famous inventor who flew a kite in a storm, is on this U.S. bill?",
+   "a": "Who is Benjamin Franklin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Series_2025_USD_100.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Series_2025_USD_100.jpg",
+    "credit": "Bureau of Engraving and Printing",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m06",
+   "tier": 2,
+   "q": "Whose face is on this U.S. bill? He was the first Treasury Secretary and inspired a hit Broadway musical.",
+   "a": "Who is Alexander Hamilton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Obverse_of_the_series_2021_%2410_Federal_Reserve_Note.jpg/1280px-Obverse_of_the_series_2021_%2410_Federal_Reserve_Note.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Obverse_of_the_series_2021_$10_Federal_Reserve_Note.jpg",
+    "credit": "Aisrotkev8000",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m07",
+   "tier": 2,
+   "q": "Which president, assassinated in 1963, appears on this U.S. half-dollar coin?",
+   "a": "Who is John F. Kennedy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US_Half_Dollar_Obverse_2015.png/1280px-US_Half_Dollar_Obverse_2015.png",
+    "page": "https://commons.wikimedia.org/wiki/File:US_Half_Dollar_Obverse_2015.png",
+    "credit": "United States Mint",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m08",
+   "tier": 2,
+   "q": "Whose face is on this U.S. bill? He was the seventh president, nicknamed 'Old Hickory'.",
+   "a": "Who is Andrew Jackson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obverse_of_the_series_2017A_%2420_Federal_Reserve_Note.jpg/1280px-Obverse_of_the_series_2017A_%2420_Federal_Reserve_Note.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Obverse_of_the_series_2017A_$20_Federal_Reserve_Note.jpg",
+    "credit": "Aisrotkev8000",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m09",
+   "tier": 3,
+   "q": "Which four-term president appears on this U.S. ten-cent coin?",
+   "a": "Who is Franklin D. Roosevelt?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dime_Obverse_13.png/1280px-Dime_Obverse_13.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Dime_Obverse_13.png",
+    "credit": "United States Mint",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m10",
+   "tier": 3,
+   "q": "Which Civil War general and 18th president is on this U.S. bill?",
+   "a": "Who is Ulysses S. Grant?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Obverse_of_the_%2450_Federal_Reserve_Note.jpg/1280px-Obverse_of_the_%2450_Federal_Reserve_Note.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Obverse_of_the_$50_Federal_Reserve_Note.jpg",
+    "credit": "Aisrotkev8000",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m11",
+   "tier": 3,
+   "q": "Name this heavily guarded Kentucky building that holds much of the U.S. gold reserve.",
+   "a": "What is Fort Knox?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/U.S._Bullion_Depository-adjust2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:U.S._Bullion_Depository-adjust2.jpg",
+    "credit": "Work permit Original author=Cliff",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "money-m12",
+   "tier": 3,
+   "q": "Which president, author of the Declaration of Independence, is on this rarely seen U.S. bill?",
+   "a": "Who is Thomas Jefferson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/US_%242_bill_obverse_series_2003_A.jpg/1280px-US_%242_bill_obverse_series_2003_A.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:US_$2_bill_obverse_series_2003_A.jpg",
+    "credit": "Bureau of Engraving and Printing",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m13",
+   "tier": 4,
+   "q": "Whose portrait appears on all of these banknotes from the People's Republic of China?",
+   "a": "Who is Mao Zedong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Banknotes_YuanRPC.png/1280px-Banknotes_YuanRPC.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Banknotes_YuanRPC.png",
+    "credit": "Baderneiro",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "money-m14",
+   "tier": 4,
+   "q": "This 500-unit coin, the country's highest-value coin, belongs to which Asian currency?",
+   "a": "What is the yen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/500_yen_bicolor_clad_coin_obverse.jpg/1280px-500_yen_bicolor_clad_coin_obverse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:500_yen_bicolor_clad_coin_obverse.jpg",
+    "credit": "Heavy Frisker",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "money-m15",
+   "tier": 4,
+   "q": "Name this Spanish gold coin, minted in Mexico City in 1798 and famous from pirate tales.",
+   "a": "What is a doubloon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Doubloon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doubloon.jpg",
+    "credit": "Bjwebb",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m16",
+   "tier": 4,
+   "q": "Name this London institution, Britain's central monetary authority, nicknamed 'The Old Lady of Threadneedle Street'.",
+   "a": "What is the Bank of England?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/1280px-Bank-of-England.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bank-of-England.jpg",
+    "credit": "acediscovery",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "money-m17",
+   "tier": 4,
+   "q": "These banknotes, used across much of Europe, are issued by a central bank in which German city?",
+   "a": "What is Frankfurt?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Euro_banknotes%2C_Europa_series.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Euro_banknotes,_Europa_series.png",
+    "credit": "Bericht",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "money-m18",
+   "tier": 5,
+   "q": "These giant carved disks, too heavy to move, served as money on which Micronesian island?",
+   "a": "What is Yap?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yap_Stone_Money.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yap_Stone_Money.jpg",
+    "credit": "Eric Guinther",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "money-m19",
+   "tier": 5,
+   "q": "Shells of these sea snails were used as money in Africa and Asia for centuries. Name them.",
+   "a": "What are cowries?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cypraea_caputserpentis.jpg/1280px-Cypraea_caputserpentis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cypraea_caputserpentis.jpg",
+    "credit": "NOAA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m20",
+   "tier": 5,
+   "q": "Which 'father of Japanese capitalism' appears on this 10,000-unit note issued in 2024?",
+   "a": "Who is Shibusawa Eiichi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Series_F_10000_yen_front.jpg/1280px-Series_F_10000_yen_front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Series_F_10000_yen_front.jpg",
+    "credit": "RegoParkRen",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "money-m21",
+   "tier": 5,
+   "q": "Which Shoshone guide of Lewis and Clark is on the other side of this U.S. golden dollar coin?",
+   "a": "Who is Sacagawea?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/2003_Sacagawea_Rev.png",
+    "page": "https://commons.wikimedia.org/wiki/File:2003_Sacagawea_Rev.png",
+    "credit": "United States Mint",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "money-m22",
+   "tier": 5,
+   "q": "Which women's rights leader is shown on this 1981 U.S. small-size dollar coin?",
+   "a": "Who is Susan B. Anthony?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1981-S_SBA%24_Type_Two_Deep_Cameo.jpg/1280px-1981-S_SBA%24_Type_Two_Deep_Cameo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1981-S_SBA$_Type_Two_Deep_Cameo.jpg",
+    "credit": "US Mint (coin); Heritage Auctions (image)",
+    "license": "Public domain"
+   }
   }
  ]
 }

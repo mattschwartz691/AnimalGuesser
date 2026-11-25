@@ -303,6 +303,266 @@
    "q": "William Wrigley Jr. first gave away chewing gum as a free bonus with cans of this kitchen product",
    "a": "What is baking powder?",
    "tier": 5
+  },
+  {
+   "id": "candy-snacks-m01",
+   "tier": 1,
+   "q": "Name this tri-colored Halloween treat, shaped like a kernel from a cob.",
+   "a": "What is candy corn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Candy-Corn.jpg/1280px-Candy-Corn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Candy-Corn.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m02",
+   "tier": 1,
+   "q": "Name this fluffy fairground treat of spun sugar, called 'fairy floss' in Australia.",
+   "a": "What is cotton candy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG/1280px-Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG",
+    "credit": "FocalPoint",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m03",
+   "tier": 1,
+   "q": "Name these chewy, animal-shaped candies first made by Haribo in Germany in 1922.",
+   "a": "What are gummy bears?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Oursons_g%C3%A9latine_march%C3%A9_Rouffignac.jpg/1280px-Oursons_g%C3%A9latine_march%C3%A9_Rouffignac.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oursons_g%C3%A9latine_march%C3%A9_Rouffignac.jpg",
+    "credit": "Jebulon",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "candy-snacks-m04",
+   "tier": 1,
+   "q": "Name this striped peppermint Christmas treat shaped like a shepherd's crook.",
+   "a": "What is a candy cane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Candy-Cane-Classic.jpg/1280px-Candy-Cane-Classic.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Candy-Cane-Classic.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m05",
+   "tier": 2,
+   "q": "Name these small, bean-shaped candies with a hard shell and a chewy center, a favorite of Ronald Reagan.",
+   "a": "What are jelly beans?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JellyBellyPile.JPG/1280px-JellyBellyPile.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:JellyBellyPile.JPG",
+    "credit": "Brandon Dilbeck",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m06",
+   "tier": 2,
+   "q": "Name these sugar-coated marshmallow chicks, an Easter-basket staple.",
+   "a": "What are Peeps?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Just_Born_Peeps_in_an_Easter_Basket.jpg/1280px-Just_Born_Peeps_in_an_Easter_Basket.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Just_Born_Peeps_in_an_Easter_Basket.jpg",
+    "credit": "Zeete",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m07",
+   "tier": 2,
+   "q": "Name this Hostess snack: a golden sponge cake with a creamy filling.",
+   "a": "What are Twinkies?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Hostess_twinkies.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hostess_twinkies.jpg",
+    "credit": "Larry D. Moore",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m08",
+   "tier": 2,
+   "q": "Name this campfire treat of a toasted marshmallow and chocolate squeezed between graham crackers.",
+   "a": "What is a s'more?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smores-Microwave.jpg/1280px-Smores-Microwave.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Smores-Microwave.jpg",
+    "credit": "Evan-Amos",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "candy-snacks-m09",
+   "tier": 3,
+   "q": "Name this sweet of large sugar crystals grown on a stick or string.",
+   "a": "What is rock candy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rock-Candy-Sticks.jpg/1280px-Rock-Candy-Sticks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rock-Candy-Sticks.jpg",
+    "credit": "Evan-Amos",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m10",
+   "tier": 3,
+   "q": "Name this candy that crackles and fizzes on your tongue thanks to trapped carbon dioxide.",
+   "a": "What are Pop Rocks?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pop-Rocks.jpg/1280px-Pop-Rocks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pop-Rocks.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m11",
+   "tier": 3,
+   "q": "Name these chocolate-coated biscuit sticks from Japan, celebrated every November 11.",
+   "a": "What is Pocky?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pocky-Sticks.jpg/1280px-Pocky-Sticks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pocky-Sticks.jpg",
+    "credit": "Evan-Amos",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m12",
+   "tier": 3,
+   "q": "Name these tiny, tangy, crunchy candies originally sold under the Willy Wonka brand.",
+   "a": "What are Nerds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nerds-Candies.jpg/1280px-Nerds-Candies.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nerds-Candies.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m13",
+   "tier": 4,
+   "q": "Name this gel-like sweet, called lokum, that the White Witch used to tempt Edmund in Narnia.",
+   "a": "What is Turkish delight?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TurkishDelightDisplay.jpg/1280px-TurkishDelightDisplay.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TurkishDelightDisplay.jpg",
+    "credit": "Quick fix",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m14",
+   "tier": 4,
+   "q": "Name these Australian chocolate biscuits by Arnott's, famous for being used as a straw for hot drinks.",
+   "a": "What are Tim Tams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tim_Tams.jpg/1280px-Tim_Tams.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Tams.jpg",
+    "credit": "Bilby",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m15",
+   "tier": 4,
+   "q": "Name this Brazilian party sweet: a chocolate ball made with condensed milk and rolled in sprinkles.",
+   "a": "What is a brigadeiro?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/1280px-Brigadeiro.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brigadeiro.jpg",
+    "credit": "User Mayra (Maych) on Flickr",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m16",
+   "tier": 4,
+   "q": "Name this Japanese treat made from pounded glutinous rice.",
+   "a": "What is mochi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mochi_002.jpg/1280px-Mochi_002.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mochi_002.jpg",
+    "credit": "Kropsoq",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m17",
+   "tier": 5,
+   "q": "Name these chalky, pastel-colored candy discs, first made in New England in the 1840s.",
+   "a": "What are Necco Wafers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Necco-Wafers-Regular.jpg/1280px-Necco-Wafers-Regular.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Necco-Wafers-Regular.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m18",
+   "tier": 5,
+   "q": "Name this orange, banana-flavored marshmallow candy shaped like a nut in its shell.",
+   "a": "What are Circus Peanuts?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Orange-Circus-Peanuts.jpg/1280px-Orange-Circus-Peanuts.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Orange-Circus-Peanuts.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "candy-snacks-m19",
+   "tier": 5,
+   "q": "Name this soft, chewy boardwalk candy, linked to Atlantic City, whose name hints at the ocean.",
+   "a": "What is saltwater taffy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Salt_water_taffy.jpg/1280px-Salt_water_taffy.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salt_water_taffy.jpg",
+    "credit": "Commons user Glane23",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "candy-snacks-m20",
+   "tier": 5,
+   "q": "Name this dense, crumbly sweet usually made from sesame paste, shown here with pistachios in Samarkand.",
+   "a": "What is halva?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orient_sweets_%28special_halva%29_Samarkand%2C_Siyab.jpg/1280px-Orient_sweets_%28special_halva%29_Samarkand%2C_Siyab.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Orient_sweets_(special_halva)_Samarkand,_Siyab.jpg",
+    "credit": "Shuhrenataxmedov",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

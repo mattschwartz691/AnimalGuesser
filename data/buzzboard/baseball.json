@@ -303,6 +303,305 @@
    "q": "In 1951 this New York Giants outfielder won the pennant with a homer called the 'Shot Heard 'Round the World'",
    "a": "Who is Bobby Thomson?",
    "tier": 5
+  },
+  {
+   "id": "baseball-m01",
+   "tier": 1,
+   "q": "Name this Japanese two-way Dodgers star who both pitches and hits, the first 50-homer, 50-steal player.",
+   "a": "Who is Shohei Ohtani?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg/1280px-Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677192000)_(cropped).jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "baseball-m02",
+   "tier": 1,
+   "q": "Name the position of this player, who crouches behind home plate wearing a mask and padded mitt.",
+   "a": "What is catcher?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Baseball_catcher.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baseball_catcher.jpg",
+    "credit": "Commons user Yelm",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "baseball-m03",
+   "tier": 4,
+   "q": "Name this prize, ringed with gold-plated flags for each MLB team, given to the champion each October.",
+   "a": "What is the Commissioner's Trophy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/World_Series_Trophy_%2848262268286%29.jpg/1280px-World_Series_Trophy_%2848262268286%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Series_Trophy_(48262268286).jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "baseball-m04",
+   "tier": 1,
+   "q": "Name this Brooklyn Dodger who broke MLB's color barrier in 1947; his No. 42 is retired by every team.",
+   "a": "Who is Jackie Robinson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg/1280px-Jackie_Robinson%2C_NPG_97_135.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jackie_Robinson,_NPG_97_135.jpg",
+    "credit": "Harry Warnecke / Frank Livia / Robert F. Cranston / William",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "baseball-m05",
+   "tier": 2,
+   "q": "This slugger, pictured in 1921 with the Yankees, was sold to New York in 1919 by which rival team?",
+   "a": "Who are the Boston Red Sox?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ruth1921.jpg/1280px-Ruth1921.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ruth1921.jpg",
+    "credit": "George Grantham Bain",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m06",
+   "tier": 2,
+   "q": "Name this 1908 song, heard here in an early recording, traditionally sung during the seventh-inning stretch.",
+   "a": "What is 'Take Me Out to the Ball Game'?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Take_me_out_to_the_ball_game-Master-mbrsrs-mbrsjukebox-ucsb_col_3917_01_t3917_02-ucsb_col_3917_01_t3917_02.wav/Take_me_out_to_the_ball_game-Master-mbrsrs-mbrsjukebox-ucsb_col_3917_01_t3917_02-ucsb_col_3917_01_t3917_02.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Take_me_out_to_the_ball_game-Master-mbrsrs-mbrsjukebox-ucsb_col_3917_01_t3917_02-ucsb_col_3917_01_t3917_02.wav",
+    "credit": "Von Tilzer, Albert -- Composer -",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m07",
+   "tier": 2,
+   "q": "Name this New York Yankees shortstop known as 'The Captain', a five-time champion.",
+   "a": "Who is Derek Jeter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Derek_Jeter_during_MLB_on_Fox_pre-game_show%2C_October_16%2C_2024_-_001_%28cropped%29.jpg/1280px-Derek_Jeter_during_MLB_on_Fox_pre-game_show%2C_October_16%2C_2024_-_001_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Derek_Jeter_during_MLB_on_Fox_pre-game_show,_October_16,_2024_-_001_(cropped).jpg",
+    "credit": "D. Benjamin Miller",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "baseball-m08",
+   "tier": 2,
+   "q": "Name the nickname of this towering 37-foot left-field wall at Boston's Fenway Park.",
+   "a": "What is the Green Monster?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Green_Monstah.jpg/1280px-Green_Monstah.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_Monstah.jpg",
+    "credit": "Adam Chivers",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "baseball-m09",
+   "tier": 1,
+   "q": "Which team, winner of a record 27 World Series, plays at this Bronx ballpark opened in 2009?",
+   "a": "Who are the New York Yankees?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Yankee_Stadium_overhead_2010.jpg/1280px-Yankee_Stadium_overhead_2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_overhead_2010.jpg",
+    "credit": "vtravelled.com",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "baseball-m10",
+   "tier": 2,
+   "q": "Name this Giants center fielder, the 'Say Hey Kid', famous for 'The Catch' in the 1954 World Series.",
+   "a": "Who is Willie Mays?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg/1280px-Willie_Mays_%281955%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Willie_Mays_(1955)_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m11",
+   "tier": 3,
+   "q": "Name this Yankees first baseman, the 'Iron Horse', pictured in 1923, who played 2,130 straight games.",
+   "a": "Who is Lou Gehrig?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lou_Gehrig_in_1923_%28cropped%29.jpg/1280px-Lou_Gehrig_in_1923_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lou_Gehrig_in_1923_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m12",
+   "tier": 3,
+   "q": "Name this switch-hitting Yankees slugger from Oklahoma, pictured in 1957, who hit 18 World Series homers.",
+   "a": "Who is Mickey Mantle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mickey_Mantle_1957_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mickey_Mantle_1957_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m13",
+   "tier": 3,
+   "q": "Name this Japanese Seattle Mariners outfielder who set the single-season hits record of 262 in 2004.",
+   "a": "Who is Ichiro Suzuki?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ichiro_Suzuki_%2851007034081%29_%28cropped%29.jpg/1280px-Ichiro_Suzuki_%2851007034081%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ichiro_Suzuki_(51007034081)_(cropped).jpg",
+    "credit": "Jeffrey Hayes",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "baseball-m14",
+   "tier": 3,
+   "q": "Name this slugger, pictured in 1974, the year he broke Babe Ruth's career home run record.",
+   "a": "Who is Hank Aaron?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hank_Aaron_1974.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hank_Aaron_1974.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m15",
+   "tier": 4,
+   "q": "Name this 'Georgia Peach' of the Detroit Tigers, owner of the highest career batting average.",
+   "a": "Who is Ty Cobb?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1913_Ty_Cobb_portrait_photo.png",
+    "page": "https://commons.wikimedia.org/wiki/File:1913_Ty_Cobb_portrait_photo.png",
+    "credit": "International Film Service",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m16",
+   "tier": 4,
+   "q": "Name this Puerto Rican Pirates star with 3,000 hits who died in 1972 while flying aid to Nicaragua.",
+   "a": "Who is Roberto Clemente?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roberto_Clemente.jpg/1280px-Roberto_Clemente.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roberto_Clemente.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m17",
+   "tier": 4,
+   "q": "Name this Yankees catcher with 10 World Series rings, famous for saying 'It ain't over till it's over'.",
+   "a": "Who is Yogi Berra?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/1280px-Yogi_Berra_%281957%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yogi_Berra_(1957)_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m18",
+   "tier": 4,
+   "q": "Name this speedster, pictured on a 1983 stamp, who holds MLB's career stolen-base record of 1,406.",
+   "a": "Who is Rickey Henderson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/RickeyHenderson1983.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:RickeyHenderson1983.jpg",
+    "credit": "Fleer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m19",
+   "tier": 2,
+   "q": "Name this Panamanian Yankees closer, the career saves leader and first unanimous Hall of Famer.",
+   "a": "Who is Mariano Rivera?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mariano_Rivera_allison_7_29_07.jpg/1280px-Mariano_Rivera_allison_7_29_07.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mariano_Rivera_allison_7_29_07.jpg",
+    "credit": "User Keith Allison on Flickr",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "baseball-m20",
+   "tier": 5,
+   "q": "Name this pitcher, shown in 1911, who won a record 511 games; each league's top-pitcher award bears his name.",
+   "a": "Who is Cy Young?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cy_Young_by_Conlon%2C_1911-crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cy_Young_by_Conlon,_1911-crop.jpg",
+    "credit": "Charles M. Conlon",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m21",
+   "tier": 5,
+   "q": "Name this Negro Leagues pitching legend who became an MLB rookie at age 42 in 1948.",
+   "a": "Who is Satchel Paige?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Satchel_Paige_seated_next_to_bleachers_%281%29.jpg/1280px-Satchel_Paige_seated_next_to_bleachers_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Satchel_Paige_seated_next_to_bleachers_(1).jpg",
+    "credit": "Los Angeles Times",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "baseball-m22",
+   "tier": 5,
+   "q": "Name this Red Sox hitter, pictured in 1958, the last player to bat .400 in a season (1941).",
+   "a": "Who is Ted Williams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ted_Williams_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ted_Williams_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "baseball-m23",
+   "tier": 5,
+   "q": "Name this Dodgers lefty who skipped Game 1 of the 1965 World Series to observe Yom Kippur.",
+   "a": "Who is Sandy Koufax?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sandy_Koufax.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sandy_Koufax.jpg",
+    "credit": "publicity still",
+    "license": "Public domain"
+   }
   }
  ]
 }

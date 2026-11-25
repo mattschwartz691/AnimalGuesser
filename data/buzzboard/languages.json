@@ -303,6 +303,266 @@
    "q": "Speakers of this Polynesian language of New Zealand call it 'te reo'; it became an official language in 1987",
    "a": "What is Māori?",
    "tier": 5
+  },
+  {
+   "id": "languages-m01",
+   "tier": 1,
+   "q": "Name the ancient writing system carved on this temple wall in Luxor",
+   "a": "What are Egyptian hieroglyphs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/LuxorTemple03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LuxorTemple03.jpg",
+    "credit": "Asta",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "languages-m02",
+   "tier": 1,
+   "q": "These raised dots, read with the fingertips, make up what writing system for blind people?",
+   "a": "What is Braille?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Reading_Braille.jpg/960px-Reading_Braille.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reading_Braille.jpg",
+    "credit": "Stefan Malmesjö",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "languages-m03",
+   "tier": 1,
+   "q": "Listen: someone says 'thank you'. In which language, spoken in Mexico and Madrid?",
+   "a": "What is Spanish?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/LL-Q1321_%28spa%29-AdrianAbdulBaha-gracias.wav/LL-Q1321_%28spa%29-AdrianAbdulBaha-gracias.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-AdrianAbdulBaha-gracias.wav",
+    "credit": "AdrianAbdulBaha (Lingua Libre)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m04",
+   "tier": 1,
+   "q": "Listen: a Parisian says 'thank you'. In which language?",
+   "a": "What is French?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Fr-merci-fr-Paris.ogg/Fr-merci-fr-Paris.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Fr-merci-fr-Paris.ogg",
+    "credit": "Kipmaster",
+    "license": "CC BY-SA 2.0 fr"
+   }
+  },
+  {
+   "id": "languages-m05",
+   "tier": 2,
+   "q": "This Antarctic monument spells letters from which script, used for Russian, Bulgarian and Mongolian?",
+   "a": "What is Cyrillic?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cyrillic_monument.jpg/960px-Cyrillic_monument.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cyrillic_monument.jpg",
+    "credit": "Inoceramid bivalves",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m06",
+   "tier": 2,
+   "q": "Listen: this way of saying 'thank you' comes from which Asian language?",
+   "a": "What is Japanese?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/Ja-arigato.oga/Ja-arigato.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Ja-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86.oga",
+    "credit": "Fête",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "languages-m07",
+   "tier": 2,
+   "q": "Listen: someone says 'thank you'. In which language, spoken in Berlin and Vienna?",
+   "a": "What is German?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/De-danke.ogg/De-danke.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:De-danke.ogg",
+    "credit": "Jeuwre",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m08",
+   "tier": 2,
+   "q": "Listen: someone says 'thank you' in the language of Rome and Venice. Which language?",
+   "a": "What is Italian?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/It-Grazie.oga/It-Grazie.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:It-Grazie.oga",
+    "credit": "Memie",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "languages-m09",
+   "tier": 3,
+   "q": "This garden sign about a silk tree is written in which alphabet, created in 1443 under King Sejong?",
+   "a": "What is Hangul (Korean)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg/960px-%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg",
+    "credit": "Hippietrail",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m10",
+   "tier": 3,
+   "q": "This 10th-century manuscript of the Book of Joshua is written in which language, read right to left?",
+   "a": "What is Hebrew?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Aleppo_Codex_Joshua_1_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aleppo_Codex_Joshua_1_1.jpg",
+    "credit": "Aleppo Codex scribes (public domain)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "languages-m11",
+   "tier": 3,
+   "q": "Name the wedge-shaped writing system, pressed or carved into clay and stone, seen here at Ur in Iraq",
+   "a": "What is cuneiform?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cuneiform_writing_Ur.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cuneiform_writing_Ur.jpg",
+    "credit": "Unclefester89",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "languages-m12",
+   "tier": 3,
+   "q": "Listen: someone says 'thank you' in the most widely spoken Slavic language. Which one?",
+   "a": "What is Russian?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Ru-%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE.ogg/Ru-%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Ru-%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE.ogg",
+    "credit": "Shtooka project (via Tsca.bot)",
+    "license": "CC BY 2.0 fr"
+   }
+  },
+  {
+   "id": "languages-m13",
+   "tier": 4,
+   "q": "This 10th-century stone inscription in Sanskrit uses which script, also used today for Hindi?",
+   "a": "What is Devanagari?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/10th_century_college_foundation_grant_Devanagari_inscription_in_Sanskrit_on_stone%2C_Kaladgi_Karnataka.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:10th_century_college_foundation_grant_Devanagari_inscription_in_Sanskrit_on_stone,_Kaladgi_Karnataka.jpg",
+    "credit": "S. P. Pandit (1872)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "languages-m14",
+   "tier": 4,
+   "q": "This bear statue in North Carolina displays the syllabary that Sequoyah created for which Native American language?",
+   "a": "What is Cherokee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cherokee-02346.jpg/960px-Cherokee-02346.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cherokee-02346.jpg",
+    "credit": "DrReload",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m15",
+   "tier": 4,
+   "q": "Listen: someone says 'thank you' in which Nordic language, unrelated to Swedish and Norwegian?",
+   "a": "What is Finnish?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/Fi-kiitos.ogg/Fi-kiitos.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Fi-kiitos.ogg",
+    "credit": "Vassilik",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "languages-m16",
+   "tier": 4,
+   "q": "Listen: a Kenyan speaker says 'thank you' in which Bantu language, widely spoken across East Africa?",
+   "a": "What is Swahili?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/Sw-ke-asante.flac/Sw-ke-asante.flac.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Sw-ke-asante.flac",
+    "credit": "Waithera Were",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "languages-m17",
+   "tier": 5,
+   "q": "The lower line of this Ontario park notice uses which writing system, devised for Cree and Ojibwe?",
+   "a": "What are Canadian Aboriginal syllabics?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ojibwe-Syllabics-Centennial-park.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Ojibwe-Syllabics-Centennial-park.JPG",
+    "credit": "Themightyquill",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "languages-m18",
+   "tier": 5,
+   "q": "The notches along the edge of this standing stone in County Kerry are in which early Irish alphabet?",
+   "a": "What is Ogham?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg",
+    "credit": "Jaqian",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "languages-m19",
+   "tier": 5,
+   "q": "Listen: someone says 'thank you' in which Uralic language of Central Europe?",
+   "a": "What is Hungarian?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Hu-k%C3%B6sz%C3%B6n%C3%B6m.ogg/Hu-k%C3%B6sz%C3%B6n%C3%B6m.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Hu-k%C3%B6sz%C3%B6n%C3%B6m.ogg",
+    "credit": "Panda10",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "languages-m20",
+   "tier": 5,
+   "q": "Listen: someone says 'thank you' in which tonal language of Southeast Asia, written in Latin letters with many accents?",
+   "a": "What is Vietnamese?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/LL-Q9199_%28vie%29-Jessica_Nguyen_%28Pamputt%29-c%E1%BA%A3m_%C6%A1n.wav/LL-Q9199_%28vie%29-Jessica_Nguyen_%28Pamputt%29-c%E1%BA%A3m_%C6%A1n.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:LL-Q9199_(vie)-Jessica_Nguyen_(Pamputt)-c%E1%BA%A3m_%C6%A1n.wav",
+    "credit": "Jessica Nguyen (Lingua Libre)",
+    "license": "CC0"
+   }
   }
  ]
 }

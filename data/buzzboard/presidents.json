@@ -303,6 +303,266 @@
    "q": "Ratified in 1967, this constitutional change explains how to fill a vice-presidential vacancy and handle presidential disability",
    "a": "What is the 25th Amendment?",
    "tier": 5
+  },
+  {
+   "id": "presidents-m01",
+   "tier": 1,
+   "q": "Who is this president, painted by Gilbert Stuart, the first to hold the office?",
+   "a": "Who is George Washington?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/960px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+    "credit": "Gilbert Stuart",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m02",
+   "tier": 1,
+   "q": "Who is this president, photographed in 1863, the year of the Gettysburg Address?",
+   "a": "Who is Abraham Lincoln?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/960px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "credit": "Alexander Gardner",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m03",
+   "tier": 1,
+   "q": "Who is this president, the 44th, shown in the Oval Office in 2012?",
+   "a": "Who is Barack Obama?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
+    "credit": "Official White House Photo by Pete Souza",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m04",
+   "tier": 1,
+   "q": "Who is this president, elected in 1960 and assassinated in Dallas in 1963?",
+   "a": "Who is John F. Kennedy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+    "credit": "Cecil W. Stoughton",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m05",
+   "tier": 2,
+   "q": "Who is this president, the main author of the Declaration of Independence?",
+   "a": "Who is Thomas Jefferson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/960px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+    "credit": "Rembrandt Peale",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m06",
+   "tier": 2,
+   "q": "Who is this 'Rough Rider' president, whose name gave us the teddy bear?",
+   "a": "Who is Theodore Roosevelt?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/960px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg",
+    "credit": "Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m07",
+   "tier": 2,
+   "q": "Watch: which president is giving this 1987 speech at the Brandenburg Gate in Berlin?",
+   "a": "Who is Ronald Reagan?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/President_Ronald_Reagan%27s_Speech_at_the_Berlin_Wall%2C_June_12%2C_1987.webm/President_Ronald_Reagan%27s_Speech_at_the_Berlin_Wall%2C_June_12%2C_1987.webm.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan%27s_Speech_at_the_Berlin_Wall,_June_12,_1987.webm",
+    "credit": "Reagan Library",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "presidents-m08",
+   "tier": 2,
+   "q": "Listen: which president gave this speech to Congress on December 8, 1941, the day after Pearl Harbor?",
+   "a": "Who is Franklin D. Roosevelt?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/1941_Roosevelt_speech_pearlharbor_p1.ogg/1941_Roosevelt_speech_pearlharbor_p1.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:1941_Roosevelt_speech_pearlharbor_p1.ogg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m09",
+   "tier": 3,
+   "q": "Who is this president, the World War II general who commanded the D-Day invasion?",
+   "a": "Who is Dwight D. Eisenhower?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/960px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
+    "credit": "White House",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m10",
+   "tier": 3,
+   "q": "Who is this president, who decided to use the atomic bomb in 1945?",
+   "a": "Who is Harry S. Truman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+    "credit": "National Archives and Records Administration",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m11",
+   "tier": 3,
+   "q": "Who is this president, nicknamed 'Old Hickory', the hero of the Battle of New Orleans?",
+   "a": "Who is Andrew Jackson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/960px-Andrew_jackson_head_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Andrew_jackson_head_(cropped).jpg",
+    "credit": "Ralph Eleaser Whiteside Earl",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m12",
+   "tier": 3,
+   "q": "Who is this president, the Union general who accepted Lee's surrender at Appomattox?",
+   "a": "Who is Ulysses S. Grant?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/960px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg",
+    "credit": "Brady-Handy Photograph Collection, Library of Congress",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m13",
+   "tier": 4,
+   "q": "Who is this president, the 'Father of the Constitution', in office during the War of 1812?",
+   "a": "Who is James Madison?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/960px-James_Madison.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Madison.jpg",
+    "credit": "John Vanderlyn",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m14",
+   "tier": 4,
+   "q": "Who is this president, who led the US through World War I and proposed the League of Nations?",
+   "a": "Who is Woodrow Wilson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/960px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_Harris_%26_Ewing_(3x4_cropped_b).jpg",
+    "credit": "Harris & Ewing, photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m15",
+   "tier": 4,
+   "q": "Who is this president, who signed the Civil Rights Act of 1964 after taking office in Dallas?",
+   "a": "Who is Lyndon B. Johnson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+    "credit": "Arnold Newman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m16",
+   "tier": 4,
+   "q": "Who is this president, son of the second president, who later fought slavery in the House?",
+   "a": "Who is John Quincy Adams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JQA_Photo_Crop_%28cropped%29.jpg/960px-JQA_Photo_Crop_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JQA_Photo_Crop_(cropped).jpg",
+    "credit": "Mathew Brady",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m17",
+   "tier": 5,
+   "q": "Who is this one-term president of the 1840s, under whom the US gained California and the Oregon Territory?",
+   "a": "Who is James K. Polk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/James_K._Polk_restored_%283x4_cropped%29.jpg/960px-James_K._Polk_restored_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James_K._Polk_restored_(3x4_cropped).jpg",
+    "credit": "Brady, Mathew B., 1823",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m18",
+   "tier": 5,
+   "q": "Who is this president with big sideburns, who took office after Garfield was shot in 1881?",
+   "a": "Who is Chester A. Arthur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/960px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chester_A._Arthur_by_Abraham_Bogardus_(cropped)_(2).jpg",
+    "credit": "Abraham Bogardus / Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m19",
+   "tier": 5,
+   "q": "Who is this president, who won the disputed election of 1876 and ended Reconstruction?",
+   "a": "Who is Rutherford B. Hayes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/960px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+    "credit": "Mathew Benjamin Brady",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "presidents-m20",
+   "tier": 5,
+   "q": "Who is this president, assassinated in Buffalo in 1901?",
+   "a": "Who is William McKinley?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/McKinley_%28cropped%29.jpg/960px-McKinley_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:McKinley_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
   }
  ]
 }

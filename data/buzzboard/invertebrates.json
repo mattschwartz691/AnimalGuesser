@@ -303,6 +303,266 @@
    "q": "Snails and slugs belong to this largest class of mollusks, whose name means 'stomach foot'",
    "a": "What are gastropods?",
    "tier": 5
+  },
+  {
+   "id": "invertebrates-m01",
+   "tier": 1,
+   "q": "Name this kind of slow-moving animal that carries a spiral shell on its back",
+   "a": "What is a snail?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Snail1web.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snail1web.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "invertebrates-m02",
+   "tier": 1,
+   "q": "Name this eight-armed sea creature",
+   "a": "What is an octopus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+    "credit": "albert kok",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "invertebrates-m03",
+   "tier": 1,
+   "q": "Name this kind of arachnid with pincers and a stinger on its tail",
+   "a": "What is a scorpion?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scorpion_Photograph_By_Shantanu_Kuveskar.jpg",
+    "credit": "Shantanu Kuveskar",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m04",
+   "tier": 1,
+   "q": "Name this kind of animal, usually with five arms, found in tide pools",
+   "a": "What is a starfish (sea star)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Starfish_montage.png/960px-Starfish_montage.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Starfish_montage.png",
+    "credit": "Top left: Klaus Rassinger (Museum Wiesbaden) Top right: Katie Ahlfeld Bottom right:...",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m05",
+   "tier": 2,
+   "q": "Name this crustacean that lives in a borrowed snail shell",
+   "a": "What is a hermit crab?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Calliactis_and_Dardanus_001.JPG/960px-Calliactis_and_Dardanus_001.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Calliactis_and_Dardanus_001.JPG",
+    "credit": "H. Zell",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "invertebrates-m06",
+   "tier": 2,
+   "q": "Name this spiny, ball-shaped sea creature",
+   "a": "What is a sea urchin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tripneustes_ventricosus_%28West_Indian_Sea_Egg-top%29_and_Echinometra_viridis_%28Reef_Urchin_-_bottom%29.jpg/960px-Tripneustes_ventricosus_%28West_Indian_Sea_Egg-top%29_and_Echinometra_viridis_%28Reef_Urchin_-_bottom%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tripneustes_ventricosus_(West_Indian_Sea_Egg-top)_and_Echinometra_viridis_(Reef_Urchin_-_bottom).jpg",
+    "credit": "Nhobgood (talk) Nick Hobgood",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "invertebrates-m07",
+   "tier": 2,
+   "q": "Name this venomous spider, recognized by the red hourglass on its belly",
+   "a": "What is the black widow?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Adult_Female_Black_Widow.jpg/960px-Adult_Female_Black_Widow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adult_Female_Black_Widow.jpg",
+    "credit": "Shenrich91",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "invertebrates-m08",
+   "tier": 2,
+   "q": "Name this 'living fossil' with a helmet-like shell, more closely related to spiders than crabs",
+   "a": "What is the horseshoe crab?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Limulus_polyphemus_%28aq.%29.jpg/960px-Limulus_polyphemus_%28aq.%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Limulus_polyphemus_(aq.).jpg",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m09",
+   "tier": 3,
+   "q": "Name this kind of shelled sea animal with many tentacles and a chambered spiral shell",
+   "a": "What is a nautilus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nautilus_pompilius_%28detail%29.jpg/960px-Nautilus_pompilius_%28detail%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nautilus_pompilius_(detail).jpg",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m10",
+   "tier": 3,
+   "q": "Name this color-changing relative of the squid with a W-shaped pupil",
+   "a": "What is a cuttlefish?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sepia_com%C3%BAn_%28Sepia_officinalis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-21%2C_DD_62.jpg/960px-Sepia_com%C3%BAn_%28Sepia_officinalis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-21%2C_DD_62.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sepia_común_(Sepia_officinalis),_Parque_natural_de_la_Arrábida,_Portugal,_2020-07-21,_DD_62.jpg",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m11",
+   "tier": 3,
+   "q": "Name this floating colonial animal with a gas-filled float and stinging tentacles",
+   "a": "What is the Portuguese man o' war?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Portuguese_Man-O-War_%28Physalia_physalis%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portuguese_Man-O-War_(Physalia_physalis).jpg",
+    "credit": "Image courtesy of Islands in the Sea 2002, NOAA/OER.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "invertebrates-m12",
+   "tier": 3,
+   "q": "Name this kind of brightly colored sea slug",
+   "a": "What is a nudibranch?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Berghia_coerulescens_%28Laurillard%2C_1830%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Berghia_coerulescens_(Laurillard,_1830).jpg",
+    "credit": "Géry PARENT",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "invertebrates-m13",
+   "tier": 4,
+   "q": "Name this crustacean known for the fastest, most powerful punch in the animal kingdom",
+   "a": "What is the (peacock) mantis shrimp?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/960px-Odontodactylus_scyllarus_R%C3%A9union.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_Réunion.jpg",
+    "credit": "Cédric Péneau",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m14",
+   "tier": 4,
+   "q": "Name this microscopic 'water bear' that can survive the vacuum of space",
+   "a": "What is a tardigrade?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png/960px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_(white_background).png",
+    "credit": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "invertebrates-m15",
+   "tier": 4,
+   "q": "Name this world's largest land arthropod, which can crack coconuts",
+   "a": "What is the coconut crab?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coconut_Crab_Birgus_latro.jpg/960px-Coconut_Crab_Birgus_latro.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coconut_Crab_Birgus_latro.jpg",
+    "credit": "Drew Avery",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "invertebrates-m16",
+   "tier": 4,
+   "q": "Name this largest living bivalve mollusk, found on coral reefs",
+   "a": "What is the giant clam?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Giant_clam_%28Tridacna_gigas%29_Michaelmas_Cay.jpg/960px-Giant_clam_%28Tridacna_gigas%29_Michaelmas_Cay.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "invertebrates-m17",
+   "tier": 5,
+   "q": "Name this tiny sea slug that floats upside down and steals stings from jellyfish",
+   "a": "What is the blue dragon (Glaucus atlanticus)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Glaucus_atlanticus_1_cropped.jpg/960px-Glaucus_atlanticus_1_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glaucus_atlanticus_1_cropped.jpg",
+    "credit": "Taro Taylor from Sydney, Australia",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "invertebrates-m18",
+   "tier": 5,
+   "q": "Name this colorful reef animal with two spiral, cone-shaped crowns of tentacles",
+   "a": "What is the Christmas tree worm?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Spirobranchus_giganteus_%28Red_and_white_christmas_tree_worm%29.jpg/960px-Spirobranchus_giganteus_%28Red_and_white_christmas_tree_worm%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spirobranchus_giganteus_(Red_and_white_christmas_tree_worm).jpg",
+    "credit": "Nhobgood Nick Hobgood",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "invertebrates-m19",
+   "tier": 5,
+   "q": "Name this tiny Australian jumper whose male does a colorful courtship dance",
+   "a": "What is the peacock spider?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/MalePeacockSpider.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MalePeacockSpider.jpg",
+    "credit": "Jürgen Otto",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "invertebrates-m20",
+   "tier": 5,
+   "q": "Name this soft-bodied animal that shoots sticky slime to catch prey",
+   "a": "What is a velvet worm?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Peripatoides_novaezealandiae_423146502.jpg/960px-Peripatoides_novaezealandiae_423146502.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peripatoides_novaezealandiae_423146502.jpg",
+    "credit": "Uwe Schneehagen",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

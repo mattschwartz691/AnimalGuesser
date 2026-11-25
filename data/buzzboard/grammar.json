@@ -303,6 +303,266 @@
    "q": "Using a plural-looking pronoun for one person, as in 'Someone left their umbrella', is known as this",
    "a": "What is singular they?",
    "tier": 5
+  },
+  {
+   "id": "grammar-m01",
+   "tier": 1,
+   "q": "Name this symbol, a stylized ligature of the Latin word 'et', meaning 'and'",
+   "a": "What is the ampersand?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ampersand.svg/960px-Ampersand.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ampersand.svg",
+    "credit": "Fibonacci",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "grammar-m02",
+   "tier": 1,
+   "q": "Name this symbol found in every email address",
+   "a": "What is the at sign?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/960px-At_sign.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:At_sign.svg",
+    "credit": "MeekMark",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m03",
+   "tier": 1,
+   "q": "A guerrilla editor crossed out the wrongly used mark on this station notice. Name the mark.",
+   "a": "What is the apostrophe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Greengrocer%27s_apostrophe_correction.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greengrocer's_apostrophe_correction.jpg",
+    "credit": "Sceptre",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "grammar-m04",
+   "tier": 1,
+   "q": "Name these three dots, used to show words left out or a thought trailing off",
+   "a": "What is an ellipsis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ellipsis.svg/960px-Ellipsis.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ellipsis.svg",
+    "credit": "GJo",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m05",
+   "tier": 2,
+   "q": "Name this punctuation mark, used to join two closely related independent clauses",
+   "a": "What is the semicolon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Semicolon.svg/960px-Semicolon.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Semicolon.svg",
+    "credit": "1234qwer1234qwer4",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "grammar-m06",
+   "tier": 2,
+   "q": "Name this wavy mark, seen over the n in the Spanish word 'mañana'",
+   "a": "What is the tilde?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tilde.svg/960px-Tilde.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Tilde.svg",
+    "credit": "Paolo Liberatore",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m07",
+   "tier": 2,
+   "q": "Name this star-shaped symbol, often used to flag a footnote",
+   "a": "What is the asterisk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Asterisk.svg/960px-Asterisk.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Asterisk.svg",
+    "credit": "Silence",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m08",
+   "tier": 2,
+   "q": "Name this slanted stroke, also called a virgule or solidus, as in 'and/or'",
+   "a": "What is the slash?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Slash.svg/960px-Slash.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Slash.svg",
+    "credit": "Rfc1394",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m09",
+   "tier": 3,
+   "q": "Name this rare punctuation mark, proposed in 1962, that merges ? and !",
+   "a": "What is the interrobang?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Interrobang.svg/960px-Interrobang.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Interrobang.svg",
+    "credit": "WP (English Wikipedia user)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m10",
+   "tier": 3,
+   "q": "Name this typographic mark that indicates a new paragraph; word processors show it for hidden formatting",
+   "a": "What is the pilcrow?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pilcrow.svg/960px-Pilcrow.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Pilcrow.svg",
+    "credit": "Silsor",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m11",
+   "tier": 3,
+   "q": "Name this symbol of two interlocked S's, used by lawyers to cite a numbered part of a statute",
+   "a": "What is the section sign?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/960px-Section_sign.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Section_sign.svg",
+    "credit": "UW (Wikimedia Commons user)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m12",
+   "tier": 3,
+   "q": "Name these double angle marks, used in French in place of quotation marks",
+   "a": "What are guillemets?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Guillemets.svg/960px-Guillemets.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Guillemets.svg",
+    "credit": "John Struse",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m13",
+   "tier": 4,
+   "q": "Name the little hook under the letter c, as in the French word 'garçon'",
+   "a": "What is a cedilla?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Latin_letter_%C3%87%C3%A7.svg/960px-Latin_letter_%C3%87%C3%A7.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Latin_letter_%C3%87%C3%A7.svg",
+    "credit": "Bastique",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m14",
+   "tier": 4,
+   "q": "Name this symbol (a line with a dot above and below) used in arithmetic",
+   "a": "What is the obelus (division sign)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Obelus.svg/960px-Obelus.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Obelus.svg",
+    "credit": "Personline",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m15",
+   "tier": 4,
+   "q": "Readers once drew this pointing-hand mark in margins to flag key passages. What is it called?",
+   "a": "What is a manicule?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Manicule_hand_drawn_from_15th_century.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Manicule_hand_drawn_from_15th_century.png",
+    "credit": "Daryl Green",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m16",
+   "tier": 4,
+   "q": "Name the two dots placed over a vowel, as in 'naïve' or 'Brontë'",
+   "a": "What is the diaeresis (umlaut)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Diaeresis.svg/960px-Diaeresis.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Diaeresis.svg",
+    "credit": "Person or Persons Unknown",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "grammar-m17",
+   "tier": 5,
+   "q": "Name this rare typographic mark, three small stars in a triangle, once used to divide sections of a book",
+   "a": "What is the asterism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Asterism.svg/960px-Asterism.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Asterism.svg",
+    "credit": "Linuxerist",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m18",
+   "tier": 5,
+   "q": "Name this backward-facing ? symbol, proposed in the 1500s and 1800s to signal sarcasm",
+   "a": "What is the irony mark (percontation point)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Irony_mark.svg/960px-Irony_mark.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Irony_mark.svg",
+    "credit": "Bop34",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "grammar-m19",
+   "tier": 5,
+   "q": "This Dublin parking notice uses an old shorthand symbol for Irish 'agus' ('and'). Name the symbol.",
+   "a": "What is the Tironian et?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pay_and_Display_sign_with_Tironian_et_for_Irish_agus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pay_and_Display_sign_with_Tironian_et_for_Irish_agus.jpg",
+    "credit": "Kaihsu Tai",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "grammar-m20",
+   "tier": 5,
+   "q": "The squiggle before 'tamen' in this medieval manuscript is the ancestor of which modern punctuation symbol?",
+   "a": "What is the question mark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Punctus_interrogativus_from_Bern%2C_B%C3%BCrgerbibliothek_Cod._162%2C_f._15r.jpg/960px-Punctus_interrogativus_from_Bern%2C_B%C3%BCrgerbibliothek_Cod._162%2C_f._15r.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Punctus_interrogativus_from_Bern,_B%C3%BCrgerbibliothek_Cod._162,_f._15r.jpg",
+    "credit": "e-codices (Virtual Manuscript Library of Switzerland)",
+    "license": "CC BY 3.0"
+   }
   }
  ]
 }

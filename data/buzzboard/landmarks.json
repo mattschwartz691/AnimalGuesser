@@ -303,6 +303,266 @@
    "q": "This fortified clay village in Morocco's Atlas foothills has appeared in films like Gladiator",
    "a": "What is Aït Benhaddou?",
    "tier": 5
+  },
+  {
+   "id": "landmarks-m01",
+   "tier": 1,
+   "q": "Name this landmark, a gift from France dedicated in 1886",
+   "a": "What is the Statue of Liberty?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1280px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "credit": "AskALotl",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "landmarks-m02",
+   "tier": 1,
+   "q": "Name this white marble mausoleum in Agra",
+   "a": "What is the Taj Mahal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1280px-Taj_Mahal_%28Edited%29.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "credit": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m03",
+   "tier": 1,
+   "q": "Name this harbourside performing-arts building",
+   "a": "What is the Sydney Opera House?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/1280px-Sydney_Opera_House_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg",
+    "credit": "BAVhah",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m04",
+   "tier": 1,
+   "q": "Name this famously tilting Italian campanile",
+   "a": "What is the Leaning Tower of Pisa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "landmarks-m05",
+   "tier": 2,
+   "q": "Name this orange suspension span in San Francisco, opened in 1937",
+   "a": "What is the Golden Gate Bridge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/1280px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+    "credit": "Frank Schulenburg",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m06",
+   "tier": 2,
+   "q": "Name this statue overlooking Rio de Janeiro",
+   "a": "What is Christ the Redeemer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/1280px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "landmarks-m07",
+   "tier": 2,
+   "q": "Name this 15th-century Inca citadel high in the Andes",
+   "a": "What is Machu Picchu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/1280px-Machu_Picchu%2C_2023_%28012%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "credit": "Draceane",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m08",
+   "tier": 2,
+   "q": "Name this prehistoric stone circle in Wiltshire, England",
+   "a": "What is Stonehenge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1280px-Stonehenge2007_07_30.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "credit": "garethwiscombe",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "landmarks-m09",
+   "tier": 3,
+   "q": "Name this Maya site, home to the pyramid El Castillo",
+   "a": "What is Chichen Itza?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/001_El_Castillo_o_templo_de_Kukulkan._Chich%C3%A9n_Itz%C3%A1%2C_M%C3%A9xico._MPLC.jpg/1280px-001_El_Castillo_o_templo_de_Kukulkan._Chich%C3%A9n_Itz%C3%A1%2C_M%C3%A9xico._MPLC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:001_El_Castillo_o_templo_de_Kukulkan._Chich%C3%A9n_Itz%C3%A1,_M%C3%A9xico._MPLC.jpg",
+    "credit": "Manuel de Corselas",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "landmarks-m10",
+   "tier": 3,
+   "q": "This rock-cut 'Treasury' is the icon of which ancient city in Jordan?",
+   "a": "What is Petra?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Al_khazneh.jpg/1280px-Al_khazneh.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_khazneh.jpg",
+    "credit": "Susanahajer",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "landmarks-m11",
+   "tier": 3,
+   "q": "Name this Bavarian fairy-tale palace built for King Ludwig II",
+   "a": "What is Neuschwanstein Castle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg/1280px-Schloss_Neuschwanstein_%2845_mm%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_(45_mm).jpg",
+    "credit": "AuHaidhausen",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m12",
+   "tier": 3,
+   "q": "Name this Cambodian temple complex, the largest religious monument in the world",
+   "a": "What is Angkor Wat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1280px-Angkor_Wat.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m13",
+   "tier": 4,
+   "q": "Name this tidal island abbey off the coast of Normandy",
+   "a": "What is Mont-Saint-Michel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/1280px-Mont-Saint-Michel_vu_du_ciel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+    "credit": "Amaustan",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m14",
+   "tier": 4,
+   "q": "Name this unfinished basilica in Barcelona, under construction since 1882",
+   "a": "What is the Sagrada Familia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/960px-SF_maig_2_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m15",
+   "tier": 4,
+   "q": "These giant stone moai stand on which remote Pacific isle?",
+   "a": "What is Easter Island?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AhuTongariki.JPG/500px-AhuTongariki.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+    "credit": "Ian Sewell",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "landmarks-m16",
+   "tier": 4,
+   "q": "Name this hilltop fortress-residence in Lhasa, former home of the Dalai Lamas",
+   "a": "What is the Potala Palace?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potala_Palace_HQ.jpg/1280px-Potala_Palace_HQ.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Potala_Palace_HQ.jpg",
+    "credit": "Lhasa Government",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m17",
+   "tier": 5,
+   "q": "Name this 9th-century Buddhist temple in Java, the world's largest",
+   "a": "What is Borobudur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/1280px-Pradaksina.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+    "credit": "Heri nugroho",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m18",
+   "tier": 5,
+   "q": "This is the world's largest mud-brick building. In which Malian town does it stand?",
+   "a": "What is Djenne?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/1280px-Djenne_great_mud_mosque.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+    "credit": "Ruud Zwart",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "landmarks-m19",
+   "tier": 5,
+   "q": "Name this Greek site where monasteries sit atop rock pillars",
+   "a": "What is Meteora?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meteora%27s_monastery_2.jpg/1280px-Meteora%27s_monastery_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meteora's_monastery_2.jpg",
+    "credit": "Stathis floros",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "landmarks-m20",
+   "tier": 5,
+   "q": "These huge zigzag stone walls outside Cusco form which Inca fortress?",
+   "a": "What is Sacsayhuaman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_27.JPG/1280px-Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_27.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Sacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_27.JPG",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

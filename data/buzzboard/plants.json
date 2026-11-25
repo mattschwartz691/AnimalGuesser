@@ -303,6 +303,279 @@
    "q": "This leafless, stringy parasitic vine of the genus Cuscuta finds host plants by sensing the chemicals they give off",
    "a": "What is dodder?",
    "tier": 5
+  },
+  {
+   "id": "plants-m01",
+   "tier": 1,
+   "q": "Name this tall plant whose big yellow flower heads follow the sun when young",
+   "a": "What is the sunflower?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunflower_sky_backdrop.jpg",
+    "credit": "Fir0002",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "plants-m02",
+   "tier": 1,
+   "q": "Watch (time-lapse): name this meat-eating plant whose leaves snap shut on insects",
+   "a": "What is the Venus flytrap?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Venus_Flytrap_%28time_lapse%29.webm/Venus_Flytrap_%28time_lapse%29.webm.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Venus_Flytrap_(time_lapse).webm",
+    "credit": "LearjetMinako",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "plants-m03",
+   "tier": 1,
+   "q": "Name this giant cactus of the Sonoran Desert, with arms that point upward",
+   "a": "What is the saguaro?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg/960px-Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson,_Arizona_during_November_(58).jpg",
+    "credit": "WClarke",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m04",
+   "tier": 1,
+   "q": "Name this common weed whose seed heads you blow on to make a wish",
+   "a": "What is the dandelion?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg/960px-Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_Köhler–s_Medizinal-Pflanzen-135.jpg",
+    "credit": "Walther Otto Müller",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "plants-m05",
+   "tier": 2,
+   "q": "Name this African tree with a huge swollen trunk, nicknamed the 'upside-down tree'",
+   "a": "What is the baobab?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baobab_and_elephant%2C_Tanzania.jpg/960px-Baobab_and_elephant%2C_Tanzania.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant,_Tanzania.jpg",
+    "credit": "Ferdinand Reus from Arnhem, Holland",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "plants-m06",
+   "tier": 2,
+   "q": "Name this sacred aquatic plant of Asia, a symbol of purity, that rises above muddy water",
+   "a": "What is the lotus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg/960px-Sacred_lotus_Nelumbo_nucifera.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg",
+    "credit": "T.Voekler",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m07",
+   "tier": 2,
+   "q": "Name this plant whose three-leaflet leaves cause an itchy rash",
+   "a": "What is poison ivy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2014-10-29_13_43_39_Poison_Ivy_foliage_during_autumn_leaf_coloration_in_Ewing%2C_New_Jersey.JPG/960px-2014-10-29_13_43_39_Poison_Ivy_foliage_during_autumn_leaf_coloration_in_Ewing%2C_New_Jersey.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:2014-10-29_13_43_39_Poison_Ivy_foliage_during_autumn_leaf_coloration_in_Ewing,_New_Jersey.JPG",
+    "credit": "Famartin",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "plants-m08",
+   "tier": 2,
+   "q": "Name this flowering bulb plant, famous in the Netherlands",
+   "a": "What is the tulip?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/960px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:צבעונים.JPG",
+    "credit": "Dina L",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "plants-m09",
+   "tier": 3,
+   "q": "Name this parasitic plant of Indonesia with the largest single flower in the world",
+   "a": "What is Rafflesia (arnoldii)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rafflesia_arnoldii%2C_Sumatra.jpg/960px-Rafflesia_arnoldii%2C_Sumatra.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rafflesia_arnoldii,_Sumatra.jpg",
+    "credit": "LukeTriton",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "plants-m10",
+   "tier": 3,
+   "q": "Name this Amazon plant whose huge floating pads can hold a small child",
+   "a": "What is the giant water lily (Victoria amazonica)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Victoria_amazonica_edit_1.jpg/960px-Victoria_amazonica_edit_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg",
+    "credit": "Bilby",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "plants-m11",
+   "tier": 3,
+   "q": "Name this yucca of the Mojave Desert, named after a Biblical figure",
+   "a": "What is the Joshua tree?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/960px-Joshua_Tree_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_01.jpg",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m12",
+   "tier": 3,
+   "q": "Name this kind of insect-eating flora that traps prey in a fluid-filled cup",
+   "a": "What is a pitcher plant?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/N.macrophylla_x_lowii.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:N.macrophylla_x_lowii.jpg",
+    "credit": "hirosi SBM",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "plants-m13",
+   "tier": 3,
+   "q": "Name this species whose leaves fold up when touched",
+   "a": "What is Mimosa pudica (the sensitive plant)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mimosa_Pudica.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:Mimosa_Pudica.gif",
+    "credit": "Hrushikesh",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "plants-m14",
+   "tier": 4,
+   "q": "Name this umbrella-shaped species from the island of Socotra, which has red sap",
+   "a": "What is the dragon's blood tree?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dragonblood_tree_in_Socotra_2.jpg/960px-Dragonblood_tree_in_Socotra_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dragonblood_tree_in_Socotra_2.jpg",
+    "credit": "Alex38",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "plants-m15",
+   "tier": 4,
+   "q": "Name this orange-and-blue South African bloom, also called the crane flower",
+   "a": "What is the bird of paradise (Strelitzia)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ave-do-para%C3%ADso%2C_Strelitzia_reginae%2C_em_Bag%C3%A9%2C_Rio_Grande_do_Sul%2C_Brasil_-_55211233712.jpg/960px-Ave-do-para%C3%ADso%2C_Strelitzia_reginae%2C_em_Bag%C3%A9%2C_Rio_Grande_do_Sul%2C_Brasil_-_55211233712.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ave-do-paraíso,_Strelitzia_reginae,_em_Bagé,_Rio_Grande_do_Sul,_Brasil_-_55211233712.jpg",
+    "credit": "Gabriel Collares",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "plants-m16",
+   "tier": 4,
+   "q": "Name this sticky carnivorous plant covered in glistening tentacle-like hairs",
+   "a": "What is a sundew (Drosera)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Drosera_spatulata_KansaiHabit.jpg/960px-Drosera_spatulata_KansaiHabit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drosera_spatulata_KansaiHabit.jpg",
+    "credit": "Jan Wieneke",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m17",
+   "tier": 4,
+   "q": "Name this spiky Chilean conifer whose name says it would be hard for primates to climb",
+   "a": "What is the monkey puzzle tree?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Araucaria_en_Parque_Nacional_Conguillio.jpg/960px-Araucaria_en_Parque_Nacional_Conguillio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Araucaria_en_Parque_Nacional_Conguillio.jpg",
+    "credit": "Vicente Fernández Rioja",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "plants-m18",
+   "tier": 5,
+   "q": "Name this Namib Desert plant that grows only two leaves in its whole life, which can live over 1,000 years",
+   "a": "What is Welwitschia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Welwitschia_mirabilis%282%29.jpg/960px-Welwitschia_mirabilis%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Welwitschia_mirabilis(2).jpg",
+    "credit": "Thomas Schoch",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m19",
+   "tier": 5,
+   "q": "Name this South African succulent that looks like a pair of pebbles",
+   "a": "What are living stones (Lithops)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lithops_2.jpg/960px-Lithops_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lithops_2.jpg",
+    "credit": "yellowcloud",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "plants-m20",
+   "tier": 5,
+   "q": "Name this Andean plant with the tallest flower spike in the world",
+   "a": "What is Puya raimondii (Queen of the Andes)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Puya_raimondii_h%C3%A1bito.jpg/960px-Puya_raimondii_h%C3%A1bito.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puya_raimondii_hábito.jpg",
+    "credit": "Pepe Roque",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "plants-m21",
+   "tier": 5,
+   "q": "Name this Philippine climber with claw-shaped, turquoise flowers",
+   "a": "What is the jade vine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Strongylodon_macrobotrys%2C_Bagong_Silang%2C_Los_Ba%C3%B1os%2C_Laguna%2C_Philippines_1.jpg/960px-Strongylodon_macrobotrys%2C_Bagong_Silang%2C_Los_Ba%C3%B1os%2C_Laguna%2C_Philippines_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Strongylodon_macrobotrys,_Bagong_Silang,_Los_Baños,_Laguna,_Philippines_1.jpg",
+    "credit": "andrewholle",
+    "license": "CC0"
+   }
   }
  ]
 }

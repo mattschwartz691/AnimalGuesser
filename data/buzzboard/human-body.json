@@ -303,6 +303,279 @@
    "q": "This thick band of nerve fibers links the left and right hemispheres of the brain",
    "a": "What is the corpus callosum?",
    "tier": 5
+  },
+  {
+   "id": "human-body-m01",
+   "tier": 1,
+   "q": "Name this organ of the body, shown here as a model",
+   "a": "What is the brain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Brain_model_-_Insula.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brain_model_-_Insula.jpg",
+    "credit": "GreenFlames09 from United States",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "human-body-m02",
+   "tier": 1,
+   "q": "Name this bony structure that holds you up, with 206 bones in adults",
+   "a": "What is the skeleton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Human-Skeleton.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg",
+    "credit": "Sklmsta",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "human-body-m03",
+   "tier": 1,
+   "q": "Name this pair of organs you breathe with",
+   "a": "What are the lungs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lungs_diagram_detailed.svg/960px-Lungs_diagram_detailed.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Lungs_diagram_detailed.svg",
+    "credit": "Patrick J. Lynch, medical illustrator",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "human-body-m04",
+   "tier": 1,
+   "q": "Listen: name the organ making this sound, heard through a stethoscope",
+   "a": "What is the heart?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Emily%27s_heartbeat.wav/Emily%27s_heartbeat.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Emily's_heartbeat.wav",
+    "credit": "EmilyHopeS",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "human-body-m05",
+   "tier": 1,
+   "q": "Name the bony part of the body shown in this X-ray",
+   "a": "What is the skull?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%D0%A0%D0%B5%D0%BD%D1%82%D0%B3%D0%B5%D0%BD_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Рентген_черепа.jpg",
+    "credit": "Максим Стоялов",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "human-body-m06",
+   "tier": 2,
+   "q": "Name the longest bone in the body, highlighted in red",
+   "a": "What is the femur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Femur_-_anterior_view2.png/960px-Femur_-_anterior_view2.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Femur_-_anterior_view2.png",
+    "credit": "Anatomography",
+    "license": "CC BY-SA 2.1 jp"
+   }
+  },
+  {
+   "id": "human-body-m07",
+   "tier": 2,
+   "q": "Name this famous double-helix molecule that carries genetic information",
+   "a": "What is DNA?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+    "page": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+    "credit": "Zephyris",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "human-body-m08",
+   "tier": 2,
+   "q": "Listen: name this involuntary spasm of the diaphragm",
+   "a": "What are hiccups?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/Hiccupsound.ogg/Hiccupsound.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Hiccupsound.ogg",
+    "credit": "SergeantBolt at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "human-body-m09",
+   "tier": 2,
+   "q": "Name the joint shown in this side-view X-ray",
+   "a": "What is the knee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/X-ray_of_a_normal_knee_by_lateral_projection.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:X-ray_of_a_normal_knee_by_lateral_projection.jpg",
+    "credit": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest: None...",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "human-body-m10",
+   "tier": 2,
+   "q": "Name the colored ring of muscle in this eye, around the black pupil",
+   "a": "What is the iris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Human_eye_with_limbal_ring%2C_anterior_view.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_eye_with_limbal_ring,_anterior_view.jpg",
+    "credit": "Rapidreflex",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "human-body-m11",
+   "tier": 3,
+   "q": "Name this type of cell, which carries electrical signals through the nervous system",
+   "a": "What is a neuron?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/960px-Blausen_0657_MultipolarNeuron.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Blausen_0657_MultipolarNeuron.png",
+    "credit": "BruceBlaus",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "human-body-m12",
+   "tier": 3,
+   "q": "In this electron-microscope image, what are the red, dimpled discs that carry oxygen around your body?",
+   "a": "What are red blood cells?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Red_White_Blood_cells.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_White_Blood_cells.jpg",
+    "credit": "Electron Microscopy Facility at The National Cancer Institute at Frederick (NCI-Frederick)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "human-body-m13",
+   "tier": 3,
+   "q": "This 1895 picture of a hand wearing a ring was the first medical image of its kind. Name the kind of image.",
+   "a": "What is an X-ray?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/960px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_Röntgen_of_his_wife_Anna_Bertha_Ludwig's_hand_-_18951222.jpg",
+    "credit": "Wilhelm Röntgen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "human-body-m14",
+   "tier": 3,
+   "q": "Name this type of fingerprint pattern, with ridges in circles or spirals",
+   "a": "What is a whorl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fingerprint_Whorl.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fingerprint_Whorl.jpg",
+    "credit": "NIST database",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "human-body-m15",
+   "tier": 4,
+   "q": "Name the smallest bone in the human body, shown here next to a 10-cent coin",
+   "a": "What is the stapes (stirrup)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Stapes_human_ear.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stapes_human_ear.jpg",
+    "credit": "Welleschik",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "human-body-m16",
+   "tier": 4,
+   "q": "Name this U-shaped bone, highlighted in the neck, that is not attached to any other bone",
+   "a": "What is the hyoid?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hyoid_bone_-_animation.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:Hyoid_bone_-_animation.gif",
+    "credit": "Anatomography",
+    "license": "CC BY-SA 2.1 jp"
+   }
+  },
+  {
+   "id": "human-body-m17",
+   "tier": 4,
+   "q": "Name this flat, triangular bone highlighted on the upper back",
+   "a": "What is the scapula (shoulder blade)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Scapula_-_animation.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:Scapula_-_animation.gif",
+    "credit": "Anatomography",
+    "license": "CC BY-SA 2.1 jp"
+   }
+  },
+  {
+   "id": "human-body-m18",
+   "tier": 4,
+   "q": "This brain structure, shown next to the sea creature it is named after, is key to forming memories. Name it.",
+   "a": "What is the hippocampus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Hippocampus_and_seahorse_cropped.JPG",
+    "credit": "Hippocampus_and_seahorse.JPG: Professor Laszlo Seress derivative work: Anthonyhcole (talk)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "human-body-m19",
+   "tier": 5,
+   "q": "Name this type of neuron, drawn by Santiago Ramón y Cajal, found in the cerebellum",
+   "a": "What is a Purkinje cell?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/PurkinjeCell.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PurkinjeCell.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "human-body-m20",
+   "tier": 5,
+   "q": "Name the tiny structure that is the kidney's basic filtering unit",
+   "a": "What is a nephron?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kidney_Nephron.svg/960px-Kidney_Nephron.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Kidney_Nephron.svg",
+    "credit": "Artwork by Holly Fischer",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "human-body-m21",
+   "tier": 5,
+   "q": "Name these clusters of hormone-making cells in the pancreas, shown in a stained micrograph",
+   "a": "What are the islets of Langerhans?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Human_pancreatic_islet.jpg/960px-Human_pancreatic_islet.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_pancreatic_islet.jpg",
+    "credit": "Afferent",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

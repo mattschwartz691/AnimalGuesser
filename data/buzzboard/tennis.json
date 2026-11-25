@@ -303,6 +303,279 @@
    "q": "In 1887 she won Wimbledon at age 15, still the youngest ladies' singles champion",
    "a": "Who is Lottie Dod?",
    "tier": 5
+  },
+  {
+   "id": "tennis-m01",
+   "tier": 1,
+   "q": "Name this American champion of 23 Grand Slam singles titles, the most of the Open Era by a woman.",
+   "a": "Who is Serena Williams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Serena-Smiling-2020.png/1280px-Serena-Smiling-2020.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Serena-Smiling-2020.png",
+    "credit": "AndrewHenkelman",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m02",
+   "tier": 1,
+   "q": "Name this Swiss star who won a men's-record eight Wimbledon singles titles.",
+   "a": "Who is Roger Federer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roger_Federer_2015_%28cropped%29.jpg/1280px-Roger_Federer_2015_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roger_Federer_2015_(cropped).jpg",
+    "credit": "Tatiana from Moscow, Russia",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "tennis-m03",
+   "tier": 1,
+   "q": "Name this Serbian, winner of a record 24 Grand Slam singles titles, pictured after his 2024 Olympic gold.",
+   "a": "Who is Novak Djokovic?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg/1280px-Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Paris_2024_Olympic_Games_(cropped).jpg",
+    "credit": "Andymiah",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m04",
+   "tier": 1,
+   "q": "Name this Spanish lefty, the 'King of Clay', who won the French Open a record 14 times.",
+   "a": "Who is Rafael Nadal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_(cropped).jpg",
+    "credit": "Barcex",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m05",
+   "tier": 2,
+   "q": "Which tournament, the oldest in tennis and famous for all-white clothing, is played on this London grass court?",
+   "a": "What is Wimbledon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/London_Centre_Court_Wimbledon_%2853284151591%29.jpg/1280px-London_Centre_Court_Wimbledon_%2853284151591%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:London_Centre_Court_Wimbledon_(53284151591).jpg",
+    "credit": "Arne Müseler from Salzburg, AT",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "tennis-m06",
+   "tier": 2,
+   "q": "Which Grand Slam tournament, played on red clay, is held at this Paris stadium, seen from above?",
+   "a": "What is the French Open?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paris_Court_Philippe-Chatrier.jpg/1280px-Paris_Court_Philippe-Chatrier.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_Court_Philippe-Chatrier.jpg",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "tennis-m07",
+   "tier": 2,
+   "q": "Name this Spaniard who in 2022, at age 19, became the youngest man ever ranked world No. 1.",
+   "a": "Who is Carlos Alcaraz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg",
+    "credit": "Barcex",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m08",
+   "tier": 2,
+   "q": "Name this American who won the 2023 U.S. Open at 19 and the 2025 French Open.",
+   "a": "Who is Coco Gauff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
+    "credit": "Rick Munroe",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m09",
+   "tier": 3,
+   "q": "Which Grand Slam tournament is played in this New York stadium, the largest tennis venue in the world?",
+   "a": "What is the US Open?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arthur_Ashe_Stadium_with_the_roof_closed_%2832938595438%29.jpg/1280px-Arthur_Ashe_Stadium_with_the_roof_closed_%2832938595438%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium_with_the_roof_closed_(32938595438).jpg",
+    "credit": "Carine06 from UK",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "tennis-m10",
+   "tier": 3,
+   "q": "In which city is this arena, home of the first Grand Slam event of each year?",
+   "a": "What is Melbourne?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rod_Laver_Arena_Melbourne_Park_Australian_Open_2023_quarter_final.jpg/1280px-Rod_Laver_Arena_Melbourne_Park_Australian_Open_2023_quarter_final.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rod_Laver_Arena_Melbourne_Park_Australian_Open_2023_quarter_final.jpg",
+    "credit": "Gracchus250",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m11",
+   "tier": 3,
+   "q": "By its nickname, name the famous 1973 match between these two players, won by the woman.",
+   "a": "What is the Battle of the Sexes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Billie_Jean_King_and_Bobby_Riggs_1973.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Billie_Jean_King_and_Bobby_Riggs_1973.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tennis-m12",
+   "tier": 3,
+   "q": "Name this Scot who in 2013 became the first British man since 1936 to win Wimbledon.",
+   "a": "Who is Andy Murray?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Australian_Open_-_Andy_Murray_12_(cropped).jpg",
+    "credit": "Brendan Dennis",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m13",
+   "tier": 4,
+   "q": "Name this American, pictured in 1966, the first Black man to win Wimbledon; New York's main tennis stadium bears his name.",
+   "a": "Who is Arthur Ashe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Arthur_Ashe_in_the_1966_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_in_the_1966_(cropped).jpg",
+    "credit": "Los Angeles Daily News / UCLA Library",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tennis-m14",
+   "tier": 4,
+   "q": "Name this Czech-born lefty who won a record nine Wimbledon singles titles.",
+   "a": "Who is Martina Navratilova?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Martina_Navratilova_-_240422_183713_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Martina_Navratilova_-_240422_183713_(cropped).jpg",
+    "credit": "Barcex",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m15",
+   "tier": 4,
+   "q": "Name this Florida baseliner of the 1970s, winner of 18 Grand Slam singles titles, including seven French Opens.",
+   "a": "Who is Chris Evert?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chris_Evert.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chris_Evert.jpg",
+    "credit": "unknown, Florida Memory",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tennis-m16",
+   "tier": 4,
+   "q": "Name this men's international team competition, shown at its 2018 final in Lille, France.",
+   "a": "What is the Davis Cup?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Coupe_Davis_Finale_2018.jpg/1280px-Coupe_Davis_Finale_2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coupe_Davis_Finale_2018.jpg",
+    "credit": "Liondartois",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tennis-m17",
+   "tier": 5,
+   "q": "Name this French star of the 1920s, pictured in 1922, who won six Wimbledon titles; a Paris court is named for her.",
+   "a": "Who is Suzanne Lenglen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Suzanne_Lenglen_1922_%28instant%29_%28cropped%29_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzanne_Lenglen_1922_(instant)_(cropped)_3.jpg",
+    "credit": "Agence Rol",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tennis-m18",
+   "tier": 5,
+   "q": "Name this indoor ancestor of the modern racket game, played in walled courts like this one in Newcastle.",
+   "a": "What is real tennis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jesmond-Dene-tennis-court.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jesmond-Dene-tennis-court.jpg",
+    "credit": "Horacio Gomes",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tennis-m19",
+   "tier": 5,
+   "q": "Name this camera-based line-calling system, one of whose cameras is shown here.",
+   "a": "What is Hawk-Eye?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kremlin_Cup_2012_-_Hawk-Eye_cam.JPG/1280px-Kremlin_Cup_2012_-_Hawk-Eye_cam.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Kremlin_Cup_2012_-_Hawk-Eye_cam.JPG",
+    "credit": "JukoFF",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tennis-m20",
+   "tier": 5,
+   "q": "Name this Australian lefty, the only player to win the calendar-year Grand Slam twice (1962 and 1969).",
+   "a": "Who is Rod Laver?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tennis_%27great%27%2C_Rod_Laver_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tennis_%27great%27,_Rod_Laver_(cropped).jpg",
+    "credit": "Brisbane City Council",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "tennis-m21",
+   "tier": 5,
+   "q": "Name this pioneer, pictured in 1956, the first Black player to win a Grand Slam title, and a two-time Wimbledon champion.",
+   "a": "Who is Althea Gibson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Althea_Gibson_in_1956_by_Fred_Palumbo_%28NYWTS%29.jpg/1280px-Althea_Gibson_in_1956_by_Fred_Palumbo_%28NYWTS%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Althea_Gibson_in_1956_by_Fred_Palumbo_(NYWTS).jpg",
+    "credit": "Adam Cuerden",
+    "license": "Public domain"
+   }
   }
  ]
 }

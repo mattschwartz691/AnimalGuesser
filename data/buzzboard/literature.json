@@ -602,6 +602,266 @@
    "q": "Hermann Hesse's 1922 novel recounts one man's spiritual journey of self-discovery during the time of the Gautama Buddha.",
    "a": "What is Siddhartha?",
    "tier": 5
+  },
+  {
+   "id": "literature-m01",
+   "tier": 1,
+   "q": "This John Tenniel illustration of a tea party comes from which 1865 book by Lewis Carroll?",
+   "a": "What is Alice's Adventures in Wonderland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teaparty.svg/960px-Teaparty.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Teaparty.svg",
+    "credit": "John Tenniel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m02",
+   "tier": 1,
+   "q": "W. W. Denslow drew this girl scolding a lion for which 1900 L. Frank Baum book?",
+   "a": "What is The Wonderful Wizard of Oz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cowardly_lion2.jpg/960px-Cowardly_lion2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cowardly_lion2.jpg",
+    "credit": "Illustration by W.W. Denslow (d. 1915)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m03",
+   "tier": 1,
+   "q": "John Leech drew this ghost visiting a miser for which 1843 Charles Dickens story?",
+   "a": "What is A Christmas Carol?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Marley%27s_Ghost-John_Leech%2C_1843.jpg/960px-Marley%27s_Ghost-John_Leech%2C_1843.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marley%27s_Ghost-John_Leech,_1843.jpg",
+    "credit": "John Leech",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m04",
+   "tier": 1,
+   "q": "This Ford Madox Brown painting shows the balcony scene from which Shakespeare play?",
+   "a": "What is Romeo and Juliet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Romeo_and_juliet_brown.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Romeo_and_juliet_brown.jpg",
+    "credit": "Ford Madox Brown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m05",
+   "tier": 2,
+   "q": "This 1876 frontispiece by True Williams shows a boy fishing. Which Mark Twain novel is it from?",
+   "a": "What is The Adventures of Tom Sawyer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/960px-Tom_Sawyer_1876_frontispiece.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Sawyer_1876_frontispiece.jpg",
+    "credit": "True Williams",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m06",
+   "tier": 2,
+   "q": "Maurice Leloir drew these four swordsmen for an 1894 edition of which Alexandre Dumas novel?",
+   "a": "What is The Three Musketeers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dartagnan-musketeers.jpg/960px-Dartagnan-musketeers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dartagnan-musketeers.jpg",
+    "credit": "Jules Huyot / After Maurice Leloir",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m07",
+   "tier": 2,
+   "q": "This illustration shows a boy hiding in an apple barrel aboard the Hispaniola. Which Stevenson novel is it from?",
+   "a": "What is Treasure Island?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Treasure-island01.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Treasure-island01.png",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m08",
+   "tier": 2,
+   "q": "This illustration of a whale attacking a boat is from which 1851 Herman Melville novel?",
+   "a": "What is Moby-Dick?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moby_Dick_p510_illustration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moby_Dick_p510_illustration.jpg",
+    "credit": "Augustus Burnham Shute",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m09",
+   "tier": 3,
+   "q": "Gustave Doré drew this old gentleman whose head is crowded with tales of chivalry. Which Cervantes novel is it?",
+   "a": "What is Don Quixote?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions%2C_picked_out_of_his_books%2C_crowded_into_his_imagination%22.jpg/960px-thumbnail.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination%22.jpg",
+    "credit": "Héliodore Pisan / After Gustave Doré",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m10",
+   "tier": 3,
+   "q": "This 1726 first edition claims to be a ship's surgeon's travel memoir. Which Irish satirist really wrote it?",
+   "a": "Who is Jonathan Swift?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gullivers_travels.jpg/960px-Gullivers_travels.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gullivers_travels.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m11",
+   "tier": 3,
+   "q": "Émile Bayard's drawing of young Cosette comes from which Victor Hugo novel?",
+   "a": "What is Les Misérables?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ebcosette.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ebcosette.jpg",
+    "credit": "Émile Bayard",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m12",
+   "tier": 3,
+   "q": "Sidney Paget drew this 1902 scene of a man entering a stone hut on a moor. Which Sherlock Holmes novel is it from?",
+   "a": "What is The Hound of the Baskervilles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Houn-42_-_Frontispiece_%28Hound_of_Baskervilles%29.jpg/960px-Houn-42_-_Frontispiece_%28Hound_of_Baskervilles%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Houn-42_-_Frontispiece_(Hound_of_Baskervilles).jpg",
+    "credit": "Sidney Paget (1860-1908)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m13",
+   "tier": 4,
+   "q": "This 1871 frontispiece shows a submarine adventure beneath the waves. Which French author wrote the novel?",
+   "a": "Who is Jules Verne?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Houghton_FC8_V5946_869ve_-_Verne%2C_frontispiece.jpg/960px-Houghton_FC8_V5946_869ve_-_Verne%2C_frontispiece.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Houghton_FC8_V5946_869ve_-_Verne,_frontispiece.jpg",
+    "credit": "Édouard Riou and Alphonse de Neuville",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m14",
+   "tier": 4,
+   "q": "Henry Fuseli painted these three witches from which Shakespeare tragedy set in Scotland?",
+   "a": "What is Macbeth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Johann_Heinrich_F%C3%BCssli_019.jpg/960px-Johann_Heinrich_F%C3%BCssli_019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_019.jpg",
+    "credit": "Henry Fuseli",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m15",
+   "tier": 4,
+   "q": "Hammatt Billings drew this enslaved man and a little girl named Eva for which 1852 Harriet Beecher Stowe novel?",
+   "a": "What is Uncle Tom's Cabin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Uncle_Tom%27s_Cabin_-_Eva_and_Tom.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Uncle_Tom%27s_Cabin_-_Eva_and_Tom.jpg",
+    "credit": "Hammatt Billings",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m16",
+   "tier": 4,
+   "q": "This early-1400s manuscript page shows a pilgrim on horseback from which Geoffrey Chaucer work?",
+   "a": "What are The Canterbury Tales?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chaucer_ellesmere.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chaucer_ellesmere.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m17",
+   "tier": 5,
+   "q": "This page of a damaged manuscript begins with 'Hwæt!' Which Old English epic is it?",
+   "a": "What is Beowulf?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/960px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
+    "credit": "anonymous Anglo-Saxon poet",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m18",
+   "tier": 5,
+   "q": "This 12th-century painted handscroll illustrates which 11th-century Japanese novel by Murasaki Shikibu?",
+   "a": "What is The Tale of Genji?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Genji_emaki_azumaya.jpg/960px-Genji_emaki_azumaya.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Genji_emaki_azumaya.jpg",
+    "credit": "Imperial court in Kyoto",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m19",
+   "tier": 5,
+   "q": "Thomas Cole painted this 1827 scene from which James Fenimore Cooper novel?",
+   "a": "What is The Last of the Mohicans?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Scene-from-the-last-of-the-mohicans-cora-kneeling-at-the-feet-of-tanemund-1827.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scene-from-the-last-of-the-mohicans-cora-kneeling-at-the-feet-of-tanemund-1827.jpg",
+    "credit": "Thomas Cole",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literature-m20",
+   "tier": 5,
+   "q": "This illustration shows Christian with his burden from which 1678 John Bunyan allegory?",
+   "a": "What is The Pilgrim's Progress?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Christian_in_Pilgrim%27s_Progress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christian_in_Pilgrim%27s_Progress.jpg",
+    "credit": "Rachael Robinson Elmer, illustrator (died 12 February 1919)",
+    "license": "Public domain"
+   }
   }
  ]
 }

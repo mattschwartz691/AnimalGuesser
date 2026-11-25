@@ -303,6 +303,266 @@
    "q": "This silent, crowbar-wielding MIT-educated physicist is the hero of Half-Life",
    "a": "Who is Gordon Freeman?",
    "tier": 5
+  },
+  {
+   "id": "video-games-m01",
+   "tier": 1,
+   "q": "This 1989 handheld came bundled with a Soviet-designed falling-block puzzle game. Name the game",
+   "a": "What is Tetris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Game-Boy-Original.jpg/960px-Game-Boy-Original.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Game-Boy-Original.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m02",
+   "tier": 1,
+   "q": "Name this yellow Electric-type Pokémon, shown as a giant figure in Stuttgart",
+   "a": "Who is Pikachu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Big_Pikachu_figure_at_K%C3%B6nigsbau_Stuttgart_%282022-12-31%29_1.jpg/960px-Big_Pikachu_figure_at_K%C3%B6nigsbau_Stuttgart_%282022-12-31%29_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Big_Pikachu_figure_at_K%C3%B6nigsbau_Stuttgart_(2022-12-31)_1.jpg",
+    "credit": "Almanta",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "video-games-m03",
+   "tier": 1,
+   "q": "This cosplayer is dressed as which speedy blue mascot of Sega?",
+   "a": "Who is Sonic the Hedgehog?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WW_Chicago_2011_-_Sonic_the_Hedgehog_%288168360292%29.jpg/960px-WW_Chicago_2011_-_Sonic_the_Hedgehog_%288168360292%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:WW_Chicago_2011_-_Sonic_the_Hedgehog_(8168360292).jpg",
+    "credit": "GabboT",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "video-games-m04",
+   "tier": 1,
+   "q": "Name this 2017 hybrid home-and-handheld console with detachable Joy-Con controllers",
+   "a": "What is the Nintendo Switch?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg/960px-Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m05",
+   "tier": 2,
+   "q": "Name the 2006 pack-in game of bowling, tennis, golf, baseball and boxing for this console",
+   "a": "What is Wii Sports?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wii-console.jpg/960px-Wii-console.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wii-console.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m06",
+   "tier": 2,
+   "q": "Name this green-armored Spartan super-soldier, hero of the Halo games",
+   "a": "Who is Master Chief?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Master_Chief_at_E3_2012_%287351774232%29.jpg/960px-Master_Chief_at_E3_2012_%287351774232%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Master_Chief_at_E3_2012_(7351774232).jpg",
+    "credit": "Sergey Galyonkin from Raleigh, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "video-games-m07",
+   "tier": 2,
+   "q": "This cosplayer is dressed as which green-clad hero of The Legend of Zelda?",
+   "a": "Who is Link?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cosplay_of_Link_at_Brussels_Comic_Con_2019_%2833424040338%29.jpg/960px-Cosplay_of_Link_at_Brussels_Comic_Con_2019_%2833424040338%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Link_at_Brussels_Comic_Con_2019_(33424040338).jpg",
+    "credit": "Miguel Discart",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "video-games-m08",
+   "tier": 2,
+   "q": "Name this 1972 Atari game that simulated table tennis with two paddles and a ball",
+   "a": "What is Pong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Atari_Pong.jpg/960px-Atari_Pong.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Atari_Pong.jpg",
+    "credit": "Azerion",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m09",
+   "tier": 2,
+   "q": "A carpenter called Jumpman debuted in this 1981 arcade game. By what name is he known today?",
+   "a": "Who is Mario?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Donkey_Kong_arcade.jpg/330px-Donkey_Kong_arcade.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Donkey_Kong_arcade.jpg",
+    "credit": "Joshua Driggs (ZapWizard) (take photo), bayo (remove the background)",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "video-games-m10",
+   "tier": 3,
+   "q": "This model was the official face of which tomb-raiding video game heroine in 2008?",
+   "a": "Who is Lara Croft?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alison_Carroll_20080926_Festival_du_jeu_video_01.jpg/960px-Alison_Carroll_20080926_Festival_du_jeu_video_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alison_Carroll_20080926_Festival_du_jeu_video_01.jpg",
+    "credit": "Georges Seguin (Okki)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "video-games-m11",
+   "tier": 3,
+   "q": "Name this 2013 Sony console, shown with its DualShock 4 controller",
+   "a": "What is the PlayStation 4?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/960px-PS4-Console-wDS4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PS4-Console-wDS4.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m12",
+   "tier": 3,
+   "q": "Name the side-scrolling plumber game that came bundled with this console in the 1980s",
+   "a": "What is Super Mario Bros.?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/960px-NES-Console-Set.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m13",
+   "tier": 3,
+   "q": "This 1998 jet livery celebrated which Nintendo creature-collecting franchise?",
+   "a": "What is Pokémon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ANA_B767-381_JA8578_Pokemon-Jet98.jpg/500px-ANA_B767-381_JA8578_Pokemon-Jet98.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ANA_B767-381_JA8578_Pokemon-Jet98.jpg",
+    "credit": "Chatama",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "video-games-m14",
+   "tier": 4,
+   "q": "Which 1997 James Bond shooter on this console is a legendary split-screen multiplayer game?",
+   "a": "What is GoldenEye 007?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/N64-Console-Set.jpg/960px-N64-Console-Set.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:N64-Console-Set.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m15",
+   "tier": 4,
+   "q": "A notorious 1982 game for this console was based on which Spielberg movie about a stranded alien?",
+   "a": "What is E.T. the Extra-Terrestrial?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/960px-Atari-2600-Wood-4Sw-Set.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m16",
+   "tier": 4,
+   "q": "This red-and-white 1983 console became the NES in America. What was it called in Japan?",
+   "a": "What is the Famicom?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nintendo-Famicom-Console-Set-FL.jpg/960px-Nintendo-Famicom-Console-Set-FL.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m17",
+   "tier": 4,
+   "q": "Name this 2016 virtual-reality headset, from a company Facebook bought in 2014",
+   "a": "What is the Oculus Rift?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oculus-Rift-CV1-Headset-Front.jpg/960px-Oculus-Rift-CV1-Headset-Front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oculus-Rift-CV1-Headset-Front.jpg",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "video-games-m18",
+   "tier": 5,
+   "q": "This 1995 tabletop 3D flop was designed by the same Nintendo engineer who created the Game Boy. Name him",
+   "a": "Who is Gunpei Yokoi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Virtual-Boy-Set.jpg/960px-Virtual-Boy-Set.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Virtual-Boy-Set.jpg",
+    "credit": "Evan-Amos",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "video-games-m19",
+   "tier": 5,
+   "q": "Name this Nintendo designer who created Mario, Donkey Kong and The Legend of Zelda",
+   "a": "Who is Shigeru Miyamoto?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Shigeru_Miyamoto_20150610_%28cropped%29.jpg/960px-Shigeru_Miyamoto_20150610_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shigeru_Miyamoto_20150610_(cropped).jpg",
+    "credit": "Minister's Secretariat Personnel Division",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "video-games-m20",
+   "tier": 5,
+   "q": "Name this Japanese game designer, creator of the Metal Gear series",
+   "a": "Who is Hideo Kojima?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hideo_Kojima_20100702_Japan_Expo_1_%28cropped%29.jpg/960px-Hideo_Kojima_20100702_Japan_Expo_1_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hideo_Kojima_20100702_Japan_Expo_1_(cropped).jpg",
+    "credit": "Georges Seguin (Okki)",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

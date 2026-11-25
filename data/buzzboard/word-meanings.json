@@ -7202,6 +7202,266 @@
    "q": "This 8-letter noun means a person who is expelled from home or country by authority.",
    "a": "What is deportee?",
    "tier": 5
+  },
+  {
+   "id": "word-meanings-m01",
+   "tier": 1,
+   "q": "What 7-letter word names a huge floating chunk of glacier ice like this one?",
+   "a": "What is an iceberg?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iceberg_in_the_Arctic_with_its_underside_exposed.jpg/960px-Iceberg_in_the_Arctic_with_its_underside_exposed.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg",
+    "credit": "AWeith",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m02",
+   "tier": 1,
+   "q": "What word names a hot spring that periodically shoots water and steam into the air, like this one?",
+   "a": "What is a geyser?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m03",
+   "tier": 1,
+   "q": "What word names these dome-shaped shelters built of snow blocks, shown in a 19th-century Inuit village?",
+   "a": "What are igloos?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Igloos.jpg/960px-Igloos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Igloos.jpg",
+    "credit": "Unknown artist after sketches by C. F. Hall",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "word-meanings-m04",
+   "tier": 1,
+   "q": "What Japanese word names the art of folding paper into shapes like these cranes?",
+   "a": "What is origami?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+    "credit": "Laitche",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "word-meanings-m05",
+   "tier": 2,
+   "q": "What word, borrowed from Norwegian, names a long, narrow, steep-sided sea inlet carved by glaciers?",
+   "a": "What is a fjord?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Geirangerfjord_%286-2007%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_(6-2007).jpg",
+    "credit": "Frédéric de Goldschmidt",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "word-meanings-m06",
+   "tier": 2,
+   "q": "What word names these carved creatures on Notre-Dame that spout rainwater away from the walls?",
+   "a": "What are gargoyles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Notre-Dame_Rzygacze.JPG/960px-Notre-Dame_Rzygacze.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_Rzygacze.JPG",
+    "credit": "Krzysztof Mizera",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m07",
+   "tier": 2,
+   "q": "What word names a ring-shaped coral island or reef encircling a lagoon, like this one in the Pacific?",
+   "a": "What is an atoll?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tetiaroa_from_sky.JPG/960px-Tetiaroa_from_sky.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Tetiaroa_from_sky.JPG",
+    "credit": "Supertoff",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "word-meanings-m08",
+   "tier": 2,
+   "q": "What word names a group of many islands, like those scattered across this sea between Greece and Turkey?",
+   "a": "What is an archipelago?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Aegeansea.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aegeansea.jpg",
+    "credit": "NASA (public domain)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "word-meanings-m09",
+   "tier": 3,
+   "q": "What word names this heavy grille that drops down to block a castle gateway?",
+   "a": "What is a portcullis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cahir_Castle_Portcullis_by_Kevin_King.jpg/960px-Cahir_Castle_Portcullis_by_Kevin_King.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cahir_Castle_Portcullis_by_Kevin_King.jpg",
+    "credit": "Kevin King",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "word-meanings-m10",
+   "tier": 3,
+   "q": "What 4-letter word names the water-filled ditch surrounding this castle?",
+   "a": "What is a moat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Beaumaris_Castle_-_geograph.org.uk_-_4393765.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beaumaris_Castle_-_geograph.org.uk_-_4393765.jpg",
+    "credit": "G Laird",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "word-meanings-m11",
+   "tier": 3,
+   "q": "What word names a tall, four-sided stone pillar tapering to a pyramid tip, like this one at Karnak?",
+   "a": "What is an obelisk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ob%C3%A9lisque_Hatchepsout_Karnak_-_Louxor_%28EG%29_-_2025-12-04_-_12.jpg/960px-Ob%C3%A9lisque_Hatchepsout_Karnak_-_Louxor_%28EG%29_-_2025-12-04_-_12.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ob%C3%A9lisque_Hatchepsout_Karnak_-_Louxor_(EG)_-_2025-12-04_-_12.jpg",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m12",
+   "tier": 3,
+   "q": "What word names the art of clipping shrubs into ornamental shapes, as this gardener is doing?",
+   "a": "What is topiary?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cementerio%2C_Tulc%C3%A1n%2C_Ecuador%2C_2015-07-21%2C_DD_60.JPG/960px-Cementerio%2C_Tulc%C3%A1n%2C_Ecuador%2C_2015-07-21%2C_DD_60.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Cementerio,_Tulc%C3%A1n,_Ecuador,_2015-07-21,_DD_60.JPG",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m13",
+   "tier": 4,
+   "q": "What two-word term names the arched external supports bracing this Gothic church's walls?",
+   "a": "What are flying buttresses?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg/960px-L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%BCbeck_Marienkirche_Strebeb%C3%B6gen.jpg",
+    "credit": "Andreas Praefcke",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "word-meanings-m14",
+   "tier": 4,
+   "q": "What word names a narrow strip of land joining two larger landmasses, like 'The Neck' in Tasmania?",
+   "a": "What is an isthmus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Neck_Bruny_Island.jpg/960px-The_Neck_Bruny_Island.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Neck_Bruny_Island.jpg",
+    "credit": "JJ Harrison",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "word-meanings-m15",
+   "tier": 4,
+   "q": "What word, from a winding river in ancient Turkey, names each looping bend of this Alaskan river?",
+   "a": "What is a meander?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nowitna_river.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nowitna_river.jpg",
+    "credit": "Oliver Kurmis",
+    "license": "CC BY-SA 2.0 de"
+   }
+  },
+  {
+   "id": "word-meanings-m16",
+   "tier": 4,
+   "q": "What word names a hole formed when ground collapses into an underground cavity, like this huge one in Croatia?",
+   "a": "What is a sinkhole?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/07_Imotski_Crveno_Jezero_%281%29.jpg/960px-07_Imotski_Crveno_Jezero_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:07_Imotski_Crveno_Jezero_(1).jpg",
+    "credit": "Peter1936F",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m17",
+   "tier": 5,
+   "q": "What word names a tall, thin spire of eroded rock, like 'Thor's Hammer' in Utah's Bryce Canyon?",
+   "a": "What is a hoodoo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg/960px-USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg",
+    "credit": "Luca Galuzzi",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "word-meanings-m18",
+   "tier": 5,
+   "q": "What two-word term names a wave that surges up a river or estuary against the current, as in this photo?",
+   "a": "What is a tidal bore?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tidal_Bore_-_geograph.org.uk_-_324581.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tidal_Bore_-_geograph.org.uk_-_324581.jpg",
+    "credit": "Arnold Price",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "word-meanings-m19",
+   "tier": 5,
+   "q": "What word names a human-made pile of stones, often marking a trail or summit, like this one in the Yorkshire Dales?",
+   "a": "What is a cairn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sunset_near_Nine_Standards_Rigg.jpg/960px-Sunset_near_Nine_Standards_Rigg.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_near_Nine_Standards_Rigg.jpg",
+    "credit": "Ebm2002",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "word-meanings-m20",
+   "tier": 5,
+   "q": "What word names a rotating column of air and spray, like a tornado, over a body of water?",
+   "a": "What is a waterspout?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20292-water_spout_%2833100811810%29.jpg/960px-20292-water_spout_%2833100811810%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20292-water_spout_(33100811810).jpg",
+    "credit": "oliver.dodd",
+    "license": "CC BY 2.0"
+   }
   }
  ]
 }

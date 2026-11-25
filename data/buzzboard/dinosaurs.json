@@ -303,6 +303,279 @@
    "q": "Hundreds of skeletons of this small Late Triassic theropod were found at Ghost Ranch, and it is New Mexico's state fossil",
    "a": "What is Coelophysis?",
    "tier": 5
+  },
+  {
+   "id": "dinosaurs-m01",
+   "tier": 1,
+   "q": "Name this huge meat-eating dinosaur with tiny two-fingered arms",
+   "a": "What is Tyrannosaurus rex?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/960px-Tyrannosaurus_Rex_Holotype.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex_Holotype.jpg",
+    "credit": "ScottRobertAnselmo",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m02",
+   "tier": 1,
+   "q": "Name this dinosaur with three horns and a bony frill",
+   "a": "What is Triceratops?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LA-Triceratops_mount-2.jpg/960px-LA-Triceratops_mount-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LA-Triceratops_mount-2.jpg",
+    "credit": "Source: Allie_Caulfield Derivative: User:MathKnight",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m03",
+   "tier": 1,
+   "q": "Name this plant-eating dinosaur with plates along its back and a spiked tail",
+   "a": "What is Stegosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Journal.pone.0138352.g001A.jpg/960px-Journal.pone.0138352.g001A.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg",
+    "credit": "Susannah Maidment et al. & Natural History Museum, London",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m04",
+   "tier": 1,
+   "q": "Name this long-necked giant whose name means 'arm lizard'",
+   "a": "What is Brachiosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Brachiosaurus_mount.jpg/960px-Brachiosaurus_mount.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brachiosaurus_mount.jpg",
+    "credit": "Matt Wedel",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m05",
+   "tier": 2,
+   "q": "This skull belongs to an armored dinosaur with a bony club at the end of its tail. Name it.",
+   "a": "What is Ankylosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg/960px-Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg",
+    "credit": "Tim Evanson",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m06",
+   "tier": 2,
+   "q": "Name this huge sail-backed predator, a fish-eater from North Africa",
+   "a": "What is Spinosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/FSAC-KK-11888.jpg/960px-FSAC-KK-11888.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FSAC-KK-11888.jpg",
+    "credit": "3blindMies",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m07",
+   "tier": 2,
+   "q": "Name this duck-billed dinosaur with a long, tube-shaped head crest",
+   "a": "What is Parasaurolophus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FMNH_Parasaurolophus_fossil.jpg/960px-FMNH_Parasaurolophus_fossil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FMNH_Parasaurolophus_fossil.jpg",
+    "credit": "Zissoudisctrucker",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m08",
+   "tier": 2,
+   "q": "Name this small, feathered, sickle-clawed dinosaur from Mongolia, made famous by Jurassic Park",
+   "a": "What is Velociraptor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Velociraptor_skeleton_white_background.jpg/960px-Velociraptor_skeleton_white_background.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Velociraptor_skeleton_white_background.jpg",
+    "credit": "Eduard Solà Vázquez",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m09",
+   "tier": 3,
+   "q": "Name this long-necked sauropod with a whip-like tail, famous for 'Dippy' in London",
+   "a": "What is Diplodocus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/CM_Diplodocus.jpg/960px-CM_Diplodocus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CM_Diplodocus.jpg",
+    "credit": "ScottRobertAnselmo",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m10",
+   "tier": 3,
+   "q": "Name this large Jurassic predator, the top hunter of the Morrison Formation",
+   "a": "What is Allosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/WLA_hmns_Allosaurus_White_Background.jpg/960px-WLA_hmns_Allosaurus_White_Background.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:WLA_hmns_Allosaurus_White_Background.jpg",
+    "credit": "The_Wookies",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "dinosaurs-m11",
+   "tier": 3,
+   "q": "Name this famous feathered 'first bird' from Germany",
+   "a": "What is Archaeopteryx?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/960px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Archaeopteryx_lithographica_(Berlin_specimen).jpg",
+    "credit": "H. Raab (User: Vesta)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m12",
+   "tier": 3,
+   "q": "Name this dinosaur with a thick, domed skull",
+   "a": "What is Pachycephalosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pachycephalosaurus_wyomingensis_ROM.jpg/960px-Pachycephalosaurus_wyomingensis_ROM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pachycephalosaurus_wyomingensis_ROM.jpg",
+    "credit": "IJReid",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m13",
+   "tier": 4,
+   "q": "Name this horned, short-snouted predator from Argentina",
+   "a": "What is Carnotaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Carnotaurus%2C_Chlup%C3%A1%C4%8D_Museum%2C_Prague-2.jpg/960px-Carnotaurus%2C_Chlup%C3%A1%C4%8D_Museum%2C_Prague-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Carnotaurus,_Chlupáč_Museum,_Prague-2.jpg",
+    "credit": "Carnotaurus, Chlupáč Museum, Prague-2.jpg: Czech Wikipedia user Packa derivative work:...",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m14",
+   "tier": 4,
+   "q": "Name this dinosaur with giant scythe-like claws, up to a meter long",
+   "a": "What is Therizinosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Therizinosaurus_arms.jpg/960px-Therizinosaurus_arms.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Therizinosaurus_arms.jpg",
+    "credit": "Yuya Tamai from Gifu, Japan",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m15",
+   "tier": 4,
+   "q": "Name this small, frilled, beaked dinosaur from Mongolia, found locked in combat with a Velociraptor",
+   "a": "What is Protoceratops?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Andrewsi.jpg/960px-Andrewsi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Andrewsi.jpg",
+    "credit": "Tadek Kurpaski from London, Poland",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m16",
+   "tier": 4,
+   "q": "Name this early Jurassic predator with two thin crests on its head",
+   "a": "What is Dilophosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DilophosaurusROM1.JPG/960px-DilophosaurusROM1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:DilophosaurusROM1.JPG",
+    "credit": "Eduard Solà",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m17",
+   "tier": 5,
+   "q": "Name this small four-winged feathered dinosaur from China",
+   "a": "What is Microraptor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Microraptor_gui_holotype.png/960px-Microraptor_gui_holotype.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Microraptor_gui_holotype.png",
+    "credit": "David W. E. Hone, Helmut Tischlinger, Xing Xu, Fucheng Zhang",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "dinosaurs-m18",
+   "tier": 5,
+   "q": "Name this Argentine sauropod with two rows of tall spines along its neck",
+   "a": "What is Amargasaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Amargasaurus_in_Prague_National_Museum.jpg/960px-Amargasaurus_in_Prague_National_Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Amargasaurus_in_Prague_National_Museum.jpg",
+    "credit": "Jan Helebrant",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "dinosaurs-m19",
+   "tier": 5,
+   "q": "Name this horned dinosaur with long spikes on its frill",
+   "a": "What is Styracosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/StyracosaurCMN2.jpg/960px-StyracosaurCMN2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:StyracosaurCMN2.jpg",
+    "credit": "LittleLazyLass",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m20",
+   "tier": 5,
+   "q": "Name this crocodile-snouted, fish-eating theropod found in England in 1983, known for a huge thumb claw",
+   "a": "What is Baryonyx?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Baryonyx_walkeri_mount_NMNS.jpg/960px-Baryonyx_walkeri_mount_NMNS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baryonyx_walkeri_mount_NMNS.jpg",
+    "credit": "★Kumiko★",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "dinosaurs-m21",
+   "tier": 5,
+   "q": "Name this small parrot-beaked dinosaur, known from a fossil so well preserved its skin color was worked out",
+   "a": "What is Psittacosaurus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Childrens_Museum_of_Indianapolis_-_Psittacosaurus_skeleton_cast.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Psittacosaurus_skeleton_cast.jpg",
+    "credit": "Michelle Pemberton",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "This Detroit Pistons team, known for its rough, physical play, won back-to-back NBA titles in 1989 and 1990",
    "a": "What are the Bad Boys?",
    "tier": 5
+  },
+  {
+   "id": "basketball-m01",
+   "tier": 1,
+   "q": "Name this move, shown at a WNBA All-Star Game, where a player jams the ball down through the hoop.",
+   "a": "What is a slam dunk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Griner_dunking_at_2015_All-Star_game_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Griner_dunking_at_2015_All-Star_game_(cropped).jpg",
+    "credit": "Danny Karwoski",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "basketball-m02",
+   "tier": 1,
+   "q": "Name this six-time NBA champion with the Chicago Bulls, pictured in 2014 as a team owner.",
+   "a": "Who is Michael Jordan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+    "credit": "DOD photo by D. Myles Cullen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m03",
+   "tier": 1,
+   "q": "Name this player, nicknamed 'King', who became the NBA's all-time leading scorer in 2023.",
+   "a": "Who is LeBron James?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m04",
+   "tier": 1,
+   "q": "Name this Golden State Warriors guard, the NBA's all-time leader in three-pointers made.",
+   "a": "Who is Stephen Curry?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Curry,_Olympic_Games_2024_(cropped).jpg",
+    "credit": "Clément Bardot",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "basketball-m05",
+   "tier": 2,
+   "q": "Name this 7-foot-1 center nicknamed 'The Diesel', a four-time NBA champion turned TV analyst.",
+   "a": "Who is Shaquille O'Neal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_2023_-_Day_1_(cropped).jpg",
+    "credit": "TechCrunch",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m06",
+   "tier": 2,
+   "q": "Name this Lakers star known as the 'Black Mamba', who scored 81 points in a 2006 game.",
+   "a": "Who is Kobe Bryant?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/1280px-Kobe_Bryant_Dec_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kobe_Bryant_Dec_2014.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "basketball-m07",
+   "tier": 2,
+   "q": "Name this 1980s 'Showtime' Lakers point guard, known by a one-word nickname for his passing.",
+   "a": "Who is Magic Johnson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/1280px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_SXSW_2022_(51958828669)_(cropped).jpg",
+    "credit": "Daniel Benavides from Austin, TX",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m08",
+   "tier": 2,
+   "q": "Name this Iowa sharpshooter who became college basketball's all-time leading scorer in 2024.",
+   "a": "Who is Caitlin Clark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Caitlin_Clark_12_United_States_20260913_%286%29_%28cropped%29.JPG/1280px-Caitlin_Clark_12_United_States_20260913_%286%29_%28cropped%29.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Caitlin_Clark_12_United_States_20260913_(6)_(cropped).JPG",
+    "credit": "User:Zafer",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "basketball-m09",
+   "tier": 3,
+   "q": "This PE teacher, pictured with a ball and a basket, invented the game in 1891. Name him.",
+   "a": "Who is James Naismith?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dr._James_Naismith.jpg/1280px-Dr._James_Naismith.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dr._James_Naismith.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m10",
+   "tier": 3,
+   "q": "Name this Boston Celtics forward from Indiana, Magic Johnson's great 1980s rival.",
+   "a": "Who is Larry Bird?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Larrybird.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Larrybird.jpg",
+    "credit": "Kurt Shimala",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "basketball-m11",
+   "tier": 3,
+   "q": "Name this Philadelphia Warriors center, pictured in 1960, who scored 100 points in one game.",
+   "a": "Who is Wilt Chamberlain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wilt_Chamberlain_1960_%28cropped%29_%28cropped%29.jpg/1280px-Wilt_Chamberlain_1960_%28cropped%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wilt_Chamberlain_1960_(cropped)_(cropped).jpg",
+    "credit": "Bill Allen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m12",
+   "tier": 3,
+   "q": "Name this six-time MVP, famous for his 'skyhook', who held the NBA scoring record for 39 years.",
+   "a": "Who is Kareem Abdul-Jabbar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kareem_Abdul-Jabbar_May_2014.jpg/1280px-Kareem_Abdul-Jabbar_May_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_May_2014.jpg",
+    "credit": "Yahoo from Sunnyvale, California, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m13",
+   "tier": 4,
+   "q": "Name this Celtics center, shown dribbling, who won 11 NBA championships in 13 seasons.",
+   "a": "Who is Bill Russell?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_russell_dribbling_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_russell_dribbling_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m14",
+   "tier": 4,
+   "q": "Name this German forward who spent 21 seasons with the Dallas Mavericks, famous for a one-legged fadeaway.",
+   "a": "Who is Dirk Nowitzki?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dirk_Nowitzki_2_%28cropped%29.jpg/1280px-Dirk_Nowitzki_2_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dirk_Nowitzki_2_(cropped).jpg",
+    "credit": "Keith Allison from Baltimore, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "basketball-m15",
+   "tier": 4,
+   "q": "Name this 7-foot-6 center from Shanghai, the top pick of the 2002 NBA draft by Houston.",
+   "a": "Who is Yao Ming?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yao_Ming_in_2014_%28cropped%29.jpg/1280px-Yao_Ming_in_2014_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yao_Ming_in_2014_(cropped).jpg",
+    "credit": "World Travel & Tourism Council",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m16",
+   "tier": 4,
+   "q": "Name this half-court version of the sport, played three-a-side, that joined the Olympics in 2021.",
+   "a": "What is 3x3 basketball?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2018-10-07_Basketball_3x3_ROU_vs_GER_%28Girls_Preliminary_Round%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93003.jpg/1280px-2018-10-07_Basketball_3x3_ROU_vs_GER_%28Girls_Preliminary_Round%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93003.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-10-07_Basketball_3x3_ROU_vs_GER_(Girls_Preliminary_Round)_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93003.jpg",
+    "credit": "Sandro Halank, Wikimedia Commons",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "basketball-m17",
+   "tier": 5,
+   "q": "Name this Lakers guard, pictured in 1972, whose silhouette is said to be the NBA logo.",
+   "a": "Who is Jerry West?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jerry_West_1972.jpeg/1280px-Jerry_West_1972.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jerry_West_1972.jpeg",
+    "credit": "Malcolm W. Emmons",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m18",
+   "tier": 5,
+   "q": "Name this 'Big O', who averaged a triple-double for an entire NBA season in 1961-62.",
+   "a": "Who is Oscar Robertson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oscar_Robertson_2024.jpg/1280px-Oscar_Robertson_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oscar_Robertson_2024.jpg",
+    "credit": "Governor Eric Holcomb",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "basketball-m19",
+   "tier": 5,
+   "q": "Name this demolished arena, nicknamed the 'Madhouse on Madison', the Bulls' home for their first three title runs.",
+   "a": "What is Chicago Stadium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicago_Stadium_1984.jpg/1280px-Chicago_Stadium_1984.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicago_Stadium_1984.jpg",
+    "credit": "David Wilson from Oak Park, Illinois, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "basketball-m20",
+   "tier": 5,
+   "q": "Name this Phoenix Mercury guard, the WNBA's all-time leading scorer, who retired in 2025.",
+   "a": "Who is Diana Taurasi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Diana_Taurasi_2024_%28cropped%29.jpg/1280px-Diana_Taurasi_2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Diana_Taurasi_2024_(cropped).jpg",
+    "credit": "John Mac",
+    "license": "CC BY-SA 2.0"
+   }
   }
  ]
 }

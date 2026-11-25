@@ -303,6 +303,279 @@
    "q": "In Thailand, people float small decorated baskets with candles on rivers during this November full-moon festival",
    "a": "What is Loy Krathong?",
    "tier": 5
+  },
+  {
+   "id": "holidays-m01",
+   "tier": 1,
+   "q": "A decorated evergreen like this one is the centerpiece of which December 25 holiday?",
+   "a": "What is Christmas?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A1_Christmas_Tree_photo.jpg/1280px-A1_Christmas_Tree_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A1_Christmas_Tree_photo.jpg",
+    "credit": "William Warby",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m02",
+   "tier": 1,
+   "q": "Name this carved, candle-lit pumpkin, a symbol of Halloween.",
+   "a": "What is a jack-o'-lantern?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Balle-%C3%A0-leunettes_10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Balle-%C3%A0-leunettes_10.jpg",
+    "credit": "Man vyi",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "holidays-m03",
+   "tier": 1,
+   "q": "Brightly dyed eggs like these, from Bulgaria, are a tradition of which spring holiday?",
+   "a": "What is Easter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bg-easter-eggs.jpg/1280px-Bg-easter-eggs.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bg-easter-eggs.jpg",
+    "credit": "Ikonact",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "holidays-m04",
+   "tier": 1,
+   "q": "Fireworks over the Washington Monument are a highlight of which U.S. holiday?",
+   "a": "What is the Fourth of July (Independence Day)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fourth_of_July_fireworks_behind_the_Washington_Monument%2C_1986.jpg/1280px-Fourth_of_July_fireworks_behind_the_Washington_Monument%2C_1986.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg",
+    "credit": "Camera Operator: SSGT. LONO KOLLARS",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "holidays-m05",
+   "tier": 2,
+   "q": "This ornate nine-branched lamp, made in Lviv around 1870, is lit over eight nights of which Jewish holiday?",
+   "a": "What is Hanukkah?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanukkah_Lamp_-_Lemberg_F_5119.jpg/1280px-Hanukkah_Lamp_-_Lemberg_F_5119.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hanukkah_Lamp_-_Lemberg_F_5119.jpg",
+    "credit": "The Jewish Museum New York",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "holidays-m06",
+   "tier": 2,
+   "q": "Small clay oil lamps called diyas, set in a rangoli, are lit for which Hindu 'festival of lights'?",
+   "a": "What is Diwali?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Diya_set_in_a_rangoli.jpg/1280px-Diya_set_in_a_rangoli.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Diya_set_in_a_rangoli.jpg",
+    "credit": "siddarth varanasi",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m07",
+   "tier": 2,
+   "q": "Lion dances like this one, with drums and cymbals, are a highlight of which holiday in January or February?",
+   "a": "What is Lunar New Year (Chinese New Year)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_lion_dance_competition_in_Dallas%2C_Texas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_lion_dance_competition_in_Dallas,_Texas.jpg",
+    "credit": "Bearictran",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "holidays-m08",
+   "tier": 2,
+   "q": "An altar called an ofrenda, with food, candles and photos of loved ones, is built for which Mexican holiday?",
+   "a": "What is the Day of the Dead (Día de Muertos)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Altardediademuertos.jpg/1280px-Altardediademuertos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Altardediademuertos.jpg",
+    "credit": "Eneas de Troya",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m09",
+   "tier": 3,
+   "q": "Seven candles in a kinara are lit during which late-December African American celebration, created in 1966?",
+   "a": "What is Kwanzaa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kwanzaa-Myers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kwanzaa-Myers.jpg",
+    "credit": "photo by Christopher Myers",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "holidays-m10",
+   "tier": 3,
+   "q": "Name this huge Munich beer and folk festival that, despite its name, mostly takes place in September.",
+   "a": "What is Oktoberfest?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg/1280px-O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:O%27zapft_is!_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is!_Munich_5_season,_the_Oktoberfest_has_begun_(9855483374).jpg",
+    "credit": "Heribert Pohl",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "holidays-m11",
+   "tier": 3,
+   "q": "This samba-school parade in Rio de Janeiro's Sambadrome is the climax of which festival just before Lent?",
+   "a": "What is Carnival?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Desfile_Portela_2014_%28906185%29.jpg/1280px-Desfile_Portela_2014_%28906185%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Desfile_Portela_2014_(906185).jpg",
+    "credit": "Fernando Frazão/Agência Brasil",
+    "license": "CC BY 3.0 br"
+   }
+  },
+  {
+   "id": "holidays-m12",
+   "tier": 3,
+   "q": "These lotus-seed pastries are eaten under the full moon at which Chinese harvest celebration?",
+   "a": "What is the Mid-Autumn Festival?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mooncake_3-4%2C_lotus_seed_paste.jpg/1280px-Mooncake_3-4%2C_lotus_seed_paste.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mooncake_3-4,_lotus_seed_paste.jpg",
+    "credit": "Fanny Schertzer",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "holidays-m13",
+   "tier": 4,
+   "q": "People float candle-lit baskets on rivers during which Thai festival, held on the full moon of November?",
+   "a": "What is Loy Krathong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Thai_people_setting_their_candle-lit_krathongs_in_the_Ping_river_at_night_during_Loy_Krathong_2015-10_%2822715933524%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thai_people_setting_their_candle-lit_krathongs_in_the_Ping_river_at_night_during_Loy_Krathong_2015-10_(22715933524).jpg",
+    "credit": "John Shedrick from Chiang Mai, Thailand",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m14",
+   "tier": 4,
+   "q": "Tiered displays of dolls like this one are set up for which Japanese festival on March 3, also called Girls' Day?",
+   "a": "What is Hinamatsuri?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ist_di_Cultura_giapponese_-_altare_della_festa_delle_bambole_P1100919.JPG/1280px-Ist_di_Cultura_giapponese_-_altare_della_festa_delle_bambole_P1100919.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Ist_di_Cultura_giapponese_-_altare_della_festa_delle_bambole_P1100919.JPG",
+    "credit": "Lalupa",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "holidays-m15",
+   "tier": 4,
+   "q": "Lanterns called fanous light up the streets of Cairo during which Islamic holy month of fasting?",
+   "a": "What is Ramadan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lanterns_from_below.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Lanterns_from_below.JPG",
+    "credit": "B. Simpson Cairocamels",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "holidays-m16",
+   "tier": 4,
+   "q": "Name this horned, devilish figure who accompanies St. Nicholas around December 6 in Alpine Europe.",
+   "a": "Who is Krampus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hl._Nikolaus_in_Begleitung_des_Krampus_und_Engeln.jpg/1280px-Hl._Nikolaus_in_Begleitung_des_Krampus_und_Engeln.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hl._Nikolaus_in_Begleitung_des_Krampus_und_Engeln.jpg",
+    "credit": "Naturpuur",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "holidays-m17",
+   "tier": 4,
+   "q": "These symbolic foods, including bitter herbs and a roasted shank bone, are arranged for which Jewish holiday's meal?",
+   "a": "What is Passover?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gastronomie_juive_en_%C3%89gypte_%28cropped%29.jpg/1280px-Gastronomie_juive_en_%C3%89gypte_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gastronomie_juive_en_%C3%89gypte_(cropped).jpg",
+    "credit": "RCB **",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m18",
+   "tier": 5,
+   "q": "Name this Shetland Islands fire festival of Viking-costumed 'guizers' and torchlit processions.",
+   "a": "What is Up Helly Aa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Guisers_at_Uyeasound_Up_Helly_Aa_-_geograph.org.uk_-_1706010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Guisers_at_Uyeasound_Up_Helly_Aa_-_geograph.org.uk_-_1706010.jpg",
+    "credit": "Mike Pennington",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "holidays-m19",
+   "tier": 5,
+   "q": "This ram's horn, a shofar, is blown in synagogue on which Jewish New Year holiday?",
+   "a": "What is Rosh Hashanah?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Shofar-16-Zachi-Evenor.jpg/1280px-Shofar-16-Zachi-Evenor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shofar-16-Zachi-Evenor.jpg",
+    "credit": "Zachi Evenor",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "holidays-m20",
+   "tier": 5,
+   "q": "This 1776 print shows fireworks at Windsor Castle on which November 5 British celebration?",
+   "a": "What is Guy Fawkes Night (Bonfire Night)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Windsor_castle_guyfawkesnight1776.jpg/1280px-Windsor_castle_guyfawkesnight1776.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Windsor_castle_guyfawkesnight1776.jpg",
+    "credit": "Paul Sandby",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "holidays-m21",
+   "tier": 5,
+   "q": "Which December 13 festival is celebrated in Swedish churches by white-robed singers wearing crowns of candles?",
+   "a": "What is St. Lucia's Day?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lucia-13.12.06.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucia-13.12.06.jpg",
+    "credit": "Claudia Gründer",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

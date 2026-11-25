@@ -303,6 +303,279 @@
    "q": "Yoda fights alongside clone troopers on this forested Wookiee homeworld in Revenge of the Sith",
    "a": "What is Kashyyyk?",
    "tier": 5
+  },
+  {
+   "id": "star-wars-m01",
+   "tier": 1,
+   "q": "This black helmet belongs to which Sith Lord, revealed to be Luke's father?",
+   "a": "Who is Darth Vader?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Q125-Darth_Vader_Helmet_-_August_2024_%280032%29.jpg/960px-Q125-Darth_Vader_Helmet_-_August_2024_%280032%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Q125-Darth_Vader_Helmet_-_August_2024_(0032).jpg",
+    "credit": "Wikimedia Foundation",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m02",
+   "tier": 1,
+   "q": "Name this Wookiee, Han Solo's loyal co-pilot",
+   "a": "Who is Chewbacca?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Comiccon_Brussels_2023_-_Cosplay_of_Chewbacca.jpg/960px-Comiccon_Brussels_2023_-_Cosplay_of_Chewbacca.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Comiccon_Brussels_2023_-_Cosplay_of_Chewbacca.jpg",
+    "credit": "Miguel Discart & Kiri Karma",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m03",
+   "tier": 1,
+   "q": "Name this beeping blue-and-white astromech droid (a fan-built replica)",
+   "a": "Who is R2-D2?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/R2-D2_-_Genuine_Movie_Star.jpg/960px-R2-D2_-_Genuine_Movie_Star.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:R2-D2_-_Genuine_Movie_Star.jpg",
+    "credit": "Star Wars/Kristen DelValle",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m04",
+   "tier": 1,
+   "q": "This plush rode a SpaceX capsule in 2020. Name the green character fans first nicknamed \"Baby Yoda\"",
+   "a": "Who is Grogu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grogu_watching_the_Earth_from_Crew_Dragon_%28ISS064-E-6954%29.jpg/960px-Grogu_watching_the_Earth_from_Crew_Dragon_%28ISS064-E-6954%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grogu_watching_the_Earth_from_Crew_Dragon_(ISS064-E-6954).jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "star-wars-m05",
+   "tier": 2,
+   "q": "This giant statue in Tokyo shows which ball-shaped droid from The Force Awakens?",
+   "a": "Who is BB-8?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/BB-8_Statue_at_Yurakucho_%2849995077452%29.jpg/960px-BB-8_Statue_at_Yurakucho_%2849995077452%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BB-8_Statue_at_Yurakucho_(49995077452).jpg",
+    "credit": "Dick Thomas Johnson from Tokyo, Japan",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m06",
+   "tier": 2,
+   "q": "This wax figure in London shows which small, green, 900-year-old Jedi Master?",
+   "a": "Who is Yoda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yoda_in_Madame_Tussauds.jpg/960px-Yoda_in_Madame_Tussauds.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yoda_in_Madame_Tussauds.jpg",
+    "credit": "Trny24",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m07",
+   "tier": 2,
+   "q": "Name this starship, \"the fastest hunk of junk in the galaxy,\" shown at Disneyland",
+   "a": "What is the Millennium Falcon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Millennium_Falcon_at_night%2C_Disneyland_Anaheim.jpg/960px-Millennium_Falcon_at_night%2C_Disneyland_Anaheim.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Millennium_Falcon_at_night,_Disneyland_Anaheim.jpg",
+    "credit": "Krigore",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m08",
+   "tier": 2,
+   "q": "This father and daughter are dressed as which armored bounty hunters, title characters of a 2019 series?",
+   "a": "Who are the Mandalorians?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mandalorian_Cosplay.jpg/960px-Mandalorian_Cosplay.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mandalorian_Cosplay.jpg",
+    "credit": "Logan Rickert",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m09",
+   "tier": 3,
+   "q": "Name this actor, shown in 2019, who played Luke Skywalker",
+   "a": "Who is Mark Hamill?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mark_Hamill_by_Gage_Skidmore_2.jpg/960px-Mark_Hamill_by_Gage_Skidmore_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Hamill_by_Gage_Skidmore_2.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "star-wars-m10",
+   "tier": 3,
+   "q": "Name this actor who played smuggler Han Solo",
+   "a": "Who is Harrison Ford?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harrison_Ford_by_Gage_Skidmore_3.jpg/960px-Harrison_Ford_by_Gage_Skidmore_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_by_Gage_Skidmore_3.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "star-wars-m11",
+   "tier": 3,
+   "q": "This cosplayer portrays which masked villain, the son of Han Solo and Leia?",
+   "a": "Who is Kylo Ren?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Japan_Expo_2024_-_Cosplay_of_Kylo_Ren.jpg/960px-Japan_Expo_2024_-_Cosplay_of_Kylo_Ren.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Japan_Expo_2024_-_Cosplay_of_Kylo_Ren.jpg",
+    "credit": "Miguel Discart / Kiri Karma",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m12",
+   "tier": 3,
+   "q": "Luke flew this type of Rebel starfighter to destroy the first Death Star. Name it",
+   "a": "What is the X-wing?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Iconic_Starfighters_-_Rebel_Alliance_X-wing.jpg/960px-Iconic_Starfighters_-_Rebel_Alliance_X-wing.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iconic_Starfighters_-_Rebel_Alliance_X-wing.jpg",
+    "credit": "Logan Rickert",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m13",
+   "tier": 3,
+   "q": "Name this filmmaker, shown in 2009, who created the whole saga in 1977",
+   "a": "Who is George Lucas?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/George_Lucas_cropped_2009.jpg/500px-George_Lucas_cropped_2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Lucas_cropped_2009.jpg",
+    "credit": "nicolas genin",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m14",
+   "tier": 4,
+   "q": "Name this bounty hunter who delivered Han Solo, frozen in carbonite, to Jabba",
+   "a": "Who is Boba Fett?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pyrkon_2022_-_Boba_Fett.jpg/960px-Pyrkon_2022_-_Boba_Fett.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pyrkon_2022_-_Boba_Fett.jpg",
+    "credit": "Tomasz Molina",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m15",
+   "tier": 4,
+   "q": "Luke grew up at this domed homestead, filmed in Tunisia. Name the desert planet it portrays",
+   "a": "What is Tatooine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Star_Wars_in_Tunisia_-_Lars_Homestead_in_Chott_el_Djerid.jpg/960px-Star_Wars_in_Tunisia_-_Lars_Homestead_in_Chott_el_Djerid.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Star_Wars_in_Tunisia_-_Lars_Homestead_in_Chott_el_Djerid.jpg",
+    "credit": "Stefan Krasowski",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m16",
+   "tier": 4,
+   "q": "This museum costume belongs to which desert people, also called Sand People?",
+   "a": "Who are the Tusken Raiders?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Wars_and_the_Power_of_Costume_July_2018_23_%28Tusken_Raider_male_costume_with_gaffi_from_Episode_IV%29.jpg/960px-Star_Wars_and_the_Power_of_Costume_July_2018_23_%28Tusken_Raider_male_costume_with_gaffi_from_Episode_IV%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Star_Wars_and_the_Power_of_Costume_July_2018_23_(Tusken_Raider_male_costume_with_gaffi_from_Episode_IV).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m17",
+   "tier": 4,
+   "q": "Anakin and Padmé wed at this Lake Como villa. Which planet did it portray?",
+   "a": "What is Naboo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_Villa_del_Balbianello.jpg/960px-The_Villa_del_Balbianello.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Villa_del_Balbianello.jpg",
+    "credit": "Sheeba Samuel",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "star-wars-m18",
+   "tier": 5,
+   "q": "Name this composer, shown conducting, who wrote the saga's famous main theme",
+   "a": "Who is John Williams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/John_Williams_scoring_Raiders.jpg/960px-John_Williams_scoring_Raiders.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Williams_scoring_Raiders.jpg",
+    "credit": "TashTish at en.wikipedia",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "star-wars-m19",
+   "tier": 5,
+   "q": "This 7-foot-3 actor, shown signing for fans, wore the Wookiee suit in the original trilogy. Name him",
+   "a": "Who is Peter Mayhew?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Course_of_the_Force_2012_-_Peter_Mayhew_aka_Chewbacca_signs_for_fans_%2814134977686%29.jpg/960px-Course_of_the_Force_2012_-_Peter_Mayhew_aka_Chewbacca_signs_for_fans_%2814134977686%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Course_of_the_Force_2012_-_Peter_Mayhew_aka_Chewbacca_signs_for_fans_(14134977686).jpg",
+    "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m20",
+   "tier": 5,
+   "q": "This puppeteer, also Miss Piggy's performer, gave voice to the little green Jedi Master. Name him",
+   "a": "Who is Frank Oz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/38th_Annual_Saturn_Awards_-_Frank_Oz_%2814178528703%29.jpg/960px-38th_Annual_Saturn_Awards_-_Frank_Oz_%2814178528703%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:38th_Annual_Saturn_Awards_-_Frank_Oz_(14178528703).jpg",
+    "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "star-wars-m21",
+   "tier": 5,
+   "q": "Rey finds Luke in exile on this rocky Irish island. Name it",
+   "a": "What is Skellig Michael?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Skellig_Michael.jpg/960px-Skellig_Michael.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Skellig_Michael.jpg",
+    "credit": "User:Gdr.",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

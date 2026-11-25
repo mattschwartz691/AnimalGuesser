@@ -37,6 +37,13 @@ switcher at the top right (Animals · Things · Buzzboard) moves between all thr
   categories is drawn. Each team bets up to its score (0 if it's at or below zero),
   everyone answers the same hard clue (30 s on the timer), and the host marks each
   team right or wrong to add or take away its bet.
+- **Picture, sound and video clues:** every category has about 20 (1,447 in all:
+  photos, paintings, maps, flags, bird calls, instrument recordings, national
+  anthems, historic speeches, NASA and nature videos). Every board puts exactly
+  one in each column, at a random point value. They all come from Wikimedia
+  Commons, which hosts only freely licensed media; the credit and license show
+  under the media once the answer is revealed (it can name the answer). Sound
+  and video clues get 10 extra seconds on the timer.
 - **No repeats:** clues already shown are remembered in the browser and skipped
   until a category runs out; one answer never appears twice on the same board.
 

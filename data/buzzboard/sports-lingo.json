@@ -303,6 +303,266 @@
    "q": "In cycling, this French-derived word is the name for the main pack of riders in a road race",
    "a": "What is the peloton?",
    "tier": 5
+  },
+  {
+   "id": "sports-lingo-m01",
+   "tier": 1,
+   "q": "What does this race official wave to show that the winner has crossed the finish line?",
+   "a": "What is the checkered flag?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RacingFlagsJune2007.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:RacingFlagsJune2007.jpg",
+    "credit": "Royalbroil",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "sports-lingo-m02",
+   "tier": 1,
+   "q": "In bowling, what is it called when all ten pins fall on the first ball of a frame, as shown?",
+   "a": "What is a strike?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/10-pin-bowling-strike.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:10-pin-bowling-strike.gif",
+    "credit": "Groink",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "sports-lingo-m03",
+   "tier": 1,
+   "q": "Name the scoring area at each end of a football field, where this player has just landed for six points.",
+   "a": "What is the end zone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/120107-LA-USC-UCLA05-TDMcKnight.jpg/1280px-120107-LA-USC-UCLA05-TDMcKnight.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:120107-LA-USC-UCLA05-TDMcKnight.jpg",
+    "credit": "Bobak Ha'Eri",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m04",
+   "tier": 1,
+   "q": "In soccer, name the restart awarded for a foul, which this player is about to take outside the penalty area.",
+   "a": "What is a free kick?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Freistoss-RB_Salzburg-18-09-2005.jpg/1280px-Freistoss-RB_Salzburg-18-09-2005.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Freistoss-RB_Salzburg-18-09-2005.jpg",
+    "credit": "photo taken by Markus Dallarosa",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m05",
+   "tier": 2,
+   "q": "Name the way hockey play begins, with two centers battling for a puck dropped between them.",
+   "a": "What is a faceoff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nashville_Predators_at_Washington_Capitals_-_April_5%2C_2018_-_Nicklas_B%C3%A4ckstr%C3%B6m_and_Ryan_Johansen_face-off_%2850121566747%29.jpg/1280px-Nashville_Predators_at_Washington_Capitals_-_April_5%2C_2018_-_Nicklas_B%C3%A4ckstr%C3%B6m_and_Ryan_Johansen_face-off_%2850121566747%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nashville_Predators_at_Washington_Capitals_-_April_5,_2018_-_Nicklas_B%C3%A4ckstr%C3%B6m_and_Ryan_Johansen_face-off_(50121566747).jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m06",
+   "tier": 2,
+   "q": "Name this kind of machine, best known by a famous brand name, that smooths a rink's ice between periods.",
+   "a": "What is a Zamboni (ice resurfacer)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Surfaceuse.jpg/1280px-Surfaceuse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Surfaceuse.jpg",
+    "credit": "Myrabella",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m07",
+   "tier": 2,
+   "q": "Name the result when, as in this 1959 title fight, a boxer goes down and can't rise before the count of ten.",
+   "a": "What is a knockout?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ingemar_Johansson_and_Floyd_Pattersson_1959.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Ingemar_Johansson_and_Floyd_Pattersson_1959.JPG",
+    "credit": "SCANPIX",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "sports-lingo-m08",
+   "tier": 2,
+   "q": "Name this sunken shelter along the side of a baseball field where players sit during the game.",
+   "a": "What is the dugout?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dugout_baseball.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dugout_baseball.jpg",
+    "credit": "Rdikeman at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m09",
+   "tier": 3,
+   "q": "In the Tour de France, what is the name of this shirt worn by the overall race leader?",
+   "a": "What is the yellow jersey?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gele_Trui_Cancellara_2015_-_voorkant.jpg/1280px-Gele_Trui_Cancellara_2015_-_voorkant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gele_Trui_Cancellara_2015_-_voorkant.jpg",
+    "credit": "Le Coq Sportif",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m10",
+   "tier": 3,
+   "q": "Name the area of a ballpark where this pitcher is warming up before entering the game.",
+   "a": "What is the bullpen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/20070616_Chris_Young_visits_Wrigley_%284%29-edit3.jpg/1280px-20070616_Chris_Young_visits_Wrigley_%284%29-edit3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20070616_Chris_Young_visits_Wrigley_(4)-edit3.jpg",
+    "credit": "Antonio Vernon, photographer",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m11",
+   "tier": 3,
+   "q": "Name the job of the man on the right, who carries this golfer's bag and gives advice on each shot.",
+   "a": "What is a caddie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Phil_%26_Jim_%22Bones%22_MacKay_2014.jpg/1280px-Phil_%26_Jim_%22Bones%22_MacKay_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phil_%26_Jim_%22Bones%22_MacKay_2014.jpg",
+    "credit": "Supergolfdude",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m12",
+   "tier": 3,
+   "q": "Name the five-point rugby score this player is making by diving to ground the ball over the line.",
+   "a": "What is a try?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ST_vs_RM92_-_2012-11-01_-_Yoann_Huget-2.jpg/1280px-ST_vs_RM92_-_2012-11-01_-_Yoann_Huget-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ST_vs_RM92_-_2012-11-01_-_Yoann_Huget-2.jpg",
+    "credit": "PierreSelim",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m13",
+   "tier": 4,
+   "q": "Name this rugby restart where the two packs bind together and push against each other for the ball.",
+   "a": "What is a scrum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ST_vs_Gloucester_-_Match_-_23.JPG/1280px-ST_vs_Gloucester_-_Match_-_23.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:ST_vs_Gloucester_-_Match_-_23.JPG",
+    "credit": "PierreSelim",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m14",
+   "tier": 4,
+   "q": "Name the term for the main pack of riders in a road cycling race, like this group.",
+   "a": "What is the peloton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Giro_d%27Italia_2018_-_Tel_Aviv_%282%29.jpg/1280px-Giro_d%27Italia_2018_-_Tel_Aviv_%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giro_d%27Italia_2018_-_Tel_Aviv_(2).jpg",
+    "credit": "Dotan Doron",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m15",
+   "tier": 4,
+   "q": "Name this cricket target, made of three stumps topped by two bails.",
+   "a": "What is a wicket?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Highgate_Cricket_Club_wicket_at_Crouch_End%2C_Haringey%2C_London%2C_England_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Highgate_Cricket_Club_wicket_at_Crouch_End,_Haringey,_London,_England_01.jpg",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m16",
+   "tier": 4,
+   "q": "Name this rugby restart where players are lifted to catch a ball thrown in from the sideline.",
+   "a": "What is a lineout?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ST_vs_LOU_-_21.jpg/1280px-ST_vs_LOU_-_21.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ST_vs_LOU_-_21.jpg",
+    "credit": "PierreSelim",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m17",
+   "tier": 5,
+   "q": "What is the term for this harness-racing result, where three horses crossed the line in an exact tie?",
+   "a": "What is a dead heat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Triple_dead-heat.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Triple_dead-heat.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "sports-lingo-m18",
+   "tier": 5,
+   "q": "In cricket, what is a score of zero called? Don Bradman made one, shown here, at Melbourne in 1932.",
+   "a": "What is a duck?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BradmanDuck32-33.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BradmanDuck32-33.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "sports-lingo-m19",
+   "tier": 5,
+   "q": "In ten-pin bowling, what is the term for standing pins left with a gap between them, as in this video?",
+   "a": "What is a split?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/20241018_4-5-7_spare_conversion_-_ten-pin_bowling.webm/20241018_4-5-7_spare_conversion_-_ten-pin_bowling.webm.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:20241018_4-5-7_spare_conversion_-_ten-pin_bowling.webm",
+    "credit": "RCraig09",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "sports-lingo-m20",
+   "tier": 5,
+   "q": "Name the technique these cyclists use, riding close behind one another to cut wind resistance.",
+   "a": "What is drafting?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tour_de_france_2005_15th_stage_mt_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tour_de_france_2005_15th_stage_mt_01.jpg",
+    "credit": "Commons user TomK32",
+    "license": "CC BY-SA 2.0 fr"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "This bongo-playing physicist dunked an O-ring in ice water to explain the Challenger disaster",
    "a": "Who is Richard Feynman?",
    "tier": 5
+  },
+  {
+   "id": "physics-m01",
+   "tier": 1,
+   "q": "Name this physicist, famous for relativity and the equation E = mc²",
+   "a": "Who is Albert Einstein?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+    "credit": "Oren Jack Turner",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m02",
+   "tier": 1,
+   "q": "Name this English scientist, painted in 1689, who described the laws of motion and universal gravitation",
+   "a": "Who is Isaac Newton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/960px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+    "credit": "Godfrey Kneller",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m03",
+   "tier": 1,
+   "q": "Name this desk toy of swinging steel balls that demonstrates conservation of momentum",
+   "a": "What is Newton's cradle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Newtons_cradle_animation_book_2.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:Newtons_cradle_animation_book_2.gif",
+    "credit": "DemonDeLuxe (Dominique Toussaint)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physics-m04",
+   "tier": 1,
+   "q": "Name the triangular glass object splitting light into separate colors here",
+   "a": "What is a prism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/960px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg",
+    "credit": "D-Kuru",
+    "license": "CC BY-SA 3.0 at"
+   }
+  },
+  {
+   "id": "physics-m05",
+   "tier": 2,
+   "q": "Name this scientist, the first person to win two Nobel Prizes, for her work on radioactivity",
+   "a": "Who is Marie Curie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+    "credit": "Henri Manuel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m06",
+   "tier": 2,
+   "q": "Name this glass sphere full of glowing filaments that reach toward your fingertip",
+   "a": "What is a plasma ball (plasma globe)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plasma_globe_60th.jpg/960px-Plasma_globe_60th.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plasma_globe_60th.jpg",
+    "credit": "Colin",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physics-m07",
+   "tier": 2,
+   "q": "Name the resonant transformer, invented in 1891, that makes artificial lightning bolts like these",
+   "a": "What is a Tesla coil?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lightning_simulator_questacon02.jpg/960px-Lightning_simulator_questacon02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lightning_simulator_questacon02.jpg",
+    "credit": "fir0002 (flagstaffotos)",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "physics-m08",
+   "tier": 2,
+   "q": "Watch: on the Moon in 1971, astronaut Dave Scott drops a hammer and what other object to show they fall equally fast?",
+   "a": "What is a feather?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Apollo_15_feather_and_hammer_drop.ogv/Apollo_15_feather_and_hammer_drop.ogv.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Apollo_15_feather_and_hammer_drop.ogv",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m09",
+   "tier": 3,
+   "q": "Name this device in the Panthéon in Paris: a heavy bob on a long wire whose slowly turning swing shows the planet rotates",
+   "a": "What is a Foucault pendulum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Panth%C3%A9on_Pendule_de_Foucault2.JPG/960px-Panth%C3%A9on_Pendule_de_Foucault2.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Panth%C3%A9on_Pendule_de_Foucault2.JPG",
+    "credit": "Rémih",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physics-m10",
+   "tier": 3,
+   "q": "Name this 'light mill': vanes in a partial vacuum that spin when light shines on them",
+   "a": "What is a Crookes radiometer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Crookes_radiometer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crookes_radiometer.jpg",
+    "credit": "Timeline (English Wikipedia user)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "physics-m11",
+   "tier": 3,
+   "q": "Name this Danish physicist who proposed a model of the atom with electrons in fixed orbits (1913)",
+   "a": "Who is Niels Bohr?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/960px-Niels_Bohr.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+    "credit": "Unknown (via American Institute of Physics)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m12",
+   "tier": 3,
+   "q": "Watch: in 1940, wind-driven oscillations tore apart this Washington State span, nicknamed 'Galloping Gertie'. Name it.",
+   "a": "What is the Tacoma Narrows Bridge?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/Tacoma_Narrows_Bridge_destruction.ogv/Tacoma_Narrows_Bridge_destruction.ogv.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+    "credit": "Barney Elliott",
+    "license": "Public Domain"
+   }
+  },
+  {
+   "id": "physics-m13",
+   "tier": 4,
+   "q": "This apparatus by C. T. R. Wilson made particle tracks visible as trails of condensed droplets. Name it.",
+   "a": "What is a cloud chamber?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg/960px-CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg",
+    "credit": "Rolf Kickuth",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "physics-m14",
+   "tier": 4,
+   "q": "This 1600s engraving shows horse teams failing to pull apart two evacuated metal half-spheres. Name these objects.",
+   "a": "What are the Magdeburg hemispheres?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Magdeburg.jpg/960px-Magdeburg.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magdeburg.jpg",
+    "credit": "Gaspar Schott",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m15",
+   "tier": 4,
+   "q": "The eerie blue glow in this reactor pool comes from charged particles outrunning light in water. Name this effect.",
+   "a": "What is Cherenkov radiation?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/960px-Advanced_Test_Reactor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Advanced_Test_Reactor.jpg",
+    "credit": "Argonne National Laboratory",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "physics-m16",
+   "tier": 4,
+   "q": "Name this Scottish physicist whose four equations unified electricity, magnetism and light",
+   "a": "Who is James Clerk Maxwell?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/James-Clerk-Maxwell-1831-1879.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James-Clerk-Maxwell-1831-1879.jpg",
+    "credit": "Unknown photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m17",
+   "tier": 5,
+   "q": "Name this Austrian physicist who co-discovered nuclear fission; element 109 is named after her",
+   "a": "Who is Lise Meitner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lise_Meitner_NatGeo.jpg/960px-Lise_Meitner_NatGeo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lise_Meitner_NatGeo.jpg",
+    "credit": "Harris & Ewing",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m18",
+   "tier": 5,
+   "q": "Name this electrostatic generator with two counter-rotating disks turned by a crank",
+   "a": "What is a Wimshurst machine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wimshurst.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wimshurst.jpg",
+    "credit": "Peedl",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "physics-m19",
+   "tier": 5,
+   "q": "Name this kind of 1870s glass discharge vessel, whose 'cathode rays' led to the discovery of the electron and X-rays",
+   "a": "What is a Crookes tube?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Gas_discharge_tube%2C_named_after_William_Crookes%2C_c._1890_-_R%C3%B6ntgen-Ged%C3%A4chtnisst%C3%A4tte_W%C3%BCrzburg_-_W%C3%BCrzburg%2C_Germany_-_DSC04264.jpg/960px-Gas_discharge_tube%2C_named_after_William_Crookes%2C_c._1890_-_R%C3%B6ntgen-Ged%C3%A4chtnisst%C3%A4tte_W%C3%BCrzburg_-_W%C3%BCrzburg%2C_Germany_-_DSC04264.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gas_discharge_tube,_named_after_William_Crookes,_c._1890_-_R%C3%B6ntgen-Ged%C3%A4chtnisst%C3%A4tte_W%C3%BCrzburg_-_W%C3%BCrzburg,_Germany_-_DSC04264.jpg",
+    "credit": "Daderot",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "physics-m20",
+   "tier": 5,
+   "q": "Name this German physicist, founder of quantum theory, whose constant is written h",
+   "a": "Who is Max Planck?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Max_Planck_%281858-1947%29.jpg/960px-Max_Planck_%281858-1947%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Max_Planck_(1858-1947).jpg",
+    "credit": "Unknown photographer",
+    "license": "Public domain"
+   }
   }
  ]
 }

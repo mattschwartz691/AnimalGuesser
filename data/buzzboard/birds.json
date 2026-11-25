@@ -602,6 +602,279 @@
    "q": "These coastal waders of the family Haematopodidae, found worldwide except polar regions, all belong to the single genus Haematopus",
    "a": "What are oystercatchers?",
    "tier": 5
+  },
+  {
+   "id": "birds-m01",
+   "tier": 1,
+   "q": "Name this bird of prey, the national bird of the United States",
+   "a": "What is the bald eagle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/960px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+    "credit": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m02",
+   "tier": 1,
+   "q": "Name this bird, whose male shows off a spectacular fan of tail feathers",
+   "a": "What is a peacock (Indian peafowl)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Peacock_on_tree_%2852077240794%29.jpg/960px-Peacock_on_tree_%2852077240794%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peacock_on_tree_(52077240794).jpg",
+    "credit": "Kandukuru Nagarjun from Bangalore, India",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m03",
+   "tier": 1,
+   "q": "Name this kind of pink wading bird, often seen standing on one leg",
+   "a": "What is a flamingo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/American_Flamingo_JG.jpg/960px-American_Flamingo_JG.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Flamingo_JG.jpg",
+    "credit": "JeffreyGammon",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "birds-m04",
+   "tier": 1,
+   "q": "Listen: name the farm bird making this wake-up call",
+   "a": "What is a rooster (chicken)?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Kukuriku.flac/Kukuriku.flac.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Kukuriku.flac",
+    "credit": "Yosef Ben Melamed",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m05",
+   "tier": 2,
+   "q": "Name this tropical bird with an enormous orange bill",
+   "a": "What is a toucan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent_%28cropped%29.jpg/960px-006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent_(cropped).jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m06",
+   "tier": 2,
+   "q": "Name this seabird with a colorful striped bill, nicknamed the 'sea parrot'",
+   "a": "What is the puffin (Atlantic puffin)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/960px-Puffin_%28Fratercula_arctica%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m07",
+   "tier": 2,
+   "q": "Name this red songbird, the state bird of seven US states",
+   "a": "What is the northern cardinal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg/960px-Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Male_northern_cardinal_in_Central_Park_(52612).jpg",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m08",
+   "tier": 2,
+   "q": "Listen: name this Australian bird, famous for its 'laughing' call",
+   "a": "What is the kookaburra?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/LaughingKookaburra.ogg/LaughingKookaburra.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:LaughingKookaburra.ogg",
+    "credit": "Kuco",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "birds-m09",
+   "tier": 3,
+   "q": "Name this fast-running cuckoo of the US Southwest deserts",
+   "a": "What is the roadrunner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Greater_Roadrunner_Tingley_Beach.jpg/960px-Greater_Roadrunner_Tingley_Beach.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greater_Roadrunner_Tingley_Beach.jpg",
+    "credit": "Polinova",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m10",
+   "tier": 3,
+   "q": "Name this huge-billed African wading bird of papyrus swamps",
+   "a": "What is the shoebill?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Balaeniceps_rex_-Ueno_Zoo%2C_Tokyo%2C_Japan-8a.jpg/960px-Balaeniceps_rex_-Ueno_Zoo%2C_Tokyo%2C_Japan-8a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan-8a.jpg",
+    "credit": "Bob Owen",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m11",
+   "tier": 3,
+   "q": "Name this flightless, nocturnal bird, a national symbol of New Zealand",
+   "a": "What is the kiwi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/TeTuatahianui.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg",
+    "credit": "Maungatautari Ecological Island Trust",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "birds-m12",
+   "tier": 3,
+   "q": "Listen: name this North American diving bird of northern lakes, making its eerie yodel",
+   "a": "What is the common loon?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Loon_yodel.ogg/Loon_yodel.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Loon_yodel.ogg",
+    "credit": "D. Gordon E. Robertson",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "birds-m13",
+   "tier": 4,
+   "q": "Name this long-legged African bird of prey that stomps snakes to death",
+   "a": "What is the secretarybird?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Secretary_bird_Mara_for_WC.jpg/960px-Secretary_bird_Mara_for_WC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "credit": "Sumeet Moghe",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m14",
+   "tier": 4,
+   "q": "Name this Central American bird with long green tail plumes, sacred to the Maya",
+   "a": "What is the resplendent quetzal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg/960px-Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "credit": "lwolfartist",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m15",
+   "tier": 4,
+   "q": "Name this crested bird of Europe, Asia and Africa, the national bird of Israel",
+   "a": "What is the hoopoe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/960px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_(6497645007).jpg",
+    "credit": "Greg Schechter from San Francisco, USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m16",
+   "tier": 4,
+   "q": "Listen: name the North American owl whose call sounds like 'Who cooks for you?'",
+   "a": "What is the barred owl?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Barred_Owl_%28Strix_varia%29_%28W1CDR0000351_BD27%29.ogg/Barred_Owl_%28Strix_varia%29_%28W1CDR0000351_BD27%29.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Barred_Owl_(Strix_varia)_(W1CDR0000351_BD27).ogg",
+    "credit": "This file has been provided by the British Library from its digital collections. Links...",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "birds-m17",
+   "tier": 5,
+   "q": "Name this South American bird whose chicks have claws on their wings",
+   "a": "What is the hoatzin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg/960px-Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hoatzin_(Opisthocomus_hoazin)_Rio_Napo.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m18",
+   "tier": 5,
+   "q": "Name this flightless, nocturnal parrot of New Zealand, the world's heaviest parrot",
+   "a": "What is the kakapo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sirocco_full_length_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sirocco_full_length_portrait.jpg",
+    "credit": "Department of Conservation",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "birds-m19",
+   "tier": 5,
+   "q": "Name this Old World bird of prey that feeds mainly on bone marrow, dropping bones to crack them",
+   "a": "What is the bearded vulture (lammergeier)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m20",
+   "tier": 5,
+   "q": "Listen: name this Australian bird, a master mimic that copies the calls of other birds",
+   "a": "What is the (superb) lyrebird?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/Superb_lyrebird_mimicking_Australian_native_birds.ogg/Superb_lyrebird_mimicking_Australian_native_birds.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Superb_lyrebird_mimicking_Australian_native_birds.ogg",
+    "credit": "Crētus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "birds-m21",
+   "tier": 5,
+   "q": "Listen: name this North American forest songbird with a flute-like 'ee-oh-lay' song",
+   "a": "What is the wood thrush?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Hylocichla_mustelina_-_Wood_Thrush_XC133908.ogg/Hylocichla_mustelina_-_Wood_Thrush_XC133908.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Hylocichla_mustelina_-_Wood_Thrush_XC133908.ogg",
+    "credit": "Jonathon Jongsma",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

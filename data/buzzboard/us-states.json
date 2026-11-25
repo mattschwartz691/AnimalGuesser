@@ -303,6 +303,266 @@
    "q": "This state broke away from its neighbor during the Civil War and joined the Union in 1863",
    "a": "What is West Virginia?",
    "tier": 5
+  },
+  {
+   "id": "us-states-m01",
+   "tier": 1,
+   "q": "Name the state shown in red",
+   "a": "What is Texas?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Texas_in_United_States.svg/1280px-Texas_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Texas_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m02",
+   "tier": 1,
+   "q": "Name the state shown in red",
+   "a": "What is Florida?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Florida_in_United_States.svg/1280px-Florida_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Florida_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m03",
+   "tier": 1,
+   "q": "Name the state shown in red",
+   "a": "What is California?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/1280px-California_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:California_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m04",
+   "tier": 1,
+   "q": "Name the state shown in red",
+   "a": "What is Alaska?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alaska_in_United_States.svg/1280px-Alaska_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Alaska_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m05",
+   "tier": 2,
+   "q": "Four presidents are carved into a mountain in which state?",
+   "a": "What is South Dakota?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1280px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+    "credit": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m06",
+   "tier": 2,
+   "q": "Name the state shown in red, often compared to a mitten",
+   "a": "What is Michigan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Michigan_in_United_States.svg/1280px-Michigan_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Michigan_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m07",
+   "tier": 2,
+   "q": "This 630-foot arch stands on the Mississippi River in which state?",
+   "a": "What is Missouri?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Louis_night_expblend_cropped.jpg/1280px-St_Louis_night_expblend_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend_cropped.jpg",
+    "credit": "St_Louis_night_expblend.jpg: Daniel Schwen derivative work: ←fetchcomms",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m08",
+   "tier": 2,
+   "q": "This 1962 World's Fair tower is a landmark of which state?",
+   "a": "What is Washington?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Space_Needle_2011-07-04.jpg/1280px-Space_Needle_2011-07-04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Space_Needle_2011-07-04.jpg",
+    "credit": "Jordon Kalilich",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-states-m09",
+   "tier": 3,
+   "q": "Name the state shown in red",
+   "a": "What is Louisiana?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Louisiana_in_United_States.svg/1280px-Louisiana_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Louisiana_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m10",
+   "tier": 3,
+   "q": "Name the state shown in red, known for its panhandle",
+   "a": "What is Oklahoma?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Oklahoma_in_United_States.svg/1280px-Oklahoma_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Oklahoma_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m11",
+   "tier": 3,
+   "q": "This famous sandstone arch, pictured on license plates, is in which state?",
+   "a": "What is Utah?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Delicate_arch_sunset.jpg/1280px-Delicate_arch_sunset.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Delicate_arch_sunset.jpg",
+    "credit": "Palacemusic",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m12",
+   "tier": 3,
+   "q": "The geyser Old Faithful erupts in which state?",
+   "a": "What is Wyoming?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg/1280px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "us-states-m13",
+   "tier": 4,
+   "q": "Name the state shown in red",
+   "a": "What is Idaho?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Idaho_in_United_States.svg/1280px-Idaho_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Idaho_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m14",
+   "tier": 4,
+   "q": "Name the state shown in red",
+   "a": "What is Tennessee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tennessee_in_United_States.svg/1280px-Tennessee_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Tennessee_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m15",
+   "tier": 4,
+   "q": "The deepest lake in the US, shown here, is in which state?",
+   "a": "What is Oregon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crater_Lake_National_Park_%282023%29.jpg/1280px-Crater_Lake_National_Park_%282023%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_(2023).jpg",
+    "credit": "John Manard",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "us-states-m16",
+   "tier": 4,
+   "q": "Name the state shown in red",
+   "a": "What is Kentucky?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kentucky_in_United_States.svg/1280px-Kentucky_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Kentucky_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m17",
+   "tier": 5,
+   "q": "Name the state shown in red",
+   "a": "What is West Virginia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/West_Virginia_in_United_States.svg/1280px-West_Virginia_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:West_Virginia_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m18",
+   "tier": 5,
+   "q": "Name the state shown in red",
+   "a": "What is Vermont?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vermont_in_United_States.svg/1280px-Vermont_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Vermont_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-states-m19",
+   "tier": 5,
+   "q": "This rock spire, a famous Oregon Trail landmark, is in which state?",
+   "a": "What is Nebraska?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Chimney_Rock_NE.jpg/1280px-Chimney_Rock_NE.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_NE.jpg",
+    "credit": "Mike Tigas from Columbia, MO, United States",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "us-states-m20",
+   "tier": 5,
+   "q": "Name the state shown in red",
+   "a": "What is Iowa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iowa_in_United_States.svg/1280px-Iowa_in_United_States.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Iowa_in_United_States.svg",
+    "credit": "TUBS",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

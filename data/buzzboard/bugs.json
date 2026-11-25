@@ -303,6 +303,279 @@
    "q": "This glossy wood finish, once used to make 78 rpm records, comes from a resin secreted by female lac bugs",
    "a": "What is shellac?",
    "tier": 5
+  },
+  {
+   "id": "bugs-m01",
+   "tier": 1,
+   "q": "Name this kind of red, spotted beetle, a gardener's friend that eats aphids",
+   "a": "What is a ladybug (ladybird)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/7-Spotted-Ladybug-Coccinella-septempunctata-sq1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:7-Spotted-Ladybug-Coccinella-septempunctata-sq1.jpg",
+    "credit": "Photographer: Dominik Stodulski Graphic Processing: User:MathKnight",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m02",
+   "tier": 1,
+   "q": "Name this orange-and-black insect famous for migrating to Mexico",
+   "a": "What is the monarch butterfly?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg/960px-Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg",
+    "credit": "Photo by and (c)2007 Derek Ramsey (Ram-Man)",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "bugs-m03",
+   "tier": 1,
+   "q": "Name this kind of insect with two pairs of see-through wings, which hunts over ponds",
+   "a": "What is a dragonfly?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_grasshawk_%28Neurothemis_fluctuans%29_male_Phuket_2.jpg/960px-Red_grasshawk_%28Neurothemis_fluctuans%29_male_Phuket_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_grasshawk_(Neurothemis_fluctuans)_male_Phuket_2.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m04",
+   "tier": 1,
+   "q": "Listen: name these insects buzzing at the entrance of their hive",
+   "a": "What are honey bees?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Buzzing_bees.ogg/Buzzing_bees.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Buzzing_bees.ogg",
+    "credit": "Serg Childed",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m05",
+   "tier": 2,
+   "q": "Name this kind of insect that holds its front legs folded as if in prayer",
+   "a": "What is a praying mantis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/European_praying_mantis_%28Mantis_religiosa%29_green_female_Dobruja.jpg/960px-European_praying_mantis_%28Mantis_religiosa%29_green_female_Dobruja.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:European_praying_mantis_(Mantis_religiosa)_green_female_Dobruja.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m06",
+   "tier": 2,
+   "q": "Name this kind of twig-like bug, a master of camouflage",
+   "a": "What is a stick insect (walking stick)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Le_Caylar_fg01.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Caylar_fg01.JPG",
+    "credit": "Fritz Geller-Grimm and Felix Grimm",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "bugs-m07",
+   "tier": 2,
+   "q": "Name this kind of bug that rolls balls of animal droppings",
+   "a": "What is a dung beetle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Scarabaeus_viettei_01.jpg/960px-Scarabaeus_viettei_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scarabaeus_viettei_01.jpg",
+    "credit": "Axel Strauß",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m08",
+   "tier": 2,
+   "q": "Listen: name this kind of insect that 'sings' on summer nights by rubbing its wings together",
+   "a": "What is a cricket?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Field_cricket_Gryllus_pennsylvanicus.ogg/Field_cricket_Gryllus_pennsylvanicus.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Field_cricket_Gryllus_pennsylvanicus.ogg",
+    "credit": "Thatcher",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m09",
+   "tier": 3,
+   "q": "Name this huge Asian winged insect, one of the largest in the world",
+   "a": "What is the Atlas moth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Attacus_atlas_qtl3.jpg/960px-Attacus_atlas_qtl3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Attacus_atlas_qtl3.jpg",
+    "credit": "Quartl",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m10",
+   "tier": 3,
+   "q": "Name this pale green North American insect with long tails on its hindwings",
+   "a": "What is the luna moth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Actias_luna-male.jpg/960px-Actias_luna-male.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Actias_luna-male.jpg",
+    "credit": "David notMD",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m11",
+   "tier": 3,
+   "q": "Name this kind of bug that mimics foliage perfectly, right down to the veins",
+   "a": "What is a leaf insect?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Phyllioidea_overview.jpg/960px-Phyllioidea_overview.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phyllioidea_overview.jpg",
+    "credit": "Drägü",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "bugs-m12",
+   "tier": 3,
+   "q": "Name this very large horned bug from Central and South America, named for a Greek hero",
+   "a": "What is the Hercules beetle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dynastes_hercules_ecuatorianus_MHNT.jpg/960px-Dynastes_hercules_ecuatorianus_MHNT.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules_ecuatorianus_MHNT.jpg",
+    "credit": "Didier Descouens",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m13",
+   "tier": 3,
+   "q": "Listen: name these insects whose deafening chorus comes after 13 or 17 years underground",
+   "a": "What are periodical cicadas?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/A_Magicicada_chorus_containing_M._septendecim%2C_M._cassini%2C_and_M._septendecula_-_pone.0000892.s004.oga/A_Magicicada_chorus_containing_M._septendecim%2C_M._cassini%2C_and_M._septendecula_-_pone.0000892.s004.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Magicicada_chorus_containing_M._septendecim,_M._cassini,_and_M._septendecula_-_pone.0000892.s004.oga",
+    "credit": "Fontaine K, Cooley J, Simon C",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "bugs-m14",
+   "tier": 4,
+   "q": "Name this pink-and-white Southeast Asian predator that mimics a flower",
+   "a": "What is the orchid mantis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mantis_Hymenopus_coronatus_6_Luc_Viatour.jpg/960px-Mantis_Hymenopus_coronatus_6_Luc_Viatour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mantis_Hymenopus_coronatus_6_Luc_Viatour.jpg",
+    "credit": "Luc Viatour",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m15",
+   "tier": 4,
+   "q": "Name this European insect with large 'eyespots' on all four wings",
+   "a": "What is the peacock butterfly?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Peacock_butterfly_%28Aglais_io%29_2.jpg/960px-Peacock_butterfly_%28Aglais_io%29_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peacock_butterfly_(Aglais_io)_2.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m16",
+   "tier": 4,
+   "q": "Name this moth that hovers at flowers and is often mistaken for a tiny bird",
+   "a": "What is the hummingbird hawk-moth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg/960px-Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hummingbird_hawk_moth_(Macroglossum_stellatarum)_in_flight.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bugs-m17",
+   "tier": 4,
+   "q": "Name this African bug, one of the heaviest insects in the world",
+   "a": "What is the Goliath beetle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Goliath_beetle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Goliath_beetle.jpg",
+    "credit": "Unknown",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m18",
+   "tier": 5,
+   "q": "Name this Madagascar beetle whose male has an extremely long neck",
+   "a": "What is the giraffe weevil?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Giraffe_Weevil%2C_Andasibe%2C_Madagascar.jpg/960px-Giraffe_Weevil%2C_Andasibe%2C_Madagascar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giraffe_Weevil,_Andasibe,_Madagascar.jpg",
+    "credit": "Frank Vassen",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "bugs-m19",
+   "tier": 5,
+   "q": "Name this pink-and-yellow North American insect, named for a tree",
+   "a": "What is the rosy maple moth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rosy_Maple_Moth.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosy_Maple_Moth.png",
+    "credit": "Unknown",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "bugs-m20",
+   "tier": 5,
+   "q": "Name this large orange-and-gray North American insect, whose huge spiny caterpillar is called the hickory horned devil",
+   "a": "What is the regal moth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Regal_Moth%2C_Hale%2C_Alabama%2C_United_States_imported_from_iNaturalist_photo_45705475.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Regal_Moth,_Hale,_Alabama,_United_States_imported_from_iNaturalist_photo_45705475.jpg",
+    "credit": "(c) John P Friel, some rights reserved (CC BY)",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "bugs-m21",
+   "tier": 5,
+   "q": "Name this Central and South American insect with a huge, hollow, peanut-shaped head",
+   "a": "What is the peanut-headed lanternfly?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Peanut_bug_Fulgora_cf_lanternaria_%2814829763913%29.jpg/960px-Peanut_bug_Fulgora_cf_lanternaria_%2814829763913%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peanut_bug_Fulgora_cf_lanternaria_(14829763913).jpg",
+    "credit": "Pavel Kirillov from St.Petersburg, Russia",
+    "license": "CC BY-SA 2.0"
+   }
   }
  ]
 }

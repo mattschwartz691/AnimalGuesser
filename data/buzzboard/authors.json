@@ -602,6 +602,266 @@
    "q": "This Spanish poet of the Generation of '27 wrote the plays Blood Wedding and The House of Bernarda Alba.",
    "a": "Who is Federico Garcia Lorca?",
    "tier": 5
+  },
+  {
+   "id": "authors-m01",
+   "tier": 1,
+   "q": "Who is this playwright from Stratford-upon-Avon, author of 'Romeo and Juliet'?",
+   "a": "Who is William Shakespeare?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg",
+    "credit": "Attributed to John Taylor",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m02",
+   "tier": 1,
+   "q": "Who is this author of 'The Adventures of Tom Sawyer', who wrote under a pen name?",
+   "a": "Who is Mark Twain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley_(cropped_2).jpg",
+    "credit": "A.F. Bradley, New York",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m03",
+   "tier": 1,
+   "q": "Who is this author, whose seven fantasy novels follow a boy wizard at Hogwarts?",
+   "a": "Who is J. K. Rowling?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/960px-J._K._Rowling_2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:J._K._Rowling_2010.jpg",
+    "credit": "Daniel Ogren",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "authors-m04",
+   "tier": 1,
+   "q": "Who is this author, who wrote 'The Cat in the Hat' and 'Green Eggs and Ham'?",
+   "a": "Who is Dr. Seuss?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg/960px-Theodor_Seuss_Geisel_%2801037v%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Theodor_Seuss_Geisel_(01037v).jpg",
+    "credit": "Al Ravenna",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m05",
+   "tier": 2,
+   "q": "Who is this Victorian novelist, author of 'Oliver Twist' and 'A Christmas Carol'?",
+   "a": "Who is Charles Dickens?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg",
+    "credit": "Jeremiah Gurney",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m06",
+   "tier": 2,
+   "q": "Who is this author of 'Pride and Prejudice', shown in a sketch by her sister Cassandra?",
+   "a": "Who is Jane Austen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/960px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg",
+    "credit": "Cassandra Austen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m07",
+   "tier": 2,
+   "q": "Who is this writer of 'The Raven' and 'The Tell-Tale Heart'?",
+   "a": "Who is Edgar Allan Poe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/960px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg",
+    "credit": "Unknown author; Restored by Yann Forget and Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m08",
+   "tier": 2,
+   "q": "Who is this author in the photo, who wrote 'The Old Man and the Sea'?",
+   "a": "Who is Ernest Hemingway?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/960px-ErnestHemingway.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ErnestHemingway.jpg",
+    "credit": "Lloyd Arnold",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m09",
+   "tier": 3,
+   "q": "Who is this reclusive poet from Amherst, Massachusetts, who wrote 'Because I could not stop for Death'?",
+   "a": "Who is Emily Dickinson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Black-white_photograph_of_Emily_Dickinson2.png/960px-Black-white_photograph_of_Emily_Dickinson2.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Black-white_photograph_of_Emily_Dickinson2.png",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m10",
+   "tier": 3,
+   "q": "Who is this Russian novelist, author of 'War and Peace' and 'Anna Karenina'?",
+   "a": "Who is Leo Tolstoy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/960px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg",
+    "credit": "Sergei Prokudin-Gorskii",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m11",
+   "tier": 3,
+   "q": "Who is this Jazz Age author, who wrote 'The Great Gatsby'?",
+   "a": "Who is F. Scott Fitzgerald?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/F._Scott_Fitzgerald_%281921_portrait_-_crop%29_Retouched.jpg/960px-F._Scott_Fitzgerald_%281921_portrait_-_crop%29_Retouched.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:F._Scott_Fitzgerald_(1921_portrait_-_crop)_Retouched.jpg",
+    "credit": "Photographer unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m12",
+   "tier": 3,
+   "q": "Who is this Alabama author, whose 1960 novel 'To Kill a Mockingbird' won the Pulitzer Prize?",
+   "a": "Who is Harper Lee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Photo_portrait_of_Harper_Lee_(To_Kill_a_Mockingbird_dust_jacket,_1960).jpg",
+    "credit": "Photo credited to Truman Capote.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m13",
+   "tier": 4,
+   "q": "Who is this Irish wit, author of 'The Picture of Dorian Gray' and 'The Importance of Being Earnest'?",
+   "a": "Who is Oscar Wilde?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/960px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph,_seated_(cropped).jpg",
+    "credit": "Napoleon Sarony / Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m14",
+   "tier": 4,
+   "q": "Who is this Prague-born writer, whose character Gregor Samsa wakes up as an insect?",
+   "a": "Who is Franz Kafka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/960px-Franz_Kafka%2C_1923.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Franz_Kafka,_1923.jpg",
+    "credit": "Unknown photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m15",
+   "tier": 4,
+   "q": "Who is this Russian author of 'Crime and Punishment'?",
+   "a": "Who is Fyodor Dostoevsky?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/960px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+    "credit": "Vasily Perov",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m16",
+   "tier": 4,
+   "q": "Who is this author of 'Moby-Dick', shown in an 1870 portrait?",
+   "a": "Who is Herman Melville?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg/960px-Herman_Melville_by_Joseph_O_Eaton.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg",
+    "credit": "Joseph Oriel Eaton",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m17",
+   "tier": 5,
+   "q": "Who is this Spanish writer, who lost the use of his left hand at Lepanto and wrote about a deluded knight?",
+   "a": "Who is Miguel de Cervantes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/960px-Cervantes_J%C3%A1uregui.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg",
+    "credit": "Attributed to Juan de Jáuregui",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m18",
+   "tier": 5,
+   "q": "Who is this Harlem Renaissance author of 'Their Eyes Were Watching God'?",
+   "a": "Who is Zora Neale Hurston?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Hurston-Zora-Neale-LOC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hurston-Zora-Neale-LOC.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "authors-m19",
+   "tier": 5,
+   "q": "Who is this Bengali poet, the first non-European to win the Nobel Prize in Literature, in 1913?",
+   "a": "Who is Rabindranath Tagore?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1926_Rabindrath_Tagore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1926_Rabindrath_Tagore.jpg",
+    "credit": "Georges Chevalier",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "authors-m20",
+   "tier": 5,
+   "q": "Listen: this 1890 wax-cylinder recording is believed to be which poet reading his poem 'America'?",
+   "a": "Who is Walt Whitman?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Walt_Whitman_-_America.ogg/Walt_Whitman_-_America.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Walt_Whitman_-_America.ogg",
+    "credit": "Walt Whitman (1819–1892)",
+    "license": "Public domain"
+   }
   }
  ]
 }

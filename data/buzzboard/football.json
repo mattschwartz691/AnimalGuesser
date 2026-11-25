@@ -303,6 +303,266 @@
    "q": "Nicknamed 'The Bus,' this Pittsburgh running back won a Super Bowl in his hometown of Detroit in the final game of his career",
    "a": "Who is Jerome Bettis?",
    "tier": 5
+  },
+  {
+   "id": "football-m01",
+   "tier": 1,
+   "q": "Name this quarterback who won seven Super Bowls, six with New England and one with Tampa Bay.",
+   "a": "Who is Tom Brady?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_(cropped)_(cropped).jpg",
+    "credit": "Barcex",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "football-m02",
+   "tier": 1,
+   "q": "Name this Kansas City Chiefs quarterback, famous for no-look and sidearm passes.",
+   "a": "Who is Patrick Mahomes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Patrick_Mahomes_%2851615475056%29.jpg/1280px-Patrick_Mahomes_%2851615475056%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Mahomes_(51615475056).jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "football-m03",
+   "tier": 1,
+   "q": "Name the six-point score this player is making by carrying the ball over the goal line.",
+   "a": "What is a touchdown?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Touchdown_--_Texas_High_School_vs_Highland_Park_High_School_first-round_playoffs.jpg/1280px-Touchdown_--_Texas_High_School_vs_Highland_Park_High_School_first-round_playoffs.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Touchdown_--_Texas_High_School_vs_Highland_Park_High_School_first-round_playoffs.jpg",
+    "credit": "WClarke",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "football-m04",
+   "tier": 1,
+   "q": "The winner of which yearly championship game is awarded one of these silver trophies?",
+   "a": "What is the Super Bowl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Commanders%27_three_Vince_Lombardi_Trophy%2C_2023.jpg/1280px-Commanders%27_three_Vince_Lombardi_Trophy%2C_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Commanders%27_three_Vince_Lombardi_Trophy,_2023.jpg",
+    "credit": "Maryland GovPics",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m05",
+   "tier": 2,
+   "q": "Which NFL team, owned by its fans, plays at this Wisconsin stadium, the oldest in continuous NFL use?",
+   "a": "Who are the Green Bay Packers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lambeau_Field_-_Green_Bay_Packers_Football_Stadium_-_Wisconsin.jpg/1280px-Lambeau_Field_-_Green_Bay_Packers_Football_Stadium_-_Wisconsin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lambeau_Field_-_Green_Bay_Packers_Football_Stadium_-_Wisconsin.jpg",
+    "credit": "Tony Webster",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "football-m06",
+   "tier": 2,
+   "q": "Which NFL team, nicknamed 'America's Team', plays in this domed stadium in Arlington, Texas?",
+   "a": "Who are the Dallas Cowboys?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arlington_June_2020_4_(AT%26T_Stadium).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "football-m07",
+   "tier": 2,
+   "q": "Name this five-time MVP quarterback of the Colts and Broncos, known for yelling 'Omaha!' at the line.",
+   "a": "Who is Peyton Manning?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Peyton_Manning_%2851665689271%29.jpg/1280px-Peyton_Manning_%2851665689271%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peyton_Manning_(51665689271).jpg",
+    "credit": "All-Pro Reels",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "football-m08",
+   "tier": 2,
+   "q": "Name the play shown here, where one team kicks the ball to the other to start each half.",
+   "a": "What is a kickoff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Penn_State_kickoff.jpg/1280px-Penn_State_kickoff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Penn_State_kickoff.jpg",
+    "credit": "Ben Stanfield (user name acaben) of flickr",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "football-m09",
+   "tier": 3,
+   "q": "Name this San Francisco 49ers wide receiver, the NFL's all-time leader in catches and receiving yards.",
+   "a": "Who is Jerry Rice?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Super_Bowl_44_Miami_Florida_NFL_Network_South_Beach_Set_Deon_Sanders_interviews_Jerry_Rice_%284331549867%29_%28cropped%29_-_Jerry_Rice.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Super_Bowl_44_Miami_Florida_NFL_Network_South_Beach_Set_Deon_Sanders_interviews_Jerry_Rice_(4331549867)_(cropped)_-_Jerry_Rice.jpg",
+    "credit": "Anthony Quintano from Honolulu, HI, United States",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "football-m10",
+   "tier": 3,
+   "q": "Name this Chicago Bears running back nicknamed 'Sweetness', shown in 1984 breaking the career rushing record.",
+   "a": "Who is Walter Payton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1986_Jeno%27s_Pizza_-_12_-_Walter_Payton_%28Walter_Payton_crop%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1986_Jeno%27s_Pizza_-_12_-_Walter_Payton_(Walter_Payton_crop)_(cropped).jpg",
+    "credit": "Jeno's",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m11",
+   "tier": 3,
+   "q": "By its nickname, name this Ann Arbor college football venue, the largest in the United States.",
+   "a": "What is the Big House?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Michigan_Stadium_Aerial.jpg/1280px-Michigan_Stadium_Aerial.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michigan_Stadium_Aerial.jpg",
+    "credit": "Lectrician2",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "football-m12",
+   "tier": 3,
+   "q": "Name the mistake this Houston running back is making: losing the ball while being tackled.",
+   "a": "What is a fumble?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arian_Foster_fumble.jpg/1280px-Arian_Foster_fumble.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arian_Foster_fumble.jpg",
+    "credit": "AJ Guel",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "football-m13",
+   "tier": 4,
+   "q": "Name this Green Bay coach of the 1960s whose name is on the Super Bowl trophy.",
+   "a": "Who is Vince Lombardi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Vince_Lombardi_%281913-1970%29_in_1964_Crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vince_Lombardi_(1913-1970)_in_1964_Crop.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m14",
+   "tier": 4,
+   "q": "Name this elusive Detroit Lions running back, pictured in 2023, who shocked fans by retiring in 1999 at age 30.",
+   "a": "Who is Barry Sanders?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Barry_Sanders2023_%28cropped%292.jpg/1280px-Barry_Sanders2023_%28cropped%292.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barry_Sanders2023_(cropped)2.jpg",
+    "credit": "City of Detroit",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m15",
+   "tier": 4,
+   "q": "Name this Dallas quarterback, 'Captain America', who coined the term 'Hail Mary' pass in 1975.",
+   "a": "Who is Roger Staubach?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Staubach_cowboys_qb.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Staubach_cowboys_qb.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m16",
+   "tier": 4,
+   "q": "Name the action that begins this play: the center passing the ball back between his legs.",
+   "a": "What is the snap?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Austrian_Bowl_2013-103.JPG/1280px-Austrian_Bowl_2013-103.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Austrian_Bowl_2013-103.JPG",
+    "credit": "AleXXw",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "football-m17",
+   "tier": 5,
+   "q": "Name this 'Galloping Ghost' of Illinois, pictured in 1926, whose signing helped make the NFL popular.",
+   "a": "Who is Red Grange?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Red_Grange%2C_1926.jpg/1280px-Red_Grange%2C_1926.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Grange,_1926.jpg",
+    "credit": "William Earl Snyder, Los Angeles Times",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "football-m18",
+   "tier": 5,
+   "q": "Name this Notre Dame coach of the 1920s, born in Norway, who helped popularize the forward pass.",
+   "a": "Who is Knute Rockne?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Knute_Rockne_on_ship%27s_deck.jpg/1280px-Knute_Rockne_on_ship%27s_deck.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Knute_Rockne_on_ship%27s_deck.jpg",
+    "credit": "Bain Collection",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m19",
+   "tier": 5,
+   "q": "This early coach, pictured, lends his nickname to America's best-known youth football league. Name him.",
+   "a": "Who is Pop Warner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glenn_Warner_LCCN2014711684_%28cropped%29.jpg/1280px-Glenn_Warner_LCCN2014711684_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glenn_Warner_LCCN2014711684_(cropped).jpg",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "football-m20",
+   "tier": 5,
+   "q": "In which California city is this stadium, home of the 'Granddaddy of Them All' New Year's college game?",
+   "a": "What is Pasadena?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg/1280px-2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2018.06.17_Over_the_Rose_Bowl,_Pasadena,_CA_USA_0039_(42855669451)_(cropped).jpg",
+    "credit": "Ted Eytan",
+    "license": "CC BY-SA 2.0"
+   }
   }
  ]
 }

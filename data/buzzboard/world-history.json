@@ -602,6 +602,266 @@
    "q": "This granodiorite stele bears a 196 BC decree in three scripts: hieroglyphic, Demotic and Ancient Greek",
    "a": "What is the Rosetta Stone?",
    "tier": 5
+  },
+  {
+   "id": "world-history-m01",
+   "tier": 1,
+   "q": "Name this ancient fortification, built over centuries along the northern border of an Asian empire",
+   "a": "What is the Great Wall of China?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/960px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "credit": "Severin.stalder",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-history-m02",
+   "tier": 1,
+   "q": "Name these ancient Egyptian tombs, the only Wonder of the Ancient World still standing",
+   "a": "What are the Pyramids of Giza?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/960px-Pyramids_of_the_Giza_Necropolis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "credit": "KennyOMG",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-history-m03",
+   "tier": 1,
+   "q": "This amphitheater in Rome hosted gladiator fights. What is it called?",
+   "a": "What is the Colosseum?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/960px-Colosseo_2020.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "credit": "FeaturedPics",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-history-m04",
+   "tier": 1,
+   "q": "Who is this French emperor, painted in his study by Jacques-Louis David in 1812?",
+   "a": "Who is Napoleon Bonaparte?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg/960px-The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Emperor_Napoleon_in_His_Study_at_the_Tuileries,_by_Jacques-Louis_David_(1812)_-_National_Gallery_of_Art_(Samuel_H._Kress_Foundation)_-_2.jpg",
+    "credit": "Jacques-Louis David",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m05",
+   "tier": 2,
+   "q": "Crowds gathered on this barrier in November 1989 as it was opened. What was it?",
+   "a": "What is the Berlin Wall?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BerlinWall-BrandenburgGate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BerlinWall-BrandenburgGate.jpg",
+    "credit": "Sue Ream, photographer (San Francisco, California)",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "world-history-m06",
+   "tier": 2,
+   "q": "Who is this leader of India's nonviolent independence movement, known as 'Great Soul'?",
+   "a": "Who is Mahatma Gandhi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/960px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+    "credit": "Elliott & Fry",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m07",
+   "tier": 2,
+   "q": "Who is this British prime minister of World War II, photographed by Yousuf Karsh in 1941?",
+   "a": "Who is Winston Churchill?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/960px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m08",
+   "tier": 2,
+   "q": "This slab carved in three scripts was the key to decoding Egyptian hieroglyphs. What is it?",
+   "a": "What is the Rosetta Stone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/960px-Rosetta_Stone.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-history-m09",
+   "tier": 3,
+   "q": "King John agreed to this charter limiting royal power at Runnymede in 1215. What is it?",
+   "a": "What is the Magna Carta?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+    "credit": "Barons and King John of England (1215)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m10",
+   "tier": 3,
+   "q": "This painting shows the July 14, 1789 attack on a Paris fortress-prison. Which uprising did it begin?",
+   "a": "What is the French Revolution?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/960px-Anonymous_-_Prise_de_la_Bastille.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Prise_de_la_Bastille.jpg",
+    "credit": "Unidentified painter",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m11",
+   "tier": 3,
+   "q": "This embroidered cloth tells the story of the Norman conquest of England in 1066. What is it?",
+   "a": "What is the Bayeux Tapestry?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Odo_bayeux_tapestry.png/960px-Odo_bayeux_tapestry.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Odo_bayeux_tapestry.png",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m12",
+   "tier": 3,
+   "q": "Who is this French heroine, painted in armor by Ingres, who was burned at the stake in 1431?",
+   "a": "Who is Joan of Arc?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ingres_coronation_charles_vii.jpg/960px-Ingres_coronation_charles_vii.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg",
+    "credit": "Jean-Auguste-Dominique Ingres",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m13",
+   "tier": 4,
+   "q": "Who is this English queen, shown in a portrait celebrating the defeat of the Spanish Armada?",
+   "a": "Who is Elizabeth I?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elizabeth_I_%28Armada_Portrait%29.jpg/960px-Elizabeth_I_%28Armada_Portrait%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_I_(Armada_Portrait).jpg",
+    "credit": "Formerly attributed to George Gower",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m14",
+   "tier": 4,
+   "q": "Who is this founder of the Mongol Empire, shown in a 14th-century portrait?",
+   "a": "Who is Genghis Khan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/960px-YuanEmperorAlbumGenghisPortrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m15",
+   "tier": 4,
+   "q": "Who is this 'Iron Chancellor' who led the unification of Germany in 1871?",
+   "a": "Who is Otto von Bismarck?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Otto_von_Bismarck_1885_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m16",
+   "tier": 4,
+   "q": "Who is this tsar, who founded a new capital on the Baltic Sea in 1703?",
+   "a": "Who is Peter the Great?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/960px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Inconnu_d%27apr%C3%A8s_J.-M._Nattier,_Portrait_de_Pierre_Ier_(mus%C3%A9e_de_l%E2%80%99Ermitage).jpg",
+    "credit": "Attributed to Jean-Marc Nattier",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m17",
+   "tier": 5,
+   "q": "This stele carved with one of the oldest written law codes was made for which Babylonian king?",
+   "a": "Who is Hammurabi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+    "credit": "Mbzt",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "world-history-m18",
+   "tier": 5,
+   "q": "This lion sculpture, now India's national emblem, was erected by which Mauryan emperor?",
+   "a": "Who is Ashoka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sarnath_capital.jpg/960px-Sarnath_capital.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarnath_capital.jpg",
+    "credit": "Chrisi1964",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-history-m19",
+   "tier": 5,
+   "q": "This 1375 Catalan Atlas detail shows which fabulously rich 14th-century king of Mali?",
+   "a": "Who is Mansa Musa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg/960px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+    "credit": "attributed to Abraham Cresques",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "world-history-m20",
+   "tier": 5,
+   "q": "Who is this leader of the Haitian Revolution, who rose from slavery to general?",
+   "a": "Who is Toussaint Louverture?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Toussaint_Louverture_-_Girardin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Toussaint_Louverture_-_Girardin.jpg",
+    "credit": "Alexandre-François-Louis, comte de Girardin",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "Before going solo, this singer led the Supremes on hits like 'Baby Love'",
    "a": "Who is Diana Ross?",
    "tier": 5
+  },
+  {
+   "id": "pop-music-m01",
+   "tier": 1,
+   "q": "Name this singer, shown in 2023, whose Eras Tour became the highest-grossing concert tour ever",
+   "a": "Who is Taylor Swift?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_4.png/960px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_4.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_4.png",
+    "credit": "iHeartRadioCA",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m02",
+   "tier": 1,
+   "q": "Name this red-haired British singer-songwriter of \"Shape of You\" and \"Perfect\"",
+   "a": "Who is Ed Sheeran?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/960px-Ed_Sheeran-6886_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ed_Sheeran-6886_(cropped).jpg",
+    "credit": "Harald Krichel",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m03",
+   "tier": 1,
+   "q": "Name this singer, shown in 2019, who recorded \"Bad Guy\" with her brother Finneas",
+   "a": "Who is Billie Eilish?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2808%29_%28cropped%29.jpg/960px-Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2808%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_(08)_(cropped).jpg",
+    "credit": "crommelincklars",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m04",
+   "tier": 1,
+   "q": "Name this high-ponytailed singer of \"Thank U, Next\" who played Glinda in the 2024 film Wicked",
+   "a": "Who is Ariana Grande?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/500px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ariana_Grande_promoting_Wicked_(2024).jpg",
+    "credit": "Barbie Simons",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m05",
+   "tier": 2,
+   "q": "Name this former One Direction member, shown performing in 2023, who sang \"As It Was\"",
+   "a": "Who is Harry Styles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HarryStylesWembley170623_%2814_of_93%29_%2852982076132%29_%28cropped%29.jpg/960px-HarryStylesWembley170623_%2814_of_93%29_%2852982076132%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HarryStylesWembley170623_(14_of_93)_(52982076132)_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m06",
+   "tier": 2,
+   "q": "Name this singer of \"Drivers License\" and \"Vampire,\" shown performing in 2025",
+   "a": "Who is Olivia Rodrigo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Olivia_Rodrigo_-_Lollapalooza_Argentina_Concert_2025_02.jpg/960px-Olivia_Rodrigo_-_Lollapalooza_Argentina_Concert_2025_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Olivia_Rodrigo_-_Lollapalooza_Argentina_Concert_2025_02.jpg",
+    "credit": "Live Shows & Concerts! Shows y Conciertos en vivo!",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m07",
+   "tier": 2,
+   "q": "Name this seven-member K-pop boy band, shown performing \"Butter\" in 2021",
+   "a": "Who are BTS?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BTS_at_American_Music_Awards_November_21%2C_2021.jpg/960px-BTS_at_American_Music_Awards_November_21%2C_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BTS_at_American_Music_Awards_November_21,_2021.jpg",
+    "credit": "Carolin von Petzholdt",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m08",
+   "tier": 2,
+   "q": "Name this British singer, shown in 2016, whose albums are titled with her age, like 21 and 25",
+   "a": "Who is Adele?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_%2830114379680%29_%28cropped%29.jpg/960px-Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_%2830114379680%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_(30114379680)_(cropped).jpg",
+    "credit": "Kristopher Harris from Charlotte, NC",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m09",
+   "tier": 3,
+   "q": "Name this singer, shown on his 24K Magic tour, who sang \"Uptown Funk\" with Mark Ronson",
+   "a": "Who is Bruno Mars?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/960px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BrunoMars24KMagicWorldTourLive_(cropped).jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "pop-music-m10",
+   "tier": 3,
+   "q": "Name this Barbadian singer of \"Umbrella\" who founded the Fenty Beauty brand",
+   "a": "Who is Rihanna?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/500px-Rihanna_Fenty_2018.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Rihanna_Fenty_2018.png",
+    "credit": "SIGMA",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m11",
+   "tier": 3,
+   "q": "Name this British-Albanian singer of \"Levitating\" and \"New Rules,\" shown in 2022",
+   "a": "Who is Dua Lipa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg/960px-DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DuaLipaO2020522_(101_of_110)_(52052470251)_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m12",
+   "tier": 3,
+   "q": "Name this \"King of Pop,\" shown on stage in Vienna in 1988",
+   "a": "Who is Michael Jackson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/330px-Michael_Jackson_in_1988.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_in_1988.jpg",
+    "credit": "Zoran Veselinovic",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m13",
+   "tier": 4,
+   "q": "Name this \"Queen of Pop,\" shown on tour in 2015, who sang \"Like a Virgin\" and \"Vogue\"",
+   "a": "Who is Madonna?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg/960px-Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Madonna_Rebel_Heart_Tour_2015_-_Stockholm_(23051472299)_(cropped).jpg",
+    "credit": "chrisweger",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m14",
+   "tier": 4,
+   "q": "Name this British piano man of \"Rocket Man,\" shown at Glastonbury in 2023",
+   "a": "Who is Elton John?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elton_John_2023.jpg/960px-Elton_John_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elton_John_2023.jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m15",
+   "tier": 4,
+   "q": "Name this lead singer of Queen, shown performing in 1977",
+   "a": "Who is Freddie Mercury?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/960px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_performing_in_New_Haven,_CT,_November_1977.jpg",
+    "credit": "Carl Lender",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "pop-music-m16",
+   "tier": 4,
+   "q": "Name this singer, shown in 2011, whose debut hit was \"...Baby One More Time\"",
+   "a": "Who is Britney Spears?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Britney_Spears-FFT-Toronto_%28cropped%29.jpg/960px-Britney_Spears-FFT-Toronto_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Britney_Spears-FFT-Toronto_(cropped).jpg",
+    "credit": "Jen from USA.",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m17",
+   "tier": 4,
+   "q": "Name this singer of \"Good Luck, Babe!\" and \"Pink Pony Club,\" shown in 2022",
+   "a": "Who is Chappell Roan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Chappell_Roan_08_%28cropped%29.jpg/960px-Chappell_Roan_08_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chappell_Roan_08_(cropped).jpg",
+    "credit": "Jason Martin",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "pop-music-m18",
+   "tier": 5,
+   "q": "Name this Swedish quartet, shown on Dutch TV in 1974, the year they won Eurovision with \"Waterloo\"",
+   "a": "Who is ABBA?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ABBA_-_TopPop_1974_5.png/330px-ABBA_-_TopPop_1974_5.png",
+    "page": "https://commons.wikimedia.org/wiki/File:ABBA_-_TopPop_1974_5.png",
+    "credit": "AVRO",
+    "license": "CC BY-SA 3.0 nl"
+   }
+  },
+  {
+   "id": "pop-music-m19",
+   "tier": 5,
+   "q": "Name this singer, shown in 1991, whose \"I Will Always Love You\" topped charts in 1992",
+   "a": "Who is Whitney Houston?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/500px-Whitney_Houston_%28cropped3%29.JPEG",
+    "page": "https://commons.wikimedia.org/wiki/File:Whitney_Houston_(cropped3).JPEG",
+    "credit": "PH2 Mark Kettenhofen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "pop-music-m20",
+   "tier": 5,
+   "q": "Name this singer of \"Girls Just Want to Have Fun\" who also wrote the score for Kinky Boots",
+   "a": "Who is Cyndi Lauper?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CyndiLauper2022.jpg/960px-CyndiLauper2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CyndiLauper2022.jpg",
+    "credit": "Philip Romano",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "This branch of chemistry calculates the amounts of reactants and products in a reaction from a balanced equation",
    "a": "What is stoichiometry?",
    "tier": 5
+  },
+  {
+   "id": "chemistry-m01",
+   "tier": 1,
+   "q": "Name the precious metal, prized since ancient times, shown here as pure lab-grown crystals",
+   "a": "What is gold?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/960px-Gold-crystals.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold-crystals.jpg",
+    "credit": "Alchemist-hp",
+    "license": "CC BY-SA 3.0 de"
+   }
+  },
+  {
+   "id": "chemistry-m02",
+   "tier": 1,
+   "q": "Name the only metal that is liquid at room temperature, being poured here",
+   "a": "What is mercury?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Pouring_liquid_mercury_bionerd.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pouring_liquid_mercury_bionerd.jpg",
+    "credit": "Bionerd",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m03",
+   "tier": 1,
+   "q": "Name this adjustable gas-fired heater, a fixture of school chemistry labs",
+   "a": "What is a Bunsen burner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mechero_Bunsen.jpg/960px-Mechero_Bunsen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mechero_Bunsen.jpg",
+    "credit": "Amfeli",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m04",
+   "tier": 1,
+   "q": "Name these cylindrical glass lab containers with pouring spouts",
+   "a": "What are beakers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Beakers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beakers.jpg",
+    "credit": "Skorpion87",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "chemistry-m05",
+   "tier": 2,
+   "q": "Name the reddish metal, used in electrical wires, shown here as a native nugget",
+   "a": "What is copper?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/960px-NatCopper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NatCopper.jpg",
+    "credit": "Jonathan Zander",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m06",
+   "tier": 2,
+   "q": "Name the yellow nonmetal, once called brimstone, that forms these crystals",
+   "a": "What is sulfur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg/960px-Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potos%C3%AD,_Bolivia.jpg",
+    "credit": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m07",
+   "tier": 2,
+   "q": "Name the noble gas glowing red-orange in this discharge tube; it gave its name to glowing signs",
+   "a": "What is neon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neon_discharge_tube.jpg/960px-Neon_discharge_tube.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Neon_discharge_tube.jpg",
+    "credit": "Alchemist-hp",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "chemistry-m08",
+   "tier": 2,
+   "q": "Name this cone-shaped glass lab vessel with a flat bottom and narrow neck, named after a German chemist",
+   "a": "What is an Erlenmeyer flask?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/250_mL_Erlenmeyer_flask.jpg/960px-250_mL_Erlenmeyer_flask.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:250_mL_Erlenmeyer_flask.jpg",
+    "credit": "Pilarbini",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m09",
+   "tier": 3,
+   "q": "Name the heavy metal, element 83, whose lab-grown crystals form iridescent stair-step shapes like this",
+   "a": "What is bismuth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bi-crystal.jpg/960px-Bi-crystal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bi-crystal.jpg",
+    "credit": "Alchemist-hp and Richard Bartz",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m10",
+   "tier": 3,
+   "q": "Name the element whose dark, shiny crystals give off a violet vapor; it is added to table salt",
+   "a": "What is iodine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sample_of_iodine.jpg/960px-Sample_of_iodine.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sample_of_iodine.jpg",
+    "credit": "LHcheM",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m11",
+   "tier": 3,
+   "q": "Name this mineral from a Polish salt mine, better known as rock salt",
+   "a": "What is halite?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg/960px-Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Halit_(NaCl)_-_Kopalnia_soli_Wieliczka,_Polska.jpg",
+    "credit": "Lech Darski",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m12",
+   "tier": 3,
+   "q": "Name the brassy iron sulfide mineral, nicknamed 'fool's gold', that forms these cubes",
+   "a": "What is pyrite?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg/960px-Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pyrite_-_Huanzala_mine,_Huallanca,_Bolognesi,_Ancash,_Peru.jpg",
+    "credit": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m13",
+   "tier": 4,
+   "q": "Name this soft, golden alkali metal, element 55, used in atomic clocks",
+   "a": "What is cesium (caesium)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/960px-Cesium.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cesium.jpg",
+    "credit": "Dnn87",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m14",
+   "tier": 4,
+   "q": "Name the yellow-green gas in this bottle, a halogen used to disinfect swimming pools",
+   "a": "What is chlorine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chlorine_in_bottle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chlorine_in_bottle.jpg",
+    "credit": "W. Oelen",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m15",
+   "tier": 4,
+   "q": "Name this lab glassware with a stopcock, used to separate two immiscible liquid layers like the ones shown",
+   "a": "What is a separatory funnel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Scheidetrichter_zwei_Phasen_brauner_Hintergrund.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Scheidetrichter_zwei_Phasen_brauner_Hintergrund.png",
+    "credit": "HaJo88",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m16",
+   "tier": 4,
+   "q": "Name this sealed glass vessel with blue silica gel below the platform, used to keep samples dry",
+   "a": "What is a desiccator?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Desiccator.jpg/960px-Desiccator.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Desiccator.jpg",
+    "credit": "Rifleman 82",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m17",
+   "tier": 5,
+   "q": "Name this three-bulb glass device, invented in the 1840s to produce gases such as hydrogen sulfide on demand",
+   "a": "What is Kipp's apparatus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kipp_Apparat.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kipp_Apparat.jpg",
+    "credit": "DOCTrial",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m18",
+   "tier": 5,
+   "q": "Name the metal in this cracked bar; it melts at about 30 °C, so it can melt in your hand",
+   "a": "What is gallium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gallium_bar_cracked_open_to_show_crystal_structure_with_scale_1.png/960px-Gallium_bar_cracked_open_to_show_crystal_structure_with_scale_1.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Gallium_bar_cracked_open_to_show_crystal_structure_with_scale_1.png",
+    "credit": "Arònel123",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "chemistry-m19",
+   "tier": 5,
+   "q": "Name this light, strong metal, shown as a crystal bar made by the iodide (van Arkel) process",
+   "a": "What is titanium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Titan-crystal_bar.JPG/960px-Titan-crystal_bar.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG",
+    "credit": "Alchemist-hp",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "chemistry-m20",
+   "tier": 5,
+   "q": "Name the lightest metal of all, shown purified and sealed under argon in this glass ampoule",
+   "a": "What is lithium?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Purified_lithium_in_an_ampoule_under_argon%2C_dark_background.png/960px-Purified_lithium_in_an_ampoule_under_argon%2C_dark_background.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Purified_lithium_in_an_ampoule_under_argon,_dark_background.png",
+    "credit": "AdvancedTinkering",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

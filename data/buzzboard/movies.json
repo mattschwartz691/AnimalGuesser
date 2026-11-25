@@ -602,6 +602,253 @@
    "q": "This 1976 American neo-noir psychological drama film was directed by Martin Scorsese and written by Paul Schrader.",
    "a": "What is Taxi Driver?",
    "tier": 5
+  },
+  {
+   "id": "movies-m01",
+   "tier": 1,
+   "q": "Kevin McCallister booby-trapped this Illinois house to stop two burglars in which 1990 film?",
+   "a": "What is Home Alone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Home_Alone_House.jpg/960px-Home_Alone_House.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Home_Alone_House.jpg",
+    "credit": "anarchosyn",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "movies-m02",
+   "tier": 1,
+   "q": "This 1959 Cadillac, the Ecto-1, carried which team of 1984 paranormal exterminators?",
+   "a": "Who are the Ghostbusters?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/1959_Cadillac_Ecto-1_%2812227773836%29.jpg/960px-1959_Cadillac_Ecto-1_%2812227773836%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1959_Cadillac_Ecto-1_(12227773836).jpg",
+    "credit": "mark6mauno",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "movies-m03",
+   "tier": 1,
+   "q": "This gull-winged DeLorean time machine hits 88 mph in which 1985 film?",
+   "a": "What is Back to the Future?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Moscow_car_show_2025-08-03_Delorean_DMC_replica_of_B2F_prop_01.jpg/960px-Moscow_car_show_2025-08-03_Delorean_DMC_replica_of_B2F_prop_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow_car_show_2025-08-03_Delorean_DMC_replica_of_B2F_prop_01.jpg",
+    "credit": "Retired electrician",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "movies-m04",
+   "tier": 1,
+   "q": "Judy Garland clicked the heels of these sparkly shoes in which 1939 film?",
+   "a": "What is The Wizard of Oz?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorothy%27s_Ruby_Slippers%2C_Wizard_of_Oz_1938.jpg/960px-Dorothy%27s_Ruby_Slippers%2C_Wizard_of_Oz_1938.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dorothy%27s_Ruby_Slippers,_Wizard_of_Oz_1938.jpg",
+    "credit": "dbking",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "movies-m05",
+   "tier": 2,
+   "q": "Name this actor who played Forrest Gump and voiced Woody in Toy Story",
+   "a": "Who is Tom Hanks?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tom_Hanks_2016.jpg/960px-Tom_Hanks_2016.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Hanks_2016.jpg",
+    "credit": "Dick Thomas Johnson",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "movies-m06",
+   "tier": 2,
+   "q": "Name this actor who played Jack Dawson in 1997's Titanic",
+   "a": "Who is Leonardo DiCaprio?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/500px-Leonardo_Dicaprio_Cannes_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leonardo_Dicaprio_Cannes_2019.jpg",
+    "credit": "Georges Biard",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "movies-m07",
+   "tier": 2,
+   "q": "This 1964 British sports car is famously driven by which fictional secret agent, starting in Goldfinger?",
+   "a": "Who is James Bond?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1964_Aston_Martin_DB5_4.0_Front.jpg/960px-1964_Aston_Martin_DB5_4.0_Front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1964_Aston_Martin_DB5_4.0_Front.jpg",
+    "credit": "Vauxford",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "movies-m08",
+   "tier": 2,
+   "q": "Name this actor who wrote and starred as Philadelphia boxer Rocky Balboa",
+   "a": "Who is Sylvester Stallone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sylvester_Stallone_Rocky_VI_2005.jpg/500px-Sylvester_Stallone_Rocky_VI_2005.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_Rocky_VI_2005.jpg",
+    "credit": "Lance Cpl. Ray Lewis",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "movies-m09",
+   "tier": 3,
+   "q": "Name this director of Jaws, E.T. and Jurassic Park, shown in 2017",
+   "a": "Who is Steven Spielberg?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Steven_Spielberg_%2835355093524%29.jpg/960px-Steven_Spielberg_%2835355093524%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steven_Spielberg_(35355093524).jpg",
+    "credit": "Gage Skidmore from Peoria, AZ, United States of America",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "movies-m10",
+   "tier": 3,
+   "q": "Name this New Zealand movie-set village, home of Bilbo and Frodo Baggins",
+   "a": "What is Hobbiton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hobbiton%2C_New_Zealand.jpg/960px-Hobbiton%2C_New_Zealand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hobbiton,_New_Zealand.jpg",
+    "credit": "Tom Hall",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "movies-m11",
+   "tier": 3,
+   "q": "Maria and the von Trapp children sing \"Do-Re-Mi\" in these Salzburg gardens in which 1965 film?",
+   "a": "What is The Sound of Music?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mirabell%2C_Salzburg_%281%29.jpg/960px-Mirabell%2C_Salzburg_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mirabell,_Salzburg_(1).jpg",
+    "credit": "Przemek Pietrak",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "movies-m12",
+   "tier": 3,
+   "q": "Ralphie, who wanted a Red Ryder BB gun, lived in this Cleveland house in which 1983 holiday film?",
+   "a": "What is A Christmas Story?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Christmas_Story_House.jpg/330px-Christmas_Story_House.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christmas_Story_House.jpg",
+    "credit": "Berniethomas68 (Uploads)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "movies-m13",
+   "tier": 4,
+   "q": "\"If you build it, he will come.\" This Iowa ballpark was built for which 1989 Kevin Costner film?",
+   "a": "What is Field of Dreams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FieldofDreamsMay06.jpg/500px-FieldofDreamsMay06.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FieldofDreamsMay06.jpg",
+    "credit": "JoeyBLS at English Wikipedia",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "movies-m14",
+   "tier": 4,
+   "q": "This carved temple in Petra, Jordan, hides the Holy Grail in which 1989 adventure film?",
+   "a": "What is Indiana Jones and the Last Crusade?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Al_Khazneh.jpg/960px-Al_Khazneh.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Khazneh.jpg",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "movies-m15",
+   "tier": 4,
+   "q": "This Astoria, Oregon house was Mikey's home in which 1985 pirate-treasure adventure?",
+   "a": "What is The Goonies?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Goonies_-_Mikey%27s_House_%28281531607%29.jpg/960px-Goonies_-_Mikey%27s_House_%28281531607%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Goonies_-_Mikey%27s_House_(281531607).jpg",
+    "credit": "Julie Markee from Seattle",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "movies-m16",
+   "tier": 4,
+   "q": "Audrey Hepburn and Gregory Peck test this Rome \"Mouth of Truth\" in which 1953 film?",
+   "a": "What is Roman Holiday?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bocca_della_Verit%C3%A0_01.jpg/960px-Bocca_della_Verit%C3%A0_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bocca_della_Verit%C3%A0_01.jpg",
+    "credit": "Nicholas Gemini",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "movies-m17",
+   "tier": 5,
+   "q": "This Oregon lodge's exterior played the Overlook Hotel in which 1980 Stanley Kubrick film?",
+   "a": "What is The Shining?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Timberline_Lodge_in_Spring.jpg/960px-Timberline_Lodge_in_Spring.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Timberline_Lodge_in_Spring.jpg",
+    "credit": "Jnstricker",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "movies-m18",
+   "tier": 5,
+   "q": "This Mansfield, Ohio prison was the main set of which 1994 drama starring Tim Robbins and Morgan Freeman?",
+   "a": "What is The Shawshank Redemption?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ohio_State_Reformatory-4.jpg/960px-Ohio_State_Reformatory-4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ohio_State_Reformatory-4.jpg",
+    "credit": "Marianodemiguel",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "movies-m19",
+   "tier": 5,
+   "q": "Aliens land at this Wyoming rock formation in which 1977 Spielberg film?",
+   "a": "What is Close Encounters of the Third Kind?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flaganddevilstower.jpg/960px-Flaganddevilstower.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flaganddevilstower.jpg",
+    "credit": "Ealdgyth",
+    "license": "CC BY 3.0"
+   }
   }
  ]
 }

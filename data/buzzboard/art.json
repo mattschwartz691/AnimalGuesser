@@ -303,6 +303,266 @@
    "q": "This Post-Impressionist from Aix-en-Provence painted the mountain Mont Sainte-Victoire again and again",
    "a": "Who is Paul Cézanne?",
    "tier": 5
+  },
+  {
+   "id": "art-m01",
+   "tier": 1,
+   "q": "Name this portrait painted by Leonardo da Vinci in the early 1500s, now in the Louvre",
+   "a": "What is the Mona Lisa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+    "credit": "Leonardo da Vinci",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m02",
+   "tier": 1,
+   "q": "Name this painting by Vincent van Gogh, made in 1889 at an asylum in Saint-Rémy",
+   "a": "What is The Starry Night?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "credit": "Vincent van Gogh",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m03",
+   "tier": 1,
+   "q": "Name this 1893 painting by Edvard Munch of an anguished figure under a red sky",
+   "a": "What is The Scream?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg",
+    "credit": "Edvard Munch",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m04",
+   "tier": 1,
+   "q": "Name this Japanese woodblock print by Hokusai of a towering sea swell with Mount Fuji behind it",
+   "a": "What is The Great Wave off Kanagawa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/960px-Tsunami_by_hokusai_19th_century.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+    "credit": "Katsushika Hokusai",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m05",
+   "tier": 2,
+   "q": "Name this Johannes Vermeer painting of a young woman in a blue and yellow turban",
+   "a": "What is Girl with a Pearl Earring?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/960px-1665_Girl_with_a_Pearl_Earring.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+    "credit": "Johannes Vermeer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m06",
+   "tier": 2,
+   "q": "Name this 1930 Grant Wood painting of a farmer holding a pitchfork beside a woman",
+   "a": "What is American Gothic?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Grant_Wood_-_American_Gothic_%281930%29.jpg/960px-Grant_Wood_-_American_Gothic_%281930%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg",
+    "credit": "Grant Wood",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m07",
+   "tier": 2,
+   "q": "Name this Leonardo da Vinci mural of Jesus and his twelve apostles at a meal",
+   "a": "What is The Last Supper?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/960px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+    "credit": "Leonardo da Vinci",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m08",
+   "tier": 2,
+   "q": "Who painted this pond in his garden at Giverny, one of about 250 such works?",
+   "a": "Who is Claude Monet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg/960px-Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
+    "credit": "Claude Monet",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m09",
+   "tier": 3,
+   "q": "Name this 1642 Rembrandt group portrait of an Amsterdam militia company",
+   "a": "What is The Night Watch?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/960px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+    "credit": "Rembrandt",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m10",
+   "tier": 3,
+   "q": "Name this 1656 Diego Velázquez painting of the Spanish princess and her maids of honor",
+   "a": "What is Las Meninas?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/960px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+    "credit": "Diego Velázquez",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m11",
+   "tier": 3,
+   "q": "Who painted this Paris park scene, 'A Sunday Afternoon on the Island of La Grande Jatte', with tiny dots?",
+   "a": "Who is Georges Seurat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/960px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
+    "credit": "Georges Seurat",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m12",
+   "tier": 3,
+   "q": "Name this golden 1908 painting of an embracing couple by Gustav Klimt",
+   "a": "What is The Kiss?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/960px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "credit": "Gustav Klimt",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m13",
+   "tier": 4,
+   "q": "Name this 1434 Jan van Eyck painting of a merchant and his wife with a little dog",
+   "a": "What is the Arnolfini Portrait?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/960px-The_Arnolfini_portrait_%281434%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+    "credit": "Jan van Eyck",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m14",
+   "tier": 4,
+   "q": "Name this Caspar David Friedrich painting of a man standing on rocks high over a misty landscape",
+   "a": "What is Wanderer above the Sea of Fog?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/960px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "credit": "Caspar David Friedrich",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m15",
+   "tier": 4,
+   "q": "Who painted this 1821 English landscape, 'The Hay Wain', with a cart crossing a stream?",
+   "a": "Who is John Constable?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/960px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+    "credit": "John Constable",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m16",
+   "tier": 4,
+   "q": "Who painted this 1871 portrait of his mother, 'Arrangement in Grey and Black No. 1'?",
+   "a": "Who is James McNeill Whistler?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/960px-Whistlers_Mother_high_res.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Whistlers_Mother_high_res.jpg",
+    "credit": "James McNeill Whistler",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m17",
+   "tier": 5,
+   "q": "Who painted this 1533 double portrait 'The Ambassadors', with a distorted skull at the bottom?",
+   "a": "Who is Hans Holbein the Younger?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/960px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "credit": "Hans Holbein the Younger",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m18",
+   "tier": 5,
+   "q": "Who painted this 1565 winter scene 'The Hunters in the Snow'?",
+   "a": "Who is Pieter Bruegel the Elder?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+    "credit": "Pieter Bruegel the Elder",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m19",
+   "tier": 5,
+   "q": "Name this J. M. W. Turner painting of an old warship being towed to be broken up",
+   "a": "What is The Fighting Temeraire?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/960px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg",
+    "credit": "J. M. W. Turner",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "art-m20",
+   "tier": 5,
+   "q": "This 1872 Monet harbor painting gave its title to which art movement?",
+   "a": "What is Impressionism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/960px-Monet_-_Impression%2C_Sunrise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+    "credit": "Claude Monet",
+    "license": "Public domain"
+   }
   }
  ]
 }

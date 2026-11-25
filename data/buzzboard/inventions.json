@@ -303,6 +303,266 @@
    "q": "This 1850s British method made steel cheaply by blowing air through molten pig iron",
    "a": "What is the Bessemer process?",
    "tier": 5
+  },
+  {
+   "id": "inventions-m01",
+   "tier": 1,
+   "q": "Alexander Graham Bell's 1876 patent led to devices like this 1896 model. What is it?",
+   "a": "What is the telephone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/1896_telephone.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1896_telephone.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m02",
+   "tier": 1,
+   "q": "This glowing glass device with a carbon filament was made practical by Thomas Edison in 1879. What is it?",
+   "a": "What is the light bulb?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edison_Carbon_Bulb.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edison_Carbon_Bulb.jpg",
+    "credit": "Terren",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "inventions-m03",
+   "tier": 1,
+   "q": "This flying machine made the first powered flights at Kitty Hawk in 1903. Who built it?",
+   "a": "Who are the Wright brothers?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/960px-First_flight2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+    "credit": "John T. Daniels",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m04",
+   "tier": 1,
+   "q": "Johannes Gutenberg's invention of this machine around 1440 spread books across Europe. What is it?",
+   "a": "What is the printing press?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutenberg_press.png/960px-Gutenberg_press.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Gutenberg_press.png",
+    "credit": "International Printing Museum",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "inventions-m05",
+   "tier": 2,
+   "q": "Listen: Thomas Edison recites a nursery rhyme, as he first did in 1877 on which sound-recording invention?",
+   "a": "What is the phonograph?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/Thomas_Edison_Mary_had_lamb.ogg/Thomas_Edison_Mary_had_lamb.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Thomas_Edison_Mary_had_lamb.ogg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m06",
+   "tier": 2,
+   "q": "Eli Whitney's 1793 machine separated seeds from this crop's fibers. Name the invention",
+   "a": "What is the cotton gin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cotton_gin_EWM_2007.jpg/960px-Cotton_gin_EWM_2007.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cotton_gin_EWM_2007.jpg",
+    "credit": "Tom Murphy VII",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m07",
+   "tier": 2,
+   "q": "Henry Ford built over 15 million of this affordable car on an assembly line. Which car is it?",
+   "a": "What is the Model T?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/960px-1925_Ford_Model_T_touring.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1925_Ford_Model_T_touring.jpg",
+    "credit": "ModelTMitch",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m08",
+   "tier": 2,
+   "q": "This early computer, finished in 1945 at the University of Pennsylvania, filled a whole room. What is it?",
+   "a": "What is ENIAC?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Classic_shot_of_the_ENIAC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Classic_shot_of_the_ENIAC.jpg",
+    "credit": "Unidentified U.S. Army photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m09",
+   "tier": 3,
+   "q": "Samuel Morse's invention sent coded messages along wires. What is it?",
+   "a": "What is the telegraph?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morse_Telegraph_1837.jpg/960px-Morse_Telegraph_1837.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Morse_Telegraph_1837.jpg",
+    "credit": "(c) 2006 Zubro",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "inventions-m10",
+   "tier": 3,
+   "q": "James Watt greatly improved this kind of machine, which powered the Industrial Revolution. What is it?",
+   "a": "What is the steam engine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maquina_vapor_Watt_ETSIIM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg",
+    "credit": "Nicolás Pérez",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "inventions-m11",
+   "tier": 3,
+   "q": "This 1829 locomotive by George and Robert Stephenson won the Rainhill Trials. What was it named?",
+   "a": "What is the Rocket?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/York_-_National_Railway_Museum_-The_Rocket.jpg/960px-York_-_National_Railway_Museum_-The_Rocket.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:York_-_National_Railway_Museum_-The_Rocket.jpg",
+    "credit": "Benjamin Smith",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "inventions-m12",
+   "tier": 3,
+   "q": "This 1844 portrait of a French inventor was made with his own 1839 photographic process. What is the process called?",
+   "a": "What is the daguerreotype?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Louis_Daguerre_2.jpg/960px-Louis_Daguerre_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Louis_Daguerre_2.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "inventions-m13",
+   "tier": 4,
+   "q": "Charles Babbage designed this mechanical calculator, built from his plans by the Science Museum in 1991",
+   "a": "What is the Difference Engine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Babbage_Difference_Engine.jpg/960px-Babbage_Difference_Engine.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Babbage_Difference_Engine.jpg",
+    "credit": "User:geni",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "inventions-m14",
+   "tier": 4,
+   "q": "Alessandro Volta's 1800 stack of metal discs and brine-soaked cloth was the first electric what?",
+   "a": "What is the battery?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/VoltaBattery.JPG/960px-VoltaBattery.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:VoltaBattery.JPG",
+    "credit": "GuidoB",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "inventions-m15",
+   "tier": 4,
+   "q": "This 1760s machine by James Hargreaves let one worker make eight threads at once. What is it?",
+   "a": "What is the spinning jenny?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spinning_jenny.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spinning_jenny.jpg",
+    "credit": "Markus Schweiß",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "inventions-m16",
+   "tier": 4,
+   "q": "This 1804 French machine used chains of punched cards to weave patterns in silk. What is it?",
+   "a": "What is the Jacquard loom?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg/960px-A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Jacquard_loom_showing_information_punchcards,_National_Museum_of_Scotland.jpg",
+    "credit": "Stephencdickson",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "inventions-m17",
+   "tier": 5,
+   "q": "This ancient Greek geared device, found in a shipwreck, predicted eclipses. What is it?",
+   "a": "What is the Antikythera mechanism?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antikythera_Fragment_A_%28Front%29.webp/960px-Antikythera_Fragment_A_%28Front%29.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_(Front).webp",
+    "credit": "Logg Tandy",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "inventions-m18",
+   "tier": 5,
+   "q": "John Harrison built this 1772 timekeeper, his 'H5', to find longitude at sea. What kind of device is it?",
+   "a": "What is the marine chronometer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Harrison%27s_Chronometer_H5.JPG/960px-Harrison%27s_Chronometer_H5.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Harrison%27s_Chronometer_H5.JPG",
+    "credit": "Racklever at English Wikipedia",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "inventions-m19",
+   "tier": 5,
+   "q": "These 18th-century glass containers were among the first devices for storing static electricity. What are they called?",
+   "a": "What are Leyden jars?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Leidse_flessen_Museum_Boerhave_december_2003_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leidse_flessen_Museum_Boerhave_december_2003_2.jpg",
+    "credit": "Alvinrune (English Wikipedia)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "inventions-m20",
+   "tier": 5,
+   "q": "Nicolas-Joseph Cugnot's 1770 steam-powered vehicle is often called the first what?",
+   "a": "What is the automobile?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Joseph_Cugnot%27s_1770_Fardier_%C3%A0_Vapeur%2C_Mus%C3%A9e_des_arts_et_m%C3%A9tiers%2C_Paris_2015.jpg/960px-Joseph_Cugnot%27s_1770_Fardier_%C3%A0_Vapeur%2C_Mus%C3%A9e_des_arts_et_m%C3%A9tiers%2C_Paris_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joseph_Cugnot%27s_1770_Fardier_%C3%A0_Vapeur,_Mus%C3%A9e_des_arts_et_m%C3%A9tiers,_Paris_2015.jpg",
+    "credit": "Joe deSousa",
+    "license": "CC0"
+   }
   }
  ]
 }

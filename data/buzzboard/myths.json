@@ -602,6 +602,266 @@
    "q": "In Greek mythology, this man of bronze protected Crete from pirates and invaders.",
    "a": "Who is Talos?",
    "tier": 5
+  },
+  {
+   "id": "myths-m01",
+   "tier": 1,
+   "q": "This 7th-century-BC Greek vase shows the wooden horse used to sneak soldiers into which city?",
+   "a": "What is Troy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mykonos_vase.jpg/960px-Mykonos_vase.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mykonos_vase.jpg",
+    "credit": "Travelling Runes",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "myths-m02",
+   "tier": 1,
+   "q": "This Bernini bust shows which Gorgon, whose gaze turned people to stone?",
+   "a": "Who is Medusa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Medusa_head_by_Gianlorenzo_Bernini_in_Musei_capitolini.jpg/960px-Medusa_head_by_Gianlorenzo_Bernini_in_Musei_capitolini.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Medusa_head_by_Gianlorenzo_Bernini_in_Musei_capitolini.jpg",
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "myths-m03",
+   "tier": 1,
+   "q": "This ancient tomb painting shows which jackal-headed Egyptian god of the dead tending a mummy?",
+   "a": "Who is Anubis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Anubis_attending_the_mummy_of_Sennedjem.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anubis_attending_the_mummy_of_Sennedjem.jpg",
+    "credit": "self",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m04",
+   "tier": 1,
+   "q": "This painting shows which Norse god of thunder, hammer raised, riding his goat-drawn chariot?",
+   "a": "Who is Thor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg",
+    "credit": "Max Koch",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m05",
+   "tier": 2,
+   "q": "John William Waterhouse painted this woman opening a box that released evils into the world. Who is she?",
+   "a": "Who is Pandora?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pandora_-_John_William_Waterhouse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pandora_-_John_William_Waterhouse.jpg",
+    "credit": "John William Waterhouse",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m06",
+   "tier": 2,
+   "q": "This Georg von Rosen painting shows which one-eyed Norse king of the gods as a wanderer?",
+   "a": "Who is Odin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
+    "credit": "Georg von Rosen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m07",
+   "tier": 2,
+   "q": "This helmeted statue shows which Greek goddess of wisdom, patron of a famous city?",
+   "a": "Who is Athena?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Athena_Giustiniani_Musei_Capitolini_MC278.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Athena_Giustiniani_Musei_Capitolini_MC278.jpg",
+    "credit": "Unknown artist",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m08",
+   "tier": 2,
+   "q": "Caravaggio painted this youth who fell in love with his own reflection. Who is he?",
+   "a": "Who is Narcissus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Narcissus-Caravaggio_%281594-96%29_edited.jpg/960px-Narcissus-Caravaggio_%281594-96%29_edited.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Narcissus-Caravaggio_(1594-96)_edited.jpg",
+    "credit": "Caravaggio",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m09",
+   "tier": 3,
+   "q": "This falcon statue at the temple of Edfu shows which Egyptian sky god, son of Isis?",
+   "a": "Who is Horus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Temple_of_Edfu%2C_Statue_of_Horus_2%2C_Egypt.jpg/960px-Temple_of_Edfu%2C_Statue_of_Horus_2%2C_Egypt.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Edfu,_Statue_of_Horus_2,_Egypt.jpg",
+    "credit": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "myths-m10",
+   "tier": 3,
+   "q": "Dante Gabriel Rossetti painted this queen of the underworld holding a pomegranate. Who is she?",
+   "a": "Who is Proserpine (Persephone)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg",
+    "credit": "Dante Gabriel Rossetti",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m11",
+   "tier": 3,
+   "q": "This bronze cat statue represents which Egyptian goddess?",
+   "a": "Who is Bastet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/British_Museum_Egypt_101-black.jpg/960px-British_Museum_Egypt_101-black.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Egypt_101-black.jpg",
+    "credit": "Einsamer Schütze",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "myths-m12",
+   "tier": 3,
+   "q": "Emil Doepler painted Thor battling which giant sea monster that encircles the world?",
+   "a": "What is Jörmungandr?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Thor_und_die_Midgardsschlange.jpg/960px-Thor_und_die_Midgardsschlange.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thor_und_die_Midgardsschlange.jpg",
+    "credit": "Emil Doepler",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m13",
+   "tier": 4,
+   "q": "Lorenz Frølich drew this trickster god threatening the other gods with fire as he storms out of their feast. Who is he?",
+   "a": "Who is Loki?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Loki_leaves_the_hall_and_threatens_the_%C3%86sir_with_fire_by_Fr%C3%B8lich.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Loki_leaves_the_hall_and_threatens_the_%C3%86sir_with_fire_by_Fr%C3%B8lich.jpg",
+    "credit": "Lorenz Frølich",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m14",
+   "tier": 4,
+   "q": "This blue baboon figure represents which Egyptian god of writing, more often shown with an ibis head?",
+   "a": "Who is Thoth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Thoth_as_baboo_E17496.jpg/960px-Thoth_as_baboo_E17496.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thoth_as_baboo_E17496.jpg",
+    "credit": "Rama",
+    "license": "CC BY-SA 3.0 fr"
+   }
+  },
+  {
+   "id": "myths-m15",
+   "tier": 4,
+   "q": "This Roman coin shows which two-faced god of doorways and beginnings?",
+   "a": "Who is Janus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Canusium_as_79000809.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canusium_as_79000809.jpg",
+    "credit": "CNG",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "myths-m16",
+   "tier": 4,
+   "q": "Lorenz Frølich drew Odin with his wolves and ravens, riding which eight-legged horse?",
+   "a": "What is Sleipnir?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Odin%2C_Sleipnir%2C_Geri%2C_Freki%2C_Huginn_and_Muninn_by_Fr%C3%B8lich.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Odin,_Sleipnir,_Geri,_Freki,_Huginn_and_Muninn_by_Fr%C3%B8lich.jpg",
+    "credit": "Lorenz Frølich",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m17",
+   "tier": 5,
+   "q": "This illustration shows Odin attacked at Ragnarök by which monstrous wolf, a son of Loki?",
+   "a": "Who is Fenrir?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Odin_and_Fenris_-_Dorothy_Hardy.png/960px-Odin_and_Fenris_-_Dorothy_Hardy.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Odin_and_Fenris_-_Dorothy_Hardy.png",
+    "credit": "Mabel Dorothy Hardy",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m18",
+   "tier": 5,
+   "q": "This 19th-century illustration shows which giant ash tree that links the nine Norse worlds?",
+   "a": "What is Yggdrasil?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Om_Yggdrasil_by_Fr%C3%B8lich.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Om_Yggdrasil_by_Fr%C3%B8lich.jpg",
+    "credit": "Lorenz Frølich",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "myths-m19",
+   "tier": 5,
+   "q": "This temple relief at Kom Ombo shows which lion-headed Egyptian goddess of war and healing?",
+   "a": "Who is Sekhmet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wall_relief_Kom_Ombo4.JPG/960px-Wall_relief_Kom_Ombo4.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Wall_relief_Kom_Ombo4.JPG",
+    "credit": "Rémih",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "myths-m20",
+   "tier": 5,
+   "q": "James Doyle Penrose painted which Norse goddess of love, owner of a famous necklace?",
+   "a": "Who is Freyja?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Freyja_and_the_Necklace_by_James_Doyle_Penrose%2C_1890.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Freyja_and_the_Necklace_by_James_Doyle_Penrose,_1890.jpg",
+    "credit": "James Doyle Penrose (1862-1932)",
+    "license": "Public domain"
+   }
   }
  ]
 }

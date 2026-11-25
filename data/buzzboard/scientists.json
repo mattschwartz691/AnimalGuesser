@@ -303,6 +303,266 @@
    "q": "This British chemist won the 1964 Nobel Prize in Chemistry for using X-rays to map molecules like penicillin and vitamin B12",
    "a": "Who is Dorothy Hodgkin?",
    "tier": 5
+  },
+  {
+   "id": "scientists-m01",
+   "tier": 1,
+   "q": "Who is this physicist, famous for the theory of relativity and E = mc²?",
+   "a": "Who is Albert Einstein?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+    "credit": "Oren Jack Turner",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m02",
+   "tier": 1,
+   "q": "Who is this scientist, painted in 1689, who described gravity and three laws of motion?",
+   "a": "Who is Isaac Newton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/960px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+    "credit": "Godfrey Kneller",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m03",
+   "tier": 1,
+   "q": "Who is this scientist, the first person to win two Nobel Prizes, for work on radioactivity?",
+   "a": "Who is Marie Curie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+    "credit": "Henri Manuel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m04",
+   "tier": 1,
+   "q": "Who is this naturalist, who wrote 'On the Origin of Species' in 1859?",
+   "a": "Who is Charles Darwin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+    "credit": "Henry Maull",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m05",
+   "tier": 2,
+   "q": "Who is this Italian astronomer, who used a telescope to discover four moons of Jupiter?",
+   "a": "Who is Galileo Galilei?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-1280px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Galileo_Galilei_(1564-1642)_RMG_BHC2700.tiff",
+    "credit": "Justus Sustermans",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m06",
+   "tier": 2,
+   "q": "Who is this Serbian-American inventor, a pioneer of alternating-current electricity?",
+   "a": "Who is Nikola Tesla?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
+    "credit": "Napoleon Sarony",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m07",
+   "tier": 2,
+   "q": "Who is this physicist, author of 'A Brief History of Time', who studied black holes?",
+   "a": "Who is Stephen Hawking?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Stephen_Hawking_050506.jpg/960px-Stephen_Hawking_050506.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Hawking_050506.jpg",
+    "credit": "²°¹°°",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m08",
+   "tier": 2,
+   "q": "Who is this French scientist, who developed a heating process for milk and a rabies vaccine?",
+   "a": "Who is Louis Pasteur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/960px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg",
+    "credit": "Paul Nadar",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m09",
+   "tier": 3,
+   "q": "Who is this astronomer, who argued in 1543 that the Earth orbits the Sun?",
+   "a": "Who is Nicolaus Copernicus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/960px-Nikolaus_Kopernikus_MOT.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m10",
+   "tier": 3,
+   "q": "Who is this monk, whose pea-plant experiments founded the science of genetics?",
+   "a": "Who is Gregor Mendel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gregor_Mendel_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gregor_Mendel_2.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m11",
+   "tier": 3,
+   "q": "Who is this English scientist, who discovered electromagnetic induction in 1831?",
+   "a": "Who is Michael Faraday?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Faraday_sitting_crop.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m12",
+   "tier": 3,
+   "q": "Who is this primatologist, famous for decades of studying chimpanzees in Tanzania?",
+   "a": "Who is Jane Goodall?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_(22365513310)_(2)_(cropped_2).jpg",
+    "credit": "U.S. Department of State from United States",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m13",
+   "tier": 4,
+   "q": "Who is this Danish physicist, who proposed a model of the atom with electrons in fixed orbits?",
+   "a": "Who is Niels Bohr?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/960px-Niels_Bohr.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+    "credit": "AB Lagrelius & Westphal",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m14",
+   "tier": 4,
+   "q": "Who is this astronomer, who discovered that planets move in elliptical orbits?",
+   "a": "Who is Johannes Kepler?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+    "credit": "August Köhler",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m15",
+   "tier": 4,
+   "q": "Who is this Scottish scientist, who discovered penicillin in 1928?",
+   "a": "Who is Alexander Fleming?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+    "credit": "Official photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m16",
+   "tier": 4,
+   "q": "Who is this Russian chemist, who created the periodic table of the elements in 1869?",
+   "a": "Who is Dmitri Mendeleev?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dmitri_Mendeleev.jpg/960px-Dmitri_Mendeleev.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m17",
+   "tier": 5,
+   "q": "Who is this Austrian physicist, who helped explain nuclear fission and has element 109 named for her?",
+   "a": "Who is Lise Meitner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lise_Meitner_NatGeo.jpg/960px-Lise_Meitner_NatGeo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lise_Meitner_NatGeo.jpg",
+    "credit": "Harris & Ewing",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m18",
+   "tier": 5,
+   "q": "This Jacques-Louis David painting shows which 'father of modern chemistry' with his wife?",
+   "a": "Who is Antoine Lavoisier?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg/960px-David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+    "credit": "Jacques-Louis David",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m19",
+   "tier": 5,
+   "q": "Who is this German mathematician, whose 1918 theorem links symmetries to conservation laws?",
+   "a": "Who is Emmy Noether?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emmy_Noether_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmy_Noether_(3x4_cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "scientists-m20",
+   "tier": 5,
+   "q": "Who is this Danish astronomer with a metal nose, who made precise naked-eye star measurements?",
+   "a": "Who is Tycho Brahe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif/lossy-page1-1280px-Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
   }
  ]
 }

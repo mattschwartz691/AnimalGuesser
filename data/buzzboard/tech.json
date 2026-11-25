@@ -303,6 +303,266 @@
    "q": "Sony introduced this robotic dog in 1999",
    "a": "What is AIBO?",
    "tier": 5
+  },
+  {
+   "id": "tech-m01",
+   "tier": 1,
+   "q": "Name this Apple co-founder, shown at a 2010 developers conference",
+   "a": "Who is Steve Jobs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steve_Jobs_Headshot_2010_%28cropped_6%29.jpg/960px-Steve_Jobs_Headshot_2010_%28cropped_6%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_Headshot_2010_(cropped_6).jpg",
+    "credit": "Matthew Yohe",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tech-m02",
+   "tier": 1,
+   "q": "Name this co-founder of Microsoft, later a major philanthropist",
+   "a": "Who is Bill Gates?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Gates_at_the_European_Commission_-_P067383-987995_(cropped)_5.jpg",
+    "credit": "Bogdan Hoyaux / European Union",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tech-m03",
+   "tier": 1,
+   "q": "This ring-shaped headquarters in Cupertino, California belongs to which company?",
+   "a": "What is Apple?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/960px-Aerial_view_of_Apple_Park_dllu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+    "credit": "Daniel L. Lu (dllu)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tech-m04",
+   "tier": 1,
+   "q": "Name this audio format, a reel of magnetic ribbon in a small plastic shell, popular from the 1970s to the 1990s",
+   "a": "What is the cassette tape?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Compactcassette.jpg/960px-Compactcassette.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Compactcassette.jpg",
+    "credit": "Thegreenj",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tech-m05",
+   "tier": 2,
+   "q": "Name the engineer who designed the Apple I and Apple II and co-founded Apple with Jobs",
+   "a": "Who is Steve Wozniak?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg/960px-Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Wozniak_by_Gage_Skidmore_3_(cropped).jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tech-m06",
+   "tier": 2,
+   "q": "This 1989 handheld was famously bundled with which falling-block puzzle game?",
+   "a": "What is Tetris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/960px-Game-Boy-FL.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.png",
+    "credit": "Evan-Amos",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tech-m07",
+   "tier": 2,
+   "q": "Thomas Edison poses with his 1877 invention, the first device to record and play back sound. Name it.",
+   "a": "What is the phonograph?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Edison_and_phonograph_edit1.jpg/960px-Edison_and_phonograph_edit1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edison_and_phonograph_edit1.jpg",
+    "credit": "Levin C. Handy",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tech-m08",
+   "tier": 2,
+   "q": "Martin Cooper made the first handheld cellphone call in 1973 with this prototype, working for which company?",
+   "a": "What is Motorola?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2007Computex_e21Forum-MartinCooper.jpg/960px-2007Computex_e21Forum-MartinCooper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2007Computex_e21Forum-MartinCooper.jpg",
+    "credit": "Rico Shen",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tech-m09",
+   "tier": 3,
+   "q": "This Palo Alto garage, called the 'birthplace of Silicon Valley', is where which company was founded in 1939?",
+   "a": "What is Hewlett-Packard (HP)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HP_Garage.jpg/960px-HP_Garage.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HP_Garage.jpg",
+    "credit": "Oysterboy9",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tech-m10",
+   "tier": 3,
+   "q": "This CEO co-founded which chipmaker, famous for graphics cards and AI processors?",
+   "a": "What is Nvidia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/960px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+    "credit": "Anderseidesvik",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tech-m11",
+   "tier": 3,
+   "q": "Name this 1984 Apple computer, launched with a famous Super Bowl ad",
+   "a": "What is the Macintosh?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg/960px-Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Computer_macintosh_128k,_1984_(all_about_Apple_onlus).jpg",
+    "credit": "Sailko",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "tech-m12",
+   "tier": 3,
+   "q": "Name this 2013 head-worn computer with a tiny prism display, from a search-engine giant",
+   "a": "What is Google Glass?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Glass_photo.JPG/960px-Google_Glass_photo.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_Glass_photo.JPG",
+    "credit": "Dan Leveille (danlev on Wikimedia)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "tech-m13",
+   "tier": 4,
+   "q": "This 1973 computer from the Palo Alto Research Center pioneered the mouse-driven GUI. Which company built it?",
+   "a": "What is Xerox?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Xero_Alto_Computer.jpg/960px-Xero_Alto_Computer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Xero_Alto_Computer.jpg",
+    "credit": "Bc4040",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tech-m14",
+   "tier": 4,
+   "q": "This businessman co-founded which Japanese electronics giant, maker of the Walkman and PlayStation?",
+   "a": "What is Sony?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Morita_Akio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Morita_Akio.jpg",
+    "credit": "President Inc. (photographer unknown)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "tech-m15",
+   "tier": 4,
+   "q": "This engineer has been CEO since 2014 of which chipmaker, known for its Ryzen processors?",
+   "a": "What is AMD?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SXSW-2024-alih-OB7A0861-Lisa_Su_%28cropped_2%29.jpg/960px-SXSW-2024-alih-OB7A0861-Lisa_Su_%28cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su_(cropped_2).jpg",
+    "credit": "Fuzheado",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tech-m16",
+   "tier": 4,
+   "q": "Name the company this executive has led as CEO since 2014, maker of Windows",
+   "a": "What is Microsoft?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/960px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg",
+    "credit": "Brian Smale and Microsoft",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tech-m17",
+   "tier": 5,
+   "q": "Name this 12-inch optical video disc format, introduced in 1978",
+   "a": "What is the LaserDisc?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LaserDisc.jpg/960px-LaserDisc.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LaserDisc.jpg",
+    "credit": "Windell Oskay",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "tech-m18",
+   "tier": 5,
+   "q": "This executive is CEO of Google and also of which parent company, created in 2015?",
+   "a": "What is Alphabet?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg",
+    "credit": "Lukasz Kobus (European Commission)",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "tech-m19",
+   "tier": 5,
+   "q": "Name this engineer who co-founded Sony's forerunner, Tokyo Tsushin Kogyo, with Akio Morita in 1946",
+   "a": "Who is Masaru Ibuka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ibuka_Masaru_at_Sony.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ibuka_Masaru_at_Sony.png",
+    "credit": "Graham1250",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "tech-m20",
+   "tier": 5,
+   "q": "Name the inventor who unveiled this two-wheeled, self-balancing personal transporter in 2001",
+   "a": "Who is Dean Kamen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Black_x2_and_white_i2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_x2_and_white_i2.jpg",
+    "credit": "aleehk82",
+    "license": "CC BY 2.0"
+   }
   }
  ]
 }

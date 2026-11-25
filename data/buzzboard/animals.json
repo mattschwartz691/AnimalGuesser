@@ -602,6 +602,305 @@
    "q": "Males of this long-snouted, fish-eating crocodilian have a bulb on the snout resembling an earthenware pot called a ghara",
    "a": "What is the gharial?",
    "tier": 5
+  },
+  {
+   "id": "animals-m01",
+   "tier": 1,
+   "q": "Name this tall African animal, the tallest land animal on Earth",
+   "a": "What is a giraffe?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/960px-Giraffe_Mikumi_National_Park.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giraffe_Mikumi_National_Park.jpg",
+    "credit": "Muhammad Mahdi Karim Facebook The making of this document was supported by Wikimedia...",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "animals-m02",
+   "tier": 1,
+   "q": "Name this hopping Australian marsupial",
+   "a": "What is a kangaroo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Red_kangaroo_-_melbourne_zoo.jpg/960px-Red_kangaroo_-_melbourne_zoo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_-_melbourne_zoo.jpg",
+    "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-200mm f/2.8 L",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "animals-m03",
+   "tier": 1,
+   "q": "Name this black-and-white bear from China that eats mostly bamboo",
+   "a": "What is the giant panda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/960px-Grosser_Panda.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG",
+    "credit": "J. Patrick Fischer",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "animals-m04",
+   "tier": 1,
+   "q": "Listen: name this wild ancestor of the domestic dog, howling",
+   "a": "What is a wolf (gray wolf)?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Wolf_howls.ogg/Wolf_howls.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Wolf_howls.ogg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animals-m05",
+   "tier": 2,
+   "q": "Name this egg-laying Australian mammal with a duck-like bill",
+   "a": "What is a platypus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/960px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m06",
+   "tier": 2,
+   "q": "Name this small African mongoose famous for standing upright on sentry duty",
+   "a": "What is a meerkat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/960px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m07",
+   "tier": 2,
+   "q": "Name this reddish tree-climbing mammal of the Himalayas",
+   "a": "What is the red panda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/960px-Red_Panda_%2824986761703%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg",
+    "credit": "Mathias Appel",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "animals-m08",
+   "tier": 2,
+   "q": "Name this world's largest rodent, native to South America",
+   "a": "What is the capybara?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/960px-Capybaracropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Capybaracropped.jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m09",
+   "tier": 3,
+   "q": "Name this African forest mammal with zebra-striped legs, the giraffe's closest living relative",
+   "a": "What is the okapi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/960px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+    "credit": "Daniel Jolivet",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animals-m10",
+   "tier": 3,
+   "q": "Name this Mexican salamander that keeps its feathery gills as an adult",
+   "a": "What is the axolotl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/960px-Axolotl_ganz.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg",
+    "credit": "LoKiLeCh",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "animals-m11",
+   "tier": 3,
+   "q": "Name this scaly mammal that rolls into a ball and eats ants",
+   "a": "What is a pangolin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Eupholidota.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eupholidota.jpg",
+    "credit": "derivative work: user:The Explaner",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m12",
+   "tier": 3,
+   "q": "Name this largest living lizard, found on Indonesian islands",
+   "a": "What is the Komodo dragon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/960px-202306_Varanus_komodoensis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:202306_Varanus_komodoensis.jpg",
+    "credit": "James Jolokia (james1203)",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "animals-m13",
+   "tier": 3,
+   "q": "Listen: name this African carnivore, known for its 'giggling' call",
+   "a": "What is the spotted hyena?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/Giggling_call_of_a_spotted_hyena_%28Crocuta_crocuta%29_-_1472-6785-10-9-S4.oga/Giggling_call_of_a_spotted_hyena_%28Crocuta_crocuta%29_-_1472-6785-10-9-S4.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Giggling_call_of_a_spotted_hyena_(Crocuta_crocuta)_-_1472-6785-10-9-S4.oga",
+    "credit": "Mathevon N, Koralek A, Weldele M, Glickman S, Theunissen F",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animals-m14",
+   "tier": 4,
+   "q": "Name this Madagascar lemur with a long, thin middle finger for tapping on wood",
+   "a": "What is the aye-aye?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/960px-Wild_aye_aye.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wild_aye_aye.jpg",
+    "credit": "nomis-simon",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animals-m15",
+   "tier": 4,
+   "q": "Name this North American burrowing mammal with 22 pink tentacles on its snout",
+   "a": "What is the star-nosed mole?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Condylura.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Condylura.jpg",
+    "credit": "US National Parks Service",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "animals-m16",
+   "tier": 4,
+   "q": "Name this venomous lizard of the US Southwest, with beaded orange-and-black skin",
+   "a": "What is the Gila monster?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/960px-Gila_monster2.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Gila_monster2.JPG",
+    "credit": "Blueag9",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "animals-m17",
+   "tier": 4,
+   "q": "Listen: name this kind of Central American primate, one of the loudest land animals",
+   "a": "What is a howler monkey?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Mantled_Howler_Monkey_%28Alouatta_palliata%29_%28W_ALOUATTA_PALLIATA_R1_C2%29.ogg/Mantled_Howler_Monkey_%28Alouatta_palliata%29_%28W_ALOUATTA_PALLIATA_R1_C2%29.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Mantled_Howler_Monkey_(Alouatta_palliata)_(W_ALOUATTA_PALLIATA_R1_C2).ogg",
+    "credit": "This file has been provided by the British Library from its digital collections. Links...",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "animals-m18",
+   "tier": 4,
+   "q": "Listen: name this North American wild canine, smaller than a wolf, yipping in a pack",
+   "a": "What is the coyote?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/Pack_of_coyotes_howling.ogg/Pack_of_coyotes_howling.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Pack_of_coyotes_howling.ogg",
+    "credit": "Rybkovich",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m19",
+   "tier": 5,
+   "q": "Name this endangered antelope of the Central Asian steppe, known for its oversized drooping nose",
+   "a": "What is the saiga?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg/960px-Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+    "credit": "Andrey Giljov",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m20",
+   "tier": 5,
+   "q": "Name this cat-like predator, the largest carnivore of Madagascar",
+   "a": "What is the fossa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cryptoprocta_Ferox.JPG/960px-Cryptoprocta_Ferox.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Cryptoprocta_Ferox.JPG",
+    "credit": "Ran Kirlian",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m21",
+   "tier": 5,
+   "q": "Name this long-necked East African antelope that stands on its hind legs to browse",
+   "a": "What is the gerenuk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg/960px-San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:San_diego_zoo_group_3_DSC_0908_(35305473932).jpg",
+    "credit": "Laura Wolf",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "animals-m22",
+   "tier": 5,
+   "q": "Name this striped Australian marsupial that eats termites",
+   "a": "What is the numbat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/960px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Numbat,_Dryandra_Woodland,_Western_Australia.jpg",
+    "credit": "JJ Harrison",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "animals-m23",
+   "tier": 5,
+   "q": "Listen: name this tiny North American tree frog whose high-pitched chorus is an early sign that winter is over",
+   "a": "What is the spring peeper?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Springpeepers.ogg/Springpeepers.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Springpeepers.ogg",
+    "credit": "User:Mdf, edits by user:Borisblue",
+    "license": "CC BY-SA 3.0"
+   }
   }
  ]
 }

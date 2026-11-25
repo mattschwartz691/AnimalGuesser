@@ -303,6 +303,305 @@
    "q": "Superman's Kryptonian scientist father sent him to Earth before Krypton exploded",
    "a": "Who is Jor-El?",
    "tier": 5
+  },
+  {
+   "id": "superheroes-m01",
+   "tier": 1,
+   "q": "Name this web-slinging hero, alter ego of Peter Parker",
+   "a": "Who is Spider-Man?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cosplayer_of_Spider-Man_at_ACGHK_2022_-_D2T1749.jpg/960px-Cosplayer_of_Spider-Man_at_ACGHK_2022_-_D2T1749.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplayer_of_Spider-Man_at_ACGHK_2022_-_D2T1749.jpg",
+    "credit": "Jason Kwok",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "superheroes-m02",
+   "tier": 1,
+   "q": "This cosplayer carries the star-spangled shield of which Avenger, Steve Rogers?",
+   "a": "Who is Captain America?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Captain_America_at_Earl%27s_Court%2C_London_2014.jpg/960px-Captain_America_at_Earl%27s_Court%2C_London_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Captain_America_at_Earl%27s_Court,_London_2014.jpg",
+    "credit": "DanielMichaelPerry",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "superheroes-m03",
+   "tier": 1,
+   "q": "Name this armored Avenger, the alter ego of billionaire Tony Stark",
+   "a": "Who is Iron Man?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cosplay_of_Iron_Man_at_GEMA_2022.jpg/960px-Cosplay_of_Iron_Man_at_GEMA_2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Iron_Man_at_GEMA_2022.jpg",
+    "credit": "Chongkian",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "superheroes-m04",
+   "tier": 1,
+   "q": "Name this caped hero from Krypton whose alter ego is Clark Kent",
+   "a": "Who is Superman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Superman_Cosplay_at_NYCC_2017.jpg/960px-Superman_Cosplay_at_NYCC_2017.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Superman_Cosplay_at_NYCC_2017.jpg",
+    "credit": "MediaGamut",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m05",
+   "tier": 1,
+   "q": "Name this actor who played Tony Stark in the Marvel films",
+   "a": "Who is Robert Downey Jr.?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg/960px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m06",
+   "tier": 2,
+   "q": "Name this green-haired, clown-faced archenemy of Batman",
+   "a": "Who is the Joker?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Joker_cosplay_at_Fan_Expo_Denver_2026.jpg/960px-Joker_cosplay_at_Fan_Expo_Denver_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joker_cosplay_at_Fan_Expo_Denver_2026.jpg",
+    "credit": "SpiritedMichelle",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "superheroes-m07",
+   "tier": 2,
+   "q": "Name this wisecracking red-suited antihero, the \"Merc with a Mouth\"",
+   "a": "Who is Deadpool?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gamescom_2023_-_Cosplay_Deadpool.jpg/500px-Gamescom_2023_-_Cosplay_Deadpool.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gamescom_2023_-_Cosplay_Deadpool.jpg",
+    "credit": "https://www.youtube.com/watch?v=Tvf9oDsKtls",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "superheroes-m08",
+   "tier": 2,
+   "q": "Name this hammer-wielding Asgardian god of thunder",
+   "a": "Who is Thor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cosplay_of_Thor_at_Brussels_Comic_Con_2019_%2833424859778%29.jpg/960px-Cosplay_of_Thor_at_Brussels_Comic_Con_2019_%2833424859778%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Thor_at_Brussels_Comic_Con_2019_(33424859778).jpg",
+    "credit": "Miguel Discart",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m09",
+   "tier": 2,
+   "q": "Name this British actor who began playing Peter Parker in 2016",
+   "a": "Who is Tom Holland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/960px-Tom_Holland_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Holland_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "superheroes-m10",
+   "tier": 2,
+   "q": "Name this sleek black vehicle driven by the Caped Crusader in Tim Burton's 1989 film",
+   "a": "What is the Batmobile?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Batmobile_from_Tim_Burton%27s_1989_%27Batman%27%28Ank_Kumar%29_01.jpg/960px-Batmobile_from_Tim_Burton%27s_1989_%27Batman%27%28Ank_Kumar%29_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Batmobile_from_Tim_Burton%27s_1989_%27Batman%27(Ank_Kumar)_01.jpg",
+    "credit": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "superheroes-m11",
+   "tier": 3,
+   "q": "Name this actor who played T'Challa, king of Wakanda",
+   "a": "Who is Chadwick Boseman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg/960px-Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_by_Gage_Skidmore_July_2017_(cropped).jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m12",
+   "tier": 3,
+   "q": "Name this Israeli actress who played Diana Prince in the DC films",
+   "a": "Who is Gal Gadot?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gal_Gadot_by_Gage_Skidmore_4.jpg/960px-Gal_Gadot_by_Gage_Skidmore_4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gal_Gadot_by_Gage_Skidmore_4.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "superheroes-m13",
+   "tier": 3,
+   "q": "Name this pigtailed former psychiatrist, the Joker's on-and-off partner in crime",
+   "a": "Who is Harley Quinn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fan_Expo_2014_-_Harley_Quinn_%2814951440258%29.jpg/960px-Fan_Expo_2014_-_Harley_Quinn_%2814951440258%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fan_Expo_2014_-_Harley_Quinn_(14951440258).jpg",
+    "credit": "GabboT",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m14",
+   "tier": 3,
+   "q": "Name this Australian actor who played the clawed mutant Wolverine for over 20 years",
+   "a": "Who is Hugh Jackman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg/960px-Hugh_Jackman_by_Gage_Skidmore_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman_by_Gage_Skidmore_3.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "superheroes-m15",
+   "tier": 3,
+   "q": "Name this Marvel writer famous for movie cameos and the catchphrase \"Excelsior!\"",
+   "a": "Who is Stan Lee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stan_Lee_by_Gage_Skidmore_3.jpg/960px-Stan_Lee_by_Gage_Skidmore_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stan_Lee_by_Gage_Skidmore_3.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "superheroes-m16",
+   "tier": 4,
+   "q": "Name this actor who played the Caped Crusader in the campy 1960s TV series",
+   "a": "Who is Adam West?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Adam_West_Batman_1966.jpg/500px-Adam_West_Batman_1966.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adam_West_Batman_1966.jpg",
+    "credit": "ABC Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "superheroes-m17",
+   "tier": 4,
+   "q": "Name this actress who starred as the Amazon princess Diana on 1970s TV",
+   "a": "Who is Lynda Carter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lynda_Carter_Wonder_Woman.JPG/500px-Lynda_Carter_Wonder_Woman.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Lynda_Carter_Wonder_Woman.JPG",
+    "credit": "ABC Television",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "superheroes-m18",
+   "tier": 4,
+   "q": "This cosplayer's power ring marks him as a member of which intergalactic DC police force?",
+   "a": "What is the Green Lantern Corps?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/San_Diego_Comic-Con_2014_-_Guy_Gardner_%2814585061417%29.jpg/960px-San_Diego_Comic-Con_2014_-_Guy_Gardner_%2814585061417%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2014_-_Guy_Gardner_(14585061417).jpg",
+    "credit": "William Tung from USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m19",
+   "tier": 4,
+   "q": "This armored \"Tumbler\" vehicle appeared in which director's Dark Knight trilogy?",
+   "a": "Who is Christopher Nolan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tumbler_Batmobile_%28_Ank_Kumar%2C_Infosys_Limited%29_04.jpg/960px-Tumbler_Batmobile_%28_Ank_Kumar%2C_Infosys_Limited%29_04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tumbler_Batmobile_(_Ank_Kumar,_Infosys_Limited)_04.jpg",
+    "credit": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "superheroes-m20",
+   "tier": 5,
+   "q": "Name this \"King of Comics,\" shown in 1982, who co-created Captain America, the X-Men and the Fantastic Four",
+   "a": "Who is Jack Kirby?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jack_Kirby_%281118470454%29.jpg/960px-Jack_Kirby_%281118470454%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jack_Kirby_(1118470454).jpg",
+    "credit": "Alan Light",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "superheroes-m21",
+   "tier": 5,
+   "q": "Name this artist, shown in 1959, who co-created Spider-Man and Doctor Strange",
+   "a": "Who is Steve Ditko?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Steve_Ditko_1959.jpg/500px-Steve_Ditko_1959.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Ditko_1959.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "superheroes-m22",
+   "tier": 5,
+   "q": "Name this actor, shown in 1958, who starred as the Man of Steel on 1950s TV",
+   "a": "Who is George Reeves?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1958_-_George_Reeves_at_the_Patio_Restaurant_-_Hess_Brothers_-_Allentown_PA.jpg/960px-1958_-_George_Reeves_at_the_Patio_Restaurant_-_Hess_Brothers_-_Allentown_PA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1958_-_George_Reeves_at_the_Patio_Restaurant_-_Hess_Brothers_-_Allentown_PA.jpg",
+    "credit": "Unknown authorUnknown author Self-scanned",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "superheroes-m23",
+   "tier": 5,
+   "q": "Name this cartoonist credited (with Bill Finger) as creator of Batman",
+   "a": "Who is Bob Kane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bob_Kane_1966_photo.jpg/330px-Bob_Kane_1966_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Kane_1966_photo.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain"
+   }
   }
  ]
 }

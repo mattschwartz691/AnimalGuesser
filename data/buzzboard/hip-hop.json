@@ -303,6 +303,279 @@
    "q": "Hosted by Fab 5 Freddy, this pioneering rap video show premiered on American MTV in 1988",
    "a": "What is Yo! MTV Raps?",
    "tier": 5
+  },
+  {
+   "id": "hip-hop-m01",
+   "tier": 1,
+   "q": "Name this Detroit rapper, alter ego Slim Shady, who won an Oscar for \"Lose Yourself\"",
+   "a": "Who is Eminem?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eminem_live_at_D.C._2014_%28cropped%29.jpg/500px-Eminem_live_at_D.C._2014_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eminem_live_at_D.C._2014_(cropped).jpg",
+    "credit": "DOD News Features",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m02",
+   "tier": 1,
+   "q": "Name this laid-back Long Beach rapper of \"Drop It Like It's Hot\"",
+   "a": "Who is Snoop Dogg?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/960px-Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+    "credit": "Toglenn",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "hip-hop-m03",
+   "tier": 1,
+   "q": "Name this rapper whose 2019 country-rap hit \"Old Town Road\" spent 19 weeks at No. 1",
+   "a": "Who is Lil Nas X?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/191125_Lil_Nas_X_at_the_2019_American_Music_Awards_%282%29.png/500px-191125_Lil_Nas_X_at_the_2019_American_Music_Awards_%282%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:191125_Lil_Nas_X_at_the_2019_American_Music_Awards_(2).png",
+    "credit": "Cosmopolitan UK",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "hip-hop-m04",
+   "tier": 1,
+   "q": "Name this face-tattooed singer-rapper of \"Sunflower\" and \"Circles\"",
+   "a": "Who is Post Malone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/960px-Post_Malone_July_2021_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg",
+    "credit": "Chrisallmeid",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "hip-hop-m05",
+   "tier": 2,
+   "q": "Name this Compton rapper who won a Pulitzer Prize and headlined the 2025 Super Bowl halftime show",
+   "a": "Who is Kendrick Lamar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kendrick_Lamar_3_F.I.B._2016_%28cropped%29.jpg/960px-Kendrick_Lamar_3_F.I.B._2016_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kendrick_Lamar_3_F.I.B._2016_(cropped).jpg",
+    "credit": "Batiste Safont",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "hip-hop-m06",
+   "tier": 2,
+   "q": "Name this Brooklyn rapper and mogul, shown in 2006, who is married to Beyoncé",
+   "a": "Who is Jay-Z?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jay-Z_concert_%28cropped%29.jpg/500px-Jay-Z_concert_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jay-Z_concert_(cropped).jpg",
+    "credit": "i am guilty",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m07",
+   "tier": 2,
+   "q": "Name this \"Queen of Rap\" of \"Super Bass\" and \"Starships\"",
+   "a": "Who is Nicki Minaj?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nicki_Minaj_4_%285996507815%29.jpg/960px-Nicki_Minaj_4_%285996507815%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nicki_Minaj_4_(5996507815).jpg",
+    "credit": "Dyllan",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m08",
+   "tier": 2,
+   "q": "Name this Bronx rapper whose 2017 breakout hit was \"Bodak Yellow\"",
+   "a": "Who is Cardi B?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cardi_B_2021_02.jpg/330px-Cardi_B_2021_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cardi_B_2021_02.jpg",
+    "credit": "Anthony Kane",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "hip-hop-m09",
+   "tier": 3,
+   "q": "Name this rapper-singer of \"Say So\" and \"Paint the Town Red,\" shown in 2024",
+   "a": "Who is Doja Cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DojaCatO2140624_%2818_of_105%29_%2853792877753%29_%28cropped%29.jpg/500px-DojaCatO2140624_%2818_of_105%29_%2853792877753%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DojaCatO2140624_(18_of_105)_(53792877753)_(cropped).jpg",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m10",
+   "tier": 3,
+   "q": "Name this Virginia rapper and producer of \"Get Ur Freak On\" and \"Work It\"",
+   "a": "Who is Missy Elliott?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Missy_Elliott_2006.jpg/960px-Missy_Elliott_2006.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Missy_Elliott_2006.jpg",
+    "credit": "Romana Pierzga",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m11",
+   "tier": 3,
+   "q": "Name this New Jersey rapper of \"U.N.I.T.Y.\" who became an Oscar-nominated actress",
+   "a": "Who is Queen Latifah?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Queen_Latifah_2018.jpg/500px-Queen_Latifah_2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Latifah_2018.jpg",
+    "credit": "Sister Circle TV",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "hip-hop-m12",
+   "tier": 3,
+   "q": "Name this producer and singer of 2013's \"Happy\"",
+   "a": "Who is Pharrell Williams?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pharrell_Williams_2024_%2854133384149%29.jpg/960px-Pharrell_Williams_2024_%2854133384149%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pharrell_Williams_2024_(54133384149).jpg",
+    "credit": "Web Summit/Ramsey Cardy/Sportsfile",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m13",
+   "tier": 3,
+   "q": "Name this N.W.A rapper who wrote \"It Was a Good Day\" and starred in Friday",
+   "a": "Who is Ice Cube?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg/500px-Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg",
+    "credit": "Adam Bielawski",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "hip-hop-m14",
+   "tier": 4,
+   "q": "Name this Queens trio, shown in 1984, who teamed with Aerosmith on \"Walk This Way\"",
+   "a": "Who is Run-DMC?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Run-DMC_performing_in_Long_Beach%2C_1984.jpg/960px-Run-DMC_performing_in_Long_Beach%2C_1984.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Run-DMC_performing_in_Long_Beach,_1984.jpg",
+    "credit": "Ian Dryden, Los Angeles Times",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "hip-hop-m15",
+   "tier": 4,
+   "q": "Name this hype man known for wearing a giant clock around his neck",
+   "a": "Who is Flavor Flav?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flavor_Flav_of_Public_Enemy.jpg/960px-Flavor_Flav_of_Public_Enemy.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flavor_Flav_of_Public_Enemy.jpg",
+    "credit": "kowarski",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m16",
+   "tier": 4,
+   "q": "Name this Fugees singer whose 1998 solo album \"The Miseducation of...\" won Album of the Year",
+   "a": "Who is Lauryn Hill?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lauryn_Hill_-_2014.jpg/960px-Lauryn_Hill_-_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lauryn_Hill_-_2014.jpg",
+    "credit": "The Come Up Show from Canada",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m17",
+   "tier": 4,
+   "q": "Name this OutKast member who sang \"Hey Ya!\"",
+   "a": "Who is André 3000?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Andre_3000_by_Shankbone_2014.jpg/960px-Andre_3000_by_Shankbone_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Andre_3000_by_Shankbone_2014.jpg",
+    "credit": "David Shankbone",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "hip-hop-m18",
+   "tier": 4,
+   "q": "Name this rapper of \"Mama Said Knock You Out\" who later starred in NCIS: Los Angeles",
+   "a": "Who is LL Cool J?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/LL_Cool_J_in_2017.jpg/500px-LL_Cool_J_in_2017.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LL_Cool_J_in_2017.jpg",
+    "credit": "U.S. State Department",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "hip-hop-m19",
+   "tier": 5,
+   "q": "Name this Jamaican-born Bronx DJ, credited with inventing hip-hop's breakbeat at a 1973 party",
+   "a": "Who is DJ Kool Herc?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Herc_on_the_Wheels_of_Steel_%28cropped%29.JPG/960px-Herc_on_the_Wheels_of_Steel_%28cropped%29.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Herc_on_the_Wheels_of_Steel_(cropped).JPG",
+    "credit": "Bigtimepeace",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "hip-hop-m20",
+   "tier": 5,
+   "q": "Hip-hop is said to have been born in 1973 at a party in this apartment building. In which NYC borough is it?",
+   "a": "What is the Bronx?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/1520Sedgwick_Avenue.jpg/960px-1520Sedgwick_Avenue.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1520Sedgwick_Avenue.jpg",
+    "credit": "Stephanie Morillo",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "hip-hop-m21",
+   "tier": 5,
+   "q": "Name this DJ pioneer whose Furious Five recorded 1982's \"The Message\"",
+   "a": "Who is Grandmaster Flash?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grandmaster_Flash_-_James_Lavelle%27s_Meltdown_Festival_2014_%28cropped%29.jpg/960px-Grandmaster_Flash_-_James_Lavelle%27s_Meltdown_Festival_2014_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grandmaster_Flash_-_James_Lavelle%27s_Meltdown_Festival_2014_(cropped).jpg",
+    "credit": "Victor Frankowski / Southbank Centre",
+    "license": "CC BY 2.0"
+   }
   }
  ]
 }

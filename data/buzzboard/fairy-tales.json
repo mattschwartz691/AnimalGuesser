@@ -303,6 +303,266 @@
    "q": "In the Grimm tale 'The Fisherman and His Wife', the fisherman catches this enchanted wish-granting fish",
    "a": "What is a flounder?",
    "tier": 5
+  },
+  {
+   "id": "fairy-tales-m01",
+   "tier": 1,
+   "q": "Arthur Rackham illustrated this tale of a girl in a red cloak, a hungry wolf and a grandmother. Which fairy tale is it?",
+   "a": "What is Little Red Riding Hood?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Rackham_Little_Red_Riding_Hood.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arthur_Rackham_Little_Red_Riding_Hood.jpg",
+    "credit": "Arthur Rackham",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m02",
+   "tier": 1,
+   "q": "L. Leslie Brooke drew this mother sow sending her children out into the world. Which tale is it?",
+   "a": "What is The Three Little Pigs?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg/960px-Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg",
+    "credit": "Leonard Leslie Brooke (1862-1940)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m03",
+   "tier": 1,
+   "q": "This illustration shows two children lost in the woods at a candy cottage. Which Grimm tale is it?",
+   "a": "What is Hansel and Gretel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hansel-and-gretel-rackham.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hansel-and-gretel-rackham.jpg",
+    "credit": "Arthur Rackham",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m04",
+   "tier": 1,
+   "q": "Otto Kubel drew this mistreated girl being helped by birds to sort lentils from the ashes. Which fairy tale is it?",
+   "a": "What is Cinderella?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cendrillon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cendrillon.jpg",
+    "credit": "Otto Kubel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m05",
+   "tier": 2,
+   "q": "This illustration shows a clever cat in fancy footwear who wins his master a fortune. Which fairy tale is it?",
+   "a": "What is Puss in Boots?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Offterdinger_Der_gestiefelte_Kater_%281%29.jpg/960px-Offterdinger_Der_gestiefelte_Kater_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Offterdinger_Der_gestiefelte_Kater_(1).jpg",
+    "credit": "Carl Offterdinger",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m06",
+   "tier": 2,
+   "q": "This illustration shows a girl among seven dwarfs. Which fairy tale is it?",
+   "a": "What is Snow White?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Snow_White_and_the_Seven_Dwarfs_2.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Snow_White_and_the_Seven_Dwarfs_2.png",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m07",
+   "tier": 2,
+   "q": "Arthur Rackham illustrated this Aesop race between a slow animal and a fast one. Name the fable",
+   "a": "What is The Tortoise and the Hare?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tortoise_and_hare_rackham.jpg/960px-Tortoise_and_hare_rackham.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tortoise_and_hare_rackham.jpg",
+    "credit": "Arthur Rackham",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m08",
+   "tier": 2,
+   "q": "This illustration shows a girl in a tower letting down her very long hair. Which tale is it?",
+   "a": "What is Rapunzel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rapunzel-Paul-Hey.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rapunzel-Paul-Hey.jpg",
+    "credit": "Paul Hey",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m09",
+   "tier": 3,
+   "q": "This illustration shows a little man who spins straw into gold. Which Grimm tale is it?",
+   "a": "What is Rumpelstiltskin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Rumpelstiltskin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rumpelstiltskin.jpg",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m10",
+   "tier": 3,
+   "q": "Edmund Dulac drew this royal young woman who can't sleep on a tall stack of mattresses. Which tale is it?",
+   "a": "What is The Princess and the Pea?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Edmund_Dulac_-_Princess_and_pea.jpg/960px-Edmund_Dulac_-_Princess_and_pea.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edmund_Dulac_-_Princess_and_pea.jpg",
+    "credit": "Edmund Dulac",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m11",
+   "tier": 3,
+   "q": "This statue shows a donkey, dog, cat and rooster stacked up. Which Grimm tale is it?",
+   "a": "What is the Town Musicians of Bremen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bremen.band.500pix.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bremen.band.500pix.jpg",
+    "credit": "Adrian Pingstone",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m12",
+   "tier": 3,
+   "q": "This illustration shows a prince finding a princess asleep for a hundred years. Which tale is it?",
+   "a": "What is Sleeping Beauty?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/A_Child%27s_Book_of_Stories_The_Sleeping_Beauty.jpg/960px-A_Child%27s_Book_of_Stories_The_Sleeping_Beauty.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Child%27s_Book_of_Stories_The_Sleeping_Beauty.jpg",
+    "credit": "Jessie Willcox Smith",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m13",
+   "tier": 4,
+   "q": "This illustration shows a wife with a forbidden key. Which Charles Perrault tale is it?",
+   "a": "What is Bluebeard?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blue_Beard_in_Tales_of_Mother_Goose_%28Welsh%29.png/960px-Blue_Beard_in_Tales_of_Mother_Goose_%28Welsh%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_Beard_in_Tales_of_Mother_Goose_(Welsh).png",
+    "credit": "D J Munro, after Gustave Doré",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m14",
+   "tier": 4,
+   "q": "This illustration shows an icy ruler in a sleigh and a boy named Kai. Which Hans Christian Andersen tale is it?",
+   "a": "What is The Snow Queen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rudolf_Koivu_-_Lumikuningatar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rudolf_Koivu_-_Lumikuningatar.jpg",
+    "credit": "Rudolf Koivu",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m15",
+   "tier": 4,
+   "q": "This Aesop fable shows a fox calling the fruit he can't reach sour. Name the fable",
+   "a": "What is The Fox and the Grapes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chauveau_-_Fables_de_La_Fontaine_-_03-11.png/960px-Chauveau_-_Fables_de_La_Fontaine_-_03-11.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Chauveau_-_Fables_de_La_Fontaine_-_03-11.png",
+    "credit": "François Chauveau",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m16",
+   "tier": 4,
+   "q": "Walter Crane drew this princess at a fountain meeting an amphibian who fetches her golden ball. Which tale is it?",
+   "a": "What is The Frog Prince?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Princess_Meets_The_Frog_By_The_Fountain_-_Illustration_For_The_Frog_Prince_by_Walter_Crane_-_Walter_Crane_-_ABDAG003354.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Princess_Meets_The_Frog_By_The_Fountain_-_Illustration_For_The_Frog_Prince_by_Walter_Crane_-_Walter_Crane_-_ABDAG003354.jpg",
+    "credit": "Walter Crane",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m17",
+   "tier": 5,
+   "q": "This illustration shows royal sisters who secretly wear out their shoes at a ball every night. Which Grimm tale is it?",
+   "a": "What is The Twelve Dancing Princesses?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Elenore_Abbott_-_The_Shoes_that_Were_Danced_to_Pieces_-_1920.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elenore_Abbott_-_The_Shoes_that_Were_Danced_to_Pieces_-_1920.jpg",
+    "credit": "Elenore Abbott - (1875 – 1935)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m18",
+   "tier": 5,
+   "q": "This illustration shows a princess forced to tend geese after a servant takes her place. Which tale is it?",
+   "a": "What is The Goose Girl?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Heinrich_Vogeler_-_Illustration_Die_G%C3%A4nsemagd.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Heinrich_Vogeler_-_Illustration_Die_G%C3%A4nsemagd.jpg",
+    "credit": "Heinrich Vogeler",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m19",
+   "tier": 5,
+   "q": "This illustration shows a one-legged toy sailing a paper boat into a gutter drain. Which Andersen tale is it?",
+   "a": "What is The Steadfast Tin Soldier?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Yellow_Fairy_Book_%281894%29_-_p.310.png/960px-The_Yellow_Fairy_Book_%281894%29_-_p.310.png",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Yellow_Fairy_Book_(1894)_-_p.310.png",
+    "credit": "Henry Justice Ford",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "fairy-tales-m20",
+   "tier": 5,
+   "q": "This painting shows a runaway slave pulling a thorn from a big cat's paw. Which fable is it?",
+   "a": "What is Androcles and the Lion?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Briton_Riviere_-_Androcles_and_the_Lion_-_1915-3_-_Auckland_Art_Gallery.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Briton_Riviere_-_Androcles_and_the_Lion_-_1915-3_-_Auckland_Art_Gallery.jpg",
+    "credit": "Briton Rivière",
+    "license": "Public domain"
+   }
   }
  ]
 }

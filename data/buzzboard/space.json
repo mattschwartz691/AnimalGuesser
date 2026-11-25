@@ -303,6 +303,305 @@
    "q": "Set at 100 kilometers above sea level, this imaginary boundary is often used to mark where outer space begins",
    "a": "What is the Karman line?",
    "tier": 5
+  },
+  {
+   "id": "space-m01",
+   "tier": 1,
+   "q": "Name this ringed planet, the sixth from the Sun",
+   "a": "What is Saturn?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+    "credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m02",
+   "tier": 1,
+   "q": "Name this largest planet in our solar system",
+   "a": "What is Jupiter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/960px-Jupiter_OPAL_2024.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+    "credit": "NASA/STSCI (S.T.A.R.S)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m03",
+   "tier": 1,
+   "q": "Name this 'Red Planet'",
+   "a": "What is Mars?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+    "credit": "Kevin Gill from Los Angeles, CA, United States",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "space-m04",
+   "tier": 1,
+   "q": "Listen: who spoke these famous words in July 1969?",
+   "a": "Who is Neil Armstrong?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Neil_Armstrong_small_step.wav/Neil_Armstrong_small_step.wav.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Neil_Armstrong_small_step.wav",
+    "credit": "Neil Armstrong/NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m05",
+   "tier": 2,
+   "q": "Name this orbiting laboratory, home to astronauts since 2000",
+   "a": "What is the International Space Station?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/960px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m06",
+   "tier": 2,
+   "q": "Name this orbiting observatory, launched in 1990",
+   "a": "What is the Hubble Space Telescope?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/960px-Hubble_2009_close-up_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m07",
+   "tier": 2,
+   "q": "Name this nearest large spiral neighbor of the Milky Way",
+   "a": "What is the Andromeda Galaxy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M31-Andromede-16-09-2023-Hamois.jpg/960px-M31-Andromede-16-09-2023-Hamois.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M31-Andromede-16-09-2023-Hamois.jpg",
+    "credit": "Lviatour",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "space-m08",
+   "tier": 2,
+   "q": "Name this Moon rocket that launched the Apollo missions",
+   "a": "What is the Saturn V?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg/960px-Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m09",
+   "tier": 2,
+   "q": "Name this 1969 mission, the first to land people on the Moon, during which this photo was taken",
+   "a": "What is Apollo 11?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/960px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg",
+    "credit": "Neil A. Armstrong",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m10",
+   "tier": 3,
+   "q": "Name this famous Hubble image of towering columns of gas and dust in the Eagle Nebula",
+   "a": "What are the Pillars of Creation?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eagle_nebula_pillars.jpg/960px-Eagle_nebula_pillars.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eagle_nebula_pillars.jpg",
+    "credit": "Credit: NASA, Jeff Hester, and Paul Scowen (Arizona State University)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m11",
+   "tier": 3,
+   "q": "Name this dwarf planet, photographed up close by New Horizons in 2015",
+   "a": "What is Pluto?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png",
+    "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m12",
+   "tier": 3,
+   "q": "Listen: these beeps came from the first artificial satellite, launched in 1957. Name it.",
+   "a": "What is Sputnik 1?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/Sputnik_beep.ogg/Sputnik_beep.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Sputnik_beep.ogg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m13",
+   "tier": 3,
+   "q": "Name this famous photo of our planet taken from lunar orbit on Christmas Eve 1968",
+   "a": "What is Earthrise?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/960px-NASA-Apollo8-Dec24-Earthrise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg",
+    "credit": "NASA/Bill Anders",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m14",
+   "tier": 3,
+   "q": "Watch: name this giant SpaceX rocket, the most powerful ever flown",
+   "a": "What is Starship?",
+   "media": {
+    "type": "video",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Starship_IFT-3_Liftoff.webm/Starship_IFT-3_Liftoff.webm.480p.vp9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Starship_IFT-3_Liftoff.webm",
+    "credit": "jackyuan08",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "space-m15",
+   "tier": 4,
+   "q": "Name this tallest volcano in the solar system, on Mars",
+   "a": "What is Olympus Mons?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png/960px-Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png",
+    "credit": "ESA/DLR/FUBerlin/AndreaLuck",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "space-m16",
+   "tier": 4,
+   "q": "Name this dark cloud of dust and gas in Orion, shaped like a chess knight",
+   "a": "What is the Horsehead Nebula?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg/960px-Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg",
+    "credit": "ESO",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "space-m17",
+   "tier": 4,
+   "q": "Name this icy moon of Jupiter with a cracked surface over a hidden ocean",
+   "a": "What is Europa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Europa_-_Perijove_45_%28cropped%29.png/960px-Europa_-_Perijove_45_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Europa_-_Perijove_45_(cropped).png",
+    "credit": "NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "space-m18",
+   "tier": 4,
+   "q": "Name this volcanic moon of Jupiter, the most volcanically active body in the solar system",
+   "a": "What is Io?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Io_highest_resolution_natural_color.png/960px-Io_highest_resolution_natural_color.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Io_highest_resolution_natural_color.png",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m19",
+   "tier": 4,
+   "q": "Name this first person to travel into space, in 1961",
+   "a": "Who is Yuri Gagarin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg/960px-Yuri_Gagarin_with_awards_%28cropped%29_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_with_awards_(cropped)_2.jpg",
+    "credit": "Александр Моклецов / СовИнформБюро",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "space-m20",
+   "tier": 5,
+   "q": "Name this edge-on spiral with a bright bulge and dark dust lane, named for a hat",
+   "a": "What is the Sombrero Galaxy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sombrero_Galaxy_%28heic2506a%29.jpg/960px-Sombrero_Galaxy_%28heic2506a%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sombrero_Galaxy_(heic2506a).jpg",
+    "credit": "ESA/Hubble & NASA, K. Noll",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "space-m21",
+   "tier": 5,
+   "q": "Name this moon of Saturn with a giant crater that makes it look like the Death Star",
+   "a": "What is Mimas?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mimas_Masked.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mimas_Masked.jpg",
+    "credit": "NASA / JPL / Space Science Institute",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m22",
+   "tier": 5,
+   "q": "Name this larger, potato-shaped moon of Mars",
+   "a": "What is Phobos?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Phobos_colour_2008.jpg/960px-Phobos_colour_2008.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg",
+    "credit": "NASA / JPL-Caltech / University of Arizona",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "space-m23",
+   "tier": 5,
+   "q": "Name this Kuiper Belt object, the most distant object ever visited by a spacecraft (in 2019)",
+   "a": "What is Arrokoth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Reworked_composite_image_of_Arrokoth.png/960px-Reworked_composite_image_of_Arrokoth.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Reworked_composite_image_of_Arrokoth.png",
+    "credit": "NASA/JHUAPL/SwRI/Roman Tkachenko",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -303,6 +303,266 @@
    "q": "Shang kings ruled from this capital site near modern Anyang, where thousands of oracle bones were excavated",
    "a": "What is Yinxu?",
    "tier": 5
+  },
+  {
+   "id": "ancient-china-m01",
+   "tier": 1,
+   "q": "Name this defensive barrier, stretching thousands of miles across the north of the country",
+   "a": "What is the Great Wall?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1280px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "credit": "Severin.stalder",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m02",
+   "tier": 1,
+   "q": "Name these thousands of clay soldiers buried with the first emperor",
+   "a": "What is the Terracotta Army?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "ancient-china-m03",
+   "tier": 1,
+   "q": "Name this bead-and-rod counting device, called a suanpan",
+   "a": "What is an abacus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_6.png/120px-Abacus_6.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Abacus_6.png",
+    "credit": "Encyclopædia Britannica",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m04",
+   "tier": 1,
+   "q": "This Han tomb fresco shows which philosopher, whose sayings fill the Analects?",
+   "a": "Who is Confucius?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg/330px-Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
+    "credit": "Anonymous Chinese painter of the Western Han period",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m05",
+   "tier": 2,
+   "q": "This ruler unified China in 221 BC and called himself the First Emperor. Name him",
+   "a": "Who is Qin Shi Huang?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/QinShiHuang19century.jpg/1280px-QinShiHuang19century.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:QinShiHuang19century.jpg",
+    "credit": "Unknown (18??–18??)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m06",
+   "tier": 2,
+   "q": "Shang kings carved questions on ox shoulder blades and turtle shells to tell the future. What are these called?",
+   "a": "What are oracle bones?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Orakelknochen.JPG/500px-Orakelknochen.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Orakelknochen.JPG",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m07",
+   "tier": 2,
+   "q": "This model of a lodestone spoon on a bronze plate shows an early form of what invention?",
+   "a": "What is the compass?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Model_Si_Nan_of_Han_Dynasty.jpg/500px-Model_Si_Nan_of_Han_Dynasty.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Model_Si_Nan_of_Han_Dynasty.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m08",
+   "tier": 2,
+   "q": "This bamboo-slip book is a classic military treatise attributed to Sun Tzu. Name it",
+   "a": "What is The Art of War?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bamboo_book_-_unfolded_-_UCR.jpg/1280px-Bamboo_book_-_unfolded_-_UCR.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bamboo_book_-_unfolded_-_UCR.jpg",
+    "credit": "vlasta2, bluefootedbooby on flickr.com",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "ancient-china-m09",
+   "tier": 3,
+   "q": "This painting shows which Daoist sage riding an ox out of China?",
+   "a": "Who is Laozi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/500px-Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+    "credit": "Zhang Lu",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m10",
+   "tier": 3,
+   "q": "This replica earthquake detector was invented by which Han-dynasty scientist?",
+   "a": "Who is Zhang Heng?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/EastHanSeismograph.JPG/330px-EastHanSeismograph.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:EastHanSeismograph.JPG",
+    "credit": "en:user: Kowloonese",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m11",
+   "tier": 3,
+   "q": "Name this 3rd-century BC irrigation system in Sichuan, still in use today",
+   "a": "What is Dujiangyan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dujiang_Weir.jpg",
+    "credit": "星星",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-china-m12",
+   "tier": 3,
+   "q": "Han princes were buried in suits made of plates of what green stone?",
+   "a": "What is jade?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Xihan_Tomb_1_Jade_Burial_Suit.JPG/1280px-Xihan_Tomb_1_Jade_Burial_Suit.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Xihan_Tomb_1_Jade_Burial_Suit.JPG",
+    "credit": "Zcm11",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m13",
+   "tier": 4,
+   "q": "Name this type of three-legged bronze ritual cauldron from the Shang dynasty",
+   "a": "What is a ding?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Liu_Ding.jpg/1280px-Liu_Ding.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liu_Ding.jpg",
+    "credit": "Mountain",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m14",
+   "tier": 4,
+   "q": "This gold-masked bronze head comes from which Bronze Age site in Sichuan?",
+   "a": "What is Sanxingdui?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gold_Mask_%28%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9%29.jpg/1280px-Gold_Mask_%28%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_Mask_(%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9).jpg",
+    "credit": "momo",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "ancient-china-m15",
+   "tier": 4,
+   "q": "Name this set of tuned bronze bells played in ancient court music",
+   "a": "What are bianzhong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bianzhong.jpg/1280px-Bianzhong.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bianzhong.jpg",
+    "credit": "The original uploader was Zzjgbc at Chinese Wikipedia.",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m16",
+   "tier": 4,
+   "q": "This Han bronze, with one hoof on a swallow, is known as the Flying Horse of where?",
+   "a": "What is Gansu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gansu_Museum_2007_257.jpg/1280px-Gansu_Museum_2007_257.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gansu_Museum_2007_257.jpg",
+    "credit": "G41rn8",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-china-m17",
+   "tier": 5,
+   "q": "This Han court official is traditionally credited with inventing paper. Name him",
+   "a": "Who is Cai Lun?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cai-lun.jpg/330px-Cai-lun.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cai-lun.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m18",
+   "tier": 5,
+   "q": "This Han ruler sent Zhang Qian west, opening the Silk Road. Name him",
+   "a": "Who is Emperor Wu?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg/500px-%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg",
+    "credit": "Wang Qi",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-china-m19",
+   "tier": 5,
+   "q": "Name this flat jade disc with a central hole, a ritual object since Neolithic times",
+   "a": "What is a bi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/B%C3%AC_%28bi4%29_%E7%92%A7_disc.jpg/1280px-B%C3%AC_%28bi4%29_%E7%92%A7_disc.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%AC_(bi4)_%E7%92%A7_disc.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-china-m20",
+   "tier": 5,
+   "q": "This silk funeral banner was found in the Han tomb of Lady Dai at which site?",
+   "a": "What is Mawangdui?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mawangdui_silk_banner_from_tomb_no1.jpg/500px-Mawangdui_silk_banner_from_tomb_no1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg",
+    "credit": "anonymous",
+    "license": "Public domain"
+   }
   }
  ]
 }

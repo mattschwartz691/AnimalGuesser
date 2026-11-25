@@ -303,6 +303,266 @@
    "q": "In Philip Pullman's 'Northern Lights,' this Oxford girl reads the truth-telling alethiometer with her daemon Pantalaimon",
    "a": "Who is Lyra Belacqua?",
    "tier": 5
+  },
+  {
+   "id": "literary-characters-m01",
+   "tier": 1,
+   "q": "Sidney Paget drew Dr. Watson on a train with which detective, the one in the deerstalker cap?",
+   "a": "Who is Sherlock Holmes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_Adventure_of_Silver_Blaze_01.jpg/960px-The_Adventure_of_Silver_Blaze_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Adventure_of_Silver_Blaze_01.jpg",
+    "credit": "Sidney Paget (1860-1908)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m02",
+   "tier": 1,
+   "q": "John Tenniel drew this grinning cat from 'Alice's Adventures in Wonderland'. Who is it?",
+   "a": "Who is the Cheshire Cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tennel_Cheshire_proof.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Tennel_Cheshire_proof.png",
+    "credit": "John Tenniel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m03",
+   "tier": 1,
+   "q": "Boris Karloff played this creature, built by a young scientist in Mary Shelley's novel, in 1930s films. Who is he?",
+   "a": "Who is Frankenstein's monster?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frankenstein%27s_monster_(Boris_Karloff).jpg",
+    "credit": "Universal Studios, NBCUniversal",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m04",
+   "tier": 1,
+   "q": "Enrico Mazzanti drew this 1883 wooden puppet whose nose grows when he lies. Who is he?",
+   "a": "Who is Pinocchio?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pinocchio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pinocchio.jpg",
+    "credit": "Enrico Mazzanti (1852-1910)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m05",
+   "tier": 2,
+   "q": "John Tenniel drew this tea-party host in a tall hat from Lewis Carroll's Wonderland. Who is he?",
+   "a": "Who is the Mad Hatter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/960px-MadlHatterByTenniel.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:MadlHatterByTenniel.svg",
+    "credit": "John Tenniel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m06",
+   "tier": 2,
+   "q": "W. W. Denslow drew this metal man who wants a heart, from L. Frank Baum's 1900 book about Oz. Who is he?",
+   "a": "Who is the Tin Woodman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tin_Woodman.png/960px-Tin_Woodman.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Tin_Woodman.png",
+    "credit": "William Wallace Denslow",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m07",
+   "tier": 2,
+   "q": "This woodcut from an early printed ballad shows which outlaw archer of Sherwood Forest?",
+   "a": "Who is Robin Hood?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Robin_Hood_on_a_Horse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Robin_Hood_on_a_Horse.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m08",
+   "tier": 2,
+   "q": "This bronze statue in London's Kensington Gardens shows which J. M. Barrie boy who never grew up?",
+   "a": "Who is Peter Pan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peter_Pan_monument.jpg/960px-Peter_Pan_monument.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peter_Pan_monument.jpg",
+    "credit": "Peter Clarke",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "literary-characters-m09",
+   "tier": 3,
+   "q": "George Cruikshank drew this Dickens villain, leader of a gang of boy pickpockets, in his prison cell. Who is he?",
+   "a": "Who is Fagin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cruikshank_-_Fagin_in_the_condemned_Cell_%28Oliver_Twist%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Cruikshank_-_Fagin_in_the_condemned_Cell_(Oliver_Twist).png",
+    "credit": "Unknown",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m10",
+   "tier": 3,
+   "q": "This 1887 trick photo shows Richard Mansfield as which split-personality Stevenson character?",
+   "a": "Who is Dr. Jekyll and Mr. Hyde?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jekyll-mansfield.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jekyll-mansfield.jpg",
+    "credit": "Photo by Henry Van der Weyde (1838-1924; London, England)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m11",
+   "tier": 3,
+   "q": "Bela Lugosi played this Transylvanian count from Bram Stoker's novel. Who is he?",
+   "a": "Who is Dracula?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bela_Lugosi_as_Dracula.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bela_Lugosi_as_Dracula.jpg",
+    "credit": "Screenshot from \"Internet Archive\" of the movie Dracula (1931)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m12",
+   "tier": 3,
+   "q": "John Tenniel drew this egg-shaped character sitting on a wall in 'Through the Looking-Glass'. Who is he?",
+   "a": "Who is Humpty Dumpty?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Humpty_Dumpty_Tenniel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Humpty_Dumpty_Tenniel.jpg",
+    "credit": "John Tenniel",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m13",
+   "tier": 4,
+   "q": "Adolf Schrödter painted this fat, merry knight and his page from Shakespeare's 'Henry IV'. Who is he?",
+   "a": "Who is Falstaff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Adolf_Schr%C3%B6dter_Falstaff_und_sein_Page.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolf_Schr%C3%B6dter_Falstaff_und_sein_Page.jpg",
+    "credit": "Adolf Schrödter",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m14",
+   "tier": 4,
+   "q": "Luc-Olivier Merson drew this hunchbacked bell-ringer from a Victor Hugo novel. Who is he?",
+   "a": "Who is Quasimodo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Quasimodo_%28Livre_I%2C_Chapitre_V%29%2C_2019.3.1.jpg/960px-Quasimodo_%28Livre_I%2C_Chapitre_V%29%2C_2019.3.1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Quasimodo_(Livre_I,_Chapitre_V),_2019.3.1.jpg",
+    "credit": "Luc-Olivier Merson",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "literary-characters-m15",
+   "tier": 4,
+   "q": "John Quidor painted this Washington Irving schoolteacher fleeing a headless rider. Who is he?",
+   "a": "Who is Ichabod Crane?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Quidor_-_The_Headless_Horseman_Pursuing_Ichabod_Crane_-_Google_Art_Project.jpg/960px-John_Quidor_-_The_Headless_Horseman_Pursuing_Ichabod_Crane_-_Google_Art_Project.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Quidor_-_The_Headless_Horseman_Pursuing_Ichabod_Crane_-_Google_Art_Project.jpg",
+    "credit": "John Quidor",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m16",
+   "tier": 4,
+   "q": "John Singer Sargent painted Ellen Terry as which ambitious Shakespeare queen?",
+   "a": "Who is Lady Macbeth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ellen_Terry_as_Lady_Macbeth.jpg/960px-Ellen_Terry_as_Lady_Macbeth.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ellen_Terry_as_Lady_Macbeth.jpg",
+    "credit": "John Singer Sargent",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m17",
+   "tier": 5,
+   "q": "Fred Barnard drew this 'umble' clerk and villain of 'David Copperfield'. Who is he?",
+   "a": "Who is Uriah Heep?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fred_Barnard07.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fred_Barnard07.jpg",
+    "credit": "Fred Barnard",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m18",
+   "tier": 5,
+   "q": "'Kyd' painted this jolly, bespectacled founder of a club in Dickens's first novel. Who is he?",
+   "a": "Who is Samuel Pickwick?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pickwick_by_Kyd_1889.jpg/960px-Pickwick_by_Kyd_1889.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pickwick_by_Kyd_1889.jpg",
+    "credit": "Joseph Clayton Clarke (1857-1937)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m19",
+   "tier": 5,
+   "q": "'Kyd' painted this brutal housebreaker, Nancy's partner in Dickens's 'Oliver Twist'. Who is he?",
+   "a": "Who is Bill Sikes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bill_Sikes_1889_Dickens_Oliver_Twist_character_by_Kyd_%28Joseph_Clayton_Clarke%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Sikes_1889_Dickens_Oliver_Twist_character_by_Kyd_(Joseph_Clayton_Clarke).jpg",
+    "credit": "Kyd (Joseph Clayton Clarke)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "literary-characters-m20",
+   "tier": 5,
+   "q": "John Quidor painted this Washington Irving villager who slept for twenty years in the Catskills. Who is he?",
+   "a": "Who is Rip Van Winkle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Depiction_of_Rip_Van_Winkle_by_John_Quidor_%281829%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Depiction_of_Rip_Van_Winkle_by_John_Quidor_(1829).jpg",
+    "credit": "John Quidor",
+    "license": "Public domain"
+   }
   }
  ]
 }

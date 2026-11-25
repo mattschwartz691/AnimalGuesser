@@ -303,6 +303,266 @@
    "q": "This 18th Dynasty pharaoh, stepson of Hatshepsut, led many military campaigns and won the Battle of Megiddo",
    "a": "Who is Thutmose III?",
    "tier": 5
+  },
+  {
+   "id": "ancient-egypt-m01",
+   "tier": 1,
+   "q": "Name this giant limestone statue with a lion's body and a human head",
+   "a": "What is the Great Sphinx of Giza?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1280px-Sphinx_with_the_third_pyramid.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg",
+    "credit": "Hesham Ebaid",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m02",
+   "tier": 1,
+   "q": "Name this site near Cairo, home to the Great Pyramid",
+   "a": "What is Giza?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/1280px-Pyramids_of_the_Giza_Necropolis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "credit": "KennyOMG",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m03",
+   "tier": 1,
+   "q": "This gold funerary mask belonged to which boy king?",
+   "a": "Who is Tutankhamun?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/1280px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+    "credit": "Roland Unger",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-egypt-m04",
+   "tier": 1,
+   "q": "Name this inscribed slab that helped scholars decipher hieroglyphs",
+   "a": "What is the Rosetta Stone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m05",
+   "tier": 2,
+   "q": "This famous painted bust in Berlin depicts which queen, wife of Akhenaten?",
+   "a": "Who is Nefertiti?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/1280px-Nofretete_Neues_Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum.jpg",
+    "credit": "Philip Pikart",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m06",
+   "tier": 2,
+   "q": "Name this rock-cut temple of Ramesses II, moved in the 1960s to escape a dam's lake",
+   "a": "What is Abu Simbel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Abu_Simbel_Temple_May_30_2007.jpg/1280px-Abu_Simbel_Temple_May_30_2007.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abu_Simbel_Temple_May_30_2007.jpg",
+    "credit": "Than217 at English Wikipedia",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-egypt-m07",
+   "tier": 2,
+   "q": "Name this protective symbol, the eye of a falcon-headed god",
+   "a": "What is the Eye of Horus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eye_of_Horus_bw.svg/1280px-Eye_of_Horus_bw.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Eye_of_Horus_bw.svg",
+    "credit": "Jeff Dahl",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m08",
+   "tier": 2,
+   "q": "Tutankhamun's tomb was found in 1922 in which royal burial ground near Luxor?",
+   "a": "What is the Valley of the Kings?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/500px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Luxor,_Tal_der_K%C3%B6nige_(1995,_860x605).jpg",
+    "credit": "Fotograf/Photographer: Peter J. Bubenik (1995)",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m09",
+   "tier": 3,
+   "q": "This step pyramid at Saqqara, the oldest Egyptian pyramid, was built for which pharaoh?",
+   "a": "Who is Djoser?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sakkara_01.jpg/1280px-Sakkara_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sakkara_01.jpg",
+    "credit": "Olaf Tausch",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m10",
+   "tier": 3,
+   "q": "This great hypostyle hall is part of which huge temple complex at Luxor?",
+   "a": "What is Karnak?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/1280px-Temple_de_Louxor_68.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+    "credit": "René Hourdry",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m11",
+   "tier": 3,
+   "q": "Name this hieroglyphic symbol meaning 'life'",
+   "a": "What is the ankh?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ankh_%28SVG%29_01.svg/1280px-Ankh_%28SVG%29_01.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankh_(SVG)_01.svg",
+    "credit": "Alexi Helligar",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m12",
+   "tier": 3,
+   "q": "This terraced mortuary temple at Deir el-Bahari was built for which female pharaoh?",
+   "a": "Who is Hatshepsut?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/1280px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m13",
+   "tier": 4,
+   "q": "Name this Dahshur monument whose sides change angle partway up",
+   "a": "What is the Bent Pyramid?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bent_Pyramid_%E6%9B%B2%E6%8A%98%E9%87%91%E5%AD%97%E5%A1%94_-_panoramio.jpg/1280px-Bent_Pyramid_%E6%9B%B2%E6%8A%98%E9%87%91%E5%AD%97%E5%A1%94_-_panoramio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_%E6%9B%B2%E6%8A%98%E9%87%91%E5%AD%97%E5%A1%94_-_panoramio.jpg",
+    "credit": "lienyuan lee",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m14",
+   "tier": 4,
+   "q": "This carved slate shows a king who may have unified Upper and Lower Egypt. Name him",
+   "a": "Who is Narmer?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/1280px-Narmer_Palette.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg",
+    "credit": "anonymous",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-egypt-m15",
+   "tier": 4,
+   "q": "Name these lidded vessels that held a mummy's organs",
+   "a": "What are canopic jars?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Canopic_jars_%28casts%29%2C_Egypt%2C_945-712_BC_-_National_Museum_of_Natural_History%2C_United_States_-_DSC00557.jpg/1280px-Canopic_jars_%28casts%29%2C_Egypt%2C_945-712_BC_-_National_Museum_of_Natural_History%2C_United_States_-_DSC00557.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canopic_jars_(casts),_Egypt,_945-712_BC_-_National_Museum_of_Natural_History,_United_States_-_DSC00557.jpg",
+    "credit": "Daderot",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-egypt-m16",
+   "tier": 4,
+   "q": "Name these two giant seated statues of Amenhotep III near Luxor",
+   "a": "What are the Colossi of Memnon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/1280px-Colossi_of_Memnon_May_2015_2.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG",
+    "credit": "MusikAnimal",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m17",
+   "tier": 5,
+   "q": "This elongated statue shows which 'heretic' pharaoh who worshipped the sun disk Aten?",
+   "a": "Who is Akhenaten?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GD-EG-Caire-Mus%C3%A9e061.JPG/960px-GD-EG-Caire-Mus%C3%A9e061.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Mus%C3%A9e061.JPG",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "ancient-egypt-m18",
+   "tier": 5,
+   "q": "This weighing-of-the-heart scene from the Papyrus of Hunefer comes from what funerary text?",
+   "a": "What is the Book of the Dead?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/960px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+    "credit": "Hunefer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ancient-egypt-m19",
+   "tier": 5,
+   "q": "This temple of Isis was moved to Agilkia island. Name its original island",
+   "a": "What is Philae?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg/1280px-1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ancient-egypt-m20",
+   "tier": 5,
+   "q": "This zodiac relief, now in the Louvre, comes from a temple of Hathor at which site?",
+   "a": "What is Dendera?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_%3B_E_13482.jpg/1280px-Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_%3B_E_13482.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_%3B_E_13482.jpg",
+    "credit": "Shonagon",
+    "license": "CC0"
+   }
   }
  ]
 }

@@ -602,6 +602,266 @@
    "q": "Signed September 3, 1783, this treaty officially ended the War of American Independence",
    "a": "What is the Treaty of Paris?",
    "tier": 5
+  },
+  {
+   "id": "us-history-m01",
+   "tier": 1,
+   "q": "What event does this famous 1851 painting by Emanuel Leutze depict?",
+   "a": "What is Washington Crossing the Delaware?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg/960px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg",
+    "credit": "Emanuel Leutze",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m02",
+   "tier": 1,
+   "q": "Name this copper monument, a gift from France, dedicated in New York Harbor in 1886",
+   "a": "What is the Statue of Liberty?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "credit": "AskALotl",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "us-history-m03",
+   "tier": 1,
+   "q": "Name this South Dakota mountain carving of four presidents, finished in 1941",
+   "a": "What is Mount Rushmore?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/960px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+    "credit": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "us-history-m04",
+   "tier": 1,
+   "q": "This photo of an astronaut on the Moon was taken during which 1969 NASA mission?",
+   "a": "What is Apollo 11?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/960px-Aldrin_Apollo_11_original.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg",
+    "credit": "Neil Armstrong",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m05",
+   "tier": 2,
+   "q": "This John Trumbull painting shows the presentation of which 1776 document to Congress?",
+   "a": "What is the Declaration of Independence?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/960px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg",
+    "credit": "John Trumbull",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m06",
+   "tier": 2,
+   "q": "Name this 1963 rally on the National Mall where Martin Luther King Jr. said 'I have a dream'",
+   "a": "What is the March on Washington?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Civil_rights_march_on_Washington%2C_D.C._from_Lincoln_%28cropped%29.jpg/960px-Civil_rights_march_on_Washington%2C_D.C._from_Lincoln_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Civil_rights_march_on_Washington,_D.C._from_Lincoln_(cropped).jpg",
+    "credit": "Rowland Scherman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m07",
+   "tier": 2,
+   "q": "Who is this civil rights activist, whose 1955 arrest sparked the Montgomery bus boycott?",
+   "a": "Who is Rosa Parks?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/960px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosa_Parks,_November_1956_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m08",
+   "tier": 2,
+   "q": "Name this cracked Philadelphia landmark, a symbol of American independence",
+   "a": "What is the Liberty Bell?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liberty_Bell_2017a.jpg/960px-Liberty_Bell_2017a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liberty_Bell_2017a.jpg",
+    "credit": "William Zhang",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "us-history-m09",
+   "tier": 3,
+   "q": "This 1846 lithograph shows colonists dumping tea into a harbor in 1773. What was this protest called?",
+   "a": "What is the Boston Tea Party?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/960px-Boston_Tea_Party_w.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_w.jpg",
+    "credit": "Original uploader was Cornischong at lb.wikipedia",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m10",
+   "tier": 3,
+   "q": "Joe Rosenthal's 1945 photo shows Marines raising a flag on which Pacific island?",
+   "a": "What is Iwo Jima?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/960px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg",
+    "credit": "Joe Rosenthal",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m11",
+   "tier": 3,
+   "q": "This 1754 snake cartoon urging the colonies to unite was drawn by which Founding Father?",
+   "a": "Who is Benjamin Franklin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg/960px-Benjamin_Franklin_-_Join_or_Die.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Franklin_-_Join_or_Die.jpg",
+    "credit": "Benjamin Franklin",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m12",
+   "tier": 3,
+   "q": "Howard Chandler Christy's painting shows the 1787 signing of what founding document?",
+   "a": "What is the United States Constitution?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/960px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg",
+    "credit": "Howard Chandler Christy",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m13",
+   "tier": 4,
+   "q": "Dorothea Lange's 1936 'Migrant Mother' photo became an icon of which economic crisis?",
+   "a": "What is the Great Depression?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/960px-Lange-MigrantMother02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+    "credit": "Dorothea Lange",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m14",
+   "tier": 4,
+   "q": "This Trumbull painting shows the 1781 British surrender in Virginia. Where did it take place?",
+   "a": "What is Yorktown?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/960px-Surrender_of_Lord_Cornwallis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg",
+    "credit": "John Trumbull",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m15",
+   "tier": 4,
+   "q": "This 1869 photo at Promontory Summit, Utah celebrates the completion of what?",
+   "a": "What is the First Transcontinental Railroad?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/960px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg",
+    "credit": "Andrew J. Russell / Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m16",
+   "tier": 4,
+   "q": "John Gast's 1872 painting 'American Progress' symbolizes which belief in westward expansion?",
+   "a": "What is Manifest Destiny?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/American_Progress_%28John_Gast_painting%29.jpg/960px-American_Progress_%28John_Gast_painting%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Progress_(John_Gast_painting).jpg",
+    "credit": "John Gast",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m17",
+   "tier": 5,
+   "q": "Benjamin West's unfinished painting shows the American delegates to which 1783 peace agreement with Britain?",
+   "a": "What is the Treaty of Paris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Treaty_of_Paris_by_Benjamin_West_1783.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Paris_by_Benjamin_West_1783.jpg",
+    "credit": "Benjamin West",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m18",
+   "tier": 5,
+   "q": "Who is this Shawnee leader who built a Native confederacy against US expansion and died in 1813?",
+   "a": "Who is Tecumseh?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tecumseh02_%28cropped%29.jpg/960px-Tecumseh02_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tecumseh02_(cropped).jpg",
+    "credit": "attributed to Owen Staples",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m19",
+   "tier": 5,
+   "q": "Who is this man whose 1857 Supreme Court case ruled that Black Americans could not be citizens?",
+   "a": "Who is Dred Scott?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dred_Scott_photograph_%28circa_1857%29.jpg/960px-Dred_Scott_photograph_%28circa_1857%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dred_Scott_photograph_(circa_1857).jpg",
+    "credit": "Uncredited",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "us-history-m20",
+   "tier": 5,
+   "q": "Archibald Willard's painting of three marching musicians with drums and a fife is known by what name?",
+   "a": "What is The Spirit of '76?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sprit_of_%2776.2.jpeg/960px-Sprit_of_%2776.2.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sprit_of_%2776.2.jpeg",
+    "credit": "Archibald Willard",
+    "license": "Public domain"
+   }
   }
  ]
 }

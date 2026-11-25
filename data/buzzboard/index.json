@@ -4,498 +4,498 @@
    "slug": "countries",
    "name": "Countries & Territories",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "us-history",
    "name": "US History",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "world-history",
    "name": "World History",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "literature",
    "name": "Literature",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "authors",
    "name": "Authors",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "animals",
    "name": "Animals",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 123,
+   "perTier": 24
   },
   {
    "slug": "myths",
    "name": "Roman/Greek/Norse/Egyptian Myths",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "movies",
    "name": "Movies",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 119,
+   "perTier": 23
   },
   {
    "slug": "actors",
    "name": "Actors",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 120,
+   "perTier": 24
   },
   {
    "slug": "word-meanings",
    "name": "Word Meanings",
    "group": "Your Picks",
-   "count": 1200,
-   "perTier": 240
+   "count": 1220,
+   "perTier": 244
   },
   {
    "slug": "birds",
    "name": "Birds",
    "group": "Your Picks",
-   "count": 100,
-   "perTier": 20
+   "count": 121,
+   "perTier": 24
   },
   {
    "slug": "animated-movies",
    "name": "Animated Movies",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 12
   },
   {
    "slug": "broadway",
    "name": "Broadway Musicals",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 13
   },
   {
    "slug": "cartoons-anime",
    "name": "Cartoons & Anime",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 69,
+   "perTier": 12
   },
   {
    "slug": "harry-potter",
    "name": "Harry Potter",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 13
   },
   {
    "slug": "hip-hop",
    "name": "Hip-Hop & Rap",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 13
   },
   {
    "slug": "memes",
    "name": "Memes",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 68,
+   "perTier": 12
   },
   {
    "slug": "pop-culture",
    "name": "Pop Culture",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 12
   },
   {
    "slug": "pop-music",
    "name": "Pop Music",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 13
   },
   {
    "slug": "star-wars",
    "name": "Star Wars",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "superheroes",
    "name": "Superheroes",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 73,
+   "perTier": 14
   },
   {
    "slug": "tv-shows",
    "name": "TV Shows",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 69,
+   "perTier": 13
   },
   {
    "slug": "video-games",
    "name": "Video Games",
    "group": "Entertainment",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 13
   },
   {
    "slug": "baseball",
    "name": "Baseball",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 73,
+   "perTier": 14
   },
   {
    "slug": "basketball",
    "name": "Basketball",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "football",
    "name": "Football",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "lacrosse",
    "name": "Lacrosse",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "soccer",
    "name": "Soccer",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "sports-lingo",
    "name": "Sports Rules & Lingo",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "tennis",
    "name": "Tennis",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "olympics",
    "name": "The Olympics",
    "group": "Sports",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "bugs",
    "name": "Bugs & Insects",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "cats",
    "name": "Cats",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "chemistry",
    "name": "Chemistry",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "dinosaurs",
    "name": "Dinosaurs",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "scientists",
    "name": "Famous Scientists",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "human-body",
    "name": "Human Body",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 13
   },
   {
    "slug": "invertebrates",
    "name": "Invertebrates",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "ocean-life",
    "name": "Ocean Life",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 72,
+   "perTier": 14
   },
   {
    "slug": "physics",
    "name": "Physics",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "plants",
    "name": "Plants",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "space",
    "name": "Space",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 73,
+   "perTier": 14
   },
   {
    "slug": "weather",
    "name": "Weather",
    "group": "Science",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "coding",
    "name": "Computers & Coding",
    "group": "Tech",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "tech",
    "name": "Gadgets & Tech Companies",
    "group": "Tech",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "internet",
    "name": "Internet & Social Media",
    "group": "Tech",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "inventions",
    "name": "Inventions",
    "group": "Tech",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "landmarks",
    "name": "Famous Landmarks",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "flags",
    "name": "Flags",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "islands",
    "name": "Islands",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "physical-geography",
    "name": "Mountains, Rivers & Deserts",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "us-states",
    "name": "US States",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "world-capitals",
    "name": "World Capitals",
    "group": "Geography",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "ancient-china",
    "name": "Ancient China",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "ancient-egypt",
    "name": "Ancient Egypt",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "ancient-greece-rome",
    "name": "Ancient Greece & Rome",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "explorers",
    "name": "Explorers",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "presidents",
    "name": "Presidents",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "wwii",
    "name": "World War II",
    "group": "History",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "board-games",
    "name": "Board & Card Games",
    "group": "Everyday Life",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "candy-snacks",
    "name": "Candy & Snacks",
    "group": "Everyday Life",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "world-food",
    "name": "Food Around the World",
    "group": "Everyday Life",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "holidays",
    "name": "Holidays & Celebrations",
    "group": "Everyday Life",
-   "count": 50,
-   "perTier": 10
+   "count": 71,
+   "perTier": 14
   },
   {
    "slug": "money",
    "name": "Money & Currency",
    "group": "Everyday Life",
-   "count": 50,
-   "perTier": 10
+   "count": 72,
+   "perTier": 14
   },
   {
    "slug": "architecture",
    "name": "Architecture",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "art",
    "name": "Art & Artists",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "fairy-tales",
    "name": "Fairy Tales & Fables",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "languages",
    "name": "Languages of the World",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "literary-characters",
    "name": "Literary Characters",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "instruments",
    "name": "Musical Instruments",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   },
   {
    "slug": "grammar",
    "name": "Spelling & Grammar",
    "group": "Arts & Language",
-   "count": 50,
-   "perTier": 10
+   "count": 70,
+   "perTier": 14
   }
  ]
 }

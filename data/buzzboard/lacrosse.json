@@ -303,6 +303,266 @@
    "q": "The indoor box version of the sport was developed in Canada during this decade",
    "a": "What is the 1930s?",
    "tier": 5
+  },
+  {
+   "id": "lacrosse-m01",
+   "tier": 1,
+   "q": "Name this piece of equipment, also called a crosse, used to catch, carry and throw the ball.",
+   "a": "What is a stick?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lacrosse_stick_8024.jpg/1280px-Lacrosse_stick_8024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lacrosse_stick_8024.jpg",
+    "credit": "Henning Schlottmann (User:H-stt)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m02",
+   "tier": 1,
+   "q": "Name the position of this player, who guards the net with an extra-wide stick and a chest protector.",
+   "a": "What is goalie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lacrosse_goalie_in_stance.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lacrosse_goalie_in_stance.jpg",
+    "credit": "DMighton",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "lacrosse-m03",
+   "tier": 1,
+   "q": "Name the play that starts each quarter, with the referee placing the ball between two crouching players' sticks.",
+   "a": "What is a faceoff?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Referee_placing_ball_between_middies_for_a_lacrosse_faceoff.jpg/1280px-Referee_placing_ball_between_middies_for_a_lacrosse_faceoff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Referee_placing_ball_between_middies_for_a_lacrosse_faceoff.jpg",
+    "credit": "Daniel X. O'Neil from USA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "lacrosse-m04",
+   "tier": 1,
+   "q": "Instead of the helmets men wear, these women's players protect their eyes with what equipment?",
+   "a": "What are goggles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UNC_Duke_WLAX_%28Apr_2024%29_06.jpg/1280px-UNC_Duke_WLAX_%28Apr_2024%29_06.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:UNC_Duke_WLAX_(Apr_2024)_06.jpg",
+    "credit": "Hameltion",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m05",
+   "tier": 2,
+   "q": "The sport's traditional Native nickname is also the name of this statue at USA Lacrosse headquarters. What is it?",
+   "a": "What is the Creator's Game?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Creators-game-statue-usa-lacrosse.jpg/1280px-Creators-game-statue-usa-lacrosse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Creators-game-statue-usa-lacrosse.jpg",
+    "credit": "Blogueusalacrosse",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m06",
+   "tier": 2,
+   "q": "This Six Nations arena in Ontario hosts which indoor version of the sport, played in hockey rinks?",
+   "a": "What is box lacrosse?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iroquois_Lacrosse_Arena_-_Six_Nations%2C_ON.jpg/1280px-Iroquois_Lacrosse_Arena_-_Six_Nations%2C_ON.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iroquois_Lacrosse_Arena_-_Six_Nations,_ON.jpg",
+    "credit": "JFVoll",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m07",
+   "tier": 2,
+   "q": "This NFL rushing great, shown on a 1959 card, was also a Syracuse lacrosse All-American and Hall of Famer. Name him.",
+   "a": "Who is Jim Brown?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jim_Brown_1959_Topps_cropped_and_recoloured.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jim_Brown_1959_Topps_cropped_and_recoloured.jpg",
+    "credit": "Topps",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m08",
+   "tier": 2,
+   "q": "Name this record-setting midfielder who co-founded the Premier Lacrosse League with his brother in 2018.",
+   "a": "Who is Paul Rabil?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Paul_Rabil_Interview.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Rabil_Interview.png",
+    "credit": "FanDuel",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "lacrosse-m09",
+   "tier": 3,
+   "q": "This flag, based on the Hiawatha Belt, represents which confederacy of nations that gave the world lacrosse?",
+   "a": "Who are the Haudenosaunee (Iroquois)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_Iroquois_Confederacy.svg/1280px-Flag_of_the_Iroquois_Confederacy.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Iroquois_Confederacy.svg",
+    "credit": "Rick Hill, Harold Johnson, and Tim Johnson",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m10",
+   "tier": 3,
+   "q": "This field is home to Johns Hopkins, one of college lacrosse's most storied programs. In which city is it?",
+   "a": "What is Baltimore?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HomewoodFIeld2008.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HomewoodFIeld2008.jpg",
+    "credit": "Frederic C. Chalfant",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "lacrosse-m11",
+   "tier": 3,
+   "q": "Name this Canadian 'Air' legend, shown at the 2006 world championship, famous for leaping from behind the goal to score.",
+   "a": "Who is Gary Gait?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gary_gait_crop_%28head%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gary_gait_crop_(head).jpg",
+    "credit": "JustLacrosse.com (on Flickr)",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "lacrosse-m12",
+   "tier": 3,
+   "q": "Which 1830s painter of Native American life created this scene, 'Ball-play of the Choctaw: Ball Up'?",
+   "a": "Who is George Catlin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/George_Catlin_-_Ball-play_of_the_Choctaw-ball_up_-_1985.66.428_-_Smithsonian_American_Art_Museum.jpg/1280px-George_Catlin_-_Ball-play_of_the_Choctaw-ball_up_-_1985.66.428_-_Smithsonian_American_Art_Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Catlin_-_Ball-play_of_the_Choctaw-ball_up_-_1985.66.428_-_Smithsonian_American_Art_Museum.jpg",
+    "credit": "George Catlin",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m13",
+   "tier": 4,
+   "q": "Which country's team, the Winnipeg Shamrocks shown here, won the 1904 Olympic gold in this sport?",
+   "a": "What is Canada?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/1904_Winnipeg_Shamrocks_Lacrosse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1904_Winnipeg_Shamrocks_Lacrosse.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m14",
+   "tier": 4,
+   "q": "Name this Boston College attacker, a two-time Tewaaraton Award winner (2021 and 2022).",
+   "a": "Who is Charlotte North?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Charlotte_North_WLL_Championship_Series_2026_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Charlotte_North_WLL_Championship_Series_2026_(cropped).jpg",
+    "credit": "Rh723",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m15",
+   "tier": 4,
+   "q": "Name this Cornell attackman who won the 2013 Tewaaraton Award as college lacrosse's top player.",
+   "a": "Who is Rob Pannell?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rob_Pannell_portrait_photo.png/1280px-Rob_Pannell_portrait_photo.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Rob_Pannell_portrait_photo.png",
+    "credit": "Laxblue",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "lacrosse-m16",
+   "tier": 4,
+   "q": "Traditional handmade sticks like this 1946 one are steamed and bent from which hardwood?",
+   "a": "What is hickory?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bob_Fetters_lacrosse_stick_1946.jpg/1280px-Bob_Fetters_lacrosse_stick_1946.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Fetters_lacrosse_stick_1946.jpg",
+    "credit": "Robert Fetters",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lacrosse-m17",
+   "tier": 5,
+   "q": "The sport made its last full-medal Olympic appearance in 1908, shown here. Which city hosted those Games?",
+   "a": "What is London?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/1908_Olympics_Lacrosse_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1908_Olympics_Lacrosse_1.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m18",
+   "tier": 5,
+   "q": "This lacrosse club, photographed in 1867, was from which city, where dentist George Beers wrote the modern rules?",
+   "a": "What is Montreal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Montreal_Lacrosse_Club_1867.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Montreal_Lacrosse_Club_1867.jpg",
+    "credit": "William Notman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m19",
+   "tier": 5,
+   "q": "Name this non-contact version of the sport played with an all-plastic stick and a soft ball.",
+   "a": "What is intercrosse?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Intercrosse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Intercrosse.jpg",
+    "credit": "Ni3m4nd",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "lacrosse-m20",
+   "tier": 5,
+   "q": "George Catlin's 'Ball-play' paintings show stickball played by which Southeastern Native nation?",
+   "a": "Who are the Choctaw?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/George_Catlin_-_Ball-play_of_the_Choctaw-Ball_Down_-_1985.66.429_-_Smithsonian_American_Art_Museum.jpg/1280px-George_Catlin_-_Ball-play_of_the_Choctaw-Ball_Down_-_1985.66.429_-_Smithsonian_American_Art_Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Catlin_-_Ball-play_of_the_Choctaw-Ball_Down_-_1985.66.429_-_Smithsonian_American_Art_Museum.jpg",
+    "credit": "George Catlin",
+    "license": "Public domain"
+   }
   }
  ]
 }

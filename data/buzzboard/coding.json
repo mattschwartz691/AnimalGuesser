@@ -303,6 +303,266 @@
    "q": "This computer scientist, who worked at Xerox PARC, is credited with creating cut, copy and paste",
    "a": "Who is Larry Tesler?",
    "tier": 5
+  },
+  {
+   "id": "coding-m01",
+   "tier": 1,
+   "q": "These 8-, 5¼- and 3½-inch storage disks live on as what common 'Save' icon?",
+   "a": "What is a floppy disk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Floppy_disk_2009_G1.jpg/960px-Floppy_disk_2009_G1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Floppy_disk_2009_G1.jpg",
+    "credit": "George Chernilevsky",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m02",
+   "tier": 1,
+   "q": "This two-snake logo belongs to which popular programming language?",
+   "a": "What is Python?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg",
+    "credit": "Python Software Foundation",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m03",
+   "tier": 1,
+   "q": "Name this British mathematician, a father of computer science, who helped break Nazi codes at Bletchley Park",
+   "a": "Who is Alan Turing?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alan_turing_header.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alan_turing_header.jpg",
+    "credit": "Elliott & Fry",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m04",
+   "tier": 1,
+   "q": "This WWII German cipher device had its code cracked by Allied codebreakers. Name the device.",
+   "a": "What is the Enigma machine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg",
+    "credit": "Alessandro Nassiri",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "coding-m05",
+   "tier": 2,
+   "q": "Name this 19th-century mathematician, often called the first computer programmer for her notes on Babbage's engine",
+   "a": "Who is Ada Lovelace?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+    "credit": "Antoine Claudet",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m06",
+   "tier": 2,
+   "q": "Name this US Navy rear admiral who pioneered compilers and helped create the COBOL language",
+   "a": "Who is Grace Hopper?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg/960px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered)_head_and_shoulders_crop.jpg",
+    "credit": "James S. Davis",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m07",
+   "tier": 2,
+   "q": "Name these stiff paper slips that stored programs and data as patterns of holes",
+   "a": "What are punched cards?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2punchCards-square.jpg/960px-2punchCards-square.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2punchCards-square.jpg",
+    "credit": "José Antonio González Nieto",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "coding-m08",
+   "tier": 2,
+   "q": "In 1947 Harvard engineers taped this moth into their logbook as the 'first actual case of' what being found?",
+   "a": "What is a bug?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/First_Computer_Bug%2C_1947.jpg/960px-First_Computer_Bug%2C_1947.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:First_Computer_Bug,_1947.jpg",
+    "credit": "U.S. Naval History and Heritage Command",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m09",
+   "tier": 3,
+   "q": "Name this Finnish-American engineer who created the Linux kernel and the Git version-control system",
+   "a": "Who is Linus Torvalds?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg",
+    "credit": "Krd",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "coding-m10",
+   "tier": 3,
+   "q": "ENIAC, the first general-purpose electronic computer (surviving panels shown), was built in 1945 at which Ivy League school in Philadelphia?",
+   "a": "What is the University of Pennsylvania?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ENIAC_at_Moore_School_of_Electrical_Engineering_%282026-09-21%29.webp/960px-ENIAC_at_Moore_School_of_Electrical_Engineering_%282026-09-21%29.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:ENIAC_at_Moore_School_of_Electrical_Engineering_(2026-09-21).webp",
+    "credit": "Logg Tandy",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "coding-m11",
+   "tier": 3,
+   "q": "Name these glass electronic components that early computers used as switches before transistors",
+   "a": "What are vacuum tubes?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Elektronenroehren-auswahl.jpg/960px-Elektronenroehren-auswahl.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elektronenroehren-auswahl.jpg",
+    "credit": "Stefan Riepl (Quark48)",
+    "license": "CC BY-SA 2.0 de"
+   }
+  },
+  {
+   "id": "coding-m12",
+   "tier": 3,
+   "q": "Name this MIT engineer, shown with the printed Apollo guidance software that her team wrote",
+   "a": "Who is Margaret Hamilton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Margaret_Hamilton_-_restoration.jpg/960px-Margaret_Hamilton_-_restoration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg",
+    "credit": "Draper Laboratory (restored by Adam Cuerden)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m13",
+   "tier": 4,
+   "q": "Name this mechanical calculator, designed by Charles Babbage and finally built from his plans by London's Science Museum",
+   "a": "What is the Difference Engine?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Babbage_Difference_Engine.jpg/960px-Babbage_Difference_Engine.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Babbage_Difference_Engine.jpg",
+    "credit": "geni",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "coding-m14",
+   "tier": 4,
+   "q": "Name this early form of computer storage, which kept each bit in a tiny ferrite ring threaded on wires",
+   "a": "What is magnetic-core memory?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KL_CoreMemory.jpg/960px-KL_CoreMemory.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KL_CoreMemory.jpg",
+    "credit": "Konstantin Lanzet",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "coding-m15",
+   "tier": 4,
+   "q": "Name the WWII British codebreaking computer, shown here with its operators in 1943",
+   "a": "What is Colossus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Colossus.jpg/960px-Colossus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colossus.jpg",
+    "credit": "Unknown (UK government photo)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "coding-m16",
+   "tier": 4,
+   "q": "Name this Bell Labs computer scientist who created the C programming language and co-created Unix",
+   "a": "Who is Dennis Ritchie?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dennis_Ritchie_2011.jpg",
+    "credit": "Denise Panyik-Dale",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "coding-m17",
+   "tier": 5,
+   "q": "Name the German engineer whose 1941 Z3 (replica shown) was the first working programmable computer",
+   "a": "Who is Konrad Zuse?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Z3_Deutsches_Museum_b.jpg/960px-Z3_Deutsches_Museum_b.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Z3_Deutsches_Museum_b.jpg",
+    "credit": "Venusianer",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "coding-m18",
+   "tier": 5,
+   "q": "Name this 1948 machine (replica shown), the first computer to run a program stored in its own electronic memory",
+   "a": "What is the Manchester Baby?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Manchester_Baby_Replica.webp/960px-Manchester_Baby_Replica.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Manchester_Baby_Replica.webp",
+    "credit": "Logg Tandy",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "coding-m19",
+   "tier": 5,
+   "q": "Name the inventor whose punched-card tabulating machine, replicated here, sped up the 1890 US census",
+   "a": "Who is Herman Hollerith?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HollerithMachine.CHM.jpg/960px-HollerithMachine.CHM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HollerithMachine.CHM.jpg",
+    "credit": "Adam Schuster",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "coding-m20",
+   "tier": 5,
+   "q": "Name this computer scientist who co-created Unix at Bell Labs and later co-designed the Go language",
+   "a": "Who is Ken Thompson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ken_Thompson%2C_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ken_Thompson,_2019.jpg",
+    "credit": "A.C.Diller",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

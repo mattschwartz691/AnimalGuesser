@@ -303,6 +303,240 @@
    "q": "In this 2006 looping animation, Orihime from the anime 'Bleach' twirls a vegetable to a Finnish quartet's scat singing",
    "a": "What is Leekspin (Loituma Girl)?",
    "tier": 5
+  },
+  {
+   "id": "memes-m01",
+   "tier": 1,
+   "q": "This Shiba Inu, shown with her owner in 2023, was the face of which \"much wow\" meme?",
+   "a": "What is Doge?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kabosu_and_Atsuko_Sato_2023-11-02_%281%29_%28cropped%29.jpg/960px-Kabosu_and_Atsuko_Sato_2023-11-02_%281%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kabosu_and_Atsuko_Sato_2023-11-02_(1)_(cropped).jpg",
+    "credit": "Asanagi",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "memes-m02",
+   "tier": 1,
+   "q": "Name this frowning feline internet celebrity, shown at VidCon 2014",
+   "a": "Who is Grumpy Cat?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg/960px-Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grumpy_Cat_(14556024763)_(cropped).jpg",
+    "credit": "Gage Skidmore from Peoria, AZ, United States of America",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "memes-m03",
+   "tier": 1,
+   "q": "Tricking someone into clicking a link to this singer's 1987 hit is called what?",
+   "a": "What is a Rickroll?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rick_Astley_Dallas.jpg/960px-Rick_Astley_Dallas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rick_Astley_Dallas.jpg",
+    "credit": "Wjack12",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "memes-m04",
+   "tier": 1,
+   "q": "Name this bouncy baby pygmy hippo from a Thai zoo who went viral in 2024",
+   "a": "Who is Moo Deng?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Moo_deng_%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87_%282024-09-11%29_-_img_02.jpg/960px-Moo_deng_%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87_%282024-09-11%29_-_img_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moo_deng_%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87_(2024-09-11)_-_img_02.jpg",
+    "credit": "MGR ภาคกลาง ตะวันออก / MGR Online VDO",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "memes-m05",
+   "tier": 2,
+   "q": "Name this South Korean singer whose horse-riding dance video was YouTube's first to hit one billion views",
+   "a": "Who is Psy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Psy_2012.jpg/960px-Psy_2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Psy_2012.jpg",
+    "credit": "Eva Rinaldi",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "memes-m06",
+   "tier": 2,
+   "q": "Name this fiery TV chef famous for yelling \"It's RAW!\"",
+   "a": "Who is Gordon Ramsay?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gordon_Ramsay.jpg/500px-Gordon_Ramsay.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gordon_Ramsay.jpg",
+    "credit": "Dave Pullig",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "memes-m07",
+   "tier": 2,
+   "q": "Name this 2016 school-hallway fad of tossing a partly filled plastic water container so it lands upright",
+   "a": "What is bottle flipping?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Water_bottle_flipping.gif/330px-Water_bottle_flipping.gif",
+    "page": "https://commons.wikimedia.org/wiki/File:Water_bottle_flipping.gif",
+    "credit": "LittleT889",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "memes-m08",
+   "tier": 2,
+   "q": "Name this John Wick actor who shouted \"You're breathtaking!\" to a fan at a 2019 gaming expo",
+   "a": "Who is Keanu Reeves?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Keanu_Reeves_2014.jpg/960px-Keanu_Reeves_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Keanu_Reeves_2014.jpg",
+    "credit": "anna Hanks",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "memes-m09",
+   "tier": 3,
+   "q": "Name this 2011 photo fad of lying face-down and stiff as a board in odd places",
+   "a": "What is planking?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Planking_in_a_kitchen.jpg/960px-Planking_in_a_kitchen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Planking_in_a_kitchen.jpg",
+    "credit": "Donkey100",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "memes-m10",
+   "tier": 3,
+   "q": "Name this martial-arts actor, subject of absurd jokes like \"he counted to infinity, twice\"",
+   "a": "Who is Chuck Norris?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/330px-Chuck_Norris_May_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chuck_Norris_May_2015.jpg",
+    "credit": "Staff Sgt. Tony Foster",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "memes-m11",
+   "tier": 3,
+   "q": "Name this U.S. senator whose bundled-up inauguration photo with mittens went viral in 2021",
+   "a": "Who is Bernie Sanders?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernie_Sanders_2023.jpg/960px-Bernie_Sanders_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bernie_Sanders_2023.jpg",
+    "credit": "Palácio do Planalto from Brasilia, Brasil",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "memes-m12",
+   "tier": 3,
+   "q": "Name this basketball legend whose tearful Hall of Fame face became the \"Crying ___\" meme",
+   "a": "Who is Michael Jordan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Michael_Jordan_in_2014.jpg/330px-Michael_Jordan_in_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+    "credit": "DOD photo by D. Myles Cullen",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "memes-m13",
+   "tier": 3,
+   "q": "Name this singer whose 2011 video \"Friday\" became a viral sensation",
+   "a": "Who is Rebecca Black?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rebecca_Black_by_Gage_Skidmore.jpg/960px-Rebecca_Black_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rebecca_Black_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "memes-m14",
+   "tier": 4,
+   "q": "Name the deep-voiced singer of the 2007 viral video \"Chocolate Rain\"",
+   "a": "Who is Tay Zonday?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tay_Zonday_at_the_2010_Streamy_Awards.jpg/960px-Tay_Zonday_at_the_2010_Streamy_Awards.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tay_Zonday_at_the_2010_Streamy_Awards.jpg",
+    "credit": "The Bui Brothers",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "memes-m15",
+   "tier": 4,
+   "q": "Name this actor whose Boromir line \"One does not simply walk into Mordor\" became a meme",
+   "a": "Who is Sean Bean?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sean_Bean_TIFF_2015.jpg/500px-Sean_Bean_TIFF_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sean_Bean_TIFF_2015.jpg",
+    "credit": "Bill Ingalls",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "memes-m16",
+   "tier": 4,
+   "q": "The sarcastic \"Condescending Wonka\" meme uses a still of this actor. Name him",
+   "a": "Who is Gene Wilder?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gene_Wilder_1970.JPG/500px-Gene_Wilder_1970.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Gene_Wilder_1970.JPG",
+    "credit": "Warner Brothers/Tandem Production",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "memes-m17",
+   "tier": 5,
+   "q": "Name this wide-eyed, tongue-out \"magical space cat\" internet celebrity",
+   "a": "Who is Lil Bub?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lil-Bub-2013_%28cropped%29.jpg/330px-Lil-Bub-2013_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lil-Bub-2013_(cropped).jpg",
+    "credit": "Joyful Noise Recordings",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "memes-m18",
+   "tier": 5,
+   "q": "A 2016 public poll to name a British polar research ship chose which silly name?",
+   "a": "What is Boaty McBoatface?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Drawing_of_BoatyMcBoatface.png/960px-Drawing_of_BoatyMcBoatface.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Drawing_of_BoatyMcBoatface.png",
+    "credit": "Seloloving",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

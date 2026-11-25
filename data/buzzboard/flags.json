@@ -303,6 +303,266 @@
    "q": "Its blue flag has a yellow triangle beside a diagonal line of white stars",
    "a": "What is Bosnia and Herzegovina?",
    "tier": 5
+  },
+  {
+   "id": "flags-m01",
+   "tier": 1,
+   "q": "Whose flag is this?",
+   "a": "What is Japan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+    "credit": "Various",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m02",
+   "tier": 1,
+   "q": "This flag with a red leaf belongs to which country?",
+   "a": "What is Canada?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canada.svg",
+    "credit": "Created by George F. G. Stanley / E Pluribus Anthony / User:Mzajac",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m03",
+   "tier": 1,
+   "q": "Nicknamed the Union Jack, this is the flag of which country?",
+   "a": "What is the United Kingdom?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom.svg",
+    "credit": "Original: Acts of Union 1800 Vector: Yaddah",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m04",
+   "tier": 1,
+   "q": "Whose flag is this? Its banner reads \"Ordem e Progresso\"",
+   "a": "What is Brazil?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg",
+    "credit": "Raimundo Teixeira Mendes",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m05",
+   "tier": 2,
+   "q": "An eagle eating a snake sits in the middle of which country's flag?",
+   "a": "What is Mexico?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg",
+    "credit": "Omar Alejandro Covarrubias Neri, 9 April 2006. Based on the 1968 arms by Francisco...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m06",
+   "tier": 2,
+   "q": "Whose flag is this, with a red-and-blue taegeuk at its center?",
+   "a": "What is South Korea?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg",
+    "credit": "Original: Government of the Republic of Korea Vector: Great Brightstar and others",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m07",
+   "tier": 2,
+   "q": "This square flag belongs to which European country?",
+   "a": "What is Switzerland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1280px-Flag_of_Switzerland.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg",
+    "credit": "Original: Unknown Vector: User:Marc Mongenet Credits: User:-xfi- User:Zscout370",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m08",
+   "tier": 2,
+   "q": "Whose flag is this, with a 24-spoked navy-blue wheel?",
+   "a": "What is India?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_India.svg",
+    "credit": "Government of India",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m09",
+   "tier": 3,
+   "q": "Whose flag is this? Its nine stripes are said to stand for the syllables of a freedom motto",
+   "a": "What is Greece?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m10",
+   "tier": 3,
+   "q": "Whose flag is this, a white crescent and star on red?",
+   "a": "What is Turkey?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg",
+    "credit": "David Benbennick (original author)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m11",
+   "tier": 3,
+   "q": "Whose flag is this, with the 'Sun of May' at its center?",
+   "a": "What is Argentina?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg",
+    "credit": "Manuel Belgrano",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m12",
+   "tier": 3,
+   "q": "Whose flag is this, adopted in 1994 after the end of apartheid?",
+   "a": "What is South Africa?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
+    "credit": "Flag design by Frederick Brownell, image by Wikimedia Commons users",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m13",
+   "tier": 4,
+   "q": "This is the only non-rectangular national flag. Whose is it?",
+   "a": "What is Nepal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1280px-Flag_of_Nepal.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg",
+    "credit": "Drawn by Pumbaa80, Achim1999",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m14",
+   "tier": 4,
+   "q": "Whose flag is this, with a Maasai shield and spears?",
+   "a": "What is Kenya?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg",
+    "credit": "User:Pumbaa80",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m15",
+   "tier": 4,
+   "q": "Whose flag is this, with a golden lion holding a sword?",
+   "a": "What is Sri Lanka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg",
+    "credit": "Original: Sri Lanka Vectorization: Zscout370, Mike Rohsopht",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m16",
+   "tier": 4,
+   "q": "Whose flag is this, with an armillary sphere honoring its age of navigators?",
+   "a": "What is Portugal?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+    "credit": "Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m17",
+   "tier": 5,
+   "q": "A white thunder dragon crosses which Himalayan kingdom's flag?",
+   "a": "What is Bhutan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1280px-Flag_of_Bhutan.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m18",
+   "tier": 5,
+   "q": "Whose flag is this, showing the crown of a yurt inside a sun?",
+   "a": "What is Kyrgyzstan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg",
+    "credit": "Shakiev N.T., Primov U.B.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m19",
+   "tier": 5,
+   "q": "Five rays fan out from the lower left of this Indian Ocean island nation's flag. Whose is it?",
+   "a": "What is Seychelles?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Seychelles.svg",
+    "credit": "User:Vxb83",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "flags-m20",
+   "tier": 5,
+   "q": "A frigatebird flies over a rising sun on which Pacific nation's flag?",
+   "a": "What is Kiribati?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1280px-Flag_of_Kiribati.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati.svg",
+    "credit": "User:Hanzlan",
+    "license": "Public domain"
+   }
   }
  ]
 }

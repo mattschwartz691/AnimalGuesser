@@ -303,6 +303,266 @@
    "q": "This Danish open-faced sandwich on buttered rye bread is a lunchtime tradition",
    "a": "What is smørrebrød?",
    "tier": 5
+  },
+  {
+   "id": "world-food-m01",
+   "tier": 1,
+   "q": "Name this Japanese food of vinegared rice, often topped or rolled with raw fish.",
+   "a": "What is sushi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/1280px-Sushi_platter.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sushi_platter.jpg",
+    "credit": "chidorian from Japan",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "world-food-m02",
+   "tier": 1,
+   "q": "Name this round Italian dish from Naples, topped with tomato, mozzarella and basil.",
+   "a": "What is pizza?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neapolitan_pizza_at_Trappica_%2848701940197%29.jpg/1280px-Neapolitan_pizza_at_Trappica_%2848701940197%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Neapolitan_pizza_at_Trappica_(48701940197).jpg",
+    "credit": "Bex Walton from London, England",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-food-m03",
+   "tier": 1,
+   "q": "Name this flaky, crescent-shaped French pastry often eaten at breakfast.",
+   "a": "What is a croissant?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Croissant-Petr_Kratochvil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Croissant-Petr_Kratochvil.jpg",
+    "credit": "Petr Kratochvil",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "world-food-m04",
+   "tier": 1,
+   "q": "Name this British takeaway meal of battered seafood with thick-cut fries.",
+   "a": "What is fish and chips?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/1280px-Fish_and_chips_blackpool.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fish_and_chips_blackpool.jpg",
+    "credit": "Matthias Meckel",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-food-m05",
+   "tier": 2,
+   "q": "Name this saffron rice dish from Valencia, Spain, cooked in a wide, shallow pan.",
+   "a": "What is paella?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/01_Paella_Valenciana_original.jpg/1280px-01_Paella_Valenciana_original.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:01_Paella_Valenciana_original.jpg",
+    "credit": "Jan Harenburg",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-food-m06",
+   "tier": 2,
+   "q": "Name this Mexican taco filling: marinated pork carved from a vertical spit like this one.",
+   "a": "What is al pastor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tacos-al-Pastor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tacos-al-Pastor.jpg",
+    "credit": "Matt Saunders",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-food-m07",
+   "tier": 2,
+   "q": "Name this Japanese noodle soup, served here in a soy-sauce broth.",
+   "a": "What is ramen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg/1280px-Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
+    "credit": "Quercus acuta",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-food-m08",
+   "tier": 2,
+   "q": "Name these deep-fried balls of ground chickpeas, popular across the Middle East.",
+   "a": "What is falafel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/1280px-Falafels_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Falafels_2.jpg",
+    "credit": "Popo le Chien",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-food-m09",
+   "tier": 3,
+   "q": "Name this Vietnamese noodle soup with rice noodles in a fragrant beef broth.",
+   "a": "What is pho?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bowl_of_Meatball_pho.jpg/1280px-Bowl_of_Meatball_pho.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_Meatball_pho.jpg",
+    "credit": "SerraKnightz",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "world-food-m10",
+   "tier": 3,
+   "q": "Name this stir-fried rice-noodle dish with shrimp, peanuts and tamarind, a Bangkok street-food classic.",
+   "a": "What is pad thai?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/1280px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "credit": "Takeaway",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "world-food-m11",
+   "tier": 3,
+   "q": "Name this Korean rice bowl topped with vegetables and an egg, served in a sizzling stone pot.",
+   "a": "What is bibimbap?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/1280px-Dolsot-bibimbap.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dolsot-bibimbap.jpg",
+    "credit": "Sous Chef",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-food-m12",
+   "tier": 3,
+   "q": "Name this roast bird from China's capital, famous for crisp skin carved at the table.",
+   "a": "What is Peking duck?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Peking_Duck%2C_2014_%2802%29.jpg/1280px-Peking_Duck%2C_2014_%2802%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peking_Duck,_2014_(02).jpg",
+    "credit": "City Foodsters",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-food-m13",
+   "tier": 4,
+   "q": "Name these filled dumplings from Poland, here served with melted butter.",
+   "a": "What are pierogi?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/1280px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
+    "credit": "Aw58",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-food-m14",
+   "tier": 4,
+   "q": "Name this breaded, pan-fried veal cutlet, the national dish of Austria.",
+   "a": "What is Wiener schnitzel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/1280px-Wiener-Schnitzel02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wiener-Schnitzel02.jpg",
+    "credit": "Kobako",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "world-food-m15",
+   "tier": 4,
+   "q": "Name this sour, ruby-red beet soup from Ukraine and Eastern Europe, here with sour cream.",
+   "a": "What is borscht?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borscht_served.jpg/1280px-Borscht_served.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Borscht_served.jpg",
+    "credit": "liz west from Boxborough, MA",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-food-m16",
+   "tier": 4,
+   "q": "Name this Greek baked dish layered with eggplant, potatoes, minced meat and béchamel.",
+   "a": "What is moussaka?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MussakasMeMelitsanesKePatates01.JPG/1280px-MussakasMeMelitsanesKePatates01.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:MussakasMeMelitsanesKePatates01.JPG",
+    "credit": "Robert Kindermann aka RobertK",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "world-food-m17",
+   "tier": 5,
+   "q": "Name this spongy, sour flatbread from Ethiopia, used to scoop up stews.",
+   "a": "What is injera?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/1280px-Injera_with_eight_kinds_of_stew.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Injera_with_eight_kinds_of_stew.jpg",
+    "credit": "Artem.G",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "world-food-m18",
+   "tier": 5,
+   "q": "Name this cheese-filled bread, a national dish of the country of Georgia.",
+   "a": "What is khachapuri?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg/1280px-Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Old_Tbilisi,_Georgian_khachapuri,_Georgia.jpg",
+    "credit": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "world-food-m19",
+   "tier": 5,
+   "q": "Name this Scottish dish of sheep's offal, oats and spices, traditionally eaten on Burns Night.",
+   "a": "What is haggis?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Scotland_Haggis.jpg/1280px-Scotland_Haggis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scotland_Haggis.jpg",
+    "credit": "Chris Brown",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "world-food-m20",
+   "tier": 5,
+   "q": "Name this spicy, tomato-based West African one-pot dish whose 'best version' is hotly debated by Ghana and Nigeria.",
+   "a": "What is jollof rice?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/1280px-Jollof_Rice_with_Stew.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jollof_Rice_with_Stew.jpg",
+    "credit": "Noahalorwu",
+    "license": "CC BY-SA 4.0"
+   }
   }
  ]
 }

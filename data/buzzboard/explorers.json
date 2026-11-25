@@ -303,6 +303,266 @@
    "q": "In the 920s this envoy of the Abbasid caliph traveled to the Volga and wrote a vivid account of the Rus",
    "a": "Who is Ahmad ibn Fadlan?",
    "tier": 5
+  },
+  {
+   "id": "explorers-m01",
+   "tier": 1,
+   "q": "This 1847 painting shows which navigator landing in the Bahamas in 1492?",
+   "a": "Who is Christopher Columbus?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Landing_of_Columbus_%282%29.jpg/1280px-Landing_of_Columbus_%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+    "credit": "John Vanderlyn",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m02",
+   "tier": 1,
+   "q": "Listen: who spoke these famous words in July 1969?",
+   "a": "Who is Neil Armstrong?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/Phrase_de_Neil_Armstrong.oga/Phrase_de_Neil_Armstrong.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Frase_de_Neil_Armstrong.ogg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m03",
+   "tier": 1,
+   "q": "This Venetian merchant described his travels to Kublai Khan's court. Name him",
+   "a": "Who is Marco Polo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png/330px-Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Frontispice_%C3%A9dition_de_Nuremberg_1477_(cropped).png",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m04",
+   "tier": 1,
+   "q": "Name the two captains who led the Corps of Discovery to the Pacific in 1804-06",
+   "a": "Who are Lewis and Clark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lewis_and_Clark.jpg/330px-Lewis_and_Clark.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lewis_and_Clark.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m05",
+   "tier": 2,
+   "q": "This Norwegian led the first expedition to reach the South Pole, in 1911. Name him",
+   "a": "Who is Roald Amundsen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen_in_fur_skins.jpg/1280px-Amundsen_in_fur_skins.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Amundsen_in_fur_skins.jpg",
+    "credit": "Anonymous",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m06",
+   "tier": 2,
+   "q": "This Portuguese captain reached India by sea in 1498. Name him",
+   "a": "Who is Vasco da Gama?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/1280px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ignoto_portoghese,_ritratto_di_un_cavaliere_dell'ordine_di_cristo,_1525-50_ca._02.jpg",
+    "credit": "Sailko",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "explorers-m07",
+   "tier": 2,
+   "q": "This New Zealand beekeeper made the first confirmed ascent of Everest in 1953. Name him",
+   "a": "Who is Edmund Hillary?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Edmund_Hillary%2C_c._1953%2C_autograph_removed.jpg/1280px-Edmund_Hillary%2C_c._1953%2C_autograph_removed.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edmund_Hillary,_c._1953,_autograph_removed.jpg",
+    "credit": "Photographer unidentified. Retouched by TimofKingsland.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m08",
+   "tier": 2,
+   "q": "This British captain charted New Zealand and eastern Australia around 1770. Name him",
+   "a": "Who is James Cook?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/1280px-Captainjamescookportrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
+    "credit": "Nathaniel Dance-Holland",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m09",
+   "tier": 3,
+   "q": "This ship, later crushed by Antarctic ice, belonged to which explorer's expedition?",
+   "a": "Who is Ernest Shackleton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Endurance_under_full_sail_Frank_Hurley_State_Library_NSW_a090012h.jpg/1280px-Endurance_under_full_sail_Frank_Hurley_State_Library_NSW_a090012h.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Endurance_under_full_sail_Frank_Hurley_State_Library_NSW_a090012h.jpg",
+    "credit": "Frank Hurley",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m10",
+   "tier": 3,
+   "q": "This Shoshone woman, shown pointing the way, guided the Corps of Discovery. Name her",
+   "a": "Who is Sacagawea?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Detail_Lewis_%26_Clark_at_Three_Forks.jpg/1280px-Detail_Lewis_%26_Clark_at_Three_Forks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Detail_Lewis_%26_Clark_at_Three_Forks.jpg",
+    "credit": "Edgar Samuel Paxson",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m11",
+   "tier": 3,
+   "q": "This Sherpa reached Everest's summit together with Hillary in 1953. Name him",
+   "a": "Who is Tenzing Norgay?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tenzing_Norgay_%28cropped%29.jpg/500px-Tenzing_Norgay_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_(cropped).jpg",
+    "credit": "SAS Scandinavian Airlines",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m12",
+   "tier": 3,
+   "q": "This Breton navigator explored the St. Lawrence River for France in the 1530s. Name him",
+   "a": "Who is Jacques Cartier?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jacques_Cartier_1851-1852.jpg/1280px-Jacques_Cartier_1851-1852.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jacques_Cartier_1851-1852.jpg",
+    "credit": "Théophile Hamel / After François Nicholas Riss",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "explorers-m13",
+   "tier": 4,
+   "q": "This statue in Malacca honors which Ming admiral who led seven great treasure voyages?",
+   "a": "Who is Zheng He?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/1280px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Malakka,_Stadhuys_(09).jpg",
+    "credit": "Marcin Konsek",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "explorers-m14",
+   "tier": 4,
+   "q": "This Scottish missionary was famously greeted 'Dr. ___, I presume?' Name him",
+   "a": "Who is David Livingstone?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/1280px-David_Livingstone_by_Thomas_Annan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg",
+    "credit": "Thomas Annan / Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m15",
+   "tier": 4,
+   "q": "A river, a bay and a strait are named for this English navigator. Name him",
+   "a": "Who is Henry Hudson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/HenryHudson.jpg/960px-HenryHudson.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HenryHudson.jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m16",
+   "tier": 4,
+   "q": "This British naval officer died returning from the South Pole in 1912. Name him",
+   "a": "Who is Robert Falcon Scott?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg/960px-Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scott_of_the_Antarctic_(bw)_(cropped).jpg",
+    "credit": "Henry Maull (1829–1914) and John Fox (1832–1907)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m17",
+   "tier": 5,
+   "q": "This Dutch navigator was the first European to reach Tasmania and New Zealand. Name him",
+   "a": "Who is Abel Tasman?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Abel_Tasman_Navigateur_en_Australie_%28cropped%29.jpg/1280px-Abel_Tasman_Navigateur_en_Australie_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abel_Tasman_Navigateur_en_Australie_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m18",
+   "tier": 5,
+   "q": "This African American explorer went with Robert Peary toward the North Pole in 1909. Name him",
+   "a": "Who is Matthew Henson?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matthew_Henson_1910.jpg/1280px-Matthew_Henson_1910.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Matthew_Henson_1910.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m19",
+   "tier": 5,
+   "q": "This Norwegian drifted across the Arctic in the Fram and later won the Nobel Peace Prize. Name him",
+   "a": "Who is Fridtjof Nansen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fridtjof_Nansen_LOC_03377u-3.jpg/1280px-Fridtjof_Nansen_LOC_03377u-3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fridtjof_Nansen_LOC_03377u-3.jpg",
+    "credit": "Henry Van der Weyde",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "explorers-m20",
+   "tier": 5,
+   "q": "This 1507 world map was the first to use what name for the New World?",
+   "a": "What is America?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waldseemuller_map_2.jpg/1280px-Waldseemuller_map_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Waldseemuller_map_2.jpg",
+    "credit": "Martin Waldseemüller",
+    "license": "Public domain"
+   }
   }
  ]
 }

@@ -303,6 +303,292 @@
    "q": "When a giant cetacean's carcass sinks to the deep seafloor, it can feed this kind of unique ecosystem for decades",
    "a": "What is a whale fall?",
    "tier": 5
+  },
+  {
+   "id": "ocean-life-m01",
+   "tier": 1,
+   "q": "Name this orange-and-white fish that lives among sea anemones",
+   "a": "What is a clownfish?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg/960px-Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+    "credit": "Ritiks",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ocean-life-m02",
+   "tier": 1,
+   "q": "Name this kind of marine reptile that nests on beaches",
+   "a": "What is a sea turtle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/960px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m03",
+   "tier": 1,
+   "q": "Name this kind of intelligent marine mammal that uses echolocation",
+   "a": "What is a dolphin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tursiops_truncatus_01-cropped.jpg/960px-Tursiops_truncatus_01-cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg",
+    "credit": "NASA",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m04",
+   "tier": 1,
+   "q": "Name this large predatory fish, the star of 'Jaws'",
+   "a": "What is the great white shark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+    "credit": "Pterantula (Terry Goss) at en.wikipedia",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "ocean-life-m05",
+   "tier": 2,
+   "q": "Name this fish with a wide, T-shaped head",
+   "a": "What is a hammerhead shark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Great_hammerhead2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Great_hammerhead2.jpg",
+    "credit": "Albert kok",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m06",
+   "tier": 2,
+   "q": "Name this black-and-white 'killer whale'",
+   "a": "What is an orca?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/960px-Killerwhales_jumping.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+    "credit": "Robert Pittman",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m07",
+   "tier": 2,
+   "q": "Name this fish whose male carries the eggs in a pouch",
+   "a": "What is a seahorse?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg/960px-Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg",
+    "credit": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m08",
+   "tier": 2,
+   "q": "Name this marine mammal that floats on its back and uses rocks as tools",
+   "a": "What is the sea otter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg",
+    "credit": "Marshal Hedin from San Diego",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "ocean-life-m09",
+   "tier": 2,
+   "q": "Listen: name this baleen species famous for its long, complex songs",
+   "a": "What is the humpback whale?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/Sound_Effect_Humpback_Whale.ogg/Sound_Effect_Humpback_Whale.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Sound_Effect_Humpback_Whale.ogg",
+    "credit": "copyrighy free sound-effect",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "ocean-life-m10",
+   "tier": 3,
+   "q": "Name this largest fish in the world, a gentle filter feeder",
+   "a": "What is the whale shark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg",
+    "credit": "Abe Khao Lak",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m11",
+   "tier": 3,
+   "q": "Name this striped, venomous-spined fish that is invading the Caribbean",
+   "a": "What is the lionfish?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pterois_volitans_Manado-e_edit.jpg/960px-Pterois_volitans_Manado-e_edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_Manado-e_edit.jpg",
+    "credit": "Photo by Jens Petersen, Edited by User:Olegiwit (cloned in part of fins) and Fir0002...",
+    "license": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "ocean-life-m12",
+   "tier": 3,
+   "q": "Name this slow, plant-eating marine mammal sometimes called a sea cow",
+   "a": "What is a manatee?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Manatee_with_calf.PD_-_colour_corrected.jpg/960px-Manatee_with_calf.PD_-_colour_corrected.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Manatee_with_calf.PD_-_colour_corrected.jpg",
+    "credit": "Galen Rathbun",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m13",
+   "tier": 3,
+   "q": "Listen: name this white Arctic whale, nicknamed the 'canary of the sea' for its chirps",
+   "a": "What is the beluga?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Beluga_vocalizations.ogg/Beluga_vocalizations.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Beluga_vocalizations.ogg",
+    "credit": "Recorded by Fisheries Research Agency, Japan, with contract support from NOAA to...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m14",
+   "tier": 3,
+   "q": "Name this giant ray, a filter feeder with a wingspan of up to 7 meters",
+   "a": "What is the manta ray?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Manta_birostris-Thailand4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand4.jpg",
+    "credit": "jon hanson from london, UK",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "ocean-life-m15",
+   "tier": 4,
+   "q": "Name this heaviest bony fish, which looks like a giant swimming head",
+   "a": "What is the ocean sunfish (mola)?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mola_mola.jpg/960px-Mola_mola.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg",
+    "credit": "U.S. National Oceanic and Atmospheric Administration",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m16",
+   "tier": 4,
+   "q": "Name this Australian fish, a relative of the seahorse camouflaged with leaf-like flaps",
+   "a": "What is the leafy seadragon?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leafy_Seadragon_on_Kangaroo_Island.jpg/960px-Leafy_Seadragon_on_Kangaroo_Island.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_on_Kangaroo_Island.jpg",
+    "credit": "James Rosindell",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m17",
+   "tier": 4,
+   "q": "Name this 'living fossil' fish, thought extinct until it was found alive in 1938",
+   "a": "What is the coelacanth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+    "credit": "Bruce A.S. Henderson",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m18",
+   "tier": 4,
+   "q": "Name this flat ray-like fish with a long, toothed snout",
+   "a": "What is a sawfish?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sawfish_Pristis_zijsron_Genova_Aquarium.jpg/960px-Sawfish_Pristis_zijsron_Genova_Aquarium.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sawfish_Pristis_zijsron_Genova_Aquarium.jpg",
+    "credit": "Flavia Brandi from Roma, Italy",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "ocean-life-m19",
+   "tier": 5,
+   "q": "Name this deep-sea fish with a long, flat snout and jaws that shoot forward",
+   "a": "What is the goblin shark?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goblin_shark_%28Mitsukurina_owstoni%29.jpg/960px-Goblin_shark_%28Mitsukurina_owstoni%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Goblin_shark_(Mitsukurina_owstoni).jpg",
+    "credit": "Michigan State University/USFWS",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "ocean-life-m20",
+   "tier": 5,
+   "q": "Name this flat shark with a fringe of skin flaps around its mouth, from Australian reefs",
+   "a": "What is a wobbegong?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Spotted_wobbegong.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spotted_wobbegong.jpg",
+    "credit": "Unknown",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ocean-life-m21",
+   "tier": 5,
+   "q": "Name this huge deep-sea crustacean, a supersized relative of the pill bug",
+   "a": "What is the giant isopod?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg/960px-Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg",
+    "credit": "Tiouraren (Y.-C. Tsai)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ocean-life-m22",
+   "tier": 5,
+   "q": "Listen: these clicks come from the largest toothed predator on Earth; name it",
+   "a": "What is the sperm whale?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Sperm_Whale_Ordinary_Clicks.ogg/Sperm_Whale_Ordinary_Clicks.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Sperm_Whale_Ordinary_Clicks.ogg",
+    "credit": "Kurzon",
+    "license": "CC0"
+   }
   }
  ]
 }

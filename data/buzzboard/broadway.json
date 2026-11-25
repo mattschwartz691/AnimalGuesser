@@ -303,6 +303,279 @@
    "q": "This bloodthirsty, singing alien plant is named after a flower shop clerk in Little Shop of Horrors",
    "a": "Who is Audrey II?",
    "tier": 5
+  },
+  {
+   "id": "broadway-m01",
+   "tier": 1,
+   "q": "Name this writer-star of In the Heights and a 2015 hip-hop musical about a Founding Father",
+   "a": "Who is Lin-Manuel Miranda?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lin-Manuel_Miranda_during_an_interview%2C_March_2022_%283%29_%28cropped%29.jpg/500px-Lin-Manuel_Miranda_during_an_interview%2C_March_2022_%283%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lin-Manuel_Miranda_during_an_interview,_March_2022_(3)_(cropped).jpg",
+    "credit": "Lyn Fairly Media",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "broadway-m02",
+   "tier": 1,
+   "q": "This Founding Father on the $10 bill is the subject of a 2015 hip-hop musical. Name the show",
+   "a": "What is Hamilton?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Google_Arts_Project_-_Alexander_Hamilton_%281792_portrait%29_by_John_Trumbull.jpg/960px-Google_Arts_Project_-_Alexander_Hamilton_%281792_portrait%29_by_John_Trumbull.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_Arts_Project_-_Alexander_Hamilton_(1792_portrait)_by_John_Trumbull.jpg",
+    "credit": "John Trumbull",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m03",
+   "tier": 1,
+   "q": "Name this singer who originated Elphaba on Broadway and voiced Elsa in Frozen",
+   "a": "Who is Idina Menzel?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Idina_Menzel_cropped.jpg/250px-Idina_Menzel_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Idina_Menzel_cropped.jpg",
+    "credit": "Eleutheromanic",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "broadway-m04",
+   "tier": 1,
+   "q": "Songs by these two singers' Swedish band make up which jukebox musical set on a Greek island?",
+   "a": "What is Mamma Mia!?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Agnetha_F%C3%A4ltskog_and_Anni-Frid_Lyngstad_in_G%C3%B6teborg_1979.jpg/960px-Agnetha_F%C3%A4ltskog_and_Anni-Frid_Lyngstad_in_G%C3%B6teborg_1979.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Agnetha_F%C3%A4ltskog_and_Anni-Frid_Lyngstad_in_G%C3%B6teborg_1979.jpg",
+    "credit": "Kåre Eide",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "broadway-m05",
+   "tier": 2,
+   "q": "A smash 2003 musical tells the untold backstory of this Oz villain. Name the musical",
+   "a": "What is Wicked?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wicked_Witch_of_the_West.png/500px-Wicked_Witch_of_the_West.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Wicked_Witch_of_the_West.png",
+    "credit": "William Wallace Denslow",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m06",
+   "tier": 2,
+   "q": "A masked composer haunts this Paris theater, the Palais Garnier, in which long-running Andrew Lloyd Webber show?",
+   "a": "What is The Phantom of the Opera?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/960px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_Opera_full_frontal_architecture,_May_2009.jpg",
+    "credit": "Peter Rivera",
+    "license": "CC BY 2.0"
+   }
+  },
+  {
+   "id": "broadway-m07",
+   "tier": 2,
+   "q": "Name this British composer of Cats, Evita and Jesus Christ Superstar",
+   "a": "Who is Andrew Lloyd Webber?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2008-11-15_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E_%D0%9B%D0%BB%D0%BE%D0%B9%D0%B4_%D0%A3%D1%8D%D0%B1%D0%B1%D0%B5%D1%80.jpeg/330px-2008-11-15_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E_%D0%9B%D0%BB%D0%BE%D0%B9%D0%B4_%D0%A3%D1%8D%D0%B1%D0%B1%D0%B5%D1%80.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:2008-11-15_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E_%D0%9B%D0%BB%D0%BE%D0%B9%D0%B4_%D0%A3%D1%8D%D0%B1%D0%B1%D0%B5%D1%80.jpeg",
+    "credit": "premier.gov.ru",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "broadway-m08",
+   "tier": 2,
+   "q": "This French author's 1862 novel about Jean Valjean became which musical?",
+   "a": "What is Les Misérables?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/960px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+    "credit": "Étienne Carjat",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m09",
+   "tier": 3,
+   "q": "This Argentine first lady inspired which musical featuring \"Don't Cry for Me Argentina\"?",
+   "a": "What is Evita?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Evita_color.jpg/330px-Evita_color.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Evita_color.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m10",
+   "tier": 3,
+   "q": "Name this vice president who killed a rival in an 1804 duel, the narrator-villain of a 2015 musical",
+   "a": "Who is Aaron Burr?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg/960px-John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg",
+    "credit": "John Vanderlyn",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m11",
+   "tier": 3,
+   "q": "Name this \"Queen of Rock 'n' Roll,\" shown in 1970, whose life story became a 2019 jukebox musical",
+   "a": "Who is Tina Turner?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tina_Turner_1970.jpg/960px-Tina_Turner_1970.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tina_Turner_1970.jpg",
+    "credit": "Jay Bernstein Public Relations, Los Angeles.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m12",
+   "tier": 3,
+   "q": "Name this actress who originated Glinda the Good Witch on Broadway",
+   "a": "Who is Kristin Chenoweth?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kristin_Chenoweth_by_Gage_Skidmore_3.jpg/960px-Kristin_Chenoweth_by_Gage_Skidmore_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kristin_Chenoweth_by_Gage_Skidmore_3.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "broadway-m13",
+   "tier": 4,
+   "q": "This poet's \"Old Possum's Book of Practical...\" poems became which Lloyd Webber musical?",
+   "a": "What is Cats?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/T.S._Eliot%2C_1923.JPG/960px-T.S._Eliot%2C_1923.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:T.S._Eliot,_1923.JPG",
+    "credit": "Lady Ottoline Morrell",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m14",
+   "tier": 4,
+   "q": "Name this actor who won a Tony for playing Aaron Burr in Hamilton",
+   "a": "Who is Leslie Odom Jr.?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leslie_Odom_Jr._2024_%28cropped%29.jpg/960px-Leslie_Odom_Jr._2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leslie_Odom_Jr._2024_(cropped).jpg",
+    "credit": "Library of Congress Life",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "broadway-m15",
+   "tier": 4,
+   "q": "Name this lyricist of West Side Story and composer of Into the Woods and Sweeney Todd",
+   "a": "Who is Stephen Sondheim?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Stephen_Sondheim%2C_New_York.jpg/960px-Stephen_Sondheim%2C_New_York.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Sondheim,_New_York.jpg",
+    "credit": "Gotfryd, Bernard, photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m16",
+   "tier": 4,
+   "q": "This queen is one of Henry VIII's wives who sing in a pop-concert musical. Name the musical",
+   "a": "What is Six?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Anne_boleyn.jpg/960px-Anne_boleyn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anne_boleyn.jpg",
+    "credit": "UnknownUnknown , English",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m17",
+   "tier": 4,
+   "q": "This Yiddish author's Tevye stories inspired which 1964 musical with \"If I Were a Rich Man\"?",
+   "a": "What is Fiddler on the Roof?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/SholemAleichem.jpg/250px-SholemAleichem.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SholemAleichem.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m18",
+   "tier": 4,
+   "q": "Name this singer-songwriter of \"Tapestry\" whose life is told in the musical Beautiful",
+   "a": "Who is Carole King?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Carole_King_2002_%28cropped%29.jpg/960px-Carole_King_2002_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Carole_King_2002_(cropped).jpg",
+    "credit": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "broadway-m19",
+   "tier": 5,
+   "q": "Name this performer, shown singing at the White House, who holds the record for most competitive Tony Awards won by a performer",
+   "a": "Who is Audra McDonald?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Audra_McDonald_performs_in_the_East_Room_of_the_White_House%2C_2013.jpg/960px-Audra_McDonald_performs_in_the_East_Room_of_the_White_House%2C_2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Audra_McDonald_performs_in_the_East_Room_of_the_White_House,_2013.jpg",
+    "credit": "The White House from Washington, DC",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "broadway-m20",
+   "tier": 5,
+   "q": "Name this actress, a Sondheim favorite, who originated the Witch in Into the Woods",
+   "a": "Who is Bernadette Peters?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernadette_Peters_Shankbone_2009_Tribeca.jpg/960px-Bernadette_Peters_Shankbone_2009_Tribeca.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bernadette_Peters_Shankbone_2009_Tribeca.jpg",
+    "credit": "David Shankbone",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "broadway-m21",
+   "tier": 5,
+   "q": "Name this French author, shown in 1907, who wrote the 1910 novel behind Broadway's longest-running show",
+   "a": "Who is Gaston Leroux?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/G._LEROUX.jpg/330px-G._LEROUX.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:G._LEROUX.jpg",
+    "credit": "Unidentified photographer",
+    "license": "Public domain"
+   }
   }
  ]
 }

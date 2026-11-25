@@ -303,6 +303,266 @@
    "q": "This Norwegian collaborator's name became a word for 'traitor' in English",
    "a": "Who is Vidkun Quisling?",
    "tier": 5
+  },
+  {
+   "id": "wwii-m01",
+   "tier": 1,
+   "q": "This British prime minister led his country through most of the war. Name him",
+   "a": "Who is Winston Churchill?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m02",
+   "tier": 1,
+   "q": "Listen: which president gave this 'date which will live in infamy' speech?",
+   "a": "Who is Franklin D. Roosevelt?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/Roosevelt_Infamy.ogg/Roosevelt_Infamy.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Roosevelt_Infamy.ogg",
+    "credit": "Recording: Bradley, John G. (John Grover), 1886-1974 (NARA record) Derivative work:...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m03",
+   "tier": 1,
+   "q": "US Marines raise the flag in 1945 on which Pacific island in this famous photo?",
+   "a": "What is Iwo Jima?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/1280px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg",
+    "credit": "Joe Rosenthal",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m04",
+   "tier": 1,
+   "q": "This photo shows the Allied landings in Normandy on June 6, 1944, known as what?",
+   "a": "What is D-Day?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Into_the_Jaws_of_Death_23-0455M_edit.jpg/1280px-Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+    "credit": "Chief Photographer's Mate (CPHoM) Robert F. Sargent",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m05",
+   "tier": 2,
+   "q": "This Japanese surprise attack on December 7, 1941, was photographed from a Japanese plane. Name the target",
+   "a": "What is Pearl Harbor?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1280px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+    "credit": "Imperial Japanese Navy",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m06",
+   "tier": 2,
+   "q": "Name this German cipher machine, whose code was broken by the Allies",
+   "a": "What is Enigma?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg/960px-Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg",
+    "credit": "Alessandro Nassiri",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "wwii-m07",
+   "tier": 2,
+   "q": "This 'We Can Do It!' poster woman is popularly known by what name?",
+   "a": "Who is Rosie the Riveter?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg/1280px-We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:We_Can_Do_It!_NARA_535413_-_Restoration_2.jpg",
+    "credit": "J. Howard Miller",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m08",
+   "tier": 2,
+   "q": "This British fighter plane, shown attacking a bomber, was the hero of which 1940 air campaign?",
+   "a": "What is the Battle of Britain?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg/500px-Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg",
+    "credit": "Australian armed forces",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m09",
+   "tier": 3,
+   "q": "This corncob-pipe general vowed 'I shall return' to the Philippines. Name him",
+   "a": "Who is Douglas MacArthur?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/MacArthur_Manila_%28cropped2%29%28b%29.jpg/1280px-MacArthur_Manila_%28cropped2%29%28b%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MacArthur_Manila_(cropped2)(b).jpg",
+    "credit": "Photographer not credited.",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m10",
+   "tier": 3,
+   "q": "Churchill, Roosevelt and Stalin met in February 1945 at which Crimean resort conference?",
+   "a": "What is Yalta?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg/1280px-Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B%26W).jpg",
+    "credit": "US government photographer",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m11",
+   "tier": 3,
+   "q": "British troops line up on this French beach in 1940, awaiting evacuation. Name the port",
+   "a": "What is Dunkirk?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dunkirk_26-29_May_1940_NYP68075.jpg/1280px-Dunkirk_26-29_May_1940_NYP68075.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dunkirk_26-29_May_1940_NYP68075.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m12",
+   "tier": 3,
+   "q": "This general led the Free French from London. Name him",
+   "a": "Who is Charles de Gaulle?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg/1280px-De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI_(cropped)_(c)(2).jpg",
+    "credit": "Office of War Information, Overseas Picture Division. [1] The image prefix (LC-USW3)...",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m13",
+   "tier": 4,
+   "q": "This British general, nicknamed 'Monty', won at El Alamein. Name him",
+   "a": "Who is Bernard Montgomery?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/General_Sir_Bernard_Montgomery_in_England%2C_1943_TR1036_%28cropped%29.jpg/1280px-General_Sir_Bernard_Montgomery_in_England%2C_1943_TR1036_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:General_Sir_Bernard_Montgomery_in_England,_1943_TR1036_(cropped).jpg",
+    "credit": "Possibly Edward George William Malindine",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m14",
+   "tier": 4,
+   "q": "Alan Turing worked at this English country house, home of the codebreakers. Name it",
+   "a": "What is Bletchley Park?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bletchley_Park_Mansion.jpg/1280px-Bletchley_Park_Mansion.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+    "credit": "DeFacto",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "wwii-m15",
+   "tier": 4,
+   "q": "A Soviet soldier raises a flag over the Reichstag in May 1945. In which city?",
+   "a": "What is Berlin?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg/1280px-Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+    "credit": "Yevgeny Khaldei / Adam Cuerden",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m16",
+   "tier": 4,
+   "q": "The carrier Yorktown is hit by a torpedo in June 1942 during which decisive Pacific clash?",
+   "a": "What is the Battle of Midway?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/1280px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:USS_Yorktown_(CV-5)_is_hit_by_a_torpedo_on_4_June_1942.jpg",
+    "credit": "USN, photographed from USS Pensacola (CA-24)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m17",
+   "tier": 5,
+   "q": "This Japanese admiral planned the attack on Pearl Harbor. Name him",
+   "a": "Who is Isoroku Yamamoto?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Portrait_of_Yamamoto_Isoroku_%28cropped%29.jpg/500px-Portrait_of_Yamamoto_Isoroku_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Yamamoto_Isoroku_(cropped).jpg",
+    "credit": "Unknown author",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m18",
+   "tier": 5,
+   "q": "These Marines on Saipan used their Native American language as an unbreakable code. Name their people",
+   "a": "Who are the Navajo?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Navajo_Indian_communication_men_with_the_Marines_on_Saipan_landed_with_the_first_assault_waves_to_his_the_beach._-_NARA_-_532526.tif/lossy-page1-1280px-Navajo_Indian_communication_men_with_the_Marines_on_Saipan_landed_with_the_first_assault_waves_to_his_the_beach._-_NARA_-_532526.tif.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Navajo_Indian_communication_men_with_the_Marines_on_Saipan_landed_with_the_first_assault_waves_to_his_the_beach._-_NARA_-_532526.tif",
+    "credit": "Unknown author or not provided",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "wwii-m19",
+   "tier": 5,
+   "q": "This Soviet marshal led the defense of Moscow and the capture of Berlin. Name him",
+   "a": "Who is Georgy Zhukov?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_%28cropped%29.jpg/960px-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_(cropped).jpg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY 4.0"
+   }
+  },
+  {
+   "id": "wwii-m20",
+   "tier": 5,
+   "q": "These pilots of the 332nd Fighter Group, the first Black US military aviators, are known as what?",
+   "a": "Who are the Tuskegee Airmen?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pilots_of_the_332nd_Fighter_Group.jpg/1280px-Pilots_of_the_332nd_Fighter_Group.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pilots_of_the_332nd_Fighter_Group.jpg",
+    "credit": "USAAF",
+    "license": "Public domain"
+   }
   }
  ]
 }

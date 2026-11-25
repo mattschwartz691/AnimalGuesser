@@ -602,6 +602,266 @@
    "q": "Krio is an official language of this African country.",
    "a": "What is Sierra Leone?",
    "tier": 5
+  },
+  {
+   "id": "countries-m01",
+   "tier": 1,
+   "q": "Name this country, shown in green",
+   "a": "What is Australia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australia_%28orthographic_projection%29.svg/1280px-Australia_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Australia_(orthographic_projection).svg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m02",
+   "tier": 1,
+   "q": "Name this boot-shaped country, shown in green",
+   "a": "What is Italy?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Italy_%28orthographic_projection%29.svg/1280px-Italy_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Italy_(orthographic_projection).svg",
+    "credit": "Neq00",
+    "license": "CC0"
+   }
+  },
+  {
+   "id": "countries-m03",
+   "tier": 1,
+   "q": "Name this country, shown in green",
+   "a": "What is India?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/1280px-India_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:India_(orthographic_projection).svg",
+    "credit": "Ssolbergj",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m04",
+   "tier": 1,
+   "q": "Listen: this is the national anthem of which country?",
+   "a": "What is France?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/La_Marseillaise.ogg/La_Marseillaise.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Marseillaise.ogg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "countries-m05",
+   "tier": 2,
+   "q": "Name this island country, shown in green",
+   "a": "What is Madagascar?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Madagascar_%28orthographic_projection%29.svg/1280px-Madagascar_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Madagascar_(orthographic_projection).svg",
+    "credit": "Connormah",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m06",
+   "tier": 2,
+   "q": "Name this long, narrow country, shown in green",
+   "a": "What is Chile?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chile_%28orthographic_projection%29.svg/1280px-Chile_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Chile_(orthographic_projection).svg",
+    "credit": "Addicted04",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "countries-m07",
+   "tier": 2,
+   "q": "Name this country, shown in green, that covers most of the Arabian Peninsula",
+   "a": "What is Saudi Arabia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saudi_Arabia_%28orthographic_projection%29.svg/1280px-Saudi_Arabia_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Saudi_Arabia_(orthographic_projection).svg",
+    "credit": "Keepscases, perlshaper",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m08",
+   "tier": 2,
+   "q": "Listen: this is the national anthem of which country?",
+   "a": "What is Mexico?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Himno_Nacional_Mexicano_instrumental.ogg/Himno_Nacional_Mexicano_instrumental.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Himno_Nacional_Mexicano_instrumental.ogg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "countries-m09",
+   "tier": 3,
+   "q": "Name this landlocked country, shown in green",
+   "a": "What is Mongolia?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mongolia_%28orthographic_projection%29.svg/1280px-Mongolia_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Mongolia_(orthographic_projection).svg",
+    "credit": "ASDFGHJ",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m10",
+   "tier": 3,
+   "q": "Name this country, shown in green",
+   "a": "What is Peru?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Peru_%28orthographic_projection%29.svg/1280px-Peru_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Peru_(orthographic_projection).svg",
+    "credit": "Addicted04, Connormah",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m11",
+   "tier": 3,
+   "q": "Name this self-governing territory, shown in green",
+   "a": "What is Greenland?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Greenland_%28orthographic_projection%29.svg/1280px-Greenland_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Greenland_(orthographic_projection).svg",
+    "credit": "Connormah",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m12",
+   "tier": 3,
+   "q": "Listen: this is the national anthem of which country?",
+   "a": "What is Japan?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Kimi_ga_Yo_instrumental.ogg/Kimi_ga_Yo_instrumental.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "countries-m13",
+   "tier": 4,
+   "q": "Name this country, shown in green, the largest landlocked country on Earth",
+   "a": "What is Kazakhstan?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kazakhstan_%28orthographic_projection%29.svg/1280px-Kazakhstan_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Kazakhstan_(orthographic_projection).svg",
+    "credit": "Turkish Flame",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "countries-m14",
+   "tier": 4,
+   "q": "Name this country, shown in green, which owns the Galapagos Islands",
+   "a": "What is Ecuador?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ecuador_%28orthographic_projection%29.svg/1280px-Ecuador_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Ecuador_(orthographic_projection).svg",
+    "credit": "Addicted04",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m15",
+   "tier": 4,
+   "q": "Name this territory, shown in green",
+   "a": "What is Puerto Rico?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Puerto_Rico_%28orthographic_projection%29.svg/1280px-Puerto_Rico_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Puerto_Rico_(orthographic_projection).svg",
+    "credit": "Milenioscuro",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "countries-m16",
+   "tier": 4,
+   "q": "Listen: this is the national anthem of which country?",
+   "a": "What is Russia?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Russian_anthem_instrumental.oga/Russian_anthem_instrumental.oga.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:Russian_anthem_instrumental.oga",
+    "credit": "Unknown author (see Commons page)",
+    "license": "Public domain"
+   }
+  },
+  {
+   "id": "countries-m17",
+   "tier": 5,
+   "q": "Name this landlocked country, shown in green",
+   "a": "What is Laos?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laos_%28orthographic_projection%29.svg/1280px-Laos_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Laos_(orthographic_projection).svg",
+    "credit": "Source file: Ssolbergj This file: Svenskbygderna",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "countries-m18",
+   "tier": 5,
+   "q": "Name this landlocked country, shown in green",
+   "a": "What is Paraguay?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Paraguay_%28orthographic_projection%29.svg/1280px-Paraguay_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Paraguay_(orthographic_projection).svg",
+    "credit": "Ssolbergj (source map), Connormah",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m19",
+   "tier": 5,
+   "q": "Name this landlocked country, shown in green",
+   "a": "What is Burkina Faso?",
+   "media": {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/1280px-Burkina_Faso_%28orthographic_projection%29.svg.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Burkina_Faso_(orthographic_projection).svg",
+    "credit": "Africa_(orthographic_projection).svg: Martin23230 derivative work: F l a n k e r,...",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "countries-m20",
+   "tier": 5,
+   "q": "Listen: this is the national anthem of which country?",
+   "a": "What is Kenya?",
+   "media": {
+    "type": "audio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/National_anthem_of_Kenya%2C_performed_by_the_United_States_Navy_Band.ogg/National_anthem_of_Kenya%2C_performed_by_the_United_States_Navy_Band.ogg.mp3",
+    "page": "https://commons.wikimedia.org/wiki/File:National_anthem_of_Kenya,_performed_by_the_United_States_Navy_Band.ogg",
+    "credit": "USN Band, Traditional",
+    "license": "Public domain"
+   }
   }
  ]
 }
