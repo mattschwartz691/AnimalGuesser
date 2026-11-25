@@ -303,7 +303,9 @@
    "q": "This glossy wood finish, once used to make 78 rpm records, comes from a resin secreted by female lac bugs",
    "a": "What is shellac?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "bugs-m01",
    "tier": 1,

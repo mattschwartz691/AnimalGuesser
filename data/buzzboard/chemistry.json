@@ -303,7 +303,9 @@
    "q": "This branch of chemistry calculates the amounts of reactants and products in a reaction from a balanced equation",
    "a": "What is stoichiometry?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "chemistry-m01",
    "tier": 1,

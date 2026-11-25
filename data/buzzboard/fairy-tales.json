@@ -303,7 +303,9 @@
    "q": "In the Grimm tale 'The Fisherman and His Wife', the fisherman catches this enchanted wish-granting fish",
    "a": "What is a flounder?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "fairy-tales-m01",
    "tier": 1,

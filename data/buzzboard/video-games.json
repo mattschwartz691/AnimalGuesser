@@ -303,7 +303,9 @@
    "q": "This silent, crowbar-wielding MIT-educated physicist is the hero of Half-Life",
    "a": "Who is Gordon Freeman?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "video-games-m01",
    "tier": 1,

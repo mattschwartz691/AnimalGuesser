@@ -303,7 +303,9 @@
    "q": "This Post-Impressionist from Aix-en-Provence painted the mountain Mont Sainte-Victoire again and again",
    "a": "Who is Paul Cézanne?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "art-m01",
    "tier": 1,

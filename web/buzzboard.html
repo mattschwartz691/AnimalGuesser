@@ -167,6 +167,10 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 .media video { max-width: 100%; max-height: 46vh; border-radius: 10px; background: #000; }
 .media audio { width: min(560px, 100%); }
 .media.failed { color: var(--dim); padding: 20px; }
+.media.loadingmedia img, .media.loadingmedia video { display: none; }
+.mediawait { color: var(--dim); padding: 40px 20px; font-weight: 600; }
+.clue .q.waiting { visibility: hidden; }
+.swapnote { margin: 0; text-align: center; color: var(--gold); font-weight: 600; }
 .credit-line { color: var(--dim); font-size: .72rem; text-decoration: none; text-align: center; max-width: 90%; overflow-wrap: anywhere; }
 .credit-line:hover { color: var(--ink); text-decoration: underline; }
 .clue.withmedia .q { flex: 0 0 auto; font-size: clamp(1.15rem, 2.6vw, 2.1rem); }
@@ -306,12 +310,13 @@ async function loadCategory(slug) {
   if (!res.ok) throw new Error(`Couldn't load ${slug} (${res.status})`);
   const json = await res.json();
   const tiers = [[], [], [], [], []], media = [[], [], [], [], []];
-  for (const c of json.clues) {
+  // picture / sound / video clues live in their own list, so a stale copy of this page can't show them without the picture
+  for (const c of json.clues.concat(json.media || [])) {
     if (!(c.tier >= 1 && c.tier <= 5)) continue;
     if (c.media) { if (MEDIA_ON) media[c.tier - 1].push(c); }
     else tiers[c.tier - 1].push(c);
   }
-  DATA[slug] = { tiers, media, total: json.clues.length };
+  DATA[slug] = { tiers, media, total: json.clues.length + (json.media || []).length };
   return DATA[slug];
 }
 // Pick an unseen clue of this tier; when a tier runs out, it starts over.
@@ -449,6 +454,7 @@ async function startGame(keepScores) {
   const cols = shuffle([0, 1, 2, 3, 4]).slice(0, 2);
   G.doubles = cols.map(c => `${c}-${1 + Math.floor(Math.random() * 4)}`);
   renderAll();
+  preloadMedia();
 }
 function showPlay() {
   $("title").hidden = true; $("play-view").hidden = false; $("teambar").hidden = false;
@@ -519,30 +525,79 @@ function openClue(c, r) {
   if (isLive()) window.LIVE.clueOpened();
   renderClue(); renderTeams();
 }
-function mediaBlock(m) {
+// hooks.ready() runs once the picture / sound can be shown; hooks.fail() if it still won't load after a retry.
+function mediaBlock(m, hooks) {
   const box = document.createElement("div");
-  box.className = "media";
-  let el;
+  box.className = "media loadingmedia";
+  const kind = m.type === "image" ? "picture" : m.type === "audio" ? "sound clip" : "video";
+  const wait = document.createElement("div");
+  wait.className = "mediawait"; wait.textContent = `Loading the ${kind}…`;
+  let el, tries = 0, done = false;
+  const ready = () => {
+    if (done) return; done = true;
+    box.classList.remove("loadingmedia"); wait.remove();
+    hooks.ready();
+  };
   if (m.type === "image") {
     el = document.createElement("img");
-    el.alt = "Picture clue"; el.src = m.url; el.decoding = "async";
+    el.alt = "Picture clue"; el.decoding = "async";
+    el.addEventListener("load", ready);
   } else {
     el = document.createElement(m.type === "video" ? "video" : "audio");
-    el.controls = true; el.preload = "auto"; el.src = m.url;
+    el.controls = true; el.preload = "auto";
     if (m.type === "video") el.playsInline = true;
+    el.addEventListener("loadedmetadata", ready);
     // try to start it; browsers may refuse until someone clicks, so the controls stay visible
-    setTimeout(() => { const p = el.play && el.play(); if (p && p.catch) p.catch(() => {}); }, 300);
+    el.addEventListener("canplay", () => { const p = el.play && el.play(); if (p && p.catch) p.catch(() => {}); }, { once: true });
   }
-  el.addEventListener("error", () => { box.textContent = "The picture or sound didn't load. Check the connection."; box.classList.add("failed"); });
-  box.append(el);
+  const giveUp = () => {
+    if (done || !document.body.contains(box)) return;
+    done = true;
+    box.classList.add("failed"); box.classList.remove("loadingmedia");
+    box.textContent = `The ${kind} didn't load.`;
+    hooks.fail();
+  };
+  el.addEventListener("error", () => {
+    if (done || !document.body.contains(box)) return;
+    if (++tries === 1) { setTimeout(() => { if (!done) el.src = m.url + "?retry=1"; }, 1200); return; }
+    giveUp();
+  });
+  setTimeout(giveUp, 12000);         // still nothing after 12 seconds: treat it as not loading
+  el.src = m.url;
+  box.append(wait, el);
   const credit = document.createElement("a");
   credit.className = "credit-line"; credit.href = m.page;
-  credit.hidden = true;              // the credit can name the answer ("who painted this?"), so it waits for the answer credit.target = "_blank"; credit.rel = "noopener";
+  credit.hidden = true;              // the credit can name the answer ("who painted this?"), so it waits for the answer
+  credit.target = "_blank"; credit.rel = "noopener";
   credit.textContent = `${m.type === "image" ? "Image" : m.type === "audio" ? "Audio" : "Video"}: ${m.credit} · ${m.license} · Wikimedia Commons`;
   const wrap = document.createElement("div");
   wrap.className = "mediawrap";
   wrap.append(box, credit);
   return wrap;
+}
+// Start downloading this board's pictures now, so they're ready when their square is picked.
+const preloaded = new Set();
+function preloadMedia() {
+  if (!G.board) return;
+  for (const col of G.board) for (const c of col.clues) {
+    if (!c.media || c.media.type !== "image" || preloaded.has(c.media.url)) continue;
+    preloaded.add(c.media.url);
+    const img = new Image(); img.decoding = "async"; img.src = c.media.url;
+  }
+}
+// The picture / sound wouldn't load: swap in a regular question of the same value, so nobody is asked about something they can't see.
+async function replaceMediaClue(c, r, id) {
+  const col = G.board[c];
+  try { await loadCategory(col.slug); } catch (e) { return; }
+  if (G.view !== "clue" || !G.open || G.open.c !== c || G.open.r !== r || G.open.shown || col.clues[r].id !== id) return;
+  const avoid = new Set(G.board.flatMap(k => k.clues).map(x => answerKey(x.a)));
+  const fresh = drawClue(col.slug, r, avoid, "text");
+  if (!fresh) return;
+  col.clues[r] = fresh;
+  markSeen(col.slug, fresh.id);
+  G.open.swapped = true;
+  if (G.open.deadline && !G.open.stopped) G.open.deadline = Date.now() + clueSecs(fresh) * 1000;
+  renderClue();
 }
 function renderClue() {
   const { c, r, shown } = G.open, col = G.board[c], clue = col.clues[r];
@@ -574,7 +629,19 @@ function renderClue() {
   $("cluev").textContent = G.open.dd ? `Double Down · ${G.teams[G.open.dd.team].name} bets ${G.open.dd.bet.toLocaleString()}` : VALUES[r];
   stage.querySelector(".q").textContent = clue.q;
   stage.querySelector(".clue").dataset.id = clue.id;
-  if (clue.media) stage.querySelector(".q").before(mediaBlock(clue.media));
+  if (G.open.swapped) stage.querySelector(".q").before(Object.assign(document.createElement("p"), { className: "swapnote", textContent: "The picture or sound didn't load, so here's a different question." }));
+  if (clue.media) {
+    const q = stage.querySelector(".q"), opened = Date.now(), o = G.open;
+    q.classList.add("waiting");     // don't ask about a picture that isn't on screen yet
+    q.before(mediaBlock(clue.media, {
+      ready: () => {
+        q.classList.remove("waiting");
+        // a slow picture shouldn't eat the clock: on one screen the countdown starts when it appears
+        if (o === G.open && o.deadline && !o.stopped && !o.shown && Date.now() - opened > 500) { o.deadline = Date.now() + clueSecs(clue) * 1000; runTimer(o, clueSecs(clue)); }
+      },
+      fail: () => { q.classList.remove("waiting"); if (o === G.open && !o.shown) replaceMediaClue(G.open.c, G.open.r, clue.id); },
+    }));
+  }
   stage.querySelector(".a").textContent = shown ? clue.a : "";
   $("reveal").onclick = toggleAnswer;
   $("back").onclick = closeClue;
@@ -947,6 +1014,7 @@ async function start(hot) {
     try { await Promise.all(G.picked.map(loadCategory)); } catch (e) {}
   } else G.view = "title";
   renderAll();
+  preloadMedia();
 }
 window.claude?.hot?.snapshot?.(() => ({ G }));
 // wait for the whole page (live.js comes after this script on the GitHub copy)

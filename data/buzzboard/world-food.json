@@ -303,7 +303,9 @@
    "q": "This Danish open-faced sandwich on buttered rye bread is a lunchtime tradition",
    "a": "What is smørrebrød?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "world-food-m01",
    "tier": 1,

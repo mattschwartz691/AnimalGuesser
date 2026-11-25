@@ -602,7 +602,9 @@
    "q": "This American actress appeared in Reds, Manhattan and Father of the Bride.",
    "a": "Who is Diane Keaton?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "actors-m01",
    "tier": 1,

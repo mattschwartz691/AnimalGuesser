@@ -602,7 +602,9 @@
    "q": "This 1976 American neo-noir psychological drama film was directed by Martin Scorsese and written by Paul Schrader.",
    "a": "What is Taxi Driver?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "movies-m01",
    "tier": 1,

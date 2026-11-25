@@ -303,7 +303,9 @@
    "q": "Yoda fights alongside clone troopers on this forested Wookiee homeworld in Revenge of the Sith",
    "a": "What is Kashyyyk?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "star-wars-m01",
    "tier": 1,

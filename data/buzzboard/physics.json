@@ -303,7 +303,9 @@
    "q": "This bongo-playing physicist dunked an O-ring in ice water to explain the Challenger disaster",
    "a": "Who is Richard Feynman?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "physics-m01",
    "tier": 1,

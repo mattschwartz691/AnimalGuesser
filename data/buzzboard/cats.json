@@ -303,7 +303,9 @@
    "q": "This Asian rainforest cat has the longest canine teeth relative to body size of any living cat",
    "a": "What is the clouded leopard?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "cats-m01",
    "tier": 1,

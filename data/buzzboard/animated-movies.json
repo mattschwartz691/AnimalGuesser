@@ -303,7 +303,9 @@
    "q": "This animator worked with Walt Disney to create Mickey Mouse and Oswald the Lucky Rabbit",
    "a": "Who is Ub Iwerks?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "animated-movies-m01",
    "tier": 1,

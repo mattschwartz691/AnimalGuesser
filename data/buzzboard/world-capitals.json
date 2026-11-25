@@ -303,7 +303,9 @@
    "q": "Namibia's capital, this city sits on a central plateau between the Namib and Kalahari deserts",
    "a": "What is Windhoek?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "world-capitals-m01",
    "tier": 1,

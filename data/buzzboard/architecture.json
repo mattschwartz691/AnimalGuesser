@@ -303,7 +303,9 @@
    "q": "This 16th-century Italian architect wrote 'The Four Books of Architecture,' and his villas near Venice inspired a style named for him",
    "a": "Who is Andrea Palladio?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "architecture-m01",
    "tier": 1,

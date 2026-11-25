@@ -303,7 +303,9 @@
    "q": "This computer scientist, who worked at Xerox PARC, is credited with creating cut, copy and paste",
    "a": "Who is Larry Tesler?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "coding-m01",
    "tier": 1,

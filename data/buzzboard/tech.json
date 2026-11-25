@@ -303,7 +303,9 @@
    "q": "Sony introduced this robotic dog in 1999",
    "a": "What is AIBO?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "tech-m01",
    "tier": 1,

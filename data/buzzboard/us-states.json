@@ -303,7 +303,9 @@
    "q": "This state broke away from its neighbor during the Civil War and joined the Union in 1863",
    "a": "What is West Virginia?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "us-states-m01",
    "tier": 1,

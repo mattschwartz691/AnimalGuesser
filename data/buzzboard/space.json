@@ -303,7 +303,9 @@
    "q": "Set at 100 kilometers above sea level, this imaginary boundary is often used to mark where outer space begins",
    "a": "What is the Karman line?",
    "tier": 5
-  },
+  }
+ ],
+ "media": [
   {
    "id": "space-m01",
    "tier": 1,
