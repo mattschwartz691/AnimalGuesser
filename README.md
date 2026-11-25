@@ -26,6 +26,14 @@ switcher at the top right (Animals · Things · Buzzboard) moves between all thr
   ("What is…?"), **Esc** goes back to the board.
 - **Scoring:** each team's − and + take away or give the value of the last
   square opened. The host decides who got it.
+- **Timer** (on by default, 10 s; 5–60 s on the title screen): counts down when a clue
+  opens and buzzes at zero. Showing the answer stops it.
+- **Take turns picking** (on by default): the team whose turn it is to pick is
+  highlighted, and the turn passes to the next team after every square.
+- **Final round:** after the board (or any time, from the top bar) one of the five
+  categories is drawn. Each team bets up to its score (0 if it's at or below zero),
+  everyone answers the same hard clue (30 s on the timer), and the host marks each
+  team right or wrong to add or take away its bet.
 - **No repeats:** clues already shown are remembered in the browser and skipped
   until a category runs out; one answer never appears twice on the same board.
 

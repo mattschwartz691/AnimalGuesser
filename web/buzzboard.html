@@ -125,6 +125,41 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 .done .rank div:first-child { border-color: var(--gold); }
 .done .rank b { font-variant-numeric: tabular-nums; }
 
+/* ---------- options, timer, picker, final round ---------- */
+.optrow { display: flex; flex-wrap: wrap; gap: 10px 18px; justify-content: center; align-items: center; }
+.toggle { display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; font-weight: 700; cursor: pointer; }
+.toggle input { width: 18px; height: 18px; accent-color: var(--accent); }
+.secs { display: inline-flex; gap: 6px; flex-wrap: wrap; }
+.secs button { min-width: 46px; height: 38px; font-weight: 700; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 9px; }
+.secs button.on { background: var(--accent); color: #06101f; border-color: var(--accent); }
+.secs button:disabled { opacity: .4; cursor: not-allowed; }
+.timer { display: flex; align-items: center; gap: 14px; }
+.tbar { flex: 1; height: 10px; background: var(--bg); border-radius: 5px; overflow: hidden; }
+.tbar > div { height: 100%; width: 100%; background: var(--gold); transform-origin: left; }
+.tnum { min-width: 3.2em; text-align: right; font-weight: 900; font-size: clamp(1.4rem, 3vw, 2.2rem); font-variant-numeric: tabular-nums; color: var(--gold); }
+.timer.low .tbar > div { background: var(--red); } .timer.low .tnum { color: var(--red); }
+.timer.over .tnum { color: var(--red); }
+.team.picking { border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold) inset; }
+.team .pick { font-size: .7rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); min-height: 1em; margin-bottom: -4px; }
+.topbar .picker { color: var(--gold); font-weight: 800; }
+.final { flex: 1; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: clamp(18px, 4vw, 44px); display: flex; flex-direction: column; gap: 18px; overflow: auto; min-height: 0; }
+.final .eyebrow { color: var(--gold); font-weight: 900; letter-spacing: .14em; text-transform: uppercase; text-align: center; }
+.final .fcat { margin: 0; text-align: center; font-size: clamp(1.8rem, 5vw, 3.4rem); font-weight: 900; text-transform: uppercase; text-wrap: balance; }
+.final .note { margin: 0; text-align: center; color: var(--dim); }
+.bets { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; }
+.bet { background: #151a22; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.bet label { font-weight: 700; overflow-wrap: break-word; }
+.bet label small { color: var(--dim); font-weight: 500; display: block; }
+.bet input { width: 100%; padding: 8px 10px; font: 700 1.1rem var(--ui); background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; font-variant-numeric: tabular-nums; }
+.bet input:focus { border-color: var(--accent); outline: none; }
+.bet .judge { display: flex; gap: 6px; }
+.bet .judge button { flex: 1; padding: 8px; font-weight: 800; background: transparent; color: var(--dim); border: 1px solid var(--line); border-radius: 8px; }
+.bet .judge .r.on { background: var(--green); border-color: var(--green); color: #06101f; }
+.bet .judge .w.on { background: var(--red); border-color: var(--red); color: #fff; }
+.final .q { margin: 0; text-align: center; font-family: var(--clue); font-size: clamp(1.4rem, 3.6vw, 2.8rem); line-height: 1.2; text-wrap: balance; }
+.final .a { text-align: center; font-size: clamp(1.2rem, 3vw, 2.2rem); font-weight: 800; color: var(--green); min-height: 1.3em; }
+.final .go { align-self: center; padding: 12px 28px; font-weight: 800; background: var(--accent); color: #06101f; border: 1px solid var(--accent); border-radius: 11px; }
+.final .go:disabled { opacity: .45; cursor: not-allowed; }
 @media (max-width: 640px) {
   .board { gap: 5px; grid-template-rows: auto repeat(5, minmax(48px, 1fr)); }
   .head { font-size: .62rem; padding: 6px 3px; min-height: 52px; letter-spacing: 0; }
@@ -155,6 +190,17 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
       <div class="order" id="order"></div>
     </div>
 
+    <div class="step">
+      <h2>Options</h2>
+      <div class="optrow">
+        <label class="toggle" for="opt-timer"><input type="checkbox" id="opt-timer"> Timer</label>
+        <div class="secs" id="secs" aria-label="Seconds per clue"></div>
+      </div>
+      <div class="optrow">
+        <label class="toggle" for="opt-rotate"><input type="checkbox" id="opt-rotate"> Take turns picking squares</label>
+      </div>
+    </div>
+
     <div class="setupbtns">
       <button type="button" id="randomcats">Pick 5 for me</button>
       <button type="button" id="clearcats">Clear</button>
@@ -169,6 +215,7 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
       <div class="logo">BUZZ<span>BOARD</span></div>
       <span class="hint" id="left"></span>
       <div class="spacer"></div>
+      <button class="tb" id="finalbtn" type="button">Final round</button>
       <button class="tb" id="newboard" type="button">New board</button>
       <button class="tb" id="fullscreen" type="button">Full screen</button>
       <button class="tb" id="totitle" type="button">Title screen</button>
@@ -200,9 +247,14 @@ let G = {
   board: null,                // [{slug, name, clues: [clue x5]}]
   used: {},                   // "col-row" → true for squares already opened
   lastValue: 0, lastKey: null,
-  view: "title",              // title | board | clue | done
-  open: null,                 // {c, r, shown}
+  view: "title",              // title | board | clue | final | done
+  open: null,                 // {c, r, shown, deadline, stopped}
+  timerOn: true, timerSecs: 10,
+  rotate: true, picker: 0,    // whose turn it is to pick a square
+  final: null,                // {c, clue, phase: "bet"|"clue"|"over", bets, judged, base, shown, deadline}
 };
+const TIMER_CHOICES = [5, 10, 15, 20, 30, 45, 60];
+const FINAL_SECS = 30;
 const DATA = {};              // slug → {clues: [...] grouped by tier}
 let seen = store.get("buzzboard-seen", {});   // slug → [clue ids] already shown on this device
 
@@ -294,6 +346,17 @@ function renderTitle() {
     span.append((CATEGORIES.find(c => c.slug === s) || {name: s}).name);
     order.append(span);
   });
+  $("opt-timer").checked = G.timerOn;
+  $("opt-rotate").checked = G.rotate;
+  const secs = $("secs");
+  secs.textContent = "";
+  for (const n of TIMER_CHOICES) {
+    const b = document.createElement("button");
+    b.type = "button"; b.textContent = `${n}s`; b.className = n === G.timerSecs ? "on" : "";
+    b.disabled = !G.timerOn; b.setAttribute("aria-pressed", n === G.timerSecs);
+    b.onclick = () => { G.timerSecs = n; renderTitle(); };
+    secs.append(b);
+  }
   $("play").disabled = G.picked.length !== 5;
   $("play").textContent = G.picked.length === 5 ? "Play" : `Pick ${5 - G.picked.length} more`;
   save();
@@ -302,7 +365,8 @@ function renderTitle() {
 /* ------------------------------------------------------------------ game */
 async function startGame(keepScores) {
   if (!keepScores) G.teams = Array.from({ length: G.teamCount }, (_, i) => ({ name: (G.names[i] || "").trim() || "Unnamed", score: 0 }));
-  G.view = "board"; G.used = {}; G.lastValue = 0; G.lastKey = null; G.open = null;
+  G.view = "board"; G.used = {}; G.lastValue = 0; G.lastKey = null; G.open = null; G.final = null;
+  if (!keepScores) G.picker = 0;
   showPlay();
   const stage = $("stage");
   stage.innerHTML = `<div class="loading">Shuffling the questions…</div>`;
@@ -326,7 +390,10 @@ function showPlay() {
 function renderAll() {
   if (G.view === "title") { $("title").hidden = false; $("play-view").hidden = true; $("teambar").hidden = true; renderTitle(); return; }
   showPlay();
-  if (G.view === "clue" && G.open) renderClue(); else if (G.view === "done") renderDone(); else renderBoard();
+  if (G.view === "clue" && G.open) renderClue();
+  else if (G.view === "final" && G.final) renderFinal();
+  else if (G.view === "done") renderDone();
+  else renderBoard();
 }
 function squaresLeft() { return G.board ? 25 - Object.keys(G.used).length : 0; }
 function renderBoard() {
@@ -351,18 +418,27 @@ function renderBoard() {
   }));
   stage.append(board);
   const left = squaresLeft();
-  $("left").textContent = left ? `${left} square${left === 1 ? "" : "s"} left · Space shows the answer · Esc goes back` : "";
+  const hint = $("left");
+  hint.textContent = "";
+  if (left && pickerOn()) {
+    const who = document.createElement("span");
+    who.className = "picker"; who.textContent = `${G.teams[G.picker].name} picks · `;
+    hint.append(who);
+  }
+  if (left) hint.append(`${left} square${left === 1 ? "" : "s"} left · Space shows the answer · Esc goes back`);
+  $("finalbtn").hidden = false;
+  renderTeams();
   if (!left) renderDone();
   save();
 }
 function openClue(c, r) {
-  G.open = { c, r, shown: false };
+  G.open = { c, r, shown: false, deadline: G.timerOn ? Date.now() + G.timerSecs * 1000 : 0, stopped: false };
   G.lastValue = VALUES[r]; G.lastKey = `${c}-${r}`;
   G.used[G.lastKey] = true;
   const clue = G.board[c].clues[r];
   markSeen(G.board[c].slug, clue.id);
   G.view = "clue";
-  renderClue(); renderWorth();
+  renderClue(); renderTeams();
 }
 function renderClue() {
   const { c, r, shown } = G.open, col = G.board[c], clue = col.clues[r];
@@ -370,6 +446,7 @@ function renderClue() {
   stage.innerHTML = `
     <div class="clue" role="dialog" aria-label="Clue">
       <div class="meta"><span></span><span class="v">${VALUES[r]}</span></div>
+      ${G.open.deadline ? `<div class="timer" id="timer"><div class="tbar"><div></div></div><span class="tnum"></span></div>` : ""}
       <p class="q"></p>
       <div class="a" aria-live="polite"></div>
       <div class="keys">
@@ -383,23 +460,190 @@ function renderClue() {
   $("reveal").onclick = toggleAnswer;
   $("back").onclick = closeClue;
   $("left").textContent = "Space shows the answer · Esc goes back";
+  runTimer(G.open, G.timerSecs);
   save();
 }
-function toggleAnswer() { if (G.view !== "clue") return; G.open.shown = !G.open.shown; renderClue(); }
-function closeClue() { if (G.view !== "clue") return; G.open = null; renderBoard(); }
+function toggleAnswer() {
+  if (G.view !== "clue") return;
+  G.open.shown = !G.open.shown;
+  G.open.stopped = true;                      // showing the answer stops the clock
+  renderClue();
+}
+function closeClue() {
+  if (G.view !== "clue") return;
+  G.open = null;
+  if (pickerOn()) G.picker = (G.picker + 1) % G.teams.length;
+  renderBoard();
+}
+const pickerOn = () => G.rotate && G.teams.length > 1;
+
+/* ------------------------------------------------------------------ timer */
+let timerTick = 0, audio = null;
+function beep() {
+  try {
+    audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+    const t = audio.currentTime;
+    [0, .18].forEach(d => {
+      const o = audio.createOscillator(), g = audio.createGain();
+      o.type = "square"; o.frequency.value = 220;
+      g.gain.setValueAtTime(.08, t + d); g.gain.exponentialRampToValueAtTime(.0001, t + d + .16);
+      o.connect(g).connect(audio.destination); o.start(t + d); o.stop(t + d + .17);
+    });
+  } catch (e) {}
+}
+// Draws the countdown for `slot` ({deadline, stopped, buzzed}) into #timer until it runs out.
+function runTimer(slot, seconds) {
+  clearInterval(timerTick);
+  const el = $("timer");
+  if (!el || !slot.deadline) return;
+  const bar = el.querySelector(".tbar > div"), num = el.querySelector(".tnum");
+  const step = () => {
+    if (!document.body.contains(el)) { clearInterval(timerTick); return; }
+    const left = Math.max(0, (slot.deadline - Date.now()) / 1000);
+    if (slot.stopped && slot.frozen == null) slot.frozen = left;
+    const shown = slot.stopped ? slot.frozen : left;
+    bar.style.transform = `scaleX(${shown / seconds})`;
+    el.classList.toggle("low", shown > 0 && shown <= 3);
+    el.classList.toggle("over", shown <= 0);
+    num.textContent = shown > 0 ? Math.ceil(shown) : "Time!";
+    if (shown <= 0 && !slot.buzzed) { slot.buzzed = true; beep(); save(); }
+    if (slot.stopped || left <= 0) clearInterval(timerTick);
+  };
+  step();
+  if (!slot.stopped) timerTick = setInterval(step, 100);
+}
+
+/* ------------------------------------------------------------------ final round */
+function startFinal() {
+  if (!G.board) return;
+  const onBoard = new Set(G.board.flatMap(col => col.clues.map(cl => answerKey(cl.a))));
+  const c = Math.floor(Math.random() * G.board.length), slug = G.board[c].slug;
+  // a hard clue (1000 row) from one of this board's categories, not already on the board
+  let clue = drawClue(slug, 4, onBoard);
+  if (onBoard.has(answerKey(clue.a))) clue = drawClue(slug, 3, onBoard);
+  markSeen(slug, clue.id);
+  G.final = { c, clue, phase: "bet", bets: G.teams.map(() => 0), judged: G.teams.map(() => null),
+              base: G.teams.map(t => t.score), shown: false, deadline: 0, stopped: false };
+  G.open = null; G.view = "final";
+  renderTeams(); renderFinal();
+}
+const maxBet = i => Math.max(0, G.final.base[i]);
+function renderFinal() {
+  G.view = "final";
+  const F = G.final, stage = $("stage"), col = G.board[F.c];
+  $("finalbtn").hidden = true;
+  stage.textContent = "";
+  const box = document.createElement("div");
+  box.className = "final";
+  const eyebrow = document.createElement("div");
+  eyebrow.className = "eyebrow"; eyebrow.textContent = "Final round";
+  const cat = document.createElement("h2");
+  cat.className = "fcat"; cat.textContent = col.name;
+  box.append(eyebrow, cat);
+  const bets = document.createElement("div");
+  bets.className = "bets";
+
+  if (F.phase === "bet") {
+    const note = document.createElement("p");
+    note.className = "note";
+    note.textContent = "Each team secretly writes down a bet, up to its score (a team at zero or below can only bet 0). Then type the bets in.";
+    box.append(note);
+    G.teams.forEach((t, i) => {
+      const card = document.createElement("div"); card.className = "bet";
+      const lab = document.createElement("label"); lab.htmlFor = `bet-${i}`;
+      lab.textContent = t.name;
+      const sm = document.createElement("small"); sm.textContent = `Score ${F.base[i].toLocaleString()} · bet 0 to ${maxBet(i).toLocaleString()}`;
+      lab.append(sm);
+      const inp = document.createElement("input");
+      inp.type = "number"; inp.id = `bet-${i}`; inp.min = 0; inp.max = maxBet(i); inp.step = 100; inp.inputMode = "numeric";
+      inp.value = F.bets[i] || "";
+      inp.placeholder = "0";
+      inp.addEventListener("input", () => { F.bets[i] = Math.max(0, Math.min(maxBet(i), Math.round(+inp.value || 0))); save(); });
+      inp.addEventListener("blur", () => { inp.value = F.bets[i] || ""; });
+      card.append(lab, inp);
+      bets.append(card);
+    });
+    const go = document.createElement("button");
+    go.type = "button"; go.className = "btn go keybtn"; go.textContent = "Show the question";
+    go.onclick = () => { F.phase = "clue"; F.deadline = G.timerOn ? Date.now() + FINAL_SECS * 1000 : 0; renderFinal(); };
+    box.append(bets, go);
+    stage.append(box);
+    $("left").textContent = "Final round: type in the bets";
+    save();
+    return;
+  }
+
+  if (F.phase === "clue") {
+    if (F.deadline) {
+      const t = document.createElement("div");
+      t.className = "timer"; t.id = "timer";
+      t.innerHTML = `<div class="tbar"><div></div></div><span class="tnum"></span>`;
+      box.append(t);
+    }
+    const q = document.createElement("p"); q.className = "q"; q.textContent = F.clue.q;
+    const a = document.createElement("div"); a.className = "a"; a.setAttribute("aria-live", "polite");
+    a.textContent = F.shown ? F.clue.a : "";
+    const keys = document.createElement("div"); keys.className = "keys";
+    keys.innerHTML = `<button class="keybtn" type="button" id="freveal"><kbd>Space</kbd>${F.shown ? "Hide answer" : "Show answer"}</button>`;
+    box.append(q, a, keys);
+    G.teams.forEach((t, i) => {
+      const card = document.createElement("div"); card.className = "bet";
+      const lab = document.createElement("label");
+      lab.textContent = t.name;
+      const sm = document.createElement("small"); sm.textContent = `Bet ${F.bets[i].toLocaleString()}`;
+      lab.append(sm);
+      const judge = document.createElement("div"); judge.className = "judge";
+      const r = document.createElement("button"), w = document.createElement("button");
+      r.type = w.type = "button"; r.className = "r" + (F.judged[i] === true ? " on" : ""); w.className = "w" + (F.judged[i] === false ? " on" : "");
+      r.textContent = "Right"; w.textContent = "Wrong";
+      r.onclick = () => judgeFinal(i, true); w.onclick = () => judgeFinal(i, false);
+      judge.append(r, w);
+      card.append(lab, judge);
+      bets.append(card);
+    });
+    box.append(bets);
+    const allJudged = F.judged.every(j => j !== null);
+    const go = document.createElement("button");
+    go.type = "button"; go.className = "btn go keybtn"; go.textContent = "Final scores";
+    go.disabled = !allJudged;
+    go.title = allJudged ? "" : "Mark every team right or wrong first";
+    go.onclick = () => { F.phase = "over"; renderDone(); };
+    box.append(go);
+    stage.append(box);
+    $("freveal").onclick = toggleFinalAnswer;
+    $("left").textContent = "Space shows the answer · mark each team right or wrong";
+    runTimer(F, FINAL_SECS);
+    save();
+  }
+}
+function toggleFinalAnswer() {
+  const F = G.final;
+  if (G.view !== "final" || !F || F.phase !== "clue") return;
+  F.shown = !F.shown; F.stopped = true;
+  renderFinal();
+}
+function judgeFinal(i, right) {
+  const F = G.final;
+  F.judged[i] = F.judged[i] === right ? null : right;          // click again to undo
+  G.teams.forEach((t, k) => { t.score = F.base[k] + (F.judged[k] === true ? F.bets[k] : F.judged[k] === false ? -F.bets[k] : 0); });
+  renderTeams(); renderFinal();
+}
 function renderDone() {
   G.view = "done";
   const stage = $("stage");
   const order = G.teams.map(t => t).sort((a, b) => b.score - a.score);
   const top = order.length ? order[0].score : 0, winners = order.filter(t => t.score === top);
+  const finished = G.final && G.final.phase === "over";
   stage.innerHTML = `<div class="done"><h2></h2><div class="rank"></div>
-    <div class="setupbtns"><button type="button" class="go" id="again">New board, same teams</button><button type="button" id="again-title">Title screen</button></div></div>`;
-  stage.querySelector("h2").textContent = !order.length ? "Board cleared!" : winners.length > 1 ? "It's a tie!" : `${winners[0].name} wins!`;
+    <div class="setupbtns">${finished ? "" : `<button type="button" class="go" id="dofinal">Play the final round</button>`}<button type="button" ${finished ? 'class="go"' : ""} id="again">New board, same teams</button><button type="button" id="again-title">Title screen</button></div></div>`;
+  stage.querySelector("h2").textContent = !finished ? "Board cleared!" : !order.length ? "Game over" : winners.length > 1 ? "It's a tie!" : `${winners[0].name} wins!`;
+  if (!finished) $("dofinal").onclick = startFinal;
+  $("finalbtn").hidden = true;
   const rank = stage.querySelector(".rank");
   order.forEach(t => { const d = document.createElement("div"); d.innerHTML = "<span></span><b></b>"; d.firstChild.textContent = t.name; d.lastChild.textContent = t.score.toLocaleString(); rank.append(d); });
   $("again").onclick = () => startGame(true);
   $("again-title").onclick = toTitle;
-  $("left").textContent = "Board cleared";
+  $("left").textContent = finished ? "Final scores" : "Board cleared";
   save();
 }
 
@@ -418,7 +662,11 @@ function renderTeams() {
   renderWorth();
   G.teams.forEach((t, i) => {
     const card = document.createElement("div");
-    card.className = "team";
+    const picking = pickerOn() && G.view === "board" && i === G.picker;
+    card.className = "team" + (picking ? " picking" : "");
+    const tag = document.createElement("div");
+    tag.className = "pick"; tag.textContent = picking ? "Picks next" : "";
+    if (pickerOn()) card.append(tag);
     const name = document.createElement("input");
     name.className = "teamname"; name.value = t.name; name.maxLength = 20; name.id = `teamname-${i}`;
     name.setAttribute("aria-label", `Team ${i + 1} name`);
@@ -450,6 +698,9 @@ $("play").onclick = () => startGame(false);
 $("randomcats").onclick = () => { G.picked = shuffle(CATEGORIES.map(c => c.slug)).slice(0, 5); renderTitle(); };
 $("clearcats").onclick = () => { G.picked = []; renderTitle(); };
 $("newboard").onclick = () => startGame(true);
+$("finalbtn").onclick = startFinal;
+$("opt-timer").onchange = e => { G.timerOn = e.target.checked; renderTitle(); };
+$("opt-rotate").onchange = e => { G.rotate = e.target.checked; renderTitle(); };
 $("totitle").onclick = toTitle;
 $("fullscreen").onclick = () => {
   try {
@@ -459,6 +710,7 @@ $("fullscreen").onclick = () => {
 };
 document.addEventListener("keydown", e => {
   if (e.target.matches?.("input, textarea")) return;
+  if (G.view === "final" && (e.code === "Space" || e.key === " ")) { e.preventDefault(); toggleFinalAnswer(); return; }
   if (G.view !== "clue") return;
   if (e.code === "Space" || e.key === " ") { e.preventDefault(); toggleAnswer(); }
   else if (e.key === "Escape") { e.preventDefault(); closeClue(); }
