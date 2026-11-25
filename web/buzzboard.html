@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Buzzboard</title>
 <script>window.BUZZ_DATA = "../data/buzzboard/";</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/5.10.1/mqtt.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
 <body>
 <style>
@@ -158,6 +160,9 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
 .bet .judge .w.on { background: var(--red); border-color: var(--red); color: #fff; }
 .final .q { margin: 0; text-align: center; font-family: var(--clue); font-size: clamp(1.4rem, 3.6vw, 2.8rem); line-height: 1.2; text-wrap: balance; }
 .final .a { text-align: center; font-size: clamp(1.2rem, 3vw, 2.2rem); font-weight: 800; color: var(--green); min-height: 1.3em; }
+.modebtn2 { min-width: 230px; }
+#joinphone { margin-top: 2px; }
+.bet .fans { color: var(--ink); font-style: italic; margin-top: 2px; }
 .dd-splash { margin: 0; text-align: center; font-size: clamp(2.6rem, 9vw, 6rem); font-weight: 900; letter-spacing: .04em; color: var(--gold); line-height: 1; animation: ddpop .5s ease-out; }
 @keyframes ddpop { from { transform: scale(.6); opacity: 0; } to { transform: none; opacity: 1; } }
 @media (prefers-reduced-motion: reduce) { .dd-splash { animation: none; } }
@@ -187,7 +192,13 @@ kbd { font: 700 .8rem var(--ui); border: 1px solid var(--line); border-bottom-wi
     <h1 class="bigtitle">BUZZ<span>BOARD</span></h1>
     <p class="tagline">Pick your teams and five categories. Every board gets new questions.</p>
 
-    <div class="step">
+    <div class="step" id="modestep" hidden>
+      <h2>How do you want to play?</h2>
+      <div id="modepick" class="optrow"></div>
+      <button type="button" class="keybtn" id="joinphone">Join a game on this phone</button>
+    </div>
+
+    <div class="step" id="teamstep">
       <h2>How many teams?</h2>
       <div id="teampick"></div>
       <div class="names" id="names"></div>
@@ -242,6 +253,8 @@ let CATEGORIES = [];          // loaded from data/index.json: {slug, name, group
 const VALUES = [200, 400, 600, 800, 1000];
 const DATA_DIR = window.BUZZ_DATA || "data/";   // the Animal Guesser repo serves the questions from ../data/buzzboard/
 const $ = id => document.getElementById(id);
+// Competitive mode (phones as buzzers) lives in live.js, which only the GitHub copy loads.
+const isLive = () => !!(window.LIVE && window.LIVE.hosting());
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
@@ -263,6 +276,8 @@ let G = {
   rotate: true, picker: 0,    // whose turn it is to pick a square
   final: null,                // {c, clue, phase: "bet"|"clue"|"over", bets, judged, base, shown, deadline}
   doubles: [],                // two hidden "col-row" keys where the picking team bets
+  mode: "local",              // "local" = one screen; "live" = phones buzz in (live.js)
+  live: null,                 // competitive-mode room: {code, seq, q}
   dd: null,                   // Double Down being set up: {c, r, team, bet}
 };
 const TIMER_CHOICES = [5, 10, 15, 20, 30, 45, 60];
@@ -369,8 +384,23 @@ function renderTitle() {
     b.onclick = () => { G.timerSecs = n; renderTitle(); };
     secs.append(b);
   }
+  const liveOK = !!(window.LIVE && window.LIVE.available());
+  if (!liveOK) G.mode = "local";
+  $("modestep").hidden = !liveOK;
+  $("teamstep").hidden = G.mode === "live";
+  const mp = $("modepick");
+  mp.textContent = "";
+  [["local", "One screen", "Teams share this screen; you give out the points"], ["live", "Competitive", "Everyone buzzes in on their own phone"]].forEach(([m, label, sub]) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "catbtn modebtn2" + (G.mode === m ? " on" : "");
+    b.setAttribute("aria-pressed", G.mode === m);
+    b.innerHTML = `<span class="badge">${G.mode === m ? "✓" : ""}</span><span></span>`;
+    b.lastChild.append(label, Object.assign(document.createElement("small"), { textContent: sub }));
+    b.onclick = () => { G.mode = m; renderTitle(); };
+    mp.append(b);
+  });
   $("play").disabled = G.picked.length !== 5;
-  $("play").textContent = G.picked.length === 5 ? "Play" : `Pick ${5 - G.picked.length} more`;
+  $("play").textContent = G.picked.length !== 5 ? `Pick ${5 - G.picked.length} more` : G.mode === "live" ? "Open the room" : "Play";
   save();
 }
 
@@ -405,7 +435,8 @@ function showPlay() {
 function renderAll() {
   if (G.view === "title") { $("title").hidden = false; $("play-view").hidden = true; $("teambar").hidden = true; renderTitle(); return; }
   showPlay();
-  if (G.view === "dd" && G.dd) renderDD();
+  if (G.view === "lobby" && isLive()) window.LIVE.renderLobby();
+  else if (G.view === "dd" && G.dd) renderDD();
   else if (G.view === "clue" && G.open) renderClue();
   else if (G.view === "final" && G.final) renderFinal();
   else if (G.view === "done") renderDone();
@@ -456,12 +487,14 @@ function openClue(c, r) {
     renderDD(); beepUp();
     return;
   }
-  G.open = { c, r, shown: false, deadline: G.timerOn ? Date.now() + G.timerSecs * 1000 : 0, stopped: false };
+  // in competitive mode live.js runs its own buzz-in and answer clocks
+  G.open = { c, r, shown: false, deadline: G.timerOn && !isLive() ? Date.now() + G.timerSecs * 1000 : 0, stopped: false };
   G.lastValue = VALUES[r]; G.lastKey = `${c}-${r}`;
   G.used[G.lastKey] = true;
   const clue = G.board[c].clues[r];
   markSeen(G.board[c].slug, clue.id);
   G.view = "clue";
+  if (isLive()) window.LIVE.clueOpened();
   renderClue(); renderTeams();
 }
 function renderClue() {
@@ -473,6 +506,7 @@ function renderClue() {
       ${G.open.deadline ? `<div class="timer" id="timer"><div class="tbar"><div></div></div><span class="tnum"></span></div>` : ""}
       <p class="q"></p>
       <div class="a" aria-live="polite"></div>
+      <div id="livepanel"></div>
       <div class="keys">
         <button class="keybtn" type="button" id="reveal"><kbd>Space</kbd>${shown ? "Hide answer" : "Show answer"}</button>
         <button class="keybtn" type="button" id="back"><kbd>Esc</kbd>Back to board</button>
@@ -486,21 +520,25 @@ function renderClue() {
   $("back").onclick = closeClue;
   $("left").textContent = "Space shows the answer · Esc goes back";
   runTimer(G.open, G.timerSecs);
+  if (isLive()) window.LIVE.renderPanel($("livepanel"));
   save();
 }
 function toggleAnswer() {
   if (G.view !== "clue") return;
   G.open.shown = !G.open.shown;
   G.open.stopped = true;                      // showing the answer stops the clock
+  if (isLive()) window.LIVE.answerShown();
   renderClue();
 }
 function closeClue() {
   if (G.view !== "clue") return;
   G.open = null;
-  if (pickerOn()) G.picker = (G.picker + 1) % G.teams.length;
+  if (isLive()) window.LIVE.clueClosed();
+  else if (pickerOn()) G.picker = (G.picker + 1) % G.teams.length;
   renderBoard();
 }
-const pickerOn = () => G.rotate && G.teams.length > 1;
+// One screen: optional turn-taking. Competitive: whoever last answered right picks (like the show).
+const pickerOn = () => isLive() ? G.teams.length > 0 : G.rotate && G.teams.length > 1;
 
 /* ------------------------------------------------------------------ timer */
 let timerTick = 0, audio = null;
@@ -551,6 +589,18 @@ function beepUp() {
     });
   } catch (e) {}
 }
+function ddGo() {
+  const D = G.dd;
+  if (!D) return;
+  const amount = D.bet == null ? 0 : D.bet;
+  const clue = G.board[D.c].clues[D.r];
+  markSeen(G.board[D.c].slug, clue.id);
+  G.open = { c: D.c, r: D.r, shown: false, deadline: G.timerOn && !isLive() ? Date.now() + G.timerSecs * 1000 : 0, stopped: false,
+             dd: { team: D.team, bet: amount } };
+  G.lastValue = amount; G.dd = null; G.view = "clue";
+  if (isLive()) window.LIVE.clueOpened();
+  renderClue(); renderTeams();
+}
 function renderDD() {
   G.view = "dd";
   const D = G.dd, col = G.board[D.c], stage = $("stage");
@@ -577,7 +627,7 @@ function renderDD() {
     box.append(teams);
   }
   const t = G.teams[D.team], max = ddMax(D.team);
-  note.textContent = `Only ${t.name} answers this one. Bet anything from 0 to ${max.toLocaleString()} (your score, or 1,000 if that's more).`;
+  note.textContent = `Only ${t.name} answers this one. Bet anything from 0 to ${max.toLocaleString()} (your score, or 1,000 if that's more).` + (isLive() ? ` ${t.name} can type the bet on their phone.` : "");
   const bet = document.createElement("div");
   bet.className = "ddbet";
   const lab = document.createElement("label");
@@ -591,15 +641,7 @@ function renderDD() {
   bet.append(lab, inp);
   const go = document.createElement("button");
   go.type = "button"; go.className = "btn go keybtn"; go.textContent = "Show the question";
-  go.onclick = () => {
-    const amount = D.bet == null ? 0 : D.bet;
-    const clue = G.board[D.c].clues[D.r];
-    markSeen(G.board[D.c].slug, clue.id);
-    G.open = { c: D.c, r: D.r, shown: false, deadline: G.timerOn ? Date.now() + G.timerSecs * 1000 : 0, stopped: false,
-               dd: { team: D.team, bet: amount } };
-    G.lastValue = amount; G.dd = null; G.view = "clue";
-    renderClue(); renderTeams();
-  };
+  go.onclick = ddGo;
   box.append(bet, go);
   stage.append(box);
   $("left").textContent = "Double Down: pick the bet, then show the question";
@@ -647,7 +689,7 @@ function renderFinal() {
       const card = document.createElement("div"); card.className = "bet";
       const lab = document.createElement("label"); lab.htmlFor = `bet-${i}`;
       lab.textContent = t.name;
-      const sm = document.createElement("small"); sm.textContent = `Score ${F.base[i].toLocaleString()} · bet 0 to ${maxBet(i).toLocaleString()}`;
+      const sm = document.createElement("small"); sm.textContent = `Score ${F.base[i].toLocaleString()} · bet 0 to ${maxBet(i).toLocaleString()}` + (F.betIn && F.betIn[i] ? " · ✓ bet sent from phone" : "");
       lab.append(sm);
       const inp = document.createElement("input");
       inp.type = "number"; inp.id = `bet-${i}`; inp.min = 0; inp.max = maxBet(i); inp.step = 100; inp.inputMode = "numeric";
@@ -660,7 +702,7 @@ function renderFinal() {
     });
     const go = document.createElement("button");
     go.type = "button"; go.className = "btn go keybtn"; go.textContent = "Show the question";
-    go.onclick = () => { F.phase = "clue"; F.deadline = G.timerOn ? Date.now() + FINAL_SECS * 1000 : 0; renderFinal(); };
+    go.onclick = () => { F.phase = "clue"; F.deadline = G.timerOn ? Date.now() + FINAL_SECS * 1000 : 0; if (isLive()) F.answers = G.teams.map(() => null); renderFinal(); };
     box.append(bets, go);
     stage.append(box);
     $("left").textContent = "Final round: type in the bets";
@@ -687,6 +729,12 @@ function renderFinal() {
       lab.textContent = t.name;
       const sm = document.createElement("small"); sm.textContent = `Bet ${F.bets[i].toLocaleString()}`;
       lab.append(sm);
+      if (F.answers) {
+        const ans = document.createElement("small");
+        ans.className = "fans";
+        ans.textContent = F.answers[i] != null ? (F.shown ? `“${F.answers[i] || "(blank)"}”` : "✓ answer in") : "no answer yet";
+        lab.append(ans);
+      }
       const judge = document.createElement("div"); judge.className = "judge";
       const r = document.createElement("button"), w = document.createElement("button");
       r.type = w.type = "button"; r.className = "r" + (F.judged[i] === true ? " on" : ""); w.className = "w" + (F.judged[i] === false ? " on" : "");
@@ -789,9 +837,10 @@ function renderTeams() {
 }
 
 /* ------------------------------------------------------------------ wiring */
-function toTitle() { G.view = "title"; G.open = null; renderAll(); }
-function save() { store.set("buzzboard-game", G); }
-$("play").onclick = () => startGame(false);
+function toTitle() { if (isLive()) window.LIVE.closeRoom(); G.view = "title"; G.open = null; renderAll(); }
+function save() { store.set("buzzboard-game", G); if (isLive()) window.LIVE.sync(); }
+$("play").onclick = () => (G.mode === "live" && window.LIVE ? window.LIVE.openRoom() : startGame(false));
+$("joinphone").onclick = () => window.LIVE && window.LIVE.phoneEntry("");
 $("randomcats").onclick = () => { G.picked = shuffle(CATEGORIES.map(c => c.slug)).slice(0, 5); renderTitle(); };
 $("clearcats").onclick = () => { G.picked = []; renderTitle(); };
 $("newboard").onclick = () => startGame(true);
@@ -809,6 +858,7 @@ document.addEventListener("keydown", e => {
   if (e.target.matches?.("input, textarea")) return;
   if (G.view === "final" && (e.code === "Space" || e.key === " ")) { e.preventDefault(); toggleFinalAnswer(); return; }
   if (G.view !== "clue") return;
+  if (isLive() && /^[rw]$/i.test(e.key)) { e.preventDefault(); window.LIVE.judge(e.key.toLowerCase() === "r"); return; }
   if (e.code === "Space" || e.key === " ") { e.preventDefault(); toggleAnswer(); }
   else if (e.key === "Escape") { e.preventDefault(); closeClue(); }
 });
@@ -824,19 +874,26 @@ async function loadIndex() {
   return true;
 }
 async function start(hot) {
+  if (window.LIVE && window.LIVE.available() && /^#[A-Z]{4}$/i.test(location.hash)) { window.LIVE.phoneEntry(location.hash.slice(1).toUpperCase()); return; }
   const ok = await loadIndex();
   const saved = (hot && hot.G) || store.get("buzzboard-game", null);
   if (saved && saved.teams && Array.isArray(saved.picked)) G = Object.assign(G, saved);
   G.picked = G.picked.filter(s => CATEGORIES.some(c => c.slug === s));
   if (!ok) return;
+  if (G.mode === "live" && G.live && window.LIVE && window.LIVE.available()) window.LIVE.resume();
+  else if (G.mode === "live") { G.mode = "local"; G.live = null; G.view = "title"; }
+  if (G.view === "lobby" && isLive()) { renderAll(); return; }
   if (G.view !== "title" && G.board) {
     try { await Promise.all(G.picked.map(loadCategory)); } catch (e) {}
   } else G.view = "title";
   renderAll();
 }
 window.claude?.hot?.snapshot?.(() => ({ G }));
-window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {});
+// wait for the whole page (live.js comes after this script on the GitHub copy)
+const boot = () => (window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {}));
+document.readyState === "loading" ? document.addEventListener("DOMContentLoaded", boot) : boot();
 </script>
+<script src="buzzboard-live.js"></script>
 <style>
 #games { position: absolute; top: 14px; right: 14px; z-index: 30; display: flex; gap: 2px; padding: 4px; border-radius: 22px; background: var(--panel); border: 1px solid var(--line); }
 #games a { height: 34px; padding: 0 13px; border-radius: 17px; display: flex; align-items: center; text-decoration: none; color: var(--dim); font-size: 13.5px; font-weight: 600; letter-spacing: .3px; }

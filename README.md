@@ -40,6 +40,32 @@ switcher at the top right (Animals · Things · Buzzboard) moves between all thr
 - **No repeats:** clues already shown are remembered in the browser and skipped
   until a category runs out; one answer never appears twice on the same board.
 
+### Competitive mode (phones as buzzers)
+
+Pick **Competitive** on the title screen and **Open the room**. The big screen
+becomes the master: it shows a 4-letter room code, a QR code and the join link,
+then the board, each clue, who buzzed in, and ✓/✗ marks.
+
+- **Phones** join with the code (or by scanning the QR). The player whose turn it
+  is picks a square on a mini board on their phone; when the clue comes up every
+  phone turns into a big **BUZZ** button.
+- **Buzzing:** buzzers stay open for the timer (default 10 s). Each phone times
+  its own reaction from the moment it saw the buzzers open, and the master waits
+  0.3 s after the first buzz arrives and takes the fastest reaction, so a slow
+  connection doesn't cost anyone the buzz. The winner has 5 s to answer out loud.
+- **Judging:** the host taps **Right** (R) or **Wrong** (W) on the big screen.
+  Right adds the points and gives that player the next pick (like the show);
+  wrong takes them away, locks that player out and reopens the buzzers for the
+  others with the time that was left.
+- **Double Down:** the player who found it types the bet on their phone.
+- **Final round:** everyone types a bet, then an answer, on their phone; the big
+  screen shows each written answer for the host to mark.
+
+Phones and the big screen talk through a free public MQTT relay
+(broker.emqx.io, falling back to broker.hivemq.com) over a secure web
+connection, the same way Gecko does, so the site stays plain static files.
+The code is in `web/buzzboard-live.js`.
+
 | Questions | Where they come from |
 |---|---|
 | 11 original categories (Countries & Territories, US History, World History, Literature, Authors, Animals, Myths, Movies, Actors, Birds: 100 each; Word Meanings: 1,200) | Adapted from English Wikipedia leads (CC BY-SA 4.0) and Wikidata (CC0); word meanings from WordNet, tiered by word frequency |
