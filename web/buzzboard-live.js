@@ -5,7 +5,7 @@
 (function () {
   const BROKERS = ["wss://broker.emqx.io:8084/mqtt", "wss://broker.hivemq.com:8884/mqtt"];
   const TOPIC_ROOT = "buzzboard-q8w3/v1/";
-  const VERSION = "2026-11-25a";
+  const VERSION = "2026-11-26a";
   // ~300 common, family-friendly English words (no names, nothing rude or scary)
   const CODE_WORDS = [
     "ABLE", "ACRE", "AIRY", "ALOE", "APEX", "ARCH", "AXLE", "BAKE", "BALL", "BAND", "BARK", "BARN", "BATH", "BEAD", "BEAK", "BEAM", "BEAN", "BEAR", "BELL", "BELT",
@@ -73,10 +73,12 @@
   let client = null, status = "", tick = 0, beatTimer = 0, syncQueued = false, gatherTimer = 0;
   const seen = {};              // player id → last message time
   const joinLink = code => location.origin + location.pathname + "#" + code;
+  const hostLink = () => joinLink(G.live.code) + "/" + G.live.hkey;   // the host's phone: sees the answers, judges
+  let hostSeen = 0;
   const teamIdx = id => G.teams.findIndex(t => t.id === id);
   const Q = () => G.live && G.live.q;
 
-  function hosting() { return G.mode === "live" && !!G.live && role !== "phone"; }
+  function hosting() { return G.mode === "live" && !!G.live && !role; }
   const hid = rid();            // this big screen, so it can tell its own room announcements from another's
   const pickWord = () => CODE_WORDS[Math.floor(Math.random() * CODE_WORDS.length)];
   // Announce the room (kept by the relay) so a new room never reuses a code that's in use.
@@ -119,13 +121,13 @@
 
   function openRoom() {
     G.mode = "live";
-    G.live = { code: null, seq: 0, q: null };        // the code is picked once the relay answers
+    G.live = { code: null, seq: 0, q: null, hkey: rid() };   // the code is picked once the relay answers; hkey opens the host phone
     G.teams = []; G.picker = 0; G.board = null; G.open = null; G.final = null; G.dd = null;
     G.view = "lobby";
     connectMaster();
     renderAll();
   }
-  function resume() { if (G.live) { connectMaster(); if (G.view === "clue" && G.live.q) startTick(); } }
+  function resume() { if (G.live) { if (!G.live.hkey) G.live.hkey = rid(); connectMaster(); if (G.view === "clue" && G.live.q) startTick(); } }
   function closeRoom() {
     clearInterval(beatTimer); clearInterval(tick);
     const old = client;
@@ -139,6 +141,7 @@
     } else if (old) old.end();
     client = null;
     G.mode = "live"; G.live = null;
+    if ($("hostbtn")) $("hostbtn").hidden = true;
   }
 
   function renderLobby() {
@@ -168,6 +171,9 @@
     box.append(list);
     const st = el("p", "note"); st.id = "lobbystatus";
     box.append(st);
+    const hb = el("button", "keybtn", "Host phone: see the answers privately and judge from your phone"); hb.type = "button";
+    hb.onclick = showHostLink;
+    box.append(hb);
     const go = el("button", "btn go keybtn", "Start the game"); go.type = "button"; go.id = "lobbygo";
     go.onclick = startLive;
     box.append(go);
@@ -209,6 +215,7 @@
   // ---- messages from phones
   function send(id, msg) { if (client && G.live.code) client.publish(topic(G.live.code, "down/" + id), JSON.stringify({ ...msg, v: VERSION }), { qos: 1 }); }
   function receive(msg) {
+    if (G.live.hkey && msg.from === "judge-" + G.live.hkey) { hostSeen = Date.now(); hostCmd(msg); return; }
     const id = msg.from;
     seen[id] = Date.now();
     if (msg.t === "join") {
@@ -245,6 +252,62 @@
       G.final.answers[i] = String(msg.text || "").slice(0, 80);
       renderFinal();
     }
+  }
+
+  // ---- the host's phone
+  function hostCmd(msg) {
+    const F = G.final;
+    if (msg.t === "hj" && G.view === "clue") judge(!!msg.right);
+    else if (msg.t === "hshow") {
+      if (G.view === "clue" && G.open && !G.open.shown) toggleAnswer();
+      else if (G.view === "final" && F && F.phase === "clue" && !F.shown) toggleFinalAnswer();
+    } else if (msg.t === "hback" && G.view === "clue") closeClue();
+    else if (msg.t === "hfj" && G.view === "final" && F && F.phase === "clue" && G.teams[msg.i] && F.judged[msg.i] !== !!msg.right) judgeFinal(msg.i, !!msg.right);
+    else if (msg.t === "hfdone" && G.view === "final" && F && F.phase === "clue" && F.judged.every(j => j !== null)) { F.phase = "over"; renderDone(); }
+    sync(true);
+  }
+  // what the host's phone sees: everything the players see, plus the question, the answer and the final-round answers
+  function hostState() {
+    const s = publicState(), F = G.final;
+    s.hostOnline = true;
+    if (G.view === "clue" && G.open && G.board) {
+      const c = openClueObj();
+      s.clue = { q: c.q, a: c.a, kind: c.media ? c.media.type : "text" };
+      if (G.live.q) s.q.revealed = !!G.live.q.revealed;
+    }
+    if (G.view === "final" && F) {
+      s.final.q = F.clue.q; s.final.a = F.clue.a;
+      s.final.answers = G.teams.map((t, i) => ({ i, name: t.name, bet: F.bets[i], text: F.answers ? F.answers[i] : null, judged: F.judged[i] }));
+    }
+    return s;
+  }
+  function hostButton() {
+    let b = $("hostbtn");
+    if (!b) {
+      b = el("button", "tb", "Host phone"); b.type = "button"; b.id = "hostbtn";
+      b.title = "See the answers privately on your phone and judge from there";
+      b.onclick = showHostLink;
+      $("finalbtn").before(b);
+    }
+    b.hidden = !hosting() || !G.live.code;
+    b.classList.toggle("on", Date.now() - hostSeen < ONLINE_MS);
+    b.textContent = Date.now() - hostSeen < ONLINE_MS ? "Host phone ✓" : "Host phone";
+  }
+  function showHostLink() {
+    if (!hosting() || !G.live.code) return;
+    const back = el("div", "hostmodal");
+    const card = el("div", "hostcard");
+    card.append(el("h3", "", "Host phone"),
+      el("p", "note", "Scan this on your own phone to see each question's answer and mark players right or wrong. Don't let the players scan it — it shows the answers."));
+    const qr = el("div", "qr"); card.append(qr, el("p", "joinurl", hostLink()));
+    const close = el("button", "btn go keybtn", "Done"); close.type = "button";
+    const shut = () => { back.remove(); document.removeEventListener("keydown", onKey, true); };
+    const onKey = e => { if (e.key === "Escape") { e.stopPropagation(); e.preventDefault(); shut(); } };
+    close.onclick = shut; back.onclick = e => { if (e.target === back) shut(); };
+    document.addEventListener("keydown", onKey, true);
+    card.append(close); back.append(card); document.body.append(back);
+    if (window.QRCode) { try { new QRCode(qr, { text: hostLink(), width: 200, height: 200, colorDark: "#11151c", colorLight: "#ffffff" }); } catch (e) {} } else qr.hidden = true;
+    close.focus();
   }
 
   // ---- a clue on the master
@@ -310,7 +373,7 @@
       q.locked.push(i);
       const stillIn = G.teams.some((t, k) => !q.locked.includes(k) && online(t.id));
       const timeLeft = !G.timerOn || q.remaining > 400;
-      if (!G.open.dd && stillIn && timeLeft) {
+      if (!G.open.dd && stillIn && timeLeft && !q.revealed) {   // once the answer has been on screen, no more buzzing
         G.live.seq += 1; q.seq = G.live.seq;                 // new round of buzzing; old presses don't count
         q.state = "open"; q.pending = [];
         q.deadline = G.timerOn ? Date.now() + q.remaining : 0;
@@ -320,7 +383,10 @@
   }
   function answerShown() {
     const q = Q();
-    if (q && q.state !== "done") { q.state = "done"; q.answering = null; }
+    if (!q || q.state === "done") return;
+    // someone is answering: show it so the host can check, and keep Right / Wrong
+    if (q.state === "answering") { if (G.open.shown) q.revealed = true; return; }
+    q.state = "done"; q.answering = null;
   }
   function clueClosed() { if (G.live) G.live.q = null; clearInterval(tick); clearTimeout(gatherTimer); gatherTimer = 0; }
 
@@ -343,7 +409,9 @@
       const w = el("button", "jw", "✗ Wrong"); w.type = "button"; w.onclick = () => judge(false);
       r.append(el("kbd", "", "R")); w.append(el("kbd", "", "W"));
       judgeRow.append(r, w);
-      box.append(status, clock, judgeRow);
+      const tip = el("p", "lsmuted judgetip", Date.now() - hostSeen < ONLINE_MS ? "Judge on the host phone, or here."
+        : G.open.shown ? "Answer shown, so a wrong answer ends this question." : "Not sure? Press Space to show the answer first (that ends the buzzing), or open “Host phone” to see answers privately.");
+      box.append(status, clock, judgeRow, tip);
       drawClock();
       return;
     } else {
@@ -412,7 +480,13 @@
   }
   function sync(now) {
     if (!client || !G.live || !G.live.code) return;
-    if (now) { syncQueued = false; client.publish(topic(G.live.code, "all"), JSON.stringify(publicState()), { qos: 0 }); return; }
+    if (now) {
+      syncQueued = false;
+      client.publish(topic(G.live.code, "all"), JSON.stringify(publicState()), { qos: 0 });
+      if (G.live.hkey) client.publish(topic(G.live.code, "judge/" + G.live.hkey), JSON.stringify(hostState()), { qos: 0 });
+      hostButton();
+      return;
+    }
     if (syncQueued) return;
     syncQueued = true;
     setTimeout(() => { if (syncQueued) sync(true); }, 30);
@@ -654,6 +728,107 @@
     }
   }
 
+  /* ================================================================ host phone (answers + judging) */
+  let H = { code: "", key: "", st: null, err: "", last: "" }, hostClient = null, hostPing = 0;
+  function hostEntry(code, key) {
+    role = "host";
+    H.code = code; H.key = key;
+    document.querySelector(".app").hidden = true;
+    let root = $("phone");
+    if (!root) { root = el("div", "phone"); root.id = "phone"; document.body.append(root); }
+    hostClient = connectBroker();
+    const t = topic(code, "judge/" + key);
+    hostClient.on("connect", () => { hostClient.subscribe(t, { qos: 0 }); hostUp({ t: "hhello" }); });
+    hostClient.on("message", (tp, m) => {
+      if (tp !== t) return;
+      const st = parse(m);
+      if (!st) return;
+      if (st.v !== VERSION) { H.err = "The big screen is running a different version. Reload both pages."; renderHost(); return; }
+      H.err = ""; H.at = Date.now();
+      const key = JSON.stringify({ ...st, q: st.q && { ...st.q, left: 0, aleft: 0 }, final: st.final && { ...st.final, left: 0 } });
+      H.st = st;
+      if (key !== H.last) { H.last = key; renderHost(); }
+    });
+    hostClient.on("offline", () => { H.err = "Reconnecting…"; renderHost(); });
+    hostClient.on("down", () => { H.err = "Can't reach the relay server. Check the connection and reload."; renderHost(); });
+    clearInterval(hostPing);
+    hostPing = setInterval(() => { hostUp({ t: "hping" }); if (H.st && Date.now() - H.at > 10000) { H.err = "Lost the big screen. Is it still open?"; renderHost(); } }, 4000);
+    renderHost();
+  }
+  function hostUp(msg) { if (hostClient && hostClient.connected) hostClient.publish(topic(H.code, "up"), JSON.stringify({ ...msg, from: "judge-" + H.key }), { qos: 1 }); }
+  function renderHost() {
+    const root = $("phone");
+    if (!root) return;
+    root.textContent = "";
+    const st = H.st;
+    const head = el("div", "phead");
+    head.append(el("span", "plogo", "BUZZBOARD"), el("span", "pme", `Host · ${H.code}`));
+    root.append(head);
+    const body = el("div", "pbody hostbody");
+    root.append(body);
+    if (H.err) body.append(el("p", "pnote", H.err));
+    if (!st) { body.append(el("p", "pmsg", `Connecting to room ${H.code}…`)); return; }
+    const name = id => { const p = st.players.find(x => x.id === id); return p ? p.name : "?"; };
+    const scores = () => {
+      const list = el("div", "plist");
+      st.players.slice().sort((a, b) => b.score - a.score).forEach(p => list.append(el("div", "prow", `${p.name} — ${p.score.toLocaleString()}`)));
+      return list;
+    };
+    if (st.view === "lobby") { body.append(el("p", "pbig", "You're the host"), el("p", "pmsg", `${st.players.length} player${st.players.length === 1 ? "" : "s"} in. Start the game on the big screen.`)); return; }
+    if (st.view === "board") { body.append(el("p", "pmsg", `${name(st.picker)} is picking a square…`), scores()); return; }
+    if (st.view === "dd" && st.dd) { body.append(el("p", "pbig gold", "Double Down!"), el("p", "pmsg", `${st.dd.name} is placing a bet.`)); return; }
+    if (st.view === "clue" && st.q && st.clue) {
+      const q = st.q, c = st.clue;
+      body.append(el("p", "pcat", `${q.cat} · ${q.dd ? "Double Down " : ""}${q.value.toLocaleString()}`));
+      body.append(el("p", "hq", c.q));
+      if (c.kind !== "text") body.append(el("p", "pnote", `(${c.kind === "image" ? "picture" : c.kind === "audio" ? "sound" : "video"} on the big screen)`));
+      body.append(el("p", "ha", c.a));
+      if (q.state === "answering") {
+        body.append(el("p", "pbig gold", `${q.answeringName} is answering`));
+        const row = el("div", "hjudge");
+        row.append(btn("✓ Right", () => hostUp({ t: "hj", right: true }), "pbtn hr"), btn("✗ Wrong", () => hostUp({ t: "hj", right: false }), "pbtn hw"));
+        body.append(row);
+      } else if (q.state === "open") {
+        body.append(el("p", "pmsg", q.locked.length ? `Buzzers open again · out: ${q.locked.map(name).join(", ")}` : "Buzzers open…"));
+      }
+      if (q.results.length) {
+        const marks = el("div", "marks");
+        q.results.forEach(r => marks.append(el("span", r.right ? "mark ok" : "mark no", `${r.right ? "✓" : "✗"} ${r.name} ${r.right ? "+" : "−"}${r.amount.toLocaleString()}`)));
+        body.append(marks);
+      }
+      const row = el("div", "hjudge");
+      if (!q.shown) row.append(btn(q.state === "answering" ? "Show answer on screen" : "Show answer (ends buzzing)", () => hostUp({ t: "hshow" }), "pbtn ghost"));
+      if (q.state === "done" || q.shown) row.append(btn("Back to board", () => hostUp({ t: "hback" }), "pbtn"));
+      body.append(row);
+      return;
+    }
+    if (st.view === "final" && st.final) {
+      const F = st.final;
+      body.append(el("p", "pcat", `Final round · ${F.cat}`));
+      if (F.phase === "bet") {
+        body.append(el("p", "hq", F.q), el("p", "ha", F.a));
+        body.append(el("p", "pmsg", "Bets in: " + (F.answers.filter(a => F.betIn[st.players[a.i] && st.players[a.i].id]).map(a => a.name).join(", ") || "none yet")));
+        return;
+      }
+      body.append(el("p", "hq", F.q), el("p", "ha", F.a));
+      if (!F.shown) body.append(btn("Show answer on screen", () => hostUp({ t: "hshow" }), "pbtn ghost"));
+      const list = el("div", "plist");
+      F.answers.forEach(a => {
+        const rowEl = el("div", "prow hfin");
+        rowEl.append(el("div", "", `${a.name} · bet ${a.bet.toLocaleString()}`), el("div", "pnote", a.text == null ? "no answer typed" : `“${a.text || "(blank)"}”`));
+        const jr = el("div", "hjudge");
+        const r = btn("Right", () => hostUp({ t: "hfj", i: a.i, right: true }), "pbtn small" + (a.judged === true ? " hr" : " ghost"));
+        const w = btn("Wrong", () => hostUp({ t: "hfj", i: a.i, right: false }), "pbtn small" + (a.judged === false ? " hw" : " ghost"));
+        jr.append(r, w); rowEl.append(jr); list.append(rowEl);
+      });
+      body.append(list);
+      if (F.answers.every(a => a.judged != null)) body.append(btn("Final scores", () => hostUp({ t: "hfdone" })));
+      return;
+    }
+    if (st.view === "done") { body.append(el("p", "pbig", "Game over"), scores()); return; }
+    body.append(el("p", "pmsg", "Watch the big screen."));
+  }
+
   /* ================================================================ styles */
   const css = `
   .lobby { align-items: center; text-align: center; }
@@ -708,6 +883,20 @@
   .plist { width: 100%; display: flex; flex-direction: column; gap: 6px; }
   .prow { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; font-weight: 700; text-align: left; }
   .prow.mine { border-color: var(--gold); }
+  .hostbody { justify-content: flex-start; }
+  .hq { margin: 0; font-family: var(--clue); font-size: 1.25rem; line-height: 1.3; }
+  .ha { margin: 0; font-size: 1.5rem; font-weight: 900; color: var(--green); }
+  .hjudge { display: flex; gap: 10px; width: 100%; }
+  .hjudge .pbtn { flex: 1; }
+  .pbtn.hr { background: var(--green); color: #06101f; } .pbtn.hw { background: var(--red); color: #fff; }
+  .pbtn.small { padding: 8px; font-size: .95rem; }
+  .hfin { display: flex; flex-direction: column; gap: 6px; }
+  .judgetip { margin: 0; text-align: center; font-size: .9rem; }
+  #hostbtn.on { border-color: var(--green); color: var(--green); }
+  .hostmodal { position: fixed; inset: 0; background: rgba(0,0,0,.6); display: flex; align-items: center; justify-content: center; z-index: 50; padding: 16px; }
+  .hostcard { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 22px; max-width: 420px; display: flex; flex-direction: column; gap: 12px; align-items: center; text-align: center; }
+  .hostcard h3 { margin: 0; }
+  .hostcard .note { margin: 0; color: var(--dim); }
   `;
   document.head.append(Object.assign(document.createElement("style"), { textContent: css }));
 
@@ -715,7 +904,7 @@
     available: () => !!window.mqtt,
     hosting, openRoom, resume, closeRoom, renderLobby, sync,
     clueOpened, clueClosed, renderPanel, judge, answerShown,
-    phoneEntry,
+    phoneEntry, hostEntry,
     isTaken: (code, cb) => (client ? isTaken(code, cb) : cb(false)),   // used by the tests
   };
 })();

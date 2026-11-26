@@ -1002,6 +1002,8 @@ async function loadIndex() {
 }
 async function start(hot) {
   if (window.LIVE && window.LIVE.available() && /^#[A-Z]{4}$/i.test(location.hash)) { window.LIVE.phoneEntry(location.hash.slice(1).toUpperCase()); return; }
+  const hostHash = /^#([A-Z]{4})\/([a-z0-9]{6,})$/i.exec(location.hash);
+  if (window.LIVE && window.LIVE.available() && hostHash) { window.LIVE.hostEntry(hostHash[1].toUpperCase(), hostHash[2]); return; }
   const ok = await loadIndex();
   const saved = (hot && hot.G) || store.get("buzzboard-game", null);
   if (saved && saved.teams && Array.isArray(saved.picked)) G = Object.assign(G, saved);

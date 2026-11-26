@@ -64,6 +64,13 @@ then the board, each clue, who buzzed in, and ✓/✗ marks.
   Right adds the points and gives that player the next pick (like the show);
   wrong takes them away, locks that player out and reopens the buzzers for the
   others with the time that was left.
+- **Seeing the answer:** tap **Host phone** (in the lobby or the top bar) and
+  scan its QR with the host's own phone. That phone shows every question with
+  its answer and has Right / Wrong, Show answer, Back to board, and final-round
+  judging, so the answer stays off the big screen while others can still buzz.
+  Without a host phone, pressing Space while someone is answering shows the
+  answer on the big screen and keeps Right / Wrong; a wrong answer then ends the
+  question instead of reopening the buzzers.
 - **Double Down:** the player who found it types the bet on their phone.
 - **Final round:** everyone types a bet, then an answer, on their phone; the big
   screen shows each written answer for the host to mark.
